@@ -2,6 +2,7 @@ import hvplot.pandas
 import numpy as np
 import pandas as pd
 import panel as pn
+import simple_search_func as ss
 
 # Set global variables
 PRIMARY_COLOR = "#0072B5"
