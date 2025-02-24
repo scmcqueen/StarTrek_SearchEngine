@@ -44,17 +44,17 @@ def search(search_engine:ss.search_engine,query:str,num_results:int=30)->list:
 
 def pretty_print(event):
     global search_results
-    output =  ''
+    output =  '# Results\n'
     for x in search_results:
-        output+=x[0]
+        output+='"'+re.sub(r'\s+', ' ', x[0]).strip()+'"'
         output+='\n'
         output+='**'
-        output+=x[1]
+        output+='"'+re.sub(r'\s+', ' ', x[1]).strip()+'"'
         output+='**'
         output+='\n'
-        output+=x[2]
+        output+='"'+re.sub(r'\s+', ' ', x[2]).strip()+'"'
         output+='\n\n'
-    output = re.sub(r'\s+', ' ', output)
+    # output = re.sub(r'\s+', ' ', output)
     return(pn.pane.Markdown(output))
 
 
@@ -70,5 +70,5 @@ pn.template.MaterialTemplate(
     site="SI 699 Final Project",
     title="Star Trek Search Engine",
     sidebar=[text_input,search_button],
-    main=['good bue',pn.bind(pretty_print,event=search_button)],
+    main=[pn.bind(pretty_print,event=search_button)],
 ).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
