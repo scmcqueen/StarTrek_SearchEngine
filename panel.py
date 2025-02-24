@@ -4,6 +4,7 @@ import pandas as pd
 import panel as pn
 import simple_search_func as ss
 
+
 # Set global variables
 PRIMARY_COLOR = "#0072B5"
 SECONDARY_COLOR = "#B54300"
@@ -11,15 +12,16 @@ CSV_FILE = (
     "https://raw.githubusercontent.com/holoviz/panel/main/examples/assets/occupancy.csv"
 )
 
+# panel extension
 pn.extension(design="material", sizing_mode="stretch_width")
 
-@pn.cache
-def get_data():
-    return pd.read_csv(CSV_FILE, parse_dates=["date"], index_col="date")
+# @pn.cache # IDK what this does
+# def get_data():
+#     return pd.read_csv(CSV_FILE, parse_dates=["date"], index_col="date")
 
-data = get_data()
+# data = get_data()
 
-data.tail()
+# data.tail()
 
 # Functions
 
