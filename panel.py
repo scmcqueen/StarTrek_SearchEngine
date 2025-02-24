@@ -72,3 +72,5 @@ pn.template.MaterialTemplate(
     sidebar=[text_input,search_button],
     main=[pn.bind(pretty_print,event=search_button)],
 ).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
+
+# should add character names to results
