@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import panel as pn
 import simple_search_func as ss
+import re
 
 
 # Set global variables
@@ -31,18 +32,43 @@ test_engine = ss.search_engine()
 test_engine.bulk_load(complete[['quote']].to_dict()['quote'])
 
 # functions
-def search(search_engine:ss.search_engine,query:str,num_results:int=20)->list:
+search_results = []
+def search(search_engine:ss.search_engine,query:str,num_results:int=30)->list:
+    global search_results
     '''Completes a search of a term on an engine'''
     results=search_engine.bw_search(query,num_results)
-    return(search_engine.pretty_print(results))
+    search_results = search_engine.pretty_print([x[0] for x in results])
+    pn.main = [search_results] # tried this
+    print('success')
+    return(search_engine.pretty_print([x[0] for x in results]))
+
+def pretty_print(event):
+    global search_results
+    output =  ''
+    for x in search_results:
+        output+=x[0]
+        output+='\n'
+        output+='**'
+        output+=x[1]
+        output+='**'
+        output+='\n'
+        output+=x[2]
+        output+='\n\n'
+    output = re.sub(r'\s+', ' ', output)
+    return(pn.pane.Markdown(output))
+
+
 
 # Set Widget
-text_input = pn.widgets.TextInput(name='Text Input', placeholder='Enter a string here...')
+text_input = pn.widgets.TextInput(name='Text Input', placeholder='candle')
+search_button = pn.widgets.Button(name='Search')
+# bind
+search_button.on_click(lambda event: search(test_engine,text_input.value)) # lambda x
 
 # Serve
 pn.template.MaterialTemplate(
     site="SI 699 Final Project",
     title="Star Trek Search Engine",
-    sidebar=['hellow', text_input],
-    main=['good bue'],
+    sidebar=[text_input,search_button],
+    main=['good bue',pn.bind(pretty_print,event=search_button)],
 ).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
