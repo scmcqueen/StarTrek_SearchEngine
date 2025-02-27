@@ -26,7 +26,7 @@ pn.extension(design="material", sizing_mode="stretch_width")
 
 # LOAD EVERYTHING
 complete = pd.read_csv('../StarTrekNextGenScriptData/complete_data.csv')
-complete.columns = ['index', 'character', 'quote', 'scene', 'location', 'view',
+complete.columns = ['index','character', 'quote', 'scene', 'location', 'view',
        'episode', 'date', 'series', 'file']
 test_engine = ss.search_engine()
 test_engine.bulk_load(complete[['quote']].to_dict()['quote'])
