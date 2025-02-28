@@ -4,7 +4,7 @@ import pandas as pd
 import panel as pn
 import simple_search_func as ss
 import re
-
+import csv
 
 # Set global variables
 PRIMARY_COLOR = "#0072B5"
@@ -31,6 +31,10 @@ complete.columns = ['index','character', 'quote', 'scene', 'location', 'view',
 test_engine = ss.search_engine()
 test_engine.bulk_load(complete[['quote']].to_dict()['quote'])
 
+# globals
+ranking = []
+craines = pn.widgets.Button(name='Craines')
+
 # functions
 search_results = []
 def search(search_engine:ss.search_engine,query:str,num_results:int=30)->list:
@@ -43,8 +47,12 @@ def search(search_engine:ss.search_engine,query:str,num_results:int=30)->list:
     return(search_engine.pretty_print([x[0] for x in results]))
 
 def pretty_print(event):
-    global search_results
-    output =  '# Results\n'
+    global search_results, ranking, craines
+    temp_open = pn.pane.Markdown('# Results\n')
+    column = pn.Column(temp_open)
+    output =  ''
+    counter = 0
+    ranking = []
     for x in search_results:
         output+='"'+re.sub(r'\s+', ' ', x[0]).strip()+'"'
         output+='\n'
@@ -53,17 +61,36 @@ def pretty_print(event):
         output+='**'
         output+='\n'
         output+='"'+re.sub(r'\s+', ' ', x[2]).strip()+'"'
-        output+='\n\n'
+        column.append(pn.pane.Markdown(output))
+        output=''
+        # temp = pn.widgets.TextInput(name=f'Ranking {str(counter)}', placeholder='candle')
+        radio = pn.widgets.RadioButtonGroup(name=f'Ranking {str(counter)}', options=['1','2','3','4','5','6','7','8','9','10','NA'], button_type='success')
+        ranking.append(radio)
+        column.append(radio)
+        counter +=1
     # output = re.sub(r'\s+', ' ', output)
-    return(pn.pane.Markdown(output))
+    column.append(craines)
+    return(column)
 
+def save_ranking(search_results:str):
+    length = len(search_results)
+    ranking_output  = {}
+    for x in range(length):
+        ranking_output[search_results[x][1]]=ranking[x].value
+    with open(f"rankings_{text_input.value}.csv", "w", newline="") as f:
+        w = csv.DictWriter(f, ranking_output.keys())
+        w.writeheader()
+        w.writerow(ranking_output)
+    print('success save')
+    return None
 
 
 # Set Widget
-text_input = pn.widgets.TextInput(name='Text Input', placeholder='candle')
+text_input = pn.widgets.TextInput(name='Search Term', placeholder='candle')
 search_button = pn.widgets.Button(name='Search')
 # bind
 search_button.on_click(lambda event: search(test_engine,text_input.value)) # lambda x
+craines.on_click(lambda event: save_ranking(search_results))
 
 # Serve
 pn.template.MaterialTemplate(
