@@ -65,7 +65,8 @@ def pretty_print(event):
         column.append(pn.pane.Markdown(output))
         output=''
         # temp = pn.widgets.TextInput(name=f'Ranking {str(counter)}', placeholder='candle')
-        radio = pn.widgets.RadioButtonGroup(name=f'Ranking {str(counter)}', options=['1','2','3','4','5','6','7','8','9','10','NA'], button_type='success')
+        radio = pn.widgets.RadioButtonGroup(name=f'Ranking {str(counter)}', 
+                                            options=['Relevant','No'], button_type='success')
         ranking.append(radio)
         column.append(radio)
         counter +=1
@@ -79,7 +80,7 @@ def save_ranking(search_results:str):
     for x in range(length):
         #ranking_output[search_results[x][1]]=ranking[x].value
         ranking_output[results[x]]=ranking[x].value
-    with open(f"rankings_{text_input.value}_{name_input.value}.csv", "w", newline="") as f:
+    with open(f"Evaluation/rankings_{text_input.value}_{name_input.value}.csv", "w", newline="") as f:
         w = csv.DictWriter(f, ranking_output.keys())
         w.writeheader()
         w.writerow(ranking_output)
