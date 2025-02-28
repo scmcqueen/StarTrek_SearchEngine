@@ -33,12 +33,13 @@ test_engine.bulk_load(complete[['quote']].to_dict()['quote'])
 
 # globals
 ranking = []
+results = None
 craines = pn.widgets.Button(name='Craines')
 
 # functions
 search_results = []
 def search(search_engine:ss.search_engine,query:str,num_results:int=30)->list:
-    global search_results
+    global search_results, results
     '''Completes a search of a term on an engine'''
     results=search_engine.bw_search(query,num_results)
     search_results = search_engine.pretty_print([x[0] for x in results])
@@ -76,8 +77,9 @@ def save_ranking(search_results:str):
     length = len(search_results)
     ranking_output  = {}
     for x in range(length):
-        ranking_output[search_results[x][1]]=ranking[x].value
-    with open(f"rankings_{text_input.value}.csv", "w", newline="") as f:
+        #ranking_output[search_results[x][1]]=ranking[x].value
+        ranking_output[results[x]]=ranking[x].value
+    with open(f"rankings_{text_input.value}_{name_input.value}.csv", "w", newline="") as f:
         w = csv.DictWriter(f, ranking_output.keys())
         w.writeheader()
         w.writerow(ranking_output)
@@ -87,6 +89,7 @@ def save_ranking(search_results:str):
 
 # Set Widget
 text_input = pn.widgets.TextInput(name='Search Term', placeholder='candle')
+name_input = pn.widgets.TextInput(name='Username', placeholder='Skyeler')
 search_button = pn.widgets.Button(name='Search')
 # bind
 search_button.on_click(lambda event: search(test_engine,text_input.value)) # lambda x
@@ -96,7 +99,7 @@ craines.on_click(lambda event: save_ranking(search_results))
 pn.template.MaterialTemplate(
     site="SI 699 Final Project",
     title="Star Trek Search Engine",
-    sidebar=[text_input,search_button],
+    sidebar=[text_input,search_button,name_input],
     main=[pn.bind(pretty_print,event=search_button)],
 ).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
 
