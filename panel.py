@@ -79,7 +79,7 @@ def save_ranking(search_results:str):
     ranking_output  = {}
     for x in range(length):
         #ranking_output[search_results[x][1]]=ranking[x].value
-        ranking_output[results[x]]=ranking[x].value
+        ranking_output[results[x][0]]=ranking[x].value
     with open(f"Evaluation/rankings_{text_input.value}_{name_input.value}.csv", "w", newline="") as f:
         w = csv.DictWriter(f, ranking_output.keys())
         w.writeheader()
