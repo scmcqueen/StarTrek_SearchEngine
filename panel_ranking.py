@@ -87,7 +87,7 @@ def save_ranking(ranking:list): #add documentation
     length = len(ranking)
     ranking_output  = {}
     for x in range(length):
-        ranking_output[x+1]=ranking[x][1]
+        ranking_output[x+1]=ranking[x].value
     with open(f"Evaluation/rankings_{text_input.value}_{name_input.value}.csv", "w", newline="") as f:
         # I need to update this
         w = csv.DictWriter(f, ranking_output.keys())
@@ -104,7 +104,7 @@ search_button = pn.widgets.Button(name='Search')
 # bind
 search_button.on_click(lambda event: search(test_engine,text_input.value)) # lambda x
 
-craines.on_click(lambda event: save_ranking(search_results))
+craines.on_click(lambda event: save_ranking(ranking))
 
 # Serve
 pn.template.MaterialTemplate(
