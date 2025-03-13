@@ -87,9 +87,9 @@ def save_ranking(ranking:list): #add documentation
     length = len(ranking)
     ranking_output  = {}
     for x in range(length):
-        #ranking_output[search_results[x][1]]=ranking[x].value
         ranking_output[x+1]=ranking[x][1]
     with open(f"Evaluation/rankings_{text_input.value}_{name_input.value}.csv", "w", newline="") as f:
+        # I need to update this
         w = csv.DictWriter(f, ranking_output.keys())
         w.writeheader()
         w.writerow(ranking_output)
