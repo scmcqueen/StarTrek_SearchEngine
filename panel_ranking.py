@@ -44,35 +44,51 @@ def search(search_engine:ss.search_engine,query:str,num_results:int=30)->list:
     '''Completes a search of a term on an engine'''
     results=search_engine.bw_search(query,num_results)
     search_results = search_engine.pretty_print([x[0] for x in results])
-    pn.main = [search_results] # tried this
+    #pn.main = [search_results] # tried this
     print('success')
     return(search_engine.pretty_print([x[0] for x in results]))
 
 
 def pretty_print(event):
     global search_results, ranking, craines, display
-    temp_open = pn.pane.Markdown('# Results\n')
+    temp_open = pn.pane.Markdown('# Ranking\n')
+    main = pn.Row()
     column = pn.Column(temp_open)
     display = []
     ranking = []
+    output='# Results\n'
+    
+    #get results
+    for x in search_results:
+        output+='"'+re.sub(r'\s+', ' ', x[0]).strip()+'"'
+        output+='\n'
+        output+='**'
+        output+='"'+re.sub(r'\s+', ' ', x[1]).strip()+'"'
+        output+='**'
+        output+='\n'
+        output+='"'+re.sub(r'\s+', ' ', x[2]).strip()+'"'
+        output+='\n'
+        output+='\n'
+
+    main.append(pn.pane.Markdown(output)) # pretty print all results
     if search_results==[]:
-        return(column)
+        return(main)
     for i in range(1,11):
         #drop_down = pn.widgets.Select(name=f'Select {i}', options=search_results)
-        drop_down = pn.widgets.Select(name=f'Select {i}', options=['**'.join(x) for x in search_results],size=10)
+        drop_down = pn.widgets.Select(name=f'Select {i}', options=[x[1] for x in search_results],size=10)
         ranking.append(drop_down)
         column.append(drop_down)
 
     column.append(craines)
-    return(column)
+    main.append(column)
+    return(main)
 
 def save_ranking(ranking:list): #add documentation
     length = len(ranking)
     ranking_output  = {}
     for x in range(length):
         #ranking_output[search_results[x][1]]=ranking[x].value
-        print(ranking[x])
-        ranking_output[x+1]=ranking[x]
+        ranking_output[x+1]=ranking[x][1]
     with open(f"Evaluation/rankings_{text_input.value}_{name_input.value}.csv", "w", newline="") as f:
         w = csv.DictWriter(f, ranking_output.keys())
         w.writeheader()
@@ -93,8 +109,8 @@ craines.on_click(lambda event: save_ranking(search_results))
 # Serve
 pn.template.MaterialTemplate(
     site="SI 699 Final Project",
-    title="Star Trek Search Engine",
-    sidebar=[text_input,search_button,name_input],
+    title="Star Trek Search Engine Ranking Page",
+    sidebar=[text_input,name_input,search_button],
     main=[pn.bind(pretty_print,event=search_button)],
 ).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
 
