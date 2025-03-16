@@ -1,0 +1,2012 @@
+{
+    "SurveyEntry": {
+        "SurveyID": "SV_6xouAISqKQBxcsS",
+        "SurveyName": "Star Trek - Day 1",
+        "SurveyDescription": null,
+        "SurveyOwnerID": "UR_7OFxk7nyYHSTdVI",
+        "SurveyBrandID": "umich",
+        "DivisionID": "DV_1Y9lB6ERvTgDbne",
+        "SurveyLanguage": "EN",
+        "SurveyActiveResponseSet": "RS_cNCXSFlCeGiDXP8",
+        "SurveyStatus": "Inactive",
+        "SurveyStartDate": "0000-00-00 00:00:00",
+        "SurveyExpirationDate": "0000-00-00 00:00:00",
+        "SurveyCreationDate": "2025-03-13 15:51:34",
+        "CreatorID": "UR_7OFxk7nyYHSTdVI",
+        "LastModified": "2025-03-16 08:27:32",
+        "LastAccessed": "0000-00-00 00:00:00",
+        "LastActivated": "0000-00-00 00:00:00",
+        "Deleted": null
+    },
+    "SurveyElements": [
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "BL",
+            "PrimaryAttribute": "Survey Blocks",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": [
+                {
+                    "Type": "Default",
+                    "Description": "Default Question Block",
+                    "ID": "BL_3PJTLAx6LukPjTM",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID3"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID1"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID4"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID5"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID6"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID7"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID8"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID9"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID10"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID11"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID12"
+                        },
+                        {
+                            "Type": "Page Break"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID13"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID14"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID15"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID16"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID17"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID18"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID19"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID20"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID21"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID22"
+                        }
+                    ]
+                },
+                {
+                    "Type": "Trash",
+                    "Description": "Trash / Unused Questions",
+                    "ID": "BL_6zYEIbdEZow8BAG",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "FL",
+            "PrimaryAttribute": "Survey Flow",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "Flow": [
+                    {
+                        "ID": "BL_3PJTLAx6LukPjTM",
+                        "Type": "Block",
+                        "FlowID": "FL_2"
+                    }
+                ],
+                "Properties": {
+                    "Count": 2
+                },
+                "FlowID": "FL_1",
+                "Type": "Root"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "PL",
+            "PrimaryAttribute": "Preview Link",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "PreviewType": "Brand",
+                "PreviewID": "47c6f108-3c89-44b1-9232-08e7e5edc8b6"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "PROJ",
+            "PrimaryAttribute": "CORE",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": "1.1.0",
+            "Payload": {
+                "ProjectCategory": "CORE",
+                "SchemaVersion": "1.1.0"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "QC",
+            "PrimaryAttribute": "Survey Question Count",
+            "SecondaryAttribute": "22",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "RS",
+            "PrimaryAttribute": "RS_cNCXSFlCeGiDXP8",
+            "SecondaryAttribute": "Default Response Set",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SCO",
+            "PrimaryAttribute": "Scoring",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "ScoringCategories": [],
+                "ScoringCategoryGroups": [],
+                "ScoringSummaryCategory": null,
+                "ScoringSummaryAfterQuestions": 0,
+                "ScoringSummaryAfterSurvey": 0,
+                "DefaultScoringCategory": null,
+                "AutoScoringCategory": null
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SO",
+            "PrimaryAttribute": "Survey Options",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "BackButton": "false",
+                "SaveAndContinue": "true",
+                "SurveyProtection": "PublicSurvey",
+                "BallotBoxStuffingPrevention": "false",
+                "NoIndex": "Yes",
+                "SecureResponseFiles": "true",
+                "SurveyExpiration": "None",
+                "SurveyTermination": "DefaultMessage",
+                "Header": "",
+                "Footer": "",
+                "ProgressBarDisplay": "None",
+                "PartialData": "+1 week",
+                "ValidationMessage": "",
+                "PreviousButton": "",
+                "NextButton": "",
+                "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+                "SkinLibrary": "umich",
+                "SkinType": "templated",
+                "Skin": {
+                    "brandingId": "3019387420",
+                    "templateId": "*base",
+                    "overrides": null
+                },
+                "NewScoring": 1,
+                "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "SurveyName": "Star Trek - Day 1"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID1",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY1\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY1\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q2",
+                "QuestionID": "QID1",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY1\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID10",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY8\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY8\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q9",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY8\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID10"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID11",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY9\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY9\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q10",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY9\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID11"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID12",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY10\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY10\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q11",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY10\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID12"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID13",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY1\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY1\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q12",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY1\"",
+                "Choices": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID13",
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID1/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": []
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID14",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY2\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q13",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY2\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID4/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID14"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID15",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY3\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY3\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q15",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY3\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID5/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID15"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID16",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY4\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY4\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q16",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY4\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID6/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID16"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID17",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY5\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY5\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q17",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY5\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID7/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID17"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID18",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY6\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY6\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q18",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY6\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID8/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID18"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID19",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY7\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY7\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q19",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY7\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID9/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID19"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID2",
+            "SecondaryAttribute": "Click to write the question text",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Click to write the question text",
+                "DataExportTag": "Q2",
+                "QuestionType": "MC",
+                "Selector": "SAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Click to write the question text",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Choice 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Choice 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Choice 3"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID2"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID20",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY8\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY8\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q20",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY8\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID10/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID20"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID21",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY9\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY9\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q21",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY9\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID11/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID21"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID22",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"QUERY10\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"QUERY10\"<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q22",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"QUERY10\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID12/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID22",
+                "DynamicChoicesData": []
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID3",
+            "SecondaryAttribute": "What is your name?",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "What is your name?",
+                "DefaultChoices": false,
+                "DataExportTag": "Q1",
+                "QuestionType": "TE",
+                "Selector": "ML",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "What is your name?",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID3"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID4",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q3",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY2\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID4"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID5",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY3\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY3\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q4",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY3\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID5"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID6",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY4\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY4\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q5",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY4\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID6"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID7",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY5\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY5\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q6",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY5\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID7"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID8",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY6\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY6\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q7",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY6\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID8"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID9",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"QUERY7\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"QUERY7\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q8",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"QUERY7\"",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Item 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Item 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Item 3"
+                    },
+                    "4": {
+                        "Display": "Click to write Item 4"
+                    },
+                    "5": {
+                        "Display": "Click to write Item 5"
+                    },
+                    "6": {
+                        "Display": "Click to write Item 6"
+                    },
+                    "7": {
+                        "Display": "Click to write Item 7"
+                    },
+                    "8": {
+                        "Display": "Click to write Item 8"
+                    },
+                    "9": {
+                        "Display": "Click to write Item 9"
+                    },
+                    "10": {
+                        "Display": "Click to write Item 10"
+                    },
+                    "11": {
+                        "Display": "Click to write Item 11"
+                    },
+                    "12": {
+                        "Display": "Click to write Item 12"
+                    },
+                    "13": {
+                        "Display": "Click to write Item 13"
+                    },
+                    "14": {
+                        "Display": "Click to write Item 14"
+                    },
+                    "15": {
+                        "Display": "Click to write Item 15"
+                    },
+                    "16": {
+                        "Display": "Click to write Item 16"
+                    },
+                    "17": {
+                        "Display": "Click to write Item 17"
+                    },
+                    "18": {
+                        "Display": "Click to write Item 18"
+                    },
+                    "19": {
+                        "Display": "Click to write Item 19"
+                    },
+                    "20": {
+                        "Display": "Click to write Item 20"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID9"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsS",
+            "Element": "STAT",
+            "PrimaryAttribute": "Survey Statistics",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "MobileCompatible": true,
+                "ID": "Survey Statistics"
+            }
+        }
+    ]
+}
