@@ -6,6 +6,8 @@ import simple_search_func as ss
 import re
 import csv
 
+# GUYS I DON"T NEED THIS FILE
+
 # Set global variables
 PRIMARY_COLOR = "#0072B5"
 SECONDARY_COLOR = "#B54300"
