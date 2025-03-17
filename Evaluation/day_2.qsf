@@ -1,1 +1,2084 @@
-{"SurveyEntry": {"SurveyID": "SV_6xouAISqKQBxcsS", "SurveyName": "Star Trek - Day 1", "SurveyDescription": null, "SurveyOwnerID": "UR_7OFxk7nyYHSTdVI", "SurveyBrandID": "umich", "DivisionID": "DV_1Y9lB6ERvTgDbne", "SurveyLanguage": "EN", "SurveyActiveResponseSet": "RS_cNCXSFlCeGiDXP8", "SurveyStatus": "Inactive", "SurveyStartDate": "0000-00-00 00:00:00", "SurveyExpirationDate": "0000-00-00 00:00:00", "SurveyCreationDate": "2025-03-13 15:51:34", "CreatorID": "UR_7OFxk7nyYHSTdVI", "LastModified": "2025-03-16 08:27:32", "LastAccessed": "0000-00-00 00:00:00", "LastActivated": "0000-00-00 00:00:00", "Deleted": null}, "SurveyElements": [{"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "BL", "PrimaryAttribute": "Survey Blocks", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": [{"Type": "Default", "Description": "Default Question Block", "ID": "BL_3PJTLAx6LukPjTM", "BlockElements": [{"Type": "Question", "QuestionID": "QID3"}, {"Type": "Question", "QuestionID": "QID1"}, {"Type": "Question", "QuestionID": "QID4"}, {"Type": "Question", "QuestionID": "QID5"}, {"Type": "Question", "QuestionID": "QID6"}, {"Type": "Question", "QuestionID": "QID7"}, {"Type": "Question", "QuestionID": "QID8"}, {"Type": "Question", "QuestionID": "QID9"}, {"Type": "Question", "QuestionID": "QID10"}, {"Type": "Question", "QuestionID": "QID11"}, {"Type": "Question", "QuestionID": "QID12"}, {"Type": "Page Break"}, {"Type": "Question", "QuestionID": "QID13"}, {"Type": "Question", "QuestionID": "QID14"}, {"Type": "Question", "QuestionID": "QID15"}, {"Type": "Question", "QuestionID": "QID16"}, {"Type": "Question", "QuestionID": "QID17"}, {"Type": "Question", "QuestionID": "QID18"}, {"Type": "Question", "QuestionID": "QID19"}, {"Type": "Question", "QuestionID": "QID20"}, {"Type": "Question", "QuestionID": "QID21"}, {"Type": "Question", "QuestionID": "QID22"}]}, {"Type": "Trash", "Description": "Trash / Unused Questions", "ID": "BL_6zYEIbdEZow8BAG", "BlockElements": [{"Type": "Question", "QuestionID": "QID2"}]}]}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "FL", "PrimaryAttribute": "Survey Flow", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"Flow": [{"ID": "BL_3PJTLAx6LukPjTM", "Type": "Block", "FlowID": "FL_2"}], "Properties": {"Count": 2}, "FlowID": "FL_1", "Type": "Root"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "PL", "PrimaryAttribute": "Preview Link", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"PreviewType": "Brand", "PreviewID": "47c6f108-3c89-44b1-9232-08e7e5edc8b6"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "PROJ", "PrimaryAttribute": "CORE", "SecondaryAttribute": null, "TertiaryAttribute": "1.1.0", "Payload": {"ProjectCategory": "CORE", "SchemaVersion": "1.1.0"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "QC", "PrimaryAttribute": "Survey Question Count", "SecondaryAttribute": "22", "TertiaryAttribute": null, "Payload": null}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "RS", "PrimaryAttribute": "RS_cNCXSFlCeGiDXP8", "SecondaryAttribute": "Default Response Set", "TertiaryAttribute": null, "Payload": null}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "SCO", "PrimaryAttribute": "Scoring", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"ScoringCategories": [], "ScoringCategoryGroups": [], "ScoringSummaryCategory": null, "ScoringSummaryAfterQuestions": 0, "ScoringSummaryAfterSurvey": 0, "DefaultScoringCategory": null, "AutoScoringCategory": null}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "SO", "PrimaryAttribute": "Survey Options", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"BackButton": "false", "SaveAndContinue": "true", "SurveyProtection": "PublicSurvey", "BallotBoxStuffingPrevention": "false", "NoIndex": "Yes", "SecureResponseFiles": "true", "SurveyExpiration": "None", "SurveyTermination": "DefaultMessage", "Header": "", "Footer": "", "ProgressBarDisplay": "None", "PartialData": "+1 week", "ValidationMessage": "", "PreviousButton": "", "NextButton": "", "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management", "SkinLibrary": "umich", "SkinType": "templated", "Skin": {"brandingId": "3019387420", "templateId": "*base", "overrides": null}, "NewScoring": 1, "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.", "SurveyName": "Star Trek - Day 1"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID1", "SecondaryAttribute": "Rank these based on relevance to the query \"future\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"future\"", "DefaultChoices": false, "DataExportTag": "Q2", "QuestionID": "QID1", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"future\"", "Choices": {"1": {"Display": "CLEMENS: Seems to me I have as much right to be in your time as you had to be in mine. You see, sir, I wanted to see how you've conducted my future affairs. TROI: Your future affairs? CLEMENS: The affairs of mankind."}, "2": {"Display": "DAX : What's so interesting in there? ARJIN: I can see my future. DAX: I wouldn't trust a bottle of synthale to tell you the future."}, "3": {"Display": "DATA: Circumstances demand that I take you into my confidence. I require your assistance. DATA: I am from the future. GUINAN: Is this some kind of a joke?"}, "4": {"Display": "VASH: Open it. VASH: A piece of the future. PICARD: A very dangerous piece. Were you really going to give it to the Daystom Institute?"}, "5": {"Display": "BASHIR: Who told you that? O'BRIEN: You did. In the future. BASHIR: Oh... Who am I to argue with me?"}, "6": {"Display": "TOG: Lwaxana... you and I are going to make such a wonderful team... With your telepathy and my cunning, I foresee -- LWAXANA: -- a very profitable future. WORF: Subspace interference is subsiding... communications have been restored..."}, "7": {"Display": "BEVERLY: Your friend Guinan sent this up from Ten Forward. It's not to pack -- it's for me to propose a toast with. BEVERLY : To a future Starfleet officer. WESLEY: Mom -- thanks."}, "8": {"Display": "DATA: Cancel program. SETAL: This is my home now. My future. SETAL: I've sacrificed everything. It must not be in vain."}, "9": {"Display": "BAREIL: \"Orb?\" KIRA: A gift from the Prophets. It can foresee the future -- or a possible future, anyway. BAREIL: That could come in handy. Who are the Prophets?"}, "10": {"Display": "BASHIR: In my case, you would get a firm, \"no.\" But you've answered my question with a question. CRETAK: I try not to predict the future. BASHIR: What about Chairman Koval?"}, "11": {"Display": "PICARD: Shakespeare enjoyed mixing opposites... PICARD: Past and future... Despair and hope... PICARD: Data, is this part of your program?"}, "12": {"Display": "PICARD: You said something earlier about decisions today. GUINAN: Having implications for the future. PICARD: Precedent! This case will set the precedent for all the future Datas. It will determine their status, and they'll all be property."}, "13": {"Display": "QUARK: I... I... I... PEL: So, tell me more about my big future. ZEK: You have no future. I'll see to it you spend the rest of your life in prison."}, "14": {"Display": "GUINAN : Looked like quite an intense discussion. GEORDI: Yeah... talking about life, death, the future... GUINAN: Somebody getting married?"}, "15": {"Display": "PICARD: Well done, Mister Data... although I believe you parted Commander Riker's hair on the wrong side. DATA: I will be more observant in the future, sir. SELA: It doesn't matter what you do now. Spock's announcement will be made in minutes. Our forces will be on Vulcan before you can alert anyone..."}, "16": {"Display": "GEORDI: So, when we reach that moment -- whatever happened will happen again... The Enterprise will be destroyed, the \"other Picard\" sent back to meet with us and do it all over again. That sounds like someone's definition of hell. RIKER: I know this much -- we can't avoid the future. PICARD: Agreed. So let's continue on course. Everyone return to your duty stations. Somewhere out there something will happen... a decision will be made which will cause me to become separated from the Enterprise -- at the time that decision will seem correct, but it won't be. We have to anticipate and not make the same mistake once. Something is waiting for us out there -- let's determine what it is as quickly as possible."}, "17": {"Display": "QUARK: I would consider it a privilege. And the purpose of this conference... ? ZEK: The future. And for Ferengi business interests the future is already here. And its name is the Gamma Quadrant. O'BRIEN: Alright, class please turn on your computers. Jake, Luta, I want to see your algebra homework."}, "18": {"Display": "DATA: Their ships are deployed to support a policy of confrontation designed to test Federation defenses along the Neutral Zone. PICARD: Do you predict any change in the near future? DATA: I project a ninety percent probability that they will continue to pursue this policy."}, "19": {"Display": "SISKO: I was standing in front of the Obelisk. And as I looked up, for a moment, I understood it all. B'hala... the Orbs... the occupation... the discovery of the wormhole... the coming war with the Dominion. KIRA: You could see the future as well as the past? SISKO: And for one moment, I could see the pattern that held it all together."}, "20": {"Display": "BRUNT: Would someone please tell that female to take off those clothes -- it's disgusting. ISHKA: Get used to it, limp lobes. This is the future. BRUNT: Over my dead body."}, "21": {"Display": "PICARD: You are aboard the Enterprise, Captain... one-seven-oh-one-D. PICARD: You have come twenty-two years into the future. GARRETT: Twenty-two years."}, "22": {"Display": "SISKO: Can you spare a moment? MARTOK: We've been discussing your plans for the future. WORF: I wasn't aware I had plans."}, "23": {"Display": "Q: She'd better -- because I'm all she's got. She needs me to prepare her... for her future with the Q. PICARD: She may not want that future. The decision is hers. Q: Yes, yes -- fine. But do you really think she'll want to remain a feeble mortal?"}, "24": {"Display": "RIKER: And yet in both the past and the present -- there's a report of the same anomaly in the Devron System. It's hard to believe that's a coincidence. PICARD: For all I know, there may be one in the future, too. GEORDI: Maybe the anomaly is some kind of... temporal disruption."}, "25": {"Display": "QUARK: I was... looking forward to showing you more ways to mix business with pleasure... SAKONNA: Perhaps in the future. I find you... intriguing, Quark. QUARK: \"Intriguing.\""}, "26": {"Display": "HOGUE: Political Ethics. REKELEN: Her teachings will change the future of Cardassia. NATIMA: That's enough, Rekelen."}, "27": {"Display": "GUINAN: You know... so much about me... PICARD: Believe me, in the future the tables will be turned. GUINAN: We... become friends..."}, "28": {"Display": "DAX ALIEN: But the Zek wanted to understand events outside the restrictions of linear time. QUARK: He wanted to see the future so he could gain by it. BASHIR ALIEN: Yes. The Zek explained the value of \"gain.\" How more is preferable to less."}, "29": {"Display": "GOWRON: Can you not see what you are doing... are you blind to what they represent... are there so few noble Klingons left? GOWRON: Then go... your blood will paint the way to the future. TORAL: Remember this day."}, "30": {"Display": "PICARD: You're going to have to prove you are who you say you are. AJUR: As you yourself said, the Uthat belongs to the future. PICARD: But not necessarily to you."}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID10", "SecondaryAttribute": "Rank these based on relevance to the query \"chocolate\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"chocolate\"", "DefaultChoices": false, "DataExportTag": "Q9", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"chocolate\"", "Choices": {"1": {"Display": "DATA: When Counselor Troi is in an unhappy mood, she often has something chocolate... Q: Chocolate... DATA: For example, a hot fudge sundae. I cannot speak from personal experience, but I have seen it often has a profound psychological impact."}, "2": {"Display": "ENSIGN FELTON: Aye, sir. TROI: Hot chocolate. TROI: Computer -- list my appointment schedule for next week."}, "3": {"Display": "RIKER: Have you stopped thinking about us? TROI: Hot chocolate. RIKER: Have you stopped thinking about us?"}, "4": {"Display": "TROI: Very well, Lieutenant. TROI: Hot chocolate. WORF: Is there something I can do for you?"}, "5": {"Display": "RIKER: Sure. I'll catch up with you later. RIKER: Chocolate ice cream. Chocolate fudge. Chocolate chips. You're not depressed, are you? TROI: I'm fine, Commander."}, "6": {"Display": "TROI: I already have a job as a counselor. SONYA: Hot chocolate, please. GEORDI: We don't ordinarily say \"please\" to food dispensers."}, "7": {"Display": "TROI: No... I'm alone. No one's there. TROI: I get some hot chocolate... JEV: Something's happening..."}, "8": {"Display": "RIKER: I never knew it was a ritual. TROI: Chocolate is a serious thing. RIKER: You know... I brought something back from Risa. It's better than chocolate."}, "9": {"Display": "QUARK: Listen, I feel you and I... we've gotten off to a bad start here... let me make it up to you... you need anything? A little ginger tea, no, you don't drink... QUARK: Chocolate, maybe... companionship... ? SISKO: You look like you just lost your best friend, Constable."}, "10": {"Display": "WORF: I believe Commander Data's painting is making me dizzy... WORF: I thought this cake was chocolate... TROI: Don't I wish."}, "11": {"Display": "SALIA: I'd like something sweet. WESLEY: I know... Computer, Thalian chocolate mousse. SALIA: It's a wonderful sensation."}, "12": {"Display": "RIKER: May I escort you in, Miss Troi... TROI: Just tell me there's some chocolate here... PICARD: Ah, Counselor Troi... allow me to do the introductions... Premier Bhavani of the Barzan..."}, "13": {"Display": "RIKER: I don't like fudge. TROI: Really. I never met a chocolate I didn't like. RIKER: Doesn't it taste good?"}, "14": {"Display": "WESLEY: How about something to drink? SALIA: How about some more of that Thalian chocolate? PICARD: We have obviously brought a very dangerous life-form aboard this ship. I want to minimize the chances of another incident."}, "15": {"Display": "TROI: Transfer my mother's letters to my viewer... TROI : ... and computer, I'd like a... a real chocolate sundae. COMPUTER: Define \"real\" in context, please."}, "16": {"Display": "JAKE: I had a weird dream. SISKO: Why don't you get a hot chocolate and tell me about it? JAKE: Nah, it's nothing."}, "17": {"Display": "TROI: Let me introduce you to some of my favorites... Here we have peach cobbler with whipped cream. Tarvokian powder cake... But over here -- this is my very favorite. TROI: This is a Ktarian Chocolate Puff. I'm not exactly sure what's in it... but I think there are at least seventeen varieties of chocolate inside. LOQUEL: It is... it is..."}, "18": {"Display": "GUINAN: Tell her about her eyes. GUINAN: You won't find a better dish of chocolate on Thalos or Daled Four. SALIA: I'm sure I won't..."}, "19": {"Display": "TROI: Chocolate is a serious thing. RIKER: You know... I brought something back from Risa. It's better than chocolate. TROI: Oh... what is it?"}, "20": {"Display": "BEVERLY: We've been having control problems today. There's a small fracture here... this'll just take a minute... NURSE: You look like you could use something warm inside you... hot chocolate, maybe? ANNETTE: Wes almost came along. It's probably a good thing he didn't."}, "21": {"Display": "Q: I'm in a dreadful mood... get me something appropriate... DATA: When Counselor Troi is in an unhappy mood, she often has something chocolate... Q: Chocolate..."}, "22": {"Display": "SONYA: Yes. GEORDI: I don't think you want to bring that hot chocolate around these control stations. SONYA: Sorry. I shouldn't even have this in engineering. We were talking and I just forgot I had it in my hand..."}, "23": {"Display": "O'BRIEN: So far, it's one I'd like to forget. BASHIR: And Keiko's been away on Bajor -- she's missed you. Bring her a gift -- what's her favorite chocolate? O'BRIEN: Tellurian mint truffles. But I still think you should be there with me."}, "24": {"Display": "PICARD: Wesley, know this... you will be missed. CLARA: I like to cook all kinds of stuff. Like yogurt and raisin salad... chocolate-chip pancakes... and purple omelettes. TROI: Purple omelettes?"}, "25": {"Display": "LEE: I was afraid to. BASHIR: I'll see about getting you some medicine. In the meantime I'll try and find you a chocolate bar or something. LEE: Wasn't he here with you... ?"}, "26": {"Display": "WINN: I don't understand. QUARK: In honor of this occasion, I've named my latest creation after you. It's a chocolate souffle with Haligian tongue sauce. WINN: I'm honored."}, "27": {"Display": "COMPUTER: Define \"real\" in context, please. TROI: Real... not one of your perfectly synthesized, ingeniously enhanced imitations... real chocolate ice cream, real whipped cream... COMPUTER: This unit is programmed to provide sources of nutritional value. Your request does not fall within current guidelines."}, "28": {"Display": "RIKER: She's just a bitter old woman... don't give her the power to worry you. TROI: You're right. Okay, let's get through these evaluations. When they're done I'm going to reward myself with a chocolate brownie. RIKER: Next, Physical Sciences. Lieutenant Jeffrey Fratis..."}, "29": {"Display": "TROI: Pardon me? GUINAN: When I see you with a piece of chocolate cake... that hasn't been touched... either the cake's no good -- or something's bothering you. TROI: I'm sure the cake is fine. I've just been thinking..."}, "30": {"Display": "WORF: It was... excruciating. LOQUEL: Counselor, these are bio-enzymatic supplements that my people consume for food. I'm afraid you will find they are not as... delicious... as your chocolate. TROI: After the past few days... I could use something a little bland."}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID10"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID11", "SecondaryAttribute": "Rank these based on relevance to the query \"kahless\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"kahless\"", "DefaultChoices": false, "DataExportTag": "Q10", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"kahless\"", "Choices": {"1": {"Display": "S : ... Do Shell... DIVOK: Kahless! I see Kahless! DIVOK: He is standing before me... holding a sword... he wants something... me, he wants me! He wants me to go with him!"}, "2": {"Display": "WORF: Do you know who they are? ALEXANDER: Kahless... ? WORF: And his brother, Morath. They fought for twelve days and twelve nights... because Morath had broken his word... and brought shame to his family. When you lie or steal, you dishonor not only yourself, but your family. You dishonor me."}, "3": {"Display": "GOWRON: Koroth. I see that not all fools die young. KLINGON: Kahless! KOROTH: Kahless, may I present Gowron, Leader of the High Council."}, "4": {"Display": "DAX: Ko'ma tlang'goS... ak-bay... DAX: Hava'dak... croosh tovah... Ko'ma Kahless... Ko'ma Kahless... Ko'ma Kahless... BASHIR: Request for equipment upgrades in the Infirmary."}, "5": {"Display": "QUARK: I am a Ferengi. That means I have a talent for appreciating objects of great value. And I believe you may be worth more than all the latinum in the quadrant. GRILKA: My Kahless... QUARK: My Lukara..."}, "6": {"Display": "KAHLESS: I have returned because there is a great need in my people... they fight among themselves in petty wars and corrupt the glory of the Klingon spirit. They have lost their way. But it is not too late. I have returned and I will lead my people again! KOROTH: Vorcha-doh-baghk, Kahless! (All hail Kahless) CROWD: Vorcha-doh-baghk, Kahless!"}, "7": {"Display": "WORF: Only one man can stand against Molor. ALEXANDER: It's Kahless! SINGER: Nok'til Kahless. Molor gik'tal!"}, "8": {"Display": "KOROTH: Who are you? DIVOK: It is Kahless! KAHLESS: I have returned."}, "9": {"Display": "WORF: Torva... Luk... Do... Shell... WORF: I see Kahless. WORF: You are... real?"}, "10": {"Display": "WORF: Kahless would rather die than live under Molor's tyranny... ALEXANDER: Ni'lot Kahless! ALEXANDER: Father --"}, "11": {"Display": "KAHLESS: Q'apla, son of Mogh. WORF: Q'apla... Kahless. PICARD : Captain's log, Stardate 41209.2. We are running at Warp 7 to rendezvous with the science vessel S. S. Tsiolkovsky..."}, "12": {"Display": "KOROTH : But we did not have the technology to bring you back until now. We were able to use an organic sample of the first Kahless to... give you life. KAHLESS: The first Kahless? WORF: A clone. He is a clone."}, "13": {"Display": "WORF: Kahless himself was not high- born. MARTOK: Kahless was divine. WORF: Your name is revered throughout the Empire. If you seize the Leadership, every warrior from here to Kronos will swear an oath to you. With that kind of support, the High Council will have no choice but to accept you as chancellor."}, "14": {"Display": "KOR: More revered than Sabak's armor, and more coveted than the Emperor's crown! WORF: The Sword of Kahless. DAX: You told me not to tell anybody."}, "15": {"Display": "KOROTH: You should not have arranged this without my approval. WORF: I did. Kahless approved. KOROTH: Yes. Yes, of course he did."}, "16": {"Display": "KAHLESS: Join with me, Gowron. Let us usher in this new era together. GOWRON: Vorcha-doh-baghK... Kahless. KAHLESS: Farewell, Worf."}, "17": {"Display": "KOROTH: Vorcha-doh-baghk, Kahless! (All hail Kahless) CROWD: Vorcha-doh-baghk, Kahless! KAHLESS: What is it you are doing?"}, "18": {"Display": "KOLANA: Their warp fields are destabilizing... They're dropping to impulse! MARTOK: By Kahless's hand... how many? KOLANA: All of them!"}, "19": {"Display": "ALEXANDER: It's Kahless! SINGER: Nok'til Kahless. Molor gik'tal! WORF: Kahless would rather die than live under Molor's tyranny..."}, "20": {"Display": "KAHLESS: Where are you going? KOROTH: Kahless, it might be better if -- KAHLESS: Go away, Koroth. I've listened to you and Torin until my ears burn with politics. Let me and Worf be alone for a while."}, "21": {"Display": "WORF: I have studied them all my life... and find new truths in them every time. BA'EL: Kahless... did he ever take a mate? WORF: That is... another story."}, "22": {"Display": "GOWRON: But how... how can this be? WORF: It is true... Kahless has returned. KOROTH: Enter."}, "23": {"Display": "MARTOK: I've heard every word you said. You want me to become Chancellor. Me. Tell me Worf, how do you think the members of the High Council will react when they're asked to follow a common man from the Ketha Lowlands? A man without a drop of noble blood in his veins? WORF: Kahless himself was not high- born. MARTOK: Kahless was divine."}, "24": {"Display": "BA'EL: You never answered my question. BA'EL: Did Kahless find his father's sword? WORF: Yes. He found it."}, "25": {"Display": "KOROTH: You came to us seeking answers... but this is a place of questions. Open your heart to Kahless... ask him your questions... let him speak to you with your mind unclouded by doubt or hesitation. Only then can you find what you are looking for. If you cannot do that... then perhaps you should return to your starship. WORF: I will open my heart, Kahless. I will... WORF: Torva... Luk... Do... Shell..."}, "26": {"Display": "GOWRON: Where is he, Picard? PICARD: I assume you're referring to Kahless. GOWRON: I am referring to the filthy pahtak who is using his name."}, "27": {"Display": "GOWRON: You are not a fool, Worf. Do you really think that every Klingon in the Empire will bend his knee and grovel before this man just because Koroth says he is Kahless? WORF: He is Kahless. Your own test proved it. GOWRON: I will not hand over the Empire to Koroth because of one test."}, "28": {"Display": "KAHLESS: You have no joy, Gowron. Is your heart so filled with distrust and suspicion that you have forgotten what it is to be truly Klingon. GOWRON: \"Kahless... the greatest warrior of them all... \" WORF: There is no future here... no glorious new era for our people. Gowron was right, you don't know the name of the man who faced the storm... you don't even know what real Warnog tastes like... and you certainly are not the greatest warrior of all. Whoever you are... you're not Kahless."}, "29": {"Display": "GOWRON: I oppose you. I say you are not Kahless... and I will not bend my knee to you as long as I can draw a breath or pick up a blade. WORF: No. I do not believe Kahless will kill him. KAHLESS: A good try, Gowron... but not enough."}, "30": {"Display": "SYNON: But sir... they have a garrison of ten thousand... MARTOK: By the... hand of Kahless... get us out of here! KOR: Victory is ours! The Federation will rue the day they dared to challenge the might of the Klingon Empire! We will take Caleb Four and raise our banner above the smoking ruins of their outpost!"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID11"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID12", "SecondaryAttribute": "Rank these based on relevance to the query \"father\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"father\"", "DefaultChoices": false, "DataExportTag": "Q11", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"father\"", "Choices": {"1": {"Display": "SKORAN: Stay out of this, Ice-man. Your memory's not very reliable. GIA: Father! Father, what's wrong? GARVIN: I don't know... I feel... very weak suddenly."}, "2": {"Display": "MAURICE: Jean-Luc... PICARD: Father... MAURICE: I told you not to go running off to that Academy. I told you that Starfleet would bring you to a bad end. But you wouldn't listen. Now look at you... dead before your time."}, "3": {"Display": "LIKO : Oji? OJI: Father? LIKO: Here..."}, "4": {"Display": "ADMINISTRATOR: Enough! There is a plan in the works. I can't tell you more than that. YOUNG BATAI : Father! PICARD: What is it -- ?"}, "5": {"Display": "PICARD: Batai? YOUNG BATAI: Father... ? PICARD: I get the feeling from your mother that you have something to tell me."}, "6": {"Display": "DANILO: (to Riker with an ingratiating smile) Pay her no heed, she's a grand girl. And not usually so... er... ... sharp tongued. BRENNA : Father! RIKER: Of all the reactions that's not the one I expected."}, "7": {"Display": "RIKER: No, doctor... it's your daughter. DARA: Father... TIMICIN: Dara."}, "8": {"Display": "PICARD : Captain's Log, Stardate 46278.3. Both Commander Data and the ship's computer have been restored to normal operation. Our rendezvous with the supply ship Biko has proceeded as planned. ALEXANDER: Father... ALEXANDER: After what happened... I guess you'll never want to go back to the Ancient West..."}, "9": {"Display": "WORF: Do not show your face in this town again. ALEXANDER: Father! WORF: Are you alright?"}, "10": {"Display": "RIKER: It's too heavy. We need something to help us. ALEXANDER: Father? WORF: Be still, I am here."}, "11": {"Display": "TARMIN: We're to be prisoners? JEV: Father... PICARD: Please don't think of it that way."}, "12": {"Display": "TARMIN: There is nothing to fear... JEV: Father... WORF: I am not fearful."}, "13": {"Display": "DATA: Lal is programmed to return to the lab in the event of a malfunction. LAL: Father. DATA: Yes, Lal. I am here."}, "14": {"Display": "LAL: Purpose for... exterior drapings, Father? WESLEY: Father? DATA: It is the custom that we wear clothing."}, "15": {"Display": "WORF: As Klingons, we must always be prepared for any--- ALEXANDER: Father! WORF: Take him away."}, "16": {"Display": "BEVERLY: Absolutely. ALEXANDER: Father? WORF: Come in, Alexander."}, "17": {"Display": "ALEXANDER: Ni'lot Kahless! ALEXANDER: Father -- WORF: Where have you been?"}, "18": {"Display": "FEMALE SHAPE-SHIFTER: No. But he will join us one day... it's only a matter of time. ZIYAL : Father! DUKAT: Ziyal."}, "19": {"Display": "ROM: Nagus! KRAX: Father? ODO: Looks like you needed my help after all."}, "20": {"Display": "CRODEN: It shapes itself to fit this lock. YARETH: Father? YARETH: I was dreaming about you."}, "21": {"Display": "ODO: I wasn't saying that at all. Are you? KIRA: Father. KIRA: Father. Hold still. You'll tear the bandages."}, "22": {"Display": "FUREL: Nerys. KIRA : Father? KIRA: Father, can you hear me?"}, "23": {"Display": "DUKAT: Ziyal. ZIYAL: Father? ZIYAL: It's really you. Mother said you'd come."}, "24": {"Display": "NURIA: Don't do it, Liko! OJI: Father -- no! PICARD : Captain's log, supplemental. Before we dismantle the observation post and depart, I must make one last visit to Mintaka Three."}, "25": {"Display": "SABIN: Yes. I can see that. And I don't mind telling you I'm surprised. Frankly, when I first heard about your father... WORF: My father... SABIN: ...yes... There are some who believe he betrayed your people to the Romulans..."}, "26": {"Display": "K'MPEC: Of that I have no question. But your life in the Federation would not be affected by this judgment. WORF: My father... K'MPEC: Is dead. He died long ago. I knew your father, served with him... this is not the way I wanted to remember him. But we must let the past be and protect what we have now."}, "27": {"Display": "DAX: Who sponsored you for the program? ARJIN: My father. DAX: Was he Joined?"}, "28": {"Display": "ROM: Is this what they teach you at that human school of yours? Sloth and indolence... NOG: No, father. ROM: We'll see about that. Tonight you'll polish every rail in the place until they sparkle. Is that clear?"}, "29": {"Display": "GARVIN: That can wait until later, Gia. Right now, we should clean him up and get him something decent to wear. Run upstairs and get some of my old clothes for him. GIA: Yes, Father. GARVIN: I wonder if Skoran could tell us something about this metal of yours..."}, "30": {"Display": "GARVIN: Gia, go on to school. I'll deal with the stranger. GIA: Yes, Father. GIA: Good-bye."}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID12"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID13", "SecondaryAttribute": "Rank these based on how funny they are for the query \"future\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"future\"", "DefaultChoices": false, "DataExportTag": "Q12", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"future\"", "Choices": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID13", "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID1/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": []}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID14", "SecondaryAttribute": "Rank these based on how funny they are for the query \"chocolate\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"chocolate\"", "DefaultChoices": false, "DataExportTag": "Q13", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"chocolate\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID4/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID14"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID15", "SecondaryAttribute": "Rank these based on how funny they are for the query \"kahless\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"kahless\"", "DefaultChoices": false, "DataExportTag": "Q15", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"kahless\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID5/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID15"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID16", "SecondaryAttribute": "Rank these based on how funny they are for the query \"father\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"father\"", "DefaultChoices": false, "DataExportTag": "Q16", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"father\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID6/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID16"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID17", "SecondaryAttribute": "Rank these based on how funny they are for the query \"wedding\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"wedding\"", "DefaultChoices": false, "DataExportTag": "Q17", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"wedding\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID7/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID17"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID18", "SecondaryAttribute": "Rank these based on how funny they are for the query \"romance\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"romance\"", "DefaultChoices": false, "DataExportTag": "Q18", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"romance\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID8/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID18"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID19", "SecondaryAttribute": "Rank these based on how funny they are for the query \"fiction\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"fiction\"", "DefaultChoices": false, "DataExportTag": "Q19", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"fiction\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID9/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID19"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID2", "SecondaryAttribute": "Click to write the question text", "TertiaryAttribute": null, "Payload": {"QuestionText": "Click to write the question text", "DataExportTag": "Q2", "QuestionType": "MC", "Selector": "SAVR", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Click to write the question text", "Choices": {"1": {"Display": "Click to write Choice 1"}, "2": {"Display": "Click to write Choice 2"}, "3": {"Display": "Click to write Choice 3"}}, "ChoiceOrder": ["1", "2", "3"], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "Language": [], "NextChoiceId": 4, "NextAnswerId": 1, "QuestionID": "QID2"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID20", "SecondaryAttribute": "Rank these based on how funny they are for the query \"trial\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"trial\"", "DefaultChoices": false, "DataExportTag": "Q20", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"trial\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID10/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID20"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID21", "SecondaryAttribute": "Rank these based on how funny they are for the query \"chateau\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"chateau\"", "DefaultChoices": false, "DataExportTag": "Q21", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"chateau\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID11/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID21"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID22", "SecondaryAttribute": "Rank these based on how funny they are for the query \"archaeology\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on how funny they are for the query \"archaeology\"", "DefaultChoices": false, "DataExportTag": "Q22", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Rank these based on how funny they are for the query \"archaeology\"", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID12/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID22", "DynamicChoicesData": []}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID3", "SecondaryAttribute": "What is your name?", "TertiaryAttribute": null, "Payload": {"QuestionText": "What is your name?", "DefaultChoices": false, "DataExportTag": "Q1", "QuestionType": "TE", "Selector": "ML", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "What is your name?", "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 4, "NextAnswerId": 1, "SearchSource": {"AllowFreeResponse": "false"}, "QuestionID": "QID3"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID4", "SecondaryAttribute": "Rank these based on relevance to the query \"wedding\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"wedding\"", "DefaultChoices": false, "DataExportTag": "Q3", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"wedding\"", "Choices": {"1": {"Display": "DATA: Thank you, Doctor. I am now ready to dance at the wedding. BEVERLY: Wedding? DATA: Keiko's wedding."}, "2": {"Display": "BEVERLY: Wedding? DATA: Keiko's wedding. BEVERLY: But you never... you didn't say it was for the wedding."}, "3": {"Display": "TROI: They're bonding gifts... ... what you would call... wedding presents. RIKER: Wedding presents? What wedding? Who's getting married? TROI: I am."}, "4": {"Display": "ROM: I'm fine, Captain. Thanks for asking. ODO: The wedding's off. SISKO: I'm sorry."}, "5": {"Display": "ODO: It was the dowry for his wedding. KIRA: When's the wedding? ODO: Tomorrow."}, "6": {"Display": "DAX: What is it, Worf? What's wrong? WORF: It's about our wedding. DAX: You're getting cold feet --"}, "7": {"Display": "RIKER: Every word. I'm sorry. TROI: Come dance at my wedding. RIKER: I'll try."}, "8": {"Display": "SISKO: What do you think you're doing? O'BRIEN: The wedding's been called off. SISKO: It's back on."}, "9": {"Display": "DATA: You do not wish to rehearse? KEIKO: No, I'm... calling off the wedding. DATA: May I ask why?"}, "10": {"Display": "WORF: Jadzia. DAX: I guess the wedding's still on. O'BRIEN: Hey, Quark -- are the holosuites still working?"}, "11": {"Display": "EZRI: That's funny. Because on our wedding night you told me -- EZRI: Sorry. I shouldn't have mentioned our wedding night -- I mean, Jadzia's wedding night. EZRI: This is ridiculous. We can't have a conversation if you refuse to talk about the things we have in common."}, "12": {"Display": "KIRA: Three cases? ODO: It was the dowry for his wedding. KIRA: When's the wedding?"}, "13": {"Display": "WORF: You have been planning this all along. DAX: Seems fair. You planned the wedding. WORF: Very well. Room service."}, "14": {"Display": "DATA : I find Lieutenant Worf to be what is called a kindred spirit. We were both orphans and were both rescued by Starfleet officers. In many ways, we are both still outsiders in Human society. I do not fully understand why, but I find it... comforting to think that I am not alone in that regard. DATA: Are you here to find a wedding gift? WORF: Yes."}, "15": {"Display": "BASHIR: What's going on? QUARK: Haven't you heard? The wedding's off. O'BRIEN: Off? Why?"}, "16": {"Display": "KEIKO: Come in. DATA: It is time for the wedding rehearsal. KEIKO: I know... I've decided not to go through with it, Data."}, "17": {"Display": "LWAXANA: There's really nothing to do, you nosey little girl. Campio's already sent me his mother's wedding gown, which Mister Homn is now altering for me. Outside of that... TROI: Wedding gown? Mother. Stop. Are you telling me you're not going to be naked at your own wedding? LWAXANA: Campio is from a different planet with different traditions. He wouldn't approve of a traditional Betazoid wedding, so I'm adapting; simple as that. Care for some nice jestral tea, dear?"}, "18": {"Display": "SIR GUY: Well done, my dear. VASH: Consider it my wedding present to you. Q: Congratulations, Gisbourne. I see you've snared the jackal."}, "19": {"Display": "WORF: Jadzia, there is one more thing -- DAX: As long as it's not about the wedding. WORF: After we exchange vows, you must remember to present your d'h tahg to General Martok as a formal request that he accept you into his house."}, "20": {"Display": "KEIKO: I'm supposed to be getting married, Data. I should be happy... but I'm not. I just feel this weight pressing down on me. DATA: Will cancelling the wedding make you happy? KEIKO: Yes. He'll probably be just as relieved as I am. Data, you introduced us, you mean a lot to both of us... I'd really appreciate it if... you would tell Miles for me."}, "21": {"Display": "GEORDI: Absolutely. DATA: Then you believe the wedding will still proceed? GEORDI: Trust me, they'll get married... so you better find a gift."}, "22": {"Display": "PULASKI: It's a match made in heaven. RIKER: Unfortunately it's going to be a shotgun wedding. GRANGER: I'm sorry, Captain, but it's out of the question. You're trying to dump your problem off on us. And we've got problems of our own."}, "23": {"Display": "DAX: All men are sentimental. They just cover it up with scowls and clenched jaws. There're times when Worf literally gets misty- eyed talking about Klingon rituals. KIRA: And that's why you're letting him plan the wedding? DAX: Mostly. But the truth is, I've gone through five Trill ceremonies -- three as a bride, two as a groom -- and I'm a little bored with it. Is it my imagination, or did Odo just avoid us?"}, "24": {"Display": "DATA: I should not have interfered. It would be best if I apologized. KEIKO: It would be best if you got dressed. For the wedding? DATA: But..."}, "25": {"Display": "DATA: Keiko's wedding. BEVERLY: But you never... you didn't say it was for the wedding. DATA: Is that important?"}, "26": {"Display": "WORF: My relationship with Alexander is not your concern. EZRI: That's funny. Because on our wedding night you told me -- EZRI: Sorry. I shouldn't have mentioned our wedding night -- I mean, Jadzia's wedding night."}, "27": {"Display": "BEVERLY: You seem to have... picked up the basics. DATA: Thank you, Doctor. I am now ready to dance at the wedding. BEVERLY: Wedding?"}, "28": {"Display": "DAX: He's such a worrier. SISKO: Take my advice, old man. A small wedding is the way to go. DAX: You get married the way you want, and I'll get married the way I want."}, "29": {"Display": "BASHIR: Too bad Ezri and Worf couldn't be here... O'BRIEN: They probably got held up picking out a wedding present. ODO: Usually when we come to events like this, you're the one who has to remind me to smile."}, "30": {"Display": "PICARD : Captain's log, stardate 45733.6. Temporary repairs to the ship have been completed. Our attention now turns to matters of a more festive nature. RIKER: You'd think she'd at least get to her own wedding on time. ERKO: Minister, this is infamous. Infamous!... We leave immediately!"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID4"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID5", "SecondaryAttribute": "Rank these based on relevance to the query \"romance\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"romance\"", "DefaultChoices": false, "DataExportTag": "Q4", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"romance\"", "Choices": {"1": {"Display": "TROI: It's as if I were to say to you \"Juliet. On her balcony.\" BEVERLY: An image of romance. TROI: Exactly. Image is everything to the Tamarians."}, "2": {"Display": "ODO: Sir? SISKO: A little romance, Odo. ODO: I have six pylons that need a complete security sweep... I don't have time for romantic interludes... frankly, in my humble opinion, most of you humanoids spend far too much time on your respective mating rituals..."}, "3": {"Display": "ODO: It doesn't sound like much of a romance. KIRA: We weren't having a romance. ODO: Then, why would he tell his wife you were?"}, "4": {"Display": "PICARD: Hello, my beauty. TROI: So you like horses for the romance? PICARD: It goes deeper than that. A fine war mare would sleep in a bedouin's tent, carry him into battle, feed his children with her milk. There is a bond which forms from mutual need."}, "5": {"Display": "KIRA: No. ODO: It doesn't sound like much of a romance. KIRA: We weren't having a romance."}, "6": {"Display": "KIRA: Maybe you should finish it. ODO: Why waste my time? Romance is for solids. KIRA: You are solid... at least eighteen hours a day. I'm sure there're plenty of woman on this station who'd be interested in you if you gave them half a chance."}, "7": {"Display": "WYATT: I'm Wyatt. VICTORIA: Isn't this simply beautiful? I knew romance was still alive somewhere. WYATT: I'd like you to have this. It's a Chameleon Rose. It changes color with the mood of its owner."}, "8": {"Display": "KIRA: No, it's lovely. I just can't accept it. ZEK: Then I suppose a night of wild passionate romance is out of the question. KIRA: That's right."}, "9": {"Display": "DAX: (reacts, a beat, shakes her head) Julian... DAX: It's time I explain that Trills don't look for romance the way humans do. DAX : In fact, we consider it quite a nuisance."}, "10": {"Display": "MELORA: It's pretty. MELORA: Tell me something, Lieutenant... you think there's room for... romance... in Starfleet? DAX: I think so."}, "11": {"Display": "BEVERLY: You do seem well-suited. OGAWA: But... I know that in the beginning of a romance... it's possible to be... a little blind. BEVERLY: I'm not sure exactly what you mean..."}, "12": {"Display": "DAX: ... you could say that. MELORA: I finish my mission here... I move on to the next one... what kind of future is that for a romance? DAX: Look at the alternative."}, "13": {"Display": "SISKO: ... without injuring yourselves? DAX: Interspecies romance isn't without it's dangers. That's part of the fun. Maybe we'll have better luck on Risa. SISKO: Risa? I thought you and Worf were going to take your vacation on Earth."}, "14": {"Display": "TOSK: Holosuite... ? QUARK: A fantasy encounter with danger, romance, thrills... created for your personal entertainment by the Quark Brothers... TOSK: I have no use for fantasy adventure. I live the greatest adventure one could ever desire."}, "15": {"Display": "TROI: I will admit, it's unusual... but I'm very happy for you. TROI : But I do want you to consider something. You and Ronin have both experienced a tremendous loss. Very often a shared traumatic experience can create the illusion of closeness... and romance. BEVERLY: I appreciate the concern, but I think I know what I'm doing. Besides, I didn't say I was in love with him. I'm just... intrigued."}, "16": {"Display": "WORF: Do not think of this as a performance. Believe in where you are... put yourself in this time and place... WORF: A thousand years ago... the dawn of the Empire. Five hundred warriors storm the Great Hall at Qam-Chee. The city garrison fled before them. Only the Emperor Kahless... And the Lady Lukara stood their ground. It was here that they began the greatest romance in Klingon history. QUARK: This is ridiculous! I'm surrounded by corpses, my shoes are dripping with blood, and you want me to feel romantic? Why am I putting myself through this?"}, "17": {"Display": "PICARD: Then what? BEVERLY: The experience. The Orient Express was... mystery and romance. It was an elegant way to see exotic places and meet fascinating people... Did you know that on one trip, both Sigmund Freud and Gertrude Stein just happened to be on the same car? They ended up having dinner together every night. PICARD: I wonder what they talked about... ?"}, "18": {"Display": "QUARK: Thank the Nagus you didn't. Remember what happened with Nog's mother? QUARK: Yeah... don't want to think about her do you? Let me refresh your memory... You signed a standard five year marriage contract with Prinadora's father because you wanted a child. A simple, everyday, business deal. But then... you fell in love with your wife and wanted to extend the contract. And you were so in love you never bothered to read the extension before signing it. So in the end, her father swindled you out of all your money... Prinadora left you for a richer man... and you got stuck with Nog. Hooray for romance. ROM: Leeta is not Prinadora."}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID5"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID6", "SecondaryAttribute": "Rank these based on relevance to the query \"fiction\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"fiction\"", "DefaultChoices": false, "DataExportTag": "Q5", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"fiction\"", "Choices": {"1": {"Display": "JAKE JAKE: I wonder if Kirby Not exactly. knew that the whole time we were talking, KIRBY all I could think What does that mean? about was how close the Klingons were. JAKE I write stories mostly, you know, fiction. I write stories mostly,: you know, fiction. JAKE : -- He didn't seem that worried, no one else seems to be losing sleep over it, so why's it the only thing I can think about? I've been on the station when it was under attack plenty of times... but somehow the danger never seemed as real as it does here."}, "2": {"Display": "AQUIEL: Yes, it's from \"Cold Moon Over Blackwater.\" Have you read it? GEORDI: No... I'm not much for gothic fiction. AQUIEL: Most people aren't nowadays."}, "3": {"Display": "PICARD: I hate a mystery. DATA: But, sir what about Dixon Hill, and your penchant for detective fiction -- PICARD: Allow me to correct myself. I hate a mystery I cannot solve."}, "4": {"Display": "PICARD: Data-- DATA: It is you who are imaginary characters derived from a work of fiction. McNARY: Give it up, fellas. These guys are too smart to fall for that story."}, "5": {"Display": "RIKER: Geordi's up to speed. I trust his instincts. DATA: The Pakleds did hear our little fiction about Geordi's \"weapons knowledge.\" RIKER: Exactly. And since they obviously equate intelligence with strength, they won't pass up this chance to use that knowledge. Can you do it?"}, "6": {"Display": "MARLA: It is our duty to make him happy again. PICARD: Do you honestly believe he will be happy in this total fiction you wish to create? PICARD: What will be his reason to live?"}, "7": {"Display": "KAY: I really like this major of yours... she's a tough cookie. KAY: Science fiction needs more strong women characters. I'm always saying that, aren't I, Jules? JULIUS: Ad nauseam, my dear."}, "8": {"Display": "PICARD: I only look like Dixon Hill. DATA: He speaks the truth, sir. From your point of view, he is only a fiction, a facsimile, a knock-off, a cheap imitation. PICARD: Thank you, Mister Data."}, "9": {"Display": "BENNY: Surprise. DARLENE: It's the best thing I've read since \"The Puppet Masters.\" (a beat, almost apologetic) I read a lot of science fiction. HERBERT: Bless you, my child."}, "10": {"Display": "DATA: Sorry sir, that did not come out quite the way I interded. REDBLOCK: Very good. Very, very, good. What wonderful fiction! Quite entertaining. I admire your skill at trying to obfuscate our sense of reality. DATA: It is you who are not real, sir."}, "11": {"Display": "CASSIE: Hey, it's possible. Baby, I know we could make this work for us. We could be happy here. Besides, you don't have to give up writing altogether... maybe you could write something for the Amsterdam News or one of the other Negro newspapers. BENNY: I'm not a reporter. I write fiction -- and the Amsterdam News isn't going to publish stories about a space station four hundred years in the future. WILLIE : Hear the game last night?"}, "12": {"Display": "PICARD: I feel it necessary to warn you that criminal behavior is no more acceptable in the twenty-fourth century than it was in the nineteenth. And much harder to get away with. MORIARTY: Don't worry, Captain... my past is nothing but a fiction -- the scribblings of an Englishman dead now for four centuries. I hope to... leave his books on the shelf, as it were. PICARD: If that's so, you'll find that there are opportunities available to you that you could never have imagined."}, "13": {"Display": "DATA: Sir? PICARD: Stop babbling. (rewinding the threads of his fast-tattering patience) The law recognizes many things as people that aren't possessed of flesh and blood. It's a little legal fiction, you see. DATA: I am beginning to understand why Shakespeare wrote, let us kill all the lawyers."}, "14": {"Display": "TOMALAK: You see, Picard, after we dissect your Enterprise for every precious bit of information, I plan to display its broken hull in the center of the Romulan capitol as a symbol of our victory. It will inspire our armies for generations to come and serve as a warning to any other traitor who would create ripples of disloyalty. JAROK: All the communiques, the records, the timetables... they were fiction, written for my benefit... it was all a... a test... a test of my loyalty... and you used me to lure the Enterprise into the Neutral Zone. TOMALAK: First, Captain, you will return the traitor, Jarok... then you will surrender as prisoners of war..."}, "15": {"Display": "KIRBY: You're a journalist? JAKE JAKE: I wonder if Kirby Not exactly. knew that the whole time we were talking, KIRBY all I could think What does that mean? about was how close the Klingons were. JAKE I write stories mostly, you know, fiction. I write stories mostly,: you know, fiction."}, "16": {"Display": "PICARD: But how can you keep us a secret... when so many have seen and heard so much? DURKEN: The stories will be told for many years, I have no doubt... of the ship that made contact... of an alien who was held prisoner in a medical facility... there will be charges of a government cover-up... some of the witnesses will tell their tales and most people will laugh at them and go back and watch more interesting fiction on the daily broadcasts. It will pass. MIRASTA: I'm sorry to say... he's probably right."}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID6"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID7", "SecondaryAttribute": "Rank these based on relevance to the query \"trial\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"trial\"", "DefaultChoices": false, "DataExportTag": "Q6", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"trial\"", "Choices": {"1": {"Display": "SISKO: If you return the Maquis to the Federation, I can promise you they will stand trial for what they've done. GUL DUKAT: A Federation trial... SISKO: It's the best I can do."}, "2": {"Display": "SISKO: I want you to escort the prisoner back to his home planet. ODO: He's not to stand trial here? SISKO: Croden apparently committed crimes on Rakhar. His government was adamant and the Bajorans have agreed to release him."}, "3": {"Display": "JAKE: It's a Klingon bachelor party -- use your imagination. WORF: Now begins the trial of blood... MARTOK: Let rivers flow from our veins..."}, "4": {"Display": "Q: I'll answer any ten questions that call for a \"yes\" or a \"no.\" Well? PICARD: Are you putting mankind on trial again? Q: No."}, "5": {"Display": "SISKO: I've made my decision. SARAH PROPHET: Your trial is at hand. You must be strong. SISKO: Kasidy gives me strength. Why can't you understand that?"}, "6": {"Display": "WORF: Sir? PICARD: I think... we're putting on a drumhead trial... WORF: I don't understand..."}, "7": {"Display": "DUKAT: How barbaric. On Cardassia, the verdict is always known before the trial begins. And it's always the same. SISKO: In that case, why bother with a trial at all? DUKAT: Because the people demand it. They enjoy watching justice triumph over evil. Every time. They find it comforting."}, "8": {"Display": "ODO: Either that, or his lack of faith in our justice system. WORF: He must be apprehended and brought to trial. SISKO: Have all available runabouts begin a sector-wide search."}, "9": {"Display": "DATA: Commander, I believe I have found a correlation between the two deaths... your \"missing link\" ... DATA : That is Penthor-Mul being led from his trial. RIKER: I don't see the connection..."}, "10": {"Display": "SISKO: If you won't defend yourself, you're not going to testify. KIRA: It's a hearing, not a trial. She has no choice. KIRA: (continuing, re: the PADD, to Sisko) Odo's on subspace... It's urgent."}, "11": {"Display": "\"Q\" : Dispose of that. PICARD: Can we assume you mean this will be a fair trial? \"Q\" : Yes, absolutely equitable."}, "12": {"Display": "SISKO: He took a raw, young Ensign under his wing and taught me to appreciate life in ways I'd never thought about before... he taught me about art and science and diplomacy... whatever sense of honor I may have today, he nurtured... treason, murder -- he wasn't capable of those things. TANDRO: As you've already said, Commander, this is not a trial... SISKO: I'm describing my friend, Curzon Dax -- a man I knew very well. On the other hand... I can't tell you too much about my new friend there... We're really just getting to know each other."}, "13": {"Display": "DATA FRANK: My boy. WORF: That is not possible. Your son is to stand trial for murder. DATA/FRANK: Well then... maybe we can work it out. Is there something you want... in exchange for my boy?"}, "14": {"Display": "PICARD: I sincerely hope this is the last time I'll find myself here. Q: You just don't get it, do you, Jean-Luc? The trial never ends. Q: We wanted to see if you had the ability to expand your mind and your horizons... and for one brief moment, you did."}, "15": {"Display": "WORF: Where is he? WORF: I do not negotiate with criminals. Your son will stand trial. DATA/FRANK: Not so fast..."}, "16": {"Display": "MANDARIN-BAILIFF: Stand respectfully. All present, respectfully stand! \"Q\" : This trial is adjourned to allow the criminals to be tested. MANDARIN-BAILIFF: This honorable court is adjourned!"}, "17": {"Display": "WINN: I see... SISKO: They warned me that I'm going to have to face a great \"Trial.\" WINN: Did they say what it would be?"}, "18": {"Display": "MAKBAR: His execution is scheduled for next week. KEIKO: How can you schedule an execution before the trial even begins... ? MAKBAR: We believe in swift justice."}, "19": {"Display": "RIKER: No. It's not true... ATTENDANT: Yes it is. And if you get out of here, you're going to stand trial... RIKER: You're lying!"}, "20": {"Display": "WEYOUN: When will the prisoners be executed? DAMAR: When their trial is completed. The legal protocols must be observed. WEYOUN: When?"}, "21": {"Display": "GUL EVEK: We will contact your commander. And see that your wife is returned safely to your station. GUL EVEK: You will be taken to central prison on Cardassia Prime to await trial. O'BRIEN: I'm not going anywhere with you..."}, "22": {"Display": "ODO: No. VIC: Think of this evening as a trial run. Trust me, you're going to do great. ODO: Here's the report on that smuggling ring you requested. Do you want me to inform the Zevian authorities?"}, "23": {"Display": "MAKBAR: The charges will be announced when the trial begins. As is customary in Cardassian jurisprudence. KEIKO: How are we supposed to prepare for the trial if we don't know the charges? MAKBAR: Mrs. O'Brien, I take it?"}, "24": {"Display": "PEERS: Oh yes. SISKO: Madame Arbiter, this is not a trial... and Mister Tandro is not the prosecutor... RENORA: You've made your point, Mister Tandro."}, "25": {"Display": "GEORDI: Let's check the interface programming... WORF: What are his rights in this century? Will there be a trial... or shall I execute him? ALEXANDER: We're supposed to hold him until the U.S. Marshal comes. Then he'll take him to Rapid City for a trial."}, "26": {"Display": "ODO: That's a relief. For a moment I thought you were going to say it's because I'm a changeling. QUARK: Odo. I heard about your friend. Rumor has it the Klingons want to put him on trial. ODO: They're the ones who should be on trial. If they'd attacked anyone other than a changeling, they would be."}, "27": {"Display": "PICARD: Just a moment ago, you promised \"the prisoners will not be harmed.\" We plead nothing so long as you break your own rules. \"Q\" : I suggest you center your attention on the trial, Captain. It may be your only hope. PICARD: And I suggest you now may be having second thoughts about this trial! You're considering that if you conduct it fairly, which was your promise, you may lose."}, "28": {"Display": "SISKO: Nestor? ODO: Advisor to the offender. Madame Archon, I volunteer to serve as Nestor in this trial. MAKBAR: That is not possible. The Nestor must be an officer of the court."}, "29": {"Display": "Q: After our last encounter, I was asked to leave the Q continuum. Since then, I have been wandering vaguely -- bored really -- my existence without purpose. Then, I remembered the good times I had with you... RIKER: The good times!? The first time we met you put us on trial for the \"crimes of humanity\"... Q: Of which you were exonerated."}, "30": {"Display": "GARAK: (re: the Female Shape-shifter) May I suggest securing her in a containment field. ODO: Don't worry. She won't try to escape. She's agreed to stand trial for what she's done. KIRA: I would've thought she'd insist on going back to the Gamma Quadrant to cure her people."}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID7"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID8", "SecondaryAttribute": "Rank these based on relevance to the query \"chateau\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"chateau\"", "DefaultChoices": false, "DataExportTag": "Q7", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"chateau\"", "Choices": {"1": {"Display": "BASHIR: That better not be from a replicator, Quark. QUARK: Chateau Cleon, twenty-three-oh-three. I already put it on your account. JAKE: Can I?"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID8"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID9", "SecondaryAttribute": "Rank these based on relevance to the query \"archaeology\"", "TertiaryAttribute": null, "Payload": {"QuestionText": "Rank these based on relevance to the query \"archaeology\"", "DefaultChoices": false, "DataExportTag": "Q8", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "Rank these based on relevance to the query \"archaeology\"", "Choices": {"1": {"Display": "GEORDI: About her. That, you know, gets to the Captain. DATA: Perhaps it is their common interest in archaeology. TROI: I don't think so."}, "2": {"Display": "VASH: I came in through the window. PICARD: I had no idea you were a member of the Archaeology Council. PICARD: You are a member? Aren't you."}, "3": {"Display": "WESLEY: He's coming with me to starbase. Just the two of us. Nearly a six-hour transit. What am I going to talk to him about for six hours? SONYA: Archaeology...semantics... literature... art... you can learn a lot from Captain Picard. GEORDI: Nice day for a little trip, Captain?"}, "4": {"Display": "VASH: I don't suppose you ever heard of Professor Samuel Estragon? PICARD: As a matter of fact, I have. He spent half his life searching for the Uthat. Archaeology is a hobby of mine. VASH: I served as his personal assistant for the past five years. Shortly before he died, he uncovered new data pinpointing its location. That disc contains his research notes and maps."}, "5": {"Display": "WESLEY: (responding to Picard's enthusiasm and echoing it) How did you find out about all this? PICARD: Archaeology has been a hobby since my Academy days. But why don't we talk about what really brought you here? WESLEY: I can't stop thinking about the Yamato. All those people -- dead. I just don't know how you do it. You, Commander Riker, Geordi, you all handle it so easily."}, "6": {"Display": "JASON: Is it valuable... ? PICARD: Not really. Only to students of archaeology like myself. Still, I had to give up a very old bottle of Saurian brandy for it. JASON: I'd say you got taken."}, "7": {"Display": "MADRED: Let's not waste time arguing about issues we can't resolve. Would you care to tour the Hebitian burial vaults? MADRED: Even though they've been stripped of funerary regalia, the tomb paintings are extraordinary. Any student of archaeology would be thrilled. PICARD: What I would like... is to be returned to my ship."}, "8": {"Display": "MADRED: Please... let me remove those restraints. MADRED: I understand that you are a student of archaeology. Did you know that Cardassia boasts some of the most ancient and splendid ruins anywhere in the galaxy? PICARD: I know that the burial vaults of the First Hebitian civilization are said to be magnificent."}, "9": {"Display": "GALEN: I am currently on an expedition. A journey into unexplored historical territory. And I intend to take you with me. PICARD : Captain's log, supplemental. It has been over thirty years since I last saw my archaeology professor. His presence has taken me back to a time when I had considered a very different career... GALEN: I read your paper on the Kea Four excavation that you delivered at last year's symposium. It was... informative."}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID9"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "STAT", "PrimaryAttribute": "Survey Statistics", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"MobileCompatible": true, "ID": "Survey Statistics"}}]}
+{
+    "SurveyEntry": {
+        "SurveyID": "SV_6xouAISqKQBxcsL",
+        "SurveyName": "Star Trek - Day 1",
+        "SurveyDescription": null,
+        "SurveyOwnerID": "UR_7OFxk7nyYHSTdVI",
+        "SurveyBrandID": "umich",
+        "DivisionID": "DV_1Y9lB6ERvTgDbne",
+        "SurveyLanguage": "EN",
+        "SurveyActiveResponseSet": "RS_cNCXSFlCeGiDXP8",
+        "SurveyStatus": "Inactive",
+        "SurveyStartDate": "0000-00-00 00:00:00",
+        "SurveyExpirationDate": "0000-00-00 00:00:00",
+        "SurveyCreationDate": "2025-03-13 15:51:34",
+        "CreatorID": "UR_7OFxk7nyYHSTdVI",
+        "LastModified": "2025-03-16 08:27:32",
+        "LastAccessed": "0000-00-00 00:00:00",
+        "LastActivated": "0000-00-00 00:00:00",
+        "Deleted": null
+    },
+    "SurveyElements": [
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "BL",
+            "PrimaryAttribute": "Survey Blocks",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": [
+                {
+                    "Type": "Default",
+                    "Description": "Default Question Block",
+                    "ID": "BL_3PJTLAx6LukPjTM",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID3"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID1"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID4"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID5"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID6"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID7"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID8"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID9"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID10"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID11"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID12"
+                        },
+                        {
+                            "Type": "Page Break"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID13"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID14"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID15"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID16"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID17"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID18"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID19"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID20"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID21"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID22"
+                        }
+                    ]
+                },
+                {
+                    "Type": "Trash",
+                    "Description": "Trash / Unused Questions",
+                    "ID": "BL_6zYEIbdEZow8BAG",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "FL",
+            "PrimaryAttribute": "Survey Flow",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "Flow": [
+                    {
+                        "ID": "BL_3PJTLAx6LukPjTM",
+                        "Type": "Block",
+                        "FlowID": "FL_2"
+                    }
+                ],
+                "Properties": {
+                    "Count": 2
+                },
+                "FlowID": "FL_1",
+                "Type": "Root"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "PL",
+            "PrimaryAttribute": "Preview Link",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "PreviewType": "Brand",
+                "PreviewID": "47c6f108-3c89-44b1-9232-08e7e5edc8b6"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "PROJ",
+            "PrimaryAttribute": "CORE",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": "1.1.0",
+            "Payload": {
+                "ProjectCategory": "CORE",
+                "SchemaVersion": "1.1.0"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "QC",
+            "PrimaryAttribute": "Survey Question Count",
+            "SecondaryAttribute": "22",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "RS",
+            "PrimaryAttribute": "RS_cNCXSFlCeGiDXP8",
+            "SecondaryAttribute": "Default Response Set",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SCO",
+            "PrimaryAttribute": "Scoring",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "ScoringCategories": [],
+                "ScoringCategoryGroups": [],
+                "ScoringSummaryCategory": null,
+                "ScoringSummaryAfterQuestions": 0,
+                "ScoringSummaryAfterSurvey": 0,
+                "DefaultScoringCategory": null,
+                "AutoScoringCategory": null
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SO",
+            "PrimaryAttribute": "Survey Options",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "BackButton": "false",
+                "SaveAndContinue": "true",
+                "SurveyProtection": "PublicSurvey",
+                "BallotBoxStuffingPrevention": "false",
+                "NoIndex": "Yes",
+                "SecureResponseFiles": "true",
+                "SurveyExpiration": "None",
+                "SurveyTermination": "DefaultMessage",
+                "Header": "",
+                "Footer": "",
+                "ProgressBarDisplay": "None",
+                "PartialData": "+1 week",
+                "ValidationMessage": "",
+                "PreviousButton": "",
+                "NextButton": "",
+                "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+                "SkinLibrary": "umich",
+                "SkinType": "templated",
+                "Skin": {
+                    "brandingId": "3019387420",
+                    "templateId": "*base",
+                    "overrides": null
+                },
+                "NewScoring": 1,
+                "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "SurveyName": "Star Trek - Day 1"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID1",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"future\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"future\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q2",
+                "QuestionID": "QID1",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"future\"",
+                "Choices": {
+                    "1": {
+                        "Display": "CLEMENS: Seems to me I have as much right to be in your time as you had to be in mine. You see, sir, I wanted to see how you've conducted my future affairs. TROI: Your future affairs? CLEMENS: The affairs of mankind."
+                    },
+                    "2": {
+                        "Display": "DAX : What's so interesting in there? ARJIN: I can see my future. DAX: I wouldn't trust a bottle of synthale to tell you the future."
+                    },
+                    "3": {
+                        "Display": "DATA: Circumstances demand that I take you into my confidence. I require your assistance. DATA: I am from the future. GUINAN: Is this some kind of a joke?"
+                    },
+                    "4": {
+                        "Display": "VASH: Open it. VASH: A piece of the future. PICARD: A very dangerous piece. Were you really going to give it to the Daystom Institute?"
+                    },
+                    "5": {
+                        "Display": "BASHIR: Who told you that? O'BRIEN: You did. In the future. BASHIR: Oh... Who am I to argue with me?"
+                    },
+                    "6": {
+                        "Display": "TOG: Lwaxana... you and I are going to make such a wonderful team... With your telepathy and my cunning, I foresee -- LWAXANA: -- a very profitable future. WORF: Subspace interference is subsiding... communications have been restored..."
+                    },
+                    "7": {
+                        "Display": "BEVERLY: Your friend Guinan sent this up from Ten Forward. It's not to pack -- it's for me to propose a toast with. BEVERLY : To a future Starfleet officer. WESLEY: Mom -- thanks."
+                    },
+                    "8": {
+                        "Display": "DATA: Cancel program. SETAL: This is my home now. My future. SETAL: I've sacrificed everything. It must not be in vain."
+                    },
+                    "9": {
+                        "Display": "BAREIL: \"Orb?\" KIRA: A gift from the Prophets. It can foresee the future -- or a possible future, anyway. BAREIL: That could come in handy. Who are the Prophets?"
+                    },
+                    "10": {
+                        "Display": "BASHIR: In my case, you would get a firm, \"no.\" But you've answered my question with a question. CRETAK: I try not to predict the future. BASHIR: What about Chairman Koval?"
+                    },
+                    "11": {
+                        "Display": "PICARD: Shakespeare enjoyed mixing opposites... PICARD: Past and future... Despair and hope... PICARD: Data, is this part of your program?"
+                    },
+                    "12": {
+                        "Display": "PICARD: You said something earlier about decisions today. GUINAN: Having implications for the future. PICARD: Precedent! This case will set the precedent for all the future Datas. It will determine their status, and they'll all be property."
+                    },
+                    "13": {
+                        "Display": "QUARK: I... I... I... PEL: So, tell me more about my big future. ZEK: You have no future. I'll see to it you spend the rest of your life in prison."
+                    },
+                    "14": {
+                        "Display": "GUINAN : Looked like quite an intense discussion. GEORDI: Yeah... talking about life, death, the future... GUINAN: Somebody getting married?"
+                    },
+                    "15": {
+                        "Display": "PICARD: Well done, Mister Data... although I believe you parted Commander Riker's hair on the wrong side. DATA: I will be more observant in the future, sir. SELA: It doesn't matter what you do now. Spock's announcement will be made in minutes. Our forces will be on Vulcan before you can alert anyone..."
+                    },
+                    "16": {
+                        "Display": "GEORDI: So, when we reach that moment -- whatever happened will happen again... The Enterprise will be destroyed, the \"other Picard\" sent back to meet with us and do it all over again. That sounds like someone's definition of hell. RIKER: I know this much -- we can't avoid the future. PICARD: Agreed. So let's continue on course. Everyone return to your duty stations. Somewhere out there something will happen... a decision will be made which will cause me to become separated from the Enterprise -- at the time that decision will seem correct, but it won't be. We have to anticipate and not make the same mistake once. Something is waiting for us out there -- let's determine what it is as quickly as possible."
+                    },
+                    "17": {
+                        "Display": "QUARK: I would consider it a privilege. And the purpose of this conference... ? ZEK: The future. And for Ferengi business interests the future is already here. And its name is the Gamma Quadrant. O'BRIEN: Alright, class please turn on your computers. Jake, Luta, I want to see your algebra homework."
+                    },
+                    "18": {
+                        "Display": "DATA: Their ships are deployed to support a policy of confrontation designed to test Federation defenses along the Neutral Zone. PICARD: Do you predict any change in the near future? DATA: I project a ninety percent probability that they will continue to pursue this policy."
+                    },
+                    "19": {
+                        "Display": "SISKO: I was standing in front of the Obelisk. And as I looked up, for a moment, I understood it all. B'hala... the Orbs... the occupation... the discovery of the wormhole... the coming war with the Dominion. KIRA: You could see the future as well as the past? SISKO: And for one moment, I could see the pattern that held it all together."
+                    },
+                    "20": {
+                        "Display": "BRUNT: Would someone please tell that female to take off those clothes -- it's disgusting. ISHKA: Get used to it, limp lobes. This is the future. BRUNT: Over my dead body."
+                    },
+                    "21": {
+                        "Display": "PICARD: You are aboard the Enterprise, Captain... one-seven-oh-one-D. PICARD: You have come twenty-two years into the future. GARRETT: Twenty-two years."
+                    },
+                    "22": {
+                        "Display": "SISKO: Can you spare a moment? MARTOK: We've been discussing your plans for the future. WORF: I wasn't aware I had plans."
+                    },
+                    "23": {
+                        "Display": "Q: She'd better -- because I'm all she's got. She needs me to prepare her... for her future with the Q. PICARD: She may not want that future. The decision is hers. Q: Yes, yes -- fine. But do you really think she'll want to remain a feeble mortal?"
+                    },
+                    "24": {
+                        "Display": "RIKER: And yet in both the past and the present -- there's a report of the same anomaly in the Devron System. It's hard to believe that's a coincidence. PICARD: For all I know, there may be one in the future, too. GEORDI: Maybe the anomaly is some kind of... temporal disruption."
+                    },
+                    "25": {
+                        "Display": "QUARK: I was... looking forward to showing you more ways to mix business with pleasure... SAKONNA: Perhaps in the future. I find you... intriguing, Quark. QUARK: \"Intriguing.\""
+                    },
+                    "26": {
+                        "Display": "HOGUE: Political Ethics. REKELEN: Her teachings will change the future of Cardassia. NATIMA: That's enough, Rekelen."
+                    },
+                    "27": {
+                        "Display": "GUINAN: You know... so much about me... PICARD: Believe me, in the future the tables will be turned. GUINAN: We... become friends..."
+                    },
+                    "28": {
+                        "Display": "DAX ALIEN: But the Zek wanted to understand events outside the restrictions of linear time. QUARK: He wanted to see the future so he could gain by it. BASHIR ALIEN: Yes. The Zek explained the value of \"gain.\" How more is preferable to less."
+                    },
+                    "29": {
+                        "Display": "GOWRON: Can you not see what you are doing... are you blind to what they represent... are there so few noble Klingons left? GOWRON: Then go... your blood will paint the way to the future. TORAL: Remember this day."
+                    },
+                    "30": {
+                        "Display": "PICARD: You're going to have to prove you are who you say you are. AJUR: As you yourself said, the Uthat belongs to the future. PICARD: But not necessarily to you."
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID10",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"chocolate\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"chocolate\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q9",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"chocolate\"",
+                "Choices": {
+                    "1": {
+                        "Display": "DATA: When Counselor Troi is in an unhappy mood, she often has something chocolate... Q: Chocolate... DATA: For example, a hot fudge sundae. I cannot speak from personal experience, but I have seen it often has a profound psychological impact."
+                    },
+                    "2": {
+                        "Display": "ENSIGN FELTON: Aye, sir. TROI: Hot chocolate. TROI: Computer -- list my appointment schedule for next week."
+                    },
+                    "3": {
+                        "Display": "RIKER: Have you stopped thinking about us? TROI: Hot chocolate. RIKER: Have you stopped thinking about us?"
+                    },
+                    "4": {
+                        "Display": "TROI: Very well, Lieutenant. TROI: Hot chocolate. WORF: Is there something I can do for you?"
+                    },
+                    "5": {
+                        "Display": "RIKER: Sure. I'll catch up with you later. RIKER: Chocolate ice cream. Chocolate fudge. Chocolate chips. You're not depressed, are you? TROI: I'm fine, Commander."
+                    },
+                    "6": {
+                        "Display": "TROI: I already have a job as a counselor. SONYA: Hot chocolate, please. GEORDI: We don't ordinarily say \"please\" to food dispensers."
+                    },
+                    "7": {
+                        "Display": "TROI: No... I'm alone. No one's there. TROI: I get some hot chocolate... JEV: Something's happening..."
+                    },
+                    "8": {
+                        "Display": "RIKER: I never knew it was a ritual. TROI: Chocolate is a serious thing. RIKER: You know... I brought something back from Risa. It's better than chocolate."
+                    },
+                    "9": {
+                        "Display": "QUARK: Listen, I feel you and I... we've gotten off to a bad start here... let me make it up to you... you need anything? A little ginger tea, no, you don't drink... QUARK: Chocolate, maybe... companionship... ? SISKO: You look like you just lost your best friend, Constable."
+                    },
+                    "10": {
+                        "Display": "WORF: I believe Commander Data's painting is making me dizzy... WORF: I thought this cake was chocolate... TROI: Don't I wish."
+                    },
+                    "11": {
+                        "Display": "SALIA: I'd like something sweet. WESLEY: I know... Computer, Thalian chocolate mousse. SALIA: It's a wonderful sensation."
+                    },
+                    "12": {
+                        "Display": "RIKER: May I escort you in, Miss Troi... TROI: Just tell me there's some chocolate here... PICARD: Ah, Counselor Troi... allow me to do the introductions... Premier Bhavani of the Barzan..."
+                    },
+                    "13": {
+                        "Display": "RIKER: I don't like fudge. TROI: Really. I never met a chocolate I didn't like. RIKER: Doesn't it taste good?"
+                    },
+                    "14": {
+                        "Display": "WESLEY: How about something to drink? SALIA: How about some more of that Thalian chocolate? PICARD: We have obviously brought a very dangerous life-form aboard this ship. I want to minimize the chances of another incident."
+                    },
+                    "15": {
+                        "Display": "TROI: Transfer my mother's letters to my viewer... TROI : ... and computer, I'd like a... a real chocolate sundae. COMPUTER: Define \"real\" in context, please."
+                    },
+                    "16": {
+                        "Display": "JAKE: I had a weird dream. SISKO: Why don't you get a hot chocolate and tell me about it? JAKE: Nah, it's nothing."
+                    },
+                    "17": {
+                        "Display": "TROI: Let me introduce you to some of my favorites... Here we have peach cobbler with whipped cream. Tarvokian powder cake... But over here -- this is my very favorite. TROI: This is a Ktarian Chocolate Puff. I'm not exactly sure what's in it... but I think there are at least seventeen varieties of chocolate inside. LOQUEL: It is... it is..."
+                    },
+                    "18": {
+                        "Display": "GUINAN: Tell her about her eyes. GUINAN: You won't find a better dish of chocolate on Thalos or Daled Four. SALIA: I'm sure I won't..."
+                    },
+                    "19": {
+                        "Display": "TROI: Chocolate is a serious thing. RIKER: You know... I brought something back from Risa. It's better than chocolate. TROI: Oh... what is it?"
+                    },
+                    "20": {
+                        "Display": "BEVERLY: We've been having control problems today. There's a small fracture here... this'll just take a minute... NURSE: You look like you could use something warm inside you... hot chocolate, maybe? ANNETTE: Wes almost came along. It's probably a good thing he didn't."
+                    },
+                    "21": {
+                        "Display": "Q: I'm in a dreadful mood... get me something appropriate... DATA: When Counselor Troi is in an unhappy mood, she often has something chocolate... Q: Chocolate..."
+                    },
+                    "22": {
+                        "Display": "SONYA: Yes. GEORDI: I don't think you want to bring that hot chocolate around these control stations. SONYA: Sorry. I shouldn't even have this in engineering. We were talking and I just forgot I had it in my hand..."
+                    },
+                    "23": {
+                        "Display": "O'BRIEN: So far, it's one I'd like to forget. BASHIR: And Keiko's been away on Bajor -- she's missed you. Bring her a gift -- what's her favorite chocolate? O'BRIEN: Tellurian mint truffles. But I still think you should be there with me."
+                    },
+                    "24": {
+                        "Display": "PICARD: Wesley, know this... you will be missed. CLARA: I like to cook all kinds of stuff. Like yogurt and raisin salad... chocolate-chip pancakes... and purple omelettes. TROI: Purple omelettes?"
+                    },
+                    "25": {
+                        "Display": "LEE: I was afraid to. BASHIR: I'll see about getting you some medicine. In the meantime I'll try and find you a chocolate bar or something. LEE: Wasn't he here with you... ?"
+                    },
+                    "26": {
+                        "Display": "WINN: I don't understand. QUARK: In honor of this occasion, I've named my latest creation after you. It's a chocolate souffle with Haligian tongue sauce. WINN: I'm honored."
+                    },
+                    "27": {
+                        "Display": "COMPUTER: Define \"real\" in context, please. TROI: Real... not one of your perfectly synthesized, ingeniously enhanced imitations... real chocolate ice cream, real whipped cream... COMPUTER: This unit is programmed to provide sources of nutritional value. Your request does not fall within current guidelines."
+                    },
+                    "28": {
+                        "Display": "RIKER: She's just a bitter old woman... don't give her the power to worry you. TROI: You're right. Okay, let's get through these evaluations. When they're done I'm going to reward myself with a chocolate brownie. RIKER: Next, Physical Sciences. Lieutenant Jeffrey Fratis..."
+                    },
+                    "29": {
+                        "Display": "TROI: Pardon me? GUINAN: When I see you with a piece of chocolate cake... that hasn't been touched... either the cake's no good -- or something's bothering you. TROI: I'm sure the cake is fine. I've just been thinking..."
+                    },
+                    "30": {
+                        "Display": "WORF: It was... excruciating. LOQUEL: Counselor, these are bio-enzymatic supplements that my people consume for food. I'm afraid you will find they are not as... delicious... as your chocolate. TROI: After the past few days... I could use something a little bland."
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID10"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID11",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"kahless\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"kahless\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q10",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"kahless\"",
+                "Choices": {
+                    "1": {
+                        "Display": "S : ... Do Shell... DIVOK: Kahless! I see Kahless! DIVOK: He is standing before me... holding a sword... he wants something... me, he wants me! He wants me to go with him!"
+                    },
+                    "2": {
+                        "Display": "WORF: Do you know who they are? ALEXANDER: Kahless... ? WORF: And his brother, Morath. They fought for twelve days and twelve nights... because Morath had broken his word... and brought shame to his family. When you lie or steal, you dishonor not only yourself, but your family. You dishonor me."
+                    },
+                    "3": {
+                        "Display": "GOWRON: Koroth. I see that not all fools die young. KLINGON: Kahless! KOROTH: Kahless, may I present Gowron, Leader of the High Council."
+                    },
+                    "4": {
+                        "Display": "DAX: Ko'ma tlang'goS... ak-bay... DAX: Hava'dak... croosh tovah... Ko'ma Kahless... Ko'ma Kahless... Ko'ma Kahless... BASHIR: Request for equipment upgrades in the Infirmary."
+                    },
+                    "5": {
+                        "Display": "QUARK: I am a Ferengi. That means I have a talent for appreciating objects of great value. And I believe you may be worth more than all the latinum in the quadrant. GRILKA: My Kahless... QUARK: My Lukara..."
+                    },
+                    "6": {
+                        "Display": "KAHLESS: I have returned because there is a great need in my people... they fight among themselves in petty wars and corrupt the glory of the Klingon spirit. They have lost their way. But it is not too late. I have returned and I will lead my people again! KOROTH: Vorcha-doh-baghk, Kahless! (All hail Kahless) CROWD: Vorcha-doh-baghk, Kahless!"
+                    },
+                    "7": {
+                        "Display": "WORF: Only one man can stand against Molor. ALEXANDER: It's Kahless! SINGER: Nok'til Kahless. Molor gik'tal!"
+                    },
+                    "8": {
+                        "Display": "KOROTH: Who are you? DIVOK: It is Kahless! KAHLESS: I have returned."
+                    },
+                    "9": {
+                        "Display": "WORF: Torva... Luk... Do... Shell... WORF: I see Kahless. WORF: You are... real?"
+                    },
+                    "10": {
+                        "Display": "WORF: Kahless would rather die than live under Molor's tyranny... ALEXANDER: Ni'lot Kahless! ALEXANDER: Father --"
+                    },
+                    "11": {
+                        "Display": "KAHLESS: Q'apla, son of Mogh. WORF: Q'apla... Kahless. PICARD : Captain's log, Stardate 41209.2. We are running at Warp 7 to rendezvous with the science vessel S. S. Tsiolkovsky..."
+                    },
+                    "12": {
+                        "Display": "KOROTH : But we did not have the technology to bring you back until now. We were able to use an organic sample of the first Kahless to... give you life. KAHLESS: The first Kahless? WORF: A clone. He is a clone."
+                    },
+                    "13": {
+                        "Display": "WORF: Kahless himself was not high- born. MARTOK: Kahless was divine. WORF: Your name is revered throughout the Empire. If you seize the Leadership, every warrior from here to Kronos will swear an oath to you. With that kind of support, the High Council will have no choice but to accept you as chancellor."
+                    },
+                    "14": {
+                        "Display": "KOR: More revered than Sabak's armor, and more coveted than the Emperor's crown! WORF: The Sword of Kahless. DAX: You told me not to tell anybody."
+                    },
+                    "15": {
+                        "Display": "KOROTH: You should not have arranged this without my approval. WORF: I did. Kahless approved. KOROTH: Yes. Yes, of course he did."
+                    },
+                    "16": {
+                        "Display": "KAHLESS: Join with me, Gowron. Let us usher in this new era together. GOWRON: Vorcha-doh-baghK... Kahless. KAHLESS: Farewell, Worf."
+                    },
+                    "17": {
+                        "Display": "KOROTH: Vorcha-doh-baghk, Kahless! (All hail Kahless) CROWD: Vorcha-doh-baghk, Kahless! KAHLESS: What is it you are doing?"
+                    },
+                    "18": {
+                        "Display": "KOLANA: Their warp fields are destabilizing... They're dropping to impulse! MARTOK: By Kahless's hand... how many? KOLANA: All of them!"
+                    },
+                    "19": {
+                        "Display": "ALEXANDER: It's Kahless! SINGER: Nok'til Kahless. Molor gik'tal! WORF: Kahless would rather die than live under Molor's tyranny..."
+                    },
+                    "20": {
+                        "Display": "KAHLESS: Where are you going? KOROTH: Kahless, it might be better if -- KAHLESS: Go away, Koroth. I've listened to you and Torin until my ears burn with politics. Let me and Worf be alone for a while."
+                    },
+                    "21": {
+                        "Display": "WORF: I have studied them all my life... and find new truths in them every time. BA'EL: Kahless... did he ever take a mate? WORF: That is... another story."
+                    },
+                    "22": {
+                        "Display": "GOWRON: But how... how can this be? WORF: It is true... Kahless has returned. KOROTH: Enter."
+                    },
+                    "23": {
+                        "Display": "MARTOK: I've heard every word you said. You want me to become Chancellor. Me. Tell me Worf, how do you think the members of the High Council will react when they're asked to follow a common man from the Ketha Lowlands? A man without a drop of noble blood in his veins? WORF: Kahless himself was not high- born. MARTOK: Kahless was divine."
+                    },
+                    "24": {
+                        "Display": "BA'EL: You never answered my question. BA'EL: Did Kahless find his father's sword? WORF: Yes. He found it."
+                    },
+                    "25": {
+                        "Display": "KOROTH: You came to us seeking answers... but this is a place of questions. Open your heart to Kahless... ask him your questions... let him speak to you with your mind unclouded by doubt or hesitation. Only then can you find what you are looking for. If you cannot do that... then perhaps you should return to your starship. WORF: I will open my heart, Kahless. I will... WORF: Torva... Luk... Do... Shell..."
+                    },
+                    "26": {
+                        "Display": "GOWRON: Where is he, Picard? PICARD: I assume you're referring to Kahless. GOWRON: I am referring to the filthy pahtak who is using his name."
+                    },
+                    "27": {
+                        "Display": "GOWRON: You are not a fool, Worf. Do you really think that every Klingon in the Empire will bend his knee and grovel before this man just because Koroth says he is Kahless? WORF: He is Kahless. Your own test proved it. GOWRON: I will not hand over the Empire to Koroth because of one test."
+                    },
+                    "28": {
+                        "Display": "KAHLESS: You have no joy, Gowron. Is your heart so filled with distrust and suspicion that you have forgotten what it is to be truly Klingon. GOWRON: \"Kahless... the greatest warrior of them all... \" WORF: There is no future here... no glorious new era for our people. Gowron was right, you don't know the name of the man who faced the storm... you don't even know what real Warnog tastes like... and you certainly are not the greatest warrior of all. Whoever you are... you're not Kahless."
+                    },
+                    "29": {
+                        "Display": "GOWRON: I oppose you. I say you are not Kahless... and I will not bend my knee to you as long as I can draw a breath or pick up a blade. WORF: No. I do not believe Kahless will kill him. KAHLESS: A good try, Gowron... but not enough."
+                    },
+                    "30": {
+                        "Display": "SYNON: But sir... they have a garrison of ten thousand... MARTOK: By the... hand of Kahless... get us out of here! KOR: Victory is ours! The Federation will rue the day they dared to challenge the might of the Klingon Empire! We will take Caleb Four and raise our banner above the smoking ruins of their outpost!"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID11"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID12",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"father\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"father\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q11",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"father\"",
+                "Choices": {
+                    "1": {
+                        "Display": "SKORAN: Stay out of this, Ice-man. Your memory's not very reliable. GIA: Father! Father, what's wrong? GARVIN: I don't know... I feel... very weak suddenly."
+                    },
+                    "2": {
+                        "Display": "MAURICE: Jean-Luc... PICARD: Father... MAURICE: I told you not to go running off to that Academy. I told you that Starfleet would bring you to a bad end. But you wouldn't listen. Now look at you... dead before your time."
+                    },
+                    "3": {
+                        "Display": "LIKO : Oji? OJI: Father? LIKO: Here..."
+                    },
+                    "4": {
+                        "Display": "ADMINISTRATOR: Enough! There is a plan in the works. I can't tell you more than that. YOUNG BATAI : Father! PICARD: What is it -- ?"
+                    },
+                    "5": {
+                        "Display": "PICARD: Batai? YOUNG BATAI: Father... ? PICARD: I get the feeling from your mother that you have something to tell me."
+                    },
+                    "6": {
+                        "Display": "DANILO: (to Riker with an ingratiating smile) Pay her no heed, she's a grand girl. And not usually so... er... ... sharp tongued. BRENNA : Father! RIKER: Of all the reactions that's not the one I expected."
+                    },
+                    "7": {
+                        "Display": "RIKER: No, doctor... it's your daughter. DARA: Father... TIMICIN: Dara."
+                    },
+                    "8": {
+                        "Display": "PICARD : Captain's Log, Stardate 46278.3. Both Commander Data and the ship's computer have been restored to normal operation. Our rendezvous with the supply ship Biko has proceeded as planned. ALEXANDER: Father... ALEXANDER: After what happened... I guess you'll never want to go back to the Ancient West..."
+                    },
+                    "9": {
+                        "Display": "WORF: Do not show your face in this town again. ALEXANDER: Father! WORF: Are you alright?"
+                    },
+                    "10": {
+                        "Display": "RIKER: It's too heavy. We need something to help us. ALEXANDER: Father? WORF: Be still, I am here."
+                    },
+                    "11": {
+                        "Display": "TARMIN: We're to be prisoners? JEV: Father... PICARD: Please don't think of it that way."
+                    },
+                    "12": {
+                        "Display": "TARMIN: There is nothing to fear... JEV: Father... WORF: I am not fearful."
+                    },
+                    "13": {
+                        "Display": "DATA: Lal is programmed to return to the lab in the event of a malfunction. LAL: Father. DATA: Yes, Lal. I am here."
+                    },
+                    "14": {
+                        "Display": "LAL: Purpose for... exterior drapings, Father? WESLEY: Father? DATA: It is the custom that we wear clothing."
+                    },
+                    "15": {
+                        "Display": "WORF: As Klingons, we must always be prepared for any--- ALEXANDER: Father! WORF: Take him away."
+                    },
+                    "16": {
+                        "Display": "BEVERLY: Absolutely. ALEXANDER: Father? WORF: Come in, Alexander."
+                    },
+                    "17": {
+                        "Display": "ALEXANDER: Ni'lot Kahless! ALEXANDER: Father -- WORF: Where have you been?"
+                    },
+                    "18": {
+                        "Display": "FEMALE SHAPE-SHIFTER: No. But he will join us one day... it's only a matter of time. ZIYAL : Father! DUKAT: Ziyal."
+                    },
+                    "19": {
+                        "Display": "ROM: Nagus! KRAX: Father? ODO: Looks like you needed my help after all."
+                    },
+                    "20": {
+                        "Display": "CRODEN: It shapes itself to fit this lock. YARETH: Father? YARETH: I was dreaming about you."
+                    },
+                    "21": {
+                        "Display": "ODO: I wasn't saying that at all. Are you? KIRA: Father. KIRA: Father. Hold still. You'll tear the bandages."
+                    },
+                    "22": {
+                        "Display": "FUREL: Nerys. KIRA : Father? KIRA: Father, can you hear me?"
+                    },
+                    "23": {
+                        "Display": "DUKAT: Ziyal. ZIYAL: Father? ZIYAL: It's really you. Mother said you'd come."
+                    },
+                    "24": {
+                        "Display": "NURIA: Don't do it, Liko! OJI: Father -- no! PICARD : Captain's log, supplemental. Before we dismantle the observation post and depart, I must make one last visit to Mintaka Three."
+                    },
+                    "25": {
+                        "Display": "SABIN: Yes. I can see that. And I don't mind telling you I'm surprised. Frankly, when I first heard about your father... WORF: My father... SABIN: ...yes... There are some who believe he betrayed your people to the Romulans..."
+                    },
+                    "26": {
+                        "Display": "K'MPEC: Of that I have no question. But your life in the Federation would not be affected by this judgment. WORF: My father... K'MPEC: Is dead. He died long ago. I knew your father, served with him... this is not the way I wanted to remember him. But we must let the past be and protect what we have now."
+                    },
+                    "27": {
+                        "Display": "DAX: Who sponsored you for the program? ARJIN: My father. DAX: Was he Joined?"
+                    },
+                    "28": {
+                        "Display": "ROM: Is this what they teach you at that human school of yours? Sloth and indolence... NOG: No, father. ROM: We'll see about that. Tonight you'll polish every rail in the place until they sparkle. Is that clear?"
+                    },
+                    "29": {
+                        "Display": "GARVIN: That can wait until later, Gia. Right now, we should clean him up and get him something decent to wear. Run upstairs and get some of my old clothes for him. GIA: Yes, Father. GARVIN: I wonder if Skoran could tell us something about this metal of yours..."
+                    },
+                    "30": {
+                        "Display": "GARVIN: Gia, go on to school. I'll deal with the stranger. GIA: Yes, Father. GIA: Good-bye."
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID12"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID13",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"future\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"future\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q12",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"future\"",
+                "Choices": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID13",
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID1/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": []
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID14",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"chocolate\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"chocolate\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q13",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"chocolate\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID4/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID14"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID15",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"kahless\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"kahless\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q15",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"kahless\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID5/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID15"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID16",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"father\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"father\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q16",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"father\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID6/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID16"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID17",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"wedding\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"wedding\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q17",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"wedding\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID7/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID17"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID18",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"romance\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"romance\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q18",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"romance\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID8/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID18"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID19",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"fiction\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"fiction\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q19",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"fiction\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID9/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID19"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID2",
+            "SecondaryAttribute": "Click to write the question text",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Click to write the question text",
+                "DataExportTag": "Q2",
+                "QuestionType": "MC",
+                "Selector": "SAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Click to write the question text",
+                "Choices": {
+                    "1": {
+                        "Display": "Click to write Choice 1"
+                    },
+                    "2": {
+                        "Display": "Click to write Choice 2"
+                    },
+                    "3": {
+                        "Display": "Click to write Choice 3"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID2"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID20",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"trial\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"trial\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q20",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"trial\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID10/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID20"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID21",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"chateau\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"chateau\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q21",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"chateau\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID11/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID21"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID22",
+            "SecondaryAttribute": "Rank these based on how funny they are for the query \"archaeology\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on how funny they are for the query \"archaeology\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q22",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these based on how funny they are for the query \"archaeology\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID12/ChoiceGroup/SelectedChoicesInGroup/1",
+                    "Type": "Dynamic"
+                },
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID22",
+                "DynamicChoicesData": []
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID3",
+            "SecondaryAttribute": "What is your name?",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "What is your name?",
+                "DefaultChoices": false,
+                "DataExportTag": "Q1",
+                "QuestionType": "TE",
+                "Selector": "ML",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "What is your name?",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID3"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID4",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"wedding\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"wedding\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q3",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"wedding\"",
+                "Choices": {
+                    "1": {
+                        "Display": "DATA: Thank you, Doctor. I am now ready to dance at the wedding. BEVERLY: Wedding? DATA: Keiko's wedding."
+                    },
+                    "2": {
+                        "Display": "BEVERLY: Wedding? DATA: Keiko's wedding. BEVERLY: But you never... you didn't say it was for the wedding."
+                    },
+                    "3": {
+                        "Display": "TROI: They're bonding gifts... ... what you would call... wedding presents. RIKER: Wedding presents? What wedding? Who's getting married? TROI: I am."
+                    },
+                    "4": {
+                        "Display": "ROM: I'm fine, Captain. Thanks for asking. ODO: The wedding's off. SISKO: I'm sorry."
+                    },
+                    "5": {
+                        "Display": "ODO: It was the dowry for his wedding. KIRA: When's the wedding? ODO: Tomorrow."
+                    },
+                    "6": {
+                        "Display": "DAX: What is it, Worf? What's wrong? WORF: It's about our wedding. DAX: You're getting cold feet --"
+                    },
+                    "7": {
+                        "Display": "RIKER: Every word. I'm sorry. TROI: Come dance at my wedding. RIKER: I'll try."
+                    },
+                    "8": {
+                        "Display": "SISKO: What do you think you're doing? O'BRIEN: The wedding's been called off. SISKO: It's back on."
+                    },
+                    "9": {
+                        "Display": "DATA: You do not wish to rehearse? KEIKO: No, I'm... calling off the wedding. DATA: May I ask why?"
+                    },
+                    "10": {
+                        "Display": "WORF: Jadzia. DAX: I guess the wedding's still on. O'BRIEN: Hey, Quark -- are the holosuites still working?"
+                    },
+                    "11": {
+                        "Display": "EZRI: That's funny. Because on our wedding night you told me -- EZRI: Sorry. I shouldn't have mentioned our wedding night -- I mean, Jadzia's wedding night. EZRI: This is ridiculous. We can't have a conversation if you refuse to talk about the things we have in common."
+                    },
+                    "12": {
+                        "Display": "KIRA: Three cases? ODO: It was the dowry for his wedding. KIRA: When's the wedding?"
+                    },
+                    "13": {
+                        "Display": "WORF: You have been planning this all along. DAX: Seems fair. You planned the wedding. WORF: Very well. Room service."
+                    },
+                    "14": {
+                        "Display": "DATA : I find Lieutenant Worf to be what is called a kindred spirit. We were both orphans and were both rescued by Starfleet officers. In many ways, we are both still outsiders in Human society. I do not fully understand why, but I find it... comforting to think that I am not alone in that regard. DATA: Are you here to find a wedding gift? WORF: Yes."
+                    },
+                    "15": {
+                        "Display": "BASHIR: What's going on? QUARK: Haven't you heard? The wedding's off. O'BRIEN: Off? Why?"
+                    },
+                    "16": {
+                        "Display": "KEIKO: Come in. DATA: It is time for the wedding rehearsal. KEIKO: I know... I've decided not to go through with it, Data."
+                    },
+                    "17": {
+                        "Display": "LWAXANA: There's really nothing to do, you nosey little girl. Campio's already sent me his mother's wedding gown, which Mister Homn is now altering for me. Outside of that... TROI: Wedding gown? Mother. Stop. Are you telling me you're not going to be naked at your own wedding? LWAXANA: Campio is from a different planet with different traditions. He wouldn't approve of a traditional Betazoid wedding, so I'm adapting; simple as that. Care for some nice jestral tea, dear?"
+                    },
+                    "18": {
+                        "Display": "SIR GUY: Well done, my dear. VASH: Consider it my wedding present to you. Q: Congratulations, Gisbourne. I see you've snared the jackal."
+                    },
+                    "19": {
+                        "Display": "WORF: Jadzia, there is one more thing -- DAX: As long as it's not about the wedding. WORF: After we exchange vows, you must remember to present your d'h tahg to General Martok as a formal request that he accept you into his house."
+                    },
+                    "20": {
+                        "Display": "KEIKO: I'm supposed to be getting married, Data. I should be happy... but I'm not. I just feel this weight pressing down on me. DATA: Will cancelling the wedding make you happy? KEIKO: Yes. He'll probably be just as relieved as I am. Data, you introduced us, you mean a lot to both of us... I'd really appreciate it if... you would tell Miles for me."
+                    },
+                    "21": {
+                        "Display": "GEORDI: Absolutely. DATA: Then you believe the wedding will still proceed? GEORDI: Trust me, they'll get married... so you better find a gift."
+                    },
+                    "22": {
+                        "Display": "PULASKI: It's a match made in heaven. RIKER: Unfortunately it's going to be a shotgun wedding. GRANGER: I'm sorry, Captain, but it's out of the question. You're trying to dump your problem off on us. And we've got problems of our own."
+                    },
+                    "23": {
+                        "Display": "DAX: All men are sentimental. They just cover it up with scowls and clenched jaws. There're times when Worf literally gets misty- eyed talking about Klingon rituals. KIRA: And that's why you're letting him plan the wedding? DAX: Mostly. But the truth is, I've gone through five Trill ceremonies -- three as a bride, two as a groom -- and I'm a little bored with it. Is it my imagination, or did Odo just avoid us?"
+                    },
+                    "24": {
+                        "Display": "DATA: I should not have interfered. It would be best if I apologized. KEIKO: It would be best if you got dressed. For the wedding? DATA: But..."
+                    },
+                    "25": {
+                        "Display": "DATA: Keiko's wedding. BEVERLY: But you never... you didn't say it was for the wedding. DATA: Is that important?"
+                    },
+                    "26": {
+                        "Display": "WORF: My relationship with Alexander is not your concern. EZRI: That's funny. Because on our wedding night you told me -- EZRI: Sorry. I shouldn't have mentioned our wedding night -- I mean, Jadzia's wedding night."
+                    },
+                    "27": {
+                        "Display": "BEVERLY: You seem to have... picked up the basics. DATA: Thank you, Doctor. I am now ready to dance at the wedding. BEVERLY: Wedding?"
+                    },
+                    "28": {
+                        "Display": "DAX: He's such a worrier. SISKO: Take my advice, old man. A small wedding is the way to go. DAX: You get married the way you want, and I'll get married the way I want."
+                    },
+                    "29": {
+                        "Display": "BASHIR: Too bad Ezri and Worf couldn't be here... O'BRIEN: They probably got held up picking out a wedding present. ODO: Usually when we come to events like this, you're the one who has to remind me to smile."
+                    },
+                    "30": {
+                        "Display": "PICARD : Captain's log, stardate 45733.6. Temporary repairs to the ship have been completed. Our attention now turns to matters of a more festive nature. RIKER: You'd think she'd at least get to her own wedding on time. ERKO: Minister, this is infamous. Infamous!... We leave immediately!"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID4"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID5",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"romance\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"romance\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q4",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"romance\"",
+                "Choices": {
+                    "1": {
+                        "Display": "TROI: It's as if I were to say to you \"Juliet. On her balcony.\" BEVERLY: An image of romance. TROI: Exactly. Image is everything to the Tamarians."
+                    },
+                    "2": {
+                        "Display": "ODO: Sir? SISKO: A little romance, Odo. ODO: I have six pylons that need a complete security sweep... I don't have time for romantic interludes... frankly, in my humble opinion, most of you humanoids spend far too much time on your respective mating rituals..."
+                    },
+                    "3": {
+                        "Display": "ODO: It doesn't sound like much of a romance. KIRA: We weren't having a romance. ODO: Then, why would he tell his wife you were?"
+                    },
+                    "4": {
+                        "Display": "PICARD: Hello, my beauty. TROI: So you like horses for the romance? PICARD: It goes deeper than that. A fine war mare would sleep in a bedouin's tent, carry him into battle, feed his children with her milk. There is a bond which forms from mutual need."
+                    },
+                    "5": {
+                        "Display": "KIRA: No. ODO: It doesn't sound like much of a romance. KIRA: We weren't having a romance."
+                    },
+                    "6": {
+                        "Display": "KIRA: Maybe you should finish it. ODO: Why waste my time? Romance is for solids. KIRA: You are solid... at least eighteen hours a day. I'm sure there're plenty of woman on this station who'd be interested in you if you gave them half a chance."
+                    },
+                    "7": {
+                        "Display": "WYATT: I'm Wyatt. VICTORIA: Isn't this simply beautiful? I knew romance was still alive somewhere. WYATT: I'd like you to have this. It's a Chameleon Rose. It changes color with the mood of its owner."
+                    },
+                    "8": {
+                        "Display": "KIRA: No, it's lovely. I just can't accept it. ZEK: Then I suppose a night of wild passionate romance is out of the question. KIRA: That's right."
+                    },
+                    "9": {
+                        "Display": "DAX: (reacts, a beat, shakes her head) Julian... DAX: It's time I explain that Trills don't look for romance the way humans do. DAX : In fact, we consider it quite a nuisance."
+                    },
+                    "10": {
+                        "Display": "MELORA: It's pretty. MELORA: Tell me something, Lieutenant... you think there's room for... romance... in Starfleet? DAX: I think so."
+                    },
+                    "11": {
+                        "Display": "BEVERLY: You do seem well-suited. OGAWA: But... I know that in the beginning of a romance... it's possible to be... a little blind. BEVERLY: I'm not sure exactly what you mean..."
+                    },
+                    "12": {
+                        "Display": "DAX: ... you could say that. MELORA: I finish my mission here... I move on to the next one... what kind of future is that for a romance? DAX: Look at the alternative."
+                    },
+                    "13": {
+                        "Display": "SISKO: ... without injuring yourselves? DAX: Interspecies romance isn't without it's dangers. That's part of the fun. Maybe we'll have better luck on Risa. SISKO: Risa? I thought you and Worf were going to take your vacation on Earth."
+                    },
+                    "14": {
+                        "Display": "TOSK: Holosuite... ? QUARK: A fantasy encounter with danger, romance, thrills... created for your personal entertainment by the Quark Brothers... TOSK: I have no use for fantasy adventure. I live the greatest adventure one could ever desire."
+                    },
+                    "15": {
+                        "Display": "TROI: I will admit, it's unusual... but I'm very happy for you. TROI : But I do want you to consider something. You and Ronin have both experienced a tremendous loss. Very often a shared traumatic experience can create the illusion of closeness... and romance. BEVERLY: I appreciate the concern, but I think I know what I'm doing. Besides, I didn't say I was in love with him. I'm just... intrigued."
+                    },
+                    "16": {
+                        "Display": "WORF: Do not think of this as a performance. Believe in where you are... put yourself in this time and place... WORF: A thousand years ago... the dawn of the Empire. Five hundred warriors storm the Great Hall at Qam-Chee. The city garrison fled before them. Only the Emperor Kahless... And the Lady Lukara stood their ground. It was here that they began the greatest romance in Klingon history. QUARK: This is ridiculous! I'm surrounded by corpses, my shoes are dripping with blood, and you want me to feel romantic? Why am I putting myself through this?"
+                    },
+                    "17": {
+                        "Display": "PICARD: Then what? BEVERLY: The experience. The Orient Express was... mystery and romance. It was an elegant way to see exotic places and meet fascinating people... Did you know that on one trip, both Sigmund Freud and Gertrude Stein just happened to be on the same car? They ended up having dinner together every night. PICARD: I wonder what they talked about... ?"
+                    },
+                    "18": {
+                        "Display": "QUARK: Thank the Nagus you didn't. Remember what happened with Nog's mother? QUARK: Yeah... don't want to think about her do you? Let me refresh your memory... You signed a standard five year marriage contract with Prinadora's father because you wanted a child. A simple, everyday, business deal. But then... you fell in love with your wife and wanted to extend the contract. And you were so in love you never bothered to read the extension before signing it. So in the end, her father swindled you out of all your money... Prinadora left you for a richer man... and you got stuck with Nog. Hooray for romance. ROM: Leeta is not Prinadora."
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID5"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID6",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"fiction\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"fiction\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q5",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"fiction\"",
+                "Choices": {
+                    "1": {
+                        "Display": "JAKE JAKE: I wonder if Kirby Not exactly. knew that the whole time we were talking, KIRBY all I could think What does that mean? about was how close the Klingons were. JAKE I write stories mostly, you know, fiction. I write stories mostly,: you know, fiction. JAKE : -- He didn't seem that worried, no one else seems to be losing sleep over it, so why's it the only thing I can think about? I've been on the station when it was under attack plenty of times... but somehow the danger never seemed as real as it does here."
+                    },
+                    "2": {
+                        "Display": "AQUIEL: Yes, it's from \"Cold Moon Over Blackwater.\" Have you read it? GEORDI: No... I'm not much for gothic fiction. AQUIEL: Most people aren't nowadays."
+                    },
+                    "3": {
+                        "Display": "PICARD: I hate a mystery. DATA: But, sir what about Dixon Hill, and your penchant for detective fiction -- PICARD: Allow me to correct myself. I hate a mystery I cannot solve."
+                    },
+                    "4": {
+                        "Display": "PICARD: Data-- DATA: It is you who are imaginary characters derived from a work of fiction. McNARY: Give it up, fellas. These guys are too smart to fall for that story."
+                    },
+                    "5": {
+                        "Display": "RIKER: Geordi's up to speed. I trust his instincts. DATA: The Pakleds did hear our little fiction about Geordi's \"weapons knowledge.\" RIKER: Exactly. And since they obviously equate intelligence with strength, they won't pass up this chance to use that knowledge. Can you do it?"
+                    },
+                    "6": {
+                        "Display": "MARLA: It is our duty to make him happy again. PICARD: Do you honestly believe he will be happy in this total fiction you wish to create? PICARD: What will be his reason to live?"
+                    },
+                    "7": {
+                        "Display": "KAY: I really like this major of yours... she's a tough cookie. KAY: Science fiction needs more strong women characters. I'm always saying that, aren't I, Jules? JULIUS: Ad nauseam, my dear."
+                    },
+                    "8": {
+                        "Display": "PICARD: I only look like Dixon Hill. DATA: He speaks the truth, sir. From your point of view, he is only a fiction, a facsimile, a knock-off, a cheap imitation. PICARD: Thank you, Mister Data."
+                    },
+                    "9": {
+                        "Display": "BENNY: Surprise. DARLENE: It's the best thing I've read since \"The Puppet Masters.\" (a beat, almost apologetic) I read a lot of science fiction. HERBERT: Bless you, my child."
+                    },
+                    "10": {
+                        "Display": "DATA: Sorry sir, that did not come out quite the way I interded. REDBLOCK: Very good. Very, very, good. What wonderful fiction! Quite entertaining. I admire your skill at trying to obfuscate our sense of reality. DATA: It is you who are not real, sir."
+                    },
+                    "11": {
+                        "Display": "CASSIE: Hey, it's possible. Baby, I know we could make this work for us. We could be happy here. Besides, you don't have to give up writing altogether... maybe you could write something for the Amsterdam News or one of the other Negro newspapers. BENNY: I'm not a reporter. I write fiction -- and the Amsterdam News isn't going to publish stories about a space station four hundred years in the future. WILLIE : Hear the game last night?"
+                    },
+                    "12": {
+                        "Display": "PICARD: I feel it necessary to warn you that criminal behavior is no more acceptable in the twenty-fourth century than it was in the nineteenth. And much harder to get away with. MORIARTY: Don't worry, Captain... my past is nothing but a fiction -- the scribblings of an Englishman dead now for four centuries. I hope to... leave his books on the shelf, as it were. PICARD: If that's so, you'll find that there are opportunities available to you that you could never have imagined."
+                    },
+                    "13": {
+                        "Display": "DATA: Sir? PICARD: Stop babbling. (rewinding the threads of his fast-tattering patience) The law recognizes many things as people that aren't possessed of flesh and blood. It's a little legal fiction, you see. DATA: I am beginning to understand why Shakespeare wrote, let us kill all the lawyers."
+                    },
+                    "14": {
+                        "Display": "TOMALAK: You see, Picard, after we dissect your Enterprise for every precious bit of information, I plan to display its broken hull in the center of the Romulan capitol as a symbol of our victory. It will inspire our armies for generations to come and serve as a warning to any other traitor who would create ripples of disloyalty. JAROK: All the communiques, the records, the timetables... they were fiction, written for my benefit... it was all a... a test... a test of my loyalty... and you used me to lure the Enterprise into the Neutral Zone. TOMALAK: First, Captain, you will return the traitor, Jarok... then you will surrender as prisoners of war..."
+                    },
+                    "15": {
+                        "Display": "KIRBY: You're a journalist? JAKE JAKE: I wonder if Kirby Not exactly. knew that the whole time we were talking, KIRBY all I could think What does that mean? about was how close the Klingons were. JAKE I write stories mostly, you know, fiction. I write stories mostly,: you know, fiction."
+                    },
+                    "16": {
+                        "Display": "PICARD: But how can you keep us a secret... when so many have seen and heard so much? DURKEN: The stories will be told for many years, I have no doubt... of the ship that made contact... of an alien who was held prisoner in a medical facility... there will be charges of a government cover-up... some of the witnesses will tell their tales and most people will laugh at them and go back and watch more interesting fiction on the daily broadcasts. It will pass. MIRASTA: I'm sorry to say... he's probably right."
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID6"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID7",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"trial\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"trial\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q6",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"trial\"",
+                "Choices": {
+                    "1": {
+                        "Display": "SISKO: If you return the Maquis to the Federation, I can promise you they will stand trial for what they've done. GUL DUKAT: A Federation trial... SISKO: It's the best I can do."
+                    },
+                    "2": {
+                        "Display": "SISKO: I want you to escort the prisoner back to his home planet. ODO: He's not to stand trial here? SISKO: Croden apparently committed crimes on Rakhar. His government was adamant and the Bajorans have agreed to release him."
+                    },
+                    "3": {
+                        "Display": "JAKE: It's a Klingon bachelor party -- use your imagination. WORF: Now begins the trial of blood... MARTOK: Let rivers flow from our veins..."
+                    },
+                    "4": {
+                        "Display": "Q: I'll answer any ten questions that call for a \"yes\" or a \"no.\" Well? PICARD: Are you putting mankind on trial again? Q: No."
+                    },
+                    "5": {
+                        "Display": "SISKO: I've made my decision. SARAH PROPHET: Your trial is at hand. You must be strong. SISKO: Kasidy gives me strength. Why can't you understand that?"
+                    },
+                    "6": {
+                        "Display": "WORF: Sir? PICARD: I think... we're putting on a drumhead trial... WORF: I don't understand..."
+                    },
+                    "7": {
+                        "Display": "DUKAT: How barbaric. On Cardassia, the verdict is always known before the trial begins. And it's always the same. SISKO: In that case, why bother with a trial at all? DUKAT: Because the people demand it. They enjoy watching justice triumph over evil. Every time. They find it comforting."
+                    },
+                    "8": {
+                        "Display": "ODO: Either that, or his lack of faith in our justice system. WORF: He must be apprehended and brought to trial. SISKO: Have all available runabouts begin a sector-wide search."
+                    },
+                    "9": {
+                        "Display": "DATA: Commander, I believe I have found a correlation between the two deaths... your \"missing link\" ... DATA : That is Penthor-Mul being led from his trial. RIKER: I don't see the connection..."
+                    },
+                    "10": {
+                        "Display": "SISKO: If you won't defend yourself, you're not going to testify. KIRA: It's a hearing, not a trial. She has no choice. KIRA: (continuing, re: the PADD, to Sisko) Odo's on subspace... It's urgent."
+                    },
+                    "11": {
+                        "Display": "\"Q\" : Dispose of that. PICARD: Can we assume you mean this will be a fair trial? \"Q\" : Yes, absolutely equitable."
+                    },
+                    "12": {
+                        "Display": "SISKO: He took a raw, young Ensign under his wing and taught me to appreciate life in ways I'd never thought about before... he taught me about art and science and diplomacy... whatever sense of honor I may have today, he nurtured... treason, murder -- he wasn't capable of those things. TANDRO: As you've already said, Commander, this is not a trial... SISKO: I'm describing my friend, Curzon Dax -- a man I knew very well. On the other hand... I can't tell you too much about my new friend there... We're really just getting to know each other."
+                    },
+                    "13": {
+                        "Display": "DATA FRANK: My boy. WORF: That is not possible. Your son is to stand trial for murder. DATA/FRANK: Well then... maybe we can work it out. Is there something you want... in exchange for my boy?"
+                    },
+                    "14": {
+                        "Display": "PICARD: I sincerely hope this is the last time I'll find myself here. Q: You just don't get it, do you, Jean-Luc? The trial never ends. Q: We wanted to see if you had the ability to expand your mind and your horizons... and for one brief moment, you did."
+                    },
+                    "15": {
+                        "Display": "WORF: Where is he? WORF: I do not negotiate with criminals. Your son will stand trial. DATA/FRANK: Not so fast..."
+                    },
+                    "16": {
+                        "Display": "MANDARIN-BAILIFF: Stand respectfully. All present, respectfully stand! \"Q\" : This trial is adjourned to allow the criminals to be tested. MANDARIN-BAILIFF: This honorable court is adjourned!"
+                    },
+                    "17": {
+                        "Display": "WINN: I see... SISKO: They warned me that I'm going to have to face a great \"Trial.\" WINN: Did they say what it would be?"
+                    },
+                    "18": {
+                        "Display": "MAKBAR: His execution is scheduled for next week. KEIKO: How can you schedule an execution before the trial even begins... ? MAKBAR: We believe in swift justice."
+                    },
+                    "19": {
+                        "Display": "RIKER: No. It's not true... ATTENDANT: Yes it is. And if you get out of here, you're going to stand trial... RIKER: You're lying!"
+                    },
+                    "20": {
+                        "Display": "WEYOUN: When will the prisoners be executed? DAMAR: When their trial is completed. The legal protocols must be observed. WEYOUN: When?"
+                    },
+                    "21": {
+                        "Display": "GUL EVEK: We will contact your commander. And see that your wife is returned safely to your station. GUL EVEK: You will be taken to central prison on Cardassia Prime to await trial. O'BRIEN: I'm not going anywhere with you..."
+                    },
+                    "22": {
+                        "Display": "ODO: No. VIC: Think of this evening as a trial run. Trust me, you're going to do great. ODO: Here's the report on that smuggling ring you requested. Do you want me to inform the Zevian authorities?"
+                    },
+                    "23": {
+                        "Display": "MAKBAR: The charges will be announced when the trial begins. As is customary in Cardassian jurisprudence. KEIKO: How are we supposed to prepare for the trial if we don't know the charges? MAKBAR: Mrs. O'Brien, I take it?"
+                    },
+                    "24": {
+                        "Display": "PEERS: Oh yes. SISKO: Madame Arbiter, this is not a trial... and Mister Tandro is not the prosecutor... RENORA: You've made your point, Mister Tandro."
+                    },
+                    "25": {
+                        "Display": "GEORDI: Let's check the interface programming... WORF: What are his rights in this century? Will there be a trial... or shall I execute him? ALEXANDER: We're supposed to hold him until the U.S. Marshal comes. Then he'll take him to Rapid City for a trial."
+                    },
+                    "26": {
+                        "Display": "ODO: That's a relief. For a moment I thought you were going to say it's because I'm a changeling. QUARK: Odo. I heard about your friend. Rumor has it the Klingons want to put him on trial. ODO: They're the ones who should be on trial. If they'd attacked anyone other than a changeling, they would be."
+                    },
+                    "27": {
+                        "Display": "PICARD: Just a moment ago, you promised \"the prisoners will not be harmed.\" We plead nothing so long as you break your own rules. \"Q\" : I suggest you center your attention on the trial, Captain. It may be your only hope. PICARD: And I suggest you now may be having second thoughts about this trial! You're considering that if you conduct it fairly, which was your promise, you may lose."
+                    },
+                    "28": {
+                        "Display": "SISKO: Nestor? ODO: Advisor to the offender. Madame Archon, I volunteer to serve as Nestor in this trial. MAKBAR: That is not possible. The Nestor must be an officer of the court."
+                    },
+                    "29": {
+                        "Display": "Q: After our last encounter, I was asked to leave the Q continuum. Since then, I have been wandering vaguely -- bored really -- my existence without purpose. Then, I remembered the good times I had with you... RIKER: The good times!? The first time we met you put us on trial for the \"crimes of humanity\"... Q: Of which you were exonerated."
+                    },
+                    "30": {
+                        "Display": "GARAK: (re: the Female Shape-shifter) May I suggest securing her in a containment field. ODO: Don't worry. She won't try to escape. She's agreed to stand trial for what she's done. KIRA: I would've thought she'd insist on going back to the Gamma Quadrant to cure her people."
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID7"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID8",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"chateau\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"chateau\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q7",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"chateau\"",
+                "Choices": {
+                    "1": {
+                        "Display": "BASHIR: That better not be from a replicator, Quark. QUARK: Chateau Cleon, twenty-three-oh-three. I already put it on your account. JAKE: Can I?"
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID8"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID9",
+            "SecondaryAttribute": "Rank these based on relevance to the query \"archaeology\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these based on relevance to the query \"archaeology\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q8",
+                "QuestionType": "PGR",
+                "Selector": "DragAndDrop",
+                "SubSelector": "NoColumns",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "Stack": false,
+                    "StackItemsInGroups": false
+                },
+                "QuestionDescription": "Rank these based on relevance to the query \"archaeology\"",
+                "Choices": {
+                    "1": {
+                        "Display": "GEORDI: About her. That, you know, gets to the Captain. DATA: Perhaps it is their common interest in archaeology. TROI: I don't think so."
+                    },
+                    "2": {
+                        "Display": "VASH: I came in through the window. PICARD: I had no idea you were a member of the Archaeology Council. PICARD: You are a member? Aren't you."
+                    },
+                    "3": {
+                        "Display": "WESLEY: He's coming with me to starbase. Just the two of us. Nearly a six-hour transit. What am I going to talk to him about for six hours? SONYA: Archaeology...semantics... literature... art... you can learn a lot from Captain Picard. GEORDI: Nice day for a little trip, Captain?"
+                    },
+                    "4": {
+                        "Display": "VASH: I don't suppose you ever heard of Professor Samuel Estragon? PICARD: As a matter of fact, I have. He spent half his life searching for the Uthat. Archaeology is a hobby of mine. VASH: I served as his personal assistant for the past five years. Shortly before he died, he uncovered new data pinpointing its location. That disc contains his research notes and maps."
+                    },
+                    "5": {
+                        "Display": "WESLEY: (responding to Picard's enthusiasm and echoing it) How did you find out about all this? PICARD: Archaeology has been a hobby since my Academy days. But why don't we talk about what really brought you here? WESLEY: I can't stop thinking about the Yamato. All those people -- dead. I just don't know how you do it. You, Commander Riker, Geordi, you all handle it so easily."
+                    },
+                    "6": {
+                        "Display": "JASON: Is it valuable... ? PICARD: Not really. Only to students of archaeology like myself. Still, I had to give up a very old bottle of Saurian brandy for it. JASON: I'd say you got taken."
+                    },
+                    "7": {
+                        "Display": "MADRED: Let's not waste time arguing about issues we can't resolve. Would you care to tour the Hebitian burial vaults? MADRED: Even though they've been stripped of funerary regalia, the tomb paintings are extraordinary. Any student of archaeology would be thrilled. PICARD: What I would like... is to be returned to my ship."
+                    },
+                    "8": {
+                        "Display": "MADRED: Please... let me remove those restraints. MADRED: I understand that you are a student of archaeology. Did you know that Cardassia boasts some of the most ancient and splendid ruins anywhere in the galaxy? PICARD: I know that the burial vaults of the First Hebitian civilization are said to be magnificent."
+                    },
+                    "9": {
+                        "Display": "GALEN: I am currently on an expedition. A journey into unexplored historical territory. And I intend to take you with me. PICARD : Captain's log, supplemental. It has been over thirty years since I last saw my archaeology professor. His presence has taken me back to a time when I had considered a very different career... GALEN: I read your paper on the Kea Four excavation that you delivered at last year's symposium. It was... informative."
+                    }
+                },
+                "ChoiceOrder": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16,
+                    17,
+                    18,
+                    19,
+                    20
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 21,
+                "NextAnswerId": 3,
+                "Groups": [
+                    "Relevant (in order of relevance)",
+                    "Irrelevant"
+                ],
+                "NumberOfGroups": 2,
+                "QuestionID": "QID9"
+            }
+        },
+        {
+            "SurveyID": "SV_6xouAISqKQBxcsL",
+            "Element": "STAT",
+            "PrimaryAttribute": "Survey Statistics",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "MobileCompatible": true,
+                "ID": "Survey Statistics"
+            }
+        }
+    ]
+}
