@@ -32,6 +32,7 @@ complete.columns = ['index','character', 'quote', 'scene', 'location', 'view',
        'episode', 'date', 'series', 'file']
 test_engine = ss.search_engine()
 test_engine.bulk_load(complete[['quote']].to_dict()['quote'])
+test_engine.add_df(complete)
 
 # globals
 ranking = []

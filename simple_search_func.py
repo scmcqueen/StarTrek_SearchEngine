@@ -48,6 +48,7 @@ class search_engine:
         self.k1 =k1
         self.b = b
         self.name = name
+        self.full_data = None
 
     def __str__(self)->str:
         '''Print readable name of the search engine
@@ -78,6 +79,16 @@ class search_engine:
                 self.index[word][id] += 1
         new_len =original_len = len(self.docs.keys())
         print(f'We have added {new_len-original_len} documents. The engine now has {new_len} documents.')
+
+    def add_df(self,dataframe:pd.DataFrame)->None:
+        ''' Adds a data frame with the same indices to reference more information.
+
+        Input:
+            dataframe: pd.Dataframe, same indices
+        '''
+        self.full_data = dataframe
+        print('Complete data added.')
+        return
 
     def load(self,document:str)->None:
         '''Load a single document into the search engine. Ideally this should not be used.
