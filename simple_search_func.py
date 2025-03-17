@@ -146,6 +146,8 @@ class search_engine:
         # get context
         output = []
         for x in ids:
-            context = [self.original_docs[x-1],self.original_docs[x],self.original_docs[x+1]]
+            context = [self.full_data['character'].iloc[x-1]+': '+self.original_docs[x-1],
+                       self.full_data['character'].iloc[x]+': '+self.original_docs[x],
+                       self.full_data['character'].iloc[x+1]+': '+self.original_docs[x+1]]
             output.append(context)
         return(output)
