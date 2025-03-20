@@ -11,9 +11,6 @@ import csv
 # Set global variables
 PRIMARY_COLOR = "#0072B5"
 SECONDARY_COLOR = "#B54300"
-CSV_FILE = (
-    "https://raw.githubusercontent.com/holoviz/panel/main/examples/assets/occupancy.csv"
-)
 
 # panel extension
 pn.extension(design="material", sizing_mode="stretch_width")
@@ -27,7 +24,7 @@ pn.extension(design="material", sizing_mode="stretch_width")
 # data.tail()
 
 # LOAD EVERYTHING
-complete = pd.read_csv('../StarTrekNextGenScriptData/complete_data.csv')
+complete = pd.read_csv('https://scmcqueen.github.io/StarTrekScriptData/complete_data.csv')
 complete.columns = ['index','character', 'quote', 'scene', 'location', 'view',
        'episode', 'date', 'series', 'file']
 test_engine = ss.search_engine()
