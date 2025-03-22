@@ -1,1 +1,2739 @@
-{"SurveyEntry": {"SurveyID": "SV_6xouAISqKQBxcsS", "SurveyName": "Star Trek - Day 1", "SurveyDescription": null, "SurveyOwnerID": "UR_7OFxk7nyYHSTdVI", "SurveyBrandID": "umich", "DivisionID": "DV_1Y9lB6ERvTgDbne", "SurveyLanguage": "EN", "SurveyActiveResponseSet": "RS_cNCXSFlCeGiDXP8", "SurveyStatus": "Inactive", "SurveyStartDate": "0000-00-00 00:00:00", "SurveyExpirationDate": "0000-00-00 00:00:00", "SurveyCreationDate": "2025-03-13 15:51:34", "CreatorID": "UR_7OFxk7nyYHSTdVI", "LastModified": "2025-03-16 08:27:32", "LastAccessed": "0000-00-00 00:00:00", "LastActivated": "0000-00-00 00:00:00", "Deleted": null}, "SurveyElements": [{"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "BL", "PrimaryAttribute": "Survey Blocks", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": [{"Type": "Default", "Description": "Default Question Block", "ID": "BL_3PJTLAx6LukPjTM", "BlockElements": [{"Type": "Question", "QuestionID": "QID3"}, {"Type": "Question", "QuestionID": "QID1"}, {"Type": "Question", "QuestionID": "QID4"}, {"Type": "Question", "QuestionID": "QID5"}, {"Type": "Question", "QuestionID": "QID6"}, {"Type": "Question", "QuestionID": "QID7"}, {"Type": "Question", "QuestionID": "QID8"}, {"Type": "Question", "QuestionID": "QID9"}, {"Type": "Question", "QuestionID": "QID10"}, {"Type": "Question", "QuestionID": "QID11"}, {"Type": "Question", "QuestionID": "QID12"}, {"Type": "Page Break"}, {"Type": "Question", "QuestionID": "QID13"}, {"Type": "Question", "QuestionID": "QID14"}, {"Type": "Question", "QuestionID": "QID15"}, {"Type": "Question", "QuestionID": "QID16"}, {"Type": "Question", "QuestionID": "QID17"}, {"Type": "Question", "QuestionID": "QID18"}, {"Type": "Question", "QuestionID": "QID19"}, {"Type": "Question", "QuestionID": "QID20"}, {"Type": "Question", "QuestionID": "QID21"}, {"Type": "Question", "QuestionID": "QID22"}]}, {"Type": "Trash", "Description": "Trash / Unused Questions", "ID": "BL_6zYEIbdEZow8BAG", "BlockElements": [{"Type": "Question", "QuestionID": "QID2"}]}]}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "FL", "PrimaryAttribute": "Survey Flow", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"Flow": [{"ID": "BL_3PJTLAx6LukPjTM", "Type": "Block", "FlowID": "FL_2"}], "Properties": {"Count": 2}, "FlowID": "FL_1", "Type": "Root"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "PL", "PrimaryAttribute": "Preview Link", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"PreviewType": "Brand", "PreviewID": "47c6f108-3c89-44b1-9232-08e7e5edc8b6"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "PROJ", "PrimaryAttribute": "CORE", "SecondaryAttribute": null, "TertiaryAttribute": "1.1.0", "Payload": {"ProjectCategory": "CORE", "SchemaVersion": "1.1.0"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "QC", "PrimaryAttribute": "Survey Question Count", "SecondaryAttribute": "22", "TertiaryAttribute": null, "Payload": null}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "RS", "PrimaryAttribute": "RS_cNCXSFlCeGiDXP8", "SecondaryAttribute": "Default Response Set", "TertiaryAttribute": null, "Payload": null}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "SCO", "PrimaryAttribute": "Scoring", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"ScoringCategories": [], "ScoringCategoryGroups": [], "ScoringSummaryCategory": null, "ScoringSummaryAfterQuestions": 0, "ScoringSummaryAfterSurvey": 0, "DefaultScoringCategory": null, "AutoScoringCategory": null}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "SO", "PrimaryAttribute": "Survey Options", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"BackButton": "false", "SaveAndContinue": "true", "SurveyProtection": "PublicSurvey", "BallotBoxStuffingPrevention": "false", "NoIndex": "Yes", "SecureResponseFiles": "true", "SurveyExpiration": "None", "SurveyTermination": "DefaultMessage", "Header": "", "Footer": "", "ProgressBarDisplay": "None", "PartialData": "+1 week", "ValidationMessage": "", "PreviousButton": "", "NextButton": "", "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management", "SkinLibrary": "umich", "SkinType": "templated", "Skin": {"brandingId": "3019387420", "templateId": "*base", "overrides": null}, "NewScoring": 1, "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.", "SurveyName": "Star Trek - Day 1"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID1", "SecondaryAttribute": "nostalgia", "TertiaryAttribute": null, "Payload": {"QuestionText": "nostalgia", "DefaultChoices": false, "DataExportTag": "Q2", "QuestionID": "QID1", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "nostalgia", "Choices": {"1": {"Display": "memories"}, "2": {"Display": "past"}, "3": {"Display": "bittersweet"}, "4": {"Display": "longing"}, "5": {"Display": "reminisce"}, "6": {"Display": "yearning"}, "7": {"Display": "flashback"}, "8": {"Display": "old days"}, "9": {"Display": "sentimental"}, "10": {"Display": "melancholy"}, "11": {"Display": "childhood"}, "12": {"Display": "throwback"}, "13": {"Display": "wistful"}, "14": {"Display": "retro"}, "15": {"Display": "antique"}, "16": {"Display": "classic"}, "17": {"Display": "golden days"}, "18": {"Display": "vintage"}, "19": {"Display": "heartwarming"}, "20": {"Display": "timeless"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID10", "SecondaryAttribute": "jealousy", "TertiaryAttribute": null, "Payload": {"QuestionText": "jealousy", "DefaultChoices": false, "DataExportTag": "Q9", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "jealousy", "Choices": {"1": {"Display": "envy"}, "2": {"Display": "resent"}, "3": {"Display": "covet"}, "4": {"Display": "green-eyed"}, "5": {"Display": "possessive"}, "6": {"Display": "suspicion"}, "7": {"Display": "mistrust"}, "8": {"Display": "distrust"}, "9": {"Display": "bitterness"}, "10": {"Display": "spite"}, "11": {"Display": "comparison"}, "12": {"Display": "insecurity"}, "13": {"Display": "longing"}, "14": {"Display": "competitiveness"}, "15": {"Display": "inferiority"}, "16": {"Display": "grudge"}, "17": {"Display": "fuming"}, "18": {"Display": "anger"}, "19": {"Display": "watchful"}, "20": {"Display": "wary"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID10"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID11", "SecondaryAttribute": "friendship", "TertiaryAttribute": null, "Payload": {"QuestionText": "friendship", "DefaultChoices": false, "DataExportTag": "Q10", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "friendship", "Choices": {"1": {"Display": "bond"}, "2": {"Display": "companion"}, "3": {"Display": "ally"}, "4": {"Display": "trust"}, "5": {"Display": "loyal"}, "6": {"Display": "camaraderie"}, "7": {"Display": "mate"}, "8": {"Display": "bro"}, "9": {"Display": "sisterhood"}, "10": {"Display": "brotherhood"}, "11": {"Display": "affection"}, "12": {"Display": "partnership"}, "13": {"Display": "support"}, "14": {"Display": "understanding"}, "15": {"Display": "team"}, "16": {"Display": "respect"}, "17": {"Display": "connect"}, "18": {"Display": "harmony"}, "19": {"Display": "together"}, "20": {"Display": "kindred"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID11"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID12", "SecondaryAttribute": "surprise", "TertiaryAttribute": null, "Payload": {"QuestionText": "surprise", "DefaultChoices": false, "DataExportTag": "Q11", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "surprise", "Choices": {"1": {"Display": "shock"}, "2": {"Display": "amazement"}, "3": {"Display": "astonishment"}, "4": {"Display": "wonder"}, "5": {"Display": "startled"}, "6": {"Display": "stunned"}, "7": {"Display": "flabbergasted"}, "8": {"Display": "aghast"}, "9": {"Display": "dumbfounded"}, "10": {"Display": "jolted"}, "11": {"Display": "marvel"}, "12": {"Display": "unexpected"}, "13": {"Display": "perplexed"}, "14": {"Display": "bewildered"}, "15": {"Display": "gobsmacked"}, "16": {"Display": "astounded"}, "17": {"Display": "overwhelmed"}, "18": {"Display": "speechless"}, "19": {"Display": "baffled"}, "20": {"Display": "staggered"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID12"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID13", "SecondaryAttribute": "nostalgia", "TertiaryAttribute": null, "Payload": {"QuestionText": "nostalgia", "DefaultChoices": false, "DataExportTag": "Q12", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "nostalgia", "Choices": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID13", "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID1/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": []}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID14", "SecondaryAttribute": "jealousy", "TertiaryAttribute": null, "Payload": {"QuestionText": "jealousy", "DefaultChoices": false, "DataExportTag": "Q13", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "jealousy", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID4/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID14"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID15", "SecondaryAttribute": "friendship", "TertiaryAttribute": null, "Payload": {"QuestionText": "friendship", "DefaultChoices": false, "DataExportTag": "Q15", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "friendship", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID5/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID15"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID16", "SecondaryAttribute": "surprise", "TertiaryAttribute": null, "Payload": {"QuestionText": "surprise", "DefaultChoices": false, "DataExportTag": "Q16", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "surprise", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID6/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID16"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID17", "SecondaryAttribute": "fear", "TertiaryAttribute": null, "Payload": {"QuestionText": "fear", "DefaultChoices": false, "DataExportTag": "Q17", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "fear", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID7/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID17"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID18", "SecondaryAttribute": "anger", "TertiaryAttribute": null, "Payload": {"QuestionText": "anger", "DefaultChoices": false, "DataExportTag": "Q18", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "anger", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID8/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID18"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID19", "SecondaryAttribute": "happiness", "TertiaryAttribute": null, "Payload": {"QuestionText": "happiness", "DefaultChoices": false, "DataExportTag": "Q19", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "happiness", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID9/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID19"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID2", "SecondaryAttribute": "Click to write the question text", "TertiaryAttribute": null, "Payload": {"QuestionText": "Click to write the question text", "DataExportTag": "Q2", "QuestionType": "MC", "Selector": "SAVR", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "Click to write the question text", "Choices": {"1": {"Display": "Click to write Choice 1"}, "2": {"Display": "Click to write Choice 2"}, "3": {"Display": "Click to write Choice 3"}}, "ChoiceOrder": ["1", "2", "3"], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "Language": [], "NextChoiceId": 4, "NextAnswerId": 1, "QuestionID": "QID2"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID20", "SecondaryAttribute": "kiss", "TertiaryAttribute": null, "Payload": {"QuestionText": "kiss", "DefaultChoices": false, "DataExportTag": "Q20", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "kiss", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID10/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID20"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID21", "SecondaryAttribute": "sadness", "TertiaryAttribute": null, "Payload": {"QuestionText": "sadness", "DefaultChoices": false, "DataExportTag": "Q21", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "sadness", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID11/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "DynamicChoicesData": [], "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID21"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID22", "SecondaryAttribute": "love", "TertiaryAttribute": null, "Payload": {"QuestionText": "love", "DefaultChoices": false, "DataExportTag": "Q22", "QuestionType": "RO", "Selector": "DND", "SubSelector": "TX", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "love", "Choices": [], "DynamicChoices": {"DynamicType": "ChoiceGroup", "Locator": "q://QID12/ChoiceGroup/SelectedChoicesInGroup/1", "Type": "Dynamic"}, "ChoiceOrder": [], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 1, "NextAnswerId": 1, "QuestionID": "QID22", "DynamicChoicesData": []}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID3", "SecondaryAttribute": "What is your name?", "TertiaryAttribute": null, "Payload": {"QuestionText": "What is your name?", "DefaultChoices": false, "DataExportTag": "Q1", "QuestionType": "TE", "Selector": "ML", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText"}, "QuestionDescription": "What is your name?", "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 4, "NextAnswerId": 1, "SearchSource": {"AllowFreeResponse": "false"}, "QuestionID": "QID3"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID4", "SecondaryAttribute": "fear", "TertiaryAttribute": null, "Payload": {"QuestionText": "fear", "DefaultChoices": false, "DataExportTag": "Q3", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "fear", "Choices": {"1": {"Display": "terror"}, "2": {"Display": "panic"}, "3": {"Display": "dread"}, "4": {"Display": "fright"}, "5": {"Display": "horror"}, "6": {"Display": "alarm"}, "7": {"Display": "anxiety"}, "8": {"Display": "nervous"}, "9": {"Display": "uneasy"}, "10": {"Display": "apprehension"}, "11": {"Display": "timid"}, "12": {"Display": "startle"}, "13": {"Display": "tremble"}, "14": {"Display": "phobia"}, "15": {"Display": "shiver"}, "16": {"Display": "quiver"}, "17": {"Display": "spooked"}, "18": {"Display": "petrified"}, "19": {"Display": "chill"}, "20": {"Display": "paranoia"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID4"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID5", "SecondaryAttribute": "anger", "TertiaryAttribute": null, "Payload": {"QuestionText": "anger", "DefaultChoices": false, "DataExportTag": "Q4", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "anger", "Choices": {"1": {"Display": "rage"}, "2": {"Display": "fury"}, "3": {"Display": "wrath"}, "4": {"Display": "outrage"}, "5": {"Display": "resentment"}, "6": {"Display": "bitterness"}, "7": {"Display": "spite"}, "8": {"Display": "grudge"}, "9": {"Display": "irritation"}, "10": {"Display": "annoyance"}, "11": {"Display": "exasperation"}, "12": {"Display": "hostility"}, "13": {"Display": "hatred"}, "14": {"Display": "indignation"}, "15": {"Display": "fuming"}, "16": {"Display": "seething"}, "17": {"Display": "mad"}, "18": {"Display": "infuriated"}, "19": {"Display": "irate"}, "20": {"Display": "tempest"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID5"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID6", "SecondaryAttribute": "happiness", "TertiaryAttribute": null, "Payload": {"QuestionText": "happiness", "DefaultChoices": false, "DataExportTag": "Q5", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "happiness", "Choices": {"1": {"Display": "joy"}, "2": {"Display": "smile"}, "3": {"Display": "laughter"}, "4": {"Display": "cheer"}, "5": {"Display": "delight"}, "6": {"Display": "bliss"}, "7": {"Display": "glee"}, "8": {"Display": "ecstatic"}, "9": {"Display": "merry"}, "10": {"Display": "euphoria"}, "11": {"Display": "sunny"}, "12": {"Display": "content"}, "13": {"Display": "radiant"}, "14": {"Display": "jubilant"}, "15": {"Display": "bubbly"}, "16": {"Display": "grateful"}, "17": {"Display": "optimistic"}, "18": {"Display": "carefree"}, "19": {"Display": "vivacious"}, "20": {"Display": "buoyant"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID6"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID7", "SecondaryAttribute": "kiss", "TertiaryAttribute": null, "Payload": {"QuestionText": "kiss", "DefaultChoices": false, "DataExportTag": "Q6", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "kiss", "Choices": {"1": {"Display": "smoocher"}, "2": {"Display": "kombucher"}, "3": {"Display": "peck"}, "4": {"Display": "smooch"}, "5": {"Display": "liplock"}, "6": {"Display": "mwah"}, "7": {"Display": "pucker"}, "8": {"Display": "osculation"}, "9": {"Display": "romantic"}, "10": {"Display": "passionate"}, "11": {"Display": "sweet"}, "12": {"Display": "gentle"}, "13": {"Display": "soft"}, "14": {"Display": "warm"}, "15": {"Display": "butterfly"}, "16": {"Display": "cheek"}, "17": {"Display": "forehead"}, "18": {"Display": "eskimo"}, "19": {"Display": "lovebite"}, "20": {"Display": "chaste"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID7"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID8", "SecondaryAttribute": "sadness", "TertiaryAttribute": null, "Payload": {"QuestionText": "sadness", "DefaultChoices": false, "DataExportTag": "Q7", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "sadness", "Choices": {"1": {"Display": "meow"}, "2": {"Display": "meow meow"}, "3": {"Display": "meowwww"}, "4": {"Display": "tears"}, "5": {"Display": "gloom"}, "6": {"Display": "despair"}, "7": {"Display": "melancholy"}, "8": {"Display": "sorrow"}, "9": {"Display": "blue"}, "10": {"Display": "grief"}, "11": {"Display": "heartache"}, "12": {"Display": "mourn"}, "13": {"Display": "loneliness"}, "14": {"Display": "misery"}, "15": {"Display": "pain"}, "16": {"Display": "regret"}, "17": {"Display": "weep"}, "18": {"Display": "hurt"}, "19": {"Display": "lost"}, "20": {"Display": "downcast"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID8"}}, {"SurveyID": "newstring", "Element": "SQ", "PrimaryAttribute": "QID9", "SecondaryAttribute": "love", "TertiaryAttribute": null, "Payload": {"QuestionText": "love", "DefaultChoices": false, "DataExportTag": "Q8", "QuestionType": "PGR", "Selector": "DragAndDrop", "SubSelector": "NoColumns", "DataVisibility": {"Private": false, "Hidden": false}, "Configuration": {"QuestionDescriptionOption": "UseText", "Stack": false, "StackItemsInGroups": false}, "QuestionDescription": "love", "Choices": {"1": {"Display": "hello"}, "2": {"Display": "hi"}, "3": {"Display": "are you"}, "4": {"Display": "darling"}, "5": {"Display": "sweetheart"}, "6": {"Display": "honey"}, "7": {"Display": "romance"}, "8": {"Display": "affection"}, "9": {"Display": "passion"}, "10": {"Display": "devotion"}, "11": {"Display": "adore"}, "12": {"Display": "cherish"}, "13": {"Display": "fondness"}, "14": {"Display": "embrace"}, "15": {"Display": "beloved"}, "16": {"Display": "cuddle"}, "17": {"Display": "valentine"}, "18": {"Display": "kiss"}, "19": {"Display": "heart"}, "20": {"Display": "soulmate"}}, "ChoiceOrder": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20], "Validation": {"Settings": {"ForceResponse": "OFF", "Type": "None"}}, "GradingData": [], "Language": [], "NextChoiceId": 21, "NextAnswerId": 3, "Groups": ["Relevant (in order of relevance)", "Irrelevant"], "NumberOfGroups": 2, "QuestionID": "QID9"}}, {"SurveyID": "SV_6xouAISqKQBxcsS", "Element": "STAT", "PrimaryAttribute": "Survey Statistics", "SecondaryAttribute": null, "TertiaryAttribute": null, "Payload": {"MobileCompatible": true, "ID": "Survey Statistics"}}]}
+{
+    "SurveyEntry": {
+        "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+        "SurveyName": "Query Template",
+        "SurveyDescription": null,
+        "SurveyOwnerID": "UR_7OFxk7nyYHSTdVI",
+        "SurveyBrandID": "umich",
+        "DivisionID": "DV_1Y9lB6ERvTgDbne",
+        "SurveyLanguage": "EN",
+        "SurveyActiveResponseSet": "RS_3rqDTOX8XW1GITQ",
+        "SurveyStatus": "Inactive",
+        "SurveyStartDate": "0000-00-00 00:00:00",
+        "SurveyExpirationDate": "0000-00-00 00:00:00",
+        "SurveyCreationDate": "2025-03-20 13:38:50",
+        "CreatorID": "UR_7OFxk7nyYHSTdVI",
+        "LastModified": "2025-03-22 12:50:45",
+        "LastAccessed": "0000-00-00 00:00:00",
+        "LastActivated": "0000-00-00 00:00:00",
+        "Deleted": null
+    },
+    "SurveyElements": [
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "BL",
+            "PrimaryAttribute": "Survey Blocks",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": [
+                {
+                    "Type": "Default",
+                    "Description": "Default Question Block",
+                    "ID": "BL_1GjAUJ1ZPiKPG6i",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID2"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID3"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID5"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID7"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID9"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID11"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID13"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID15"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID17"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID19"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID21"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID23"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID25"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID27"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID29"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID31"
+                        }
+                    ]
+                },
+                {
+                    "Type": "Trash",
+                    "Description": "Trash / Unused Questions",
+                    "ID": "BL_4MI7Z9B342PpFFY",
+                    "BlockElements": []
+                },
+                {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "Block 1",
+                    "ID": "BL_08v9UWXeDNYx3JI",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID4"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID6"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID8"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID10"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID12"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID14"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID16"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID18"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID20"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID22"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID24"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID26"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID28"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID30"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID32"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "FL",
+            "PrimaryAttribute": "Survey Flow",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "Flow": [
+                    {
+                        "ID": "BL_1GjAUJ1ZPiKPG6i",
+                        "Type": "Block",
+                        "FlowID": "FL_2"
+                    },
+                    {
+                        "ID": "BL_08v9UWXeDNYx3JI",
+                        "Type": "Standard",
+                        "FlowID": "FL_3"
+                    }
+                ],
+                "Properties": {
+                    "Count": 3
+                },
+                "FlowID": "FL_1",
+                "Type": "Root"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "PL",
+            "PrimaryAttribute": "Preview Link",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "PreviewType": "Brand",
+                "PreviewID": "4ff7fab6-2138-49f5-be66-b3c72f713ca8"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "PROJ",
+            "PrimaryAttribute": "CORE",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": "1.1.0",
+            "Payload": {
+                "ProjectCategory": "CORE",
+                "SchemaVersion": "1.1.0"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "QC",
+            "PrimaryAttribute": "Survey Question Count",
+            "SecondaryAttribute": "32",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "RS",
+            "PrimaryAttribute": "RS_3rqDTOX8XW1GITQ",
+            "SecondaryAttribute": "Default Response Set",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SCO",
+            "PrimaryAttribute": "Scoring",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "ScoringCategories": [],
+                "ScoringCategoryGroups": [],
+                "ScoringSummaryCategory": null,
+                "ScoringSummaryAfterQuestions": 0,
+                "ScoringSummaryAfterSurvey": 0,
+                "DefaultScoringCategory": null,
+                "AutoScoringCategory": null
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SO",
+            "PrimaryAttribute": "Survey Options",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "BackButton": "false",
+                "SaveAndContinue": "true",
+                "SurveyProtection": "PublicSurvey",
+                "BallotBoxStuffingPrevention": "false",
+                "NoIndex": "Yes",
+                "SecureResponseFiles": "true",
+                "SurveyExpiration": "None",
+                "SurveyTermination": "DefaultMessage",
+                "Header": "",
+                "Footer": "",
+                "ProgressBarDisplay": "None",
+                "PartialData": "+1 week",
+                "ValidationMessage": "",
+                "PreviousButton": "",
+                "NextButton": "",
+                "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+                "SkinLibrary": "umich",
+                "SkinType": "templated",
+                "Skin": {
+                    "brandingId": "3019387420",
+                    "templateId": "*base",
+                    "overrides": null
+                },
+                "NewScoring": 1,
+                "SurveyMetaDescription": "The most powerful, simple and trusted way to gather experience data. Start your journey to experience management and try a free account today.",
+                "SurveyName": "Query Template"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID10",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"nostalgia2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"nostalgia2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q9",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"nostalgia2\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID9/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID10"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID11",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"nostalgia2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"nostalgia2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q10",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"nostalgia2\"",
+                "Choices": {
+                    "1": {
+                        "Display": "memories"
+                    },
+                    "2": {
+                        "Display": "past"
+                    },
+                    "3": {
+                        "Display": "bittersweet"
+                    },
+                    "4": {
+                        "Display": "longing"
+                    },
+                    "5": {
+                        "Display": "reminisce"
+                    },
+                    "6": {
+                        "Display": "yearning"
+                    },
+                    "7": {
+                        "Display": "flashback"
+                    },
+                    "8": {
+                        "Display": "old days"
+                    },
+                    "9": {
+                        "Display": "sentimental"
+                    },
+                    "10": {
+                        "Display": "melancholy"
+                    },
+                    "11": {
+                        "Display": "childhood"
+                    },
+                    "12": {
+                        "Display": "throwback"
+                    },
+                    "13": {
+                        "Display": "wistful"
+                    },
+                    "14": {
+                        "Display": "retro"
+                    },
+                    "15": {
+                        "Display": "antique"
+                    },
+                    "16": {
+                        "Display": "classic"
+                    },
+                    "17": {
+                        "Display": "golden days"
+                    },
+                    "18": {
+                        "Display": "vintage"
+                    },
+                    "19": {
+                        "Display": "heartwarming"
+                    },
+                    "20": {
+                        "Display": "timeless"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID11"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID12",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"jealousy2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"jealousy2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q11",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"jealousy2\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID11/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID12"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID13",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"jealousy2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"jealousy2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q12",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"jealousy2\"",
+                "Choices": {
+                    "1": {
+                        "Display": "envy"
+                    },
+                    "2": {
+                        "Display": "resent"
+                    },
+                    "3": {
+                        "Display": "covet"
+                    },
+                    "4": {
+                        "Display": "green-eyed"
+                    },
+                    "5": {
+                        "Display": "possessive"
+                    },
+                    "6": {
+                        "Display": "suspicion"
+                    },
+                    "7": {
+                        "Display": "mistrust"
+                    },
+                    "8": {
+                        "Display": "distrust"
+                    },
+                    "9": {
+                        "Display": "bitterness"
+                    },
+                    "10": {
+                        "Display": "spite"
+                    },
+                    "11": {
+                        "Display": "comparison"
+                    },
+                    "12": {
+                        "Display": "insecurity"
+                    },
+                    "13": {
+                        "Display": "longing"
+                    },
+                    "14": {
+                        "Display": "competitiveness"
+                    },
+                    "15": {
+                        "Display": "inferiority"
+                    },
+                    "16": {
+                        "Display": "grudge"
+                    },
+                    "17": {
+                        "Display": "fuming"
+                    },
+                    "18": {
+                        "Display": "anger"
+                    },
+                    "19": {
+                        "Display": "watchful"
+                    },
+                    "20": {
+                        "Display": "wary"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID13"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID14",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"friendship2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"friendship2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q13",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"friendship2\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID13/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID14"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID15",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"friendship2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"friendship2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q14",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"friendship2\"",
+                "Choices": {
+                    "1": {
+                        "Display": "bond"
+                    },
+                    "2": {
+                        "Display": "companion"
+                    },
+                    "3": {
+                        "Display": "ally"
+                    },
+                    "4": {
+                        "Display": "trust"
+                    },
+                    "5": {
+                        "Display": "loyal"
+                    },
+                    "6": {
+                        "Display": "camaraderie"
+                    },
+                    "7": {
+                        "Display": "mate"
+                    },
+                    "8": {
+                        "Display": "bro"
+                    },
+                    "9": {
+                        "Display": "sisterhood"
+                    },
+                    "10": {
+                        "Display": "brotherhood"
+                    },
+                    "11": {
+                        "Display": "affection"
+                    },
+                    "12": {
+                        "Display": "partnership"
+                    },
+                    "13": {
+                        "Display": "support"
+                    },
+                    "14": {
+                        "Display": "understanding"
+                    },
+                    "15": {
+                        "Display": "team"
+                    },
+                    "16": {
+                        "Display": "respect"
+                    },
+                    "17": {
+                        "Display": "connect"
+                    },
+                    "18": {
+                        "Display": "harmony"
+                    },
+                    "19": {
+                        "Display": "together"
+                    },
+                    "20": {
+                        "Display": "kindred"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID15"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID16",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"surprise2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"surprise2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q15",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"surprise2\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID15/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID16"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID17",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"surprise2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"surprise2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q16",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"surprise2\"",
+                "Choices": {
+                    "1": {
+                        "Display": "shock"
+                    },
+                    "2": {
+                        "Display": "amazement"
+                    },
+                    "3": {
+                        "Display": "astonishment"
+                    },
+                    "4": {
+                        "Display": "wonder"
+                    },
+                    "5": {
+                        "Display": "startled"
+                    },
+                    "6": {
+                        "Display": "stunned"
+                    },
+                    "7": {
+                        "Display": "flabbergasted"
+                    },
+                    "8": {
+                        "Display": "aghast"
+                    },
+                    "9": {
+                        "Display": "dumbfounded"
+                    },
+                    "10": {
+                        "Display": "jolted"
+                    },
+                    "11": {
+                        "Display": "marvel"
+                    },
+                    "12": {
+                        "Display": "unexpected"
+                    },
+                    "13": {
+                        "Display": "perplexed"
+                    },
+                    "14": {
+                        "Display": "bewildered"
+                    },
+                    "15": {
+                        "Display": "gobsmacked"
+                    },
+                    "16": {
+                        "Display": "astounded"
+                    },
+                    "17": {
+                        "Display": "overwhelmed"
+                    },
+                    "18": {
+                        "Display": "speechless"
+                    },
+                    "19": {
+                        "Display": "baffled"
+                    },
+                    "20": {
+                        "Display": "staggered"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID17"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID18",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"fear2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"fear2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q17",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"fear2\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID17/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID18"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID19",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"fear2\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"fear2\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q18",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"fear2\"",
+                "Choices": {
+                    "1": {
+                        "Display": "terror"
+                    },
+                    "2": {
+                        "Display": "panic"
+                    },
+                    "3": {
+                        "Display": "dread"
+                    },
+                    "4": {
+                        "Display": "fright"
+                    },
+                    "5": {
+                        "Display": "horror"
+                    },
+                    "6": {
+                        "Display": "alarm"
+                    },
+                    "7": {
+                        "Display": "anxiety"
+                    },
+                    "8": {
+                        "Display": "nervous"
+                    },
+                    "9": {
+                        "Display": "uneasy"
+                    },
+                    "10": {
+                        "Display": "apprehension"
+                    },
+                    "11": {
+                        "Display": "timid"
+                    },
+                    "12": {
+                        "Display": "startle"
+                    },
+                    "13": {
+                        "Display": "tremble"
+                    },
+                    "14": {
+                        "Display": "phobia"
+                    },
+                    "15": {
+                        "Display": "shiver"
+                    },
+                    "16": {
+                        "Display": "quiver"
+                    },
+                    "17": {
+                        "Display": "spooked"
+                    },
+                    "18": {
+                        "Display": "petrified"
+                    },
+                    "19": {
+                        "Display": "chill"
+                    },
+                    "20": {
+                        "Display": "paranoia"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID19"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID2",
+            "SecondaryAttribute": "What is your name?",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "What is your name?",
+                "DefaultChoices": false,
+                "DataExportTag": "Q1",
+                "QuestionType": "TE",
+                "Selector": "ML",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "What is your name?",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID2"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID20",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"nostalgia\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"nostalgia\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q19",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"nostalgia\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID19/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID20"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID21",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"nostalgia\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"nostalgia\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q20",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"nostalgia\"",
+                "Choices": {
+                    "1": {
+                        "Display": "memories"
+                    },
+                    "2": {
+                        "Display": "past"
+                    },
+                    "3": {
+                        "Display": "bittersweet"
+                    },
+                    "4": {
+                        "Display": "longing"
+                    },
+                    "5": {
+                        "Display": "reminisce"
+                    },
+                    "6": {
+                        "Display": "yearning"
+                    },
+                    "7": {
+                        "Display": "flashback"
+                    },
+                    "8": {
+                        "Display": "old days"
+                    },
+                    "9": {
+                        "Display": "sentimental"
+                    },
+                    "10": {
+                        "Display": "melancholy"
+                    },
+                    "11": {
+                        "Display": "childhood"
+                    },
+                    "12": {
+                        "Display": "throwback"
+                    },
+                    "13": {
+                        "Display": "wistful"
+                    },
+                    "14": {
+                        "Display": "retro"
+                    },
+                    "15": {
+                        "Display": "antique"
+                    },
+                    "16": {
+                        "Display": "classic"
+                    },
+                    "17": {
+                        "Display": "golden days"
+                    },
+                    "18": {
+                        "Display": "vintage"
+                    },
+                    "19": {
+                        "Display": "heartwarming"
+                    },
+                    "20": {
+                        "Display": "timeless"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID21"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID22",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"jealousy\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"jealousy\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q21",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"jealousy\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID21/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID22"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID23",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"jealousy\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"jealousy\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q22",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"jealousy\"",
+                "Choices": {
+                    "1": {
+                        "Display": "envy"
+                    },
+                    "2": {
+                        "Display": "resent"
+                    },
+                    "3": {
+                        "Display": "covet"
+                    },
+                    "4": {
+                        "Display": "green-eyed"
+                    },
+                    "5": {
+                        "Display": "possessive"
+                    },
+                    "6": {
+                        "Display": "suspicion"
+                    },
+                    "7": {
+                        "Display": "mistrust"
+                    },
+                    "8": {
+                        "Display": "distrust"
+                    },
+                    "9": {
+                        "Display": "bitterness"
+                    },
+                    "10": {
+                        "Display": "spite"
+                    },
+                    "11": {
+                        "Display": "comparison"
+                    },
+                    "12": {
+                        "Display": "insecurity"
+                    },
+                    "13": {
+                        "Display": "longing"
+                    },
+                    "14": {
+                        "Display": "competitiveness"
+                    },
+                    "15": {
+                        "Display": "inferiority"
+                    },
+                    "16": {
+                        "Display": "grudge"
+                    },
+                    "17": {
+                        "Display": "fuming"
+                    },
+                    "18": {
+                        "Display": "anger"
+                    },
+                    "19": {
+                        "Display": "watchful"
+                    },
+                    "20": {
+                        "Display": "wary"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID23"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID24",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"friendship\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"friendship\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q23",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"friendship\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID23/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID24"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID25",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"friendship\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"friendship\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q24",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"friendship\"",
+                "Choices": {
+                    "1": {
+                        "Display": "bond"
+                    },
+                    "2": {
+                        "Display": "companion"
+                    },
+                    "3": {
+                        "Display": "ally"
+                    },
+                    "4": {
+                        "Display": "trust"
+                    },
+                    "5": {
+                        "Display": "loyal"
+                    },
+                    "6": {
+                        "Display": "camaraderie"
+                    },
+                    "7": {
+                        "Display": "mate"
+                    },
+                    "8": {
+                        "Display": "bro"
+                    },
+                    "9": {
+                        "Display": "sisterhood"
+                    },
+                    "10": {
+                        "Display": "brotherhood"
+                    },
+                    "11": {
+                        "Display": "affection"
+                    },
+                    "12": {
+                        "Display": "partnership"
+                    },
+                    "13": {
+                        "Display": "support"
+                    },
+                    "14": {
+                        "Display": "understanding"
+                    },
+                    "15": {
+                        "Display": "team"
+                    },
+                    "16": {
+                        "Display": "respect"
+                    },
+                    "17": {
+                        "Display": "connect"
+                    },
+                    "18": {
+                        "Display": "harmony"
+                    },
+                    "19": {
+                        "Display": "together"
+                    },
+                    "20": {
+                        "Display": "kindred"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID25"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID26",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"surprise\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"surprise\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q25",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"surprise\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID25/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID26"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID27",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"surprise\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"surprise\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q26",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"surprise\"",
+                "Choices": {
+                    "1": {
+                        "Display": "shock"
+                    },
+                    "2": {
+                        "Display": "amazement"
+                    },
+                    "3": {
+                        "Display": "astonishment"
+                    },
+                    "4": {
+                        "Display": "wonder"
+                    },
+                    "5": {
+                        "Display": "startled"
+                    },
+                    "6": {
+                        "Display": "stunned"
+                    },
+                    "7": {
+                        "Display": "flabbergasted"
+                    },
+                    "8": {
+                        "Display": "aghast"
+                    },
+                    "9": {
+                        "Display": "dumbfounded"
+                    },
+                    "10": {
+                        "Display": "jolted"
+                    },
+                    "11": {
+                        "Display": "marvel"
+                    },
+                    "12": {
+                        "Display": "unexpected"
+                    },
+                    "13": {
+                        "Display": "perplexed"
+                    },
+                    "14": {
+                        "Display": "bewildered"
+                    },
+                    "15": {
+                        "Display": "gobsmacked"
+                    },
+                    "16": {
+                        "Display": "astounded"
+                    },
+                    "17": {
+                        "Display": "overwhelmed"
+                    },
+                    "18": {
+                        "Display": "speechless"
+                    },
+                    "19": {
+                        "Display": "baffled"
+                    },
+                    "20": {
+                        "Display": "staggered"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID27"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID28",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"fear\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"fear\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q27",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"fear\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID27/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID28"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID29",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"fear\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"fear\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q28",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"fear\"",
+                "Choices": {
+                    "1": {
+                        "Display": "terror"
+                    },
+                    "2": {
+                        "Display": "panic"
+                    },
+                    "3": {
+                        "Display": "dread"
+                    },
+                    "4": {
+                        "Display": "fright"
+                    },
+                    "5": {
+                        "Display": "horror"
+                    },
+                    "6": {
+                        "Display": "alarm"
+                    },
+                    "7": {
+                        "Display": "anxiety"
+                    },
+                    "8": {
+                        "Display": "nervous"
+                    },
+                    "9": {
+                        "Display": "uneasy"
+                    },
+                    "10": {
+                        "Display": "apprehension"
+                    },
+                    "11": {
+                        "Display": "timid"
+                    },
+                    "12": {
+                        "Display": "startle"
+                    },
+                    "13": {
+                        "Display": "tremble"
+                    },
+                    "14": {
+                        "Display": "phobia"
+                    },
+                    "15": {
+                        "Display": "shiver"
+                    },
+                    "16": {
+                        "Display": "quiver"
+                    },
+                    "17": {
+                        "Display": "spooked"
+                    },
+                    "18": {
+                        "Display": "petrified"
+                    },
+                    "19": {
+                        "Display": "chill"
+                    },
+                    "20": {
+                        "Display": "paranoia"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID29"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID3",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"anger\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"anger\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q2",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"anger\"",
+                "Choices": {
+                    "1": {
+                        "Display": "rage"
+                    },
+                    "2": {
+                        "Display": "fury"
+                    },
+                    "3": {
+                        "Display": "wrath"
+                    },
+                    "4": {
+                        "Display": "outrage"
+                    },
+                    "5": {
+                        "Display": "resentment"
+                    },
+                    "6": {
+                        "Display": "bitterness"
+                    },
+                    "7": {
+                        "Display": "spite"
+                    },
+                    "8": {
+                        "Display": "grudge"
+                    },
+                    "9": {
+                        "Display": "irritation"
+                    },
+                    "10": {
+                        "Display": "annoyance"
+                    },
+                    "11": {
+                        "Display": "exasperation"
+                    },
+                    "12": {
+                        "Display": "hostility"
+                    },
+                    "13": {
+                        "Display": "hatred"
+                    },
+                    "14": {
+                        "Display": "indignation"
+                    },
+                    "15": {
+                        "Display": "fuming"
+                    },
+                    "16": {
+                        "Display": "seething"
+                    },
+                    "17": {
+                        "Display": "mad"
+                    },
+                    "18": {
+                        "Display": "infuriated"
+                    },
+                    "19": {
+                        "Display": "irate"
+                    },
+                    "20": {
+                        "Display": "tempest"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID3"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID30",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"anger\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"anger\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q29",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"anger\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID29/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID30"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID31",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"happiness\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"happiness\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q30",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"happiness\"",
+                "Choices": {
+                    "1": {
+                        "Display": "joy"
+                    },
+                    "2": {
+                        "Display": "smile"
+                    },
+                    "3": {
+                        "Display": "laughter"
+                    },
+                    "4": {
+                        "Display": "cheer"
+                    },
+                    "5": {
+                        "Display": "delight"
+                    },
+                    "6": {
+                        "Display": "bliss"
+                    },
+                    "7": {
+                        "Display": "glee"
+                    },
+                    "8": {
+                        "Display": "ecstatic"
+                    },
+                    "9": {
+                        "Display": "merry"
+                    },
+                    "10": {
+                        "Display": "euphoria"
+                    },
+                    "11": {
+                        "Display": "sunny"
+                    },
+                    "12": {
+                        "Display": "content"
+                    },
+                    "13": {
+                        "Display": "radiant"
+                    },
+                    "14": {
+                        "Display": "jubilant"
+                    },
+                    "15": {
+                        "Display": "bubbly"
+                    },
+                    "16": {
+                        "Display": "grateful"
+                    },
+                    "17": {
+                        "Display": "optimistic"
+                    },
+                    "18": {
+                        "Display": "carefree"
+                    },
+                    "19": {
+                        "Display": "vivacious"
+                    },
+                    "20": {
+                        "Display": "buoyant"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID31"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID32",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"happiness\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"happiness\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q31",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"happiness\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID29/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID32"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID4",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"kiss\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"kiss\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q3",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"kiss\"",
+                "Choices": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID4",
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID3/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": []
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID5",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"kiss\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"kiss\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q4",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"kiss\"",
+                "Choices": {
+                    "1": {
+                        "Display": "smoocher"
+                    },
+                    "2": {
+                        "Display": "kombucher"
+                    },
+                    "3": {
+                        "Display": "peck"
+                    },
+                    "4": {
+                        "Display": "smooch"
+                    },
+                    "5": {
+                        "Display": "liplock"
+                    },
+                    "6": {
+                        "Display": "mwah"
+                    },
+                    "7": {
+                        "Display": "pucker"
+                    },
+                    "8": {
+                        "Display": "osculation"
+                    },
+                    "9": {
+                        "Display": "romantic"
+                    },
+                    "10": {
+                        "Display": "passionate"
+                    },
+                    "11": {
+                        "Display": "sweet"
+                    },
+                    "12": {
+                        "Display": "gentle"
+                    },
+                    "13": {
+                        "Display": "soft"
+                    },
+                    "14": {
+                        "Display": "warm"
+                    },
+                    "15": {
+                        "Display": "butterfly"
+                    },
+                    "16": {
+                        "Display": "cheek"
+                    },
+                    "17": {
+                        "Display": "forehead"
+                    },
+                    "18": {
+                        "Display": "eskimo"
+                    },
+                    "19": {
+                        "Display": "lovebite"
+                    },
+                    "20": {
+                        "Display": "chaste"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID5"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID6",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"sadness\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"sadness\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q5",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"sadness\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID5/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID6"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID7",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"sadness\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"sadness\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q6",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"sadness\"",
+                "Choices": {
+                    "1": {
+                        "Display": "meow"
+                    },
+                    "2": {
+                        "Display": "meow meow"
+                    },
+                    "3": {
+                        "Display": "meowwww"
+                    },
+                    "4": {
+                        "Display": "tears"
+                    },
+                    "5": {
+                        "Display": "gloom"
+                    },
+                    "6": {
+                        "Display": "despair"
+                    },
+                    "7": {
+                        "Display": "melancholy"
+                    },
+                    "8": {
+                        "Display": "sorrow"
+                    },
+                    "9": {
+                        "Display": "blue"
+                    },
+                    "10": {
+                        "Display": "grief"
+                    },
+                    "11": {
+                        "Display": "heartache"
+                    },
+                    "12": {
+                        "Display": "mourn"
+                    },
+                    "13": {
+                        "Display": "loneliness"
+                    },
+                    "14": {
+                        "Display": "misery"
+                    },
+                    "15": {
+                        "Display": "pain"
+                    },
+                    "16": {
+                        "Display": "regret"
+                    },
+                    "17": {
+                        "Display": "weep"
+                    },
+                    "18": {
+                        "Display": "hurt"
+                    },
+                    "19": {
+                        "Display": "lost"
+                    },
+                    "20": {
+                        "Display": "downcast"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID7"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID8",
+            "SecondaryAttribute": "Rank these quotes on how funny they are given the query \"love\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Rank these quotes on how funny they are given the query \"love\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q7",
+                "QuestionType": "RO",
+                "Selector": "DND",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Rank these quotes on how funny they are given the query \"love\"",
+                "Choices": [],
+                "DynamicChoices": {
+                    "DynamicType": "ChoiceGroup",
+                    "Locator": "q://QID7/ChoiceGroup/SelectedChoices",
+                    "Type": "Dynamic"
+                },
+                "DynamicChoicesData": [],
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 1,
+                "NextAnswerId": 1,
+                "QuestionID": "QID8"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID9",
+            "SecondaryAttribute": "Select whether or not the following quotes are similar to the query \"love\"",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Select whether or not the following quotes are similar to the query \"love\"",
+                "DefaultChoices": false,
+                "DataExportTag": "Q8",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Select whether or not the following quotes are similar to the query \"love\"",
+                "Choices": {
+                    "1": {
+                        "Display": "hello"
+                    },
+                    "2": {
+                        "Display": "hi"
+                    },
+                    "3": {
+                        "Display": "are you"
+                    },
+                    "4": {
+                        "Display": "darling"
+                    },
+                    "5": {
+                        "Display": "sweetheart"
+                    },
+                    "6": {
+                        "Display": "honey"
+                    },
+                    "7": {
+                        "Display": "romance"
+                    },
+                    "8": {
+                        "Display": "affection"
+                    },
+                    "9": {
+                        "Display": "passion"
+                    },
+                    "10": {
+                        "Display": "devotion"
+                    },
+                    "11": {
+                        "Display": "adore"
+                    },
+                    "12": {
+                        "Display": "cherish"
+                    },
+                    "13": {
+                        "Display": "fondness"
+                    },
+                    "14": {
+                        "Display": "embrace"
+                    },
+                    "15": {
+                        "Display": "beloved"
+                    },
+                    "16": {
+                        "Display": "cuddle"
+                    },
+                    "17": {
+                        "Display": "valentine"
+                    },
+                    "18": {
+                        "Display": "kiss"
+                    },
+                    "19": {
+                        "Display": "heart"
+                    },
+                    "20": {
+                        "Display": "soulmate"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "15",
+                    "16",
+                    "17",
+                    "18",
+                    "19",
+                    "20"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID9"
+            }
+        },
+        {
+            "SurveyID": "SV_0wdaQwTq1Bz0QR1",
+            "Element": "STAT",
+            "PrimaryAttribute": "Survey Statistics",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "MobileCompatible": true,
+                "ID": "Survey Statistics"
+            }
+        }
+    ]
+}
