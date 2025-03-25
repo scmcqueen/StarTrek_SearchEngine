@@ -1,0 +1,1011 @@
+,index,query,ranking,value
+0,Q11,tribble,1,12173
+1,Q13,mister spock,1,12246
+2,Q15,unification,1,94322
+3,Q17,shields,1,102289
+4,Q19,guinan,1,115444
+5,Q21,troi,1,84340
+6,Q23,Kira,1,57691
+7,Q29,Bashir,1,61012
+8,Q3,miles,1,57934
+9,Q31,Worf,1,119759
+10,Q5,women,1,71686
+11,Q7,men,1,46258
+12,Q9,android,1,79235
+13,Q11,tribble,10,0
+14,Q13,mister spock,10,0
+15,Q15,unification,10,0
+16,Q17,shields,10,0
+17,Q19,guinan,10,0
+18,Q21,troi,10,0
+19,Q23,Kira,10,0
+20,Q29,Bashir,10,0
+21,Q3,miles,10,0
+22,Q31,Worf,10,0
+23,Q5,women,10,0
+24,Q7,men,10,0
+25,Q9,android,10,100536
+26,Q11,tribble,11,0
+27,Q13,mister spock,11,0
+28,Q15,unification,11,0
+29,Q17,shields,11,0
+30,Q19,guinan,11,0
+31,Q21,troi,11,0
+32,Q23,Kira,11,0
+33,Q29,Bashir,11,0
+34,Q3,miles,11,0
+35,Q31,Worf,11,0
+36,Q5,women,11,0
+37,Q7,men,11,0
+38,Q9,android,11,98597
+39,Q11,tribble,12,0
+40,Q13,mister spock,12,0
+41,Q15,unification,12,0
+42,Q17,shields,12,0
+43,Q19,guinan,12,0
+44,Q21,troi,12,0
+45,Q23,Kira,12,0
+46,Q29,Bashir,12,0
+47,Q3,miles,12,0
+48,Q31,Worf,12,0
+49,Q5,women,12,0
+50,Q7,men,12,0
+51,Q9,android,12,105335
+52,Q11,tribble,13,0
+53,Q13,mister spock,13,0
+54,Q15,unification,13,0
+55,Q17,shields,13,0
+56,Q19,guinan,13,0
+57,Q21,troi,13,0
+58,Q23,Kira,13,0
+59,Q29,Bashir,13,0
+60,Q3,miles,13,0
+61,Q31,Worf,13,0
+62,Q5,women,13,0
+63,Q7,men,13,0
+64,Q9,android,13,105346
+65,Q11,tribble,14,0
+66,Q13,mister spock,14,0
+67,Q15,unification,14,0
+68,Q17,shields,14,0
+69,Q19,guinan,14,0
+70,Q21,troi,14,0
+71,Q23,Kira,14,0
+72,Q29,Bashir,14,0
+73,Q3,miles,14,0
+74,Q31,Worf,14,0
+75,Q5,women,14,0
+76,Q7,men,14,0
+77,Q9,android,14,105347
+78,Q11,tribble,15,0
+79,Q13,mister spock,15,0
+80,Q15,unification,15,0
+81,Q17,shields,15,0
+82,Q19,guinan,15,0
+83,Q21,troi,15,0
+84,Q23,Kira,15,0
+85,Q29,Bashir,15,0
+86,Q3,miles,15,0
+87,Q31,Worf,15,0
+88,Q5,women,15,0
+89,Q7,men,15,0
+90,Q9,android,15,105454
+91,Q11,tribble,2,12344
+92,Q13,mister spock,2,107039
+93,Q15,unification,2,0
+94,Q17,shields,2,120390
+95,Q19,guinan,2,100182
+96,Q21,troi,2,86593
+97,Q23,Kira,2,48623
+98,Q29,Bashir,2,68812
+99,Q3,miles,2,52572
+100,Q31,Worf,2,132842
+101,Q5,women,2,12083
+102,Q7,men,2,120119
+103,Q9,android,2,126466
+104,Q11,tribble,3,12335
+105,Q13,mister spock,3,107101
+106,Q15,unification,3,0
+107,Q17,shields,3,12767
+108,Q19,guinan,3,123271
+109,Q21,troi,3,105654
+110,Q23,Kira,3,52238
+111,Q29,Bashir,3,0
+112,Q3,miles,3,0
+113,Q31,Worf,3,93220
+114,Q5,women,3,104039
+115,Q7,men,3,56667
+116,Q9,android,3,96414
+117,Q11,tribble,4,12336
+118,Q13,mister spock,4,98289
+119,Q15,unification,4,0
+120,Q17,shields,4,127940
+121,Q19,guinan,4,96858
+122,Q21,troi,4,0
+123,Q23,Kira,4,41439
+124,Q29,Bashir,4,0
+125,Q3,miles,4,0
+126,Q31,Worf,4,108213
+127,Q5,women,4,111300
+128,Q7,men,4,116156
+129,Q9,android,4,100523
+130,Q11,tribble,5,12394
+131,Q13,mister spock,5,107140
+132,Q15,unification,5,0
+133,Q17,shields,5,76434
+134,Q19,guinan,5,96840
+135,Q21,troi,5,0
+136,Q23,Kira,5,0
+137,Q29,Bashir,5,0
+138,Q3,miles,5,0
+139,Q31,Worf,5,0
+140,Q5,women,5,74907
+141,Q7,men,5,120092
+142,Q9,android,5,118824
+143,Q11,tribble,6,0
+144,Q13,mister spock,6,98147
+145,Q15,unification,6,0
+146,Q17,shields,6,123300
+147,Q19,guinan,6,90707
+148,Q21,troi,6,0
+149,Q23,Kira,6,0
+150,Q29,Bashir,6,0
+151,Q3,miles,6,0
+152,Q31,Worf,6,0
+153,Q5,women,6,47321
+154,Q7,men,6,0
+155,Q9,android,6,139135
+156,Q11,tribble,7,0
+157,Q13,mister spock,7,98292
+158,Q15,unification,7,0
+159,Q17,shields,7,105417
+160,Q19,guinan,7,90722
+161,Q21,troi,7,0
+162,Q23,Kira,7,0
+163,Q29,Bashir,7,0
+164,Q3,miles,7,0
+165,Q31,Worf,7,0
+166,Q5,women,7,40491
+167,Q7,men,7,0
+168,Q9,android,7,138975
+169,Q11,tribble,8,0
+170,Q13,mister spock,8,0
+171,Q15,unification,8,0
+172,Q17,shields,8,0
+173,Q19,guinan,8,0
+174,Q21,troi,8,0
+175,Q23,Kira,8,0
+176,Q29,Bashir,8,0
+177,Q3,miles,8,0
+178,Q31,Worf,8,0
+179,Q5,women,8,71705
+180,Q7,men,8,0
+181,Q9,android,8,110129
+182,Q11,tribble,9,0
+183,Q13,mister spock,9,0
+184,Q15,unification,9,0
+185,Q17,shields,9,0
+186,Q19,guinan,9,0
+187,Q21,troi,9,0
+188,Q23,Kira,9,0
+189,Q29,Bashir,9,0
+190,Q3,miles,9,0
+191,Q31,Worf,9,0
+192,Q5,women,9,93075
+193,Q7,men,9,0
+194,Q9,android,9,105344
+0,Q11,tailor,1,31704
+1,Q13,conscious,1,83397
+2,Q15,occupation,1,7925
+3,Q17,phaser,1,95745
+4,Q19,poker,1,109975
+5,Q21,Riker,1,70240
+6,Q23,geordi,1,142907
+7,Q25,Jake,1,62202
+8,Q27,earl grey,1,75392
+9,Q29,impossible,1,128986
+10,Q3,cook,1,31501
+11,Q31,celebrate,1,67774
+12,Q5,gagh,1,34864
+13,Q7,blood wine,1,14074
+14,Q9,Neutral Zone,1,139157
+15,Q11,tailor,10,3338
+16,Q13,conscious,10,0
+17,Q15,occupation,10,53827
+18,Q17,phaser,10,0
+19,Q19,poker,10,0
+20,Q21,Riker,10,0
+21,Q23,geordi,10,0
+22,Q25,Jake,10,0
+23,Q27,earl grey,10,93232
+24,Q29,impossible,10,0
+25,Q3,cook,10,0
+26,Q31,celebrate,10,0
+27,Q5,gagh,10,0
+28,Q7,blood wine,10,0
+29,Q9,Neutral Zone,10,0
+30,Q11,tailor,11,24067
+31,Q13,conscious,11,0
+32,Q15,occupation,11,69707
+33,Q17,phaser,11,0
+34,Q19,poker,11,0
+35,Q21,Riker,11,0
+36,Q23,geordi,11,0
+37,Q25,Jake,11,0
+38,Q27,earl grey,11,113979
+39,Q29,impossible,11,0
+40,Q3,cook,11,0
+41,Q31,celebrate,11,0
+42,Q5,gagh,11,0
+43,Q7,blood wine,11,0
+44,Q9,Neutral Zone,11,0
+45,Q11,tailor,12,6746
+46,Q13,conscious,12,0
+47,Q15,occupation,12,29647
+48,Q17,phaser,12,0
+49,Q19,poker,12,0
+50,Q21,Riker,12,0
+51,Q23,geordi,12,0
+52,Q25,Jake,12,0
+53,Q27,earl grey,12,80670
+54,Q29,impossible,12,0
+55,Q3,cook,12,0
+56,Q31,celebrate,12,0
+57,Q5,gagh,12,0
+58,Q7,blood wine,12,0
+59,Q9,Neutral Zone,12,0
+60,Q11,tailor,13,56439
+61,Q13,conscious,13,0
+62,Q15,occupation,13,52011
+63,Q17,phaser,13,0
+64,Q19,poker,13,0
+65,Q21,Riker,13,0
+66,Q23,geordi,13,0
+67,Q25,Jake,13,0
+68,Q27,earl grey,13,137165
+69,Q29,impossible,13,0
+70,Q3,cook,13,0
+71,Q31,celebrate,13,0
+72,Q5,gagh,13,0
+73,Q7,blood wine,13,0
+74,Q9,Neutral Zone,13,0
+75,Q11,tailor,14,0
+76,Q13,conscious,14,0
+77,Q15,occupation,14,25413
+78,Q17,phaser,14,0
+79,Q19,poker,14,0
+80,Q21,Riker,14,0
+81,Q23,geordi,14,0
+82,Q25,Jake,14,0
+83,Q27,earl grey,14,87820
+84,Q29,impossible,14,0
+85,Q3,cook,14,0
+86,Q31,celebrate,14,0
+87,Q5,gagh,14,0
+88,Q7,blood wine,14,0
+89,Q9,Neutral Zone,14,0
+90,Q11,tailor,15,0
+91,Q13,conscious,15,0
+92,Q15,occupation,15,51901
+93,Q17,phaser,15,0
+94,Q19,poker,15,0
+95,Q21,Riker,15,0
+96,Q23,geordi,15,0
+97,Q25,Jake,15,0
+98,Q27,earl grey,15,123158
+99,Q29,impossible,15,0
+100,Q3,cook,15,0
+101,Q31,celebrate,15,0
+102,Q5,gagh,15,0
+103,Q7,blood wine,15,0
+104,Q9,Neutral Zone,15,0
+105,Q11,tailor,16,0
+106,Q13,conscious,16,0
+107,Q15,occupation,16,9666
+108,Q17,phaser,16,0
+109,Q19,poker,16,0
+110,Q21,Riker,16,0
+111,Q23,geordi,16,0
+112,Q25,Jake,16,0
+113,Q27,earl grey,16,0
+114,Q29,impossible,16,0
+115,Q3,cook,16,0
+116,Q31,celebrate,16,0
+117,Q5,gagh,16,0
+118,Q7,blood wine,16,0
+119,Q9,Neutral Zone,16,0
+120,Q11,tailor,2,3174
+121,Q13,conscious,2,83398
+122,Q15,occupation,2,10976
+123,Q17,phaser,2,15386
+124,Q19,poker,2,129592
+125,Q21,Riker,2,0
+126,Q23,geordi,2,136771
+127,Q25,Jake,2,38651
+128,Q27,earl grey,2,112037
+129,Q29,impossible,2,26296
+130,Q3,cook,2,119761
+131,Q31,celebrate,2,67773
+132,Q5,gagh,2,27709
+133,Q7,blood wine,2,0
+134,Q9,Neutral Zone,2,134687
+135,Q11,tailor,3,67859
+136,Q13,conscious,3,7915
+137,Q15,occupation,3,11083
+138,Q17,phaser,3,122345
+139,Q19,poker,3,15981
+140,Q21,Riker,3,0
+141,Q23,geordi,3,0
+142,Q25,Jake,3,38499
+143,Q27,earl grey,3,75725
+144,Q29,impossible,3,39842
+145,Q3,cook,3,16476
+146,Q31,celebrate,3,9618
+147,Q5,gagh,3,13684
+148,Q7,blood wine,3,0
+149,Q9,Neutral Zone,3,107255
+150,Q11,tailor,4,67857
+151,Q13,conscious,4,84408
+152,Q15,occupation,4,29692
+153,Q17,phaser,4,131575
+154,Q19,poker,4,132856
+155,Q21,Riker,4,0
+156,Q23,geordi,4,0
+157,Q25,Jake,4,0
+158,Q27,earl grey,4,75401
+159,Q29,impossible,4,114366
+160,Q3,cook,4,85583
+161,Q31,celebrate,4,39425
+162,Q5,gagh,4,131672
+163,Q7,blood wine,4,0
+164,Q9,Neutral Zone,4,134908
+165,Q11,tailor,5,3004
+166,Q13,conscious,5,0
+167,Q15,occupation,5,50372
+168,Q17,phaser,5,0
+169,Q19,poker,5,87598
+170,Q21,Riker,5,0
+171,Q23,geordi,5,0
+172,Q25,Jake,5,0
+173,Q27,earl grey,5,137164
+174,Q29,impossible,5,0
+175,Q3,cook,5,70590
+176,Q31,celebrate,5,0
+177,Q5,gagh,5,27713
+178,Q7,blood wine,5,0
+179,Q9,Neutral Zone,5,131361
+180,Q11,tailor,6,3005
+181,Q13,conscious,6,0
+182,Q15,occupation,6,27001
+183,Q17,phaser,6,0
+184,Q19,poker,6,108321
+185,Q21,Riker,6,0
+186,Q23,geordi,6,0
+187,Q25,Jake,6,0
+188,Q27,earl grey,6,80525
+189,Q29,impossible,6,0
+190,Q3,cook,6,85573
+191,Q31,celebrate,6,0
+192,Q5,gagh,6,27712
+193,Q7,blood wine,6,0
+194,Q9,Neutral Zone,6,98297
+195,Q11,tailor,7,6282
+196,Q13,conscious,7,0
+197,Q15,occupation,7,10778
+198,Q17,phaser,7,0
+199,Q19,poker,7,108323
+200,Q21,Riker,7,0
+201,Q23,geordi,7,0
+202,Q25,Jake,7,0
+203,Q27,earl grey,7,140113
+204,Q29,impossible,7,0
+205,Q3,cook,7,51567
+206,Q31,celebrate,7,0
+207,Q5,gagh,7,107252
+208,Q7,blood wine,7,0
+209,Q9,Neutral Zone,7,0
+210,Q11,tailor,8,65750
+211,Q13,conscious,8,0
+212,Q15,occupation,8,39730
+213,Q17,phaser,8,0
+214,Q19,poker,8,84918
+215,Q21,Riker,8,0
+216,Q23,geordi,8,0
+217,Q25,Jake,8,0
+218,Q27,earl grey,8,112108
+219,Q29,impossible,8,0
+220,Q3,cook,8,109609
+221,Q31,celebrate,8,0
+222,Q5,gagh,8,131781
+223,Q7,blood wine,8,0
+224,Q9,Neutral Zone,8,0
+225,Q11,tailor,9,65751
+226,Q13,conscious,9,0
+227,Q15,occupation,9,25515
+228,Q17,phaser,9,0
+229,Q19,poker,9,94502
+230,Q21,Riker,9,0
+231,Q23,geordi,9,0
+232,Q25,Jake,9,0
+233,Q27,earl grey,9,137149
+234,Q29,impossible,9,0
+235,Q3,cook,9,98845
+236,Q31,celebrate,9,0
+237,Q5,gagh,9,0
+238,Q7,blood wine,9,0
+239,Q9,Neutral Zone,9,0
+0,Q11,crystal,1,75115
+1,Q13,vedek,1,43864
+2,Q15,rules,1,72664
+3,Q17,acquisition,1,2673
+4,Q19,barclay,1,114645
+5,Q21,unusual,1,59991
+6,Q23,assimilate,1,112741
+7,Q25,spot,1,77046
+8,Q27,poetry,1,134349
+9,Q29,Cardassia,1,1321
+10,Q3,tanagra,1,94091
+11,Q31,Borg,1,112719
+12,Q5,commit no errors,1,108854
+13,Q7,raktajino,1,28201
+14,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",1,31050
+15,Q11,crystal,10,0
+16,Q13,vedek,10,0
+17,Q15,rules,10,0
+18,Q17,acquisition,10,72664
+19,Q19,barclay,10,0
+20,Q21,unusual,10,89768
+21,Q23,assimilate,10,0
+22,Q25,spot,10,137117
+23,Q27,poetry,10,84366
+24,Q29,Cardassia,10,0
+25,Q3,tanagra,10,93908
+26,Q31,Borg,10,0
+27,Q5,commit no errors,10,0
+28,Q7,raktajino,10,0
+29,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",10,0
+30,Q11,crystal,11,0
+31,Q13,vedek,11,0
+32,Q15,rules,11,0
+33,Q17,acquisition,11,10058
+34,Q19,barclay,11,0
+35,Q21,unusual,11,26159
+36,Q23,assimilate,11,0
+37,Q25,spot,11,84157
+38,Q27,poetry,11,0
+39,Q29,Cardassia,11,0
+40,Q3,tanagra,11,93812
+41,Q31,Borg,11,0
+42,Q5,commit no errors,11,0
+43,Q7,raktajino,11,0
+44,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",11,0
+45,Q11,crystal,12,0
+46,Q13,vedek,12,0
+47,Q15,rules,12,0
+48,Q17,acquisition,12,24556
+49,Q19,barclay,12,0
+50,Q21,unusual,12,0
+51,Q23,assimilate,12,0
+52,Q25,spot,12,84160
+53,Q27,poetry,12,0
+54,Q29,Cardassia,12,0
+55,Q3,tanagra,12,93802
+56,Q31,Borg,12,0
+57,Q5,commit no errors,12,0
+58,Q7,raktajino,12,0
+59,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",12,0
+60,Q11,crystal,13,0
+61,Q13,vedek,13,0
+62,Q15,rules,13,0
+63,Q17,acquisition,13,55684
+64,Q19,barclay,13,0
+65,Q21,unusual,13,0
+66,Q23,assimilate,13,0
+67,Q25,spot,13,0
+68,Q27,poetry,13,0
+69,Q29,Cardassia,13,0
+70,Q3,tanagra,13,93899
+71,Q31,Borg,13,0
+72,Q5,commit no errors,13,0
+73,Q7,raktajino,13,0
+74,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",13,0
+75,Q11,crystal,14,0
+76,Q13,vedek,14,0
+77,Q15,rules,14,0
+78,Q17,acquisition,14,15633
+79,Q19,barclay,14,0
+80,Q21,unusual,14,0
+81,Q23,assimilate,14,0
+82,Q25,spot,14,0
+83,Q27,poetry,14,0
+84,Q29,Cardassia,14,0
+85,Q3,tanagra,14,93913
+86,Q31,Borg,14,0
+87,Q5,commit no errors,14,0
+88,Q7,raktajino,14,0
+89,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",14,0
+90,Q11,crystal,15,0
+91,Q13,vedek,15,0
+92,Q15,rules,15,0
+93,Q17,acquisition,15,37447
+94,Q19,barclay,15,0
+95,Q21,unusual,15,0
+96,Q23,assimilate,15,0
+97,Q25,spot,15,0
+98,Q27,poetry,15,0
+99,Q29,Cardassia,15,0
+100,Q3,tanagra,15,0
+101,Q31,Borg,15,0
+102,Q5,commit no errors,15,0
+103,Q7,raktajino,15,0
+104,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",15,0
+105,Q11,crystal,2,73920
+106,Q13,vedek,2,56768
+107,Q15,rules,2,20298
+108,Q17,acquisition,2,47770
+109,Q19,barclay,2,114710
+110,Q21,unusual,2,71332
+111,Q23,assimilate,2,112887
+112,Q25,spot,2,77045
+113,Q27,poetry,2,120003
+114,Q29,Cardassia,2,30733
+115,Q3,tanagra,2,94093
+116,Q31,Borg,2,112620
+117,Q5,commit no errors,2,125989
+118,Q7,raktajino,2,12116
+119,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",2,13510
+120,Q11,crystal,3,115510
+121,Q13,vedek,3,25645
+122,Q15,rules,3,67935
+123,Q17,acquisition,3,69545
+124,Q19,barclay,3,0
+125,Q21,unusual,3,136384
+126,Q23,assimilate,3,112727
+127,Q25,spot,3,77044
+128,Q27,poetry,3,28535
+129,Q29,Cardassia,3,26942
+130,Q3,tanagra,3,93946
+131,Q31,Borg,3,112697
+132,Q5,commit no errors,3,0
+133,Q7,raktajino,3,43170
+134,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",3,9431
+135,Q11,crystal,4,115515
+136,Q13,vedek,4,0
+137,Q15,rules,4,35921
+138,Q17,acquisition,4,10175
+139,Q19,barclay,4,0
+140,Q21,unusual,4,133892
+141,Q23,assimilate,4,140668
+142,Q25,spot,4,81100
+143,Q27,poetry,4,124184
+144,Q29,Cardassia,4,27290
+145,Q3,tanagra,4,94031
+146,Q31,Borg,4,112840
+147,Q5,commit no errors,4,0
+148,Q7,raktajino,4,115
+149,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",4,85244
+150,Q11,crystal,5,0
+151,Q13,vedek,5,0
+152,Q15,rules,5,10058
+153,Q17,acquisition,5,35926
+154,Q19,barclay,5,0
+155,Q21,unusual,5,103855
+156,Q23,assimilate,5,140667
+157,Q25,spot,5,81102
+158,Q27,poetry,5,136500
+159,Q29,Cardassia,5,18570
+160,Q3,tanagra,5,94029
+161,Q31,Borg,5,112713
+162,Q5,commit no errors,5,0
+163,Q7,raktajino,5,118
+164,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",5,7630
+165,Q11,crystal,6,0
+166,Q13,vedek,6,0
+167,Q15,rules,6,10249
+168,Q17,acquisition,6,43803
+169,Q19,barclay,6,0
+170,Q21,unusual,6,128339
+171,Q23,assimilate,6,63082
+172,Q25,spot,6,80916
+173,Q27,poetry,6,124225
+174,Q29,Cardassia,6,0
+175,Q3,tanagra,6,94030
+176,Q31,Borg,6,112898
+177,Q5,commit no errors,6,0
+178,Q7,raktajino,6,45241
+179,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",6,65332
+180,Q11,crystal,7,0
+181,Q13,vedek,7,0
+182,Q15,rules,7,53433
+183,Q17,acquisition,7,58324
+184,Q19,barclay,7,0
+185,Q21,unusual,7,90630
+186,Q23,assimilate,7,0
+187,Q25,spot,7,76903
+188,Q27,poetry,7,124216
+189,Q29,Cardassia,7,0
+190,Q3,tanagra,7,94032
+191,Q31,Borg,7,112811
+192,Q5,commit no errors,7,0
+193,Q7,raktajino,7,0
+194,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",7,65192
+195,Q11,crystal,8,0
+196,Q13,vedek,8,0
+197,Q15,rules,8,0
+198,Q17,acquisition,8,36208
+199,Q19,barclay,8,0
+200,Q21,unusual,8,54313
+201,Q23,assimilate,8,0
+202,Q25,spot,8,136785
+203,Q27,poetry,8,124218
+204,Q29,Cardassia,8,0
+205,Q3,tanagra,8,94033
+206,Q31,Borg,8,0
+207,Q5,commit no errors,8,0
+208,Q7,raktajino,8,0
+209,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",8,65230
+210,Q11,crystal,9,0
+211,Q13,vedek,9,0
+212,Q15,rules,9,0
+213,Q17,acquisition,9,35997
+214,Q19,barclay,9,0
+215,Q21,unusual,9,135584
+216,Q23,assimilate,9,0
+217,Q25,spot,9,81096
+218,Q27,poetry,9,58958
+219,Q29,Cardassia,9,0
+220,Q3,tanagra,9,94028
+221,Q31,Borg,9,0
+222,Q5,commit no errors,9,0
+223,Q7,raktajino,9,0
+224,Q9,"leth"" - DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat",9,9273
+0,Q11,Romulans,1,41830
+1,Q13,coffee,1,24933
+2,Q15,saucer section,1,96035
+3,Q17,bridge,1,142937
+4,Q19,future,1,47858
+5,Q21,chocolate,1,100727
+6,Q23,kahless,1,65189
+7,Q25,father,1,100244
+8,Q27,wedding,1,86308
+9,Q29,romance,1,36154
+10,Q3,trial,1,75611
+11,Q31,fiction,1,119992
+12,Q7,archaeology,1,109069
+13,Q9,colony,1,89261
+14,Q11,Romulans,2,104932
+15,Q13,coffee,2,106008
+16,Q15,saucer section,2,78985
+17,Q17,bridge,2,0
+18,Q19,future,2,37484
+19,Q21,chocolate,2,100722
+20,Q23,kahless,2,77416
+21,Q25,father,2,135983
+22,Q27,wedding,2,126940
+23,Q29,romance,2,33536
+24,Q3,trial,2,76083
+25,Q31,fiction,2,101644
+26,Q7,archaeology,2,104205
+27,Q9,colony,2,120112
+28,Q11,Romulans,3,93092
+29,Q13,coffee,3,46294
+30,Q15,saucer section,3,94716
+31,Q17,bridge,3,0
+32,Q19,future,3,11398
+33,Q21,chocolate,3,100733
+34,Q23,kahless,3,77604
+35,Q25,father,3,0
+36,Q27,wedding,3,0
+37,Q29,romance,3,33103
+38,Q3,trial,3,50842
+39,Q31,fiction,3,9283
+40,Q7,archaeology,3,112153
+41,Q9,colony,3,20512
+42,Q11,Romulans,4,61224
+43,Q13,coffee,4,26390
+44,Q15,saucer section,4,78990
+45,Q17,bridge,4,0
+46,Q19,future,4,24576
+47,Q21,chocolate,4,76153
+48,Q23,kahless,4,20893
+49,Q25,father,4,0
+50,Q27,wedding,4,0
+51,Q29,romance,4,4701
+52,Q3,trial,4,79077
+53,Q31,fiction,4,125673
+54,Q7,archaeology,4,140078
+55,Q9,colony,4,95494
+56,Q11,Romulans,5,138885
+57,Q13,coffee,5,36695
+58,Q15,saucer section,5,0
+59,Q17,bridge,5,0
+60,Q19,future,5,118298
+61,Q21,chocolate,5,108234
+62,Q23,kahless,5,77424
+63,Q25,father,5,0
+64,Q27,wedding,5,0
+65,Q29,romance,5,8236
+66,Q3,trial,5,0
+67,Q31,fiction,5,0
+68,Q7,archaeology,5,112166
+69,Q9,colony,5,97893
+70,Q11,Romulans,6,0
+71,Q13,coffee,6,36879
+72,Q15,saucer section,6,0
+73,Q17,bridge,6,0
+74,Q19,future,6,118616
+75,Q21,chocolate,6,96392
+76,Q23,kahless,6,0
+77,Q25,father,6,0
+78,Q27,wedding,6,0
+79,Q29,romance,6,94009
+80,Q3,trial,6,0
+81,Q31,fiction,6,0
+82,Q7,archaeology,6,134787
+83,Q9,colony,6,130522
+84,Q11,Romulans,7,0
+85,Q13,coffee,7,0
+86,Q15,saucer section,7,0
+87,Q17,bridge,7,0
+88,Q19,future,7,56786
+89,Q21,chocolate,7,0
+90,Q23,kahless,7,0
+91,Q25,father,7,0
+92,Q27,wedding,7,0
+93,Q29,romance,7,35666
+94,Q3,trial,7,0
+95,Q31,fiction,7,0
+96,Q7,archaeology,7,0
+97,Q9,colony,7,121122
+98,Q11,Romulans,8,0
+99,Q13,coffee,8,0
+100,Q15,saucer section,8,0
+101,Q17,bridge,8,0
+102,Q19,future,8,66469
+103,Q21,chocolate,8,0
+104,Q23,kahless,8,0
+105,Q25,father,8,0
+106,Q27,wedding,8,0
+107,Q29,romance,8,35687
+108,Q3,trial,8,0
+109,Q31,fiction,8,0
+110,Q7,archaeology,8,0
+111,Q9,colony,8,0
+112,Q11,Romulans,9,0
+113,Q13,coffee,9,0
+114,Q15,saucer section,9,0
+115,Q17,bridge,9,0
+116,Q19,future,9,0
+117,Q21,chocolate,9,0
+118,Q23,kahless,9,0
+119,Q25,father,9,0
+120,Q27,wedding,9,0
+121,Q29,romance,9,13411
+122,Q3,trial,9,0
+123,Q31,fiction,9,0
+124,Q7,archaeology,9,0
+125,Q9,colony,9,0
+0,Q11,molly,1,30991
+1,Q13,child,1,58776
+2,Q15,religion,1,32426
+3,Q17,story,1,12283
+4,Q19,humanity,1,117903
+5,Q21,prune,1,90615
+6,Q23,engineer,1,31500
+7,Q25,struggle,1,96294
+8,Q29,prophets,1,43666
+9,Q3,doctor,1,137655
+10,Q31,bajor,1,38891
+11,Q5,dream,1,58198
+12,Q7,candle,1,88196
+13,Q9,counselor,1,119542
+14,Q11,molly,10,0
+15,Q13,child,10,0
+16,Q15,religion,10,0
+17,Q17,story,10,0
+18,Q19,humanity,10,105556
+19,Q21,prune,10,0
+20,Q23,engineer,10,27739
+21,Q25,struggle,10,41720
+22,Q29,prophets,10,46548
+23,Q3,doctor,10,124000
+24,Q31,bajor,10,0
+25,Q5,dream,10,28153
+26,Q7,candle,10,88368
+27,Q9,counselor,10,93759
+28,Q11,molly,11,0
+29,Q13,child,11,0
+30,Q15,religion,11,0
+31,Q17,story,11,0
+32,Q19,humanity,11,138232
+33,Q21,prune,11,0
+34,Q23,engineer,11,34387
+35,Q25,struggle,11,0
+36,Q29,prophets,11,42070
+37,Q3,doctor,11,112964
+38,Q31,bajor,11,0
+39,Q5,dream,11,138625
+40,Q7,candle,11,88370
+41,Q9,counselor,11,91445
+42,Q11,molly,12,0
+43,Q13,child,12,0
+44,Q15,religion,12,0
+45,Q17,story,12,0
+46,Q19,humanity,12,93373
+47,Q21,prune,12,0
+48,Q23,engineer,12,65602
+49,Q25,struggle,12,0
+50,Q29,prophets,12,382
+51,Q3,doctor,12,0
+52,Q31,bajor,12,0
+53,Q5,dream,12,126689
+54,Q7,candle,12,88466
+55,Q9,counselor,12,127318
+56,Q11,molly,13,0
+57,Q13,child,13,0
+58,Q15,religion,13,0
+59,Q17,story,13,0
+60,Q19,humanity,13,140566
+61,Q21,prune,13,0
+62,Q23,engineer,13,0
+63,Q25,struggle,13,0
+64,Q29,prophets,13,43823
+65,Q3,doctor,13,0
+66,Q31,bajor,13,0
+67,Q5,dream,13,120952
+68,Q7,candle,13,88200
+69,Q9,counselor,13,0
+70,Q11,molly,14,0
+71,Q13,child,14,0
+72,Q15,religion,14,0
+73,Q17,story,14,0
+74,Q19,humanity,14,75783
+75,Q21,prune,14,0
+76,Q23,engineer,14,0
+77,Q25,struggle,14,0
+78,Q29,prophets,14,1129
+79,Q3,doctor,14,0
+80,Q31,bajor,14,0
+81,Q5,dream,14,66626
+82,Q7,candle,14,88179
+83,Q9,counselor,14,0
+84,Q11,molly,15,0
+85,Q13,child,15,0
+86,Q15,religion,15,0
+87,Q17,story,15,0
+88,Q19,humanity,15,79522
+89,Q21,prune,15,0
+90,Q23,engineer,15,0
+91,Q25,struggle,15,0
+92,Q29,prophets,15,0
+93,Q3,doctor,15,0
+94,Q31,bajor,15,0
+95,Q5,dream,15,127573
+96,Q7,candle,15,72584
+97,Q9,counselor,15,0
+98,Q11,molly,16,0
+99,Q13,child,16,0
+100,Q15,religion,16,0
+101,Q17,story,16,0
+102,Q19,humanity,16,79073
+103,Q21,prune,16,0
+104,Q23,engineer,16,0
+105,Q25,struggle,16,0
+106,Q29,prophets,16,0
+107,Q3,doctor,16,0
+108,Q31,bajor,16,0
+109,Q5,dream,16,42386
+110,Q7,candle,16,0
+111,Q9,counselor,16,0
+112,Q11,molly,2,31211
+113,Q13,child,2,132777
+114,Q15,religion,2,56079
+115,Q17,story,2,31013
+116,Q19,humanity,2,98198
+117,Q21,prune,2,15974
+118,Q23,engineer,2,34526
+119,Q25,struggle,2,107890
+120,Q29,prophets,2,34729
+121,Q3,doctor,2,121283
+122,Q31,bajor,2,56860
+123,Q5,dream,2,45104
+124,Q7,candle,2,88261
+125,Q9,counselor,2,137989
+126,Q11,molly,3,31072
+127,Q13,child,3,100032
+128,Q15,religion,3,126778
+129,Q17,story,3,140455
+130,Q19,humanity,3,86230
+131,Q21,prune,3,13255
+132,Q23,engineer,3,65552
+133,Q25,struggle,3,111497
+134,Q29,prophets,3,38633
+135,Q3,doctor,3,132030
+136,Q31,bajor,3,13473
+137,Q5,dream,3,53458
+138,Q7,candle,3,88371
+139,Q9,counselor,3,114770
+140,Q11,molly,4,31070
+141,Q13,child,4,100016
+142,Q15,religion,4,0
+143,Q17,story,4,15569
+144,Q19,humanity,4,61952
+145,Q21,prune,4,13254
+146,Q23,engineer,4,56168
+147,Q25,struggle,4,52134
+148,Q29,prophets,4,29191
+149,Q3,doctor,4,138272
+150,Q31,bajor,4,16887
+151,Q5,dream,4,132630
+152,Q7,candle,4,88378
+153,Q9,counselor,4,138464
+154,Q11,molly,5,31085
+155,Q13,child,5,99902
+156,Q15,religion,5,0
+157,Q17,story,5,68659
+158,Q19,humanity,5,105445
+159,Q21,prune,5,90625
+160,Q23,engineer,5,22503
+161,Q25,struggle,5,85549
+162,Q29,prophets,5,43741
+163,Q3,doctor,5,138539
+164,Q31,bajor,5,56081
+165,Q5,dream,5,16832
+166,Q7,candle,5,88198
+167,Q9,counselor,5,128480
+168,Q11,molly,6,30935
+169,Q13,child,6,93126
+170,Q15,religion,6,0
+171,Q17,story,6,54951
+172,Q19,humanity,6,138168
+173,Q21,prune,6,15975
+174,Q23,engineer,6,30291
+175,Q25,struggle,6,48717
+176,Q29,prophets,6,46598
+177,Q3,doctor,6,138143
+178,Q31,bajor,6,32421
+179,Q5,dream,6,30251
+180,Q7,candle,6,88254
+181,Q9,counselor,6,120797
+182,Q11,molly,7,30998
+183,Q13,child,7,109712
+184,Q15,religion,7,0
+185,Q17,story,7,0
+186,Q19,humanity,7,114115
+187,Q21,prune,7,13242
+188,Q23,engineer,7,137508
+189,Q25,struggle,7,108567
+190,Q29,prophets,7,13116
+191,Q3,doctor,7,138077
+192,Q31,bajor,7,38554
+193,Q5,dream,7,5197
+194,Q7,candle,7,88194
+195,Q9,counselor,7,108851
+196,Q11,molly,8,0
+197,Q13,child,8,137640
+198,Q15,religion,8,0
+199,Q17,story,8,0
+200,Q19,humanity,8,105446
+201,Q21,prune,8,60004
+202,Q23,engineer,8,65832
+203,Q25,struggle,8,46471
+204,Q29,prophets,8,66498
+205,Q3,doctor,8,138281
+206,Q31,bajor,8,0
+207,Q5,dream,8,127503
+208,Q7,candle,8,88375
+209,Q9,counselor,8,90171
+210,Q11,molly,9,0
+211,Q13,child,9,54925
+212,Q15,religion,9,0
+213,Q17,story,9,0
+214,Q19,humanity,9,96561
+215,Q21,prune,9,64822
+216,Q23,engineer,9,22638
+217,Q25,struggle,9,85548
+218,Q29,prophets,9,43929
+219,Q3,doctor,9,126612
+220,Q31,bajor,9,0
+221,Q5,dream,9,28518
+222,Q7,candle,9,88468
+223,Q9,counselor,9,98523
