@@ -6,12 +6,22 @@ import simple_search_func as ss
 import re
 import csv
 
-# Set global variables
-PRIMARY_COLOR = "#0072B5"
-SECONDARY_COLOR = "#B54300"
+pn.extension( global_css=[''':root { --design-primary-color: black;
+    --mdc-theme-background: #eaeaea; /* Green background */}
+    body {
+    --mdc-theme-background: #eaeaea; /* Green background */
+}
+'''])
 
-# panel extension
-pn.extension(design="material", sizing_mode="stretch_width")
+pn.extension(raw_css=['''.custom-button {
+        background-color: #c1ff72;
+        color: white;
+        primary-color: red;
+        border-radius: 5px;
+        border-width: 0px;
+    }
+    '''])
+
 
 
 # LOAD EVERYTHING
@@ -79,20 +89,26 @@ def save_ranking(search_results:str):
     return None
 
 
+
 # Set Widget
-text_input = pn.widgets.TextInput(name='Search Term', placeholder='candle')
-name_input = pn.widgets.TextInput(name='Username', placeholder='Skyeler')
-search_button = pn.widgets.Button(name='Search')
+text_input = pn.widgets.TextInput( placeholder='Try "candle"',width = 900)
+search_button = pn.widgets.Button(name='Search',css_classes=['custom-button'],
+    button_type='light',button_style='outline', align="center")
 # bind
 search_button.on_click(lambda event: search(test_engine,text_input.value)) # lambda x
-craines.on_click(lambda event: save_ranking(search_results))
+
+title_text = pn.pane.Markdown('## A _Star Trek_ Search Engine', align="center")
 
 # Serve
 pn.template.MaterialTemplate(
-    site="SI 699 Final Project",
-    title="Star Trek Search Engine",
-    sidebar=[text_input,search_button,name_input],
-    main=[pn.bind(pretty_print,event=search_button)],
+    title="Ad Aspera per Data",
+    # sidebar=['hello'],
+    main=pn.Column(title_text,
+    pn.Row(pn.Spacer(sizing_mode="stretch_width"),
+        text_input,
+        search_button,
+        pn.Spacer(sizing_mode="stretch_width")),
+    pn.bind(pretty_print,event=search_button)),
 ).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
 
 # should add character names to results
