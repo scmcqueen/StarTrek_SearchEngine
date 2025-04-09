@@ -1,295 +1,1471 @@
-,indices,choices,search
-0,19778,Q: You hit me... Picard never hit me. SISKO: I'm not Picard. Q: Indeed not. You're much easier to provoke. How fortunate for me.,not picard
-1,118205,"PICARD: Is this your doing, Q -- ? Q: Not this time, Picard. PICARD: Mister Worf, see if there's anything we can do to cut through the interference and beam them out of there.",not picard
-2,93196,MOVAR: It will make matters simpler if the captain is cooperative... but we are prepared to move in any case. TORAL: Why not just kill Picard? B'ETOR: Fool! Do we want the Federation as our enemy?,not picard
-3,84461,"PICARD: That's an order, Counselor. TROI: You're not Captain Picard. PICARD/LWAXANA: Leave me alone... please...",not picard
-4,131562,"KORRIS: I will demand Captain Picard give us access to the Battle Bridge. We will separate from the rest of the ship, and together, we will light up the galaxy. Imagine the fear which will roll before us. WORF: Captain Picard will not comply. KORRIS: He cannot -- dare not -- refuse us. In order to save themselves, they will give us what we demand -- then, brother, we are free.",not picard
-5,140105,"PICARD: May I sleep on it? GALEN: Dream not of today, Mister Picard. PICARD: ""Dream not of today."" The night blessing of the Yash-El.",not picard
-6,98264,"PICARD: Captain, maintain an emergency transport schedule at our beam-in coordinates... K'VADA: I do not take orders from you, Picard. PICARD: P'tah Jol Ginquol! Katah! You will lock on those coordinates at sixty minute intervals after our arrival.",not picard
-7,104304,SOVAK: You've put together quite a little team. AJUR: You must not interrupt Captain Picard... SOVAK: Quiet. Move back with the others.,not picard
-8,107970,"PICARD: There is no delay. It is the time I have chosen. DURAS: Exactly one hour, Picard. Do not be late. DURAS: Keep that pahtk away from the ceremony, Picard. He has no place on a Klingon ship.",not picard
-9,141357,OKONA: I'll make it easy on both of us. I'll just call you Tiger. DATA: Captain Picard is not fond of nicknames. OKONA: Your gallant Captain Picard. I'd like to meet him... I'll stroll on the bridge and say hello.,not picard
-10,139605,"KELSEY: You're the only one who needs a deal, Mott. PICARD: My name's not Mott. It's Jean-Luc Picard. KELSEY: Captain Picard... this is all beginning to make sense...",not picard
-11,104707,"BEVERLY: We are involved. I saved his life. For what? So they could chase him down and take that life away? SUNAD: Picard -- we will not tolerate more delays. PICARD: Commander, let me remind you we are on a mission of exploration... our purpose is to establish peaceful relations with the civilizations we encounter.",not picard
-12,96155,"PICARD: Sleep. TROI: It is Captain Picard speaking, not Locutus. PICARD: Sleep. Data.",not picard
-13,103868,"RIKER: Right now, all we have are suspicions... not enough to act upon. The next move is his. THOLL: Well, Picard? Prove to us you're not the enemy. PICARD: I can't.",not picard
-14,112215,LEMEC: Do you have anything to say? JELLICO: Captain Picard was not acting under my orders. LEMEC: And if we wish to execute him?,not picard
-15,89274,"PICARD: And if you each know the officers you inhabit, you know they are equally ready to give their lives for this ship. Free them now... And I will return you to the moon's surface. TROI: I advise you, Picard, not to pass our way again. PICARD: Picard to bridge, our guests will be leaving shortly... I need an emergency medical team here...",not picard
-16,93284,WORF: They will not intervene. GOWRON: Perhaps not yet... but Starfleet Command will listen to Picard... and Picard listens to you. WORF: I can ask nothing more of him in this matter.,not picard
-17,119047,"PICARD: Ah yes, Ardra's magic. Jared, would you believe me if I told you that I could steal Ardra's powers and perform the same magical acts as she? JARED: I am sorry, Captain Picard, but you are not Ardra. PICARD: That is true. I am not Ardra. And yet, I can create a tremor just as she did.",not picard
-18,104245,AJUR: So it finally begins. BORATUS: Picard must not be allowed to destroy the Uthat. AJUR: He will surrender it to us... or die.,not picard
-19,89235,"PICARD: Captain Shumar, may I ask a foolish question? TROI: You are not one to ask foolish questions, Picard... PICARD: Nevertheless, I must ask how you intend to achieve your ""rest""... when all is said and done...",not picard
-20,100730,"TROI: Of course it does. But it's not just a matter of taste. It's the whole experience. TROI: First you spoon the fudge from around the rim... leaving only ice cream in the middle... Then gently spoon the ice cream around the sides, like you're sculpting it... TROI : Relish every bite. Make every one an event. And on the last bite, close your eyes...",ice cream
-21,108236,"COMPUTER: Define ""real"" in context, please. TROI: Real... not one of your perfectly synthesized, ingeniously enhanced imitations... real chocolate ice cream, real whipped cream... COMPUTER: This unit is programmed to provide sources of nutritional value. Your request does not fall within current guidelines.",ice cream
-22,100722,"RIKER: Sure. I'll catch up with you later. RIKER: Chocolate ice cream. Chocolate fudge. Chocolate chips. You're not depressed, are you? TROI: I'm fine, Commander.",ice cream
-23,133533,TALUR: You are an ice-man. DATA: Ice-man? TALUR: Yes. You probably come from a race of people who live in the snow and ice of the Vellorian mountains. Your skin and eye coloration are most likely a result of prolonged exposure to the harsh winter conditions.,ice cream
-24,82886,"BEVERLY: I'm just a little dizzy, thank you. I had some trouble coming through. Where's Captain Picard? DATA: He's on ice. BEVERLY: Pardon?",ice cream
-25,45241,"KAJADA: Very sure. QUARK: Iced Raktajino. Extra cream. DAX: Thank you, Quark.",ice cream
-26,133543,"GARVIN: Not exactly. She said he's lost his memory, but seems to be fine otherwise. Talur thinks he is from a race that lives in the mountains. DATA: I am an ice-man. GARVIN: We'll have to call you something besides Ice-man until your memory returns. What was the word on the container?",ice cream
-27,133532,DATA: Then what do you believe I am? TALUR: You are an ice-man. DATA: Ice-man?,ice cream
-28,57243,"ALEXANDER: Why are you laughing? CH'TARGH: Or perhaps the son of our illustrious first officer would prefer an Earth beverage. A glass of root beer, with a lump of ""ice cream?"" ALEXANDER: Are you mocking me?",ice cream
-29,123186,O'BRIEN: I could use a... cup of coffee. How about you? YOUNG KEIKO: I'll get it. Two coffees... one with cream... O'BRIEN: Black... double sweet...,ice cream
-30,49617,WV-SIX: These comet fragments are nothing but huge chunks of ice. The Jem'Hadar will have no trouble finding us. ODO: Not if we become the ice... WV-SIX: What do you mean?,ice cream
-31,37479,"ISHKA: Now you can panic. BRUNT: I'll take an Eelwasser. No ice. ZEK: What're you doing here, Brunt?",ice cream
-32,37630,"QUARK: ""Female apparel -- a new source of latinum for a new Ferenginar."" QUARK: ""Hypicate cream -- for smooth skin and healthier profits."" QUARK : All these facts and figures... it's too much to remember.",ice cream
-33,133554,"GARVIN: I wonder if Skoran could tell us something about this metal of yours... SKORAN: You. Ice-man, where did you find this? DATA: I do not know.",ice cream
-34,1662,"KIRA: Sleep well, Bareil. BASHIR: You're sure I can't interest you in some Yigrish cream pie. GARAK: Thank you, Doctor, but I'm quite full.",ice cream
-35,50954,"MARTOK: We are not accorded the luxury of choosing the women we fall in love with. Do you think Sirella is anything like the woman I thought I'd marry? She is a mercurial, arrogant, prideful woman who shares my bed far too infrequently for my taste. And yet... I love her deeply. We Klingons often tout our prowess in battle and our desire for honor and glory above all else... but how hollow is the sound of victory without someone to share it with. And Honor gives little comfort to a man alone in his home... and in his heart. QUARK: ... one steak with mushrooms, baked potato, sour cream and chives... O'BRIEN: I should've had that.",ice cream
-36,66732,"SISKO: Both. WHATLEY: In that case, I'll keep the champagne on ice. JAKE: You're just in time, Dad.",ice cream
-37,133742,DATA: I do not know what I am. But I am not like you. GIA: I know... you're an Ice-man. We talked about that... DATA: No. I am not...,ice cream
-38,21200,"VIC : Just a minute. VIC: You wouldn't happen to have an ice pack on you... VIC: Hey, pallie -- whose side are you on?",ice cream
-39,114005,"RIKER: You know what to do? O'BRIEN: No problem. I'll have him out of there as smooth as ice. DATA: Sarjenka, wait!",ice cream
-40,65933,"SISKO: That's right. QUARK: Morn... dear sweet, Morn... ODO: Poor fool. He actually believed you cared about him.",morn
-41,68838,ELIZABETH: I'd love to... QUARK: Morn... QUARK: About that bet. I believe the odds were three to one.,morn
-42,66338,ODO: You'd better sit down. QUARK: Morn? ODO: Alive and well.,morn
-43,65888,"DAX: I used to have a little crush on him. WORF: Morn? DAX: It was before we met. Besides, he wasn't interested.",morn
-44,65871,ODO: I'm sure Morn would be touched to hear you say that. DAX : Morn? ODO: It's just a hologram.,morn
-45,13038,KIRA: Jake -- this is no time for games. KIRA : Morn? JAKE: He's going home for his mother's birthday or something. He has an encrypted message for my Dad in one of her presents.,morn
-46,53339,"BASHIR: ... seventeen brothers and sisters... ? That's quite a family. DAX: Excuse me, Morn. DAX: It's your turn.",morn
-47,67127,QUARK: Just set them on the bar. QUARK: Morn -- no touching. QUARK: You know what this is? Three cases of syrup of squill.,morn
-48,37319,"SISKO: I need you to explain something to someone. EZRI: Morn, it's me. Dax. QUARK: I'm truly impressed.",morn
-49,66149,HAIN: That's what I'm saying. QUARK: Morn was a prince... HAIN: Yes. But he renounced the throne when he came of age.,morn
-50,66147,HAIN: You didn't know? QUARK: Morn was a prince? HAIN: That's what I'm saying.,morn
-51,66145,HAIN: He was the crown prince. QUARK: Morn was a prince? HAIN: You didn't know?,morn
-52,65961,ODO: His bed. QUARK: Morn slept in mud? ODO: I'm told it's good for the skin...,morn
-53,13755,ODO: I hope you find your daughter. QUARK: Morn! We're closed. QUARK: Go home.,morn
-54,9807,O'BRIEN: I see you've found someone to play darts with. I set up a board in my quarters so Molly and I could play. BASHIR: Morn's pretty good. O'BRIEN: So's Molly.,morn
-55,28593,"DAX: Anyway, so there I was, sitting in Quark's, when Morn just comes over and invites me for dinner... Grid square twelve-delta reads clear of life forms... KIRA: Morn? Are you serious? DAX: Beginning scan of grid square fifteen delta...",morn
-56,21425,"KASIDY: Better finish getting dressed. It's almost time. QUARK : I'm telling you, Morn... QUARK: ... there's something going on in Vic's that we don't know about.",morn
-57,65924,"QUARK : And wherever he is, I'm sure he'd want to know that his favorite bar still echoed with the laughter of his dear friends. This was his chair... and I think the greatest tribute we could ever pay him would be to make sure that it's never empty. QUARK: Keep it warm. For Morn. KIRA: Every now and then, Quark really surprises me...",morn
-58,65968,LARELL: (as if he should recognize the name) Larell. Morn's wife. Ex-wife. QUARK: Morn was married? To you? LARELL: For two wonderful years.,morn
-59,26886,QUARK: He did. WORF: Morn? And how does he know? QUARK: He's friends with Admiral Ross. Or maybe Sisko told him while they were having dinner. I don't know how he knows. He just knows.,morn
-60,61140,JACK: And now the Pretender finds himself in league with a... a Dark Knight he can't control. O'BRIEN: Weyoun? JACK: Not a bad story. It's epic really. What else can you tell us?,weyoun
-61,50020,"WEYOUN: Good evening, Doctor. BASHIR: Weyoun... ? WEYOUN: Welcome home.",weyoun
-62,49322,WEYOUN: I'm afraid he couldn't be here. ODO: Weyoun... WEYOUN: Founder... it is an honor to stand in your presence once again.,weyoun
-63,50670,"BASHIR: I don't know, but whoever he was, he lived like a pig. KIRA: It was Weyoun. BASHIR: Weyoun? The Vorta?",weyoun
-64,50671,KIRA: It was Weyoun. BASHIR: Weyoun? The Vorta? KIRA: I always knew he was a bit of a packrat. I'd see him collecting little bits of junk from all over the station and taking them back to his quarters to--,weyoun
-65,50356,"SISKO: Love you too. JAKE : Excuse me, Mister Weyoun. WEYOUN: Please, I prefer just ""Weyoun.""",weyoun
-66,50357,"JAKE : Excuse me, Mister Weyoun. WEYOUN: Please, I prefer just ""Weyoun."" JAKE: That's the kind of detail people want to know. Would this be a good time?",weyoun
-67,49570,"WEYOUN: (to the Female Shape-shifter, solicitous) Is there anything else I can do for you? FEMALE SHAPE-SHIFTER: Have you located Weyoun Six? WEYOUN: It's only a matter of time.",weyoun
-68,56374,"SISKO: On my way. SISKO: What can I do for you, Weyoun? WEYOUN: Captain Sisko... I'll make this brief. we know all about the minefield.",weyoun
-69,18563,DUKAT: Leave us. DAMAR: Does Weyoun know you're here? DUKAT: I see he still has you under his thumb.,weyoun
-70,61166,"WEYOUN: How nice to see you again. KIRA: Can I give you a word of advice, Weyoun? WEYOUN: By all means.",weyoun
-71,27340,WEYOUN: You're not going to die. You're a god. FEMALE SHAPE-SHIFTER: My loyal Weyoun... the only Solid I've ever trusted. WEYOUN: I live only to serve you.,weyoun
-72,71980,DUKAT: I hope they told you that my policies toward the Bajorans were most generous this time. SISKO: They told me Weyoun didn't give you much of a choice. DUKAT: Major Kira knows full well that I made every effort to heal the wounds between Cardassia and Bajor. It was my intention from the very beginning to rectify the mistakes of the past and begin a new chapter in our relations.,weyoun
-73,71582,"ODO: How do we know these Jem'Hadar can be trusted? They must realize that controlling the Gateway would mean freedom for their people. SISKO: According to Weyoun, they don't know about the Gateway. SISKO: They think this is just a routine search and destroy mission. Find the Jem'Hadar renegades and eliminate them and their base.",weyoun
-74,50680,"NOG: Yes, sir. BASHIR: At least Weyoun was sanitary. Who was staying in yours? NOG: Jake. Sisko.",weyoun
-75,13147,"WEYOUN: Once the minefield comes down, there'll be more than enough ships to take their place. DUKAT: (nodding impatiently to Weyoun) I understand. One moment. DAMAR: I want your permission to arrest Major Kira.",weyoun
-76,55879,"WEYOUN: Those ships won't be here for another five hours. And need I remind you, a lot can happen in that time. DUKAT: Tell me, Weyoun, have you ever been diagnosed as anhedonic? WEYOUN: You think I'm incapable of experiencing joy just because I'm cautious?",weyoun
-77,27383,WEYOUN: What's left of it. FEMALE SHAPE-SHIFTER: I wish you hadn't done that. That was Weyoun's last clone. GARAK: I was hoping you'd say that.,weyoun
-78,21596,"SISKO: What about Damar? Why do you think he helped you escape? EZRI: I'm not sure, but I'll tell you one thing -- he hates Weyoun. WORF: The Cardassians are a proud people. But the Dominion treats them as second-class citizens.",weyoun
-79,49433,"WV-SIX: Of course you would, you're a god. WEYOUN: To think that a Weyoun could be capable of such treachery. DAMAR: I knew there was something wrong with him from the moment we met. He lacked your appetite for cruelty.",weyoun
-80,71916,"DUKAT: Benjamin? Benjamin, can you hear me? SISKO: Dukat... ? DUKAT: Yes. Everything's all right, but don't try to move too quickly. The left side of your body is covered with plasma burns.",dukat
-81,69449,"GUL DUKAT: Your son is not here, Commander... SISKO: Dukat... ? GUL DUKAT: Sorry. I didn't mean to startle you.",dukat
-82,45884,"MERU: Who? KIRA: Dukat. MERU: Hurt me? (shaking her head, how to explain) No, he hasn't hurt me.",dukat
-83,41975,"DAX : To be honest, I'm more comfortable thinking of you as wormhole aliens. But Kira believes you're a lot more than that... Maybe she's right, I don't know. But if you are prophets, and you're listening to me right now... I just want to say -- DAX: Dukat? KIRA: Captain --",dukat
-84,41864,"DUKAT: Dorrah tolka bretri pah'rahn, meedor. Dorrah tolka ullkess pah'rahn. DAMAR: Dukat -- DUKAT/PAH-WRAITH: Your concern is touching, but unnecessary.",dukat
-85,26176,"DUKAT: What have you been keeping from me, my sweet? What dark secrets... ? WINN: Dukat? DUKAT: Adami, help me --",dukat
-86,25626,DUKAT: Don't be afraid... I love you all... KIRA: Dukat. KIRA: Don't you see why he's doing this?,dukat
-87,25501,KIRA: Don't. KIRA: Dukat. KIRA: Stay where you are.,dukat
-88,25386,DUKAT: I am. KIRA: Dukat... ? KIRA: You -- you're the leader of the Pah-wraith cult?,dukat
-89,18636,"WEYOUN: If you think I don't know what you're up to, then you're a bigger fool than Dukat. DAMAR: Dukat? WEYOUN: He used to entertain lady friends, as well.",dukat
-90,17873,WEYOUN: Keep your voice down. Our men need to see that we're still allies. Smile. WEYOUN: Dukat. DUKAT: (through his clenched smile) I'm smiling.,dukat
-91,11085,DUKAT: I need to find the girl. Tell me where she is. KIRA: Dukat. DUKAT: Tora Ziyal. Where is she?,dukat
-92,10968,"KIRA: Dukat, I was able to reactivate the -- KIRA: Dukat... DUKAT: It's nothing. Nothing at all.",dukat
-93,6404,"GARAK: For instance, do you remember a Gul named Dukat? TAIN: Dukat... ? GARAK: He's the son of the late Justice Procal.",dukat
-94,5319,"SISKO: In my office. SISKO: Dukat. DUKAT: Please, Captain. Show a little respect. You're talking to the head of the Cardassian government.",dukat
-95,11091,"ZIYAL: It's really you. Mother said you'd come. KIRA : Dukat, no. ZIYAL: Father, what's wrong?",dukat
-96,57330,"DUKAT: He does no such thing. DAMAR: Gul Dukat? DUKAT: Ah, Damar... impeccable timing, as always.",dukat
-97,5190,GARAK: And who would that be? DEYOS: Gul Dukat. DUKAT: You might ask... should we fear joining the Dominion? And I answer you... Not in the least. We should embrace the opportunity. The Dominion recognizes us for what we are... the true leaders of the Alpha Quadrant.,dukat
-98,72047,"DUKAT: This is growing tiresome. SISKO: Dukat? Dukat! I thought you wanted to talk to me. DUKAT: Yes, but Nerys won't leave well enough alone. She's always interfering, always trying to upset me.",dukat
-99,16377,"DAX: Ablative armor has failed. We've got plasma leaks on decks two, three and five, and we've lost our aft torpedo launchers. DUKAT: Dukat to Sisko. SISKO: Go ahead.",dukat
-100,3763,"NOG: A root beer... (off Quark's blank expression) It's an Earth drink... something they serve at the Academy... QUARK: Root beer... This is the end of Ferengi civilization... ODO: May I join you, Lieutenant... ?",civilization
-101,120634,"BEVERLY: Doctor Stubbs, these nanites are apparently operating with a new collective intelligence... working together, teaching each other skills... DATA: Doctor, are you suggesting they are becoming a... civilization? STUBBS: Oh really. I'm sorry but this is nonsense. You can't have a civilization of computer chips. They're made in a plant in Dakar Senegal. I've watched the construction.",civilization
-102,141125,"BEVERLY: Yes. It also explains their lack of appetite, their sensitivity to light, and their extreme pallor. PICARD: An entire civilization that's terminally ill... is it reversible? BEVERLY: I won't know until I've found the cause... and you don't need to tell me time is running out.",civilization
-103,135284,"DATA: Not very much, sir. The only recorded contact with the Delos system was over two hundred years ago. A scout ship reported two inhabited planets, both technologically just on the edge of acquiring space travel. GEORDI: Odd that in two centuries, neither civilization advanced further. TROI: Sir, I find it strange that none of our visitors feel much remorse about the two freighter passengers who perished... yet their barrel of cargo is a source of great anxiety to them.",civilization
-104,47823,"KIRA: We already have a solution and the longer we wait the harder it will be to implement it. I'm sorry but this is us or them. We have to destroy it. ODO: You can't just wipe out a civilization... we would be committing mass murder. KIRA: (can't anyone see this but me?) It's like stepping on ants, Odo.",civilization
-105,86776,"DATA: It is a highly structured society in which people live by strict codes of honor. For example, what Lutan has done is similar to what certain American Indians once did, called ""counting coup."" That's from an obscure language called French -- PICARD: A language which for centuries on Earth represented civilization, Mister Data. DATA: Indeed?",civilization
-106,131683,"PICARD: I see... Well, their food may be somewhat backward but the Klingons are efficient, loyal to their beliefs, and are regulated by a strict code of ethics. PULASKI: True enough. They tend to lean towards a Samurai civilization that is thousands of years old. PICARD: But they are pure in that tradition.",civilization
-107,112154,"MADRED: I understand that you are a student of archaeology. Did you know that Cardassia boasts some of the most ancient and splendid ruins anywhere in the galaxy? PICARD: I know that the burial vaults of the First Hebitian civilization are said to be magnificent. MADRED: Apparently when they were first unearthed, two hundred years ago, they were. The burial vaults contained unimaginably beautiful artifacts made of jevonite -- a rare, breathtaking stone. But most of those objects are gone.",civilization
-108,140196,"DATA: Ruah Four is an M class planet. Sixty-seven percent of the surface is covered with water. The landmass contains multiple animal species, including a genus of proto-hominids. PICARD: Scan for any evidence of monuments or earth works which might suggest an ancient civilization. DATA: There is nothing to indicate former occupancy by even a primitive culture, sir.",civilization
-109,135357,"ROMAS: Your people don't need it -- (indicating the Brekkians) -- they don't need it... our people do! T'JON: If you don't give it to us, you will be party to murder... not only us, but an entire civilization! T'JON: Sorry, I did not mean to insult you. I'm feeling very shaky.",civilization
-110,124100,"ADMINISTRATOR: Evacuated to where? Our technology is limited. We're just beginning to launch small missiles... PICARD: A collection of genetic samples, then -- something, anything -- you can't just let this civilization die -- ADMINISTRATOR: Enough! There is a plan in the works. I can't tell you more than that.",civilization
-111,61206,NA: BASHIR Any evidence that Kabrel Thank you. used to support an advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. Thank you.used to support an: advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. advanced civilization?: Maybe they're looking to excavate something valuable -- like an ancient technology.,civilization
-112,19555,"VASH: Thank you, Doctor. I try. BASHIR: I'd say you've managed quite well for someone who's been out of contact with civilization for over two years. VASH: I'd hardly call the Gamma Quadrant uncivilized. Some of the cultures I've encountered have histories dating back millions of years.",civilization
-113,140068,"PICARD: The Kurl believed every individual is a community of individuals. Inside us are many voices, each with its own desires, its own style, its own way of viewing the world. PICARD: But Kurlan civilization died out thousands of years ago. It's rare to find a figurine intact. A truly incredible find. GALEN: It's yours, Jean-Luc.",civilization
-114,30911,"KIRA: I think I'd like to have one of my own, someday... ODO: According to the archaeologists I talked to, the portal was built by a civilization that vanished a thousand years ago. ODO: Which means if Molly survived the fall, she would've found herself all alone.",civilization
-115,47828,SISKO: I'll give you my decision in an hour. SISKO : Personal log. Supplemental. One hour. One hour to make a decision that could mean the life or death of a civilization. Or the end to our own. SISKO : My mind keeps going back to the Borg... how I despised their... indifference as they tried to exterminate us. And I have to ask myself... would I be any different if I destroyed another universe to preserve my own?,civilization
-116,30712,ROM: But being Nagus'll make you rich. QUARK: I don't care. I'm not going to preside over the demise of Ferengi civilization. Not me. The line must be drawn here -- this far and no further. KIRA: He's been in there too long. Something's wrong.,civilization
-117,135949,"DATA: My impression is that there were thousands... of all ages and walks of life. It was a remarkable experience. PICARD: Well, Data, you may never become fully human... but you've had an experience that transcends the human condition. You have been an entire civilization. PICARD: Nonetheless... it's time to stand watch on the night shift.",civilization
-118,120635,"DATA: Doctor, are you suggesting they are becoming a... civilization? STUBBS: Oh really. I'm sorry but this is nonsense. You can't have a civilization of computer chips. They're made in a plant in Dakar Senegal. I've watched the construction. BEVERLY: Then how do you explain what you've seen here?",civilization
-119,61205,"imperceptibly.Think, think.: BASHIR Any evidence that Kabrel Thank you. used to support an advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. NA: BASHIR Any evidence that Kabrel Thank you. used to support an advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. Thank you.used to support an: advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology.",civilization
-120,49145,"BAREIL: That was delicious. KIRA: Thank the replicators. BAREIL: Here, let me help.",replicators
-121,129043,TOQ: The hunt? TOQ: We have replicators here. WORF: Klingons do not hunt because they need food. The hunt is a ritual that reminds us of where we come from.,replicators
-122,128049,"GEORDI: It's a pretty strange set-up, but I think the graviton field generator has completely depolarized. We can't fix it, it has to be replaced. RIKER: Where are your replicators? VAREL: They are off-line.",replicators
-123,26094,"DAMAR: When I spoke to Garak, I told him to bring some. RUSOT: Federation food replicators? DAMAR: Rusot, we're in no position to turn down help -- no matter where it comes from.",replicators
-124,1785,work crews are all missing... I: can't manufacture any new parts until we get the replicators fixed... can't manufacture any new parts: until we get the replicators fixed... DAX: The first thing we have to do is neutralize the Lethean.,replicators
-125,25072,"QUARK: There's an old Ferengi saying, ""Never ask when you can take."" (trying to hide his annoyance) How did you figure it out, anyway? ODO: You claimed Rom fixed your replicators. QUARK: So?",replicators
-126,62718,"EDDINGTON : Please do not share it with anyone who doesn't have a level seven security rating. It seems that during their recent invasion of Cardassia, the Klingons inflicted far more damage than we've been led to believe. Two weeks ago, the civilian government on Cardassia Prime secretly contacted the Federation Council and made an urgent request for industrial replicators. And that request... has been granted. DAX: How many replicators are we talking about? EDDINGTON: Twelve -- all class four.",replicators
-127,19704,Q: You're making a terrible mistake. BASHIR: Why? Have the replicators malfunctioned again? Q: I'm talking about Vash. Stay away from her.,replicators
-128,45324,"KAJADA: (a beat, thinking as Vantika) In the past, he's used a subspace shunt attached to a secondary system, something that runs through the entire facility but isn't covered by security. KIRA: The lighting controls or maybe the replicators. DAX: I'm showing an unauthorized tap into the computer system at a temperature control panel... Level twenty-one. Section ten.",replicators
-129,76675,"RIKER: That's true... it ""sees"" with its sensors... ""talks"" with its communications systems... BEVERLY: In a sense, it even ""reproduces"" with the replicators... PICARD: And you think the ship has somehow gone beyond those functions... has developed a new capacity...",replicators
-130,62720,"EDDINGTON: Twelve -- all class four. KIRA: The Federation's only given Bajor two CFI replicators. EDDINGTON: With all due respect, Bajor is just one planet. The Klingons have destroyed the industrial base of literally dozens of Cardassian worlds. With twelve CFI replicators, they can at least start building new power plants and factories.",replicators
-131,24935,"O'BRIEN: I'd settle for five minutes of peace and quiet. SISKO: Chief, I thought you were going to fix the replicators. O'BRIEN: You're absolutely right, Sir. I knew I'd forgotten something. Can't have the operations chief sitting around daydreaming when there's work to be done, can we? I'll get right on it.",replicators
-132,90826,CASTILLO: What's a T-K-L? TASHA: Standard rations. Food replicators are on minimum power... TASHA : Everything else is diverted to defensive systems. So where was I...,replicators
-133,132400,"BASHIR: I must admit, Commander... I didn't think you'd be so... personable. GEORDI: I'll have to talk to Chief O'Brien about the replicators. GEORDI : I don't know how you can keep eating it... It tastes like... liquid polymer.",replicators
-134,63056,"ODO: As you wish. REESE: All the replicators have been secured in the ship's hold, sir. EDDINGTON: Very good. We'll be departing in five minutes and I'm leaving you in command until Captain Sisko returns.",replicators
-135,25050,"ASOTH: Quark, that Kohlanese stew... magnificent. QUARK: Fortunately my assistant, Rom, was able to fix the replicators. ODO: Yes, very fortunate.",replicators
-136,77553,KAHLESS: They are good men. But they chatter like tree hens. WORF: I am sorry our replicators do not do justice to Klingon Warnog... KAHLESS: It has been so long since I have tasted any food or drink... there are many things I have forgotten.,replicators
-137,106943,"DATA: That would explain why your music composition program began playing ""The Slavonic Dances."" I have been analyzing the collected works of Anton Dvorak. GEORDI: The same with Doctor Crusher's play... and with the food replicators... RIKER: The replicators on Decks Four through Nine have started producing nothing but cat food.",replicators
-138,106487,"GEORDI: Whatever it is, it looks like there's been a conversion process -- transforming some of the metal into gelatinous residue. But what caused it is a mystery. PICARD: The stabilizers and the replicators. Two totally unrelated systems... GEORDI: Yessir, and we still don't know why the sensors didn't catch the problems.",replicators
-139,32564,"DUKAT: Excuse my presumption, but this was my office only two weeks ago... DUKAT: So, have you been able to get the food replicators to work properly? SISKO: Frankly, no.",replicators
-140,64706,"BASHIR: What's that? GARAK: The truth. BASHIR: I've about given up on learning the truth from you, Garak.",truth
-141,43469,"ODO: It serves the truth. ENINA: The truth. ODO: If there's more to this than meets the eye, I hope you'll explain, because as it stands, this will severely hurt Dax's defense.",truth
-142,116821,DIRGO: Tell him the truth. WESLEY: What truth? DIRGO: (removing his hand from the wound) He's bleeding inside. I've seen it before. He'll never survive.,truth
-143,45655,"DUKAT: -- in the Singha refugee center? I'm afraid not, Major. That was something your father told you because he couldn't bear to face the truth. KIRA: What truth? DUKAT: That your mother left him to be with me.",truth
-144,70936,"QUARK: Take that back. ROM: It's the truth. ROM: He went from one bad deal to the next, one failure after another. He couldn't hold onto latinum if you sewed it into his pants.",truth
-145,4244,"O'BRIEN: Is that what I'm supposed to tell myself? BASHIR: It's the truth. BASHIR: Look, I'm sorry I don't have all the answers. All I know for sure is that I'm glad you're back.",truth
-146,40278,ENSIGN: No... SISKO: I want the truth. SISKO: Is that clear?,truth
-147,116820,PICARD: Good work... I'm going to be fine in a moment... just need to catch my breath... DIRGO: Tell him the truth. WESLEY: What truth?,truth
-148,34706,"ROSS: That's a harsh way to put it. KIRA: The truth often is. ROSS: I really would like to help you, colonel, but my hands are tied.",truth
-149,43468,ENINA: What purpose is this supposed to serve? ODO: It serves the truth. ENINA: The truth.,truth
-150,32784,"JENNIFER ALIEN: (come on, you've got to be kidding) It is inconceivable that any species could exist in such a manner... you are deceiving us... SISKO: No, this is the truth... SISKO: This day... this park... it was almost... fifteen years ago. Far in the past. It was a very important day to me... a day that shaped every day that followed.",truth
-151,132029,"YRANAC: I hadn't finished yet. You'll like this... the man got what was coming to him. When they knocked him down, one of them took out a weapon... and fired. He was vaporized. TROI: He's telling the truth. RIKER: Doctor?",truth
-152,11984,"SISKO: Are you sure you don't want anything? DULMUR: Just the truth, Captain. SISKO: You'll get it. Where do you want to start?",truth
-153,45703,SISKO: Excuse me? KIRA: I need to know the truth. SISKO: Let me get this straight... You want to travel back in time to see if Dukat and your mother were lovers?,truth
-154,86229,"PICARD: Let us do no such damned thing! What is this need of yours for costumes? Have you no identity of your own? ""Q"" : I come in search of truth. PICARD: You come in search of what humanity is!",truth
-155,77614,"WORF: They grew you in a test tube... like some kind of fungus... then programmed you like a machine. KOROTH: You are twisting the truth. WORF: You talk to me about the truth? You, who have brought this... lie to life and then called it Kahless?",truth
-156,44726,"ODO: Well, I conducted a little investigation of that freighter, and do you know what I discovered? QUARK: That I was telling the truth? ODO: That's right. I arrested the first officer and two of the crew.",truth
-157,41774,QUARK: That's it? That's supposed to cheer us up? VIC: The truth shall set you free. QUARK: Do you feel better?,truth
-158,12972,DUKAT: You're sure of that? I can't help you unless you tell me the truth. ZIYAL: I am telling you the truth! The question is have you been telling me the truth. DUKAT: About what?,truth
-159,42485,ODO: That's... very flattering. SISKO: It's the truth. Will you do it? ODO: All right.,truth
-160,97167,"SOREN: Well, if that's the systems review, I don't see any problems here. What's next? RIKER: Lunch. SOREN: What is it?",lunch
-161,65385,"KOR: HoH! KOR: Lunch! KOR: Delicious, isn't it?",lunch
-162,30536,EZRI: Hi. BASHIR: Having lunch? EZRI: It's that time.,lunch
-163,84000,"TROI: Bring me an order of... Ongilin caviar. Make that a double order. WORF: Caviar... for lunch? TROI: I'm in the mood for something salty. Besides, it's no stranger than what you're eating.",lunch
-164,90837,"PICARD: This is the captain. Senior officers will report to my Ready Room immediately. TASHA: So much for lunch. BEVERLY: Captain, are you suggesting they should return and attempt to complete their mission?",lunch
-165,44143,O'BRIEN: Not very hungry... KEIKO: I had a late lunch. KEIKO: How is it?,lunch
-166,33271,BASHIR: I'm afraid we'll have to wait to see what this becomes before we have a clue... You can transfer it to the larger field now... SISKO: Care for some lunch? BASHIR: Sure.,lunch
-167,55948,QUARK: Do you know how to make Hasperat souffle? QUARK: Lunch for Major Kira. CARDASSIAN OFFICER: Major Kira has already been fed.,lunch
-168,6357,"BASHIR: Say you agree. Say you disagree. Say you hate theater. Just say something. O'BRIEN: Look, Julian, you said you wanted to have lunch... so we're having lunch. BASHIR: Yes. But I was hoping for a little more... conversation with my plomeek soup.",lunch
-169,71463,"GARAK: No. But it seems there's a great deal they didn't teach me. Like the value of a good game of chance... or how indulging in fantasy can keep one's mind... creative. BASHIR: See you at lunch tomorrow? GARAK: Of course. But why don't we have lunch at your place -- in Hong Kong. That is, if this wasn't your last mission.",lunch
-170,143980,ATTENDANT: That's what you said the last time. ATTENDANT: I'll be back with your lunch. INMATE: I hear you're a Starfleet officer...,lunch
-171,3823,O'BRIEN: Tomorrow morning it is. BILBY: Come on. Let's get some lunch... O'BRIEN: Bilby wants me to fix this for him.,lunch
-172,141766,GABRIELLE: What is this for? FRANCINE: My lunch. Feed it to the birds. GABRIELLE: He will come. He will.,lunch
-173,88908,"RIKER: I'm with you... RIKER: Lunch time, O'Brien! Let's do it! BEVERLY: Easy, Deanna...",lunch
-174,26436,ODO: Not at all. KIRA: Then can I interest you in lunch? ODO: Where shall we go?,lunch
-175,25204,COMPUTER: Command unclear. Please repeat. BASHIR: Glass lunch judge a bin to let it... COMPUTER: Command unclear. Please repeat.,lunch
-176,226,"ODO: Weren't you supposed to be working on some optronic circuitry on Level Five? O'BRIEN: I was going to the Replimat... for lunch. BASHIR: Keiko's going to be all right. She's lucky she landed the way she did. It distributed the impact. A fall from that height could easily have killed her, or left her paralyzed.",lunch
-177,23676,QUARK: It's never too late. So how long are you going to be on the station? GARAK: Thank you for another enjoyable lunch. Doctor. NATIMA: I didn't think there'd be any Cardassians left on the station.,lunch
-178,89422,COMPUTER: Ten Hundred hours: counseling session with -- TROI: Cancel them. Cancel everything until after lunch. COMPUTER: Acknowledged.,lunch
-179,4721,WORF: It is a private matter. DAX: Worf is upset that I had lunch with Captain Boday. ODO: The Gallamite?,lunch
-180,32727,SISKO: Memories... events from my past... like this one... JAKE ALIEN: Past? SISKO: Things that happened before now...,past
-181,5688,"JAKE: What's this? NOG: ""Past Prologue."" JAKE: What's it doing out here?",past
-182,129624,"PHILLIPA: What makes you think it's a man? PICARD: Past experience. PHILLIPA: Cute. Try to remember that you're an officer and a gentleman. You know, I never thought I would say this, but it is good to see you again. You're still a damn sexy man, Picard.",past
-183,13201,"KIRA: Let me tell you something, Odo. KIRA: We are way past ""sorry."" O'BRIEN: Sir, incoming message from the Cortez. They're still having trouble stabilizing the guidance thrusters on their port nacelle.",past
-184,4059,"O'BRIEN: Watch out for recursive dataloops, you don't want to get diverted into a backflow. KROLE: I'm past the lockouts. O'BRIEN: Sweep the matrix... give me an access point...",past
-185,133511,"TROI: All right, I'll admit that was a catalyst. But I can honestly say it's something I have thought about off and on over the past two years. RIKER: Why the past two years? TROI: Do you remember when the Enterprise hit that quantum filament... and I was left in command on the Bridge?",past
-186,75741,PICARD: All stop. Put it onscreen. PICARD: It's bigger in the past... TROI: Sir?,past
-187,142081,"PICARD: You've got three minutes, no more. Transporter Room, lock onto their coordinates and be ready to beam them up the instant of my command. WORF: He's past the halfway mark. RIKER: Captain, I need more time.",past
-188,115734,WORF: No reaction from the assimilator. RIKER: We're past the first hurdle. WORF: Sir! Object to port --,past
-189,76525,"PICARD: Shakespeare enjoyed mixing opposites... PICARD: Past and future... Despair and hope... PICARD: Data, is this part of your program?",past
-190,45442,"QUARK: Durg. Wake up. This is Quark, you're talking to. Remember. DURG: All past debts have been settled. QUARK: They'll never be settled. You'd still be rotting in a Cardassian jail if I hadn't...",past
-191,3832,"CHADWICK: The Syndicate killed another one of our undercover operatives last week. O'BRIEN: That makes five in the past year. CHADWICK: We need you to find out who their informant in Starfleet is. Once you give me the name, I'll put you on the next transport home.",past
-192,130566,FIRST EDO BOY: Couldn't you see the fence? That's for new plants... SECOND EDO BOY: Don't ever go past a white marker! WESLEY: What's wrong?,past
-193,26119,"MARTOK: It's true. GOWRON: Then what's past is past! If Martok considers you his brother, that's all I need to know. GOWRON: Come! I brought a barrel of the finest bloodwine and it must be drunk tonight!",past
-194,121892,WESLEY: I don't have any more equations. TRAVELER: See past the numbers. Trust yourself... WESLEY: I can't. I can't do it.,past
-195,17929,"ODO: Well I haven't forgiven you. DEEP SPACE NINE: ""Behind the Lines"" - REV. 8/21/97 - ACT TWO 18. FEMALE SHAPE-SHIFTER: It's time to put the past behind us. ODO: What about the present? You're waging war against my home.",past
-196,69431,"QUARK: With me? Uh, perhaps I should explain about that slip-of-the- tongue.... SAKONNA: Your past is of no consequence to me. QUARK: I'm... delighted to hear you say that. Because nothing would please me more than to make a fresh start with the Vulcans, Ms... ?",past
-197,79015,"TROI: Careful, sir. This is not an illusion or a dream. PICARD: But these courts happened in our past.... TROI: I don't understand either, but this is real. I can feel that!",past
-198,90846,"RIKER: But that's what you're talking about doing anyway, isn't it? Altering the past. PICARD: We're talking about restoring the past. GEORDI: How could Guinan know that history has been altered... if she's been altered along with the rest of us?",past
-199,32829,"JAKE ALIEN: Then how can you take responsibility for your actions... SISKO: We use past experience to help guide us. SISKO: For Jennifer and me, all the experiences in our lives prepared us for the day we met on the beach... helped us recognize that we had a future together. When we married, we accepted all the consequences of that act, whatever they might be... including the consequence of you.",past
-200,111080,"RASMUSSEN: ""Picard's empath won't trust you."" That's what they all said. TROI: Picard's empath? RASMUSSEN: We're not that unalike, you and I. You possess a sense that is foreign to the others. My knowledge of the future is similar. You know, some of my best friends are empaths... they trust me.",empath
-201,142004,BEVERLY: That's not why you're here. TROI: I'm supposed to be the empath. TROI: Are you all right?,empath
-202,111816,"KAMALA: My body is producing an unusually elevated level of what you would call pheromones. The effect can be quite... provocative. Perhaps you sense it... RIKER: Ah, unfortunately, I'm not an empath... KAMALA: Oh, I think you are more empathic than you admit... at least when it comes to women...",empath
-203,101169,"TROI: It's not easy having an overbearing parent. Believe me, I know how you feel. JEV: Oh, yes... I was told you were an empath. TROI: I can't read Ullians. But, I do know a certain Betazoid mother who is a great deal like your father.",empath
-204,108513,"DEVINONI: Deanna, it's just business... TROI: Why haven't you told anyone that you're an empath? DEVINONI: I find it makes people uncomfortable.",empath
-205,111079,"TROI: Should I? RASMUSSEN: ""Picard's empath won't trust you."" That's what they all said. TROI: Picard's empath?",empath
-206,102079,PICARD: Well? TROI: I don't think you need an empath to sense that woman's feelings. TROI : There's hostility... that she seems to have transferred from Lore... to Data...,empath
-207,108520,"DEVINONI: Deanna, people have been doing that for thousands of years, by listening carefully, by watching body language. I just happen to be better at it. You do it. TROI: I do it to help my crew, not outmanueuver them. And I don't hide that I'm an empath. DEVINONI: You announce it to every alien culture you encounter? Or do you use it to give your side an advantage. Do you tell the Romulan in the ship about to attack that you can feel that he's bluffing or do you just tell it to your captain?",empath
-208,89351,"ALKAR: Tell me, Counselor... have you ever been involved in diplomatic negotiations? TROI: Several times... with Captain Picard. There've been instances when having an empath along has been helpful. ALKAR: I'm sure. I could use some of that help. Would you come with me when we reach Seronia?",empath
-209,133051,TROI: How do I know I won't be killed anyway? N'VEK: Your only chance to get off this ship alive is to do as I say. You are an empath. You would know if I am lying. Am I? TROI: No.,empath
-210,89390,ALKAR: She was ninety-three... she'd lived a long life... I should be grateful for that. ALKAR: Counselor... there's a funeral meditation... part of our rituals... as an empath you're the only person on board who could perform it with me... TROI: I'd be glad to help...,empath
-211,111785,"BRIAM: No, Kamala... this is not Alrik. This is Captain Jean-Luc Picard of the Federation Starship Enterprise. KAMALA: That explains why you don't look at all like your holographs. I apologize, Captain. As an empath, I could sense your authority. I assumed that you were Chancellor Alrik... PICARD: I'm afraid I require an explanation...",empath
-212,136807,"TROI: So just as I'm leaving the reception, a Ktarian walks up to me and says... TROI: ""So Diane... I understand you're an empath. I'm a very... sensitive man myself. I'm doing a thesis on interspecies mating rituals. Would you care to join me in some empirical research?"" GEORDI: Don't tell me -- Doctor Mizan.",empath
-213,89621,"PICARD: Then... you deliberately began using Deanna... ALKAR: She's an empath. I was reasonably certain I could establish a link with her. Frankly, I was amazed when I saw how quickly she was aging. Usually my receptacles survive for years. PICARD: Receptacles... ?",empath
-214,27248,"WEYOUN: On the other hand, they're just as likely to convince you to betray us. BROCA: Me betray you? Never! FEMALE SHAPE-SHIFTER: You're right. Because we're not going to give you the opportunity.",betray
-215,23789,"NATIMA: Then how could you have betrayed me? QUARK: I didn't betray you. NATIMA: Don't lie to me, Quark. I know better. You used my personal access codes to authorize payments for goods you never provided.",betray
-216,100565,"PICARD: You see my problem, Admiral. You ask us for faith in circumstances not only difficult to believe but compounded by your own lies, and your own reluctance to tell us all you know... JAROK: I cannot betray my people... PICARD: You have already betrayed your people. You have made your choices. You are a traitor, sir. If the bitter taste of it disagrees with you, I am truly sorry. But I will not risk the lives of my crew because you think you can dance on the edge of the Neutral Zone. You have crossed over, Admiral. I suggest you make yourself comfortable.",betray
-217,23065,"ODO: Sounds like you're trying to talk yourself into something. Or out of something. KIRA: Either way, I have to betray someone. ODO: Only important thing is not to betray yourself. he looks at him... a beat... they both know what they're talking about here.",betray
-218,98993,DURAS: Worf has made his choice and he will die for it. But you are still safe. Let him stand alone. He is no longer your brother... he is not one of us. I promise you no one will learn of your family line. You'll have your rank... maybe even a command of your own. KURN: He is my brother. I will not betray him! DURAS: Then you will die for him.,betray
-219,54033,"ODO: It's strange. Bek and I were passing acquaintances here on the station. From what little I knew about him, I always thought he was a good man. KIRA: Good men don't betray their own people. ODO: If there's one thing I've learned about humanoids, it's that in extreme situations, even the best of you are capable of doing terrible things.",betray
-220,48709,"JARO: The last thing I need right now is a great war hero capturing the devotion of the Bajoran people. KIRA: How can you betray your own government? JARO: Major, I don't have to tell you. I've heard your opinion of this government. ""Government""? -- they can't even agree it is a government, so they call it ""provisional"" -- it's just another word for powerless. I won't allow Bajorans to be powerless anymore. We have been doormats to the Cardassians, and now the Federation, any great power that happens by... we will not be that again. We are a people who brought art and architecture to countless planets and we do not deserve to be victims.",betray
-221,31575,"INTENDANT: It's so good to see you. ROM: Our Ezri would never betray us, which means -- QUARK: Don't start with that again.",betray
-222,40825,"QUARK: I know, I know. He couldn't find a cup of water if you dropped him in a lake... but even if he is an idiot, he's still my brother... ODO: And you'd betray him in a second if it suited your interests. QUARK: But that doesn't mean I don't love him... Chief, do you have any brothers?",betray
-223,27247,"BROCA: Exactly. WEYOUN: On the other hand, they're just as likely to convince you to betray us. BROCA: Me betray you? Never!",betray
-224,54783,WORF: I am no hero. But it is my duty to defend the Federation -- that is where my honor lies. KURN: Maybe it is where your honor lies. But why should I betray our people for your honor? WORF: Kurn... let me ask you this: do you agree with what has happened between the Empire and the Federation?,betray
-225,41173,"SISKO: You're wrong. He does need you... now more than ever. MAREEL: (knows what he's getting at) You never give up, do you. I told you, I'm not going to betray him. SISKO: I'm not asking you to. I'm asking you to save him... to help us save him.",betray
-226,63414,"KIRA: All you have to do is look at the guard outside to see how much she trusts me. GARAK: I arranged the guard. Oh, she trusts you. As much as she trusts anyone. So who better to betray her... KIRA: You're taking quite a risk coming to me like this...",betray
-227,31423,EZRI: I'm not a traitor. O'BRIEN: She's right. You have to believe in something before you can betray it. And you don't believe in anything. EZRI: I believe in getting paid for my work -- and you still owe me for the last job I did for you.,betray
-228,53973,"KIRA: What did he tell you about the massacre? BAREIL: Nerys, you have to understand, he was a monk speaking in confidence to his Vedek. I can't betray that trust. KIRA: I understand. But is there anything else you think I should know? About Bek, or the massacre?",betray
-229,132289,"PICARD: A Starfleet Commander might be able to talk us past the outpost security without raising any suspicions. Once they drop their shields, we could beam the artifacts up without having to leave the ship. VEKOR: Why would Riker help us? Just because he's out of favor with Starfleet doesn't mean he's ready to betray them. PICARD: If he doesn't help us, we'll destroy the outpost and kill everyone on it. He's still a Starfleet officer... he won't let innocent people die if he can prevent it.",betray
-230,23066,"KIRA: Either way, I have to betray someone. ODO: Only important thing is not to betray yourself. he looks at him... a beat... they both know what they're talking about here. KIRA: How could I possibly turn against my own people?",betray
-231,31606,"EZRI: No! INTENDANT: He was going to betray me. I could see it in his eyes. (looking hard into her eyes) You wouldn't do that, would you? Of course not. INTENDANT: I've suffered so much disappointment in my life. Brunt, Sisko, Bareil... the list just goes on and on. (looking down at Brunt's body) Dispose of that, will you? It depresses me.",betray
-232,129424,"RIKER: I can get you aboard... and I can find that artifact. PICARD: Oh, how convenient... we'll just beam you aboard your old ship and then hope that you won't change your mind and decide to betray us? RIKER: I've already saved your life twice, Galen. I'd think you'd start to show a little gratitude by now.",betray
-233,41013,"SISKO: I'm sorry, but if he told you that, he's lying. When a Trill is joined, it's like a rebirth. He'll be an entirely different person. MAREEL: If you think I'm going to betray Verad, you're wrong. It doesn't matter what you say. I love him... and I'm going to stand by him... no matter what. VERAD : I never doubted it.",betray
-234,121836,"TRAVELER: Actually, it didn't reach me... not by subspace... GEORDI: Then how did you know about the warp bubble? TRAVELER: It would take too long to explain...",warp bubble
-235,121910,"TRAVELER: There... there it is... TRAVELER: We're moving into phase now ... there's your warp bubble, Wesley... WESLEY: What? What's wrong.",warp bubble
-236,15137,"ULANI: If you can generate a subspace field around the fragments, that might contain the silithium. O'BRIEN: The warp drive... it could create a subspace bubble around the ship... DAX: But we'd have to maneuver the Defiant between the fragments... they're so close together, there's not enough room...",warp bubble
-237,136613,"DATA: There have been reports of warp bubbles and other subspace deformations. GEORDI: So what if that's what happened? Not a warp bubble, but a subspace funnel. DATA: Connecting two points through subspace.",warp bubble
-238,10024,"QUARK: It most certainly is. (sees something else and lets go) And what's that over there? ROM: Trixian bubble juice. QUARK: Nog's favorite. This came from my stockroom, didn't it?",warp bubble
-239,121955,"BEVERLY: Just get me anywhere on Deck Thirty-Six! GEORDI: We're losing the bubble... BEVERLY: Jean-Luc... (sees the Traveler, reacts) You...",warp bubble
-240,121705,"GEORDI: Here's what the computer recorded. WESLEY: This is the static warp field we created inside the warp drive. The experiment was designed to see if we could keep a bubble like this intact. GEORDI: As you'll see in a moment, we couldn't.",warp bubble
-241,121929,"RIKER: Geordi, we're in position... your status? GEORDI: The warp bubble is contracting at a rate of fifteen meters per second... we'll lose it in about four minutes... TRAVELER: It's time, Wesley.",warp bubble
-242,121943,"COMPUTER: Two minutes thirty seconds to life support failure. BEVERLY: Computer, hypothetical situation... a person is trapped inside a static warp bubble. Determine a means of escape... COMPUTER: Escape would theoretically depend on establishing a stable threshold between the warp field and the outer environment.",warp bubble
-243,121914,"BEVERLY: Computer, give me a graphic representation of the universe. BEVERLY: I've seen that before... Wesley's experiment... the bubble. Of course... But that would mean I'm the one trapped in the bubble... BEVERLY: Computer, what's happening?",warp bubble
-244,121715,"GEORDI: No, sir. PICARD: And this bubble never expanded beyond Engineering? WESLEY: Nossir.",warp bubble
-245,121750,"GEORDI: Well, there's nothing there now. And no sign there ever was. PICARD: Is there any possible connection to Mister Crusher's experiment... could this warp bubble be... floating around the ship perhaps... GEORDI: No, sir. The bubble was definitely contained in Engineering. There's no way it could affect something up on Deck Twelve.",warp bubble
-246,102423,"JA'DAR: If our theories are correct, the wave will envelop the ship and push it into warp. PICARD: Warp without warp drive... RIKER: They're going to put you out of a job, Geordi.",warp bubble
-247,121709,"BEVERLY: I remember that. PICARD: Are you suggesting this bubble could have made Doctor Quaice disappear? WESLEY: If he were caught in it... yessir, it would seem to us like he'd disappeared.",warp bubble
-248,131597,PICARD: Speed -- warp five. GEORDI: Warp five. PICARD: ... And Worf.,warp bubble
-249,108960,GEORDI: We are passing warp eight point five. GEORDI: ... warp nine. RIKER: Arm the photon torpedoes. Recommend we try to slow them down.,warp bubble
-250,138882,"PICARD: That's correct Mister La Forge, warp factor eight. GEORDI: Warp eight. PICARD: Engage. Mister La Forge, you have the bridge.",warp bubble
-251,133866,"GEORDI: Course plotted and set for Vagra Two. PICARD: Warp eight. LYNCH: Minimum warp drive, Captain.",warp bubble
-252,119200,"WORF: The probe is still with us, sir. RIKER: At warp two? WORF: Yessir.",warp bubble
-253,120923,"RIKER: Give us a superior curve, Mister Crusher. WESLEY: Warp three... warp four... The warship is simultaneously matching our curve point per point. Warp four point five... warp five... warp five point five... RIKER: Riker to La Forge. Give us everything you can to close the gap, Geordi.",warp bubble
-254,1909,"BASHIR: Jadzia! BASHIR: Jadzia, Jadzia. GARAK: Ready, Doctor?",jadzia
-255,69287,"O'BRIEN: It better shift soon, or it's going to tear itself apart. DERAL: Jadzia... O'BRIEN: I'm picking up some kind of singularity in the planet's quantum matrix... it's interfering with the dimensional shift...",jadzia
-256,69148,DERAL: (beginning to understand) How long? Meridian is going to shift in five days. DERAL: Jadzia... DAX: We'll see each other again...,jadzia
-257,69136,QUARK: That's definitely a no... DERAL: Jadzia... DAX: I've been looking for you...,jadzia
-258,68494,BASHIR: Excuse me for just one second. BASHIR: Jadzia... BASHIR: Do you happen to know when the Lexington is coming?,jadzia
-259,65919,QUARK: We'll see. You might be surprised. WORF: Jadzia -- DAX: Can we please drop this?,jadzia
-260,60963,"WORF: We detected your distress call a few hours ago. WORF: Jadzia... ? SISKO: She's hurt, but she'll be fine. She's back at the basecamp with Doctor Bashir and the chief.",jadzia
-261,59231,DAX: Almost done. BASHIR: Jadzia! BASHIR: Get me a medkit.,jadzia
-262,56161,DAX: Worf! WORF: Jadzia. DAX: I guess the wedding's still on.,jadzia
-263,53093,BASHIR: Hurry. BASHIR: Jadzia! KIRA: The forcefield is down.,jadzia
-264,51094,WORF: Good. WORF: Jadzia. DAX: Yes.,jadzia
-265,47914,DAX: Until now. ARJIN: Jadzia... DAX: I'm a level three pilot. You're level five. I'll do it if I have to. But I don't have time to argue...,jadzia
-266,43092,WORF: Ready? WORF: Jadzia... ? DAX: Hhhh... hhhh... hypo.,jadzia
-267,43057,WORF: Yes. But that's because something else is coming. And it's close. WORF: Jadzia? DAX: Painkillers... please.,jadzia
-268,42809,WORF: On our way. WORF: Jadzia. DAX: Mmmm.,jadzia
-269,41198,BASHIR : Commander? SISKO: Jadzia. SISKO: Are you...,jadzia
-270,31868,"JAKE: He followed me home from the holosuite. BASHIR: Jadzia! DAX: Hello, Julian.",jadzia
-271,13960,DAX: Instinct. WORF: Jadzia -- DAX: What?,jadzia
-272,7223,DAX: It's about time you came back. SISKO: Jadzia. DAX: That's to let you know I missed you.,jadzia
-273,4758,"LEETA: Sorry. WORF: Jadzia... DAX: I know, I know. We have much to discuss.",jadzia
-274,54915,LWAXANA: Because... LWAXANA: I'm pregnant... LWAXANA: It's a miracle. I never thought I'd be able to have another baby.,pregnant
-275,30804,SISKO: What's wrong? KASIDY: I'm pregnant. SISKO: Are you sure?,pregnant
-276,57947,KEIKO: What's wrong? O'BRIEN: You're pregnant. KEIKO: That's right.,pregnant
-277,67843,KIRA: It did it again. KIRA: Odo... I'm pregnant. ODO: Yes.,pregnant
-278,6016,WORF: Ten. KIRA: I hate being pregnant. SISKO: I win.,pregnant
-279,15395,BASHIR: Ensign Vilix'pran is budding. The buds will be undergoing individuation in a little over a month. SISKO: You mean... he's pregnant? BASHIR: Twins.,pregnant
-280,137567,PICARD: This is Doctor Katherine Pulaski. We will handle the formal introduction later. PICARD: Counselor Deanna Troi is pregnant. RIKER: A baby!,pregnant
-281,84172,PICARD: Then perhaps we should locate a humanoid who's pregnant... DATA: Nurse Ogawa recently became pregnant... PICARD: Then we need to locate Nurse Ogawa.,pregnant
-282,80459,"PICARD: There is a possibility that the boy is my son... I was involved with his mother for a short time about twenty four years ago. I met her through a friend during shore-leave on Earth. It was all very romantic... -- probably because we both knew I'd be leaving in two weeks... we kept in touch for a short while, but we never managed to get together again... RIKER: And she never said anything about being pregnant... ? PICARD: No... either Bok's got it wrong and I'm not the father, or Miranda decided she wanted to raise the child on her own. Quite frankly it wouldn't surprise me. She was very independent... very strong-willed...",pregnant
-283,84171,"DATA: It would take further research, but I believe that to be effective on humanoid crewmembers, humanoid antibodies would be necessary. PICARD: Then perhaps we should locate a humanoid who's pregnant... DATA: Nurse Ogawa recently became pregnant...",pregnant
-284,12358,DAX: McCoy... McCoy... BONES - CLIP: The nearest thing I can figure out is they're born pregnant. Which seems to be quite a timesaver. DAX: Leonard McCoy. I met him when he was a student at Ol' Miss.,pregnant
-285,65139,TREVEAN: I see that I misjudged you... BASHIR: Every pregnant woman should be inoculated as soon as possible... the antigen will protect their babies... TREVEAN: I'll see that it's done...,pregnant
-286,55036,ODO: Not at all. I'm happy for her. LWAXANA: Just don't go do what I did. Look for someone to fix your broken heart... then end up pregnant and on the run. ODO: I don't think there's too much danger of that happening.,pregnant
-287,72618,"KIRA: I couldn't stop thinking about Latha. All the firefights and bombings he'd lived through... and then to get killed during a religious ceremony... KIRA: You know, if I wasn't pregnant... I'd be down on Bajor right now looking for a way to narrow down the suspects. O'BRIEN: You're safer here on the station.",pregnant
-288,13362,"QUARK: Sounds reasonable. KIRA: So did your father just sit you down one day and say, ""Miles, it's time to teach you about massaging pregnant women."" O'BRIEN: It's an O'Brien survival technique. My mother hated being pregnant. My father's massages were the only thing that kept her from killing everyone.",pregnant
-289,72856,"SILARAN: Its heart beats faster as panic starts to creep into its soul. Does it understand? Or is it so blinded by the light that it can think only of returning to the velvet cloak of darkness? No matter. Perhaps it is better that it never realizes how close death has come. But make no mistake there is no escape. It has reached the end, and soon it will die. KIRA: What's the matter, Silaran? Are you so afraid of a pregnant woman in a restraining field that you have to hide in the dark? SILARAN: It bares its tiny fangs, hoping for a chance to strike, to sink its teeth deep into the flesh of its tormentor. But that chance will never come...",pregnant
-290,13772,ARISSA: You know how Idanians are... they're a secretive race. ODO: You realize that it would be a simple matter for me to have a Doctor examine you to determine if you've ever been pregnant? ARISSA: You keep threatening to have me stripped down and examined. I'm trying not to read too much into that.,pregnant
-291,13363,"KIRA: So did your father just sit you down one day and say, ""Miles, it's time to teach you about massaging pregnant women."" O'BRIEN: It's an O'Brien survival technique. My mother hated being pregnant. My father's massages were the only thing that kept her from killing everyone. KIRA: Sounds like me.",pregnant
-292,88638,"TROI: I'm not saying we should accept her claim at face value... but I sensed no deception from her. She really believes that she is the daughter of Tasha Yar. BEVERLY: Regardless of what she believes, Sela cannot be her daughter. I've reviewed all of Tasha's medical records, and there is no indication that she was ever pregnant. PICARD: Besides, Tasha would have been a child when this woman was born.",pregnant
-293,7606,"KIRA: I can answer that. DUKAT: Major, I must say, I'm shocked. You used my daughter to lure me here. You're asking me to risk my ship on some fool's errand into the Klingon Empire. And you're pregnant. I hope First Minister Shakaar appreciates what a lucky man he is. KIRA: Shakaar's not the father.",pregnant
+,indices,choices,search,bm25,prev_bm25,next_bm25
+0,19778,"Q: You hit me... Picard never hit me. 
+ SISKO: I'm not Picard. 
+ Q: Indeed not. You're much easier to provoke. How fortunate for me. 
+ 
+ ""Q-Less"", Deep Space Nine, 1992-10-30",not picard,11.22237074806235,6.118059018569723,2.568390250299413
+1,118205,"PICARD: Is this your doing, Q -- ? 
+ Q: Not this time, Picard. 
+ PICARD: Mister Worf, see if there's anything we can do to cut through the interference and beam them out of there. 
+ 
+ ""True Q"", The Next Generation, 1992-09-04",not picard,10.492086035040558,0.0,0.0
+2,93196,"MOVAR: It will make matters simpler if the captain is cooperative... but we are prepared to move in any case. 
+ TORAL: Why not just kill Picard? 
+ B'ETOR: Fool! Do we want the Federation as our enemy? 
+ 
+ ""Redemption"", The Next Generation, 1991-04-08",not picard,10.055836918971337,0.0,0.0
+3,84461,"PICARD: That's an order, Counselor. 
+ TROI: You're not Captain Picard. 
+ PICARD/LWAXANA: Leave me alone... please... 
+ 
+ ""Dark Page"", The Next Generation, 1993-08-26",not picard,9.952384683485201,0.0,0.0
+4,131562,"KORRIS: I will demand Captain Picard give us access to the Battle Bridge. We will separate from the rest of the ship, and together, we will light up the galaxy. Imagine the fear which will roll before us. 
+ WORF: Captain Picard will not comply. 
+ KORRIS: He cannot -- dare not -- refuse us. In order to save themselves, they will give us what we demand -- then, brother, we are free. 
+ 
+ ""Heart Of Glory"", The Next Generation, 1988-01-13",not picard,9.465490286716628,2.375667732982247,1.8373338204811216
+5,140105,"PICARD: May I sleep on it? 
+ GALEN: Dream not of today, Mister Picard. 
+ PICARD: ""Dream not of today."" The night blessing of the Yash-El. 
+ 
+ ""The Chase"", The Next Generation, 1993-02-04",not picard,9.283815723280664,0.0,2.7545014354618287
+6,98264,"PICARD: Captain, maintain an emergency transport schedule at our beam-in coordinates... 
+ K'VADA: I do not take orders from you, Picard. 
+ PICARD: P'tah Jol Ginquol! Katah! You will lock on those coordinates at sixty minute intervals after our arrival. 
+ 
+ ""Unification Part II"", The Next Generation, 1991-08-30",not picard,8.94061484318181,0.0,0.0
+7,104304,"SOVAK: You've put together quite a little team. 
+ AJUR: You must not interrupt Captain Picard... 
+ SOVAK: Quiet. Move back with the others. 
+ 
+ ""Captain's Holiday"", The Next Generation, 1990-01-21",not picard,8.858743107419864,0.0,0.0
+8,107970,"PICARD: There is no delay. It is the time I have chosen. 
+ DURAS: Exactly one hour, Picard. Do not be late. 
+ DURAS: Keep that pahtk away from the ceremony, Picard. He has no place on a Klingon ship. 
+ 
+ ""Reunion"", The Next Generation, 1990-09-04",not picard,8.77835721063546,0.0,4.135390150923942
+9,141357,"OKONA: I'll make it easy on both of us. I'll just call you Tiger. 
+ DATA: Captain Picard is not fond of nicknames. 
+ OKONA: Your gallant Captain Picard. I'd like to meet him... I'll stroll on the bridge and say hello. 
+ 
+ ""The Outrageous Okona"", The Next Generation, 1988-10-04",not picard,8.699417068219027,0.0,3.903068781402019
+10,139605,"KELSEY: You're the only one who needs a deal, Mott. 
+ PICARD: My name's not Mott. It's Jean-Luc Picard. 
+ KELSEY: Captain Picard... this is all beginning to make sense... 
+ 
+ ""Starship Mine"", The Next Generation, 1993-01-14",not picard,8.699417068219027,0.0,5.1167621782895765
+11,104707,"BEVERLY: We are involved. I saved his life. For what? So they could chase him down and take that life away? 
+ SUNAD: Picard -- we will not tolerate more delays. 
+ PICARD: Commander, let me remind you we are on a mission of exploration... our purpose is to establish peaceful relations with the civilizations we encounter. 
+ 
+ ""Transfigurations"", The Next Generation, 1990-03-27",not picard,8.699417068219027,0.0,0.0
+12,96155,"PICARD: Sleep. 
+ TROI: It is Captain Picard speaking, not Locutus. 
+ PICARD: Sleep. Data. 
+ 
+ ""The Best of Both Worlds, Part II"", The Next Generation, 1990-07-02",not picard,8.545720789969163,0.0,0.0
+13,103868,"RIKER: Right now, all we have are suspicions... not enough to act upon. The next move is his. 
+ THOLL: Well, Picard? Prove to us you're not the enemy. 
+ PICARD: I can't. 
+ 
+ ""Allegiance"", The Next Generation, 1990-01-15",not picard,8.325096297495207,2.2477690405638944,0.0
+14,112215,"LEMEC: Do you have anything to say? 
+ JELLICO: Captain Picard was not acting under my orders. 
+ LEMEC: And if we wish to execute him? 
+ 
+ ""Chain of Command, Part II"", The Next Generation, 1992-10-15",not picard,8.254064690838113,0.0,0.0
+15,89274,"PICARD: And if you each know the officers you inhabit, you know they are equally ready to give their lives for this ship. Free them now... And I will return you to the moon's surface. 
+ TROI: I advise you, Picard, not to pass our way again. 
+ PICARD: Picard to bridge, our guests will be leaving shortly... I need an emergency medical team here... 
+ 
+ ""Power Play"", The Next Generation, 1991-11-26",not picard,8.254064690838113,0.0,3.878856601896606
+16,93284,"WORF: They will not intervene. 
+ GOWRON: Perhaps not yet... but Starfleet Command will listen to Picard... and Picard listens to you. 
+ WORF: I can ask nothing more of him in this matter. 
+ 
+ ""Redemption"", The Next Generation, 1991-04-08",not picard,8.13947274626996,3.593558931990757,0.0
+17,119047,"PICARD: Ah yes, Ardra's magic. Jared, would you believe me if I told you that I could steal Ardra's powers and perform the same magical acts as she? 
+ JARED: I am sorry, Captain Picard, but you are not Ardra. 
+ PICARD: That is true. I am not Ardra. And yet, I can create a tremor just as she did. 
+ 
+ ""Devil's Due"", The Next Generation, 1990-11-02",not picard,8.115576812891952,0.0,2.3561305445897553
+18,104245,"AJUR: So it finally begins. 
+ BORATUS: Picard must not be allowed to destroy the Uthat. 
+ AJUR: He will surrender it to us... or die. 
+ 
+ ""Captain's Holiday"", The Next Generation, 1990-01-21",not picard,8.115576812891952,0.0,0.0
+19,89235,"PICARD: Captain Shumar, may I ask a foolish question? 
+ TROI: You are not one to ask foolish questions, Picard... 
+ PICARD: Nevertheless, I must ask how you intend to achieve your ""rest""... when all is said and done... 
+ 
+ ""Power Play"", The Next Generation, 1991-11-26",not picard,8.115576812891952,0.0,0.0
+20,100730,"TROI: Of course it does. But it's not just a matter of taste. It's the whole experience. 
+ TROI: First you spoon the fudge from around the rim... leaving only ice cream in the middle... Then gently spoon the ice cream around the sides, like you're sculpting it... 
+ TROI : Relish every bite. Make every one an event. And on the last bite, close your eyes... 
+ 
+ ""The Game"", The Next Generation, 1991-08-23",ice cream,16.42992514575848,0.0,0.0
+21,108236,"COMPUTER: Define ""real"" in context, please. 
+ TROI: Real... not one of your perfectly synthesized, ingeniously enhanced imitations... real chocolate ice cream, real whipped cream... 
+ COMPUTER: This unit is programmed to provide sources of nutritional value. Your request does not fall within current guidelines. 
+ 
+ ""The Price"", The Next Generation, 1989-09-25",ice cream,15.819123860196704,0.0,0.0
+22,100722,"RIKER: Sure. I'll catch up with you later. 
+ RIKER: Chocolate ice cream. Chocolate fudge. Chocolate chips. You're not depressed, are you? 
+ TROI: I'm fine, Commander. 
+ 
+ ""The Game"", The Next Generation, 1991-08-23",ice cream,15.15119629555672,0.0,0.0
+23,133533,"TALUR: You are an ice-man. 
+ DATA: Ice-man? 
+ TALUR: Yes. You probably come from a race of people who live in the snow and ice of the Vellorian mountains. Your skin and eye coloration are most likely a result of prolonged exposure to the harsh winter conditions. 
+ 
+ ""Thine Own Self"", The Next Generation, 1993-11-30",ice cream,13.474619271047668,11.831422259444729,3.8361462936862147
+24,82886,"BEVERLY: I'm just a little dizzy, thank you. I had some trouble coming through. Where's Captain Picard? 
+ DATA: He's on ice. 
+ BEVERLY: Pardon? 
+ 
+ ""The Big Good-bye"", The Next Generation, 1987-10-14",ice cream,12.826822082359332,0.0,0.0
+25,45241,"KAJADA: Very sure. 
+ QUARK: Iced Raktajino. Extra cream. 
+ DAX: Thank you, Quark. 
+ 
+ ""The Passenger"", Deep Space Nine, 1992-11-25",ice cream,12.614996573784868,0.0,0.0
+26,133543,"GARVIN: Not exactly. She said he's lost his memory, but seems to be fine otherwise. Talur thinks he is from a race that lives in the mountains. 
+ DATA: I am an ice-man. 
+ GARVIN: We'll have to call you something besides Ice-man until your memory returns. What was the word on the container? 
+ 
+ ""Thine Own Self"", The Next Generation, 1993-11-30",ice cream,12.238453986258506,0.0,5.889681833499792
+27,133532,"DATA: Then what do you believe I am? 
+ TALUR: You are an ice-man. 
+ DATA: Ice-man? 
+ 
+ ""Thine Own Self"", The Next Generation, 1993-11-30",ice cream,11.831422259444729,0.0,13.474619271047668
+28,57243,"ALEXANDER: Why are you laughing? 
+ CH'TARGH: Or perhaps the son of our illustrious first officer would prefer an Earth beverage. A glass of root beer, with a lump of ""ice cream?"" 
+ ALEXANDER: Are you mocking me? 
+ 
+ ""Sons and Daughters"", Deep Space Nine, 1997-07-11",ice cream,11.518590884402556,0.0,0.0
+29,123186,"O'BRIEN: I could use a... cup of coffee. How about you? 
+ YOUNG KEIKO: I'll get it. Two coffees... one with cream... 
+ O'BRIEN: Black... double sweet... 
+ 
+ ""Rascals"", The Next Generation, 1992-09-04",ice cream,11.241346429217716,0.0,0.0
+30,49617,"WV-SIX: These comet fragments are nothing but huge chunks of ice. The Jem'Hadar will have no trouble finding us. 
+ ODO: Not if we become the ice... 
+ WV-SIX: What do you mean? 
+ 
+ ""nan"", Deep Space Nine, 1998-08-25",ice cream,11.093516448538294,6.126347350901822,0.0
+31,37479,"ISHKA: Now you can panic. 
+ BRUNT: I'll take an Eelwasser. No ice. 
+ ZEK: What're you doing here, Brunt? 
+ 
+ ""Profit and Lace"", Deep Space Nine, 1998-03-09",ice cream,10.545432448730915,0.0,0.0
+32,37630,"QUARK: ""Female apparel -- a new source of latinum for a new Ferenginar."" 
+ QUARK: ""Hypicate cream -- for smooth skin and healthier profits."" 
+ QUARK : All these facts and figures... it's too much to remember. 
+ 
+ ""Profit and Lace"", Deep Space Nine, 1998-03-09",ice cream,9.97423350632467,0.0,0.0
+33,133554,"GARVIN: I wonder if Skoran could tell us something about this metal of yours... 
+ SKORAN: You. Ice-man, where did you find this? 
+ DATA: I do not know. 
+ 
+ ""Thine Own Self"", The Next Generation, 1993-11-30",ice cream,9.955217902536743,0.0,0.0
+34,1662,"KIRA: Sleep well, Bareil. 
+ BASHIR: You're sure I can't interest you in some Yigrish cream pie. 
+ GARAK: Thank you, Doctor, but I'm quite full. 
+ 
+ ""Distant Voices"", Deep Space Nine, 1995-01-11",ice cream,9.514600951343196,0.0,0.0
+35,50954,"MARTOK: We are not accorded the luxury of choosing the women we fall in love with. Do you think Sirella is anything like the woman I thought I'd marry? She is a mercurial, arrogant, prideful woman who shares my bed far too infrequently for my taste. And yet... I love her deeply. We Klingons often tout our prowess in battle and our desire for honor and glory above all else... but how hollow is the sound of victory without someone to share it with. And Honor gives little comfort to a man alone in his home... and in his heart. 
+ QUARK: ... one steak with mushrooms, baked potato, sour cream and chives... 
+ O'BRIEN: I should've had that. 
+ 
+ ""You Are Cordially Invited... "", Deep Space Nine, 1997-09-05",ice cream,9.442082621042363,0.0,0.0
+36,66732,"SISKO: Both. 
+ WHATLEY: In that case, I'll keep the champagne on ice. 
+ JAKE: You're just in time, Dad. 
+ 
+ ""Rapture"", Deep Space Nine, 1996-10-11",ice cream,9.263899546651656,0.0,0.0
+37,133742,"DATA: I do not know what I am. But I am not like you. 
+ GIA: I know... you're an Ice-man. We talked about that... 
+ DATA: No. I am not... 
+ 
+ ""Thine Own Self"", The Next Generation, 1993-11-30",ice cream,9.10581616954848,0.0,0.0
+38,21200,"VIC : Just a minute. 
+ VIC: You wouldn't happen to have an ice pack on you... 
+ VIC: Hey, pallie -- whose side are you on? 
+ 
+ ""Badda-bing Badda-bang"", Deep Space Nine, 1998-12-09",ice cream,9.028780569349092,0.0,0.0
+39,114005,"RIKER: You know what to do? 
+ O'BRIEN: No problem. I'll have him out of there as smooth as ice. 
+ DATA: Sarjenka, wait! 
+ 
+ ""Pen Pals"", The Next Generation, 1989-02-10",ice cream,8.45644540657487,0.0,0.0
+40,65933,"SISKO: That's right. 
+ QUARK: Morn... dear sweet, Morn... 
+ ODO: Poor fool. He actually believed you cared about him. 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,12.967286663263797,0.0,0.0
+41,68838,"ELIZABETH: I'd love to... 
+ QUARK: Morn... 
+ QUARK: About that bet. I believe the odds were three to one. 
+ 
+ ""Explorers"", Deep Space Nine, 1995-02-27",morn,12.312849365318863,0.0,0.0
+42,66338,"ODO: You'd better sit down. 
+ QUARK: Morn? 
+ ODO: Alive and well. 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,12.312849365318863,0.0,0.0
+43,65888,"DAX: I used to have a little crush on him. 
+ WORF: Morn? 
+ DAX: It was before we met. Besides, he wasn't interested. 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,12.312849365318863,0.0,0.0
+44,65871,"ODO: I'm sure Morn would be touched to hear you say that. 
+ DAX : Morn? 
+ ODO: It's just a hologram. 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,12.312849365318863,7.615680340983611,0.0
+45,13038,"KIRA: Jake -- this is no time for games. 
+ KIRA : Morn? 
+ JAKE: He's going home for his mother's birthday or something. He has an encrypted message for my Dad in one of her presents. 
+ 
+ ""Favor the Bold"", Deep Space Nine, 1997-08-13",morn,12.312849365318863,0.0,0.0
+46,53339,"BASHIR: ... seventeen brothers and sisters... ? That's quite a family. 
+ DAX: Excuse me, Morn. 
+ DAX: It's your turn. 
+ 
+ ""Starship Down"", Deep Space Nine, 1995-09-11",morn,10.884489355815493,0.0,0.0
+47,67127,"QUARK: Just set them on the bar. 
+ QUARK: Morn -- no touching. 
+ QUARK: You know what this is? Three cases of syrup of squill. 
+ 
+ ""The Magnificent Ferengi"", Deep Space Nine, 1997-10-17",morn,10.637683101866294,0.0,0.0
+48,37319,"SISKO: I need you to explain something to someone. 
+ EZRI: Morn, it's me. Dax. 
+ QUARK: I'm truly impressed. 
+ 
+ ""Afterimage"", Deep Space Nine, 1998-07-24",morn,10.637683101866294,0.0,0.0
+49,66149,"HAIN: That's what I'm saying. 
+ QUARK: Morn was a prince... 
+ HAIN: Yes. But he renounced the throne when he came of age. 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,10.518430178512665,0.0,0.0
+50,66147,"HAIN: You didn't know? 
+ QUARK: Morn was a prince? 
+ HAIN: That's what I'm saying. 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,10.518430178512665,0.0,0.0
+51,66145,"HAIN: He was the crown prince. 
+ QUARK: Morn was a prince? 
+ HAIN: You didn't know? 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,10.518430178512665,0.0,0.0
+52,65961,"ODO: His bed. 
+ QUARK: Morn slept in mud? 
+ ODO: I'm told it's good for the skin... 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,10.518430178512665,0.0,0.0
+53,13755,"ODO: I hope you find your daughter. 
+ QUARK: Morn! We're closed. 
+ QUARK: Go home. 
+ 
+ ""A Simple Investigation"", Deep Space Nine, 1997-01-06",morn,10.518430178512665,0.0,0.0
+54,9807,"O'BRIEN: I see you've found someone to play darts with. I set up a board in my quarters so Molly and I could play. 
+ BASHIR: Morn's pretty good. 
+ O'BRIEN: So's Molly. 
+ 
+ ""Accession"", Deep Space Nine, 1996-01-05",morn,10.401821364912045,0.0,0.0
+55,28593,"DAX: Anyway, so there I was, sitting in Quark's, when Morn just comes over and invites me for dinner... Grid square twelve-delta reads clear of life forms... 
+ KIRA: Morn? Are you serious? 
+ DAX: Beginning scan of grid square fifteen delta... 
+ 
+ ""Progress"", Deep Space Nine, 1993-02-16",morn,10.17619194129879,4.359947110610745,0.0
+56,21425,"KASIDY: Better finish getting dressed. It's almost time. 
+ QUARK : I'm telling you, Morn... 
+ QUARK: ... there's something going on in Vic's that we don't know about. 
+ 
+ ""Badda-bing Badda-bang"", Deep Space Nine, 1998-12-09",morn,10.17619194129879,0.0,0.0
+57,65924,"QUARK : And wherever he is, I'm sure he'd want to know that his favorite bar still echoed with the laughter of his dear friends. This was his chair... and I think the greatest tribute we could ever pay him would be to make sure that it's never empty. 
+ QUARK: Keep it warm. For Morn. 
+ KIRA: Every now and then, Quark really surprises me... 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,10.067008499021743,0.0,0.0
+58,65968,"LARELL: (as if he should recognize the name) Larell. Morn's wife. Ex-wife. 
+ QUARK: Morn was married? To you? 
+ LARELL: For two wonderful years. 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",morn,9.855522728481544,7.04394416969071,0.0
+59,26886,"QUARK: He did. 
+ WORF: Morn? And how does he know? 
+ QUARK: He's friends with Admiral Ross. Or maybe Sisko told him while they were having dinner. I don't know how he knows. He just knows. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",morn,9.65273983405685,0.0,0.0
+60,61140,"JACK: And now the Pretender finds himself in league with a... a Dark Knight he can't control. 
+ O'BRIEN: Weyoun? 
+ JACK: Not a bad story. It's epic really. What else can you tell us? 
+ 
+ ""Statistical Probabilities"", Deep Space Nine, 1997-09-26",weyoun,12.845637251262398,0.0,0.0
+61,50020,"WEYOUN: Good evening, Doctor. 
+ BASHIR: Weyoun... ? 
+ WEYOUN: Welcome home. 
+ 
+ ""Inquisition"", Deep Space Nine, 1998-01-14",weyoun,12.845637251262398,0.0,0.0
+62,49322,"WEYOUN: I'm afraid he couldn't be here. 
+ ODO: Weyoun... 
+ WEYOUN: Founder... it is an honor to stand in your presence once again. 
+ 
+ ""nan"", Deep Space Nine, 1998-08-25",weyoun,12.845637251262398,0.0,0.0
+63,50670,"BASHIR: I don't know, but whoever he was, he lived like a pig. 
+ KIRA: It was Weyoun. 
+ BASHIR: Weyoun? The Vorta? 
+ 
+ ""You Are Cordially Invited... "", Deep Space Nine, 1997-09-05",weyoun,11.790278000794604,0.0,11.38926042643669
+64,50671,"KIRA: It was Weyoun. 
+ BASHIR: Weyoun? The Vorta? 
+ KIRA: I always knew he was a bit of a packrat. I'd see him collecting little bits of junk from all over the station and taking them back to his quarters to-- 
+ 
+ ""You Are Cordially Invited... "", Deep Space Nine, 1997-09-05",weyoun,11.38926042643669,11.790278000794604,0.0
+65,50356,"SISKO: Love you too. 
+ JAKE : Excuse me, Mister Weyoun. 
+ WEYOUN: Please, I prefer just ""Weyoun."" 
+ 
+ ""A Time to Stand"", Deep Space Nine, 1997-07-03",weyoun,10.551838583502208,0.0,10.126372814279247
+66,50357,"JAKE : Excuse me, Mister Weyoun. 
+ WEYOUN: Please, I prefer just ""Weyoun."" 
+ JAKE: That's the kind of detail people want to know. Would this be a good time? 
+ 
+ ""A Time to Stand"", Deep Space Nine, 1997-07-03",weyoun,10.126372814279247,10.551838583502208,0.0
+67,49570,"WEYOUN: (to the Female Shape-shifter, solicitous) Is there anything else I can do for you? 
+ FEMALE SHAPE-SHIFTER: Have you located Weyoun Six? 
+ WEYOUN: It's only a matter of time. 
+ 
+ ""nan"", Deep Space Nine, 1998-08-25",weyoun,10.126372814279247,0.0,0.0
+68,56374,"SISKO: On my way. 
+ SISKO: What can I do for you, Weyoun? 
+ WEYOUN: Captain Sisko... I'll make this brief. we know all about the minefield. 
+ 
+ ""Call to Arms"", Deep Space Nine, 1997-04-10",weyoun,10.025313935499158,0.0,0.0
+69,18563,"DUKAT: Leave us. 
+ DAMAR: Does Weyoun know you're here? 
+ DUKAT: I see he still has you under his thumb. 
+ 
+ ""CAST"", Deep Space Nine, 1999-01-04",weyoun,10.025313935499158,0.0,0.0
+70,61166,"WEYOUN: How nice to see you again. 
+ KIRA: Can I give you a word of advice, Weyoun? 
+ WEYOUN: By all means. 
+ 
+ ""Statistical Probabilities"", Deep Space Nine, 1997-09-26",weyoun,9.115598142323844,0.0,0.0
+71,27340,"WEYOUN: You're not going to die. You're a god. 
+ FEMALE SHAPE-SHIFTER: My loyal Weyoun... the only Solid I've ever trusted. 
+ WEYOUN: I live only to serve you. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",weyoun,8.357245965871481,0.0,0.0
+72,71980,"DUKAT: I hope they told you that my policies toward the Bajorans were most generous this time. 
+ SISKO: They told me Weyoun didn't give you much of a choice. 
+ DUKAT: Major Kira knows full well that I made every effort to heal the wounds between Cardassia and Bajor. It was my intention from the very beginning to rectify the mistakes of the past and begin a new chapter in our relations. 
+ 
+ ""Waltz"", Deep Space Nine, 1997-10-17",weyoun,8.088097363945804,0.0,0.0
+73,71582,"ODO: How do we know these Jem'Hadar can be trusted? They must realize that controlling the Gateway would mean freedom for their people. 
+ SISKO: According to Weyoun, they don't know about the Gateway. 
+ SISKO: They think this is just a routine search and destroy mission. Find the Jem'Hadar renegades and eliminate them and their base. 
+ 
+ ""To The Death"", Deep Space Nine, 1996-03-18",weyoun,8.023497341971911,0.0,0.0
+74,50680,"NOG: Yes, sir. 
+ BASHIR: At least Weyoun was sanitary. Who was staying in yours? 
+ NOG: Jake. Sisko. 
+ 
+ ""You Are Cordially Invited... "", Deep Space Nine, 1997-09-05",weyoun,8.023497341971911,0.0,0.0
+75,13147,"WEYOUN: Once the minefield comes down, there'll be more than enough ships to take their place. 
+ DUKAT: (nodding impatiently to Weyoun) I understand. One moment. 
+ DAMAR: I want your permission to arrest Major Kira. 
+ 
+ ""Favor the Bold"", Deep Space Nine, 1997-08-13",weyoun,8.023497341971911,0.0,0.0
+76,55879,"WEYOUN: Those ships won't be here for another five hours. And need I remind you, a lot can happen in that time. 
+ DUKAT: Tell me, Weyoun, have you ever been diagnosed as anhedonic? 
+ WEYOUN: You think I'm incapable of experiencing joy just because I'm cautious? 
+ 
+ ""The Sacrifice of Angels"", Deep Space Nine, 1997-08-25",weyoun,7.835743952490308,0.0,0.0
+77,27383,"WEYOUN: What's left of it. 
+ FEMALE SHAPE-SHIFTER: I wish you hadn't done that. That was Weyoun's last clone. 
+ GARAK: I was hoping you'd say that. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",weyoun,7.835743952490308,0.0,0.0
+78,21596,"SISKO: What about Damar? Why do you think he helped you escape? 
+ EZRI: I'm not sure, but I'll tell you one thing -- he hates Weyoun. 
+ WORF: The Cardassians are a proud people. But the Dominion treats them as second-class citizens. 
+ 
+ ""The Changing Face of Evil"", Deep Space Nine, 1999-02-03",weyoun,7.835743952490308,0.0,0.0
+79,49433,"WV-SIX: Of course you would, you're a god. 
+ WEYOUN: To think that a Weyoun could be capable of such treachery. 
+ DAMAR: I knew there was something wrong with him from the moment we met. He lacked your appetite for cruelty. 
+ 
+ ""nan"", Deep Space Nine, 1998-08-25",weyoun,7.7750970482729,0.0,0.0
+80,71916,"DUKAT: Benjamin? Benjamin, can you hear me? 
+ SISKO: Dukat... ? 
+ DUKAT: Yes. Everything's all right, but don't try to move too quickly. The left side of your body is covered with plasma burns. 
+ 
+ ""Waltz"", Deep Space Nine, 1997-10-17",dukat,10.40417428793232,0.0,0.0
+81,69449,"GUL DUKAT: Your son is not here, Commander... 
+ SISKO: Dukat... ? 
+ GUL DUKAT: Sorry. I didn't mean to startle you. 
+ 
+ ""The Maquis, Part I"", Deep Space Nine, 1994-02-04",dukat,10.40417428793232,0.0,0.0
+82,45884,"MERU: Who? 
+ KIRA: Dukat. 
+ MERU: Hurt me? (shaking her head, how to explain) No, he hasn't hurt me. 
+ 
+ ""Wrongs Darker Than Death or Night"", Deep Space Nine, 1997-12-19",dukat,10.40417428793232,0.0,0.0
+83,41975,"DAX : To be honest, I'm more comfortable thinking of you as wormhole aliens. But Kira believes you're a lot more than that... Maybe she's right, I don't know. But if you are prophets, and you're listening to me right now... I just want to say -- 
+ DAX: Dukat? 
+ KIRA: Captain -- 
+ 
+ ""Tears of the Prophets"", Deep Space Nine, 1998-04-08",dukat,10.40417428793232,0.0,0.0
+84,41864,"DUKAT: Dorrah tolka bretri pah'rahn, meedor. Dorrah tolka ullkess pah'rahn. 
+ DAMAR: Dukat -- 
+ DUKAT/PAH-WRAITH: Your concern is touching, but unnecessary. 
+ 
+ ""Tears of the Prophets"", Deep Space Nine, 1998-04-08",dukat,10.40417428793232,0.0,0.0
+85,26176,"DUKAT: What have you been keeping from me, my sweet? What dark secrets... ? 
+ WINN: Dukat? 
+ DUKAT: Adami, help me -- 
+ 
+ ""When it Rains... "", Deep Space Nine, 1999-02-16",dukat,10.40417428793232,0.0,0.0
+86,25626,"DUKAT: Don't be afraid... I love you all... 
+ KIRA: Dukat. 
+ KIRA: Don't you see why he's doing this? 
+ 
+ ""Covenant"", Deep Space Nine, 1998-09-28",dukat,10.40417428793232,0.0,0.0
+87,25501,"KIRA: Don't. 
+ KIRA: Dukat. 
+ KIRA: Stay where you are. 
+ 
+ ""Covenant"", Deep Space Nine, 1998-09-28",dukat,10.40417428793232,0.0,0.0
+88,25386,"DUKAT: I am. 
+ KIRA: Dukat... ? 
+ KIRA: You -- you're the leader of the Pah-wraith cult? 
+ 
+ ""Covenant"", Deep Space Nine, 1998-09-28",dukat,10.40417428793232,0.0,0.0
+89,18636,"WEYOUN: If you think I don't know what you're up to, then you're a bigger fool than Dukat. 
+ DAMAR: Dukat? 
+ WEYOUN: He used to entertain lady friends, as well. 
+ 
+ ""CAST"", Deep Space Nine, 1999-01-04",dukat,10.40417428793232,5.277372619516064,0.0
+90,17873,"WEYOUN: Keep your voice down. Our men need to see that we're still allies. Smile. 
+ WEYOUN: Dukat. 
+ DUKAT: (through his clenched smile) I'm smiling. 
+ 
+ ""Behind the Lines"", Deep Space Nine, 1997-08-05",dukat,10.40417428793232,0.0,0.0
+91,11085,"DUKAT: I need to find the girl. Tell me where she is. 
+ KIRA: Dukat. 
+ DUKAT: Tora Ziyal. Where is she? 
+ 
+ ""Indiscretion"", Deep Space Nine, 1995-08-18",dukat,10.40417428793232,0.0,0.0
+92,10968,"KIRA: Dukat, I was able to reactivate the -- 
+ KIRA: Dukat... 
+ DUKAT: It's nothing. Nothing at all. 
+ 
+ ""Indiscretion"", Deep Space Nine, 1995-08-18",dukat,10.40417428793232,7.563182054467244,0.0
+93,6404,"GARAK: For instance, do you remember a Gul named Dukat? 
+ TAIN: Dukat... ? 
+ GARAK: He's the son of the late Justice Procal. 
+ 
+ ""The Die is Cast"", Deep Space Nine, 1995-02-14",dukat,10.40417428793232,6.79536387127368,0.0
+94,5319,"SISKO: In my office. 
+ SISKO: Dukat. 
+ DUKAT: Please, Captain. Show a little respect. You're talking to the head of the Cardassian government. 
+ 
+ ""By Inferno's Light"", Deep Space Nine, 1996-12-02",dukat,10.40417428793232,0.0,0.0
+95,11091,"ZIYAL: It's really you. Mother said you'd come. 
+ KIRA : Dukat, no. 
+ ZIYAL: Father, what's wrong? 
+ 
+ ""Indiscretion"", Deep Space Nine, 1995-08-18",dukat,10.015003827304666,0.0,0.0
+96,57330,"DUKAT: He does no such thing. 
+ DAMAR: Gul Dukat? 
+ DUKAT: Ah, Damar... impeccable timing, as always. 
+ 
+ ""Sons and Daughters"", Deep Space Nine, 1997-07-11",dukat,9.89167044726558,0.0,0.0
+97,5190,"GARAK: And who would that be? 
+ DEYOS: Gul Dukat. 
+ DUKAT: You might ask... should we fear joining the Dominion? And I answer you... Not in the least. We should embrace the opportunity. The Dominion recognizes us for what we are... the true leaders of the Alpha Quadrant. 
+ 
+ ""By Inferno's Light"", Deep Space Nine, 1996-12-02",dukat,9.89167044726558,0.0,0.0
+98,72047,"DUKAT: This is growing tiresome. 
+ SISKO: Dukat? Dukat! I thought you wanted to talk to me. 
+ DUKAT: Yes, but Nerys won't leave well enough alone. She's always interfering, always trying to upset me. 
+ 
+ ""Waltz"", Deep Space Nine, 1997-10-17",dukat,9.410259357627103,0.0,0.0
+99,16377,"DAX: Ablative armor has failed. We've got plasma leaks on decks two, three and five, and we've lost our aft torpedo launchers. 
+ DUKAT: Dukat to Sisko. 
+ SISKO: Go ahead. 
+ 
+ ""The Way of the Warrior"", Deep Space Nine, 1995-07-07",dukat,9.317925651286158,0.0,0.0
+100,3763,"NOG: A root beer... (off Quark's blank expression) It's an Earth drink... something they serve at the Academy... 
+ QUARK: Root beer... This is the end of Ferengi civilization... 
+ ODO: May I join you, Lieutenant... ? 
+ 
+ ""Facets"", Deep Space Nine, 1995-03-30",civilization,8.707875728593127,0.0,0.0
+101,120634,"BEVERLY: Doctor Stubbs, these nanites are apparently operating with a new collective intelligence... working together, teaching each other skills... 
+ DATA: Doctor, are you suggesting they are becoming a... civilization? 
+ STUBBS: Oh really. I'm sorry but this is nonsense. You can't have a civilization of computer chips. They're made in a plant in Dakar Senegal. I've watched the construction. 
+ 
+ ""Evolution"", The Next Generation, 1989-07-24",civilization,8.105961330801586,0.0,4.564903705414541
+102,141125,"BEVERLY: Yes. It also explains their lack of appetite, their sensitivity to light, and their extreme pallor. 
+ PICARD: An entire civilization that's terminally ill... is it reversible? 
+ BEVERLY: I won't know until I've found the cause... and you don't need to tell me time is running out. 
+ 
+ ""When the Bough Breaks"", The Next Generation, 1987-12-11",civilization,7.9233983388527065,0.0,0.0
+103,135284,"DATA: Not very much, sir. The only recorded contact with the Delos system was over two hundred years ago. A scout ship reported two inhabited planets, both technologically just on the edge of acquiring space travel. 
+ GEORDI: Odd that in two centuries, neither civilization advanced further. 
+ TROI: Sir, I find it strange that none of our visitors feel much remorse about the two freighter passengers who perished... yet their barrel of cargo is a source of great anxiety to them. 
+ 
+ ""Symbiosis"", The Next Generation, 1988-02-17",civilization,7.806190647527174,0.0,0.0
+104,47823,"KIRA: We already have a solution and the longer we wait the harder it will be to implement it. I'm sorry but this is us or them. We have to destroy it. 
+ ODO: You can't just wipe out a civilization... we would be committing mass murder. 
+ KIRA: (can't anyone see this but me?) It's like stepping on ants, Odo. 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",civilization,7.2685842196084804,0.0,0.0
+105,86776,"DATA: It is a highly structured society in which people live by strict codes of honor. For example, what Lutan has done is similar to what certain American Indians once did, called ""counting coup."" That's from an obscure language called French -- 
+ PICARD: A language which for centuries on Earth represented civilization, Mister Data. 
+ DATA: Indeed? 
+ 
+ ""Code of Honor"", The Next Generation, 1987-07-02",civilization,7.121449570780883,0.0,0.0
+106,131683,"PICARD: I see... Well, their food may be somewhat backward but the Klingons are efficient, loyal to their beliefs, and are regulated by a strict code of ethics. 
+ PULASKI: True enough. They tend to lean towards a Samurai civilization that is thousands of years old. 
+ PICARD: But they are pure in that tradition. 
+ 
+ ""A Matter of Honor"", The Next Generation, 1988-12-02",civilization,6.466915414123551,0.0,0.0
+107,112154,"MADRED: I understand that you are a student of archaeology. Did you know that Cardassia boasts some of the most ancient and splendid ruins anywhere in the galaxy? 
+ PICARD: I know that the burial vaults of the First Hebitian civilization are said to be magnificent. 
+ MADRED: Apparently when they were first unearthed, two hundred years ago, they were. The burial vaults contained unimaginably beautiful artifacts made of jevonite -- a rare, breathtaking stone. But most of those objects are gone. 
+ 
+ ""Chain of Command, Part II"", The Next Generation, 1992-10-15",civilization,6.466915414123551,0.0,0.0
+108,140196,"DATA: Ruah Four is an M class planet. Sixty-seven percent of the surface is covered with water. The landmass contains multiple animal species, including a genus of proto-hominids. 
+ PICARD: Scan for any evidence of monuments or earth works which might suggest an ancient civilization. 
+ DATA: There is nothing to indicate former occupancy by even a primitive culture, sir. 
+ 
+ ""The Chase"", The Next Generation, 1993-02-04",civilization,6.388624740940596,0.0,0.0
+109,135357,"ROMAS: Your people don't need it -- (indicating the Brekkians) -- they don't need it... our people do! 
+ T'JON: If you don't give it to us, you will be party to murder... not only us, but an entire civilization! 
+ T'JON: Sorry, I did not mean to insult you. I'm feeling very shaky. 
+ 
+ ""Symbiosis"", The Next Generation, 1988-02-17",civilization,6.388624740940596,0.0,0.0
+110,124100,"ADMINISTRATOR: Evacuated to where? Our technology is limited. We're just beginning to launch small missiles... 
+ PICARD: A collection of genetic samples, then -- something, anything -- you can't just let this civilization die -- 
+ ADMINISTRATOR: Enough! There is a plan in the works. I can't tell you more than that. 
+ 
+ ""The Inner Light"", The Next Generation, 1992-03-24",civilization,6.27467963849676,0.0,0.0
+111,61206,"NA: BASHIR Any evidence that Kabrel Thank you. used to support an advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. 
+ Thank you.used to support an: advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. 
+ advanced civilization?: Maybe they're looking to excavate something valuable -- like an ancient technology. 
+ 
+ ""Statistical Probabilities"", Deep Space Nine, 1997-09-26",civilization,6.093542752917012,4.506429951944712,0.0
+112,19555,"VASH: Thank you, Doctor. I try. 
+ BASHIR: I'd say you've managed quite well for someone who's been out of contact with civilization for over two years. 
+ VASH: I'd hardly call the Gamma Quadrant uncivilized. Some of the cultures I've encountered have histories dating back millions of years. 
+ 
+ ""Q-Less"", Deep Space Nine, 1992-10-30",civilization,5.856838205403935,0.0,0.0
+113,140068,"PICARD: The Kurl believed every individual is a community of individuals. Inside us are many voices, each with its own desires, its own style, its own way of viewing the world. 
+ PICARD: But Kurlan civilization died out thousands of years ago. It's rare to find a figurine intact. A truly incredible find. 
+ GALEN: It's yours, Jean-Luc. 
+ 
+ ""The Chase"", The Next Generation, 1993-02-04",civilization,5.637835665459997,0.0,0.0
+114,30911,"KIRA: I think I'd like to have one of my own, someday... 
+ ODO: According to the archaeologists I talked to, the portal was built by a civilization that vanished a thousand years ago. 
+ ODO: Which means if Molly survived the fall, she would've found herself all alone. 
+ 
+ ""Time's Orphan"", Deep Space Nine, 1998-03-18",civilization,5.578239945350839,0.0,0.0
+115,47828,"SISKO: I'll give you my decision in an hour. 
+ SISKO : Personal log. Supplemental. One hour. One hour to make a decision that could mean the life or death of a civilization. Or the end to our own. 
+ SISKO : My mind keeps going back to the Borg... how I despised their... indifference as they tried to exterminate us. And I have to ask myself... would I be any different if I destroyed another universe to preserve my own? 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",civilization,5.069185271983312,0.0,0.0
+116,30712,"ROM: But being Nagus'll make you rich. 
+ QUARK: I don't care. I'm not going to preside over the demise of Ferengi civilization. Not me. The line must be drawn here -- this far and no further. 
+ KIRA: He's been in there too long. Something's wrong. 
+ 
+ ""The Dogs of War"", Deep Space Nine, 1999-03-16",civilization,5.069185271983312,0.0,0.0
+117,135949,"DATA: My impression is that there were thousands... of all ages and walks of life. It was a remarkable experience. 
+ PICARD: Well, Data, you may never become fully human... but you've had an experience that transcends the human condition. You have been an entire civilization. 
+ PICARD: Nonetheless... it's time to stand watch on the night shift. 
+ 
+ ""Masks"", The Next Generation, 1993-12-09",civilization,4.881613693940179,0.0,0.0
+118,120635,"DATA: Doctor, are you suggesting they are becoming a... civilization? 
+ STUBBS: Oh really. I'm sorry but this is nonsense. You can't have a civilization of computer chips. They're made in a plant in Dakar Senegal. I've watched the construction. 
+ BEVERLY: Then how do you explain what you've seen here? 
+ 
+ ""Evolution"", The Next Generation, 1989-07-24",civilization,4.564903705414541,8.105961330801586,0.0
+119,61205,"imperceptibly.Think, think.: BASHIR Any evidence that Kabrel Thank you. used to support an advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. 
+ NA: BASHIR Any evidence that Kabrel Thank you. used to support an advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. 
+ Thank you.used to support an: advanced civilization? Maybe they're looking to excavate something valuable -- like an ancient technology. 
+ 
+ ""Statistical Probabilities"", Deep Space Nine, 1997-09-26",civilization,4.506429951944712,4.506429951944712,6.093542752917012
+120,49145,"BAREIL: That was delicious. 
+ KIRA: Thank the replicators. 
+ BAREIL: Here, let me help. 
+ 
+ ""Shadowplay"", Deep Space Nine, 1993-12-09",replicators,10.482593433433838,0.0,0.0
+121,129043,"TOQ: The hunt? 
+ TOQ: We have replicators here. 
+ WORF: Klingons do not hunt because they need food. The hunt is a ritual that reminds us of where we come from. 
+ 
+ ""Birthright, Part II"", The Next Generation, 1992-12-22",replicators,10.155702615141655,0.0,0.0
+122,128049,"GEORDI: It's a pretty strange set-up, but I think the graviton field generator has completely depolarized. We can't fix it, it has to be replaced. 
+ RIKER: Where are your replicators? 
+ VAREL: They are off-line. 
+ 
+ ""The Next Phase"", The Next Generation, 1992-03-15",replicators,9.948871187766084,0.0,0.0
+123,26094,"DAMAR: When I spoke to Garak, I told him to bring some. 
+ RUSOT: Federation food replicators? 
+ DAMAR: Rusot, we're in no position to turn down help -- no matter where it comes from. 
+ 
+ ""When it Rains... "", Deep Space Nine, 1999-02-16",replicators,9.84858288020466,0.0,0.0
+124,1785,"work crews are all missing... I: can't manufacture any new parts until we get the replicators fixed... 
+ can't manufacture any new parts: until we get the replicators fixed... 
+ DAX: The first thing we have to do is neutralize the Lethean. 
+ 
+ ""Distant Voices"", Deep Space Nine, 1995-01-11",replicators,9.199446104731683,7.069369999158889,0.0
+125,25072,"QUARK: There's an old Ferengi saying, ""Never ask when you can take."" (trying to hide his annoyance) How did you figure it out, anyway? 
+ ODO: You claimed Rom fixed your replicators. 
+ QUARK: So? 
+ 
+ ""Babel"", Deep Space Nine, 1992-10-07",replicators,8.865536105951266,0.0,0.0
+126,62718,"EDDINGTON : Please do not share it with anyone who doesn't have a level seven security rating. It seems that during their recent invasion of Cardassia, the Klingons inflicted far more damage than we've been led to believe. Two weeks ago, the civilian government on Cardassia Prime secretly contacted the Federation Council and made an urgent request for industrial replicators. And that request... has been granted. 
+ DAX: How many replicators are we talking about? 
+ EDDINGTON: Twelve -- all class four. 
+ 
+ ""For the Cause"", Deep Space Nine, 1996-02-26",replicators,8.630589345698956,2.0956679058774212,0.0
+127,19704,"Q: You're making a terrible mistake. 
+ BASHIR: Why? Have the replicators malfunctioned again? 
+ Q: I'm talking about Vash. Stay away from her. 
+ 
+ ""Q-Less"", Deep Space Nine, 1992-10-30",replicators,8.407773805507075,0.0,0.0
+128,45324,"KAJADA: (a beat, thinking as Vantika) In the past, he's used a subspace shunt attached to a secondary system, something that runs through the entire facility but isn't covered by security. 
+ KIRA: The lighting controls or maybe the replicators. 
+ DAX: I'm showing an unauthorized tap into the computer system at a temperature control panel... Level twenty-one. Section ten. 
+ 
+ ""The Passenger"", Deep Space Nine, 1992-11-25",replicators,8.265513542530554,0.0,0.0
+129,76675,"RIKER: That's true... it ""sees"" with its sensors... ""talks"" with its communications systems... 
+ BEVERLY: In a sense, it even ""reproduces"" with the replicators... 
+ PICARD: And you think the ship has somehow gone beyond those functions... has developed a new capacity... 
+ 
+ ""Emergence"", The Next Generation, 1994-02-17",replicators,7.9949626188369995,0.0,0.0
+130,62720,"EDDINGTON: Twelve -- all class four. 
+ KIRA: The Federation's only given Bajor two CFI replicators. 
+ EDDINGTON: With all due respect, Bajor is just one planet. The Klingons have destroyed the industrial base of literally dozens of Cardassian worlds. With twelve CFI replicators, they can at least start building new power plants and factories. 
+ 
+ ""For the Cause"", Deep Space Nine, 1996-02-26",replicators,7.803394167957708,0.0,3.27631517924069
+131,24935,"O'BRIEN: I'd settle for five minutes of peace and quiet. 
+ SISKO: Chief, I thought you were going to fix the replicators. 
+ O'BRIEN: You're absolutely right, Sir. I knew I'd forgotten something. Can't have the operations chief sitting around daydreaming when there's work to be done, can we? I'll get right on it. 
+ 
+ ""Babel"", Deep Space Nine, 1992-10-07",replicators,7.803394167957708,0.0,0.0
+132,90826,"CASTILLO: What's a T-K-L? 
+ TASHA: Standard rations. Food replicators are on minimum power... 
+ TASHA : Everything else is diverted to defensive systems. So where was I... 
+ 
+ ""Yesterday's Enterprise"", The Next Generation, 1989-12-08",replicators,7.741561941044486,0.0,0.0
+133,132400,"BASHIR: I must admit, Commander... I didn't think you'd be so... personable. 
+ GEORDI: I'll have to talk to Chief O'Brien about the replicators. 
+ GEORDI : I don't know how you can keep eating it... It tastes like... liquid polymer. 
+ 
+ ""Birthright"", The Next Generation, 1992-12-10",replicators,7.620791290178857,0.0,0.0
+134,63056,"ODO: As you wish. 
+ REESE: All the replicators have been secured in the ship's hold, sir. 
+ EDDINGTON: Very good. We'll be departing in five minutes and I'm leaving you in command until Captain Sisko returns. 
+ 
+ ""For the Cause"", Deep Space Nine, 1996-02-26",replicators,7.390212304479559,0.0,0.0
+135,25050,"ASOTH: Quark, that Kohlanese stew... magnificent. 
+ QUARK: Fortunately my assistant, Rom, was able to fix the replicators. 
+ ODO: Yes, very fortunate. 
+ 
+ ""Babel"", Deep Space Nine, 1992-10-07",replicators,7.390212304479559,0.0,0.0
+136,77553,"KAHLESS: They are good men. But they chatter like tree hens. 
+ WORF: I am sorry our replicators do not do justice to Klingon Warnog... 
+ KAHLESS: It has been so long since I have tasted any food or drink... there are many things I have forgotten. 
+ 
+ ""Rightful Heir"", The Next Generation, 1993-03-08",replicators,7.2800772305925525,0.0,0.0
+137,106943,"DATA: That would explain why your music composition program began playing ""The Slavonic Dances."" I have been analyzing the collected works of Anton Dvorak. 
+ GEORDI: The same with Doctor Crusher's play... and with the food replicators... 
+ RIKER: The replicators on Decks Four through Nine have started producing nothing but cat food. 
+ 
+ ""A Fistful of Datas"", The Next Generation, 1992-09-17",replicators,7.120895004464305,0.0,6.175659605363431
+138,106487,"GEORDI: Whatever it is, it looks like there's been a conversion process -- transforming some of the metal into gelatinous residue. But what caused it is a mystery. 
+ PICARD: The stabilizers and the replicators. Two totally unrelated systems... 
+ GEORDI: Yessir, and we still don't know why the sensors didn't catch the problems. 
+ 
+ ""Cost of Living"", The Next Generation, 1992-02-03",replicators,7.120895004464305,0.0,0.0
+139,32564,"DUKAT: Excuse my presumption, but this was my office only two weeks ago... 
+ DUKAT: So, have you been able to get the food replicators to work properly? 
+ SISKO: Frankly, no. 
+ 
+ ""#40511-721"", Deep Space Nine, 1992-08-10",replicators,7.069369999158889,0.0,0.0
+140,64706,"BASHIR: What's that? 
+ GARAK: The truth. 
+ BASHIR: I've about given up on learning the truth from you, Garak. 
+ 
+ ""The Wire"", Deep Space Nine, 1994-03-01",truth,9.528377946612753,0.0,6.035208512054803
+141,43469,"ODO: It serves the truth. 
+ ENINA: The truth. 
+ ODO: If there's more to this than meets the eye, I hope you'll explain, because as it stands, this will severely hurt Dax's defense. 
+ 
+ ""Dax"", Deep Space Nine, 1992-11-17",truth,9.528377946612753,8.483630627193623,0.0
+142,116821,"DIRGO: Tell him the truth. 
+ WESLEY: What truth? 
+ DIRGO: (removing his hand from the wound) He's bleeding inside. I've seen it before. He'll never survive. 
+ 
+ ""Final Mission"", The Next Generation, 1990-09-17",truth,9.41246475153828,8.577681363441684,0.0
+143,45655,"DUKAT: -- in the Singha refugee center? I'm afraid not, Major. That was something your father told you because he couldn't bear to face the truth. 
+ KIRA: What truth? 
+ DUKAT: That your mother left him to be with me. 
+ 
+ ""Wrongs Darker Than Death or Night"", Deep Space Nine, 1997-12-19",truth,9.41246475153828,3.789029395843482,0.0
+144,70936,"QUARK: Take that back. 
+ ROM: It's the truth. 
+ ROM: He went from one bad deal to the next, one failure after another. He couldn't hold onto latinum if you sewed it into his pants. 
+ 
+ ""Family Business"", Deep Space Nine, 1995-03-08",truth,8.97570514072632,0.0,0.0
+145,4244,"O'BRIEN: Is that what I'm supposed to tell myself? 
+ BASHIR: It's the truth. 
+ BASHIR: Look, I'm sorry I don't have all the answers. All I know for sure is that I'm glad you're back. 
+ 
+ ""Honor Among Thieves"", Deep Space Nine, 1997-12-01",truth,8.97570514072632,0.0,0.0
+146,40278,"ENSIGN: No... 
+ SISKO: I want the truth. 
+ SISKO: Is that clear? 
+ 
+ ""Dramatis Personae"", Deep Space Nine, 1993-02-24",truth,8.772180649138516,0.0,0.0
+147,116820,"PICARD: Good work... I'm going to be fine in a moment... just need to catch my breath... 
+ DIRGO: Tell him the truth. 
+ WESLEY: What truth? 
+ 
+ ""Final Mission"", The Next Generation, 1990-09-17",truth,8.577681363441684,0.0,9.41246475153828
+148,34706,"ROSS: That's a harsh way to put it. 
+ KIRA: The truth often is. 
+ ROSS: I really would like to help you, colonel, but my hands are tied. 
+ 
+ ""Shadows and Symbols"", Deep Space Nine, 1998-07-15",truth,8.577681363441684,0.0,0.0
+149,43468,"ENINA: What purpose is this supposed to serve? 
+ ODO: It serves the truth. 
+ ENINA: The truth. 
+ 
+ ""Dax"", Deep Space Nine, 1992-11-17",truth,8.483630627193623,0.0,9.528377946612753
+150,32784,"JENNIFER ALIEN: (come on, you've got to be kidding) It is inconceivable that any species could exist in such a manner... you are deceiving us... 
+ SISKO: No, this is the truth... 
+ SISKO: This day... this park... it was almost... fifteen years ago. Far in the past. It was a very important day to me... a day that shaped every day that followed. 
+ 
+ ""#40511-721"", Deep Space Nine, 1992-08-10",truth,8.391619977259833,0.0,0.0
+151,132029,"YRANAC: I hadn't finished yet. You'll like this... the man got what was coming to him. When they knocked him down, one of them took out a weapon... and fired. He was vaporized. 
+ TROI: He's telling the truth. 
+ RIKER: Doctor? 
+ 
+ ""Gambit, Part I"", The Next Generation, 1993-07-26",truth,8.213459060185066,0.0,0.0
+152,11984,"SISKO: Are you sure you don't want anything? 
+ DULMUR: Just the truth, Captain. 
+ SISKO: You'll get it. Where do you want to start? 
+ 
+ ""Trials and Tribble-ations"", Deep Space Nine, 1996-08-20",truth,8.213459060185066,0.0,0.0
+153,45703,"SISKO: Excuse me? 
+ KIRA: I need to know the truth. 
+ SISKO: Let me get this straight... You want to travel back in time to see if Dukat and your mother were lovers? 
+ 
+ ""Wrongs Darker Than Death or Night"", Deep Space Nine, 1997-12-19",truth,8.042705873311174,0.0,0.0
+154,86229,"PICARD: Let us do no such damned thing! What is this need of yours for costumes? Have you no identity of your own? 
+ ""Q"" : I come in search of truth. 
+ PICARD: You come in search of what humanity is! 
+ 
+ ""Hide And Q"", The Next Generation, 1987-09-25",truth,7.959964286643057,0.0,0.0
+155,77614,"WORF: They grew you in a test tube... like some kind of fungus... then programmed you like a machine. 
+ KOROTH: You are twisting the truth. 
+ WORF: You talk to me about the truth? You, who have brought this... lie to life and then called it Kahless? 
+ 
+ ""Rightful Heir"", The Next Generation, 1993-03-08",truth,7.87890781828949,0.0,4.627497226472831
+156,44726,"ODO: Well, I conducted a little investigation of that freighter, and do you know what I discovered? 
+ QUARK: That I was telling the truth? 
+ ODO: That's right. I arrested the first officer and two of the crew. 
+ 
+ ""The Homecoming"", Deep Space Nine, 1993-07-02",truth,7.7216484313932785,0.0,0.0
+157,41774,"QUARK: That's it? That's supposed to cheer us up? 
+ VIC: The truth shall set you free. 
+ QUARK: Do you feel better? 
+ 
+ ""Tears of the Prophets"", Deep Space Nine, 1998-04-08",truth,7.7216484313932785,0.0,0.0
+158,12972,"DUKAT: You're sure of that? I can't help you unless you tell me the truth. 
+ ZIYAL: I am telling you the truth! The question is have you been telling me the truth. 
+ DUKAT: About what? 
+ 
+ ""Favor the Bold"", Deep Space Nine, 1997-08-13",truth,7.6715643540599805,5.639320709356793,0.0
+159,42485,"ODO: That's... very flattering. 
+ SISKO: It's the truth. Will you do it? 
+ ODO: All right. 
+ 
+ ""Take Me Out to the Holosuite"", Deep Space Nine, 1998-08-03",truth,7.645349595455788,0.0,0.0
+160,97167,"SOREN: Well, if that's the systems review, I don't see any problems here. What's next? 
+ RIKER: Lunch. 
+ SOREN: What is it? 
+ 
+ ""The Outcast"", The Next Generation, 1992-01-02",lunch,13.369882005839372,0.0,0.0
+161,65385,"KOR: HoH! 
+ KOR: Lunch! 
+ KOR: Delicious, isn't it? 
+ 
+ ""The Sword of Kahless"", Deep Space Nine, 1995-09-29",lunch,13.369882005839372,0.0,0.0
+162,30536,"EZRI: Hi. 
+ BASHIR: Having lunch? 
+ EZRI: It's that time. 
+ 
+ ""The Dogs of War"", Deep Space Nine, 1999-03-16",lunch,12.2584073058068,0.0,0.0
+163,84000,"TROI: Bring me an order of... Ongilin caviar. Make that a double order. 
+ WORF: Caviar... for lunch? 
+ TROI: I'm in the mood for something salty. Besides, it's no stranger than what you're eating. 
+ 
+ ""Genesis"", The Next Generation, 1994-01-07",lunch,11.702487503301194,0.0,0.0
+164,90837,"PICARD: This is the captain. Senior officers will report to my Ready Room immediately. 
+ TASHA: So much for lunch. 
+ BEVERLY: Captain, are you suggesting they should return and attempt to complete their mission? 
+ 
+ ""Yesterday's Enterprise"", The Next Generation, 1989-12-08",lunch,11.571297672591427,0.0,0.0
+165,44143,"O'BRIEN: Not very hungry... 
+ KEIKO: I had a late lunch. 
+ KEIKO: How is it? 
+ 
+ ""Whispers"", Deep Space Nine, 1993-11-16",lunch,11.443016620141517,0.0,0.0
+166,33271,"BASHIR: I'm afraid we'll have to wait to see what this becomes before we have a clue... You can transfer it to the larger field now... 
+ SISKO: Care for some lunch? 
+ BASHIR: Sure. 
+ 
+ ""CAST"", Deep Space Nine, 1992-09-18",lunch,11.317548665291852,0.0,0.0
+167,55948,"QUARK: Do you know how to make Hasperat souffle? 
+ QUARK: Lunch for Major Kira. 
+ CARDASSIAN OFFICER: Major Kira has already been fed. 
+ 
+ ""The Sacrifice of Angels"", Deep Space Nine, 1997-08-25",lunch,11.194802278265893,0.0,0.0
+168,6357,"BASHIR: Say you agree. Say you disagree. Say you hate theater. Just say something. 
+ O'BRIEN: Look, Julian, you said you wanted to have lunch... so we're having lunch. 
+ BASHIR: Yes. But I was hoping for a little more... conversation with my plomeek soup. 
+ 
+ ""The Die is Cast"", Deep Space Nine, 1995-02-14",lunch,10.768043264545897,0.0,0.0
+169,71463,"GARAK: No. But it seems there's a great deal they didn't teach me. Like the value of a good game of chance... or how indulging in fantasy can keep one's mind... creative. 
+ BASHIR: See you at lunch tomorrow? 
+ GARAK: Of course. But why don't we have lunch at your place -- in Hong Kong. That is, if this wasn't your last mission. 
+ 
+ ""Our Man Bashir"", Deep Space Nine, 1995-10-26",lunch,10.618953977003681,0.0,5.82491695693717
+170,143980,"ATTENDANT: That's what you said the last time. 
+ ATTENDANT: I'll be back with your lunch. 
+ INMATE: I hear you're a Starfleet officer... 
+ 
+ ""Frame of Mind"", The Next Generation, 1993-02-16",lunch,10.301029799487688,0.0,0.0
+171,3823,"O'BRIEN: Tomorrow morning it is. 
+ BILBY: Come on. Let's get some lunch... 
+ O'BRIEN: Bilby wants me to fix this for him. 
+ 
+ ""Honor Among Thieves"", Deep Space Nine, 1997-12-01",lunch,10.301029799487688,0.0,0.0
+172,141766,"GABRIELLE: What is this for? 
+ FRANCINE: My lunch. Feed it to the birds. 
+ GABRIELLE: He will come. He will. 
+ 
+ ""We'll Always Have Paris"", The Next Generation, 1988-02-22",lunch,10.199243686115457,0.0,0.0
+173,88908,"RIKER: I'm with you... 
+ RIKER: Lunch time, O'Brien! Let's do it! 
+ BEVERLY: Easy, Deanna... 
+ 
+ ""Power Play"", The Next Generation, 1991-11-26",lunch,10.099449420520251,0.0,0.0
+174,26436,"ODO: Not at all. 
+ KIRA: Then can I interest you in lunch? 
+ ODO: Where shall we go? 
+ 
+ ""STAR TREK:  DEEP SPACE NINE"", Deep Space Nine, 1998-03-27",lunch,9.90560705115123,0.0,0.0
+175,25204,"COMPUTER: Command unclear. Please repeat. 
+ BASHIR: Glass lunch judge a bin to let it... 
+ COMPUTER: Command unclear. Please repeat. 
+ 
+ ""Babel"", Deep Space Nine, 1992-10-07",lunch,9.811449707564018,0.0,0.0
+176,226,"ODO: Weren't you supposed to be working on some optronic circuitry on Level Five? 
+ O'BRIEN: I was going to the Replimat... for lunch. 
+ BASHIR: Keiko's going to be all right. She's lucky she landed the way she did. It distributed the impact. A fall from that height could easily have killed her, or left her paralyzed. 
+ 
+ ""STAR TREK:  DEEP SPACE NINE"", Deep Space Nine, 1996-08-29",lunch,9.452064841091708,0.0,0.0
+177,23676,"QUARK: It's never too late. So how long are you going to be on the station? 
+ GARAK: Thank you for another enjoyable lunch. Doctor. 
+ NATIMA: I didn't think there'd be any Cardassians left on the station. 
+ 
+ ""Profit and Loss"", Deep Space Nine, 1994-01-13",lunch,8.882676589453075,0.0,0.0
+178,89422,"COMPUTER: Ten Hundred hours: counseling session with -- 
+ TROI: Cancel them. Cancel everything until after lunch. 
+ COMPUTER: Acknowledged. 
+ 
+ ""Man of the People"", The Next Generation, 1992-07-24",lunch,8.659124362017632,0.0,0.0
+179,4721,"WORF: It is a private matter. 
+ DAX: Worf is upset that I had lunch with Captain Boday. 
+ ODO: The Gallamite? 
+ 
+ ""Let He Who Is Without Sin ... "", Deep Space Nine, 1996-09-05",lunch,8.516237707696508,0.0,0.0
+180,32727,"SISKO: Memories... events from my past... like this one... 
+ JAKE ALIEN: Past? 
+ SISKO: Things that happened before now... 
+ 
+ ""#40511-721"", Deep Space Nine, 1992-08-10",past,10.2981648876336,6.871536134498819,0.0
+181,5688,"JAKE: What's this? 
+ NOG: ""Past Prologue."" 
+ JAKE: What's it doing out here? 
+ 
+ ""The Ascent"", Deep Space Nine, 1996-09-27",past,9.210365079142777,0.0,0.0
+182,129624,"PHILLIPA: What makes you think it's a man? 
+ PICARD: Past experience. 
+ PHILLIPA: Cute. Try to remember that you're an officer and a gentleman. You know, I never thought I would say this, but it is good to see you again. You're still a damn sexy man, Picard. 
+ 
+ ""The Measure of a Man"", The Next Generation, 1988-12-14",past,8.999124721585249,0.0,0.0
+183,13201,"KIRA: Let me tell you something, Odo. 
+ KIRA: We are way past ""sorry."" 
+ O'BRIEN: Sir, incoming message from the Cortez. They're still having trouble stabilizing the guidance thrusters on their port nacelle. 
+ 
+ ""Favor the Bold"", Deep Space Nine, 1997-08-13",past,8.419798729946534,0.0,0.0
+184,4059,"O'BRIEN: Watch out for recursive dataloops, you don't want to get diverted into a backflow. 
+ KROLE: I'm past the lockouts. 
+ O'BRIEN: Sweep the matrix... give me an access point... 
+ 
+ ""Honor Among Thieves"", Deep Space Nine, 1997-12-01",past,8.419798729946534,0.0,0.0
+185,133511,"TROI: All right, I'll admit that was a catalyst. But I can honestly say it's something I have thought about off and on over the past two years. 
+ RIKER: Why the past two years? 
+ TROI: Do you remember when the Enterprise hit that quantum filament... and I was left in command on the Bridge? 
+ 
+ ""Thine Own Self"", The Next Generation, 1993-11-30",past,8.330419142490403,3.805711510349788,0.0
+186,75741,"PICARD: All stop. Put it onscreen. 
+ PICARD: It's bigger in the past... 
+ TROI: Sir? 
+ 
+ ""All Good Things... "", The Next Generation, 1994-03-10",past,8.242917224147748,0.0,0.0
+187,142081,"PICARD: You've got three minutes, no more. Transporter Room, lock onto their coordinates and be ready to beam them up the instant of my command. 
+ WORF: He's past the halfway mark. 
+ RIKER: Captain, I need more time. 
+ 
+ ""We'll Always Have Paris"", The Next Generation, 1988-02-22",past,7.991103873587357,0.0,0.0
+188,115734,"WORF: No reaction from the assimilator. 
+ RIKER: We're past the first hurdle. 
+ WORF: Sir! Object to port -- 
+ 
+ ""Booby Trap"", The Next Generation, 1989-08-31",past,7.910550585892257,0.0,0.0
+189,76525,"PICARD: Shakespeare enjoyed mixing opposites... 
+ PICARD: Past and future... Despair and hope... 
+ PICARD: Data, is this part of your program? 
+ 
+ ""Emergence"", The Next Generation, 1994-02-17",past,7.530975471265894,0.0,0.0
+190,45442,"QUARK: Durg. Wake up. This is Quark, you're talking to. Remember. 
+ DURG: All past debts have been settled. 
+ QUARK: They'll never be settled. You'd still be rotting in a Cardassian jail if I hadn't... 
+ 
+ ""The Passenger"", Deep Space Nine, 1992-11-25",past,7.530975471265894,0.0,0.0
+191,3832,"CHADWICK: The Syndicate killed another one of our undercover operatives last week. 
+ O'BRIEN: That makes five in the past year. 
+ CHADWICK: We need you to find out who their informant in Starfleet is. Once you give me the name, I'll put you on the next transport home. 
+ 
+ ""Honor Among Thieves"", Deep Space Nine, 1997-12-01",past,7.530975471265894,0.0,0.0
+192,130566,"FIRST EDO BOY: Couldn't you see the fence? That's for new plants... 
+ SECOND EDO BOY: Don't ever go past a white marker! 
+ WESLEY: What's wrong? 
+ 
+ ""Justice"", The Next Generation, 1987-09-04",past,7.459390091255041,0.0,0.0
+193,26119,"MARTOK: It's true. 
+ GOWRON: Then what's past is past! If Martok considers you his brother, that's all I need to know. 
+ GOWRON: Come! I brought a barrel of the finest bloodwine and it must be drunk tonight! 
+ 
+ ""When it Rains... "", Deep Space Nine, 1999-02-16",past,7.4484741891610655,0.0,0.0
+194,121892,"WESLEY: I don't have any more equations. 
+ TRAVELER: See past the numbers. Trust yourself... 
+ WESLEY: I can't. I can't do it. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",past,7.320225874614333,0.0,0.0
+195,17929,"ODO: Well I haven't forgiven you. DEEP SPACE NINE: ""Behind the Lines"" - REV. 8/21/97 - ACT TWO 18. 
+ FEMALE SHAPE-SHIFTER: It's time to put the past behind us. 
+ ODO: What about the present? You're waging war against my home. 
+ 
+ ""Behind the Lines"", Deep Space Nine, 1997-08-05",past,7.320225874614333,0.0,0.0
+196,69431,"QUARK: With me? Uh, perhaps I should explain about that slip-of-the- tongue.... 
+ SAKONNA: Your past is of no consequence to me. 
+ QUARK: I'm... delighted to hear you say that. Because nothing would please me more than to make a fresh start with the Vulcans, Ms... ? 
+ 
+ ""The Maquis, Part I"", Deep Space Nine, 1994-02-04",past,7.252572981731343,0.0,0.0
+197,79015,"TROI: Careful, sir. This is not an illusion or a dream. 
+ PICARD: But these courts happened in our past.... 
+ TROI: I don't understand either, but this is real. I can feel that! 
+ 
+ ""Encounter at Farpoint"", The Next Generation, 1987-04-13",past,7.186159122151276,0.0,0.0
+198,90846,"RIKER: But that's what you're talking about doing anyway, isn't it? Altering the past. 
+ PICARD: We're talking about restoring the past. 
+ GEORDI: How could Guinan know that history has been altered... if she's been altered along with the rest of us? 
+ 
+ ""Yesterday's Enterprise"", The Next Generation, 1989-12-08",past,7.120950566212261,5.295099106906529,0.0
+199,32829,"JAKE ALIEN: Then how can you take responsibility for your actions... 
+ SISKO: We use past experience to help guide us. 
+ SISKO: For Jennifer and me, all the experiences in our lives prepared us for the day we met on the beach... helped us recognize that we had a future together. When we married, we accepted all the consequences of that act, whatever they might be... including the consequence of you. 
+ 
+ ""#40511-721"", Deep Space Nine, 1992-08-10",past,7.056914797520127,0.0,0.0
+200,111080,"RASMUSSEN: ""Picard's empath won't trust you."" That's what they all said. 
+ TROI: Picard's empath? 
+ RASMUSSEN: We're not that unalike, you and I. You possess a sense that is foreign to the others. My knowledge of the future is similar. You know, some of my best friends are empaths... they trust me. 
+ 
+ ""A Matter of Time"", The Next Generation, 1991-09-25",empath,13.85732725102839,9.35271758650716,0.0
+201,142004,"BEVERLY: That's not why you're here. 
+ TROI: I'm supposed to be the empath. 
+ TROI: Are you all right? 
+ 
+ ""We'll Always Have Paris"", The Next Generation, 1988-02-22",empath,11.94035689554876,0.0,0.0
+202,111816,"KAMALA: My body is producing an unusually elevated level of what you would call pheromones. The effect can be quite... provocative. Perhaps you sense it... 
+ RIKER: Ah, unfortunately, I'm not an empath... 
+ KAMALA: Oh, I think you are more empathic than you admit... at least when it comes to women... 
+ 
+ ""The Perfect Mate"", The Next Generation, 1992-02-10",empath,11.378207507629337,0.0,0.0
+203,101169,"TROI: It's not easy having an overbearing parent. Believe me, I know how you feel. 
+ JEV: Oh, yes... I was told you were an empath. 
+ TROI: I can't read Ullians. But, I do know a certain Betazoid mother who is a great deal like your father. 
+ 
+ ""Violations"", The Next Generation, 1991-10-25",empath,11.167894692997885,0.0,0.0
+204,108513,"DEVINONI: Deanna, it's just business... 
+ TROI: Why haven't you told anyone that you're an empath? 
+ DEVINONI: I find it makes people uncomfortable. 
+ 
+ ""The Price"", The Next Generation, 1989-09-25",empath,9.970044913786685,0.0,0.0
+205,111079,"TROI: Should I? 
+ RASMUSSEN: ""Picard's empath won't trust you."" That's what they all said. 
+ TROI: Picard's empath? 
+ 
+ ""A Matter of Time"", The Next Generation, 1991-09-25",empath,9.35271758650716,0.0,13.85732725102839
+206,102079,"PICARD: Well? 
+ TROI: I don't think you need an empath to sense that woman's feelings. 
+ TROI : There's hostility... that she seems to have transferred from Lore... to Data... 
+ 
+ ""Silicon Avatar"", The Next Generation, 1991-07-31",empath,8.937664453096374,0.0,0.0
+207,108520,"DEVINONI: Deanna, people have been doing that for thousands of years, by listening carefully, by watching body language. I just happen to be better at it. You do it. 
+ TROI: I do it to help my crew, not outmanueuver them. And I don't hide that I'm an empath. 
+ DEVINONI: You announce it to every alien culture you encounter? Or do you use it to give your side an advantage. Do you tell the Romulan in the ship about to attack that you can feel that he's bluffing or do you just tell it to your captain? 
+ 
+ ""The Price"", The Next Generation, 1989-09-25",empath,7.8875657471177805,0.0,0.0
+208,89351,"ALKAR: Tell me, Counselor... have you ever been involved in diplomatic negotiations? 
+ TROI: Several times... with Captain Picard. There've been instances when having an empath along has been helpful. 
+ ALKAR: I'm sure. I could use some of that help. Would you come with me when we reach Seronia? 
+ 
+ ""Man of the People"", The Next Generation, 1992-07-24",empath,6.936725847091339,0.0,0.0
+209,133051,"TROI: How do I know I won't be killed anyway? 
+ N'VEK: Your only chance to get off this ship alive is to do as I say. You are an empath. You would know if I am lying. Am I? 
+ TROI: No. 
+ 
+ ""Face of the Enemy"", The Next Generation, 1992-11-17",empath,6.524723305612936,0.0,0.0
+210,89390,"ALKAR: She was ninety-three... she'd lived a long life... I should be grateful for that. 
+ ALKAR: Counselor... there's a funeral meditation... part of our rituals... as an empath you're the only person on board who could perform it with me... 
+ TROI: I'd be glad to help... 
+ 
+ ""Man of the People"", The Next Generation, 1992-07-24",empath,5.917631719678018,0.0,0.0
+211,111785,"BRIAM: No, Kamala... this is not Alrik. This is Captain Jean-Luc Picard of the Federation Starship Enterprise. 
+ KAMALA: That explains why you don't look at all like your holographs. I apologize, Captain. As an empath, I could sense your authority. I assumed that you were Chancellor Alrik... 
+ PICARD: I'm afraid I require an explanation... 
+ 
+ ""The Perfect Mate"", The Next Generation, 1992-02-10",empath,5.137680720039053,0.0,0.0
+212,136807,"TROI: So just as I'm leaving the reception, a Ktarian walks up to me and says... 
+ TROI: ""So Diane... I understand you're an empath. I'm a very... sensitive man myself. I'm doing a thesis on interspecies mating rituals. Would you care to join me in some empirical research?"" 
+ GEORDI: Don't tell me -- Doctor Mizan. 
+ 
+ ""Timescape"", The Next Generation, 1993-03-29",empath,4.928152820977598,0.0,0.0
+213,89621,"PICARD: Then... you deliberately began using Deanna... 
+ ALKAR: She's an empath. I was reasonably certain I could establish a link with her. Frankly, I was amazed when I saw how quickly she was aging. Usually my receptacles survive for years. 
+ PICARD: Receptacles... ? 
+ 
+ ""Man of the People"", The Next Generation, 1992-07-24",empath,4.928152820977598,0.0,0.0
+214,27248,"WEYOUN: On the other hand, they're just as likely to convince you to betray us. 
+ BROCA: Me betray you? Never! 
+ FEMALE SHAPE-SHIFTER: You're right. Because we're not going to give you the opportunity. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",betray,12.381612075280275,7.997272465046736,0.0
+215,23789,"NATIMA: Then how could you have betrayed me? 
+ QUARK: I didn't betray you. 
+ NATIMA: Don't lie to me, Quark. I know better. You used my personal access codes to authorize payments for goods you never provided. 
+ 
+ ""Profit and Loss"", Deep Space Nine, 1994-01-13",betray,12.381612075280275,0.0,0.0
+216,100565,"PICARD: You see my problem, Admiral. You ask us for faith in circumstances not only difficult to believe but compounded by your own lies, and your own reluctance to tell us all you know... 
+ JAROK: I cannot betray my people... 
+ PICARD: You have already betrayed your people. You have made your choices. You are a traitor, sir. If the bitter taste of it disagrees with you, I am truly sorry. But I will not risk the lives of my crew because you think you can dance on the edge of the Neutral Zone. You have crossed over, Admiral. I suggest you make yourself comfortable. 
+ 
+ ""The Defector"", The Next Generation, 1989-10-16",betray,11.617336286940871,0.0,0.0
+217,23065,"ODO: Sounds like you're trying to talk yourself into something. Or out of something. 
+ KIRA: Either way, I have to betray someone. 
+ ODO: Only important thing is not to betray yourself. he looks at him... a beat... they both know what they're talking about here. 
+ 
+ ""Past Prologue"", Deep Space Nine, 1992-10-05",betray,10.533656868083868,0.0,6.000107706528331
+218,98993,"DURAS: Worf has made his choice and he will die for it. But you are still safe. Let him stand alone. He is no longer your brother... he is not one of us. I promise you no one will learn of your family line. You'll have your rank... maybe even a command of your own. 
+ KURN: He is my brother. I will not betray him! 
+ DURAS: Then you will die for him. 
+ 
+ ""Sins of the Father"", The Next Generation, 1990-01-05",betray,10.246903732737534,0.0,0.0
+219,54033,"ODO: It's strange. Bek and I were passing acquaintances here on the station. From what little I knew about him, I always thought he was a good man. 
+ KIRA: Good men don't betray their own people. 
+ ODO: If there's one thing I've learned about humanoids, it's that in extreme situations, even the best of you are capable of doing terrible things. 
+ 
+ ""The Collaborator"", Deep Space Nine, 1994-03-21",betray,10.246903732737534,0.0,0.0
+220,48709,"JARO: The last thing I need right now is a great war hero capturing the devotion of the Bajoran people. 
+ KIRA: How can you betray your own government? 
+ JARO: Major, I don't have to tell you. I've heard your opinion of this government. ""Government""? -- they can't even agree it is a government, so they call it ""provisional"" -- it's just another word for powerless. I won't allow Bajorans to be powerless anymore. We have been doormats to the Cardassians, and now the Federation, any great power that happens by... we will not be that again. We are a people who brought art and architecture to countless planets and we do not deserve to be victims. 
+ 
+ ""The Circle"", Deep Space Nine, 1993-07-12",betray,10.246903732737534,0.0,0.0
+221,31575,"INTENDANT: It's so good to see you. 
+ ROM: Our Ezri would never betray us, which means -- 
+ QUARK: Don't start with that again. 
+ 
+ ""The Emperor's New Cloak"", Deep Space Nine, 1998-10-26",betray,9.888001413790176,0.0,0.0
+222,40825,"QUARK: I know, I know. He couldn't find a cup of water if you dropped him in a lake... but even if he is an idiot, he's still my brother... 
+ ODO: And you'd betray him in a second if it suited your interests. 
+ QUARK: But that doesn't mean I don't love him... Chief, do you have any brothers? 
+ 
+ ""Invasive Procedures"", Deep Space Nine, 1993-07-29",betray,8.541704996008136,0.0,0.0
+223,27247,"BROCA: Exactly. 
+ WEYOUN: On the other hand, they're just as likely to convince you to betray us. 
+ BROCA: Me betray you? Never! 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",betray,7.997272465046736,0.0,12.381612075280275
+224,54783,"WORF: I am no hero. But it is my duty to defend the Federation -- that is where my honor lies. 
+ KURN: Maybe it is where your honor lies. But why should I betray our people for your honor? 
+ WORF: Kurn... let me ask you this: do you agree with what has happened between the Empire and the Federation? 
+ 
+ ""The Sons of Mogh"", Deep Space Nine, 1995-12-06",betray,7.275881584874212,0.0,0.0
+225,41173,"SISKO: You're wrong. He does need you... now more than ever. 
+ MAREEL: (knows what he's getting at) You never give up, do you. I told you, I'm not going to betray him. 
+ SISKO: I'm not asking you to. I'm asking you to save him... to help us save him. 
+ 
+ ""Invasive Procedures"", Deep Space Nine, 1993-07-29",betray,6.961884529601964,0.0,0.0
+226,63414,"KIRA: All you have to do is look at the guard outside to see how much she trusts me. 
+ GARAK: I arranged the guard. Oh, she trusts you. As much as she trusts anyone. So who better to betray her... 
+ KIRA: You're taking quite a risk coming to me like this... 
+ 
+ ""Crossover"", Deep Space Nine, 1994-03-08",betray,6.753697568345854,0.0,0.0
+227,31423,"EZRI: I'm not a traitor. 
+ O'BRIEN: She's right. You have to believe in something before you can betray it. And you don't believe in anything. 
+ EZRI: I believe in getting paid for my work -- and you still owe me for the last job I did for you. 
+ 
+ ""The Emperor's New Cloak"", Deep Space Nine, 1998-10-26",betray,6.4453143092602,0.0,0.0
+228,53973,"KIRA: What did he tell you about the massacre? 
+ BAREIL: Nerys, you have to understand, he was a monk speaking in confidence to his Vedek. I can't betray that trust. 
+ KIRA: I understand. But is there anything else you think I should know? About Bek, or the massacre? 
+ 
+ ""The Collaborator"", Deep Space Nine, 1994-03-21",betray,6.408735334022505,0.0,0.0
+229,132289,"PICARD: A Starfleet Commander might be able to talk us past the outpost security without raising any suspicions. Once they drop their shields, we could beam the artifacts up without having to leave the ship. 
+ VEKOR: Why would Riker help us? Just because he's out of favor with Starfleet doesn't mean he's ready to betray them. 
+ PICARD: If he doesn't help us, we'll destroy the outpost and kill everyone on it. He's still a Starfleet officer... he won't let innocent people die if he can prevent it. 
+ 
+ ""Gambit, Part I"", The Next Generation, 1993-07-26",betray,6.266479191846928,0.0,0.0
+230,23066,"KIRA: Either way, I have to betray someone. 
+ ODO: Only important thing is not to betray yourself. he looks at him... a beat... they both know what they're talking about here. 
+ KIRA: How could I possibly turn against my own people? 
+ 
+ ""Past Prologue"", Deep Space Nine, 1992-10-05",betray,6.000107706528331,10.533656868083868,0.0
+231,31606,"EZRI: No! 
+ INTENDANT: He was going to betray me. I could see it in his eyes. (looking hard into her eyes) You wouldn't do that, would you? Of course not. 
+ INTENDANT: I've suffered so much disappointment in my life. Brunt, Sisko, Bareil... the list just goes on and on. (looking down at Brunt's body) Dispose of that, will you? It depresses me. 
+ 
+ ""The Emperor's New Cloak"", Deep Space Nine, 1998-10-26",betray,5.755458367236687,0.0,0.0
+232,129424,"RIKER: I can get you aboard... and I can find that artifact. 
+ PICARD: Oh, how convenient... we'll just beam you aboard your old ship and then hope that you won't change your mind and decide to betray us? 
+ RIKER: I've already saved your life twice, Galen. I'd think you'd start to show a little gratitude by now. 
+ 
+ ""Gambit, Part II"", The Next Generation, 1993-08-06",betray,5.640465746628528,0.0,0.0
+233,41013,"SISKO: I'm sorry, but if he told you that, he's lying. When a Trill is joined, it's like a rebirth. He'll be an entirely different person. 
+ MAREEL: If you think I'm going to betray Verad, you're wrong. It doesn't matter what you say. I love him... and I'm going to stand by him... no matter what. 
+ VERAD : I never doubted it. 
+ 
+ ""Invasive Procedures"", Deep Space Nine, 1993-07-29",betray,5.372131150233608,0.0,0.0
+234,121836,"TRAVELER: Actually, it didn't reach me... not by subspace... 
+ GEORDI: Then how did you know about the warp bubble? 
+ TRAVELER: It would take too long to explain... 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,15.660154805325401,0.0,0.0
+235,121910,"TRAVELER: There... there it is... 
+ TRAVELER: We're moving into phase now ... there's your warp bubble, Wesley... 
+ WESLEY: What? What's wrong. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,13.750419173460397,0.0,0.0
+236,15137,"ULANI: If you can generate a subspace field around the fragments, that might contain the silithium. 
+ O'BRIEN: The warp drive... it could create a subspace bubble around the ship... 
+ DAX: But we'd have to maneuver the Defiant between the fragments... they're so close together, there's not enough room... 
+ 
+ ""CAST"", Deep Space Nine, 1994-12-02",warp bubble,13.245641409428295,0.0,0.0
+237,136613,"DATA: There have been reports of warp bubbles and other subspace deformations. 
+ GEORDI: So what if that's what happened? Not a warp bubble, but a subspace funnel. 
+ DATA: Connecting two points through subspace. 
+ 
+ ""Interface"", The Next Generation, 1993-07-14",warp bubble,12.598171159676987,4.520910447401103,0.0
+238,10024,"QUARK: It most certainly is. (sees something else and lets go) And what's that over there? 
+ ROM: Trixian bubble juice. 
+ QUARK: Nog's favorite. This came from my stockroom, didn't it? 
+ 
+ ""Prophet Motive"", Deep Space Nine, 1994-12-07",warp bubble,12.545028825303417,0.0,0.0
+239,121955,"BEVERLY: Just get me anywhere on Deck Thirty-Six! 
+ GEORDI: We're losing the bubble... 
+ BEVERLY: Jean-Luc... (sees the Traveler, reacts) You... 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,12.14971351075499,0.0,0.0
+240,121705,"GEORDI: Here's what the computer recorded. 
+ WESLEY: This is the static warp field we created inside the warp drive. The experiment was designed to see if we could keep a bubble like this intact. 
+ GEORDI: As you'll see in a moment, we couldn't. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,10.342223124138652,0.0,0.0
+241,121929,"RIKER: Geordi, we're in position... your status? 
+ GEORDI: The warp bubble is contracting at a rate of fifteen meters per second... we'll lose it in about four minutes... 
+ TRAVELER: It's time, Wesley. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,10.18095171428217,0.0,0.0
+242,121943,"COMPUTER: Two minutes thirty seconds to life support failure. 
+ BEVERLY: Computer, hypothetical situation... a person is trapped inside a static warp bubble. Determine a means of escape... 
+ COMPUTER: Escape would theoretically depend on establishing a stable threshold between the warp field and the outer environment. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,10.067326734917865,0.0,3.421761876578452
+243,121914,"BEVERLY: Computer, give me a graphic representation of the universe. 
+ BEVERLY: I've seen that before... Wesley's experiment... the bubble. Of course... But that would mean I'm the one trapped in the bubble... 
+ BEVERLY: Computer, what's happening? 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,9.610464878681901,0.0,0.0
+244,121715,"GEORDI: No, sir. 
+ PICARD: And this bubble never expanded beyond Engineering? 
+ WESLEY: Nossir. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,9.543397450940764,0.0,0.0
+245,121750,"GEORDI: Well, there's nothing there now. And no sign there ever was. 
+ PICARD: Is there any possible connection to Mister Crusher's experiment... could this warp bubble be... floating around the ship perhaps... 
+ GEORDI: No, sir. The bubble was definitely contained in Engineering. There's no way it could affect something up on Deck Twelve. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,9.28973765555089,0.0,6.145956186412305
+246,102423,"JA'DAR: If our theories are correct, the wave will envelop the ship and push it into warp. 
+ PICARD: Warp without warp drive... 
+ RIKER: They're going to put you out of a job, Geordi. 
+ 
+ ""New Ground"", The Next Generation, 1991-10-04",warp bubble,8.765691122254717,4.253581462902485,0.0
+247,121709,"BEVERLY: I remember that. 
+ PICARD: Are you suggesting this bubble could have made Doctor Quaice disappear? 
+ WESLEY: If he were caught in it... yessir, it would seem to us like he'd disappeared. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",warp bubble,8.13406174729696,0.0,0.0
+248,131597,"PICARD: Speed -- warp five. 
+ GEORDI: Warp five. 
+ PICARD: ... And Worf. 
+ 
+ ""Heart Of Glory"", The Next Generation, 1988-01-13",warp bubble,7.972722239857207,7.4241574385113385,0.0
+249,108960,"GEORDI: We are passing warp eight point five. 
+ GEORDI: ... warp nine. 
+ RIKER: Arm the photon torpedoes. Recommend we try to slow them down. 
+ 
+ ""Q Who?"", The Next Generation, 1989-02-24",warp bubble,7.972722239857207,5.983275631408532,0.0
+250,138882,"PICARD: That's correct Mister La Forge, warp factor eight. 
+ GEORDI: Warp eight. 
+ PICARD: Engage. Mister La Forge, you have the bridge. 
+ 
+ ""The Neutral Zone"", The Next Generation, 1988-03-17",warp bubble,7.875733674390859,5.385957053750876,0.0
+251,133866,"GEORDI: Course plotted and set for Vagra Two. 
+ PICARD: Warp eight. 
+ LYNCH: Minimum warp drive, Captain. 
+ 
+ ""Skin of Evil"", The Next Generation, 1988-02-01",warp bubble,7.875733674390859,0.0,6.592553731665529
+252,119200,"WORF: The probe is still with us, sir. 
+ RIKER: At warp two? 
+ WORF: Yessir. 
+ 
+ ""The Nth Degree"", The Next Generation, 1991-01-25",warp bubble,7.781076489083763,0.0,0.0
+253,120923,"RIKER: Give us a superior curve, Mister Crusher. 
+ WESLEY: Warp three... warp four... The warship is simultaneously matching our curve point per point. Warp four point five... warp five... warp five point five... 
+ RIKER: Riker to La Forge. Give us everything you can to close the gap, Geordi. 
+ 
+ ""The Survivors"", The Next Generation, 1989-07-31",warp bubble,7.721065438137836,0.0,0.0
+254,1909,"BASHIR: Jadzia! 
+ BASHIR: Jadzia, Jadzia. 
+ GARAK: Ready, Doctor? 
+ 
+ ""Distant Voices"", Deep Space Nine, 1995-01-11",jadzia,11.7138701111619,10.31397274063161,0.0
+255,69287,"O'BRIEN: It better shift soon, or it's going to tear itself apart. 
+ DERAL: Jadzia... 
+ O'BRIEN: I'm picking up some kind of singularity in the planet's quantum matrix... it's interfering with the dimensional shift... 
+ 
+ ""Meridian"", Deep Space Nine, 1994-09-20",jadzia,10.31397274063161,0.0,0.0
+256,69148,"DERAL: (beginning to understand) How long? Meridian is going to shift in five days. 
+ DERAL: Jadzia... 
+ DAX: We'll see each other again... 
+ 
+ ""Meridian"", Deep Space Nine, 1994-09-20",jadzia,10.31397274063161,0.0,0.0
+257,69136,"QUARK: That's definitely a no... 
+ DERAL: Jadzia... 
+ DAX: I've been looking for you... 
+ 
+ ""Meridian"", Deep Space Nine, 1994-09-20",jadzia,10.31397274063161,0.0,0.0
+258,68494,"BASHIR: Excuse me for just one second. 
+ BASHIR: Jadzia... 
+ BASHIR: Do you happen to know when the Lexington is coming? 
+ 
+ ""Explorers"", Deep Space Nine, 1995-02-27",jadzia,10.31397274063161,0.0,0.0
+259,65919,"QUARK: We'll see. You might be surprised. 
+ WORF: Jadzia -- 
+ DAX: Can we please drop this? 
+ 
+ ""Who Mourns for Morn?"", Deep Space Nine, 1997-10-28",jadzia,10.31397274063161,0.0,0.0
+260,60963,"WORF: We detected your distress call a few hours ago. 
+ WORF: Jadzia... ? 
+ SISKO: She's hurt, but she'll be fine. She's back at the basecamp with Doctor Bashir and the chief. 
+ 
+ ""Rocks and Shoals"", Deep Space Nine, 1997-07-24",jadzia,10.31397274063161,0.0,0.0
+261,59231,"DAX: Almost done. 
+ BASHIR: Jadzia! 
+ BASHIR: Get me a medkit. 
+ 
+ ""Civil Defense"", Deep Space Nine, 1994-09-12",jadzia,10.31397274063161,0.0,0.0
+262,56161,"DAX: Worf! 
+ WORF: Jadzia. 
+ DAX: I guess the wedding's still on. 
+ 
+ ""The Sacrifice of Angels"", Deep Space Nine, 1997-08-25",jadzia,10.31397274063161,0.0,0.0
+263,53093,"BASHIR: Hurry. 
+ BASHIR: Jadzia! 
+ KIRA: The forcefield is down. 
+ 
+ ""Starship Down"", Deep Space Nine, 1995-09-11",jadzia,10.31397274063161,0.0,0.0
+264,51094,"WORF: Good. 
+ WORF: Jadzia. 
+ DAX: Yes. 
+ 
+ ""Soldiers of the Empire"", Deep Space Nine, 1997-02-13",jadzia,10.31397274063161,0.0,0.0
+265,47914,"DAX: Until now. 
+ ARJIN: Jadzia... 
+ DAX: I'm a level three pilot. You're level five. I'll do it if I have to. But I don't have time to argue... 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",jadzia,10.31397274063161,0.0,0.0
+266,43092,"WORF: Ready? 
+ WORF: Jadzia... ? 
+ DAX: Hhhh... hhhh... hypo. 
+ 
+ ""Change of Heart"", Deep Space Nine, 1997-12-12",jadzia,10.31397274063161,0.0,0.0
+267,43057,"WORF: Yes. But that's because something else is coming. And it's close. 
+ WORF: Jadzia? 
+ DAX: Painkillers... please. 
+ 
+ ""Change of Heart"", Deep Space Nine, 1997-12-12",jadzia,10.31397274063161,0.0,0.0
+268,42809,"WORF: On our way. 
+ WORF: Jadzia. 
+ DAX: Mmmm. 
+ 
+ ""Change of Heart"", Deep Space Nine, 1997-12-12",jadzia,10.31397274063161,0.0,0.0
+269,41198,"BASHIR : Commander? 
+ SISKO: Jadzia. 
+ SISKO: Are you... 
+ 
+ ""Invasive Procedures"", Deep Space Nine, 1993-07-29",jadzia,10.31397274063161,0.0,0.0
+270,31868,"JAKE: He followed me home from the holosuite. 
+ BASHIR: Jadzia! 
+ DAX: Hello, Julian. 
+ 
+ ""If Wishes Were Horses"", Deep Space Nine, 1993-02-24",jadzia,10.31397274063161,0.0,0.0
+271,13960,"DAX: Instinct. 
+ WORF: Jadzia -- 
+ DAX: What? 
+ 
+ ""A Simple Investigation"", Deep Space Nine, 1997-01-06",jadzia,10.31397274063161,0.0,0.0
+272,7223,"DAX: It's about time you came back. 
+ SISKO: Jadzia. 
+ DAX: That's to let you know I missed you. 
+ 
+ ""Through the Looking Glass"", Deep Space Nine, 1995-02-02",jadzia,10.31397274063161,0.0,0.0
+273,4758,"LEETA: Sorry. 
+ WORF: Jadzia... 
+ DAX: I know, I know. We have much to discuss. 
+ 
+ ""Let He Who Is Without Sin ... "", Deep Space Nine, 1996-09-05",jadzia,10.31397274063161,0.0,0.0
+274,54915,"LWAXANA: Because... 
+ LWAXANA: I'm pregnant... 
+ LWAXANA: It's a miracle. I never thought I'd be able to have another baby. 
+ 
+ ""The Muse"", Deep Space Nine, 1996-02-13",pregnant,13.736917292609618,0.0,0.0
+275,30804,"SISKO: What's wrong? 
+ KASIDY: I'm pregnant. 
+ SISKO: Are you sure? 
+ 
+ ""The Dogs of War"", Deep Space Nine, 1999-03-16",pregnant,13.736917292609618,0.0,0.0
+276,57947,"KEIKO: What's wrong? 
+ O'BRIEN: You're pregnant. 
+ KEIKO: That's right. 
+ 
+ ""CAST"", Deep Space Nine, 1996-01-24",pregnant,13.264331576023812,0.0,0.0
+277,67843,"KIRA: It did it again. 
+ KIRA: Odo... I'm pregnant. 
+ ODO: Yes. 
+ 
+ ""Body Parts"", Deep Space Nine, 1996-03-26",pregnant,13.113946937829033,0.0,0.0
+278,6016,"WORF: Ten. 
+ KIRA: I hate being pregnant. 
+ SISKO: I win. 
+ 
+ ""Broken Link"", Deep Space Nine, 1996-04-08",pregnant,12.410429415375564,0.0,0.0
+279,15395,"BASHIR: Ensign Vilix'pran is budding. The buds will be undergoing individuation in a little over a month. 
+ SISKO: You mean... he's pregnant? 
+ BASHIR: Twins. 
+ 
+ ""Heart of Stone"", Deep Space Nine, 1994-11-17",pregnant,12.27868766039103,0.0,0.0
+280,137567,"PICARD: This is Doctor Katherine Pulaski. We will handle the formal introduction later. 
+ PICARD: Counselor Deanna Troi is pregnant. 
+ RIKER: A baby! 
+ 
+ ""The Child"", The Next Generation, 1988-09-20",pregnant,10.9948274511617,0.0,0.0
+281,84172,"PICARD: Then perhaps we should locate a humanoid who's pregnant... 
+ DATA: Nurse Ogawa recently became pregnant... 
+ PICARD: Then we need to locate Nurse Ogawa. 
+ 
+ ""Genesis"", The Next Generation, 1994-01-07",pregnant,10.689987724945093,9.09324675946586,0.0
+282,80459,"PICARD: There is a possibility that the boy is my son... I was involved with his mother for a short time about twenty four years ago. I met her through a friend during shore-leave on Earth. It was all very romantic... -- probably because we both knew I'd be leaving in two weeks... we kept in touch for a short while, but we never managed to get together again... 
+ RIKER: And she never said anything about being pregnant... ? 
+ PICARD: No... either Bok's got it wrong and I'm not the father, or Miranda decided she wanted to raise the child on her own. Quite frankly it wouldn't surprise me. She was very independent... very strong-willed... 
+ 
+ ""Bloodlines"", The Next Generation, 1994-02-09",pregnant,9.622791651021481,0.0,0.0
+283,84171,"DATA: It would take further research, but I believe that to be effective on humanoid crewmembers, humanoid antibodies would be necessary. 
+ PICARD: Then perhaps we should locate a humanoid who's pregnant... 
+ DATA: Nurse Ogawa recently became pregnant... 
+ 
+ ""Genesis"", The Next Generation, 1994-01-07",pregnant,9.09324675946586,0.0,10.689987724945093
+284,12358,"DAX: McCoy... McCoy... 
+ BONES - CLIP: The nearest thing I can figure out is they're born pregnant. Which seems to be quite a timesaver. 
+ DAX: Leonard McCoy. I met him when he was a student at Ol' Miss. 
+ 
+ ""Trials and Tribble-ations"", Deep Space Nine, 1996-08-20",pregnant,6.917864042035585,0.0,0.0
+285,65139,"TREVEAN: I see that I misjudged you... 
+ BASHIR: Every pregnant woman should be inoculated as soon as possible... the antigen will protect their babies... 
+ TREVEAN: I'll see that it's done... 
+ 
+ ""The Quickening"", Deep Space Nine, 1996-03-06",pregnant,6.75623425648975,0.0,0.0
+286,55036,"ODO: Not at all. I'm happy for her. 
+ LWAXANA: Just don't go do what I did. Look for someone to fix your broken heart... then end up pregnant and on the run. 
+ ODO: I don't think there's too much danger of that happening. 
+ 
+ ""The Muse"", Deep Space Nine, 1996-02-13",pregnant,6.527471349060289,0.0,0.0
+287,72618,"KIRA: I couldn't stop thinking about Latha. All the firefights and bombings he'd lived through... and then to get killed during a religious ceremony... 
+ KIRA: You know, if I wasn't pregnant... I'd be down on Bajor right now looking for a way to narrow down the suspects. 
+ O'BRIEN: You're safer here on the station. 
+ 
+ ""The Darkness and the Light"", Deep Space Nine, 1996-10-22",pregnant,6.490841874648485,0.0,0.0
+288,13362,"QUARK: Sounds reasonable. 
+ KIRA: So did your father just sit you down one day and say, ""Miles, it's time to teach you about massaging pregnant women."" 
+ O'BRIEN: It's an O'Brien survival technique. My mother hated being pregnant. My father's massages were the only thing that kept her from killing everyone. 
+ 
+ ""Looking For par'Mach in All the Wrong Places"", Deep Space Nine, 1996-07-25",pregnant,6.279416903043637,0.0,5.399957846425025
+289,72856,"SILARAN: Its heart beats faster as panic starts to creep into its soul. Does it understand? Or is it so blinded by the light that it can think only of returning to the velvet cloak of darkness? No matter. Perhaps it is better that it never realizes how close death has come. But make no mistake there is no escape. It has reached the end, and soon it will die. 
+ KIRA: What's the matter, Silaran? Are you so afraid of a pregnant woman in a restraining field that you have to hide in the dark? 
+ SILARAN: It bares its tiny fangs, hoping for a chance to strike, to sink its teeth deep into the flesh of its tormentor. But that chance will never come... 
+ 
+ ""The Darkness and the Light"", Deep Space Nine, 1996-10-22",pregnant,6.018050468313646,0.0,0.0
+290,13772,"ARISSA: You know how Idanians are... they're a secretive race. 
+ ODO: You realize that it would be a simple matter for me to have a Doctor examine you to determine if you've ever been pregnant? 
+ ARISSA: You keep threatening to have me stripped down and examined. I'm trying not to read too much into that. 
+ 
+ ""A Simple Investigation"", Deep Space Nine, 1997-01-06",pregnant,5.95607346824259,0.0,0.0
+291,13363,"KIRA: So did your father just sit you down one day and say, ""Miles, it's time to teach you about massaging pregnant women."" 
+ O'BRIEN: It's an O'Brien survival technique. My mother hated being pregnant. My father's massages were the only thing that kept her from killing everyone. 
+ KIRA: Sounds like me. 
+ 
+ ""Looking For par'Mach in All the Wrong Places"", Deep Space Nine, 1996-07-25",pregnant,5.399957846425025,6.279416903043637,0.0
+292,88638,"TROI: I'm not saying we should accept her claim at face value... but I sensed no deception from her. She really believes that she is the daughter of Tasha Yar. 
+ BEVERLY: Regardless of what she believes, Sela cannot be her daughter. I've reviewed all of Tasha's medical records, and there is no indication that she was ever pregnant. 
+ PICARD: Besides, Tasha would have been a child when this woman was born. 
+ 
+ ""Redemption II"", The Next Generation, 1991-07-01",pregnant,5.02463937960028,0.0,0.0
+293,7606,"KIRA: I can answer that. 
+ DUKAT: Major, I must say, I'm shocked. You used my daughter to lure me here. You're asking me to risk my ship on some fool's errand into the Klingon Empire. And you're pregnant. I hope First Minister Shakaar appreciates what a lucky man he is. 
+ KIRA: Shakaar's not the father. 
+ 
+ ""Apocalypse Rising"", Deep Space Nine, 1996-07-03",pregnant,3.840223063220871,0.0,0.0

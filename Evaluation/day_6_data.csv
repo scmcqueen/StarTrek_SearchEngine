@@ -1,269 +1,1341 @@
-,indices,choices,search
-0,535,"ODO: How do you feel -- better? ODO: I realize you can't understand a word I'm saying, but that doesn't matter. I know you're aware of me. You see, I was once like you. I spent months in a lab being poked and prodded by a scientist who didn't even realize I was a lifeform. I was just a specimen, a mystery that needed to be unraveled. He never talked to me. It didn't occur to him. I didn't know what I was, or what I was supposed to do. I was lost, alone. ODO: But it's not going to be that way for you. I'm not going to make the same mistakes that were made with me.",unraveled
-1,19114,O'BRIEN: To friendship. BASHIR: To friendship. O'BRIEN: We already did that.,friendship
-2,19113,BASHIR: You. To Miles Edward O'Brien. O'BRIEN: To friendship. BASHIR: To friendship.,friendship
-3,122958,"GUINAN: We... become friends... PICARD: It goes beyond friendship. GUINAN: But... I have to wait... almost five hundred years... And when we meet... I won't be able to tell you about this, will I?",friendship
-4,87176,KAZAGO: We are not selling it to him? BOK: Call it an act of friendship. RATA: At no cost!? Ugly. Very ugly!,friendship
-5,29961,KIRA: (very softly; defenseless) I tried to tell you the truth a hundred times. What you think of me... matters a lot. I was afraid... ODO: ... it might affect our friendship? ODO: Maybe it doesn't have to.,friendship
-6,16896,"SISKO: Well, if you ask me the price is too damn high. What's the Federation supposed to get out of all this? BORATH: Our friendship. Isn't that enough? NECHEYEV: And you Benjamin, get a promotion. Captain Sisko. That's an important step toward that Admiralcy you've always wanted.",friendship
-7,83528,RIKER: I find them very much as we were a few hundred years ago... but with the technology we have now. They're very dangerous... KAYRON: Untrue! We seek friendship with you... RIKER: But we can hardly hate what we once were. They may grow and learn...,friendship
-8,36207,"PEL: I see. QUARK: ""Never place friendship above profit."" PEL: The twenty-first Rule of Acquisition.",friendship
-9,143296,"REMMICK: On my way, sir. PICARD: This has been a strain on our friendship. QUINN: I know. Believe me, Jean-Luc, I regret that, but it has been necessary.",friendship
-10,8961,"QUARK: I can't. It's a gift. DAX: You think you can buy back my friendship? QUARK: It's not a bribe... Chances are I won't be needing it anymore. Good-bye, Dax.",friendship
-11,16167,"GOWRON: Yes, yes. I know you did what you thought was right. And even though you may have made some enemies, I assure you I am not one of them. WORF: I'm glad. Your friendship means much to me. GOWRON: And yours to me. It has been too long since you last fought at my side. But now the time has come again. We will do great deeds in the coming days. Deeds worthy of song.",friendship
-12,129902,"PICARD: Why? DATA: It is a reminder of friendship and service. PICARD: (lifts out the holocube, and triggers it; Tasha stands before them) And this? You have no portraits of any other of your crewmates. Why this person?",friendship
-13,118317,RIKER: I just don't want to believe it. TROI: Have you ever heard Data define friendship? RIKER: No...,friendship
-14,136215,"MARTA: I remember thinking... that's me. I'm not going to make it. Then I looked to my right... and there you were with this cocky look on your face... and you said, ""we'll see about that."" From that moment, I knew I wanted you as a friend. MARTA: And now... I'm afraid we've ruined that friendship. PICARD: Perhaps we should just... pretend that this never happened and try to...",friendship
-15,142244,"TROI: And you are about to put your career at risk for him. PICARD: Isn't that what friendship's all about, Counselor? TROI: -- They illicitly used the emergency channel to draw you here. Then they asked you to keep secrets from your superiors. Effectively, to disobey Starfleet regulations.",friendship
-16,136156,"Q: My, my... we're simply riddled with regrets about our youth, aren't we? PICARD: My friendship with Marta is not something I regret. Q: But you do wish you'd been more than just... friends, don't you? Well... here's your chance to change all that.",friendship
-17,129310,"WORF: Aye, sir. DATA: Mister Worf... I am sorry if I have ended our friendship. WORF: Sir... it is I who has jeopardized our friendship, not you. If you will... overlook this incident, I would like to continue to consider myself your friend.",friendship
-18,61507,"KIRA: Is it my imagination, or did the kid just cover for him? SISKO: This could be the beginning of a beautiful friendship. WORF: They're getting smaller.",friendship
-19,114113,"DATA: I am going to miss her, Captain. PICARD: That too is part of friendship, remembrance and regrets. DATA: Yes, sir.",friendship
-20,95099,"GUINAN: Shut up, kid. Now, tell me more about my eyes. TROI: He's relaxed... experiencing feelings of warmth. Friendship. PULASKI: He's reliving memories. That's a natural side effect of the neural stimulation.",friendship
-21,108817,"WORF: I detect no shields, no weapons of any known design. PICARD: Hailing frequencies. WORF: Open.",hailing frequencies
-22,83368,"PICARD: Excellent. We will transmit that information shortly. Enterprise out. TASHA: Hailing frequencies off. PICARD: I'll log that as ""promising,"" at least.",hailing frequencies
-23,141807,"DATA: No, sir. PICARD: Open hailing frequencies. WORF: Hailing frequencies open, sir.",hailing frequencies
-24,141501,PICARD: Open hailing frequencies. WORF: Hailing frequencies open. WORF: They are returning our hail on the proper channel.,hailing frequencies
-25,141500,WORF: We could swat both mosquitoes easily. PICARD: Open hailing frequencies. WORF: Hailing frequencies open.,hailing frequencies
-26,141284,"PICARD: Captain's log, supplemental. We have just encountered and identified an interplanetary cargo vessel which is apparently in need of emergency assistance. We will make every effort to do so. Open hailing frequencies. WORF: Hailing frequencies open. PICARD: This is the USS Enterprise. Captain Jean-Luc Picard, over.",hailing frequencies
-27,139236,"PICARD: Lieutenant, keep your emotions under control. Open hailing frequencies. WORF: Hailing frequencies open. PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise.",hailing frequencies
-28,138636,RIKER: So much for the cease-fire. PICARD: Open hailing frequencies. WORF: I can establish voice only.,hailing frequencies
-29,138115,"PICARD: Open hailing frequencies. WORF: Hailing frequencies open. PICARD: Darwin Station. This is Captain Jean-Luc Picard of the USS Enterprise, on course for Gagarin Four.",hailing frequencies
-30,138114,RINA: Deal. PICARD: Open hailing frequencies. WORF: Hailing frequencies open.,hailing frequencies
-31,138013,"PICARD: Open hailing frequencies. WORF: Hailing frequencies open. PICARD: Lantree, this is the Enterprise.",hailing frequencies
-32,138012,GEORDI: Ensign... maybe you better stay in the control room. PICARD: Open hailing frequencies. WORF: Hailing frequencies open.,hailing frequencies
-33,137605,"PICARD: Open hailing frequencies. WORF: Hailing frequencies open. PICARD: 'Aucdet Nine, this is Captain Jean-Luc Picard of the USS Enterprise.",hailing frequencies
-34,137604,"WESLEY: Standard orbit, aye. PICARD: Open hailing frequencies. WORF: Hailing frequencies open.",hailing frequencies
-35,137496,NELLA: Don't give up your music. RIKER: Open hailing frequencies. WORF: Hailing frequencies opened.,hailing frequencies
-36,135125,"PICARD: Open hailing frequency. TASHA: Hailing frequencies open. PICARD: Unidentified freighter, this is the USS Enterprise. May we be of assistance?",hailing frequencies
-37,134881,"WESLEY: Commander, Romulan vessel! RIKER: Open hailing frequencies. WILLIAMS: They're arming photon torpedoes!",hailing frequencies
-38,134554,"PICARD: Open hailing frequencies, Mister Worf. WORF: Hailing frequencies open. DATA: Sir, it is unlikely that Daled Four will respond.",hailing frequencies
-39,134232,"PICARD: Open hailing frequencies, Mister Worf. WORF: Hailing frequencies open. PICARD: This is Captain Picard of the USS Enterprise.",hailing frequencies
-40,131694,WORF: We have a Klingon vessel approaching. PICARD: Hailing frequencies open. WORF: They are returning our hail in proper language. It is the Pagh.,hailing frequencies
-41,47736,"KIRA: What? O'BRIEN: A universe? DAX: What we have here, Benjamin, is a proto-universe in its earliest stages of formation. Unfortunately, as it grows, it's displacing our own universe.",universe
-42,46217,JACK: Yes. Exactly. We have to find some way to decrease the mass... SARINA: Of the entire universe? JACK: That's the whole point.,universe
-43,31585,"ZEK: Simple, really. I came to find new financial opportunities for the Ferengi people. ROM: In the Alternate Universe? ZEK: It seemed like a good idea at the time...",universe
-44,40481,"KIRA: The ""Eye?"" HANEEK: The Eye of the Universe... The tunnel... ODO: I think she means the wormhole.",universe
-45,47734,KIRA: Recognized as what? DAX: The expansion patterns of a universe. KIRA: What?,universe
-46,63270,KIRA II: I'll call for you later. BASHIR: Do they ever feed you in this universe? ODO: The Intendant informed me that you'd be inspecting the facilities... if there is anything I can explain...,universe
-47,31683,"GARAK: I don't have time for this. I want to be on the bridge when we destroy the Defiant. ZEK: In our universe, work comes before pleasure. QUARK: Our Garak would have had us hanging by our toenails by now, telling him all our secrets.",universe
-48,31668,"INTENDANT: Or anyone else, for that matter. ROM: I'm really beginning to hate this universe. GARAK : What we have here, gentlemen, is ten CC's of concentrated Ulcartic virus.",universe
-49,78102,RIKER: You make it sound poetic. LUISA: I think it's the best occupation in the universe. DATA: The efficiency of your hydraulic landscaping is elegant.,universe
-50,7164,"O'BRIEN: You know her? SISKO: She was my wife, too. But in my universe, she's dead. O'BRIEN: Not here she isn't. Not yet, anyway.",universe
-51,56708,"BAREIL: I don't know -- I'm making this up as I go along. Believe me, no matter where I end up, it's going to be a lot better than where I've been. KIRA: I can believe that. I've spent time in your universe. BAREIL: I bet you were glad to leave it.",universe
-52,40503,BASHIR: How so? HANEEK: I was the first one to find the Eye of the Universe... HANEEK: We had heard about a great tunnel being discovered... we knew it must be the Eye of the Universe that would lead us to Kentanna...,universe
-53,47799,"SISKO: Why not? DAX: I've found indications of life in the proto-universe. DAX: ... non-random thermodynamics... ... irregular power consumption. The computer's confirmed it, these are lifesigns...",universe
-54,9210,"ODO: Solid... I wonder why my people use that term -- humanoid bodies are so fragile. SISKO: Yes, they are. And it's a dangerous universe out there. ODO: You're worried about Jake.",universe
-55,27565,"DUKAT: (dripping with contempt) Soon the Pah-wraiths will burn across Bajor, the Celestial Temple, the Alpha Quadrant... Can you picture it? DUKAT : A universe in flames, burning brightly for all eternity. DUKAT: The Prophets have sent me a gift.",universe
-56,96358,DATA: Can you recommend a way to counter the effect? Q: Simple. Change the gravitational constant of the universe. GEORDI: What... ?,universe
-57,121913,"TRAVELER: It's collapsing. BEVERLY: Computer, give me a graphic representation of the universe. BEVERLY: I've seen that before... Wesley's experiment... the bubble. Of course... But that would mean I'm the one trapped in the bubble...",universe
-58,91896,"MIRASTA: About what? PICARD: About space. About the universe you are preparing to enter. TROI: We are from a federation of planets, Mirasta... Captain Picard is from a planet called Earth more than two thousand light years from here. I am from another planet called Betazed.",universe
-59,31308,QUARK: Risa? ZEK: If you said Risa -- guess again. I'm in the Alternate Universe! QUARK: You're not Ezri -- you're from over there.,universe
-60,47737,"O'BRIEN: A universe? DAX: What we have here, Benjamin, is a proto-universe in its earliest stages of formation. Unfortunately, as it grows, it's displacing our own universe. SISKO: Can we get it back where it came from?",universe
-61,82226,PICARD: Who are you? Or what? TRAVELER: I am -- a Traveler. PICARD: A traveler? What is your destination?,traveler
-62,62231,"JAKE: Forget it Nog, we have to tell him. We've been investigating the man whose picture you're holding in your hand right now. Until yesterday, that man, one ""Willie Mays"" did not exist in any historical documents. Then, in the blink of an eye, that card appeared on the station, and at the same moment, a bust of Willie Mays appeared at the Hall of Fame in Cooperstown, New York. There's only one explanation. (beat, then points to the card) We suspect that this man... is from the future. WEYOUN: A time-traveler? JAKE: That's right. And so far that card is our only link to him. We have to find out what he's planning to do in the past. ... or what he may have done already.",traveler
-63,82333,"GEORDI: Or whatever you want to call it, Data. I don't have a name for it. RIKER: The Traveler's gone, sir. PICARD: Gone?",traveler
-64,82227,TRAVELER: I am -- a Traveler. PICARD: A traveler? What is your destination? TRAVELER: Destination?,traveler
-65,121956,"GEORDI: We're losing the bubble... BEVERLY: Jean-Luc... (sees the Traveler, reacts) You... BEVERLY: Do I have you to thank for getting me back?",traveler
-66,85789,RIKER: There is no evidence either way. PICARD: The Traveler moved through time with the power of his mind. RIKER: I don't think that's the case here.,traveler
-67,82281,"TRAVELER: I will try. PICARD: Number One, you'll take the Traveler to Main Engineering; I'll be on the bridge... WESLEY: He is very weak.",traveler
-68,121882,"TRAVELER: It's nothing I can tell you, Wesley... WESLEY: Then how am I supposed to do it? (off the Traveler's even stare) You said you'd help. TRAVELER: You must allow me to help.",traveler
-69,121811,"PICARD: We've never needed a crew before. BEVERLY: I don't suppose you remember an alien from Tau Alpha C who was once onboard... called himself a Traveler... ? BEVERLY: Jean-Luc, I don't know how, but you and I must find this Traveler or another from his race... if anyone can help us...",traveler
-70,121812,"BEVERLY: I don't suppose you remember an alien from Tau Alpha C who was once onboard... called himself a Traveler... ? BEVERLY: Jean-Luc, I don't know how, but you and I must find this Traveler or another from his race... if anyone can help us... PICARD: You have my word... as soon as we return to the starbase, I'll make every effort to find him.",traveler
-71,82312,PICARD: ... OF YOUR STRENGTH. URGENT. THIS IS AN ORDER. YOU MUST TRY TO DO THIS. PICARD: YOU WILL ATTEMPT NOW TO CONCENTRATE COMPLETELY ON EITHER YOUR DUTY OF THE MOMENT... OR UPON THE TRAVELER... ON HIS WELL BEING. PICARD: THINK OF HIM AS SOMEONE YOU CARE DEEPLY ABOUT.,traveler
-72,39649,"KIRA: And the Federation's got no right telling us how to deal with our criminals. SISKO: If it turns out he is a criminal, he'll be yours and you're welcome to him. Until then, he's just a traveler under suspicion. KIRA: You think this is all some personal vendetta on my part, don't you?",traveler
-73,35581,"FALLIT KOT: I didn't order dinner. QUARK: What better way to mollify -- I mean, satisfy -- a hungry traveler than with a delicious home-cooked meal... starting with a delicate Vak clover soup... QUARK: Why spoil your appetite with soup?",traveler
-74,121792,"BEVERLY: Who? WESLEY: He was Kosinski's assistant... an alien from Tau Alpha C... He said he was a ""Traveler""... somehow he combined warp technology with the energy of his own thoughts... BEVERLY: Yes, I remember... he took us where thoughts and reality became indistinguishable... Wesley, is it possible you've accidentally re-created something he did? Something that could alter reality?",traveler
-75,121833,"TRAVELER: There's still a way. PICARD : Captain's log, Stardate 44162.5. Two attempts to retrieve Doctor Crusher have failed. And now the Traveler, a mysterious visitor from our past, has reappeared. WESLEY: And then I sent a message by subspace to Tau Alpha C asking for help... but I didn't think it would reach there for days...",traveler
-76,82336,"RIKER: He phased completely out of existence... at least out of our existence. PICARD: Attention all decks. This is to inform you that the Traveler has left us. With your support, he has returned us to our galaxy. Wherever he has gone, we wish him well. PICARD: Have the boy come up on the bridge, Number One.",traveler
-77,121876,"COMPUTER: There is no Tau Alpha C listed on current star maps... PICARD : Captain's log, stardate 44162.8. At the direction of the Traveler, the Enterprise is returning to Starbase One-Three-Three and the precise position where the subspace bubble was formed. TRAVELER: Our goal will be to create a stable gateway between our reality and your mother's reality...",traveler
-78,82305,"PICARD : ... but wish one variation. A principal part of this warp formula will be the thoughts of everyone aboard the Enterprise. We have no idea exactly how this works... PICARD : ... we understand only that the Traveler makes use of this somehow. It will be most important that those aboard avoid random thoughts that might change the reality of what we're attempting to do. PICARD: Any further advice, Counselor?",traveler
-79,121937,"COMPUTER: Three minutes thirty seconds to life support failure. BEVERLY: (to herself, quick pace, pressing herself to complete equation) The Traveler used his thoughts to alter warp fields... and thoughts became reality... Now I'm in a warp field... Could my thoughts have changed this reality? BEVERLY: Come on, Beverly! What's the next step?! What was I thinking at the moment Wesley's bubble formed? Dalen Quaice... He said... all the people he'd known were gone... I thought of Jack... I went to see Wesley... the flash in Engineering... And that's when it started... when I started losing everybody! My thoughts created this universe. Can they get me out of it again?",traveler
-80,82310,"PICARD: ALL DECKS, THIS IS THE CAPTAIN SPEAKING. ALL DECKS... PICARD: ... I MUST HAVE YOUR FULL ATTENTION. IN A FEW MOMENTS AS WE ATTEMPT TO WARP BACK HOME, IT IS VITAL... ABSOLUTELY VITAL, THAT YOU CENTER YOUR THOUGHTS ON YOUR DUTY... OR UPON THE WELFARE OF THE ONE CALLED 'THE TRAVELER.' THINK OF GIVING HIM SOME... PICARD: ... OF YOUR STRENGTH. URGENT. THIS IS AN ORDER. YOU MUST TRY TO DO THIS.",traveler
-81,88028,"WORF: Aye, sir. JACK: Wesley... Wesley... JACK: Wesley...",wesley
-82,141355,"OKONA: Thank you Ensign Crusher, Crusher. WESLEY: It's Wesley, Wesley. OKONA: I'll make it easy on both of us. I'll just call you Tiger.",wesley
-83,141332,"OKONA: Well ensigns have names, don't they? WESLEY: Wesley... Wesley Crusher.. OKONA: Nice to meet you Ensign ""Wesley Wesley"" Crusher.",wesley
-84,141264,"TROI: And we know they'll make good parents. PICARD: Wesley! WESLEY: Sorry, sir. She just wanted to give you a present for bringing her back to her mommy.",wesley
-85,140876,"DATA: The theory is simple. The shield bends light rays around the planet's contour -- similar to the Romulan cloaking device -- but the implementation is very difficult. PICARD: Wesley! GEORDI: Sir, the energy beam is originating from Aldea.",wesley
-86,134619,ARON: Computer - field off. SALIA: Wesley. WESLEY: Was it fun?,wesley
-87,134321,COMPUTER: Point oh-four percent and increasing. GEORDI: Wesley? GEORDI : Wesley! Haven't you found the defocused area yet?,wesley
-88,123745,WESLEY: It's wrong... LOCARNO: Wesley... WESLEY: No. I'm going to tell them what happened.,wesley
-89,121782,BEVERLY: If we reach Starbase. Wesley... where's Wesley... ? BEVERLY: Wesley!! WESLEY: Mom? You all right?,wesley
-90,120613,"BEVERLY: C'mon, I'll help you finish this up... what are you looking for? BEVERLY: Wesley... ? WESLEY: Mom, I think I've made a horrible mistake.",wesley
-91,116963,DATA: Of course. Lieutenant Worf? BEVERLY : Wesley? WESLEY: Mom!,wesley
-92,116949,WESLEY: I'll be back soon. PICARD: Wesley... PICARD: Always remember... I was... proud of you...,wesley
-93,114681,HOLO-WESLEY: I don't care. GEORDI: Wesley... ? HOLO-WESLEY: What do you want?,wesley
-94,100995,"BEVERLY: Wesley? BEVERLY: Wesley? WESLEY : In here, Mom.",wesley
-95,100994,PICARD: (continuing; an afterthought) And don't forget Mister Crusher. BEVERLY: Wesley? BEVERLY: Wesley?,wesley
-96,100878,WESLEY: Mom? BEVERLY: Wesley... WESLEY: What are you doing?,wesley
-97,100751,"WESLEY: Thanks, Mom. PICARD: Wesley... WESLEY: Captain...",wesley
-98,88029,JACK: Wesley... Wesley... JACK: Wesley... WESLEY: Dad...,wesley
-99,100801,"ROBIN: Sure. WESLEY: I'm Wesley, by the way... Wesley Crusher. ROBIN: I know. Just came back from the Academy.",wesley
-100,108228,"WESLEY: Counselor Troi... ? TROI: Yes, Wesley... WESLEY: Can I talk to you a minute... I have a real problem with my mother.",wesley
-101,120955,"RISHON: Mister Worf, what do you think? WORF: Good tea. Nice house. PICARD: Why did you leave Earth and move to a brand new world when you did?",good tea
-102,101094,KEIKO: A liquid... dark... TARMIN: Like tea... KEIKO: It's not hot...,good tea
-103,116524,RIKER: My life has been spent... trying to help others find solutions to insoluble problems. And now... I am confronted with one of my own for which there is truly no answer. BEVERLY: Lemon tea... RIKER: Computer... location of Doctor Beverly Crusher.,good tea
-104,96687,"PICARD: Ginger tea with honey, very hot. KENNELLY: Ginger tea? PICARD: My Aunt Rebecca's cure for the common cold.",good tea
-105,81369,"WORF: No, thank you. TROI: Yridian tea... TROI: I've been thinking about what happened to me in the nacelle tube... whether it was an empathic echo left by Kwan's death...",good tea
-106,55025,LWAXANA: I already did. He said he'd get to it as soon as he could. ODO: Gavaline tea... LWAXANA: Hot.,good tea
-107,64653,"BASHIR: Maybe so, but he's also my patient. And I won't have him disturbed. So until further notice, his quarters are off limits to everyone but emergency medical personnel. Now, if you'll excuse me, I have a patient to attend to. BASHIR: Tarkalean Tea. BASHIR: Garak?",good tea
-108,12811,"GARAK: Not from where I'm sitting. BASHIR: Tarkalean tea. DAX: I'll take a raktajino, Julian.",good tea
-109,12125,WAITRESS: We don't have any Klingon beverages. Would you like something else? ODO: Tarkalean Tea. JONES'  - CLIP: I have something from the far reaches of the galaxy. Surely you want --,good tea
-110,1742,BASHIR: Quark? Quark! BASHIR: Tarkalean Tea? BASHIR: Constable?,good tea
-111,22756,"GARAK: Ah, you know of me, then. BASHIR: Would you care for some of this Tarkalean tea? It's very good. GARAK: What a thoughtful young man. How nice that we've met.",good tea
-112,28196,"O'BRIEN: But I'd be willing to give it a try. SISKO: Good morning, Major. Chiraltan Tea, with a double twist of lemon. SISKO: Something wrong?",good tea
-113,33877,"EZRI: Yeah, yeah... I'm up. EZRI: Fanalian tea. Hot. EZRI: What happened?",good tea
-114,137149,"COMPUTER: Library Systems have been allocated to Stellar Cartography. PICARD: Tea, Earl Grey. Hot. COMPUTER: Replicator systems are off-line at the request of --",good tea
-115,113979,"RIKER: It sounds like a plan. Get started on it. PICARD: Tea, Earl Grey, hot. DATA: Captain, permission to beam down to Drema Four.",good tea
-116,112037,PICARD: The lights stay on. KAMALA: Earl Grey Tea. Hot. PICARD: Did you learn that from Mister Data as well?,good tea
-117,80670,"PICARD: He's proved he can get to us whenever he wants. What's he waiting for? PICARD: Tea, earl grey -- hot. BOK: If you want me to stay and talk you'd better not call for security this time...",good tea
-118,80525,"PICARD: Something else? PICARD: Tea, Earl Grey, hot. PICARD: Well. I'm sure this whole thing is as much a surprise to you as it is to me...",good tea
-119,75725,PICARD: I appreciate your telling me... but I'm sure the two of you will find a way to... deal with the situation. PICARD: Tea. Earl Grey. Hot. COMPUTER: That beverage has not been programmed into the replication system.,good tea
-120,75392,JESSEL: How do you like your tea? PICARD: Tea? Earl Grey. Hot. JESSEL: Of course it's hot. What do ya want in it?,good tea
-121,37350,"QUARK: We'll continue this later. In the meantime, you've got some reading to do. ROM: Hello, Aluura. Good book. QUARK: Let's go.",good book
-122,27585,"DUKAT: Are you still here? WINN: Emissary, the book... DUKAT: Farewell, Adami.",good book
-123,27299,"DUKAT: Then call to them. WINN: Bring me the book. WINN: I said, bring it.",good book
-124,99244,GEORDI: What's your hurry? You don't really think something's gonna happen between you and Suzanne Dumont... WESLEY: At least I'm not spending the night with a good book like some people... GEORDI: What's that supposed to mean?,good book
-125,122969,"RIKER: We're talking about Jean-Luc Picard. I'm not going to sit around and hope it all works out... I've got to do something... CLEMENS: Any place that doesn't stock a good cigar doesn't rank high in my book. TROI: If you must have one, I'm sure we could replicate it for you.",good book
-126,119764,HELENA: It was a difficult adolescence. GUINAN: You ought to write a book. SERGEY: We didn't do anything special.,good book
-127,19558,"BASHIR: Really... ? I'd love to hear about them. We have no idea what's beyond the wormhole... VASH: Perhaps I'll write a book... BASHIR: It's certain to be a best-seller around here... Well, no sign of disease or malnutrition, no parasitic infections...",good book
-128,87741,"DATA: It is on page 244. RIKER: The book... Then... how does it end? DATA: A bad love affair ends in a bloody shoot-out, the hotel gets bought out and life goes on... such as it is --",good book
-129,21986,WINN: Lies... nothing but Cardassian lies. To think I let you touch me... WINN: The book... I have to destroy it! DUKAT: The Pah-wraiths have judged you and found you worthy. Their secrets are now yours... to do with as you please.,good book
-130,27591,"SARAH PROPHET: You've returned them to their prison within the fire caves. SISKO: The book was the key, wasn't it? SARAH PROPHET: To a door that can never be opened again.",good book
-131,21251,KIRA: You're quite a philosopher. FRANKIE: I'm thinking of writing a book. KIRA: Have you got a title?,good book
-132,19037,"O'BRIEN: ""... it was the worst of times."" O'BRIEN: It's the first line of the book. BASHIR: That's right. So why is it on page two hundred and ninety-four?",good book
-133,109315,TROI: They have what they want... for now. PICARD: Did you read that book I gave you? WESLEY: Some of it.,good book
-134,44466,"SISKO: She has something to say on just about... everything! O'BRIEN: (smiles, leafing through a book) Yeah? SISKO: Economic analysis. Political commentaries. Literary critiques. She says she's spent her life examining the human condition.",good book
-135,21794,"WINN: It's not a trick. DUKAT: Then Solbor brought the wrong book. WINN: He doesn't make those kinds of mistakes. The words are here... they've been hidden, that's all. Now it's up to us to find them.",good book
-136,16972,SISKO: Well done Garak. GARAK: Just something I read once in a book. BASHIR: I'm sure.,good book
-137,105872,"WORF: No. But I have taken the Starfleet Emergency Medical Course. In a computerized simulation, I assisted in the delivery of a human baby. KEIKO: Sometimes... things don't go by the book... WORF: I am sure everything will be fine.",good book
-138,50771,QUARK: You're up early. I thought writers slept late. JAKE: Not always. I sold my first book today. QUARK: Really? How much did you get for it?,good book
-139,10054,"QUARK: And what work was that, Grand Nagus? If I my be so bold? ZEK: I'm glad you asked. Maihar'du... the book. ZEK: You're about to read the shining triumph of my life. The one thing I'll always be remembered for.",good book
-140,129897,"DATA: I... I do not know, sir. None I suppose. I just wanted them. Is that vanity? PICARD: (holding up the book of sonnets) And this? DATA: It was a gift from you, sir.",good book
-141,138792,"DATA: (continuing to speak for Riva) I would like the table right here. PICARD: Make it so. DATA: (touching his communicator) Main Engineering, this is Commander Data.",make it so
-142,138519,"WORF: With your permission, Captain. PICARD: Make it so. WORF: Enterprise, this is the away team, seven to beam up.",make it so
-143,138378,RINA: Of course! PICARD: Make it so. GEORDI: Hop to it Ensign. You've got work to do.,make it so
-144,137866,RIKER: (touches his communicator) Captain. We may not be able to get control of this situation. I recommend making arrangements to transfer all non-essential personnel to the saucer section. If we lose containment we should be prepared to separate. PICARD: Make it so. PULASKI: Why this one specimen and none of the others? Something is stimulating it. Do you have its etiology? How it was developed?,make it so
-145,136378,GEORDI: I'll interface with the probe as soon as it's in place and take it in the rest of the way. PICARD: Make it so. PICARD: Onscreen.,make it so
-146,135775,"WORF: Sir, our weapon control systems are inoperative. However, we could configure a photon torpedo for manual launch... PICARD: Make it so. PICARD: There's so much here we could have learned... I regret losing that opportunity.",make it so
-147,135061,"GEORDI: Hey, Commander, whether it's Romulan phasers or our own warp engines we're just as dead. RIKER: Make it so. DATA: Can I help?",make it so
-148,131902,DATA: Since we do not know their intent I recommend we go to Red Alert. PICARD: Make it so. TACTICS OFFICER: The Enterprise has raised its shields.,make it so
-149,129293,GEORDI: We could be there in five. DATA: Make it so. WORF: Finally.,make it so
-150,128470,DATA: I recommend we use the gravitron polarimeter instead. It will perform a similar function. PICARD: Make it so. BEVERLY: Captain... There's something I'd like to report.,make it so
-151,126240,GEORDI: Twenty to one it'll work. PICARD: Make it so. CLANCEY: Coming to three-one mark one-one-three.,make it so
-152,125277,WORF: Twenty-three minutes. PICARD: Make it so. DATA: Frequency scan detectors engaged.,make it so
-153,125210,GEORDI: We don't necessarily have to fire at them. Half-a-dozen photon torpedo bursts directly in their path could make them change course. PICARD: Make it so. WORF: Torpedoes armed. Fire distribution set. Detonation at seven kilometers ahead of the cluster.,make it so
-154,124766,"GEORDI: ... the pressure from inside the ship might push it away from the hull. PICARD: Make it so. DATA: Is the appellation ""Junior"" to be the lifeform's official name from now on?",make it so
-155,124452,"GEORDI: I can try to augment the field with auxiliary power, but it won't be much... PICARD: Make it so. GEORDI: Aye sir.",make it so
-156,122651,O'BRIEN: The Phoenix is using a high-energy sensor sweep. It cycles every five-point-five minutes. Between those cycles there's a window of a fiftieth of a second. Trust me. I can get through. PICARD: Make it so. O'BRIEN: It's good we're trying this with another Federation ship. It would never work with an alien vessel.,make it so
-157,119395,"GEORDI: A few hours. PICARD: Make it so. GEORDI: Should we... discuss this with Barclay, Captain?",make it so
-158,118511,"GEORDI: I should be able to create a subspace field large enough to encompass everyone. Adjusting the phase inside the field will be the hard part. PICARD: Make it so. RIKER: There's one thing we have to assume, Captain.",make it so
-159,117709,"WORF: A phaser set to level sixteen should suffice. PICARD: Make it so. PICARD: Very good, Mister Worf.",make it so
-160,114914,GEORDI: Nossir. PICARD: Make it so. DUFFY: Route primary coupling through starboard transfer conduit.,make it so
-161,123880,"ELINE: You're the best iron weaver in the community. At least I think so. You prefer playing the flute, of course. PICARD: The flute? PICARD: And when did I learn to play it?",flute
-162,137228,PICARD: I'm delighted. Come in. NELLA: What kind of flute is that? PICARD: It's Ressikan.,flute
-163,123949,"ADMINISTRATOR: Well. Very ambitious. Kamin, was it? And your occupation is -- ? PICARD: Iron weaving. And playing the flute. ADMINISTRATOR: I don't mean to quash your very creative idea... but building atmospheric condensers would be a monumental undertaking. We could not hope to sustain such a project.",flute
-164,137269,"BEVERLY: The Captain? NELLA: He plays a kind of flute... Ressikan, I think he said. BEVERLY: Yes... but I didn't realize he played... duets.",flute
-165,123961,"BATAI: Hearing you talk to the Administrator... I realized that for the first time in years, you were speaking as though you were truly a member of the community. It was good to hear that again. BATAI: You've been brooding behind that flute all evening. PICARD: I'm not brooding. I'm immersed in my music.",flute
-166,137349,"PICARD: It was all very real to me. PICARD: When I awoke, all that was left of my life there... was the flute I'd taught myself to play. NELLA: Why are you telling me all this?",flute
-167,123879,"PICARD: What is it that I do... here in Ressik? ELINE: You're the best iron weaver in the community. At least I think so. You prefer playing the flute, of course. PICARD: The flute?",flute
-168,47894,O'BRIEN: Ten seconds to the wormhole. KIRA: Reading higher levels of neutrino activity... O'BRIEN: Five...,neutrino levels
-169,8607,"BASHIR CHANGELING: Is a Klingon warrior. He'd understand. KIRA: Neutrino levels in the wormhole are rising. SISKO: If we're going to do this, we have to do it now.",neutrino levels
-170,8438,SISKO: Another listening post has gone dead. And the one closest to the wormhole is detecting an incoming ship. O'BRIEN: I'm picking up an increase in neutrino levels. Something coming through. DAX: Shields fully charged.,neutrino levels
-171,29360,"SISKO: What's the rush? O'BRIEN: There's some residual neutrino levels in the microstructure of the building material. BASHIR: But if the Dal'Rok has no physical substance, how can it leave a neutrino trace?",neutrino levels
-172,114177,RIKER: Something that can cut through the storm... to give us some way to signal him... WESLEY: A neutrino pulse... WESLEY: We could build a portable neutrino source and send it in a probe to the surface. It would be like a beacon.,neutrino levels
-173,39974,KIRA: Let me know if you find anything else. DAX: Sensors are reading elevated neutrino levels at the wormhole... Something's coming through... KIRA: On screen.,neutrino levels
-174,32664,SISKO: I am Commander Benjamin Sisko of the United Federation of Planets... O'BRIEN: Another neutrino disruption... KIRA: Scanners are picking up an object near their last known coordinates... it isn't a ship...,neutrino levels
-175,114236,GEORDI: This better not be another malfunction... GEORDI : A stationary neutrino source... GEORDI: Wesley Crusher.,neutrino levels
-176,58528,"KIRA: Lieutenant, what's the E.T.A. of the Odyssey? DAX: They're due in eight hours... (her attention's drawn to a panel) I'm reading elevated neutrino levels from the wormhole. KIRA: Hail them.",neutrino levels
-177,93948,PICARD: I remember the words. But I don't understand... GEORDI: Matrix levels. LEFLER: Annular convergence holding at four three nine point two oh five. Confinement resolution at point five two seven.,neutrino levels
-178,53679,PREN: Activate the drone. BEJAL: Wormhole neutrino readings... are stable. DAX: Subspace field stress is up by fifteen percent... but still within safety margins.,neutrino levels
-179,140005,RIKER: Scan it now. LT. RIKER: It worked. Radiation levels are dropping to normal levels. RIKER: Next time don't give up so easily.,neutrino levels
-180,56096,O'BRIEN: They've cloaked. DAX: I'm not picking up any neutrino emissions... GARAK: Then where did they go?,neutrino levels
-181,76959,"GEORDI: Computer. How much have the conversion levels increased? COMPUTER: Levels are unchanged. GEORDI: All right, we'll deal with of this later...",neutrino levels
-182,114445,"DATA: Nine minutes, forty seconds. WESLEY: No change in the neutrino beacon signal, sir. WORF: Romulan ship approaching. Bearing three-fifty-four mark two-eight-seven.",neutrino levels
-183,4584,"DAX: Which means the Cardassians don't have much time to get away. (voicing everyone's frustration) Eddington's always one step ahead of us... KIRA: Maybe not this time. I'm reading residual neutrino levels... Looks like one -- maybe two Maquis raiders behind the fourth moon. They're on the run. SISKO	NOG: Engine Room, Bridge. Go after them. Full impulse. Full impulse. (to Kira DAX Onscreen. Shields up. Hard to starboard. Full thrusters. Charge phaser banks. KIRA WORF ... encode main viewscreen, set ... Bleed fifteen magnification grid percent plasma to phaser matrix...",neutrino levels
-184,132615,"GEORDI: Get ready, Data... BASHIR: Power levels are rising... GEORDI: Should be any second now...",neutrino levels
-185,115705,"GEORDI: No..no... wait, listen... turn it upside down, literally... come at it from the opposite direction... God, it's so simple... it might even work... COMPUTER: Lethal levels of radiation... GEORDI: Computer, shut up... at least in Holodeck Three...",neutrino levels
-186,120651,PICARD: Picard to La Forge... enviromental system malfunction on the bridge... acknowledge... RIKER: Nitrogen oxide... toxic levels... RIKER: I've switched to manual control of the air handling system...,neutrino levels
-187,105802,"PICARD: Good. Now, that bundle of wires... that's optical cabling... see how much you can pull out... BEVERLY: The levels are still rising. BEVERLY: There must be some way to put that thing out.",neutrino levels
-188,90575,"RIKER: It's all right, take it easy. GEORDI: (stares at Soong and recognizes him) It's Noonian Soong. RIKER: That's impossible. Soong's dead. (he continues to check out Soong) I think it's okay to move him.",noonian soong
-189,73227,DATA: That is correct. SOONG: I programmed this hologram to answer any questions you might have -- I'm Noonian Soong; I created her. DATA: I am Data.,noonian soong
-190,90377,"SOONG: Tell me, do I look somewhat familiar to you? DATA: You do bear a resemblance to Doctor Noonian Soong, the cyberneticist who constructed me. But, Doctor Soong was killed shortly afterward by the Crystalline Entity. SOONG: (laughs softly to himself) It's your lucky day, Data. You've found your long lost father, and he's alive. What do you think of that?",noonian soong
-191,73104,"JULIANA: I didn't want to bring you with us... I was afraid that if we reactivated you, you'd turn out like Lore. JULIANA: I made Noonian leave you behind... DATA: We are within four kilometers of the magma pocket...",noonian soong
-192,90556,"LORE: Often-Wrong Soong! That is what the colonists called you, isn't it? A very sloppy rhyme... LORE: Wrong Soong. Wrong Soong. No, doesn't work. Let's see... SOONG: Data, tell me how you're feeling.",noonian soong
-193,129851,"RIKER: Who built you, Data? DATA: Doctor Noonien Soong. RIKER: And he was?",noonian soong
-194,142633,"GRAVES: Functional... Durable... Obviously no concern whatsoever for aesthetic values. GRAVES: Looks like Soong's work. DATA: Quite correct, sir! Did you know Soong?",noonian soong
-195,72976,"DATA: I am checking passenger manifests to see if they went to Mavala during the period in question. DATA: O'Donnell, Juliana... Soong, Noonian -- they were both passengers on a transport that travelled from Omicron Theta to Mavala... and returned four days later. GEORDI: That sure seems to fit her story.",noonian soong
-196,132479,DATA: That cannot be correct. I have a memory record for that period of time. I can recall a series of images. DATA: I saw Doctor Soong... my father. GEORDI: I can't find anything wrong with your positronic sub-processors... or with your controllers...,noonian soong
-197,142634,"GRAVES: Looks like Soong's work. DATA: Quite correct, sir! Did you know Soong? GRAVES: Know him?! I taught him everything he knows. You could say I was the father of his work... (smiles as thought occurs) Which kinda makes me your grandfather, doesn't it sonny?",noonian soong
-198,72927,"JULIANA: Oh, Data, I was there -- right from the beginning, on Omicron Theta. I helped create you. And now... look at you. DATA: You were a colleague of Doctor Soong? JULIANA: Yes, I certainly was -- and I was also his wife. In a way, I suppose you could say -- I'm your mother.",noonian soong
-199,90576,GEORDI: (stares at Soong and recognizes him) It's Noonian Soong. RIKER: That's impossible. Soong's dead. (he continues to check out Soong) I think it's okay to move him. GEORDI: Look at this stuff. I'm telling you. It's Soong.,noonian soong
-200,90597,"SOONG: Go, Data. Go with your friends. DATA: May I say goodbye to Doctor Soong, sir? DATA: Alone, sir?",noonian soong
-201,73775,"DATA: ... except for an impression that this was a... ""Doctor Soong's"" work area. RIKER: Who? You can't mean Doctor Noonien Soong? DATA: He was called that here... although, his memories indicate he traveled here under a different name.",noonian soong
-202,90577,RIKER: That's impossible. Soong's dead. (he continues to check out Soong) I think it's okay to move him. GEORDI: Look at this stuff. I'm telling you. It's Soong. RIKER: I'm Commander William Riker of the Starship Enterprise.,noonian soong
-203,73891,"LORE: What information are you requesting? DATA: Everything available on a Doctor Noonien Soong. LORE: Good old ""Often-Wrong Soong."" A joke, brother. Actually, he was a genius by human standards.",noonian soong
-204,110957,"RASMUSSEN: This is really a thrill, Data. Like running across a Redstone missile or a Guttenberg bible. To think... the Model T of androids. DATA: If you're referring to the first production model automobile of the twentieth century, perhaps the subsequent Model A might be a more apt analogy since I am Noonian Soong's revised prototype. RASMUSSEN: I stand corrected.",noonian soong
-205,73250,"DATA: It seems that I must make a decision: to tell Doctor Tainer that she is an android -- or withhold that knowledge from her. And I do not know what to do. BEVERLY: Why was Doctor Soong so adamant that she not be told? DATA: He seemed certain that if she knew, it would preclude the possibility of her being happy.",noonian soong
-206,111100,"RIKER: All he wanted to know about was previous starships. What I thought was innovative on the last Enterprise or the one before that. He said he wanted to see how well we ""grasped the fundamentals."" DATA: His queries to me primarily focused on Doctor Soong's... WORF: Captain, I am detecting a massive earthquake on the surface.",noonian soong
-207,143485,"DATA: Yes. My brother has made it possible. PICARD: He gave you the chip -- the one Doctor Soong made for you. LORE: Oh, no, no. I still have the emotional program my father designed. I wouldn't want to give it up. It's what has given me such a strong sense of family -- an intense desire to re-unite with my dear brother.",noonian soong
-208,21760,"WEYOUN: Really, Damar... I hope you won't allow that Cardassian-sized ego of yours to spoil our victory. And I do mean ""our victory."" Yours... mine... DAMAR: And the Breen. WEYOUN: Yes, and the Breen.",breen
-209,21761,"DAMAR: And the Breen. WEYOUN: Yes, and the Breen. DAMAR: We're just one big, happy family, aren't we?",breen
-210,42162,"EZRI: I couldn't get away... every time I looked back they were right behind me... Then one of them grabbed me with this big claw. WORF: Breen do not have claws. EZRI: How do you know? Besides, it was a dream. Dreams are full of things that don't seem to make sense.",breen
-211,8529,GARAK: What about the others? Have you tested them as well? BASHIR: Everyone except the Breen. BASHIR: No blood.,breen
-212,18625,EZRI: What's that? WORF: We must be on a Breen ship. WEYOUN: -- the Federation has pulled the Sixth Fleet from the Bolian front. What do you suppose they're planning?,breen
-213,42261,EZRI: Careful. WORF: These Breen are without honor. EZRI: Why don't you sit down -- eat something?,breen
-214,42171,EZRI: Isn't that strange? I wonder what it means? WORF: That Doctor Bashir is a Breen? EZRI: Very funny. The cave could symbolize the womb. My subconscious could be trying to tell me that I need to confront emotions I repressed at birth. But which one? I've been born nine times.,breen
-215,26908,FEMALE SHAPE-SHIFTER: And so they shall. WEYOUN: But you just promised the Breen... FEMALE SHAPE-SHIFTER: I'd promise the Breen the entire Alpha Quadrant if I thought it would help win this war.,breen
-216,11071,DUKAT: Gather as many prisoners as you can. Have them meet us here. KIRA: How many Breen guards are there? HELER: I'm not sure. There are always at least eight in the mines.,breen
-217,27226,SISKO: Dax -- we need some support from our attack fighters. NOG: Breen ship off the starboard aft. EZRI: Sir -- most of our fighters are either destroyed or under attack themselves.,breen
-218,42158,EZRI: Where are we... ? WORF: We're still aboard the Breen ship. EZRI: They were chasing me... in an ice cave... it was so cold I could barely breathe...,breen
-219,11053,KIRA: Take a look. DUKAT: The Breen? What are they doing here? KIRA: My tricorder's picking up a large concentration of dilithium in this area. They must be using the survivors from the Ravinok to mine the ore.,breen
-220,27149,"SISKO: Well done, ensign. NOG: But I lost the Breen ship we were after. SISKO: I wouldn't be too worried about it -- there are plenty more to choose from.",breen
-221,20770,"ODO: Thank you. KIRA: Starfleet Intelligence says that a contingent of Breen engineers arrived on Kelvas Five last week. Breen engineers... Have we had any reports of Breen ships in that system? GARAK: No. As a matter of fact, no Breen ships have been reported in that entire sector.",breen
-222,67205,"ROM: We could put together a commando team. Gather the toughest mercenaries we can find... Nausicaans, Breen, Klingons. QUARK: We don't need Nausicaans -- or Breen or Klingons. ROM: Hew-mons?",breen
-223,55719,QUARK: You certainly did. ZEK: The state of the trade negotiations with the Breen... ZEK : ... why I dumped our lokar bean investments... why I insisted we buy up every bit of jevonite we could get our hands on.,breen
-224,18753,"BASHIR: The lock's not that complex. What are you doing up? O'BRIEN: I was running another power test on the Breen weapon. BASHIR: I was trying to read, but I found myself reading the same page over and over again.",breen
-225,42092,EZRI: Algae paste. My favorite. EZRI: I wonder what the Breen look like under those helmets... WORF: They say that no one has ever seen one and lived to speak of it.,breen
-226,5405,"JEM'HADAR OFFICER: What do you see? FEMALE ROMULAN: My people have a saying. Never turn your back on a Breen. GARAK: Doctor, would you please keep the noise down. I'm trying to work in here.",breen
-227,46425,WEYOUN: He says you need to get your universal translator adjusted. DAMAR: I would've -- if I had known we were meeting with the Breen. FEMALE SHAPE-SHIFTER: It is a distinct pleasure to finally meet you.,breen
-228,72094,"DUKAT: False. I tried to save lives during my administration. SISKO: Evidence? DUKAT: Evidence? He wants evidence. By the time I became Prefect, the occupation had been going on for almost forty years, but the planet was still not ready for full-scale colonization. Central Command wanted the situation resolved and they didn't care how it was done. I was convinced that a gentler hand was required to deal with the Bajorans.",evidence
-229,52800,"ODO: We have new evidence to prove O'Brien's innocence. KOVAT: New evidence? ODO: If O'Brien is accused of stealing warheads from Deep Space Nine, we can prove he didn't do it...",evidence
-230,143328,"QUINN: Something or someone is trying to destroy the fabric of all we've built over the last two hundred years. PICARD: What's your evidence? QUINN: I can't go into that. Too many other people are involved. But if we're right, this is the most critical time in the history of the Federation.",evidence
-231,104783,"KELL: The Governor of Krios has charged that the Federation is secretly aiding the rebels. RIKER: Does he have evidence? KELL: The Council has sent me to examine his evidence. It was my decision, Captain Picard, to ask you to accompany me. You are respected by many on the council.",evidence
-232,85487,LURSA: That is outrageous. B'ETOR: What is this evidence? RIKER: Beam over and we'll show you.,evidence
-233,62747,"ODO: I certainly hope so. Smuggling with intent to supply a terrorist organization is a serious offense. SISKO: Where's your evidence? ODO: Five months ago, Captain Yates was hired by the Bajorans to carry cargo to their outlying colonies. one of her regular runs is between Bajor and the colony on Dreon Seven. It's a twelve-hour run for most ships, but she always takes eighteen. The six hour difference is just enough time to allow her to make a side trip into the Badlands, rendezvous with a Maquis ship and then continue on to the Dreon System.",evidence
-234,107634,"ADMIRAL SATIE: Nonsense. Let's keep our priorities straight... the important thing is to uncover the conspiracy on this ship... and to prevent further damage. If Tarses is a possible saboteur, you cannot allow him access to the sensitive areas of the ship. And... I strongly suggest continuous surveillance. PICARD: If we had better evidence... ADMIRAL SATIE: We will have better evidence... Sabin and Worf are continuing to investigate... but if you don't act until then... it may be too late.",evidence
-235,121804,"BEVERLY: Will Riker! Your First Officer. He's very good at poker, likes to cook, listen to jazz, plays the trombone... PICARD: I cannot find any evidence... BEVERLY: ... Commander Data, the android who sits here at Ops, dreams of being human, never gets the punch line to a joke... ?",evidence
-236,3682,ODO/CURZON: I confiscated this from a Yridian smuggler... DAX: Don't you need it for evidence? DAX: I still want to talk to you about what happened when I was an Initiate.,evidence
-237,85788,PICARD: Are you suggesting there is a conscious mind at work here? RIKER: There is no evidence either way. PICARD: The Traveler moved through time with the power of his mind.,evidence
-238,35395,ODO: It doesn't. I do not commit criminal acts. It is not in my nature. MORA: (the evidence before us) Isn't it? ODO: The gas. Maybe it was the gas on the planet. It must have affected me in some way.,evidence
-239,134732,"PICARD: Mister Data. DATA: Evidence of a weapon? No, sir, none. GEORDI: However it happened, the Yamato did it to herself.",evidence
-240,53956,"KUBUS: He looked very upset. The next morning, Bek hung himself. KIRA: That's all the evidence you have? KUBUS: Isn't that enough? Bek was obviously working with Bareil. When he realized the enormity of what he'd done, he must've wanted to confess. Bareil wouldn't allow it, so Bek took the only way out he had.",evidence
-241,3153,"ODO: One possibility is that the Romulans hired the Flaxian to kill Garak... and then killed the Flaxian after he failed in his mission. DAX: Do you have any evidence of that? ODO: It's only supposition, but it does fit the available facts.",evidence
-242,112134,"LEMEC: Then let me explain. Captain Jean-Luc Picard, Lieutenant Worf, and Doctor Beverly Crusher landed on Celtris Three, attacked one of our outposts in a brutal assault, and killed over fifty-five men, women and children. JELLICO: What evidence do you have of that? LEMEC: We have all the evidence we need... we have Captain Picard.",evidence
-243,88926,"RIKER: It was just one hell of a storm... moved in on our position faster than anything I've ever seen. PICARD: Did you find any evidence of life? RIKER: No, but if Troi was right, we weren't far away from it...",evidence
-244,122082,"GEORDI: Without something else to cross-reference, it would take weeks to try and identify them... DATA: Fortunately, there is more evidence... DATA: We have been able to determine that the footprints we found by the shuttle were not made by any known Tarchannen life form.",evidence
-245,123169,BEVERLY: That's true... for now. This could be the first stage of a condition which may begin to affect your mind as well. YOUNG PICARD: But you've seen no evidence of that? BEVERLY: Not yet. What I do know is that the Captain of this ship has just gone through an extreme physical transformation... the ultimate effects of which I can't even begin to guess.,evidence
-246,99101,PICARD: Do not answer. Rules of the mek'ba require that her evidence be presented in open council. DURAS: You will die before giving evidence. KAHLEST: You stand there while this patahk threatens an old woman?,evidence
-247,68440,"SISKO: I'm aware of that. But I have reason to believe a Dominion warfleet may be in the Alpha Quadrant headed for Earth. JARESH-INYO: Do you have evidence to back that up? SISKO: Just before we left Deep Space Nine, the wormhole was exhibiting some unusual behavior... opening and closing for no apparent reason.",evidence
-248,58244,"JAKE: Really? SISKO: It'll be like a vacation. A working vacation. JAKE: That's fantastic. Thanks, Dad. I bet we'll have a great time.",vacation
-249,83118,"JARADAN: You have... honored us with your words of greeting. A new day dawns between us. RIKER: So... Have a nice vacation? PICARD: It was a nice place to visit, but I wouldn't want to die there.",vacation
-250,4791,"LEETA: I can't believe we finally made it. BASHIR: Well, enjoy your vacation. LEETA: We will.",vacation
-251,60382,LEYTON: I haven't been getting a lot of sleep lately. Too much to do. SISKO: Maybe you need a vacation. LEYTON: Mmm. Somehow replicated coffee never tastes this good.,vacation
-252,104007,RIKER: And what would that be? TROI: Our captain needs a vacation. PICARD: Come.,vacation
-253,21218,BASHIR: You need to get some rest. Maybe take a little vacation. VIC: A vacation? Did you guys take a vacation when the Dominion took over D.S. Nine? O'BRIEN: It's not the same thing...,vacation
-254,28060,YANAS: What would you do on Deep Space Nine? NORVO: Take a... vacation... clear my head. YANAS: Clear your head of what?,vacation
-255,38237,"SISKO: What's going on? Why's the restaurant closed? JOSEPH: I'm going on vacation. To Tyree. JAKE: We're coming with you, Dad.",vacation
-256,28063,"NORVO: I don't know. YANAS: Then why do you need a vacation? NORVO: I guess, I don't, really. But it'd be nice to spend some time with Ezri...",vacation
-257,4764,"QUARK: Excuse me, but I believe I ordered a snail juice. Hand-squeezed. LEETA: Get it yourself. I'm on vacation. QUARK: How much longer until we get there?",vacation
-258,87490,"GEORDI: Nasty. Nitrogen... methane... liquid neon. Surface temperature minus two hundred and ninety-one degrees Fahrenheit. Winds up to three hundred and twelve meters per second. RIKER: Not exactly a vacation planet, eh? GEORDI: Uh uh. Not unless you like ammonia tornadoes. Or orange lightning bolts for that matter.",vacation
-259,5119,FULLERTON: Don't you walk away from me. WORF: I'll do as I please. I'm on vacation. QUARK: Figures. The weather improves the day we leave.,vacation
-260,52874,BASHIR: Bring him over here. O'BRIEN: Some romantic vacation I took you on... KEIKO: We'll get another chance...,vacation
-261,4811,"WORF : A swirling mass of color, set against a background of glowing clouds and burning sky. It was the most beautiful thing I ever saw... until now. DAX: I've got to take you on vacation more often. WOMAN: Dax? Is that you?",vacation
-262,38261,"SISKO: As some of you already know, Major Kira, Jake and I will be leaving for Bajor at twenty-two hundred. DAX: There's a war on -- this is no time for a vacation. KIRA: The archaeologists excavating B'hala have found something they want the Emissary to see.",vacation
-263,87813,"BEVERLY: Well... I think we better let him settle in. GEORDI: Good idea. Don't sleep your whole vacation away, Wes. DATA: Good-bye.",vacation
-264,70228,"RIKER: Strictly pleasure. I've built up about three months worth of leave and Doctor Crusher finally insisted that I take some of it. In fact, she nearly shoved me out the airlock. SISKO: D.S. Nine isn't exactly known as a vacation getaway. RIKER: I'm actually just passing through on my way to Risa. The last time I was here, I only got to spend two hours at Quark's... but by the time I left, I had all his latinum and a date with one of his dabo girls. I thought I might try my luck again.",vacation
-265,49752,"O'BRIEN: Thanks, Julian. Have a good time on Casperia. BASHIR: I'm going to a medical conference, not on a vacation. O'BRIEN: Whatever you say.",vacation
-266,11655,"FROOL: Well, I suppose... ROM: And Grimp, wouldn't you like to take a paid vacation? GRIMP: You're being ridiculous.",vacation
-267,97676,"CONOR: Ah, I'm afraid there wouldn't be much work for you here, Counselor. TROI: I'd book my next vacation at your hotel if you had one. CONOR: Well, in that case, I'll have to have them build one.",vacation
+,indices,choices,search,bm25,prev_bm25,next_bm25
+0,535,"ODO: How do you feel -- better? 
+ ODO: I realize you can't understand a word I'm saying, but that doesn't matter. I know you're aware of me. You see, I was once like you. I spent months in a lab being poked and prodded by a scientist who didn't even realize I was a lifeform. I was just a specimen, a mystery that needed to be unraveled. He never talked to me. It didn't occur to him. I didn't know what I was, or what I was supposed to do. I was lost, alone. 
+ ODO: But it's not going to be that way for you. I'm not going to make the same mistakes that were made with me. 
+ 
+ ""The Begotten"", Deep Space Nine, 1996-10-30",unraveled,3.14976015043829,0.0,0.0
+1,19114,"O'BRIEN: To friendship. 
+ BASHIR: To friendship. 
+ O'BRIEN: We already did that. 
+ 
+ ""Extreme Measures"", Deep Space Nine, 1999-03-05",friendship,11.395581169922888,11.395581169922888,0.0
+2,19113,"BASHIR: You. To Miles Edward O'Brien. 
+ O'BRIEN: To friendship. 
+ BASHIR: To friendship. 
+ 
+ ""Extreme Measures"", Deep Space Nine, 1999-03-05",friendship,11.395581169922888,0.0,11.395581169922888
+3,122958,"GUINAN: We... become friends... 
+ PICARD: It goes beyond friendship. 
+ GUINAN: But... I have to wait... almost five hundred years... And when we meet... I won't be able to tell you about this, will I? 
+ 
+ ""Time's Arrow, Part II"", The Next Generation, 1992-07-02",friendship,9.988758418688967,0.0,0.0
+4,87176,"KAZAGO: We are not selling it to him? 
+ BOK: Call it an act of friendship. 
+ RATA: At no cost!? Ugly. Very ugly! 
+ 
+ ""The Battle"", The Next Generation, 1987-09-14",friendship,9.689701862690622,0.0,0.0
+5,29961,"KIRA: (very softly; defenseless) I tried to tell you the truth a hundred times. What you think of me... matters a lot. I was afraid... 
+ ODO: ... it might affect our friendship? 
+ ODO: Maybe it doesn't have to. 
+ 
+ ""Necessary Evil"", Deep Space Nine, 1993-09-17",friendship,9.500084532036963,0.0,0.0
+6,16896,"SISKO: Well, if you ask me the price is too damn high. What's the Federation supposed to get out of all this? 
+ BORATH: Our friendship. Isn't that enough? 
+ NECHEYEV: And you Benjamin, get a promotion. Captain Sisko. That's an important step toward that Admiralcy you've always wanted. 
+ 
+ ""The Search, Part II"", Deep Space Nine, 1994-07-18",friendship,9.317745988793764,0.0,0.0
+7,83528,"RIKER: I find them very much as we were a few hundred years ago... but with the technology we have now. They're very dangerous... 
+ KAYRON: Untrue! We seek friendship with you... 
+ RIKER: But we can hardly hate what we once were. They may grow and learn... 
+ 
+ ""The Last Outpost"", The Next Generation, 1987-08-07",friendship,9.14227501250019,0.0,0.0
+8,36207,"PEL: I see. 
+ QUARK: ""Never place friendship above profit."" 
+ PEL: The twenty-first Rule of Acquisition. 
+ 
+ ""Rules of Acquisition"", Deep Space Nine, 1993-09-03",friendship,9.05699474662966,0.0,0.0
+9,143296,"REMMICK: On my way, sir. 
+ PICARD: This has been a strain on our friendship. 
+ QUINN: I know. Believe me, Jean-Luc, I regret that, but it has been necessary. 
+ 
+ ""Coming Of Age"", The Next Generation, 1987-12-30",friendship,8.653395078093352,0.0,0.0
+10,8961,"QUARK: I can't. It's a gift. 
+ DAX: You think you can buy back my friendship? 
+ QUARK: It's not a bribe... Chances are I won't be needing it anymore. Good-bye, Dax. 
+ 
+ ""Business As Usual"", Deep Space Nine, 1997-01-15",friendship,8.653395078093352,0.0,0.0
+11,16167,"GOWRON: Yes, yes. I know you did what you thought was right. And even though you may have made some enemies, I assure you I am not one of them. 
+ WORF: I'm glad. Your friendship means much to me. 
+ GOWRON: And yours to me. It has been too long since you last fought at my side. But now the time has come again. We will do great deeds in the coming days. Deeds worthy of song. 
+ 
+ ""The Way of the Warrior"", Deep Space Nine, 1995-07-07",friendship,8.57695348394405,0.0,0.0
+12,129902,"PICARD: Why? 
+ DATA: It is a reminder of friendship and service. 
+ PICARD: (lifts out the holocube, and triggers it; Tasha stands before them) And this? You have no portraits of any other of your crewmates. Why this person? 
+ 
+ ""The Measure of a Man"", The Next Generation, 1988-12-14",friendship,8.501850590055811,0.0,0.0
+13,118317,"RIKER: I just don't want to believe it. 
+ TROI: Have you ever heard Data define friendship? 
+ RIKER: No... 
+ 
+ ""Time's Arrow"", The Next Generation, 1992-04-06",friendship,8.501850590055811,0.0,0.0
+14,136215,"MARTA: I remember thinking... that's me. I'm not going to make it. Then I looked to my right... and there you were with this cocky look on your face... and you said, ""we'll see about that."" From that moment, I knew I wanted you as a friend. 
+ MARTA: And now... I'm afraid we've ruined that friendship. 
+ PICARD: Perhaps we should just... pretend that this never happened and try to... 
+ 
+ ""Tapestry"", The Next Generation, 1992-11-30",friendship,8.145237427046848,0.0,0.0
+15,142244,"TROI: And you are about to put your career at risk for him. 
+ PICARD: Isn't that what friendship's all about, Counselor? 
+ TROI: -- They illicitly used the emergency channel to draw you here. Then they asked you to keep secrets from your superiors. Effectively, to disobey Starfleet regulations. 
+ 
+ ""Conspiracy"", The Next Generation, 1988-03-08",friendship,8.077474912354118,0.0,0.0
+16,136156,"Q: My, my... we're simply riddled with regrets about our youth, aren't we? 
+ PICARD: My friendship with Marta is not something I regret. 
+ Q: But you do wish you'd been more than just... friends, don't you? Well... here's your chance to change all that. 
+ 
+ ""Tapestry"", The Next Generation, 1992-11-30",friendship,7.945276937757379,0.0,0.0
+17,129310,"WORF: Aye, sir. 
+ DATA: Mister Worf... I am sorry if I have ended our friendship. 
+ WORF: Sir... it is I who has jeopardized our friendship, not you. If you will... overlook this incident, I would like to continue to consider myself your friend. 
+ 
+ ""Gambit, Part II"", The Next Generation, 1993-08-06",friendship,7.754899012639006,0.0,4.470176035614508
+18,61507,"KIRA: Is it my imagination, or did the kid just cover for him? 
+ SISKO: This could be the beginning of a beautiful friendship. 
+ WORF: They're getting smaller. 
+ 
+ ""One Little Ship"", Deep Space Nine, 1997-11-06",friendship,7.754899012639006,0.0,0.0
+19,114113,"DATA: I am going to miss her, Captain. 
+ PICARD: That too is part of friendship, remembrance and regrets. 
+ DATA: Yes, sir. 
+ 
+ ""Pen Pals"", The Next Generation, 1989-02-10",friendship,7.693451049724669,0.0,0.0
+20,95099,"GUINAN: Shut up, kid. Now, tell me more about my eyes. 
+ TROI: He's relaxed... experiencing feelings of warmth. Friendship. 
+ PULASKI: He's reliving memories. That's a natural side effect of the neural stimulation. 
+ 
+ ""Shades of Gray"", The Next Generation, 1989-05-01",friendship,7.632969229218833,0.0,0.0
+21,108817,"WORF: I detect no shields, no weapons of any known design. 
+ PICARD: Hailing frequencies. 
+ WORF: Open. 
+ 
+ ""Q Who?"", The Next Generation, 1989-02-24",hailing frequencies,19.65068303457206,0.0,0.0
+22,83368,"PICARD: Excellent. We will transmit that information shortly. Enterprise out. 
+ TASHA: Hailing frequencies off. 
+ PICARD: I'll log that as ""promising,"" at least. 
+ 
+ ""The Last Outpost"", The Next Generation, 1987-08-07",hailing frequencies,18.82504752555038,0.0,0.0
+23,141807,"DATA: No, sir. 
+ PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open, sir. 
+ 
+ ""We'll Always Have Paris"", The Next Generation, 1988-02-22",hailing frequencies,18.629366458993278,0.0,17.88569923628369
+24,141501,"PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ WORF: They are returning our hail on the proper channel. 
+ 
+ ""The Outrageous Okona"", The Next Generation, 1988-10-04",hailing frequencies,18.629366458993278,18.629366458993278,0.0
+25,141500,"WORF: We could swat both mosquitoes easily. 
+ PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ 
+ ""The Outrageous Okona"", The Next Generation, 1988-10-04",hailing frequencies,18.629366458993278,0.0,18.629366458993278
+26,141284,"PICARD: Captain's log, supplemental. We have just encountered and identified an interplanetary cargo vessel which is apparently in need of emergency assistance. We will make every effort to do so. Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ PICARD: This is the USS Enterprise. Captain Jean-Luc Picard, over. 
+ 
+ ""The Outrageous Okona"", The Next Generation, 1988-10-04",hailing frequencies,18.629366458993278,6.373322123914356,0.0
+27,139236,"PICARD: Lieutenant, keep your emotions under control. Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ PICARD: Romulan vessel, this is Captain Jean-Luc Picard of the USS Enterprise. 
+ 
+ ""The Neutral Zone"", The Next Generation, 1988-03-17",hailing frequencies,18.629366458993278,12.782887705368346,0.0
+28,138636,"RIKER: So much for the cease-fire. 
+ PICARD: Open hailing frequencies. 
+ WORF: I can establish voice only. 
+ 
+ ""Loud as a Whisper"", The Next Generation, 1988-11-04",hailing frequencies,18.629366458993278,0.0,0.0
+29,138115,"PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ PICARD: Darwin Station. This is Captain Jean-Luc Picard of the USS Enterprise, on course for Gagarin Four. 
+ 
+ ""Unnatural Selection"", The Next Generation, 1988-11-10",hailing frequencies,18.629366458993278,18.629366458993278,0.0
+30,138114,"RINA: Deal. 
+ PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ 
+ ""Unnatural Selection"", The Next Generation, 1988-11-10",hailing frequencies,18.629366458993278,0.0,18.629366458993278
+31,138013,"PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ PICARD: Lantree, this is the Enterprise. 
+ 
+ ""Unnatural Selection"", The Next Generation, 1988-11-10",hailing frequencies,18.629366458993278,18.629366458993278,0.0
+32,138012,"GEORDI: Ensign... maybe you better stay in the control room. 
+ PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ 
+ ""Unnatural Selection"", The Next Generation, 1988-11-10",hailing frequencies,18.629366458993278,0.0,18.629366458993278
+33,137605,"PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ PICARD: 'Aucdet Nine, this is Captain Jean-Luc Picard of the USS Enterprise. 
+ 
+ ""The Child"", The Next Generation, 1988-09-20",hailing frequencies,18.629366458993278,18.629366458993278,0.0
+34,137604,"WESLEY: Standard orbit, aye. 
+ PICARD: Open hailing frequencies. 
+ WORF: Hailing frequencies open. 
+ 
+ ""The Child"", The Next Generation, 1988-09-20",hailing frequencies,18.629366458993278,0.0,18.629366458993278
+35,137496,"NELLA: Don't give up your music. 
+ RIKER: Open hailing frequencies. 
+ WORF: Hailing frequencies opened. 
+ 
+ ""The Child"", The Next Generation, 1988-09-20",hailing frequencies,18.629366458993278,0.0,18.24996007010677
+36,135125,"PICARD: Open hailing frequency. 
+ TASHA: Hailing frequencies open. 
+ PICARD: Unidentified freighter, this is the USS Enterprise. May we be of assistance? 
+ 
+ ""Symbiosis"", The Next Generation, 1988-02-17",hailing frequencies,18.629366458993278,9.40125352009176,0.0
+37,134881,"WESLEY: Commander, Romulan vessel! 
+ RIKER: Open hailing frequencies. 
+ WILLIAMS: They're arming photon torpedoes! 
+ 
+ ""Contagion"", The Next Generation, 1989-01-04",hailing frequencies,18.629366458993278,0.0,0.0
+38,134554,"PICARD: Open hailing frequencies, Mister Worf. 
+ WORF: Hailing frequencies open. 
+ DATA: Sir, it is unlikely that Daled Four will respond. 
+ 
+ ""The Dauphin"", The Next Generation, 1988-12-23",hailing frequencies,18.629366458993278,16.563314582809156,0.0
+39,134232,"PICARD: Open hailing frequencies, Mister Worf. 
+ WORF: Hailing frequencies open. 
+ PICARD: This is Captain Picard of the USS Enterprise. 
+ 
+ ""The Dauphin"", The Next Generation, 1988-12-23",hailing frequencies,18.629366458993278,16.563314582809156,0.0
+40,131694,"WORF: We have a Klingon vessel approaching. 
+ PICARD: Hailing frequencies open. 
+ WORF: They are returning our hail in proper language. It is the Pagh. 
+ 
+ ""A Matter of Honor"", The Next Generation, 1988-12-02",hailing frequencies,18.629366458993278,0.0,0.0
+41,47736,"KIRA: What? 
+ O'BRIEN: A universe? 
+ DAX: What we have here, Benjamin, is a proto-universe in its earliest stages of formation. Unfortunately, as it grows, it's displacing our own universe. 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",universe,10.932000389051955,0.0,6.763970236371132
+42,46217,"JACK: Yes. Exactly. We have to find some way to decrease the mass... 
+ SARINA: Of the entire universe? 
+ JACK: That's the whole point. 
+ 
+ ""Chrysalis"", Deep Space Nine, 1998-08-14",universe,9.539428833104648,0.0,0.0
+43,31585,"ZEK: Simple, really. I came to find new financial opportunities for the Ferengi people. 
+ ROM: In the Alternate Universe? 
+ ZEK: It seemed like a good idea at the time... 
+ 
+ ""The Emperor's New Cloak"", Deep Space Nine, 1998-10-26",universe,9.245010204601313,0.0,0.0
+44,40481,"KIRA: The ""Eye?"" 
+ HANEEK: The Eye of the Universe... The tunnel... 
+ ODO: I think she means the wormhole. 
+ 
+ ""Sanctuary"", Deep Space Nine, 1993-10-08",universe,8.461554703905758,0.0,0.0
+45,47734,"KIRA: Recognized as what? 
+ DAX: The expansion patterns of a universe. 
+ KIRA: What? 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",universe,8.305152793961403,0.0,0.0
+46,63270,"KIRA II: I'll call for you later. 
+ BASHIR: Do they ever feed you in this universe? 
+ ODO: The Intendant informed me that you'd be inspecting the facilities... if there is anything I can explain... 
+ 
+ ""Crossover"", Deep Space Nine, 1994-03-08",universe,8.15442776509926,0.0,0.0
+47,31683,"GARAK: I don't have time for this. I want to be on the bridge when we destroy the Defiant. 
+ ZEK: In our universe, work comes before pleasure. 
+ QUARK: Our Garak would have had us hanging by our toenails by now, telling him all our secrets. 
+ 
+ ""The Emperor's New Cloak"", Deep Space Nine, 1998-10-26",universe,7.868815339051713,0.0,0.0
+48,31668,"INTENDANT: Or anyone else, for that matter. 
+ ROM: I'm really beginning to hate this universe. 
+ GARAK : What we have here, gentlemen, is ten CC's of concentrated Ulcartic virus. 
+ 
+ ""The Emperor's New Cloak"", Deep Space Nine, 1998-10-26",universe,7.868815339051713,0.0,0.0
+49,78102,"RIKER: You make it sound poetic. 
+ LUISA: I think it's the best occupation in the universe. 
+ DATA: The efficiency of your hydraulic landscaping is elegant. 
+ 
+ ""Home Soil"", The Next Generation, 1987-12-02",universe,7.476038048172783,0.0,0.0
+50,7164,"O'BRIEN: You know her? 
+ SISKO: She was my wife, too. But in my universe, she's dead. 
+ O'BRIEN: Not here she isn't. Not yet, anyway. 
+ 
+ ""Through the Looking Glass"", Deep Space Nine, 1995-02-02",universe,7.414355941552022,0.0,0.0
+51,56708,"BAREIL: I don't know -- I'm making this up as I go along. Believe me, no matter where I end up, it's going to be a lot better than where I've been. 
+ KIRA: I can believe that. I've spent time in your universe. 
+ BAREIL: I bet you were glad to leave it. 
+ 
+ ""Resurrection"", Deep Space Nine, 1997-09-17",universe,7.293995661103863,0.0,0.0
+52,40503,"BASHIR: How so? 
+ HANEEK: I was the first one to find the Eye of the Universe... 
+ HANEEK: We had heard about a great tunnel being discovered... we knew it must be the Eye of the Universe that would lead us to Kentanna... 
+ 
+ ""Sanctuary"", Deep Space Nine, 1993-10-08",universe,7.293995661103863,0.0,4.580161064724803
+53,47799,"SISKO: Why not? 
+ DAX: I've found indications of life in the proto-universe. 
+ DAX: ... non-random thermodynamics... ... irregular power consumption. The computer's confirmed it, these are lifesigns... 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",universe,7.235269115820431,0.0,0.0
+54,9210,"ODO: Solid... I wonder why my people use that term -- humanoid bodies are so fragile. 
+ SISKO: Yes, they are. And it's a dangerous universe out there. 
+ ODO: You're worried about Jake. 
+ 
+ ""... Nor the Battle to the Strong"", Deep Space Nine, 1996-08-06",universe,7.235269115820431,0.0,0.0
+55,27565,"DUKAT: (dripping with contempt) Soon the Pah-wraiths will burn across Bajor, the Celestial Temple, the Alpha Quadrant... Can you picture it? 
+ DUKAT : A universe in flames, burning brightly for all eternity. 
+ DUKAT: The Prophets have sent me a gift. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",universe,7.120608035752316,0.0,0.0
+56,96358,"DATA: Can you recommend a way to counter the effect? 
+ Q: Simple. Change the gravitational constant of the universe. 
+ GEORDI: What... ? 
+ 
+ ""Deja Q"", The Next Generation, 1989-11-14",universe,7.009524449056785,0.0,0.0
+57,121913,"TRAVELER: It's collapsing. 
+ BEVERLY: Computer, give me a graphic representation of the universe. 
+ BEVERLY: I've seen that before... Wesley's experiment... the bubble. Of course... But that would mean I'm the one trapped in the bubble... 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",universe,6.955272298852665,0.0,0.0
+58,91896,"MIRASTA: About what? 
+ PICARD: About space. About the universe you are preparing to enter. 
+ TROI: We are from a federation of planets, Mirasta... Captain Picard is from a planet called Earth more than two thousand light years from here. I am from another planet called Betazed. 
+ 
+ ""First Contact"", The Next Generation, 1990-11-28",universe,6.955272298852665,0.0,0.0
+59,31308,"QUARK: Risa? 
+ ZEK: If you said Risa -- guess again. I'm in the Alternate Universe! 
+ QUARK: You're not Ezri -- you're from over there. 
+ 
+ ""The Emperor's New Cloak"", Deep Space Nine, 1998-10-26",universe,6.9018534977105945,0.0,0.0
+60,47737,"O'BRIEN: A universe? 
+ DAX: What we have here, Benjamin, is a proto-universe in its earliest stages of formation. Unfortunately, as it grows, it's displacing our own universe. 
+ SISKO: Can we get it back where it came from? 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",universe,6.763970236371132,10.932000389051955,0.0
+61,82226,"PICARD: Who are you? Or what? 
+ TRAVELER: I am -- a Traveler. 
+ PICARD: A traveler? What is your destination? 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,13.33603231167038,0.0,10.848029315387183
+62,62231,"JAKE: Forget it Nog, we have to tell him. We've been investigating the man whose picture you're holding in your hand right now. Until yesterday, that man, one ""Willie Mays"" did not exist in any historical documents. Then, in the blink of an eye, that card appeared on the station, and at the same moment, a bust of Willie Mays appeared at the Hall of Fame in Cooperstown, New York. There's only one explanation. (beat, then points to the card) We suspect that this man... is from the future. 
+ WEYOUN: A time-traveler? 
+ JAKE: That's right. And so far that card is our only link to him. We have to find out what he's planning to do in the past. ... or what he may have done already. 
+ 
+ ""In the Cards"", Deep Space Nine, 1997-04-01",traveler,13.33603231167038,0.0,0.0
+63,82333,"GEORDI: Or whatever you want to call it, Data. I don't have a name for it. 
+ RIKER: The Traveler's gone, sir. 
+ PICARD: Gone? 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,12.215389145567286,0.0,0.0
+64,82227,"TRAVELER: I am -- a Traveler. 
+ PICARD: A traveler? What is your destination? 
+ TRAVELER: Destination? 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,10.848029315387183,13.33603231167038,0.0
+65,121956,"GEORDI: We're losing the bubble... 
+ BEVERLY: Jean-Luc... (sees the Traveler, reacts) You... 
+ BEVERLY: Do I have you to thank for getting me back? 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,10.649352377564602,0.0,0.0
+66,85789,"RIKER: There is no evidence either way. 
+ PICARD: The Traveler moved through time with the power of his mind. 
+ RIKER: I don't think that's the case here. 
+ 
+ ""Time Squared"", The Next Generation, 1989-01-25",traveler,8.931750555145882,0.0,0.0
+67,82281,"TRAVELER: I will try. 
+ PICARD: Number One, you'll take the Traveler to Main Engineering; I'll be on the bridge... 
+ WESLEY: He is very weak. 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,7.794349843536977,0.0,0.0
+68,121882,"TRAVELER: It's nothing I can tell you, Wesley... 
+ WESLEY: Then how am I supposed to do it? (off the Traveler's even stare) You said you'd help. 
+ TRAVELER: You must allow me to help. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,7.590845605250527,0.0,0.0
+69,121811,"PICARD: We've never needed a crew before. 
+ BEVERLY: I don't suppose you remember an alien from Tau Alpha C who was once onboard... called himself a Traveler... ? 
+ BEVERLY: Jean-Luc, I don't know how, but you and I must find this Traveler or another from his race... if anyone can help us... 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,6.714318221499531,0.0,6.382660880505742
+70,121812,"BEVERLY: I don't suppose you remember an alien from Tau Alpha C who was once onboard... called himself a Traveler... ? 
+ BEVERLY: Jean-Luc, I don't know how, but you and I must find this Traveler or another from his race... if anyone can help us... 
+ PICARD: You have my word... as soon as we return to the starbase, I'll make every effort to find him. 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,6.382660880505742,6.714318221499531,0.0
+71,82312,"PICARD: ... OF YOUR STRENGTH. URGENT. THIS IS AN ORDER. YOU MUST TRY TO DO THIS. 
+ PICARD: YOU WILL ATTEMPT NOW TO CONCENTRATE COMPLETELY ON EITHER YOUR DUTY OF THE MOMENT... OR UPON THE TRAVELER... ON HIS WELL BEING. 
+ PICARD: THINK OF HIM AS SOMEONE YOU CARE DEEPLY ABOUT. 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,6.082226069553241,0.0,0.0
+72,39649,"KIRA: And the Federation's got no right telling us how to deal with our criminals. 
+ SISKO: If it turns out he is a criminal, he'll be yours and you're welcome to him. Until then, he's just a traveler under suspicion. 
+ KIRA: You think this is all some personal vendetta on my part, don't you? 
+ 
+ ""Duet"", Deep Space Nine, 1993-03-26",traveler,6.019263947640666,0.0,0.0
+73,35581,"FALLIT KOT: I didn't order dinner. 
+ QUARK: What better way to mollify -- I mean, satisfy -- a hungry traveler than with a delicious home-cooked meal... starting with a delicate Vak clover soup... 
+ QUARK: Why spoil your appetite with soup? 
+ 
+ ""Melora"", Deep Space Nine, 1993-08-26",traveler,5.506265063029653,0.0,0.0
+74,121792,"BEVERLY: Who? 
+ WESLEY: He was Kosinski's assistant... an alien from Tau Alpha C... He said he was a ""Traveler""... somehow he combined warp technology with the energy of his own thoughts... 
+ BEVERLY: Yes, I remember... he took us where thoughts and reality became indistinguishable... Wesley, is it possible you've accidentally re-created something he did? Something that could alter reality? 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,5.210232891944587,0.0,0.0
+75,121833,"TRAVELER: There's still a way. 
+ PICARD : Captain's log, Stardate 44162.5. Two attempts to retrieve Doctor Crusher have failed. And now the Traveler, a mysterious visitor from our past, has reappeared. 
+ WESLEY: And then I sent a message by subspace to Tau Alpha C asking for help... but I didn't think it would reach there for days... 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,5.163961396772357,0.0,0.0
+76,82336,"RIKER: He phased completely out of existence... at least out of our existence. 
+ PICARD: Attention all decks. This is to inform you that the Traveler has left us. With your support, he has returned us to our galaxy. Wherever he has gone, we wish him well. 
+ PICARD: Have the boy come up on the bridge, Number One. 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,5.008288231417667,0.0,0.0
+77,121876,"COMPUTER: There is no Tau Alpha C listed on current star maps... 
+ PICARD : Captain's log, stardate 44162.8. At the direction of the Traveler, the Enterprise is returning to Starbase One-Three-Three and the precise position where the subspace bubble was formed. 
+ TRAVELER: Our goal will be to create a stable gateway between our reality and your mother's reality... 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,4.59291330997976,0.0,0.0
+78,82305,"PICARD : ... but wish one variation. A principal part of this warp formula will be the thoughts of everyone aboard the Enterprise. We have no idea exactly how this works... 
+ PICARD : ... we understand only that the Traveler makes use of this somehow. It will be most important that those aboard avoid random thoughts that might change the reality of what we're attempting to do. 
+ PICARD: Any further advice, Counselor? 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,4.452243607637079,0.0,0.0
+79,121937,"COMPUTER: Three minutes thirty seconds to life support failure. 
+ BEVERLY: (to herself, quick pace, pressing herself to complete equation) The Traveler used his thoughts to alter warp fields... and thoughts became reality... Now I'm in a warp field... Could my thoughts have changed this reality? 
+ BEVERLY: Come on, Beverly! What's the next step?! What was I thinking at the moment Wesley's bubble formed? Dalen Quaice... He said... all the people he'd known were gone... I thought of Jack... I went to see Wesley... the flash in Engineering... And that's when it started... when I started losing everybody! My thoughts created this universe. Can they get me out of it again? 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",traveler,4.165210623783369,0.0,0.0
+80,82310,"PICARD: ALL DECKS, THIS IS THE CAPTAIN SPEAKING. ALL DECKS... 
+ PICARD: ... I MUST HAVE YOUR FULL ATTENTION. IN A FEW MOMENTS AS WE ATTEMPT TO WARP BACK HOME, IT IS VITAL... ABSOLUTELY VITAL, THAT YOU CENTER YOUR THOUGHTS ON YOUR DUTY... OR UPON THE WELFARE OF THE ONE CALLED 'THE TRAVELER.' THINK OF GIVING HIM SOME... 
+ PICARD: ... OF YOUR STRENGTH. URGENT. THIS IS AN ORDER. YOU MUST TRY TO DO THIS. 
+ 
+ ""Where None Have Gone Before"", The Next Generation, 1987-07-30",traveler,3.8738427505761646,0.0,0.0
+81,88028,"WORF: Aye, sir. 
+ JACK: Wesley... Wesley... 
+ JACK: Wesley... 
+ 
+ ""Journey's End"", The Next Generation, 1994-01-20",wesley,11.78926164264787,0.0,10.38035440555035
+82,141355,"OKONA: Thank you Ensign Crusher, Crusher. 
+ WESLEY: It's Wesley, Wesley. 
+ OKONA: I'll make it easy on both of us. I'll just call you Tiger. 
+ 
+ ""The Outrageous Okona"", The Next Generation, 1988-10-04",wesley,11.376222925586335,0.0,0.0
+83,141332,"OKONA: Well ensigns have names, don't they? 
+ WESLEY: Wesley... Wesley Crusher.. 
+ OKONA: Nice to meet you Ensign ""Wesley Wesley"" Crusher. 
+ 
+ ""The Outrageous Okona"", The Next Generation, 1988-10-04",wesley,11.14200572573382,0.0,9.566363668829533
+84,141264,"TROI: And we know they'll make good parents. 
+ PICARD: Wesley! 
+ WESLEY: Sorry, sir. She just wanted to give you a present for bringing her back to her mommy. 
+ 
+ ""When the Bough Breaks"", The Next Generation, 1987-12-11",wesley,10.38035440555035,0.0,0.0
+85,140876,"DATA: The theory is simple. The shield bends light rays around the planet's contour -- similar to the Romulan cloaking device -- but the implementation is very difficult. 
+ PICARD: Wesley! 
+ GEORDI: Sir, the energy beam is originating from Aldea. 
+ 
+ ""When the Bough Breaks"", The Next Generation, 1987-12-11",wesley,10.38035440555035,0.0,0.0
+86,134619,"ARON: Computer - field off. 
+ SALIA: Wesley. 
+ WESLEY: Was it fun? 
+ 
+ ""The Dauphin"", The Next Generation, 1988-12-23",wesley,10.38035440555035,0.0,0.0
+87,134321,"COMPUTER: Point oh-four percent and increasing. 
+ GEORDI: Wesley? 
+ GEORDI : Wesley! Haven't you found the defocused area yet? 
+ 
+ ""The Dauphin"", The Next Generation, 1988-12-23",wesley,10.38035440555035,0.0,6.810011452124838
+88,123745,"WESLEY: It's wrong... 
+ LOCARNO: Wesley... 
+ WESLEY: No. I'm going to tell them what happened. 
+ 
+ ""The First Duty"", The Next Generation, 1992-01-22",wesley,10.38035440555035,0.0,0.0
+89,121782,"BEVERLY: If we reach Starbase. Wesley... where's Wesley... ? 
+ BEVERLY: Wesley!! 
+ WESLEY: Mom? You all right? 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",wesley,10.38035440555035,9.738509573632157,0.0
+90,120613,"BEVERLY: C'mon, I'll help you finish this up... what are you looking for? 
+ BEVERLY: Wesley... ? 
+ WESLEY: Mom, I think I've made a horrible mistake. 
+ 
+ ""Evolution"", The Next Generation, 1989-07-24",wesley,10.38035440555035,0.0,0.0
+91,116963,"DATA: Of course. Lieutenant Worf? 
+ BEVERLY : Wesley? 
+ WESLEY: Mom! 
+ 
+ ""Final Mission"", The Next Generation, 1990-09-17",wesley,10.38035440555035,0.0,0.0
+92,116949,"WESLEY: I'll be back soon. 
+ PICARD: Wesley... 
+ PICARD: Always remember... I was... proud of you... 
+ 
+ ""Final Mission"", The Next Generation, 1990-09-17",wesley,10.38035440555035,0.0,0.0
+93,114681,"HOLO-WESLEY: I don't care. 
+ GEORDI: Wesley... ? 
+ HOLO-WESLEY: What do you want? 
+ 
+ ""Hollow Pursuits"", The Next Generation, 1990-02-09",wesley,10.38035440555035,0.0,0.0
+94,100995,"BEVERLY: Wesley? 
+ BEVERLY: Wesley? 
+ WESLEY : In here, Mom. 
+ 
+ ""The Game"", The Next Generation, 1991-08-23",wesley,10.38035440555035,10.38035440555035,0.0
+95,100994,"PICARD: (continuing; an afterthought) And don't forget Mister Crusher. 
+ BEVERLY: Wesley? 
+ BEVERLY: Wesley? 
+ 
+ ""The Game"", The Next Generation, 1991-08-23",wesley,10.38035440555035,0.0,10.38035440555035
+96,100878,"WESLEY: Mom? 
+ BEVERLY: Wesley... 
+ WESLEY: What are you doing? 
+ 
+ ""The Game"", The Next Generation, 1991-08-23",wesley,10.38035440555035,0.0,0.0
+97,100751,"WESLEY: Thanks, Mom. 
+ PICARD: Wesley... 
+ WESLEY: Captain... 
+ 
+ ""The Game"", The Next Generation, 1991-08-23",wesley,10.38035440555035,0.0,0.0
+98,88029,"JACK: Wesley... Wesley... 
+ JACK: Wesley... 
+ WESLEY: Dad... 
+ 
+ ""Journey's End"", The Next Generation, 1994-01-20",wesley,10.38035440555035,11.78926164264787,0.0
+99,100801,"ROBIN: Sure. 
+ WESLEY: I'm Wesley, by the way... Wesley Crusher. 
+ ROBIN: I know. Just came back from the Academy. 
+ 
+ ""The Game"", The Next Generation, 1991-08-23",wesley,10.102081787679719,0.0,0.0
+100,108228,"WESLEY: Counselor Troi... ? 
+ TROI: Yes, Wesley... 
+ WESLEY: Can I talk to you a minute... I have a real problem with my mother. 
+ 
+ ""The Price"", The Next Generation, 1989-09-25",wesley,9.875244280030842,0.0,0.0
+101,120955,"RISHON: Mister Worf, what do you think? 
+ WORF: Good tea. Nice house. 
+ PICARD: Why did you leave Earth and move to a brand new world when you did? 
+ 
+ ""The Survivors"", The Next Generation, 1989-07-31",good tea,16.07193916733595,0.0,0.0
+102,101094,"KEIKO: A liquid... dark... 
+ TARMIN: Like tea... 
+ KEIKO: It's not hot... 
+ 
+ ""Violations"", The Next Generation, 1991-10-25",good tea,11.802959507771792,0.0,0.0
+103,116524,"RIKER: My life has been spent... trying to help others find solutions to insoluble problems. And now... I am confronted with one of my own for which there is truly no answer. 
+ BEVERLY: Lemon tea... 
+ RIKER: Computer... location of Doctor Beverly Crusher. 
+ 
+ ""The Host"", The Next Generation, 1991-03-01",good tea,11.657607702055136,0.0,0.0
+104,96687,"PICARD: Ginger tea with honey, very hot. 
+ KENNELLY: Ginger tea? 
+ PICARD: My Aunt Rebecca's cure for the common cold. 
+ 
+ ""Ensign Ro"", The Next Generation, 1991-07-18",good tea,11.515792320335276,9.2622722109585,0.0
+105,81369,"WORF: No, thank you. 
+ TROI: Yridian tea... 
+ TROI: I've been thinking about what happened to me in the nacelle tube... whether it was an empathic echo left by Kwan's death... 
+ 
+ ""Eye of the Beholder"", The Next Generation, 1993-12-21",good tea,11.377385851466418,0.0,0.0
+106,55025,"LWAXANA: I already did. He said he'd get to it as soon as he could. 
+ ODO: Gavaline tea... 
+ LWAXANA: Hot. 
+ 
+ ""The Muse"", Deep Space Nine, 1996-02-13",good tea,11.242266841644936,0.0,0.0
+107,64653,"BASHIR: Maybe so, but he's also my patient. And I won't have him disturbed. So until further notice, his quarters are off limits to everyone but emergency medical personnel. Now, if you'll excuse me, I have a patient to attend to. 
+ BASHIR: Tarkalean Tea. 
+ BASHIR: Garak? 
+ 
+ ""The Wire"", Deep Space Nine, 1994-03-01",good tea,11.110319538942818,0.0,0.0
+108,12811,"GARAK: Not from where I'm sitting. 
+ BASHIR: Tarkalean tea. 
+ DAX: I'll take a raktajino, Julian. 
+ 
+ ""Favor the Bold"", Deep Space Nine, 1997-08-13",good tea,11.110319538942818,0.0,0.0
+109,12125,"WAITRESS: We don't have any Klingon beverages. Would you like something else? 
+ ODO: Tarkalean Tea. 
+ JONES'  - CLIP: I have something from the far reaches of the galaxy. Surely you want -- 
+ 
+ ""Trials and Tribble-ations"", Deep Space Nine, 1996-08-20",good tea,11.110319538942818,0.0,0.0
+110,1742,"BASHIR: Quark? Quark! 
+ BASHIR: Tarkalean Tea? 
+ BASHIR: Constable? 
+ 
+ ""Distant Voices"", Deep Space Nine, 1995-01-11",good tea,11.110319538942818,0.0,0.0
+111,22756,"GARAK: Ah, you know of me, then. 
+ BASHIR: Would you care for some of this Tarkalean tea? It's very good. 
+ GARAK: What a thoughtful young man. How nice that we've met. 
+ 
+ ""Past Prologue"", Deep Space Nine, 1992-10-05",good tea,11.087551624659085,0.0,0.0
+112,28196,"O'BRIEN: But I'd be willing to give it a try. 
+ SISKO: Good morning, Major. Chiraltan Tea, with a double twist of lemon. 
+ SISKO: Something wrong? 
+ 
+ ""Second Sight"", Deep Space Nine, 1993-09-28",good tea,11.00431343672227,0.0,0.0
+113,33877,"EZRI: Yeah, yeah... I'm up. 
+ EZRI: Fanalian tea. Hot. 
+ EZRI: What happened? 
+ 
+ ""Field of Fire"", Deep Space Nine, 1998-11-09",good tea,10.732429094667637,0.0,0.0
+114,137149,"COMPUTER: Library Systems have been allocated to Stellar Cartography. 
+ PICARD: Tea, Earl Grey. Hot. 
+ COMPUTER: Replicator systems are off-line at the request of -- 
+ 
+ ""Lessons"", The Next Generation, 1993-01-25",good tea,10.612114028692405,0.0,0.0
+115,113979,"RIKER: It sounds like a plan. Get started on it. 
+ PICARD: Tea, Earl Grey, hot. 
+ DATA: Captain, permission to beam down to Drema Four. 
+ 
+ ""Pen Pals"", The Next Generation, 1989-02-10",good tea,10.612114028692405,0.0,0.0
+116,112037,"PICARD: The lights stay on. 
+ KAMALA: Earl Grey Tea. Hot. 
+ PICARD: Did you learn that from Mister Data as well? 
+ 
+ ""The Perfect Mate"", The Next Generation, 1992-02-10",good tea,10.612114028692405,0.0,0.0
+117,80670,"PICARD: He's proved he can get to us whenever he wants. What's he waiting for? 
+ PICARD: Tea, earl grey -- hot. 
+ BOK: If you want me to stay and talk you'd better not call for security this time... 
+ 
+ ""Bloodlines"", The Next Generation, 1994-02-09",good tea,10.612114028692405,0.0,0.0
+118,80525,"PICARD: Something else? 
+ PICARD: Tea, Earl Grey, hot. 
+ PICARD: Well. I'm sure this whole thing is as much a surprise to you as it is to me... 
+ 
+ ""Bloodlines"", The Next Generation, 1994-02-09",good tea,10.612114028692405,0.0,0.0
+119,75725,"PICARD: I appreciate your telling me... but I'm sure the two of you will find a way to... deal with the situation. 
+ PICARD: Tea. Earl Grey. Hot. 
+ COMPUTER: That beverage has not been programmed into the replication system. 
+ 
+ ""All Good Things... "", The Next Generation, 1994-03-10",good tea,10.612114028692405,0.0,0.0
+120,75392,"JESSEL: How do you like your tea? 
+ PICARD: Tea? Earl Grey. Hot. 
+ JESSEL: Of course it's hot. What do ya want in it? 
+ 
+ ""All Good Things... "", The Next Generation, 1994-03-10",good tea,10.612114028692405,9.839944475272073,0.0
+121,37350,"QUARK: We'll continue this later. In the meantime, you've got some reading to do. 
+ ROM: Hello, Aluura. Good book. 
+ QUARK: Let's go. 
+ 
+ ""Profit and Lace"", Deep Space Nine, 1998-03-09",good book,15.8339529170761,0.0,0.0
+122,27585,"DUKAT: Are you still here? 
+ WINN: Emissary, the book... 
+ DUKAT: Farewell, Adami. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",good book,10.901307837754718,0.0,0.0
+123,27299,"DUKAT: Then call to them. 
+ WINN: Bring me the book. 
+ WINN: I said, bring it. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",good book,10.901307837754718,0.0,0.0
+124,99244,"GEORDI: What's your hurry? You don't really think something's gonna happen between you and Suzanne Dumont... 
+ WESLEY: At least I'm not spending the night with a good book like some people... 
+ GEORDI: What's that supposed to mean? 
+ 
+ ""Sarek"", The Next Generation, 1990-03-05",good book,10.56354540095483,0.0,0.0
+125,122969,"RIKER: We're talking about Jean-Luc Picard. I'm not going to sit around and hope it all works out... I've got to do something... 
+ CLEMENS: Any place that doesn't stock a good cigar doesn't rank high in my book. 
+ TROI: If you must have one, I'm sure we could replicate it for you. 
+ 
+ ""Time's Arrow, Part II"", The Next Generation, 1992-07-02",good book,10.489260277118916,0.0,0.0
+126,119764,"HELENA: It was a difficult adolescence. 
+ GUINAN: You ought to write a book. 
+ SERGEY: We didn't do anything special. 
+ 
+ ""Family"", The Next Generation, 1990-08-02",good book,10.004105805044244,0.0,0.0
+127,19558,"BASHIR: Really... ? I'd love to hear about them. We have no idea what's beyond the wormhole... 
+ VASH: Perhaps I'll write a book... 
+ BASHIR: It's certain to be a best-seller around here... Well, no sign of disease or malnutrition, no parasitic infections... 
+ 
+ ""Q-Less"", Deep Space Nine, 1992-10-30",good book,10.004105805044244,0.0,0.0
+128,87741,"DATA: It is on page 244. 
+ RIKER: The book... Then... how does it end? 
+ DATA: A bad love affair ends in a bloody shoot-out, the hotel gets bought out and life goes on... such as it is -- 
+ 
+ ""The Royale"", The Next Generation, 1989-01-10",good book,9.60869716436225,0.0,0.0
+129,21986,"WINN: Lies... nothing but Cardassian lies. To think I let you touch me... 
+ WINN: The book... I have to destroy it! 
+ DUKAT: The Pah-wraiths have judged you and found you worthy. Their secrets are now yours... to do with as you please. 
+ 
+ ""The Changing Face of Evil"", Deep Space Nine, 1999-02-03",good book,9.60869716436225,0.0,0.0
+130,27591,"SARAH PROPHET: You've returned them to their prison within the fire caves. 
+ SISKO: The book was the key, wasn't it? 
+ SARAH PROPHET: To a door that can never be opened again. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",good book,9.514681087645734,0.0,0.0
+131,21251,"KIRA: You're quite a philosopher. 
+ FRANKIE: I'm thinking of writing a book. 
+ KIRA: Have you got a title? 
+ 
+ ""Badda-bing Badda-bang"", Deep Space Nine, 1998-12-09",good book,9.514681087645734,0.0,0.0
+132,19037,"O'BRIEN: ""... it was the worst of times."" 
+ O'BRIEN: It's the first line of the book. 
+ BASHIR: That's right. So why is it on page two hundred and ninety-four? 
+ 
+ ""Extreme Measures"", Deep Space Nine, 1999-03-05",good book,9.422486980199368,0.0,0.0
+133,109315,"TROI: They have what they want... for now. 
+ PICARD: Did you read that book I gave you? 
+ WESLEY: Some of it. 
+ 
+ ""Samaritan Snare"", The Next Generation, 1989-03-08",good book,9.243356849262558,0.0,0.0
+134,44466,"SISKO: She has something to say on just about... everything! 
+ O'BRIEN: (smiles, leafing through a book) Yeah? 
+ SISKO: Economic analysis. Political commentaries. Literary critiques. She says she's spent her life examining the human condition. 
+ 
+ ""Paradise"", Deep Space Nine, 1993-11-24",good book,9.156321805995619,0.0,0.0
+135,21794,"WINN: It's not a trick. 
+ DUKAT: Then Solbor brought the wrong book. 
+ WINN: He doesn't make those kinds of mistakes. The words are here... they've been hidden, that's all. Now it's up to us to find them. 
+ 
+ ""The Changing Face of Evil"", Deep Space Nine, 1999-02-03",good book,9.156321805995619,0.0,0.0
+136,16972,"SISKO: Well done Garak. 
+ GARAK: Just something I read once in a book. 
+ BASHIR: I'm sure. 
+ 
+ ""The Search, Part II"", Deep Space Nine, 1994-07-18",good book,8.98707794140631,0.0,0.0
+137,105872,"WORF: No. But I have taken the Starfleet Emergency Medical Course. In a computerized simulation, I assisted in the delivery of a human baby. 
+ KEIKO: Sometimes... things don't go by the book... 
+ WORF: I am sure everything will be fine. 
+ 
+ ""Disaster"", The Next Generation, 1991-08-12",good book,8.904780729928516,0.0,0.0
+138,50771,"QUARK: You're up early. I thought writers slept late. 
+ JAKE: Not always. I sold my first book today. 
+ QUARK: Really? How much did you get for it? 
+ 
+ ""You Are Cordially Invited... "", Deep Space Nine, 1997-09-05",good book,8.904780729928516,0.0,0.0
+139,10054,"QUARK: And what work was that, Grand Nagus? If I my be so bold? 
+ ZEK: I'm glad you asked. Maihar'du... the book. 
+ ZEK: You're about to read the shining triumph of my life. The one thing I'll always be remembered for. 
+ 
+ ""Prophet Motive"", Deep Space Nine, 1994-12-07",good book,8.904780729928516,0.0,0.0
+140,129897,"DATA: I... I do not know, sir. None I suppose. I just wanted them. Is that vanity? 
+ PICARD: (holding up the book of sonnets) And this? 
+ DATA: It was a gift from you, sir. 
+ 
+ ""The Measure of a Man"", The Next Generation, 1988-12-14",good book,8.744626696060763,0.0,0.0
+141,138792,"DATA: (continuing to speak for Riva) I would like the table right here. 
+ PICARD: Make it so. 
+ DATA: (touching his communicator) Main Engineering, this is Commander Data. 
+ 
+ ""Loud as a Whisper"", The Next Generation, 1988-11-04",make it so,14.752958888941992,0.0,0.0
+142,138519,"WORF: With your permission, Captain. 
+ PICARD: Make it so. 
+ WORF: Enterprise, this is the away team, seven to beam up. 
+ 
+ ""Loud as a Whisper"", The Next Generation, 1988-11-04",make it so,14.752958888941992,0.0,0.0
+143,138378,"RINA: Of course! 
+ PICARD: Make it so. 
+ GEORDI: Hop to it Ensign. You've got work to do. 
+ 
+ ""Unnatural Selection"", The Next Generation, 1988-11-10",make it so,14.752958888941992,0.0,2.093578607725778
+144,137866,"RIKER: (touches his communicator) Captain. We may not be able to get control of this situation. I recommend making arrangements to transfer all non-essential personnel to the saucer section. If we lose containment we should be prepared to separate. 
+ PICARD: Make it so. 
+ PULASKI: Why this one specimen and none of the others? Something is stimulating it. Do you have its etiology? How it was developed? 
+ 
+ ""The Child"", The Next Generation, 1988-09-20",make it so,14.752958888941992,0.0,1.9011532083413696
+145,136378,"GEORDI: I'll interface with the probe as soon as it's in place and take it in the rest of the way. 
+ PICARD: Make it so. 
+ PICARD: Onscreen. 
+ 
+ ""Interface"", The Next Generation, 1993-07-14",make it so,14.752958888941992,2.1591311837392384,0.0
+146,135775,"WORF: Sir, our weapon control systems are inoperative. However, we could configure a photon torpedo for manual launch... 
+ PICARD: Make it so. 
+ PICARD: There's so much here we could have learned... I regret losing that opportunity. 
+ 
+ ""Masks"", The Next Generation, 1993-12-09",make it so,14.752958888941992,0.0,2.9849565777844687
+147,135061,"GEORDI: Hey, Commander, whether it's Romulan phasers or our own warp engines we're just as dead. 
+ RIKER: Make it so. 
+ DATA: Can I help? 
+ 
+ ""Contagion"", The Next Generation, 1989-01-04",make it so,14.752958888941992,1.4676466568404445,0.0
+148,131902,"DATA: Since we do not know their intent I recommend we go to Red Alert. 
+ PICARD: Make it so. 
+ TACTICS OFFICER: The Enterprise has raised its shields. 
+ 
+ ""A Matter of Honor"", The Next Generation, 1988-12-02",make it so,14.752958888941992,0.0,0.0
+149,129293,"GEORDI: We could be there in five. 
+ DATA: Make it so. 
+ WORF: Finally. 
+ 
+ ""Gambit, Part II"", The Next Generation, 1993-08-06",make it so,14.752958888941992,0.0,0.0
+150,128470,"DATA: I recommend we use the gravitron polarimeter instead. It will perform a similar function. 
+ PICARD: Make it so. 
+ BEVERLY: Captain... There's something I'd like to report. 
+ 
+ ""Cause and Effect"", The Next Generation, 1992-01-02",make it so,14.752958888941992,1.4492091978107497,0.0
+151,126240,"GEORDI: Twenty to one it'll work. 
+ PICARD: Make it so. 
+ CLANCEY: Coming to three-one mark one-one-three. 
+ 
+ ""The Emissary"", The Next Generation, 1989-04-10",make it so,14.752958888941992,2.3982488467011813,0.0
+152,125277,"WORF: Twenty-three minutes. 
+ PICARD: Make it so. 
+ DATA: Frequency scan detectors engaged. 
+ 
+ ""The Loss"", The Next Generation, 1990-10-01",make it so,14.752958888941992,0.0,0.0
+153,125210,"GEORDI: We don't necessarily have to fire at them. Half-a-dozen photon torpedo bursts directly in their path could make them change course. 
+ PICARD: Make it so. 
+ WORF: Torpedoes armed. Fire distribution set. Detonation at seven kilometers ahead of the cluster. 
+ 
+ ""The Loss"", The Next Generation, 1990-10-01",make it so,14.752958888941992,2.6968892147744516,0.0
+154,124766,"GEORDI: ... the pressure from inside the ship might push it away from the hull. 
+ PICARD: Make it so. 
+ DATA: Is the appellation ""Junior"" to be the lifeform's official name from now on? 
+ 
+ ""Galaxy's Child"", The Next Generation, 1990-12-10",make it so,14.752958888941992,1.6694175764962824,0.0
+155,124452,"GEORDI: I can try to augment the field with auxiliary power, but it won't be much... 
+ PICARD: Make it so. 
+ GEORDI: Aye sir. 
+ 
+ ""Schisms"", The Next Generation, 1992-08-14",make it so,14.752958888941992,1.599956288658277,0.0
+156,122651,"O'BRIEN: The Phoenix is using a high-energy sensor sweep. It cycles every five-point-five minutes. Between those cycles there's a window of a fiftieth of a second. Trust me. I can get through. 
+ PICARD: Make it so. 
+ O'BRIEN: It's good we're trying this with another Federation ship. It would never work with an alien vessel. 
+ 
+ ""The Wounded"", The Next Generation, 1990-10-23",make it so,14.752958888941992,0.9221244164392821,2.081224203616136
+157,119395,"GEORDI: A few hours. 
+ PICARD: Make it so. 
+ GEORDI: Should we... discuss this with Barclay, Captain? 
+ 
+ ""The Nth Degree"", The Next Generation, 1991-01-25",make it so,14.752958888941992,0.0,0.0
+158,118511,"GEORDI: I should be able to create a subspace field large enough to encompass everyone. Adjusting the phase inside the field will be the hard part. 
+ PICARD: Make it so. 
+ RIKER: There's one thing we have to assume, Captain. 
+ 
+ ""Time's Arrow"", The Next Generation, 1992-04-06",make it so,14.752958888941992,0.0,0.0
+159,117709,"WORF: A phaser set to level sixteen should suffice. 
+ PICARD: Make it so. 
+ PICARD: Very good, Mister Worf. 
+ 
+ ""Chain of Command, Part I"", The Next Generation, 1992-10-06",make it so,14.752958888941992,0.0,0.0
+160,114914,"GEORDI: Nossir. 
+ PICARD: Make it so. 
+ DUFFY: Route primary coupling through starboard transfer conduit. 
+ 
+ ""Hollow Pursuits"", The Next Generation, 1990-02-09",make it so,14.752958888941992,0.0,0.0
+161,123880,"ELINE: You're the best iron weaver in the community. At least I think so. You prefer playing the flute, of course. 
+ PICARD: The flute? 
+ PICARD: And when did I learn to play it? 
+ 
+ ""The Inner Light"", The Next Generation, 1992-03-24",flute,15.947013539666543,7.391099463003753,0.0
+162,137228,"PICARD: I'm delighted. Come in. 
+ NELLA: What kind of flute is that? 
+ PICARD: It's Ressikan. 
+ 
+ ""Lessons"", The Next Generation, 1993-01-25",flute,13.186404901236383,0.0,0.0
+163,123949,"ADMINISTRATOR: Well. Very ambitious. Kamin, was it? And your occupation is -- ? 
+ PICARD: Iron weaving. And playing the flute. 
+ ADMINISTRATOR: I don't mean to quash your very creative idea... but building atmospheric condensers would be a monumental undertaking. We could not hope to sustain such a project. 
+ 
+ ""The Inner Light"", The Next Generation, 1992-03-24",flute,12.193104012972169,0.0,0.0
+164,137269,"BEVERLY: The Captain? 
+ NELLA: He plays a kind of flute... Ressikan, I think he said. 
+ BEVERLY: Yes... but I didn't realize he played... duets. 
+ 
+ ""Lessons"", The Next Generation, 1993-01-25",flute,10.68409014041031,0.0,0.0
+165,123961,"BATAI: Hearing you talk to the Administrator... I realized that for the first time in years, you were speaking as though you were truly a member of the community. It was good to hear that again. 
+ BATAI: You've been brooding behind that flute all evening. 
+ PICARD: I'm not brooding. I'm immersed in my music. 
+ 
+ ""The Inner Light"", The Next Generation, 1992-03-24",flute,10.596660894742767,0.0,0.0
+166,137349,"PICARD: It was all very real to me. 
+ PICARD: When I awoke, all that was left of my life there... was the flute I'd taught myself to play. 
+ NELLA: Why are you telling me all this? 
+ 
+ ""Lessons"", The Next Generation, 1993-01-25",flute,8.133910917782112,0.0,0.0
+167,123879,"PICARD: What is it that I do... here in Ressik? 
+ ELINE: You're the best iron weaver in the community. At least I think so. You prefer playing the flute, of course. 
+ PICARD: The flute? 
+ 
+ ""The Inner Light"", The Next Generation, 1992-03-24",flute,7.391099463003753,0.0,15.947013539666543
+168,47894,"O'BRIEN: Ten seconds to the wormhole. 
+ KIRA: Reading higher levels of neutrino activity... 
+ O'BRIEN: Five... 
+ 
+ ""Playing God"", Deep Space Nine, 1993-12-17",neutrino levels,16.678551144544393,0.0,0.0
+169,8607,"BASHIR CHANGELING: Is a Klingon warrior. He'd understand. 
+ KIRA: Neutrino levels in the wormhole are rising. 
+ SISKO: If we're going to do this, we have to do it now. 
+ 
+ ""In Purgatory's Shadow"", Deep Space Nine, 1996-11-18",neutrino levels,16.678551144544393,0.0,0.0
+170,8438,"SISKO: Another listening post has gone dead. And the one closest to the wormhole is detecting an incoming ship. 
+ O'BRIEN: I'm picking up an increase in neutrino levels. Something coming through. 
+ DAX: Shields fully charged. 
+ 
+ ""In Purgatory's Shadow"", Deep Space Nine, 1996-11-18",neutrino levels,13.394510670993263,0.0,0.0
+171,29360,"SISKO: What's the rush? 
+ O'BRIEN: There's some residual neutrino levels in the microstructure of the building material. 
+ BASHIR: But if the Dal'Rok has no physical substance, how can it leave a neutrino trace? 
+ 
+ ""The Storyteller"", Deep Space Nine, 1993-02-02",neutrino levels,12.193999118940752,0.0,7.026625051257451
+172,114177,"RIKER: Something that can cut through the storm... to give us some way to signal him... 
+ WESLEY: A neutrino pulse... 
+ WESLEY: We could build a portable neutrino source and send it in a probe to the surface. It would be like a beacon. 
+ 
+ ""The Enemy"", The Next Generation, 1989-09-11",neutrino levels,11.965824627237188,0.0,5.955993095935237
+173,39974,"KIRA: Let me know if you find anything else. 
+ DAX: Sensors are reading elevated neutrino levels at the wormhole... Something's coming through... 
+ KIRA: On screen. 
+ 
+ ""Dramatis Personae"", Deep Space Nine, 1993-02-24",neutrino levels,11.9642166047548,0.0,0.0
+174,32664,"SISKO: I am Commander Benjamin Sisko of the United Federation of Planets... 
+ O'BRIEN: Another neutrino disruption... 
+ KIRA: Scanners are picking up an object near their last known coordinates... it isn't a ship... 
+ 
+ ""#40511-721"", Deep Space Nine, 1992-08-10",neutrino levels,10.639005226750955,0.0,0.0
+175,114236,"GEORDI: This better not be another malfunction... 
+ GEORDI : A stationary neutrino source... 
+ GEORDI: Wesley Crusher. 
+ 
+ ""The Enemy"", The Next Generation, 1989-09-11",neutrino levels,10.532830394037422,0.0,0.0
+176,58528,"KIRA: Lieutenant, what's the E.T.A. of the Odyssey? 
+ DAX: They're due in eight hours... (her attention's drawn to a panel) I'm reading elevated neutrino levels from the wormhole. 
+ KIRA: Hail them. 
+ 
+ ""The Jem'Hadar"", Deep Space Nine, 1994-04-11",neutrino levels,10.229366126475515,0.0,0.0
+177,93948,"PICARD: I remember the words. But I don't understand... 
+ GEORDI: Matrix levels. 
+ LEFLER: Annular convergence holding at four three nine point two oh five. Confinement resolution at point five two seven. 
+ 
+ ""Darmok"", The Next Generation, 1991-07-08",neutrino levels,9.968199567206778,0.0,0.0
+178,53679,"PREN: Activate the drone. 
+ BEJAL: Wormhole neutrino readings... are stable. 
+ DAX: Subspace field stress is up by fifteen percent... but still within safety margins. 
+ 
+ ""Rejoined"", Deep Space Nine, 1995-08-30",neutrino levels,9.664761463908649,0.0,0.0
+179,140005,"RIKER: Scan it now. 
+ LT. RIKER: It worked. Radiation levels are dropping to normal levels. 
+ RIKER: Next time don't give up so easily. 
+ 
+ ""Second Chances"", The Next Generation, 1993-03-17",neutrino levels,9.399589144969093,0.0,0.0
+180,56096,"O'BRIEN: They've cloaked. 
+ DAX: I'm not picking up any neutrino emissions... 
+ GARAK: Then where did they go? 
+ 
+ ""The Sacrifice of Angels"", Deep Space Nine, 1997-08-25",neutrino levels,9.323258612504482,0.0,0.0
+181,76959,"GEORDI: Computer. How much have the conversion levels increased? 
+ COMPUTER: Levels are unchanged. 
+ GEORDI: All right, we'll deal with of this later... 
+ 
+ ""Force of Nature"", The Next Generation, 1993-09-17",neutrino levels,9.211417014067415,6.729788878745788,0.0
+182,114445,"DATA: Nine minutes, forty seconds. 
+ WESLEY: No change in the neutrino beacon signal, sir. 
+ WORF: Romulan ship approaching. Bearing three-fifty-four mark two-eight-seven. 
+ 
+ ""The Enemy"", The Next Generation, 1989-09-11",neutrino levels,9.16140028156213,0.0,0.0
+183,4584,"DAX: Which means the Cardassians don't have much time to get away. (voicing everyone's frustration) Eddington's always one step ahead of us... 
+ KIRA: Maybe not this time. I'm reading residual neutrino levels... Looks like one -- maybe two Maquis raiders behind the fourth moon. They're on the run. 
+ SISKO	NOG: Engine Room, Bridge. Go after them. Full impulse. Full impulse. (to Kira DAX Onscreen. Shields up. Hard to starboard. Full thrusters. Charge phaser banks. KIRA WORF ... encode main viewscreen, set ... Bleed fifteen magnification grid percent plasma to phaser matrix... 
+ 
+ ""For the Uniform"", Deep Space Nine, 1996-11-08",neutrino levels,9.06142307174559,0.0,0.0
+184,132615,"GEORDI: Get ready, Data... 
+ BASHIR: Power levels are rising... 
+ GEORDI: Should be any second now... 
+ 
+ ""Birthright"", The Next Generation, 1992-12-10",neutrino levels,8.921149509300266,0.0,0.0
+185,115705,"GEORDI: No..no... wait, listen... turn it upside down, literally... come at it from the opposite direction... God, it's so simple... it might even work... 
+ COMPUTER: Lethal levels of radiation... 
+ GEORDI: Computer, shut up... at least in Holodeck Three... 
+ 
+ ""Booby Trap"", The Next Generation, 1989-08-31",neutrino levels,8.64861680180127,0.0,0.0
+186,120651,"PICARD: Picard to La Forge... enviromental system malfunction on the bridge... acknowledge... 
+ RIKER: Nitrogen oxide... toxic levels... 
+ RIKER: I've switched to manual control of the air handling system... 
+ 
+ ""Evolution"", The Next Generation, 1989-07-24",neutrino levels,8.56143554018573,0.0,0.0
+187,105802,"PICARD: Good. Now, that bundle of wires... that's optical cabling... see how much you can pull out... 
+ BEVERLY: The levels are still rising. 
+ BEVERLY: There must be some way to put that thing out. 
+ 
+ ""Disaster"", The Next Generation, 1991-08-12",neutrino levels,8.56143554018573,0.0,0.0
+188,90575,"RIKER: It's all right, take it easy. 
+ GEORDI: (stares at Soong and recognizes him) It's Noonian Soong. 
+ RIKER: That's impossible. Soong's dead. (he continues to check out Soong) I think it's okay to move him. 
+ 
+ ""Brothers"", The Next Generation, 1990-07-13",noonian soong,21.397090670755524,0.0,9.504211684150992
+189,73227,"DATA: That is correct. 
+ SOONG: I programmed this hologram to answer any questions you might have -- I'm Noonian Soong; I created her. 
+ DATA: I am Data. 
+ 
+ ""Inheritance"", The Next Generation, 1993-09-27",noonian soong,13.343329062706832,0.0,0.0
+190,90377,"SOONG: Tell me, do I look somewhat familiar to you? 
+ DATA: You do bear a resemblance to Doctor Noonian Soong, the cyberneticist who constructed me. But, Doctor Soong was killed shortly afterward by the Crystalline Entity. 
+ SOONG: (laughs softly to himself) It's your lucky day, Data. You've found your long lost father, and he's alive. What do you think of that? 
+ 
+ ""Brothers"", The Next Generation, 1990-07-13",noonian soong,12.619348098612722,0.0,0.0
+191,73104,"JULIANA: I didn't want to bring you with us... I was afraid that if we reactivated you, you'd turn out like Lore. 
+ JULIANA: I made Noonian leave you behind... 
+ DATA: We are within four kilometers of the magma pocket... 
+ 
+ ""Inheritance"", The Next Generation, 1993-09-27",noonian soong,11.897756407404733,0.0,0.0
+192,90556,"LORE: Often-Wrong Soong! That is what the colonists called you, isn't it? A very sloppy rhyme... 
+ LORE: Wrong Soong. Wrong Soong. No, doesn't work. Let's see... 
+ SOONG: Data, tell me how you're feeling. 
+ 
+ ""Brothers"", The Next Generation, 1990-07-13",noonian soong,11.856823838339896,6.593014742081566,0.0
+193,129851,"RIKER: Who built you, Data? 
+ DATA: Doctor Noonien Soong. 
+ RIKER: And he was? 
+ 
+ ""The Measure of a Man"", The Next Generation, 1988-12-14",noonian soong,11.169376712372776,0.0,0.0
+194,142633,"GRAVES: Functional... Durable... Obviously no concern whatsoever for aesthetic values. 
+ GRAVES: Looks like Soong's work. 
+ DATA: Quite correct, sir! Did you know Soong? 
+ 
+ ""The Schizoid Man"", The Next Generation, 1988-10-10",noonian soong,10.817410548735465,0.0,9.517754132993367
+195,72976,"DATA: I am checking passenger manifests to see if they went to Mavala during the period in question. 
+ DATA: O'Donnell, Juliana... Soong, Noonian -- they were both passengers on a transport that travelled from Omicron Theta to Mavala... and returned four days later. 
+ GEORDI: That sure seems to fit her story. 
+ 
+ ""Inheritance"", The Next Generation, 1993-09-27",noonian soong,10.394563756330179,0.0,0.0
+196,132479,"DATA: That cannot be correct. I have a memory record for that period of time. I can recall a series of images. 
+ DATA: I saw Doctor Soong... my father. 
+ GEORDI: I can't find anything wrong with your positronic sub-processors... or with your controllers... 
+ 
+ ""Birthright"", The Next Generation, 1992-12-10",noonian soong,10.277634164136241,0.0,0.0
+197,142634,"GRAVES: Looks like Soong's work. 
+ DATA: Quite correct, sir! Did you know Soong? 
+ GRAVES: Know him?! I taught him everything he knows. You could say I was the father of his work... (smiles as thought occurs) Which kinda makes me your grandfather, doesn't it sonny? 
+ 
+ ""The Schizoid Man"", The Next Generation, 1988-10-10",noonian soong,9.517754132993367,10.817410548735465,0.0
+198,72927,"JULIANA: Oh, Data, I was there -- right from the beginning, on Omicron Theta. I helped create you. And now... look at you. 
+ DATA: You were a colleague of Doctor Soong? 
+ JULIANA: Yes, I certainly was -- and I was also his wife. In a way, I suppose you could say -- I'm your mother. 
+ 
+ ""Inheritance"", The Next Generation, 1993-09-27",noonian soong,9.517754132993367,0.0,0.0
+199,90576,"GEORDI: (stares at Soong and recognizes him) It's Noonian Soong. 
+ RIKER: That's impossible. Soong's dead. (he continues to check out Soong) I think it's okay to move him. 
+ GEORDI: Look at this stuff. I'm telling you. It's Soong. 
+ 
+ ""Brothers"", The Next Generation, 1990-07-13",noonian soong,9.504211684150992,21.397090670755524,8.786885432731705
+200,90597,"SOONG: Go, Data. Go with your friends. 
+ DATA: May I say goodbye to Doctor Soong, sir? 
+ DATA: Alone, sir? 
+ 
+ ""Brothers"", The Next Generation, 1990-07-13",noonian soong,9.430597369717981,0.0,0.0
+201,73775,"DATA: ... except for an impression that this was a... ""Doctor Soong's"" work area. 
+ RIKER: Who? You can't mean Doctor Noonien Soong? 
+ DATA: He was called that here... although, his memories indicate he traveled here under a different name. 
+ 
+ ""Datalore"", The Next Generation, 1987-10-26",noonian soong,9.260986431913892,7.506023577733442,0.0
+202,90577,"RIKER: That's impossible. Soong's dead. (he continues to check out Soong) I think it's okay to move him. 
+ GEORDI: Look at this stuff. I'm telling you. It's Soong. 
+ RIKER: I'm Commander William Riker of the Starship Enterprise. 
+ 
+ ""Brothers"", The Next Generation, 1990-07-13",noonian soong,8.786885432731705,9.504211684150992,0.0
+203,73891,"LORE: What information are you requesting? 
+ DATA: Everything available on a Doctor Noonien Soong. 
+ LORE: Good old ""Often-Wrong Soong."" A joke, brother. Actually, he was a genius by human standards. 
+ 
+ ""Datalore"", The Next Generation, 1987-10-26",noonian soong,8.712548000414825,0.0,6.551075165872371
+204,110957,"RASMUSSEN: This is really a thrill, Data. Like running across a Redstone missile or a Guttenberg bible. To think... the Model T of androids. 
+ DATA: If you're referring to the first production model automobile of the twentieth century, perhaps the subsequent Model A might be a more apt analogy since I am Noonian Soong's revised prototype. 
+ RASMUSSEN: I stand corrected. 
+ 
+ ""A Matter of Time"", The Next Generation, 1991-09-25",noonian soong,8.643583387237847,0.0,0.0
+205,73250,"DATA: It seems that I must make a decision: to tell Doctor Tainer that she is an android -- or withhold that knowledge from her. And I do not know what to do. 
+ BEVERLY: Why was Doctor Soong so adamant that she not be told? 
+ DATA: He seemed certain that if she knew, it would preclude the possibility of her being happy. 
+ 
+ ""Inheritance"", The Next Generation, 1993-09-27",noonian soong,8.291661121573727,0.0,0.0
+206,111100,"RIKER: All he wanted to know about was previous starships. What I thought was innovative on the last Enterprise or the one before that. He said he wanted to see how well we ""grasped the fundamentals."" 
+ DATA: His queries to me primarily focused on Doctor Soong's... 
+ WORF: Captain, I am detecting a massive earthquake on the surface. 
+ 
+ ""A Matter of Time"", The Next Generation, 1991-09-25",noonian soong,8.225435226094099,0.0,0.0
+207,143485,"DATA: Yes. My brother has made it possible. 
+ PICARD: He gave you the chip -- the one Doctor Soong made for you. 
+ LORE: Oh, no, no. I still have the emotional program my father designed. I wouldn't want to give it up. It's what has given me such a strong sense of family -- an intense desire to re-unite with my dear brother. 
+ 
+ ""Descent, Part II"", The Next Generation, 1993-06-24",noonian soong,8.160258846891281,0.0,0.0
+208,21760,"WEYOUN: Really, Damar... I hope you won't allow that Cardassian-sized ego of yours to spoil our victory. And I do mean ""our victory."" Yours... mine... 
+ DAMAR: And the Breen. 
+ WEYOUN: Yes, and the Breen. 
+ 
+ ""The Changing Face of Evil"", Deep Space Nine, 1999-02-03",breen,11.23063574368256,0.0,10.727035051415674
+209,21761,"DAMAR: And the Breen. 
+ WEYOUN: Yes, and the Breen. 
+ DAMAR: We're just one big, happy family, aren't we? 
+ 
+ ""The Changing Face of Evil"", Deep Space Nine, 1999-02-03",breen,10.727035051415674,11.23063574368256,0.0
+210,42162,"EZRI: I couldn't get away... every time I looked back they were right behind me... Then one of them grabbed me with this big claw. 
+ WORF: Breen do not have claws. 
+ EZRI: How do you know? Besides, it was a dream. Dreams are full of things that don't seem to make sense. 
+ 
+ ""'Til Death Do Us Part"", Deep Space Nine, 1999-01-15",breen,10.050980608723739,0.0,0.0
+211,8529,"GARAK: What about the others? Have you tested them as well? 
+ BASHIR: Everyone except the Breen. 
+ BASHIR: No blood. 
+ 
+ ""In Purgatory's Shadow"", Deep Space Nine, 1996-11-18",breen,9.844176059051975,0.0,0.0
+212,18625,"EZRI: What's that? 
+ WORF: We must be on a Breen ship. 
+ WEYOUN: -- the Federation has pulled the Sixth Fleet from the Bolian front. What do you suppose they're planning? 
+ 
+ ""CAST"", Deep Space Nine, 1999-01-04",breen,9.743932626234514,0.0,0.0
+213,42261,"EZRI: Careful. 
+ WORF: These Breen are without honor. 
+ EZRI: Why don't you sit down -- eat something? 
+ 
+ ""'Til Death Do Us Part"", Deep Space Nine, 1999-01-15",breen,9.455088583369607,0.0,0.0
+214,42171,"EZRI: Isn't that strange? I wonder what it means? 
+ WORF: That Doctor Bashir is a Breen? 
+ EZRI: Very funny. The cave could symbolize the womb. My subconscious could be trying to tell me that I need to confront emotions I repressed at birth. But which one? I've been born nine times. 
+ 
+ ""'Til Death Do Us Part"", Deep Space Nine, 1999-01-15",breen,9.455088583369607,0.0,0.0
+215,26908,"FEMALE SHAPE-SHIFTER: And so they shall. 
+ WEYOUN: But you just promised the Breen... 
+ FEMALE SHAPE-SHIFTER: I'd promise the Breen the entire Alpha Quadrant if I thought it would help win this war. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",breen,9.271855231722766,0.0,6.010453991385554
+216,11071,"DUKAT: Gather as many prisoners as you can. Have them meet us here. 
+ KIRA: How many Breen guards are there? 
+ HELER: I'm not sure. There are always at least eight in the mines. 
+ 
+ ""Indiscretion"", Deep Space Nine, 1995-08-18",breen,9.271855231722766,0.0,0.0
+217,27226,"SISKO: Dax -- we need some support from our attack fighters. 
+ NOG: Breen ship off the starboard aft. 
+ EZRI: Sir -- most of our fighters are either destroyed or under attack themselves. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",breen,9.182876203672388,0.0,0.0
+218,42158,"EZRI: Where are we... ? 
+ WORF: We're still aboard the Breen ship. 
+ EZRI: They were chasing me... in an ice cave... it was so cold I could barely breathe... 
+ 
+ ""'Til Death Do Us Part"", Deep Space Nine, 1999-01-15",breen,9.095588748661994,0.0,0.0
+219,11053,"KIRA: Take a look. 
+ DUKAT: The Breen? What are they doing here? 
+ KIRA: My tricorder's picking up a large concentration of dilithium in this area. They must be using the survivors from the Ravinok to mine the ore. 
+ 
+ ""Indiscretion"", Deep Space Nine, 1995-08-18",breen,9.0099450833586,0.0,0.0
+220,27149,"SISKO: Well done, ensign. 
+ NOG: But I lost the Breen ship we were after. 
+ SISKO: I wouldn't be too worried about it -- there are plenty more to choose from. 
+ 
+ ""What You Leave Behind"", Deep Space Nine, 1999-03-26",breen,8.604831500612804,0.0,0.0
+221,20770,"ODO: Thank you. 
+ KIRA: Starfleet Intelligence says that a contingent of Breen engineers arrived on Kelvas Five last week. Breen engineers... Have we had any reports of Breen ships in that system? 
+ GARAK: No. As a matter of fact, no Breen ships have been reported in that entire sector. 
+ 
+ ""Tacking into the Wind"", Deep Space Nine, 1999-02-24",breen,8.339438145871352,0.0,6.370594553758098
+222,67205,"ROM: We could put together a commando team. Gather the toughest mercenaries we can find... Nausicaans, Breen, Klingons. 
+ QUARK: We don't need Nausicaans -- or Breen or Klingons. 
+ ROM: Hew-mons? 
+ 
+ ""The Magnificent Ferengi"", Deep Space Nine, 1997-10-17",breen,8.164321276110531,5.3396545122138415,0.0
+223,55719,"QUARK: You certainly did. 
+ ZEK: The state of the trade negotiations with the Breen... 
+ ZEK : ... why I dumped our lokar bean investments... why I insisted we buy up every bit of jevonite we could get our hands on. 
+ 
+ ""Ferengi Love Songs"", Deep Space Nine, 1997-01-30",breen,7.830272966344772,0.0,0.0
+224,18753,"BASHIR: The lock's not that complex. What are you doing up? 
+ O'BRIEN: I was running another power test on the Breen weapon. 
+ BASHIR: I was trying to read, but I found myself reading the same page over and over again. 
+ 
+ ""Extreme Measures"", Deep Space Nine, 1999-03-05",breen,7.704184358315611,0.0,0.0
+225,42092,"EZRI: Algae paste. My favorite. 
+ EZRI: I wonder what the Breen look like under those helmets... 
+ WORF: They say that no one has ever seen one and lived to speak of it. 
+ 
+ ""'Til Death Do Us Part"", Deep Space Nine, 1999-01-15",breen,7.642650667950229,0.0,0.0
+226,5405,"JEM'HADAR OFFICER: What do you see? 
+ FEMALE ROMULAN: My people have a saying. Never turn your back on a Breen. 
+ GARAK: Doctor, would you please keep the noise down. I'm trying to work in here. 
+ 
+ ""By Inferno's Light"", Deep Space Nine, 1996-12-02",breen,7.522485758106729,0.0,0.0
+227,46425,"WEYOUN: He says you need to get your universal translator adjusted. 
+ DAMAR: I would've -- if I had known we were meeting with the Breen. 
+ FEMALE SHAPE-SHIFTER: It is a distinct pleasure to finally meet you. 
+ 
+ ""Strange Bedfellows"", Deep Space Nine, 1999-01-26",breen,7.463809259226232,0.0,0.0
+228,72094,"DUKAT: False. I tried to save lives during my administration. 
+ SISKO: Evidence? 
+ DUKAT: Evidence? He wants evidence. By the time I became Prefect, the occupation had been going on for almost forty years, but the planet was still not ready for full-scale colonization. Central Command wanted the situation resolved and they didn't care how it was done. I was convinced that a gentler hand was required to deal with the Bajorans. 
+ 
+ ""Waltz"", Deep Space Nine, 1997-10-17",evidence,10.19463627266712,0.0,3.5805244209988403
+229,52800,"ODO: We have new evidence to prove O'Brien's innocence. 
+ KOVAT: New evidence? 
+ ODO: If O'Brien is accused of stealing warheads from Deep Space Nine, we can prove he didn't do it... 
+ 
+ ""Tribunal"", Deep Space Nine, 1994-03-29",evidence,9.710346058153423,6.746032595609338,0.0
+230,143328,"QUINN: Something or someone is trying to destroy the fabric of all we've built over the last two hundred years. 
+ PICARD: What's your evidence? 
+ QUINN: I can't go into that. Too many other people are involved. But if we're right, this is the most critical time in the history of the Federation. 
+ 
+ ""Coming Of Age"", The Next Generation, 1987-12-30",evidence,8.867824462242536,0.0,0.0
+231,104783,"KELL: The Governor of Krios has charged that the Federation is secretly aiding the rebels. 
+ RIKER: Does he have evidence? 
+ KELL: The Council has sent me to examine his evidence. It was my decision, Captain Picard, to ask you to accompany me. You are respected by many on the council. 
+ 
+ ""The Mind's Eye"", The Next Generation, 1991-03-18",evidence,8.772678890511834,0.0,3.69632637384463
+232,85487,"LURSA: That is outrageous. 
+ B'ETOR: What is this evidence? 
+ RIKER: Beam over and we'll show you. 
+ 
+ ""Firstborn"", The Next Generation, 1994-01-28",evidence,8.772678890511834,0.0,0.0
+233,62747,"ODO: I certainly hope so. Smuggling with intent to supply a terrorist organization is a serious offense. 
+ SISKO: Where's your evidence? 
+ ODO: Five months ago, Captain Yates was hired by the Bajorans to carry cargo to their outlying colonies. one of her regular runs is between Bajor and the colony on Dreon Seven. It's a twelve-hour run for most ships, but she always takes eighteen. The six hour difference is just enough time to allow her to make a side trip into the Badlands, rendezvous with a Maquis ship and then continue on to the Dreon System. 
+ 
+ ""For the Cause"", Deep Space Nine, 1996-02-26",evidence,8.772678890511834,0.0,0.0
+234,107634,"ADMIRAL SATIE: Nonsense. Let's keep our priorities straight... the important thing is to uncover the conspiracy on this ship... and to prevent further damage. If Tarses is a possible saboteur, you cannot allow him access to the sensitive areas of the ship. And... I strongly suggest continuous surveillance. 
+ PICARD: If we had better evidence... 
+ ADMIRAL SATIE: We will have better evidence... Sabin and Worf are continuing to investigate... but if you don't act until then... it may be too late. 
+ 
+ ""The Drumhead"", The Next Generation, 1991-02-07",evidence,8.411673337323796,0.0,4.167309484376675
+235,121804,"BEVERLY: Will Riker! Your First Officer. He's very good at poker, likes to cook, listen to jazz, plays the trombone... 
+ PICARD: I cannot find any evidence... 
+ BEVERLY: ... Commander Data, the android who sits here at Ops, dreams of being human, never gets the punch line to a joke... ? 
+ 
+ ""Remember Me"", The Next Generation, 1990-08-09",evidence,8.326017107080222,0.0,0.0
+236,3682,"ODO/CURZON: I confiscated this from a Yridian smuggler... 
+ DAX: Don't you need it for evidence? 
+ DAX: I still want to talk to you about what happened when I was an Initiate. 
+ 
+ ""Facets"", Deep Space Nine, 1995-03-30",evidence,8.000154214456016,0.0,0.0
+237,85788,"PICARD: Are you suggesting there is a conscious mind at work here? 
+ RIKER: There is no evidence either way. 
+ PICARD: The Traveler moved through time with the power of his mind. 
+ 
+ ""Time Squared"", The Next Generation, 1989-01-25",evidence,7.922635370635518,0.0,0.0
+238,35395,"ODO: It doesn't. I do not commit criminal acts. It is not in my nature. 
+ MORA: (the evidence before us) Isn't it? 
+ ODO: The gas. Maybe it was the gas on the planet. It must have affected me in some way. 
+ 
+ ""The Alternate"", Deep Space Nine, 1993-10-27",evidence,7.922635370635518,0.0,0.0
+239,134732,"PICARD: Mister Data. 
+ DATA: Evidence of a weapon? No, sir, none. 
+ GEORDI: However it happened, the Yamato did it to herself. 
+ 
+ ""Contagion"", The Next Generation, 1989-01-04",evidence,7.846604373897694,0.0,0.0
+240,53956,"KUBUS: He looked very upset. The next morning, Bek hung himself. 
+ KIRA: That's all the evidence you have? 
+ KUBUS: Isn't that enough? Bek was obviously working with Bareil. When he realized the enormity of what he'd done, he must've wanted to confess. Bareil wouldn't allow it, so Bek took the only way out he had. 
+ 
+ ""The Collaborator"", Deep Space Nine, 1994-03-21",evidence,7.846604373897694,0.0,0.0
+241,3153,"ODO: One possibility is that the Romulans hired the Flaxian to kill Garak... and then killed the Flaxian after he failed in his mission. 
+ DAX: Do you have any evidence of that? 
+ ODO: It's only supposition, but it does fit the available facts. 
+ 
+ ""Improbable Cause"", Deep Space Nine, 1995-01-25",evidence,7.846604373897694,0.0,0.0
+242,112134,"LEMEC: Then let me explain. Captain Jean-Luc Picard, Lieutenant Worf, and Doctor Beverly Crusher landed on Celtris Three, attacked one of our outposts in a brutal assault, and killed over fifty-five men, women and children. 
+ JELLICO: What evidence do you have of that? 
+ LEMEC: We have all the evidence we need... we have Captain Picard. 
+ 
+ ""Chain of Command, Part II"", The Next Generation, 1992-10-15",evidence,7.772018796233361,0.0,6.427830272669677
+243,88926,"RIKER: It was just one hell of a storm... moved in on our position faster than anything I've ever seen. 
+ PICARD: Did you find any evidence of life? 
+ RIKER: No, but if Troi was right, we weren't far away from it... 
+ 
+ ""Power Play"", The Next Generation, 1991-11-26",evidence,7.772018796233361,0.0,0.0
+244,122082,"GEORDI: Without something else to cross-reference, it would take weeks to try and identify them... 
+ DATA: Fortunately, there is more evidence... 
+ DATA: We have been able to determine that the footprints we found by the shuttle were not made by any known Tarchannen life form. 
+ 
+ ""Identity Crisis"", The Next Generation, 1991-01-11",evidence,7.698837807634442,0.0,0.0
+245,123169,"BEVERLY: That's true... for now. This could be the first stage of a condition which may begin to affect your mind as well. 
+ YOUNG PICARD: But you've seen no evidence of that? 
+ BEVERLY: Not yet. What I do know is that the Captain of this ship has just gone through an extreme physical transformation... the ultimate effects of which I can't even begin to guess. 
+ 
+ ""Rascals"", The Next Generation, 1992-09-04",evidence,7.627022101562217,0.0,0.0
+246,99101,"PICARD: Do not answer. Rules of the mek'ba require that her evidence be presented in open council. 
+ DURAS: You will die before giving evidence. 
+ KAHLEST: You stand there while this patahk threatens an old woman? 
+ 
+ ""Sins of the Father"", The Next Generation, 1990-01-05",evidence,7.627022101562217,5.10376772536347,0.0
+247,68440,"SISKO: I'm aware of that. But I have reason to believe a Dominion warfleet may be in the Alpha Quadrant headed for Earth. 
+ JARESH-INYO: Do you have evidence to back that up? 
+ SISKO: Just before we left Deep Space Nine, the wormhole was exhibiting some unusual behavior... opening and closing for no apparent reason. 
+ 
+ ""Homefront"", Deep Space Nine, 1995-10-23",evidence,7.556533824548446,0.0,0.0
+248,58244,"JAKE: Really? 
+ SISKO: It'll be like a vacation. A working vacation. 
+ JAKE: That's fantastic. Thanks, Dad. I bet we'll have a great time. 
+ 
+ ""The Jem'Hadar"", Deep Space Nine, 1994-04-11",vacation,12.049609312361163,0.0,0.0
+249,83118,"JARADAN: You have... honored us with your words of greeting. A new day dawns between us. 
+ RIKER: So... Have a nice vacation? 
+ PICARD: It was a nice place to visit, but I wouldn't want to die there. 
+ 
+ ""The Big Good-bye"", The Next Generation, 1987-10-14",vacation,10.613591932508205,0.0,0.0
+250,4791,"LEETA: I can't believe we finally made it. 
+ BASHIR: Well, enjoy your vacation. 
+ LEETA: We will. 
+ 
+ ""Let He Who Is Without Sin ... "", Deep Space Nine, 1996-09-05",vacation,10.503266633911416,0.0,0.0
+251,60382,"LEYTON: I haven't been getting a lot of sleep lately. Too much to do. 
+ SISKO: Maybe you need a vacation. 
+ LEYTON: Mmm. Somehow replicated coffee never tastes this good. 
+ 
+ ""Paradise Lost"", Deep Space Nine, 1995-11-02",vacation,10.39521134006162,0.0,0.0
+252,104007,"RIKER: And what would that be? 
+ TROI: Our captain needs a vacation. 
+ PICARD: Come. 
+ 
+ ""Captain's Holiday"", The Next Generation, 1990-01-21",vacation,10.08398586318781,0.0,0.0
+253,21218,"BASHIR: You need to get some rest. Maybe take a little vacation. 
+ VIC: A vacation? Did you guys take a vacation when the Dominion took over D.S. Nine? 
+ O'BRIEN: It's not the same thing... 
+ 
+ ""Badda-bing Badda-bang"", Deep Space Nine, 1998-12-09",vacation,10.068493977251196,8.006505537932876,0.0
+254,28060,"YANAS: What would you do on Deep Space Nine? 
+ NORVO: Take a... vacation... clear my head. 
+ YANAS: Clear your head of what? 
+ 
+ ""Prodigal Daughter"", Deep Space Nine, 1998-10-19",vacation,9.984344395461402,0.0,0.0
+255,38237,"SISKO: What's going on? Why's the restaurant closed? 
+ JOSEPH: I'm going on vacation. To Tyree. 
+ JAKE: We're coming with you, Dad. 
+ 
+ ""Image in the Sand"", Deep Space Nine, 1998-07-01",vacation,9.886652807039892,0.0,0.0
+256,28063,"NORVO: I don't know. 
+ YANAS: Then why do you need a vacation? 
+ NORVO: I guess, I don't, really. But it'd be nice to spend some time with Ezri... 
+ 
+ ""Prodigal Daughter"", Deep Space Nine, 1998-10-19",vacation,9.79085441686992,0.0,0.0
+257,4764,"QUARK: Excuse me, but I believe I ordered a snail juice. Hand-squeezed. 
+ LEETA: Get it yourself. I'm on vacation. 
+ QUARK: How much longer until we get there? 
+ 
+ ""Let He Who Is Without Sin ... "", Deep Space Nine, 1996-09-05",vacation,9.79085441686992,0.0,0.0
+258,87490,"GEORDI: Nasty. Nitrogen... methane... liquid neon. Surface temperature minus two hundred and ninety-one degrees Fahrenheit. Winds up to three hundred and twelve meters per second. 
+ RIKER: Not exactly a vacation planet, eh? 
+ GEORDI: Uh uh. Not unless you like ammonia tornadoes. Or orange lightning bolts for that matter. 
+ 
+ ""The Royale"", The Next Generation, 1989-01-10",vacation,9.696894719697863,0.0,0.0
+259,5119,"FULLERTON: Don't you walk away from me. 
+ WORF: I'll do as I please. I'm on vacation. 
+ QUARK: Figures. The weather improves the day we leave. 
+ 
+ ""Let He Who Is Without Sin ... "", Deep Space Nine, 1996-09-05",vacation,9.425533239535524,0.0,0.0
+260,52874,"BASHIR: Bring him over here. 
+ O'BRIEN: Some romantic vacation I took you on... 
+ KEIKO: We'll get another chance... 
+ 
+ ""Tribunal"", Deep Space Nine, 1994-03-29",vacation,9.33842327851223,0.0,0.0
+261,4811,"WORF : A swirling mass of color, set against a background of glowing clouds and burning sky. It was the most beautiful thing I ever saw... until now. 
+ DAX: I've got to take you on vacation more often. 
+ WOMAN: Dax? Is that you? 
+ 
+ ""Let He Who Is Without Sin ... "", Deep Space Nine, 1996-09-05",vacation,8.770997677753844,0.0,0.0
+262,38261,"SISKO: As some of you already know, Major Kira, Jake and I will be leaving for Bajor at twenty-two hundred. 
+ DAX: There's a war on -- this is no time for a vacation. 
+ KIRA: The archaeologists excavating B'hala have found something they want the Emissary to see. 
+ 
+ ""CAST"", Deep Space Nine, 1998-02-13",vacation,8.476675570680678,0.0,0.0
+263,87813,"BEVERLY: Well... I think we better let him settle in. 
+ GEORDI: Good idea. Don't sleep your whole vacation away, Wes. 
+ DATA: Good-bye. 
+ 
+ ""Journey's End"", The Next Generation, 1994-01-20",vacation,8.268578482063834,0.0,0.0
+264,70228,"RIKER: Strictly pleasure. I've built up about three months worth of leave and Doctor Crusher finally insisted that I take some of it. In fact, she nearly shoved me out the airlock. 
+ SISKO: D.S. Nine isn't exactly known as a vacation getaway. 
+ RIKER: I'm actually just passing through on my way to Risa. The last time I was here, I only got to spend two hours at Quark's... but by the time I left, I had all his latinum and a date with one of his dabo girls. I thought I might try my luck again. 
+ 
+ ""Defiant"", Deep Space Nine, 1994-09-29",vacation,8.268578482063834,0.0,0.0
+265,49752,"O'BRIEN: Thanks, Julian. Have a good time on Casperia. 
+ BASHIR: I'm going to a medical conference, not on a vacation. 
+ O'BRIEN: Whatever you say. 
+ 
+ ""Inquisition"", Deep Space Nine, 1998-01-14",vacation,8.201464869441638,0.0,0.0
+266,11655,"FROOL: Well, I suppose... 
+ ROM: And Grimp, wouldn't you like to take a paid vacation? 
+ GRIMP: You're being ridiculous. 
+ 
+ ""The Bar Association"", Deep Space Nine, 1995-12-13",vacation,8.201464869441638,0.0,0.0
+267,97676,"CONOR: Ah, I'm afraid there wouldn't be much work for you here, Counselor. 
+ TROI: I'd book my next vacation at your hotel if you had one. 
+ CONOR: Well, in that case, I'll have to have them build one. 
+ 
+ ""The Masterpiece Society"", The Next Generation, 1991-11-04",vacation,8.006505537932876,0.0,0.0
