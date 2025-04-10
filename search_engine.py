@@ -243,3 +243,14 @@ class search_engine:
 
         output = f'{p_char}: {p_q} \n {char}: {q} \n {n_char}: {n_q} \n \n "{ep}", {series}, {date}'
         return(output)
+
+    def old_pretty_print(self,ids:list)->list:
+        '''Prints the quotes instead of a list of ids'''
+        # get context
+        output = []
+        for x in ids:
+            context = [self.full_data['character'].iloc[x-1]+': '+self.original_docs[x-1],
+                       self.full_data['character'].iloc[x]+': '+self.original_docs[x],
+                       self.full_data['character'].iloc[x+1]+': '+self.original_docs[x+1]]
+            output.append(context)
+        return(output)
