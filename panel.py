@@ -2,25 +2,48 @@ import hvplot.pandas
 import numpy as np
 import pandas as pd
 import panel as pn
-# import simple_search_func as ss
 import re
 import csv
+import lightgbm as lgb
+import numpy as np
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, classification_report
+from sklearn.datasets import load_breast_cancer
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.preprocessing import OneHotEncoder, StandardScaler
+from sklearn.compose import ColumnTransformer
+import nltk
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+import spacy
+from spacy.tokens import Doc
+import csv
+import altair as alt
+import joblib
+
+import search_engine as se # gets the search function
+import preprocess_functions as pp # gets the data preprocessing function
+
+# set global colors
+grey = '#eaeaea'
+green = '#83f1b2'
+
 
 pn.extension( global_css=[''':root { --design-primary-color: black;
-    --mdc-theme-background: #eaeaea; /* Green background */}
+    --mdc-theme-background: XXX; /* Grey background */}
     body {
-    --mdc-theme-background: #eaeaea; /* Green background */
+    --mdc-theme-background: XXX; /* Grey background */
 }
-'''])
+'''.replace('XXX',grey)])
 
 pn.extension(raw_css=['''.custom-button {
-        background-color: #83f1b2;
+        background-color: YYY;
         color: white;
-        primary-color: red;
         border-radius: 5px;
         border-width: 0px;
     }
-    '''])
+    '''.replace('YYY',green)])
 
 
 
