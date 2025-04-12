@@ -1,1481 +1,297 @@
 ,indices,choices,search,bm25,prev_bm25,next_bm25
-0,45663,"O'BRIEN: Then you're just going to have to take my word for it, Julian. he battle at the Alamo would make a helluva holosuite program. 
- KIRA: Raktajino. 
- BASHIR: Let me get this straight... there's two hundred of us, trapped inside some crumbling, old mission... surrounded by two thousand enemy troops? 
- 
- ""Wrongs Darker Than Death or Night"", Deep Space Nine, 1997-12-19",raktajino,12.962928451665686,0.0,0.0
-1,115,"ROM: (looking at their coffee mugs) So, what are you drinking? 
- WHATLEY: Raktajino. 
- ROM: Great. Is that what we drink on the swing shift? 
- 
- ""STAR TREK:  DEEP SPACE NINE"", Deep Space Nine, 1996-08-29",raktajino,12.962928451665686,0.0,0.0
-2,72343,"SISKO: My throat's a little dry. 
- SISKO: One raktajino. 
- EDDINGTON: You're crazy. They're almost on top of us. 
- 
- ""Blaze of Glory"", Deep Space Nine, 1997-03-06",raktajino,12.35435956839319,0.0,0.0
-3,57705,"KIRA: Something wrong? 
- ODO: Your raktajino... ? 
- KIRA: Oh, I had one this morning with Shakaar. 
- 
- ""Crossfire"", Deep Space Nine, 1995-11-14",raktajino,12.211042025662405,0.0,0.0
-4,12813,"DAX: I'll take a raktajino, Julian. 
- BASHIR: And a raktajino. 
- O'BRIEN: Look, Garak -- we're at war with the Dominion. Cardassia is part of the Dominion. You're a Cardassian. And at one time, a fairly important one. Of course Starfleet Intelligence is going to press you for specifics -- they need to know everything you know. 
- 
- ""Favor the Bold"", Deep Space Nine, 1997-08-13",raktajino,12.071011480646757,10.504954432527574,0.0
-5,28201,"KIRA: It's just... every morning for the last year, I've seen you walk in here and start your day with a raktajino. 
- SISKO: I like raktajino. 
- KIRA: I know. You never even talk to anyone until you've had your first cup. 
- 
- ""Second Sight"", Deep Space Nine, 1993-09-28",raktajino,11.93415613412908,5.973942573161281,0.0
-6,43170,"DAX: Or is it an R-C-L type two... 
- BASHIR: Another raktajino? 
- DAX: (still studying, no eye contact) It would keep me up all night. 
- 
- ""Dax"", Deep Space Nine, 1992-11-17",raktajino,11.800369200158105,0.0,0.0
-7,72340,"EDDINGTON: Where are you going? 
- SISKO: To get a raktajino. 
- EDDINGTON: Now? 
- 
- ""Blaze of Glory"", Deep Space Nine, 1997-03-06",raktajino,11.669548628159564,0.0,0.0
-8,34678,"JAKE: Actually, I am. (with a glance over to his father) My dad seems a lot happier since you showed up. 
- EZRI: One iced raktajino. 
- EZRI: I know you've been worried about your father, Jake... but he's going to be all right. 
- 
- ""Shadows and Symbols"", Deep Space Nine, 1998-07-15",raktajino,11.669548628159564,0.0,0.0
-9,34399,"COLLINS: Coffee? 
- JAKE: Uh... raktajino, please. 
- COLLINS: Here you go. 
- 
- ""Valiant"", Deep Space Nine, 1998-02-25",raktajino,11.541596843328916,0.0,0.0
-10,12259,"ODO: We have reason to believe he'll return to this area. 
- O'BRIEN: Ah, yes. The ""raktajino."" 
- BASHIR: A vital clue others might've missed. 
- 
- ""Trials and Tribble-ations"", Deep Space Nine, 1996-08-20",raktajino,11.41642050391776,0.0,0.0
-11,12116,"WAITRESS: What's your pleasure? 
- ODO: I'll have a raktajino. 
- WAITRESS: You're the second person today who's ordered that -- what is it? 
- 
- ""Trials and Tribble-ations"", Deep Space Nine, 1996-08-20",raktajino,11.293930274145138,0.0,0.0
-12,118,"WHATLEY: You can drink anything you want. 
- ROM: I'll have a raktajino. 
- ROM: It's not like this on the night shift. 
- 
- ""STAR TREK:  DEEP SPACE NINE"", Deep Space Nine, 1996-08-29",raktajino,11.293930274145138,0.0,0.0
-13,45241,"KAJADA: Very sure. 
- QUARK: Iced Raktajino. Extra cream. 
- DAX: Thank you, Quark. 
- 
- ""The Passenger"", Deep Space Nine, 1992-11-25",raktajino,10.71889873575634,0.0,0.0
-14,51403,"JAKE: I never thought I'd hold this hand again... it feels just like my mom's. 
- JAKE: I'll get you that raktajino. 
- KIRA: That went well. I think you made it clear to the minister why the Emissary can't endorse his land reform program. 
- 
- ""Shattered Mirror"", Deep Space Nine, 1996-02-02",raktajino,10.610848265221234,0.0,0.0
-15,50899,"DAX: What are you all standing around for? The party's just getting started. Play something. 
- DAX: Double raktajino, extra sweet. 
- ATOA: What time is it? 
- 
- ""You Are Cordially Invited... "", Deep Space Nine, 1997-09-05",raktajino,10.504954432527574,0.0,0.0
-16,12812,"BASHIR: Tarkalean tea. 
- DAX: I'll take a raktajino, Julian. 
- BASHIR: And a raktajino. 
- 
- ""Favor the Bold"", Deep Space Nine, 1997-08-13",raktajino,10.504954432527574,0.0,12.071011480646757
-17,51398,"SISKO: Okay. 
- JAKE: Would you like another raktajino? 
- JENNIFER: Thank you. That would be nice. 
- 
- ""Shattered Mirror"", Deep Space Nine, 1996-02-02",raktajino,10.101703686367623,0.0,0.0
-18,34686,"EZRI: You know I wasn't always so... confused. Before I was joined I was considered a very promising young officer. 
- EZRI: That's horrible. I hate raktajino. 
- JAKE: Then why'd you order it? 
- 
- ""Shadows and Symbols"", Deep Space Nine, 1998-07-15",raktajino,10.101703686367623,0.0,0.0
-19,44825,"SISKO: Join me, Major. 
- SISKO: One Raktajino with a jacarine peel. 
- KIRA: Nothing for me. 
- 
- ""The Homecoming"", Deep Space Nine, 1993-07-02",raktajino,9.911469287382383,0.0,0.0
-20,111153,"GEORDI: Have you rerun the phase reversal figures, Data? 
- DATA: There were no errors, Geordi. The variance must be no more than point zero six terawatts. 
- GEORDI: I don't see any other choice. We'll keep running the numbers down here. You better inform the captain... of the good news and the bad news. La Forge out. 
- 
- ""A Matter of Time"", The Next Generation, 1991-09-25",commit no errors,11.59084418355199,0.0,0.0
-21,125989,"PICARD: Then formulate one now: How do I handle Riker and the Hathaway? I'll await your answer on the bridge. 
- PICARD: Commander, it is possible to commit no mistakes -- and still lose. 
- PICARD : That is not a weakness. That is ""life"". 
- 
- ""Peak Performance"", The Next Generation, 1989-04-17",commit no errors,11.109548363986557,0.0,0.0
-22,93449,"WORF: No, there are not. I will not live as an object of... pity... or shame. My life as a Klingon is over. 
- RIKER: I won't help a friend commit suicide. 
- WORF: We have served together for many years... fought side by side... I know you to be a brave and honorable man... if you truly consider me your friend... help me now... help me end my life as I lived it... with dignity and honor. Please. 
- 
- ""Ethics"", The Next Generation, 1991-12-09",commit no errors,10.015067649028785,2.4274382322027566,0.0
-23,109939,"YUTA: William, this is not your concern. 
- RIKER: It is now. You're about to commit murder. 
- YUTA: It isn't murder. It's justice. 
- 
- ""The Vengeance Factor"", The Next Generation, 1989-09-29",commit no errors,9.744883542519638,0.0,0.0
-24,55944,"WEYOUN: At once. 
- DUKAT: The Defiant's no match for this station... if Sisko wants to commit suicide, I say we let him. 
- QUARK: Don't scream. I'm not going to hurt you. I just have one question. 
- 
- ""The Sacrifice of Angels"", Deep Space Nine, 1997-08-25",commit no errors,9.179882493415882,0.0,0.0
-25,108854,"PICARD: That would have some definite advantages. 
- TROI: Yes. A single leader can make errors. It is less likely for the combined whole. 
- Q : Picard. 
- 
- ""Q Who?"", The Next Generation, 1989-02-24",commit no errors,8.359002479277054,0.0,0.0
-26,98551,"ROGA: (if you really want to help) Unlock the door. 
- TROI: Why does a non-violent man commit acts of excessive violence? 
- ROGA: You can learn to do it if you have to. 
- 
- ""The Hunted"", The Next Generation, 1989-10-25",commit no errors,8.196938229949481,0.0,0.0
-27,64592,"GARAK: Thank you for your concern, Doctor. But I'd rather have the hypospray. 
- BASHIR: I'm not going to let you commit suicide. I'm here to help you. 
- GARAK: I doubt you can. 
- 
- ""The Wire"", Deep Space Nine, 1994-03-01",commit no errors,8.196938229949481,0.0,0.0
-28,61760,"LAMAT'UKAN: First? 
- LAMAT'UKAN: I've realigned the targeting sensors. There were errors in the tracking subroutines. 
- KUDAK'ETAN: You were not ordered to check the targeting sensors. 
- 
- ""One Little Ship"", Deep Space Nine, 1997-11-06",commit no errors,8.033755165804708,0.0,0.0
-29,35394,"MORA: Then, the possibility exists... 
- ODO: It doesn't. I do not commit criminal acts. It is not in my nature. 
- MORA: (the evidence before us) Isn't it? 
- 
- ""The Alternate"", Deep Space Nine, 1993-10-27",commit no errors,8.015057142166858,0.0,0.0
-30,2858,"NOG: This is outrageous! I didn't steal anything from the Tholian Ambassador! 
- ODO: Just another innocent man arrested for a crime he didn't commit. 
- NOG: What's he doing here? 
- 
- ""Life Support"", Deep Space Nine, 1994-11-10",commit no errors,8.015057142166858,0.0,0.0
-31,101456,"JEV: According to what I've just learned... it was a practice that was abolished on our world centuries ago. 
- PICARD: What would motivate someone like your father to commit such an act? 
- JEV: I don't know. A perverse source of pleasure... a way to exercise control over another... ? 
- 
- ""Violations"", The Next Generation, 1991-10-25",commit no errors,7.841072329226439,0.0,0.0
-32,22876,"GUL DANAR: A diplomatic insult to the Cardassian people would be a problem... delivering a wanted criminal to us would not be... 
- SISKO: (seeking a reasonable solution) Danar, in war, both sides commit atrocities... 
- GUL DANAR: My ""request"" for this man is made in connection with an extremely sensitive issue. I can only tell you that we are certain he plans to commit more acts of terrorism... 
- 
- ""Past Prologue"", Deep Space Nine, 1992-10-05",commit no errors,7.567297038472596,0.0,4.6468474692848
-33,39937,"MARRITZA: Security! Security guard! Get in here! Help me! Security! 
- KIRA: You didn't commit those crimes; and you couldn't stop them. You were only one man. 
- MARRITZA: No; don't you see? I have to be punished. We all have to be punished. Major, you have to go out there and tell them; tell them I'm Gul Darhe'el. It's the only way; don't you see that? 
- 
- ""Duet"", Deep Space Nine, 1993-03-26",commit no errors,7.166918109305847,0.0,1.609098828000246
-34,23001,"TAHNA: Once you're in your comfortable bed with the Federation, you won't be 
- KIRA: If you expect me to help you commit some act of violence against the Federation... 
- TAHNA: No. The violence is over. That's the truth. No one will be hurt. In any way. I promise you that. But I do need your help... 
- 
- ""Past Prologue"", Deep Space Nine, 1992-10-05",commit no errors,7.166918109305847,0.0,3.3191591579869373
-35,13013,"SISKO: Then you have to change his mind. 
- MARTOK: The Chancellor is reluctant to commit such a large fleet to a single engagement. 
- WORF: He feels it would leave the Empire vulnerable. 
- 
- ""Favor the Bold"", Deep Space Nine, 1997-08-13",commit no errors,7.166918109305847,0.0,0.0
-36,30523,"BASHIR: Thirty-one is not part of the Federation, it's a rogue agency that -- 
- ODO: Don't split hairs with me, doctor. They used me as an instrument to try to commit genocide. We may be at war with the Founders, but that's no excuse. 
- BASHIR: I completely agree. 
- 
- ""The Dogs of War"", Deep Space Nine, 1999-03-16",commit no errors,6.844603932279424,0.0,0.0
-37,114647,"BARCLAY: If you'll excuse me. 
- DATA: Metathesis is one of the most common of pronunciation errors, sir... a reversal of vowel and consonant, ""bark"" to ""broc""... 
- GUINAN: Yes, I know him... comes in here, stands at the bar, doesn't say much... always orders a warm milk. 
- 
- ""Hollow Pursuits"", The Next Generation, 1990-02-09",commit no errors,6.762055043405805,0.0,0.0
-38,101669,"PICARD: Forgive me, Professor, but I wonder why you're in such a hurry... is this woman your partner in some illegal venture? 
- MORIARTY: Your computer designed her to be a person of impeccable integrity. She would never commit a crime. 
- PICARD: You must love her very much... 
- 
- ""Ship in a Bottle"", The Next Generation, 1992-10-26",commit no errors,6.442568228496157,0.0,0.0
-39,115583,"PICARD: And now we're supplying the devices with the energy to kill us. 
- GEORDI: No... no... no... 
- LEAH: Will you listen to me... 
- 
- ""Booby Trap"", The Next Generation, 1989-08-31",commit no errors,6.416491404712682,0.0,0.0
-40,94028,"PICARD: Temba. His arms wide. Give me more. ""Darmok on the ocean... "" 
- DATHON: Tanagra on the ocean. Darmok at Tanagra. 
- PICARD: ""At Tanagra."" A country? ""Tanagra on the ocean."" An island. Temba... His arms wide. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,14.073901956558057,0.0,11.70085079612906
-41,93946,"DATHON: Darmok and Jalad -- 
- PICARD: -- at Tanagra. 
- PICARD: I remember the words. But I don't understand... 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,13.929088812578287,0.0,0.0
-42,93897,"DATA: Replay at time index one-four-four. 
- DATHON: Darmok at Tanagra. 
- DATA: Freeze. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,12.836032005704048,0.0,0.0
-43,93878,"PICARD: Forgive the intrusion, Captain. But I need some answers. 
- DATHON: Darmok at Tanagra. 
- FIRST OFFICER: Shaka! Mirab. His sails unfurled. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,12.836032005704048,0.0,0.0
-44,93812,"RIKER: You are holding our captain. I want him released. 
- FIRST OFFICER: Darmok at Tanagra. 
- RIKER: Your actions can be interpreted as an act of war. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,12.836032005704048,0.0,0.0
-45,93777,"FIRST OFFICER: Zima at Anzo. Zima and Bakor. 
- DATHON: Darmok at Tanagra. 
- FIRST OFFICER: Shaka! Mirab. His sails unfurled. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,12.836032005704048,0.0,0.0
-46,94032,"PICARD: ""Jalad at Tanagra."" He went to the same island as Darmok. To Tanagra. 
- DATHON: The beast at Tanagra. 
- PICARD: The beast. A creature on the island? On Tanagra. Darmok and Jalad -- did they fight the beast? 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,12.418385941424688,12.134872966549496,7.192143908586825
-47,94031,"DATHON: Jalad on the ocean. Jalad at Tanagra. 
- PICARD: ""Jalad at Tanagra."" He went to the same island as Darmok. To Tanagra. 
- DATHON: The beast at Tanagra. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,12.134872966549496,10.680782467476083,12.418385941424688
-48,94029,"DATHON: Tanagra on the ocean. Darmok at Tanagra. 
- PICARD: ""At Tanagra."" A country? ""Tanagra on the ocean."" An island. Temba... His arms wide. 
- DATHON: Jalad on the ocean. Jalad at Tanagra. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,11.70085079612906,14.073901956558057,10.680782467476083
-49,94017,"DATA: It is necessary for us to learn the narratives from which the Tamarians are drawing these images. Given our current relations, that does not appear likely. 
- DATHON: Darmok and Jalad at Tanagra. 
- PICARD: Our situation is similar to theirs. I understand. But I need to know more. Tell me more. About Darmok and Jalad. Tell me... 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,11.542112422908275,0.0,0.0
-50,93908,"DATHON : Darmok! 
- DATHON: Darmok and Jalad at Tanagra! 
- PICARD: I was curious. I meant no harm. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,11.542112422908275,0.0,0.0
-51,93802,"PICARD: I don't know who or what Darmok and Jalad are. But I didn't come here to start a war. 
- DATHON: Darmok and Jalad at Tanagra. 
- PICARD: I refuse. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,11.542112422908275,0.0,0.0
-52,93783,"DATHON: The river Temarc... 
- DATHON: Darmok and Jalad at Tanagra. 
- RIKER: Block their transporter with the shields! Extend to maximum range! 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,11.542112422908275,0.0,0.0
-53,94030,"PICARD: ""At Tanagra."" A country? ""Tanagra on the ocean."" An island. Temba... His arms wide. 
- DATHON: Jalad on the ocean. Jalad at Tanagra. 
- PICARD: ""Jalad at Tanagra."" He went to the same island as Darmok. To Tanagra. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,10.680782467476083,11.70085079612906,12.134872966549496
-54,94091,"FIRST OFFICER: Darmok... 
- PICARD: ... And Jalad. At Tanagra. Darmok and Jalad on the ocean. 
- FIRST OFFICER: Sokath! His eyes open! 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,9.36974978898164,0.0,0.0
-55,93899,"DATA: Freeze. 
- DATA: Computer, search for the term ""Tanagra."" All databases. 
- COMPUTER: Searching... Tanagra is the name of the ruling family on Gallos Two... 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,9.36974978898164,0.0,8.406652183926596
-56,93913,"PICARD: --Enough! I'm not going to fight you. You'll just have to--- 
- DATHON: (re: noise; matter-of-factly) Darmok and Jalad at Tanagra. 
- WORF: Commander! Sensors are picking up an electromagnetic disturbance -- approaching the captain's position. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,9.145239864698482,0.0,0.0
-57,94093,"FIRST OFFICER: Sokath! His eyes open! 
- PICARD: The beast at Tanagra. Uzani. His army. Shaka. When the walls fell. 
- FIRST OFFICER: Picard and Dathon at El-Adrel. 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,8.595987354961697,0.0,0.0
-58,93900,"DATA: Computer, search for the term ""Tanagra."" All databases. 
- COMPUTER: Searching... Tanagra is the name of the ruling family on Gallos Two... 
- COMPUTER  : A ceremonial drink on Lerishi Four... An island-continent on Shantil Three -- 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,8.406652183926596,9.36974978898164,0.0
-59,94033,"DATHON: The beast at Tanagra. 
- PICARD: The beast. A creature on the island? On Tanagra. Darmok and Jalad -- did they fight the beast? 
- PICARD: They arrived separately. They struggled against a common foe. ""The beast at Tanagra. Darmok and Jalad."" 
- 
- ""Darmok"", The Next Generation, 1991-07-08",tanagra,7.192143908586825,12.418385941424688,6.767083092077619
-60,112713,"DATA: The vessel is traveling at warp seven-point-six. Mass: two-point-five million metric tons, configuration: ...cubical. 
- RIKER: The Borg... 
- DATA: Its dimensions indicate that it is a scout ship similar to the one that crashed. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,10.200399740455099,0.0,0.0
-61,112719,"GUINAN: Well... you don't look so tough. 
- BORG: We are Borg. 
- GUINAN: I hear they gave you a name. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.832608813911339,0.0,0.0
-62,112605,"GEORDI: Who's ""we?"" 
- BORG: We... are Borg. 
- GEORDI: There's only one of you. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.832608813911339,0.0,0.0
-63,112599,"WORF: Commander... 
- BORG: We are Borg. 
- BORG: You will be assimilated. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.832608813911339,0.0,0.0
-64,112496,"RIKER: We've found the wreckage of a small craft... and one survivor. 
- RIKER: It's a Borg. 
- RIKER: Male, adolescent -- he's badly hurt. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.832608813911339,0.0,0.0
-65,112785,"GUINAN: Not to mention tending bar... 
- GUINAN: About the Borg... 
- GUINAN: Aren't you just a bit surprised by him? 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.490417381152323,0.0,0.0
-66,112840,"BORG: Geordi must not be assimilated. 
- PICARD: But... you are Borg. 
- BORG: No. I am -- Hugh. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.27522176786385,0.0,0.0
-67,112697,"GEORDI: That's the name we gave him. 
- GUINAN: You named a Borg... 
- GEORDI: Yeah. It was easier to have something to call him. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.27522176786385,0.0,0.0
-68,112620,"GEORDI: I'm just a nice guy at heart. Feeling better? 
- BORG: You are not-Borg. 
- GEORDI: That's right. And hope to stay that way. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,9.27522176786385,0.0,0.0
-69,94868,"RIKER: Altered... ? 
- WORF: He is a Borg, sir. 
- SHELBY: We'll go back... I need more people... we need to retune the phasers again... we'll get him out of there... 
- 
- ""The Best of Both Worlds, Part I"", The Next Generation, 1990-04-06",borg,9.27522176786385,0.0,0.0
-70,94519,"SHELBY: I don't know exactly what I'm looking for... but we've tested the sections of the Enterprise's hull that were damaged by the Borg. There were some unusual magnetic-resonance traces... 
- RIKER: A Borg footprint? 
- SHELBY: That's my theory. I'll see if it holds up tomorrow. I've reviewed your personnel... I'll be assigning Mister La Forge and Mister Data to accompany me on the away team... 
- 
- ""The Best of Both Worlds, Part I"", The Next Generation, 1990-04-06",borg,9.27522176786385,3.2960947679659305,0.0
-71,143440,"TAITT: Sir, I'm picking up a vessel closing in on our location. 
- BEVERLY: Is it a Borg ship? 
- TAITT: It... it seems to match the configuration of a ship The Enterprise encountered... at Ohniaka Three... 
- 
- ""Descent, Part II"", The Next Generation, 1993-06-24",borg,9.171242611878567,0.0,0.0
-72,140742,"GEORDI: I've scanned three star systems within sensor range... there's evidence of at least two advanced civilizations... but I'm reading no life signs. And there are indications that plasma weapons have been fired in those systems recently. 
- PICARD: The Borg have been busy. 
- RIKER: I think we've found the shuttle's energy signature. 
- 
- ""Descent, Part I"", The Next Generation, 1993-04-12",borg,8.593239530593973,0.0,0.0
-73,112898,"PICARD: Increase power to the shields. Hold us here. 
- RIKER: Status of the Borg ship? 
- DATA: Solar radiation is rendering our sensors inoperable. At last known course and speed, the Borg vessel will enter the system in three minutes. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,8.593239530593973,0.0,3.910559562718663
-74,108992,"Q: You can't outrun them. You can't destroy them. If you damage them, the essence of what they are remains -- they regenerate and keep coming... eventually you will weaken -- your reserves will be gone... they are relentless. 
- WORF: The Borg ship is firing. 
- WORF: We have again lost the shields. 
- 
- ""Q Who?"", The Next Generation, 1989-02-24",borg,8.593239530593973,0.0,0.0
-75,112811,"BORG: Locutus... 
- PICARD: Yes. I am Locutus... of Borg. 
- BORG: Why are you here? 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",borg,8.50391522614029,0.0,0.0
-76,108983,"WORF: Shield effectiveness has been reduced twelve percent. 
- WESLEY: The Borg ship is closing. 
- WORF: They are firing again. 
- 
- ""Q Who?"", The Next Generation, 1989-02-24",borg,8.50391522614029,0.0,0.0
-77,96174,"DATA: Yessir. 
- RIKER: Status of Borg power drive... ? 
- WORF: Minimal power... 
- 
- ""The Best of Both Worlds, Part II"", The Next Generation, 1990-07-02",borg,8.330724163822156,0.0,0.0
-78,96135,"WORF: Aye, Captain... 
- RIKER: Status of the Borg weapons... 
- WORF: Borg weapon systems are fully charged... 
- 
- ""The Best of Both Worlds, Part II"", The Next Generation, 1990-07-02",borg,8.330724163822156,0.0,7.491569424075288
-79,95835,"GEORDI: Deflector power approaching maximum limits. Energy discharge in... six seconds... 
- WORF: The Borg ship is undamaged. 
- SHELBY: Impossible... 
- 
- ""The Best of Both Worlds, Part II"", The Next Generation, 1990-07-02",borg,8.330724163822156,0.0,0.0
-80,66615,"KIRA: Captain? 
- SISKO: Cardassia. 
- KIRA: Sir? 
- 
- ""Rapture"", Deep Space Nine, 1996-10-11",cardassia,9.690821761050556,0.0,0.0
-81,27353,"KIRA: Remember Damar's orders -- we stop for nothing. 
- GARAK: For Cardassia. 
- WEYOUN: We have a security breach. 
- 
- ""What You Leave Behind"", Deep Space Nine, 1999-03-26",cardassia,9.235868036735468,0.0,0.0
-82,16072,"WORF: I need to speak with him. Now. 
- SISKO: Cardassia? Why would the Klingons want to invade Cardassia? 
- WORF: According to my source, there's been an uprising on the Cardassian homeworld. The Central Command has been overthrown and power has been transferred to civilian authorities. 
- 
- ""The Way of the Warrior"", Deep Space Nine, 1995-07-07",cardassia,8.661104392246573,0.0,0.0
-83,18570,"DUKAT: I do. (off Damar's surprise) Tell me, Damar. What do you believe in? The Dominion? 
- DAMAR: I believe in Cardassia. 
- DUKAT: Good. Then we're still on the same side. 
- 
- ""CAST"", Deep Space Nine, 1999-01-04",cardassia,8.35348558169175,0.0,0.0
-84,5147,"course.SISKO: Heading? 
- O'BRIEN: Straight for Cardassia. 
- DAX: Dukat's ship is breaking formation. He's going after the Dominion fleet. 
- 
- ""By Inferno's Light"", Deep Space Nine, 1996-12-02",cardassia,8.35348558169175,0.0,0.0
-85,26942,"DAMAR: And once the Dominion is crushed... 
- MILA : Cardassia will be free again. 
- MILA: When you were a small boy, I was worried about you. Always getting in trouble. Secretive... so full of deceit. Little did I know you would turn such distasteful characteristics into virtues. More tea? 
- 
- ""What You Leave Behind"", Deep Space Nine, 1999-03-26",cardassia,7.8532903574347515,0.0,0.0
-86,16171,"GOWRON: What better way to redeem yourself in the eyes of your people. Come with me Worf. 
- GOWRON : Glory awaits you on Cardassia. 
- GOWRON: Worf, why do you stand there like a mute d'blok. I have offered you a chance for glory. All you have to do is take it. 
- 
- ""The Way of the Warrior"", Deep Space Nine, 1995-07-07",cardassia,7.775690746694216,0.0,0.0
-87,27290,"GARAK: During all my years of exile... I imagined what it would be like to come home... maybe even to live in this house again with Mila. But now she's dead and this house is about to become a pile of rubble... My Cardassia is gone. 
- KIRA: Then fight for a new Cardassia. 
- GARAK: I have a better reason than that, colonel. Revenge. 
- 
- ""What You Leave Behind"", Deep Space Nine, 1999-03-26",cardassia,7.699609679171715,2.7495230231149534,0.0
-88,8455,"DUKAT : There's a ship leaving for Cardassia in the morning. I want you on it. 
- ZIYAL: You're sending me to Cardassia? 
- DUKAT: I've just learned that there's a Dominion fleet headed for the wormhole. This place isn't safe anymore. 
- 
- ""In Purgatory's Shadow"", Deep Space Nine, 1996-11-18",cardassia,7.699609679171715,5.6127371611555255,0.0
-89,52494,"GHEMOR: The enemies of the Order, you mean. 
- ENTEK: The Obsidian Order is Cardassia. 
- GHEMOR: What are you doing? 
- 
- ""Second Skin"", Deep Space Nine, 1994-08-19",cardassia,7.62500301232522,0.0,0.0
-90,41916,"MARTOK: This is General Martok to all ships. Assume tactical formation, we're moving out. 
- SISKO: Take us to Cardassia, Mister Nog. 
- NOG: Aye, sir. 
- 
- ""Tears of the Prophets"", Deep Space Nine, 1998-04-08",cardassia,7.62500301232522,0.0,0.0
-91,1321,"ODO : They still admire her as... the woman who made peace with Cardassia. 
- KIRA: Bareil made peace with Cardassia. 
- ODO: I know that, Major. But to the rest of Bajor, Winn is the real hero... in their eyes, it took courage for her to conclude a treaty with a race that she herself had so bitterly condemned and fought against. 
- 
- ""Shakaar"", Deep Space Nine, 1995-03-16",cardassia,7.551828298100111,5.7775719856691685,0.0
-92,39853,"ODO: You're sure the man you saw buried was Gul Darhe'el? 
- DUKAT: Half of Cardassia viewed his body! 
- ODO: I saw a photograph of Darhe'el taken at the Gallitep labor camp. It certainly appears to be the man we're holding. 
- 
- ""Duet"", Deep Space Nine, 1993-03-26",cardassia,7.480044702394768,0.0,0.0
-93,27381,"WEYOUN: A pity. 
- GARAK: He died helping to free Cardassia. 
- WEYOUN: What's left of it. 
- 
- ""What You Leave Behind"", Deep Space Nine, 1999-03-26",cardassia,7.480044702394768,0.0,0.0
-94,30733,"LONAR: It's Damar! He's alive! 
- DAMAR: Citizens of Cardassia -- listen to me! 
- DAMAR: The Dominion told you that the Rebellion had been crushed. What you have seen here today proves that was a lie. The fight for freedom continues... but it will take place here, in the streets. 
- 
- ""The Dogs of War"", Deep Space Nine, 1999-03-16",cardassia,7.409612929076019,0.0,0.0
-95,27208,"GARAK: Does anyone have any final words? 
- DAMAR: You may kill us, but Cardassia will -- 
- JEM'HADAR FIRST: Enough. Final words are not permitted. 
- 
- ""What You Leave Behind"", Deep Space Nine, 1999-03-26",cardassia,7.409612929076019,0.0,0.0
-96,51823,"KIRA: Good. I'll be right back. 
- BASHIR: I'm glad I'm not going to Cardassia. 
- QUARK : Major! 
- 
- ""Return to Grace"", Deep Space Nine, 1995-11-22",cardassia,7.340495148247358,0.0,0.0
-97,27135,"MARTOK: A bottle? I brought a barrel of twenty-three-oh-nine -- there is no finer vintage. 
- ROSS: Then I'll meet you two on Cardassia. 
- MARTOK: We'll see who gets there first. 
- 
- ""What You Leave Behind"", Deep Space Nine, 1999-03-26",cardassia,7.340495148247358,0.0,0.0
-98,70360,"SISKO: Korinas. 
- KORINAS: Welcome to Cardassia Prime, Commander. 
- SISKO: Thank you. 
- 
- ""Defiant"", Deep Space Nine, 1994-09-29",cardassia,7.272654928494761,0.0,0.0
-99,44892,"O'BRIEN: Then she will be going to Cardassia Four, after all. 
- SISKO: How do you know about Cardassia Four? 
- O'BRIEN: She told me all about it. 
- 
- ""The Homecoming"", Deep Space Nine, 1993-07-02",cardassia,7.272654928494761,6.439472302310088,0.0
-100,58955,"JAKE: You don't have enough faith in yourself... 
- SISKO: Poetry? You write poetry? 
- JAKE: Sort of... not really... 
- 
- ""The Abandoned"", Deep Space Nine, 1994-08-30",poetry,15.503075039540182,0.0,0.0
-101,58958,"MARDAH: Now who doesn't have enough faith in themselves... ? He writes some of the most beautiful things I've ever read... (she takes Jake's hand) That's what won me over. 
- SISKO: His... poetry. 
- MARDAH: And the way he plays dom-jot. 
- 
- ""The Abandoned"", Deep Space Nine, 1994-08-30",poetry,13.929088812578287,0.0,0.0
-102,28535,"PIERSALL: What's he talking about? 
- SISKO: Klingon poetry. 
- DAX: Thirty seconds until impact. 
- 
- ""Second Sight"", Deep Space Nine, 1993-09-28",poetry,13.282747650158248,0.0,0.0
-103,134349,"WESLEY: What does the man do? 
- WORF: He reads love poetry. He ducks a lot. 
- WESLEY: Yes, well, that might work for Klingons, but I think I should try something less dangerous. 
- 
- ""The Dauphin"", The Next Generation, 1988-12-23",poetry,10.680782467476083,0.0,0.0
-104,106867,"RIKER: Wait a second... I recognize this... It's Data's poetry. 
- BEVERLY: The play's gone. I just keep getting more poetry... 
- GEORDI: Well.. the PADDs are functioning normally... It seems to be a problem with the information retrieval net. For some reason, when you tried to bring up your play, the computer accessed Data's literary files. 
- 
- ""A Fistful of Datas"", The Next Generation, 1992-09-17",poetry,9.605560292127361,9.447056231480968,0.0
-105,106866,"BEVERLY: Your visual, olfactory, and auditory senses Contribute to your hunting skill and... "" 
- RIKER: Wait a second... I recognize this... It's Data's poetry. 
- BEVERLY: The play's gone. I just keep getting more poetry... 
- 
- ""A Fistful of Datas"", The Next Generation, 1992-09-17",poetry,9.447056231480968,0.0,9.605560292127361
-106,58953,"JAKE: Yeah... Mrs. O'Brien used to say that Mardah should try to get some of her stories published. 
- MARDAH: Jake... they aren't that good. Nothing like your poetry. 
- JAKE: You don't have enough faith in yourself... 
- 
- ""The Abandoned"", Deep Space Nine, 1994-08-30",poetry,9.293698293664919,0.0,0.0
-107,136500,"GEORDI: No... I was just passing by. Wondered what you were up to. 
- DATA: I am using the time to catch up on my study of poetry. 
- GEORDI: Data, there's nothing on the screen. 
- 
- ""Interface"", The Next Generation, 1993-07-14",poetry,9.145239864698482,0.0,0.0
-108,124216,"SHIPLEY: Yes sir. 
- DATA: Geordi... may I make a personal inquiry? It concerns my poetry reading. 
- GEORDI: Sure, Data... what is it? 
- 
- ""Schisms"", The Next Generation, 1992-08-14",poetry,8.284995342165539,0.0,0.0
-109,120003,"PULASKI: Worf, you're a romantic. 
- WORF: It is among the Klingons that love poetry achieves its fullest flower. 
- PULASKI: Hold that thought. 
- 
- ""Up the Long Ladder"", The Next Generation, 1989-03-17",poetry,8.10897189855381,0.0,0.0
-110,103538,"PICARD: Mrs. Troi, I'm truly grateful that you risked your life for my... ...people. I'll have you home within hours. 
- LWAXANA: Really, that isn't necessary, Captain... I'd love to hear more of that poetry... 
- PICARD: Perhaps another time. Mister Crusher, set course for Betazed. Warp Nine. 
- 
- ""Menage a Troi"", The Next Generation, 1990-03-09",poetry,7.940272455392951,0.0,0.0
-111,124184,"GEORDI: Data, let's get those subspace field taps on-line... 
- DATA: Commander -- I would like to remind you about my poetry reading this afternoon. 
- RIKER: Wouldn't miss it for the world. 
- 
- ""Schisms"", The Next Generation, 1992-08-14",poetry,7.778449221964984,0.0,0.0
-112,120005,"PULASKI: Hold that thought. 
- PULASKI: Antidote. If we're going to share, let's share. Now, quote me a little of that poetry. 
- DATA: Scans indicate human life form readings thirty meters below the planet's surface. 
- 
- ""Up the Long Ladder"", The Next Generation, 1989-03-17",poetry,7.473815593296447,0.0,0.0
-113,84366,"MAQUES: Please... what is a... poem? 
- TROI: Poetry is... an art-form that uses words, put together in new and unexpected ways -- sometimes in rhyme. 
- TROI: Milton was speculating that in Heaven, roses wouldn't have thorns. 
- 
- ""Dark Page"", The Next Generation, 1993-08-26",poetry,6.807314806384425,0.0,0.0
-114,124218,"GEORDI: Sure, Data... what is it? 
- DATA: I noticed that many spectators seemed distracted during my presentation. Was my poetry uninteresting? 
- GEORDI: Well... it was very well constructed... a real tribute to form... I especially liked your Haiku poem... 
- 
- ""Schisms"", The Next Generation, 1992-08-14",poetry,6.688029631190181,0.0,0.0
-115,27896,"EZRI: You shouldn't just give up. 
- NORVO: I'm not very good, Zee. I never was. All this... it's an indulgence. Just like my other ""hobbies"" -- poetry... music... 
- NORVO: I can't concentrate. My mind wanders. I don't have the discipline it takes to succeed. 
- 
- ""Prodigal Daughter"", Deep Space Nine, 1998-10-19",poetry,6.610801856842862,0.0,0.0
-116,139409,"ORTON: Perhaps. 
- HUTCHINSON: The crew of the Magellan actually put on a talent show here. Captain Conklin did a poetry reading, if you can imagine that. 
- RIKER: I'm trying to. 
- 
- ""Starship Mine"", The Next Generation, 1993-01-14",poetry,5.957297856482438,0.0,0.0
-117,41436,"VIC: I thought you two were getting along just fine. 
- ODO: Of course we are. You've programmed her to find me irresistible. If I read her a criminal activities report, she'd think it was poetry. 
- VIC: You want me to reprogram her -- make her play hard to get? 
- 
- ""His Way"", Deep Space Nine, 1998-02-03",poetry,5.6348106284138035,0.0,0.0
-118,141554,"DEBIN: Not good enough?? You're forcing me to embarrass my family by demanding reasons. 
- DEBIN: It was Okona... He's been bringing Yanar gifts, flowers, and even poetry for the past five months. He took advantage. Then he left her like this. I want him. 
- PICARD: I do sympathize with you. If you will allow me just a little more time. 
- 
- ""The Outrageous Okona"", The Next Generation, 1988-10-04",poetry,5.199794257656209,0.0,0.0
-119,124225,"GEORDI: Maybe some of your poems were a little... formal. 
- DATA: I have found poetry more challenging than other artistic endeavors. Unlike painting and musical composition, it demands a more articulated emotional content. 
- GEORDI: Next time, don't worry so much about rhyme and meter. Some of the world's greatests poets didn't pay attention to rules... 
- 
- ""Schisms"", The Next Generation, 1992-08-14",poetry,5.061870328656261,0.0,0.0
-120,102921,"JENNA: The cat's out of the bag. 
- DATA: Spot? 
- JENNA: I mean you've caught me in the act. I'm just trying to brighten things up around here. It's Tyrinean. What do you think? 
- 
- ""In Theory"", The Next Generation, 1991-03-20",spot,12.64678820159246,0.0,0.0
-121,84160,"DATA: Yes. I am curious as to why Spot is not taking care of them. 
- DATA: Spot... ? 
- PICARD: It would seem the intron virus isn't limited to humanoid lifeforms. 
- 
- ""Genesis"", The Next Generation, 1994-01-07",spot,12.64678820159246,7.40168539469569,0.0
-122,77046,"DATA: Spot -- down. 
- DATA: Spot -- down. 
- DATA: This is up. Up is no. 
- 
- ""Force of Nature"", The Next Generation, 1993-09-17",spot,11.868071007651759,11.868071007651759,0.0
-123,77045,"DATA: Spot -- down. 
- DATA: Spot -- down. 
- DATA: Spot -- down. 
- 
- ""Force of Nature"", The Next Generation, 1993-09-17",spot,11.868071007651759,11.868071007651759,11.868071007651759
-124,77044,"PRAK: I believe it would, Captain. 
- DATA: Spot -- down. 
- DATA: Spot -- down. 
- 
- ""Force of Nature"", The Next Generation, 1993-09-17",spot,11.868071007651759,0.0,11.868071007651759
-125,103149,"JENNA: (quickly toward the door) I'll see you later... 
- DATA: Hello, Spot. 
- PICARD : Captain's Log, Stardate 43980.7. The Enterprise has been in attendance at the biennial Trade Agreements Conference on Betazed. 
- 
- ""In Theory"", The Next Generation, 1991-03-20",spot,11.723695329275497,0.0,0.0
-126,81102,"DATA: Unlike a canine, Spot will not respond to verbal commands. 
- DATA: Goodbye, Spot. 
- DATA: He will need to be fed once a day. He prefers feline supplement one-twenty-five. 
- 
- ""Phantasms"", The Next Generation, 1993-08-17",spot,11.445231695357998,7.517153871138495,0.0
-127,18242,"JAKE: What's this? 
- SISKO: Nice spot, huh? 
- JAKE: Bajor, right? 
- 
- ""CAST"", Deep Space Nine, 1999-01-04",spot,11.310902251636815,0.0,0.0
-128,81100,"WORF: Of course. 
- WORF: Spot. Come here. 
- DATA: Unlike a canine, Spot will not respond to verbal commands. 
- 
- ""Phantasms"", The Next Generation, 1993-08-17",spot,11.179689402617921,0.0,7.517153871138495
-129,80916,"DATA: Good night, Counselor. 
- DATA: Good night, Spot. 
- DATA: Computer -- dim lights. 
- 
- ""Phantasms"", The Next Generation, 1993-08-17",spot,11.051485929330035,0.0,0.0
-130,62335,"JAKE: I'll walk you over to the airlock. 
- JAKE: It was a good spot. 
- NOG: The best. 
- 
- ""Little Green Men"", Deep Space Nine, 1995-09-19",spot,10.683930892825904,0.0,0.0
-131,57986,"O'BRIEN: I've got plenty of time to learn. 
- EE'CHAR: Here. This is a good spot. 
- EE'CHAR: You start by drawing a circle. 
- 
- ""CAST"", Deep Space Nine, 1996-01-24",spot,10.017592179164863,0.0,0.0
-132,45922,"HALB: Twenty meters. I suggest you plant it somewhere in Dukat's quarters. 
- KIRA: I'll pick the right spot. 
- HALB: What about that Bajoran mistress of his? 
- 
- ""Wrongs Darker Than Death or Night"", Deep Space Nine, 1997-12-19",spot,10.017592179164863,0.0,0.0
-133,136785,"BEVERLY: Oh? What were you doing? 
- RIKER: I was trying to feed Spot. 
- BEVERLY: Data's cat? 
- 
- ""Timescape"", The Next Generation, 1993-03-29",spot,9.914533397138687,0.0,0.0
-134,76903,"GEORDI: Probably because she knows I'll kill her if I get my hands on her. 
- DATA: Has Spot been misbehaving? 
- GEORDI: That's putting it mildly. So far she's broken a vase and a teapot, destroyed my couch by using it as a scratching post, and coughed up hairballs on my carpet. 
- 
- ""Force of Nature"", The Next Generation, 1993-09-17",spot,9.914533397138687,0.0,0.0
-135,88903,"RIKER: Glad you could join us. 
- O'BRIEN: Great spot for a picnic, sir. 
- O'BRIEN: We need to distribute the enhancer rods at seven meter legs... that ought to do it... 
- 
- ""Power Play"", The Next Generation, 1991-11-26",spot,9.714649057318724,0.0,0.0
-136,136790,"BEVERLY: You've just got to know how to handle them. 
- RIKER: Maybe you'd like to feed Spot. 
- BEVERLY: I'd be happy to... 
- 
- ""Timescape"", The Next Generation, 1993-03-29",spot,9.522665073276881,0.0,0.0
-137,81096,"WORF: Yes? 
- DATA: Will you take care of Spot for me? 
- WORF: Your... animal? 
- 
- ""Phantasms"", The Next Generation, 1993-08-17",spot,9.160595856300917,0.0,0.0
-138,84157,"PICARD: Agreed. 
- DATA: I believe Spot has had her kittens. 
- PICARD: They sound hungry. 
- 
- ""Genesis"", The Next Generation, 1994-01-07",spot,9.074340086919072,0.0,0.0
-139,137117,"RIKER: Where's that cat of yours? 
- DATA: Spot is sleeping, sir. Why do you ask? 
- RIKER: No reason... 
- 
- ""Timescape"", The Next Generation, 1993-03-29",spot,8.98969352639076,0.0,0.0
-140,112887,"PICARD: My experience suggests that they would ignore him. Would you agree? 
- BORG: The Borg assimilate civilizations. Not individuals. 
- BEVERLY: But, Captain, they kidnapped you... 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",assimilate,9.830092495378965,0.0,0.0
-141,112741,"GEORDI: You're very different from us. Part of what we do is to learn more about other species. 
- BORG: We assimilate species. Then we know everything about them. 
- GEORDI: Yeah. I know. 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",assimilate,9.293359291896225,0.0,0.0
-142,140668,"PICARD: You are Borg... your goal is not to destroy us... it's to assimilate us into the collective. 
- CROSIS: We do not assimilate inferior biological organisms. We destroy them. 
- PICARD: Tell me more about the One... does he have a name? Is he called Hugh? 
- 
- ""Descent, Part I"", The Next Generation, 1993-04-12",assimilate,8.62091518687868,7.578964982195805,0.0
-143,140667,"CROSIS: The One who will destroy you. 
- PICARD: You are Borg... your goal is not to destroy us... it's to assimilate us into the collective. 
- CROSIS: We do not assimilate inferior biological organisms. We destroy them. 
- 
- ""Descent, Part I"", The Next Generation, 1993-04-12",assimilate,7.578964982195805,0.0,8.62091518687868
-144,129658,"MADDOX: I'm going to disassemble Data. 
- PICARD: (pausing for a beat to assimilate this) I think we will remove this discussion to the lounge. 
- PICARD: Explain this procedure. 
- 
- ""The Measure of a Man"", The Next Generation, 1988-12-14",assimilate,7.345338635569765,0.0,0.0
-145,30945,"KEIKO: This is our Molly. We may have missed ten years of her life, but we don't have the right to take them away from her. 
- BASHIR: She's been deprived of human contact for a long time. It's not going to be easy for her to re-assimilate. 
- BASHIR: Her language skills are going to be rusty. The two of you are the best hope we have of helping her recover them. 
- 
- ""Time's Orphan"", Deep Space Nine, 1998-03-18",assimilate,6.800316209339137,0.0,0.0
-146,49969,"SLOAN: (picking up another PADD) Let's move on. Doctor, we spoke yesterday about a group of genetically enhanced patients that you brought to the station. Why, exactly, did you decide to work with them? 
- BASHIR: They'd been institutionalized most of their lives. I thought I might be able to help them assimilate into society. 
- SLOAN: A laudable goal. But what I find puzzling is the way you went about it. These misfits had been sheltered from the outside world for as long as they could remember, yet you chose to bombard them with information about the war with the Dominion. Frankly, I'm surprised it didn't scare them into deeper isolation. 
- 
- ""Inquisition"", Deep Space Nine, 1998-01-14",assimilate,6.468058077983554,0.0,0.0
-147,112727,"BORG: Resistance is futile... 
- GUINAN: I've got news for you. It isn't. Some of my ancestors resisted the Borg, when you came to assimilate us. A few escaped. 
- BORG: Resistance is not futile... 
- 
- ""I, Borg"", The Next Generation, 1992-03-03",assimilate,6.398584778462811,0.0,0.0
-148,100065,"BEVERLY: Well, first I had to go back into my own childhood and remember how painful it was for me. Because there was a time when I didn't feel very popular either. When I told that to Wesley, it made him feel a little better. He knew I understood what he was going through. 
- DATA: I have not told Lal how difficult it was for me to assimilate. I did not want it to discourage her. Perhaps this was an error of judgement. 
- BEVERLY: You had no one with experience to help you through sentience. At least, she has you. Just help her realize that she's not alone. Be there to nurture her when she needs love and attention. 
- 
- ""The Offspring"", The Next Generation, 1989-12-19",assimilate,5.722470284708521,0.0,0.0
-149,96751,"PICARD: I'm sorry, I didn't... 
- RO: No reason you should know. It is an old custom. Most Bajorans these days accept the distortion of their names in order to assimilate. I do not. 
- PICARD: I wish to be candid with you, Ensign. 
- 
- ""Ensign Ro"", The Next Generation, 1991-07-18",assimilate,5.641186235728141,0.0,0.0
-150,140523,"PICARD: Did they show any interest in... assimilating you... or your technology? 
- RIKER: They seemed more concerned with the death of their colleague... and with destroying us... I didn't see anything that suggested they wanted to assimilate anyone. 
- PICARD: The Borg's entire existence was centered around the acquisition of technology and cultures... if that is no longer the case... then they must have a new objective. We have to find out what it is. 
- 
- ""Descent, Part I"", The Next Generation, 1993-04-12",assimilate,5.290495030632493,0.0,0.0
-151,91479,"PICARD: Isn't it possible he was injured prior to his captivity? 
- BEVERLY: Not likely. He's been with them a long time... long enough to assimilate their cultural traits... and calcium trace patterns indicate the injuries occurred during the past seven years. 
- PICARD: But if they have... abused the boy... why would he devoutly wish to return to them? 
- 
- ""Suddenly Human"", The Next Generation, 1990-07-09",assimilate,4.800244988059514,0.0,0.0
-152,61782,"O'BRIEN: But, I'll have to leave the ship to do it. And I have to say I'm not fond of the idea. I can think of about a thousand ways a one- centimeter man could get fried walking around inside a circuit housing. 
- BASHIR: Relax, Miles. You couldn't go outside even if you wanted to. You wouldn't be able to breathe. The oxygen molecules out there are almost two thousand times bigger than anything your hemoglobin can assimilate. You'd suffocate. 
- O'BRIEN: Oh. Well, that takes care of that idea. 
- 
- ""One Little Ship"", Deep Space Nine, 1997-11-06",assimilate,4.105522687317406,0.0,0.0
-153,99786,"RIKER: If it's artificial, then we're talking about sabotage. 
- BEVERLY: With tricyanate? That's hard to believe. It's slow to assimilate, difficult to replicate, and hard to transport. There are a lot easier ways to poison a water supply. A lot more effective ways too. Toxins that can't be neutralized. Bacteriologic agents with no cures at all. 
- RIKER: Can you think of any reason why a saboteur might choose tricyanate? 
- 
- ""The Most Toys"", The Next Generation, 1990-02-25",assimilate,3.53328656762896,0.0,0.0
-154,20618,"CRODEN: They don't maintain a humanoid shape, you know. 
- CRODEN: They refused to assimilate on my world... they're a very proud species... that's why they were so persecuted. But I will say this for them... they treated me well enough when I landed at their colony. I was badly wounded... they could have allowed me to die... they didn't. You're one of them... that's for sure... you have that sense of decency, of justice... 
- ODO: You don't give up, do you... 
- 
- ""Vortex"", Deep Space Nine, 1993-01-12",assimilate,2.947614581064795,0.0,0.0
-155,63082,"EDDINGTON: I know you. I was like you once, but then I opened my eyes... open your eyes, Captain. Why is the Federation so obsessed about the Maquis? We've never harmed you. And yet we're constantly arrested and charged with terrorism... Starships chase us through the Badlands... and our supporters are harassed and ridiculed. Why? Because we've left the Federation, and that's the one thing you can't accept. Nobody leaves paradise. Everyone should want to be in the Federation. 
- EDDINGTON : Hell, you even want the Cardassians to join. You're only sending them replicators so that one day they can take their ""rightful place"" on the Federation Council. You know, in some ways you're worse than the Borg. At least they tell you about their plans for assimilation. You're more insidious... you assimilate people and they don't even know it. 
- SISKO: You know what, Mister Eddington... I don't give a damn what you think of the Federation, or the Maquis, or anything else. All I know is that you betrayed your oath, your duty, and me. And if it takes me the rest of my life, I'll see you standing before a court-martial that'll break you and send you to a penal colony where you'll spend the rest of your days growing old and wondering whether a ship full of replicators was really worth it. 
- 
- ""For the Cause"", Deep Space Nine, 1996-02-26",assimilate,2.9258985077715747,0.0,0.0
-156,135584,"GEORDI: We've been getting some pretty strange readings from that comet... now it looks like there's some kind of energy generation coming from the core. 
- WORF: Is that unusual? 
- GEORDI: The core is normally just a chunk of rock... it should be completely inert. 
- 
- ""Masks"", The Next Generation, 1993-12-09",unusual,9.573909317110642,0.0,0.0
-157,81520,"TROI: I'm fine. The inhibitor seems to be working. Have you found anything? 
- GEORDI: Nothing unusual. 
- TROI: I don't remember seeing this console during my empathic experience. Has it been here since the ship was built? 
- 
- ""Eye of the Beholder"", The Next Generation, 1993-12-21",unusual,9.573909317110642,0.0,0.0
-158,74477,"GEORDI: This is my gift to Starship Victory's Captain Zimbata. 
- DATA: Ah, most unusual. 
- GEORDI: I served as an ensign under him. I wish he'd been in command of this Victory. Wind and sail, that's the proper way to move a ship. 
- 
- ""Elementary, Dear Data"", The Next Generation, 1988-10-12",unusual,9.573909317110642,0.0,0.0
-159,48847,"DAX: Looks like we found that particle field. They're Omicron particles. 
- ODO: Is that unusual? 
- DAX: Omicron particles are incredibly rare. They can only be created by certain types of matter/anti-matter reactions. The field seems to be coming from the second planet in this system. Let's go in a little closer. 
- 
- ""Shadowplay"", Deep Space Nine, 1993-12-09",unusual,9.573909317110642,0.0,0.0
-160,105045,"BEVERLY: There is a minor vascular irregularity in the visual cortex; a slight dilation of the blood vessels. It doesn't seem serious. (a beat as she thinks about it) What about your VISOR? Has it been giving you any problems? 
- GEORDI: No... nothing unusual. 
- BEVERLY: It might not be a bad idea to have your VISOR examined when we get to Starbase Thirty-Six next month. 
- 
- ""The Mind's Eye"", The Next Generation, 1991-03-18",unusual,9.25549615429796,0.0,0.0
-161,83574,"WORF: Nikolai is older than I... and we are not -- alike. We had many disagreements as we were growing up. 
- BEVERLY: That's not unusual. 
- WORF: Nikolai... has a mind of his own. He attended Starfleet Academy -- but he was unable to follow the rules. He left after one year. However, he has many fine qualities. He is... brilliant. Persuasive. A natural leader... 
- 
- ""Homeward"", The Next Generation, 1993-10-27",unusual,9.25549615429796,0.0,0.0
-162,59991,"QUARK: No, he comes in all the time. But he was in a good mood... 
- CH'POK: And that's unusual? 
- QUARK: Well, he's a Klingon, and you people are rarely in what I would call good moods. Not that you're anything but a pleasant, charming race. Some of my best friends are Klingons. 
- 
- ""Rules of Engagement"", Deep Space Nine, 1996-01-16",unusual,9.25549615429796,0.0,0.0
-163,133892,"DATA: No. Our sensors are not fully penetrating whatever the debris is, sir. I cannot explain it. 
- PICARD: That's very unusual. 
- DATA: Yes. I cannot explain it. 
- 
- ""Skin of Evil"", The Next Generation, 1988-02-01",unusual,9.154013458593868,0.0,0.0
-164,90630,"DATA: Sensors are reading gravimetric fluctuations... most unusual ones. 
- RIKER: ""Unusual"" how? Specify? 
- DATA: Nothing I have seen before. 
- 
- ""Yesterday's Enterprise"", The Next Generation, 1989-12-08",unusual,9.154013458593868,6.220968371066933,0.0
-165,89768,"DATA: No, Sir. However, the star's single planet falls within the M-Class range. It is capable of supporting life. 
- PICARD: Now that is unusual. 
- DATA: Highly, Sir. 
- 
- ""Clues"", The Next Generation, 1990-11-14",unusual,9.154013458593868,0.0,0.0
-166,26159,"BASHIR: -- I was running a scan on the sample you left when I noticed something unusual. 
- ODO: Unusual in what way? 
- BASHIR: The disease that's killing your people... you're infected... 
- 
- ""When it Rains... "", Deep Space Nine, 1999-02-16",unusual,9.154013458593868,5.633303264820901,0.0
-167,128339,"GEORDI: Come on... let's get started. 
- PICARD: Well. This is... unusual. 
- RIKER: Yeah... but I think I like it. 
- 
- ""The Next Phase"", The Next Generation, 1992-03-15",unusual,9.054732058349018,0.0,0.0
-168,103845,"FALSE PICARD : You know, back when I was in the Academy, we would follow each toast with a song. 
- WORF: An unusual tradition. 
- FALSE PICARD: Let's see if I can remember one... 
- 
- ""Allegiance"", The Next Generation, 1990-01-15",unusual,9.054732058349018,0.0,0.0
-169,71332,"SISKO: An unusual request for a woman. 
- KIRA: I'm an unusual woman. 
- SISKO: I understand your field is geology, Mister Merriweather. 
- 
- ""Our Man Bashir"", Deep Space Nine, 1995-10-26",unusual,9.054732058349018,8.168773879749544,0.0
-170,41518,"ODO: This isn't quite the way I pictured it would be. 
- KIRA: It's a little unusual. 
- ODO: Is something wrong? You haven't touched your food. 
- 
- ""His Way"", Deep Space Nine, 1998-02-03",unusual,8.957581098468372,0.0,0.0
-171,103855,"BEVERLY: He came in for a physical without a word from me... 
- WORF: Anything unusual, doctor? 
- BEVERLY: He was in perfect health... every test result identical to his last physical... that's kind of unusual in itself, actually... 
- 
- ""Allegiance"", The Next Generation, 1990-01-15",unusual,8.769401964521084,0.0,4.459715363437868
-172,39461,"SISKO: Solar neutrinos. 
- DAX: Notice anything unusual? 
- KIRA: There're a lot of them? 
- 
- ""Rivals"", Deep Space Nine, 1993-10-18",unusual,8.769401964521084,0.0,0.0
-173,136384,"ADMIRAL HOLT: We're hosting this year's palio. The Ferengi have already been accused of trying to bribe the Breen pilot into throwing the race... 
- PICARD: Nothing unusual about that. 
- ADMIRAL HOLT: Nothing at all... 
- 
- ""Interface"", The Next Generation, 1993-07-14",unusual,8.501505001461958,0.0,0.0
-174,89766,"DATA: Long range sensors have detected a T-tauri type star within a pocket of the Ngame cloud. 
- PICARD: Nothing unusual about that. 
- DATA: No, Sir. However, the star's single planet falls within the M-Class range. It is capable of supporting life. 
- 
- ""Clues"", The Next Generation, 1990-11-14",unusual,8.501505001461958,0.0,0.0
-175,54313,"DAX: They know more about them than anyone. 
- BASHIR: Sounds like an unusual job. 
- SISKO: From what Curzon told me, the Guardians are unusual people. 
- 
- ""Equilibrium"", Deep Space Nine, 1994-08-10",unusual,8.501505001461958,0.0,6.461712884432334
-176,119452,"DATA: Captain, the ODN bypass to the Bridge has been blocked. We have not regained control of the propulsion systems. 
- RIKER: Barclay! 
- BARCLAY: Yes, Commander Riker? 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,11.83192999885251,0.0,0.0
-177,119371,"BARCLAY: I am responding, sir. I'm sorry if I caused you any alarm. It was necessary in order to secure the Array. 
- RIKER: Barclay? 
- BARCLAY: Yes, Commander... 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,11.83192999885251,0.0,0.0
-178,119368,"BARCLAY: A neural interface was created to expedite the repairs. 
- RIKER: Barclay? 
- PICARD: Computer! Respond. 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,11.83192999885251,0.0,0.0
-179,114645,"PICARD: Good. I look forward to your report, Mister Broccoli. 
- PICARD: Barclay. 
- BARCLAY: If you'll excuse me. 
- 
- ""Hollow Pursuits"", The Next Generation, 1990-02-09",barclay,11.83192999885251,0.0,0.0
-180,92233,"O'BRIEN: Okay... Energizing. 
- GEORDI : Barclay. 
- BARCLAY: Aye sir... 
- 
- ""Realm of Fear"", The Next Generation, 1992-07-15",barclay,11.83192999885251,0.0,0.0
-181,119384,"GEORDI: I disconnected the visual and audio pickups. We can talk without being monitored by... the computer... 
- WORF: By Barclay. 
- PICARD: Report, Commander. 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,11.400121935271642,0.0,0.0
-182,101528,"GEORDI: La Forge to Barclay... 
- BARCLAY: Barclay here. 
- GEORDI: Reg, something went wrong with the Holodeck program again. 
- 
- ""Ship in a Bottle"", The Next Generation, 1992-10-26",barclay,11.1293438834682,10.27514324428214,0.0
-183,119493,"ALIEN: The same as you. 
- PICARD: Mister Barclay... ? 
- BARCLAY: You both have the same mission, Captain... 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,10.871130544483764,0.0,0.0
-184,119219,"PICARD : Captain's log, stardate 44705.3. The Enterprise has destroyed the alien probe. But now we are left with the difficult task of repairing the Argus Telescope. Failure to do so would represent an irreplaceable scientific loss. 
- RIKER : Mister Barclay. 
- RIKER: ... Everyone's still trying to figure out exactly how you did it. 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,10.871130544483764,0.0,0.0
-185,92430,"BARCLAY: Nowhere. I just don't get to these decks very often. There's Stellar Cartography -- I thought that was on Deck Eleven. 
- TROI: Mister Barclay... 
- BARCLAY: I was... I was having trouble sleeping. I'm just trying to wear myself out. That's a perfectly normal thing to be doing, isn't it? 
- 
- ""Realm of Fear"", The Next Generation, 1992-07-15",barclay,10.871130544483764,0.0,0.0
-186,101739,"COUNTESS: James has explained it to me. It sounds like a grand adventure... there's nothing I love more than exploring the unknown. Have you ever been to Africa, Mister -- ? 
- BARCLAY: Ah -- Barclay. Lieutenant Reg Barclay. No, I never have. 
- COUNTESS: I have, when I was seventeen -- I went on safari with my uncle. 
- 
- ""Ship in a Bottle"", The Next Generation, 1992-10-26",barclay,10.78925283807682,0.0,0.0
-187,101527,"GEORDI: Freeze program. 
- GEORDI: La Forge to Barclay... 
- BARCLAY: Barclay here. 
- 
- ""Ship in a Bottle"", The Next Generation, 1992-10-26",barclay,10.27514324428214,0.0,11.1293438834682
-188,92213,"BARCLAY: I'll ask Ensign Dern to join you. 
- GEORDI: I meant you, Barclay. 
- BARCLAY: Shouldn't I stay here and set up the remote link? 
- 
- ""Realm of Fear"", The Next Generation, 1992-07-15",barclay,10.27514324428214,0.0,0.0
-189,114757,"RIKER: (entering from Picard's Ready Room) Where is Mister Barclay... it's past fourteen hundred hours... 
- GEORDI: Lieutenant Barclay to the bridge. Lieutenant Barclay report. 
- RIKER: Computer. Locate Lieutenant Barclay. 
- 
- ""Hollow Pursuits"", The Next Generation, 1990-02-09",barclay,10.257802575641835,5.777467453905245,8.823888762673418
-190,114710,"BARCLAY: No, but you're good. You were born to be in Starfleet. Me... 
- GEORDI: You're just shy, Barclay. 
- BARCLAY: ""Just shy""... sounds like nothing serious, doesn't it... You can't know. 
- 
- ""Hollow Pursuits"", The Next Generation, 1990-02-09",barclay,9.843426794129327,0.0,0.0
-191,119267,"BARCLAY: -- I don't need a counselor. What I need is the company of a charming, intelligent woman. 
- TROI: Goodnight, Mister Barclay. 
- GEORDI: Where's Lieutenant Barclay? 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,9.74110714521276,0.0,9.542719385013992
-192,119214,"WORF: Aye. 
- PICARD: Thank you, Mister Barclay... 
- BARCLAY: You're welcome, Captain. Barclay out. 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,9.74110714521276,0.0,8.823888762673418
-193,92449,"BARCLAY: Calm... stay calm... Computer -- let's try music... something soothing. 
- BARCLAY: Barclay to Chief O'Brien. 
- O'BRIEN: O'Brien here. 
- 
- ""Realm of Fear"", The Next Generation, 1992-07-15",barclay,9.74110714521276,0.0,0.0
-194,101758,"COUNTESS: How thoughtful. Isn't he thoughtful, James? 
- BARCLAY: Barclay to Commander Data... 
- DATA: Go ahead, Lieutenant. 
- 
- ""Ship in a Bottle"", The Next Generation, 1992-10-26",barclay,9.640892780321755,0.0,0.0
-195,119502,"BARCLAY: Smaller... 
- GEORDI: Just plain old Barclay, huh... 
- BARCLAY: It always seems to come back to that, doesn't it.. 
- 
- ""The Nth Degree"", The Next Generation, 1991-01-25",barclay,9.542719385013992,0.0,0.0
-196,69545,"QUARK: Rule of Acquisition number two- fourteen: ""Never begin a negotiation on an empty stomach."" 
- SAKONNA: Rule of Acquisition? 
- QUARK: Yes, yes... every Ferengi business transaction is governed by two hundred eighty-five Rules of Acquisition... to insure a fair and honest deal for all parties concerned... well, most of them anyway... 
- 
- ""The Maquis, Part I"", Deep Space Nine, 1994-02-04",acquisition,10.76450041330466,6.245131383427226,3.802251187220798
-197,30929,"DAX: Synchronized. 
- O'BRIEN: DNA acquisition sensors? 
- BASHIR: Locked in. 
- 
- ""Time's Orphan"", Deep Space Nine, 1998-03-18",acquisition,10.312223321334537,0.0,0.0
-198,2673,"NOG: Yeah. Money is money, but women are better. 
- JAKE: Is that a Rule of Acquisition? 
- NOG: It's a personal rule. So, who is she? 
- 
- ""Life Support"", Deep Space Nine, 1994-11-10",acquisition,9.70084301128592,0.0,0.0
-199,47770,"ARJIN: How? 
- QUARK: Rule of Acquisition One-twelve. 
- QUARK : ""Never have sex with the boss's sister."" I was fired, broke. It was quite a setback to my ambitions. 
- 
- ""Playing God"", Deep Space Nine, 1993-12-17",acquisition,9.605925335646544,0.0,0.0
-200,10064,"ROM: I'll be able to go into business for myself. Turn the page, Brother. Turn the page. 
- QUARK: The first Rule of Acquisition is... 
- ROM: Go on. 
- 
- ""Prophet Motive"", Deep Space Nine, 1994-12-07",acquisition,9.421555351748184,0.0,0.0
-201,72664,"WORF: Quark may lend you the money, but remember Rule of Acquisition number one hundred and eleven: ""Treat people in your debt like family -- exploit them."" 
- DAX: You know the Rules of Acquisition? 
- WORF: I am a graduate of Starfleet Academy. I know many things. 
- 
- ""The Darkness and the Light"", Deep Space Nine, 1996-10-22",acquisition,9.331999141836002,4.58328265837992,0.0
-202,15633,"NOG: ""... Is no Ferengi at all."" 
- SISKO: The eighteenth Rule of Acquisition. 
- NOG: My father's a mechanical genius. He could've been the chief engineer of a starship if he'd had the opportunity. But he went into business instead, like a good Ferengi. The only thing is, he's not a good Ferengi... not when it comes to acquiring profit. So now all he has to live for is the slim chance that someday, somehow, he might be able to take over my uncle's bar. Well I'm not going to make the same mistake. I want to do something with my life... something worthwhile. 
- 
- ""Heart of Stone"", Deep Space Nine, 1994-11-17",acquisition,9.244129446624404,0.0,0.0
-203,92553,"BEVERLY: The imaging scanners are actuating... 
- GEORDI: Got it... pattern acquisition... Positive. 
- O'BRIEN: Programming bio-filter... 
- 
- ""Realm of Fear"", The Next Generation, 1992-07-15",acquisition,9.157899070063666,0.0,0.0
-204,36208,"QUARK: ""Never place friendship above profit."" 
- PEL: The twenty-first Rule of Acquisition. 
- QUARK: I'm glad you agree. 
- 
- ""Rules of Acquisition"", Deep Space Nine, 1993-09-03",acquisition,9.073262560831237,0.0,0.0
-205,35997,"PEL: Just remember one thing, ""The bigger the smile, the sharper the knife."" 
- QUARK: The forty-eighth Rule of Acquisition. 
- PEL: I'd keep it in mind if I were you. 
- 
- ""Rules of Acquisition"", Deep Space Nine, 1993-09-03",acquisition,9.073262560831237,0.0,0.0
-206,10058,"ZEK: By all means. 
- QUARK: ""The Rules of Acquisition, Revised for the Modern Ferengi."" You rewrote the Rules of Acquisition? 
- ZEK: I hope you like them. Absorb... enjoy... 
- 
- ""Prophet Motive"", Deep Space Nine, 1994-12-07",acquisition,9.060352562070337,0.0,0.0
-207,58324,"QUARK: As a wise man once wrote... ""Nature decays, but latinum lasts forever."" 
- NOG: Rule of Acquisition number one-oh- two? 
- QUARK: Good lad. Nog... I have some ointment in one of my bags... get it. 
- 
- ""The Jem'Hadar"", Deep Space Nine, 1994-04-11",acquisition,8.990176132446994,0.0,0.0
-208,44235,"QUARK: It's always good business to know about new customers before they walk in your door. 
- O'BRIEN: Yeah... ? Which Rule of Acquisition is that? 
- QUARK: Oh, one of the high numbers... one ninety-four, I think... 
- 
- ""Whispers"", Deep Space Nine, 1993-11-16",acquisition,8.908597587737734,0.0,0.0
-209,24556,"ZEK: He also spoke of how you betrayed him to the authorities and left him to rot behind bars while you kept all the profits... 
- QUARK: The sixth rule of Acquisition expressly states... 
- ZEK: ""Never allow family to stand in the way of opportunity."" I certainly never have. You see, I told you he had brains... 
- 
- ""The Nagus"", Deep Space Nine, 1993-01-04",acquisition,8.305660608270724,0.0,0.0
-210,10175,"QUARK: Beyond greed? There's nothing beyond greed. It's the purest, most noble of emotions. 
- ROM: ""Greed is Dead."" That's the tenth Rule of Acquisition. 
- QUARK: No it's not. The tenth Rule of Acquisition is ""Greed is Eternal."" 
- 
- ""Prophet Motive"", Deep Space Nine, 1994-12-07",acquisition,8.033795570739754,0.0,7.370357447499342
-211,44744,"ROM: He's not alone. Those Subytt smugglers were a potential source of great profit. 
- QUARK: Must I quote you the seventy-sixth Rule of Acquisition? 
- ROM: The seventy-sixth rule... 
- 
- ""The Homecoming"", Deep Space Nine, 1993-07-02",acquisition,7.7791640808969555,0.0,0.0
-212,43803,"ODO: Keep your ears open. 
- QUARK: Are you kidding? That's the seventh rule of acquisition. 
- O'BRIEN: It's a security bypass module. 
- 
- ""In the Hands of the Prophets"", Deep Space Nine, 1993-04-02",acquisition,7.7791640808969555,0.0,0.0
-213,37447,"ROM: I'm calling on behalf of Grand Nagus Zek -- 
- QUARK: I know all about the ninety-fourth Rule of Acquisition -- 
- NOG: I know... ""Females and finances don't mix,"" but that can be interpreted in many different ways... 
- 
- ""Profit and Lace"", Deep Space Nine, 1998-03-09",acquisition,7.7791640808969555,0.0,0.0
-214,35926,"PEL: I wanted to learn from the best. 
- QUARK: Which brings to mind the thirty-third Rule of Acquisition... 
- QUARK AND PEL: ""It never hurts to suck up to the boss."" 
- 
- ""Rules of Acquisition"", Deep Space Nine, 1993-09-03",acquisition,7.598537114868133,0.0,0.0
-215,55684,"QUARK: ""A Ferengi without profit is no Ferengi at all."" You taught me that. 
- ISHKA: The Rules of Acquisition aren't going to help you now, Quark. 
- QUARK: A hundred and ninety-nine point slide... 
- 
- ""Ferengi Love Songs"", Deep Space Nine, 1997-01-30",acquisition,7.482708142719518,0.0,0.0
-216,53433,"BASHIR: Ah, but there's the rub. Even if they do harbor feelings for each other, it's strictly against the rules of Trill society for them to acknowledge it in any way. 
- KIRA: The ""rules?"" 
- BASHIR: It's more of a... taboo, really. Having a relationship with a lover from a past life is called, ""reassociation,"" and the Trill feel very strongly that it's... unnatural. 
- 
- ""Rejoined"", Deep Space Nine, 1995-08-30",rules,11.077192935763447,3.941662373390297,0.0
-217,32982,"BASHIR: So, where can someone practice with his phaser around here... ? 
- QUARK: New rules... ? 
- KIRA: You're can't cheat every customer who walks through your door anymore, Quark... you're a community leader now... 
- 
- ""#40511-721"", Deep Space Nine, 1992-08-10",rules,11.077192935763447,0.0,0.0
-218,20298,"O'BRIEN: Of course, I suppose when the Ferengi don't like the rules... they just change them... 
- QUARK: Well, rules... rules are always subject to inter--... 
- O'BRIEN: Of course... change the rules... why didn't I think of that... 
- 
- ""Captive Pursuit"", Deep Space Nine, 1992-10-23",rules,10.663007089170677,5.948954549797528,7.184333775713452
-219,23299,"FALOW: Chula. 
- QUARK: What are the rules? 
- FALOW: These are your players. We'll start them on the second shap. 
- 
- ""Move Along Home"", Deep Space Nine, 1992-12-07",rules,9.971962902471084,0.0,0.0
-220,67935,"GINT: Of course they matter. That's why they're a best-seller... but we're talking about your life here. The Rules are nothing but guideposts, suggestions... 
- QUARK: Then why call them Rules? 
- GINT: Would you buy a book called ""Suggestions of Acquisition""? Doesn't quite have the same ring to it, does it? 
- 
- ""Body Parts"", Deep Space Nine, 1996-03-26",rules,9.350028429123823,4.1992841141935955,0.0
-221,35921,"PEL: True, but the twenty-second rule says, ""A wise man can hear profit in the wind."" 
- QUARK: I see you know your Rules. 
- PEL: All two hundred and eighty-five of them. And the various commentaries as well. I don't plan on being a waiter forever. 
- 
- ""Rules of Acquisition"", Deep Space Nine, 1993-09-03",rules,9.25383739593126,0.0,0.0
-222,48407,"ODO: You're not just leaving, Major. You're surrendering. 
- KIRA: You break the rules, you pay. 
- ODO: Wait a minute. I want to be sure I heard that correctly. Because it doesn't sound like the Kira Nerys who has made a career out of breaking rules... 
- 
- ""The Circle"", Deep Space Nine, 1993-07-12",rules,9.067273177062338,0.0,4.1797709572677295
-223,42881,"O'BRIEN: Luck has nothing to do with it. Tongo is a game of strategy and calculated risk. Pull up a chair. 
- BASHIR: I don't even know the rules. 
- O'BRIEN: Here. 
- 
- ""Change of Heart"", Deep Space Nine, 1997-12-12",rules,9.067273177062338,0.0,0.0
-224,70831,"ISHKA: I'd like to. But Ferengi tradition doesn't allow females to travel. 
- ROM: Quark doesn't make the rules. 
- ISHKA: He just lives by them. 
- 
- ""Family Business"", Deep Space Nine, 1995-03-08",rules,8.976783869817538,0.0,0.0
-225,21238,"FRANKIE: What kind of card is that to give such a pretty lady. Hit her again. 
- KIRA: Isn't that against the rules? 
- FRANKIE: Don't worry about it. Double your bet. 
- 
- ""Badda-bing Badda-bang"", Deep Space Nine, 1998-12-09",rules,8.976783869817538,0.0,0.0
-226,19769,"Q: Or what? You'll thrash me? Shall we settle this mano a mano? 
- Q: Marquis of Queensberry Rules? 
- SISKO: What? 
- 
- ""Q-Less"", Deep Space Nine, 1992-10-30",rules,8.976783869817538,0.0,0.0
-227,55535,"QUARK: I'll make myself scarce. Good luck, I'm counting on you. 
- ODO: Commander, I'm sorry if the Klingons are unhappy, but station rules are station rules. 
- WORF: I am well aware of station rules. But General Martok is a great warrior and has no business being in a holding cell. 
- 
- ""Ferengi Love Songs"", Deep Space Nine, 1997-01-30",rules,8.660938102120326,0.0,4.830746242901986
-228,119861,"ROBERT: I was always your brother... watching you get the cheers... watching you break every one of father's rules and getting away with it... 
- PICARD: Why didn't you break a few rules? 
- ROBERT: I was the older one, the responsible one. I had to look after you... 
- 
- ""Family"", The Next Generation, 1990-08-02",rules,8.632194579414538,4.561286403518947,0.0
-229,92675,"GEORDI: Completely disrupted. 
- RO: That rules out a distress signal. 
- RIKER: If we even knew where to send it. 
- 
- ""Conundrum"", The Next Generation, 1991-11-14",rules,8.632194579414538,0.0,0.0
-230,72664,"WORF: Quark may lend you the money, but remember Rule of Acquisition number one hundred and eleven: ""Treat people in your debt like family -- exploit them."" 
- DAX: You know the Rules of Acquisition? 
- WORF: I am a graduate of Starfleet Academy. I know many things. 
- 
- ""The Darkness and the Light"", Deep Space Nine, 1996-10-22",rules,8.550141606110783,0.0,0.0
-231,60908,"GARAK: That is the idea. In case you've forgotten we're in a war and they're the enemy. 
- O'BRIEN: There are rules, even in war, Garak. 
- GARAK: Correction -- -humans have rules in war. Rules that tend to make victory a little harder to achieve, in my opinion. 
- 
- ""Rocks and Shoals"", Deep Space Nine, 1997-07-24",rules,8.550141606110783,0.0,7.7305098677402
-232,10249,"ROM: A gift? 
- QUARK: Zek said the New Rules were a gift. 
- ROM: A gift from Zek to the Ferengi people. 
- 
- ""Prophet Motive"", Deep Space Nine, 1994-12-07",rules,8.469633847213032,0.0,0.0
-233,141360,"DATA: You are not permitted on the bridge. You are restricted to your quarters or the Ten-Forward lounge unless escorted by a crewmember. 
- OKONA: I've broken some small rules before. 
- GEORDI: You do and besides the bells and lights that will go off, our benevolent and kindly Lieutenant Worf will offer you a new kind of greeting. 
- 
- ""The Outrageous Okona"", The Next Generation, 1988-10-04",rules,8.390628060871142,0.0,0.0
-234,63205,"WORF: An extra worker for you... 
- WORF: A Terran who doesn't know the rules. 
- ODO: Well, we'll see to it that he learns them. 
- 
- ""Crossover"", Deep Space Nine, 1994-03-08",rules,8.390628060871142,0.0,0.0
-235,10058,"ZEK: By all means. 
- QUARK: ""The Rules of Acquisition, Revised for the Modern Ferengi."" You rewrote the Rules of Acquisition? 
- ZEK: I hope you like them. Absorb... enjoy... 
- 
- ""Prophet Motive"", Deep Space Nine, 1994-12-07",rules,8.301254236050957,0.0,0.0
-236,2572,"BASHIR: Kai Winn... ? 
- WINN: The Vedek... take care of the Vedek... 
- ODO: Odo to Kira. 
- 
- ""Life Support"", Deep Space Nine, 1994-11-10",vedek,11.468552381416869,0.0,0.0
-237,56768,"KIRA: It's because the man you look like was respected and loved by a lot of people. He was a Vedek. 
- BAREIL: A Vedek? 
- KIRA: A religious leader. 
- 
- ""Resurrection"", Deep Space Nine, 1997-09-17",vedek,11.346077181025262,5.472747796903223,0.0
-238,48621,"WINN: ... to come upon such a flowing exchange of spiritual harmony. 
- BAREIL: Vedek Winn. 
- WINN: We've met before, haven't we. You're Major... Major... 
- 
- ""The Circle"", Deep Space Nine, 1993-07-12",vedek,10.932000389051955,0.0,0.0
-239,48514,"KIRA: And you won't tell. 
- BAREIL: I'm a Vedek. 
- KIRA: I have absolutely no artistic skills. I was the worst fingerpainter in the four year old level. My parents were humiliated. 
- 
- ""The Circle"", Deep Space Nine, 1993-07-12",vedek,10.800610422175788,0.0,0.0
-240,9523,"O'BRIEN: I guess so... 
- KIRA: Vedek Porta... 
- PORTA: Nerys... 
- 
- ""Accession"", Deep Space Nine, 1996-01-05",vedek,10.800610422175788,0.0,0.0
-241,54002,"KIRA: In the Assembly records? Who has 
- ODO: Only a Vedek. 
- QUARK: Eight... nine... ten. 
- 
- ""The Collaborator"", Deep Space Nine, 1994-03-21",vedek,10.672341256941854,0.0,0.0
-242,48472,"KIRA: We're open for business. Come on in. Join the crowd. 
- KIRA: Vedek Bareil. 
- BAREIL: I didn't mean to intrude... 
- 
- ""The Circle"", Deep Space Nine, 1993-07-12",vedek,10.672341256941854,0.0,0.0
-243,43720,"BAREIL: I'm sorry for keeping you waiting, Commander Sisko. 
- SISKO: Vedek Bareil... ? 
- BAREIL: Please. There is no need to pay tribute to me, Commander... 
- 
- ""In the Hands of the Prophets"", Deep Space Nine, 1993-04-02",vedek,10.672341256941854,0.0,0.0
-244,48625,"WINN: That's right, Major Kira. From the space station. What brings you here? 
- BAREIL: I do, Vedek Winn. 
- WINN: Good for you, Vedek Bareil. After working so hard, you deserve a little... (no beat, looking at Kira) ...recreation. 
- 
- ""The Circle"", Deep Space Nine, 1993-07-12",vedek,10.305184934083773,0.0,5.129144503456922
-245,57587,"KIRA: I guess not. 
- SARISH: Is that Vedek Tonsa? 
- KIRA: Yes. 
- 
- ""Crossfire"", Deep Space Nine, 1995-11-14",vedek,9.853216534159849,0.0,0.0
-246,56905,"DAX: It's not a midnight swim in the Holosuites... but as long as it makes you happy... 
- BAREIL: So where's this Vedek? 
- KIRA: He'll be here -- now stop pacing. This is an orb experience, not an execution. 
- 
- ""Resurrection"", Deep Space Nine, 1997-09-17",vedek,9.641780251332941,0.0,0.0
-247,53733,"BAREIL: Nerys? 
- KIRA: Vedek Bareil. Want to play? 
- BAREIL: Help me. 
- 
- ""The Collaborator"", Deep Space Nine, 1994-03-21",vedek,9.245010204601313,0.0,0.0
-248,43864,"BAREIL: Commander... 
- SISKO: Thank you for coming, Vedek. 
- BAREIL: I'm just another voice. But perhaps some of the Bajorans on your station will listen to what I have to say... 
- 
- ""In the Hands of the Prophets"", Deep Space Nine, 1993-04-02",vedek,9.15086808912284,0.0,0.0
-249,25645,"FALA: Faith, Nerys. Faith... 
- ODO: I'm sorry about Vedek Fala... 
- KIRA: I keep going over what he said when he died. I don't know if he was trying to tell me that he never lost his faith... or that he felt betrayed by it. 
- 
- ""Covenant"", Deep Space Nine, 1998-09-28",vedek,9.15086808912284,0.0,0.0
-250,14906,"BASHIR: I'll see you later. 
- KIRA: What can I do for you, Vedek? 
- YARKA: Have you been able to convince the Emissary to reconsider his decision? 
- 
- ""CAST"", Deep Space Nine, 1994-12-02",vedek,9.058623948450432,0.0,0.0
-251,48479,"BAREIL: Nowadays, it's probably wiser not to announce those things. 
- ODO: How bad is it on Bajor, Vedek? 
- BAREIL: The violence has seriously escalated... it almost seems there are more weapons on the streets now than during the occupation... 
- 
- ""The Circle"", Deep Space Nine, 1993-07-12",vedek,8.968220958523972,0.0,0.0
-252,14919,"YARKA: I'm afraid that's no longer possible. The Prophets have chosen you to help the Emissary make this decision -- a decision that has profound implications for all of Bajor. You must convince him to make the Cardassians leave before the Sword of Stars appears... 
- KIRA: Vedek, if you're asking me to -- 
- YARKA: It is not I who is asking... but the Prophets. If you turn your back on them now, you'll be abandoning your faith. And without your faith, Nerys... what do you have left? 
- 
- ""CAST"", Deep Space Nine, 1994-12-02",vedek,8.968220958523972,0.0,0.0
-253,1353,"WINN: Have you suffered a recent loss? Or are you still mourning the death of Minister Kalem? 
- KIRA: It's for Vedek Bareil, actually. 
- WINN: It's been three months since Bareil left us to walk with the Prophets... you must have cared for him deeply. 
- 
- ""Shakaar"", Deep Space Nine, 1995-03-16",vedek,8.792722254542658,0.0,0.0
-254,60820,"YASSIM: What will it take to make you act, Kira? To make you stop accepting them and start fighting back? 
- KIRA: Vedek, you just don't understand. 
- YASSIM: You're right -- I don't. Maybe tomorrow, we'll both understand. 
- 
- ""Rocks and Shoals"", Deep Space Nine, 1997-07-24",vedek,8.707523688998101,0.0,0.0
-255,53859,"KIRA: And that's why you can never be allowed to set foot on Bajor again. If you did, it would dishonor the memory of every person you sentenced to death. 
- SISKO: Vedek Winn. What can I do for you? 
- WINN: Emissary, it has recently come to my attention that there are some on Bajor who believe my relationship with you is not all it should be. 
- 
- ""The Collaborator"", Deep Space Nine, 1994-03-21",vedek,8.623960370200605,0.0,0.0
-256,61683,"O'BRIEN: Unless I can find another way out of here, we'll be vaporized. Is that clear enough? 
- BASHIR: Crystal. 
- O'BRIEN: There's a distribution manifold coming up... take the left conduit, then make a quick right into the relays. 
- 
- ""One Little Ship"", Deep Space Nine, 1997-11-06",warp crystal,12.683450396933875,0.0,0.0
-257,13819,"SORM: Spicy... 
- TRAIDY: They have the crystal. 
- TRAIDY: We've got to make sure she doesn't access it. 
- 
- ""A Simple Investigation"", Deep Space Nine, 1997-01-06",warp crystal,10.778266321018226,0.0,0.0
-258,13778,"ARISSA: Not quite. I meant what I said about your eyes. 
- ODO: What's on the crystal? 
- ARISSA: I don't know. But I need to find out. 
- 
- ""A Simple Investigation"", Deep Space Nine, 1997-01-06",warp crystal,10.778266321018226,0.0,0.0
-259,14012,"ODO: Forget about the crystal, we have to find Arissa. 
- IDANIAN #2: That crystal is Arissa. 
- O'BRIEN: She took it... I don't know where she went... 
- 
- ""A Simple Investigation"", Deep Space Nine, 1997-01-06",warp crystal,10.663850641004572,8.42735549993973,0.0
-260,13845,"ODO : ... as you said before, they're a secretive race. 
- ARISSA: What about the crystal? 
- ODO: Dax and Chief O'Brien are still trying to get past the encryption lockouts. 
- 
- ""A Simple Investigation"", Deep Space Nine, 1997-01-06",warp crystal,10.663850641004572,0.0,0.0
-261,15315,"ODO: Your foot's been encased in some kind of crystal. And from the look of things... 
- ODO: The crystal's spreading. 
- ODO: You're sure you can't pull it loose? 
- 
- ""Heart of Stone"", Deep Space Nine, 1994-11-17",warp crystal,10.551838583502208,6.778307914586783,0.0
-262,102185,"DATA: That is true. I have experimented with producing vibrations in crystal by means of graviton pulses. 
- DOCTOR MARR: Like tapping a crystal goblet? 
- DATA: Exactly. 
- 
- ""Silicon Avatar"", The Next Generation, 1991-07-31",warp crystal,9.926252214419419,5.937042002777252,0.0
-263,115515,"GEORDI: Great. Thanks a lot. Computer, generate a cross section image of the dilithium crystal chamber. 
- GEORDI: What about reorienting the crystal? 
- LEAH: It is possible to reorient the crystal. The key lies in adjusting the lattice structure direction. This modification will be integrated into the next class starship. 
- 
- ""Booby Trap"", The Next Generation, 1989-08-31",warp crystal,9.458926433834932,6.155311990745495,4.289291036354042
-264,125947,"RIKER: Assuming you can -- can you regulate the reaction? 
- WESLEY : There's just enough crystal to do it. 
- WESLEY: We plan to channel the reaction through the chips. 
- 
- ""Peak Performance"", The Next Generation, 1989-04-17",warp crystal,9.284089277775177,0.0,0.0
-265,115633,"GEORDI: What? -- computer -- 
- GEORDI: The crystal lattice is breaking down... 
- GEORDI: We'll have to pick up repairs when we can reach a starbase.... 
- 
- ""Booby Trap"", The Next Generation, 1989-08-31",warp crystal,9.284089277775177,0.0,0.0
-266,115510,"PICARD: Good. Return at once. 
- GEORDI: What about the dilithium crystal control? 
- LEAH: It should be possible to fine tune the frequency ranges... 
- 
- ""Booby Trap"", The Next Generation, 1989-08-31",warp crystal,8.953113676265335,0.0,0.0
-267,75115,"RIKER: With compliments of the USS Enterprise. 
- RIKER: It's called an Albeni meditation crystal. 
- BEATA: Very impressive. 
- 
- ""Angel One"", The Next Generation, 1987-11-09",warp crystal,8.953113676265335,0.0,0.0
-268,102423,"JA'DAR: If our theories are correct, the wave will envelop the ship and push it into warp. 
- PICARD: Warp without warp drive... 
- RIKER: They're going to put you out of a job, Geordi. 
- 
- ""New Ground"", The Next Generation, 1991-10-04",warp crystal,8.765691122254717,4.253581462902485,0.0
-269,14011,"IDANIAN #2: The datacrystal -- where is it? 
- ODO: Forget about the crystal, we have to find Arissa. 
- IDANIAN #2: That crystal is Arissa. 
- 
- ""A Simple Investigation"", Deep Space Nine, 1997-01-06",warp crystal,8.42735549993973,0.0,10.663850641004572
-270,74053,"PICARD: Now that your son's safe, Doctor, report immediately to Sickbay. 
- RIKER: Captain... The crystal thing has begun to move away. 
- PICARD: (continuing; beat; eyeing him) Data, get rid of that damned twitch! And put on a correct uniform. 
- 
- ""Datalore"", The Next Generation, 1987-10-26",warp crystal,8.357245965871481,0.0,0.0
-271,115559,"GEORDI: ... 452 through system L-575. 
- COMPUTER: Adjustments to dilithium crystal chamber complete. 
- GEORDI: Impact analysis, computer. 
- 
- ""Booby Trap"", The Next Generation, 1989-08-31",warp crystal,8.288293329006718,0.0,0.0
-272,14021,"ARISSA: Maybe. 
- TRAIDY: I thought we had a deal, your life for the crystal. 
- ARISSA: I just want to make sure you live up to your end. 
- 
- ""A Simple Investigation"", Deep Space Nine, 1997-01-06",warp crystal,8.288293329006718,0.0,0.0
-273,73920,"TASHA: By which Doctor Soong left proof behind that his experiment did work. 
- RIKER: Captain, how believable do you find that crystal thing? 
- PICARD: Having explored so little of just our galaxy, I find anything possible. 
- 
- ""Datalore"", The Next Generation, 1987-10-26",warp crystal,8.023497341971911,0.0,0.0
-274,131597,"PICARD: Speed -- warp five. 
- GEORDI: Warp five. 
- PICARD: ... And Worf. 
- 
- ""Heart Of Glory"", The Next Generation, 1988-01-13",warp crystal,7.972722239857207,7.4241574385113385,0.0
-275,108960,"GEORDI: We are passing warp eight point five. 
- GEORDI: ... warp nine. 
- RIKER: Arm the photon torpedoes. Recommend we try to slow them down. 
- 
- ""Q Who?"", The Next Generation, 1989-02-24",warp crystal,7.972722239857207,5.983275631408532,0.0
-276,13547,"DAX: MoVas ah-kee rustak. (Today was a good day to die.) 
- DAX: Computer -- bat'leth. 
- DAX: MoVas ah-kee rustak! 
- 
- ""Looking For par'Mach in All the Wrong Places"", Deep Space Nine, 1996-07-25",bat'leth,23.55419290948378,0.0,0.0
-277,76489,"WORF: I do not believe so. But I will explain when I arrive. 
- PICARD: How was the Bat'leth tournament? 
- WORF: I won... ""Champion Standing."" 
- 
- ""Parallels"", The Next Generation, 1993-10-07",bat'leth,20.35894035118146,0.0,0.0
-278,16036,"WORF: You mean Curzon's. 
- DAX: No. I mean mine. Computer, bat'leth. 
- DAX: I thought you might be tired of fighting holograms. 
- 
- ""The Way of the Warrior"", Deep Space Nine, 1995-07-07",bat'leth,20.16356211464625,0.0,0.0
-279,9273,"KIRBY: He said the Klingons have been shooting them out of the sky left and right. Unless something changes, he figures the Klingons'll capture the settlement the day after tomorrow. 
- KIRBY: Did you see all the bat'leth wounds today? 
- KIRBY : (off Jake's nod When Klingons get mad, they forget about their disruptors, go hand-to- hand. If you ask me, they're looking to get even for what happened on Ganalda Four. 
- 
- ""... Nor the Battle to the Strong"", Deep Space Nine, 1996-08-06",bat'leth,18.56049033059397,0.0,0.0
-280,65473,"KOR: Are you siding with him? 
- DAX: Put it away so he can give me the Bat'leth. 
- KOR: You see. I was right. He's not to be trusted. 
- 
- ""The Sword of Kahless"", Deep Space Nine, 1995-09-29",bat'leth,18.397967992280986,0.0,0.0
-281,13510,"TUMEK: The challenge has been given and accepted. Let no one interfere. Mok! 
- THOPOK: Where did you learn to fight with a bat'leth? 
- QUARK: I'm a man of many talents. 
- 
- ""Looking For par'Mach in All the Wrong Places"", Deep Space Nine, 1996-07-25",bat'leth,18.08131497957366,0.0,0.0
-282,85244,"WORF: No... it has not been easy. 
- K'MTAR: How are his fighting skills? Can he handle a Bat'leth? 
- WORF: He is learning... he could be better. 
- 
- ""Firstborn"", The Next Generation, 1994-01-28",bat'leth,16.91668235595491,0.0,0.0
-283,37221,"O'BRIEN: It was my idea. Now, if you want to skip the drinking and get right down to talking, I'm game. 
- WORF: (getting back to his bat'leth) What do you wish to discuss? 
- O'BRIEN: Julian swears there's nothing going on between him and Ezri. There's no reason for you to be jealous. 
- 
- ""Afterimage"", Deep Space Nine, 1998-07-24",bat'leth,16.388871882002903,0.0,0.0
-284,65192,"KOR: He guessed! I know where the Sword rests. Imagine the glory! 
- KOR : The honor of finding the Bat'leth of the first Warrior King... 
- WORF: Lost for a millennium... It's return would change Klingon history. If you know where it is we must bring it back to the Emperor. 
- 
- ""The Sword of Kahless"", Deep Space Nine, 1995-09-29",bat'leth,16.01413405627327,0.0,0.0
-285,65332,"DAX: How does it feel? 
- KOR: Good. Very, very good. To think... Kahless himself held this Bat'leth... 
- WORF: And with it he slew Molor... conquered the Fek'Ihri and forged the first Empire. And now... I hold it in my hands... 
- 
- ""The Sword of Kahless"", Deep Space Nine, 1995-09-29",bat'leth,15.540352579931353,0.0,0.0
-286,16042,"DAX: I hope you're not holding back because I'm a woman. If it makes things easier, think of me as a man. I have been one several times. 
- WORF: I see you haven't forgotten all that Curzon knew about the bat'leth. 
- DAX: Feel better? I take it your conversation with General Martok didn't go all that well. 
- 
- ""The Way of the Warrior"", Deep Space Nine, 1995-07-07",bat'leth,15.093799395350235,0.0,0.0
-287,7630,"WORF: Our names must be added to the list of candidates for the Order of the Bat'leth. 
- DUKAT: The Order of the Bat'leth? Don't you think you might be overdoing it? 
- SISKO: They'll be inducting new members in a few days. And Chancellor Gowron will be presiding over the ceremony. 
- 
- ""Apocalypse Rising"", Deep Space Nine, 1996-07-03",bat'leth,15.093799395350235,13.895900223113994,0.0
-288,9431,"BOLIAN: Don't be so sure about that. Some people think it's like being boiled alive. 
- KIRBY: Decapitation has its virtues. A clean blow with a nice, sharp bat'leth. 
- BOLIAN: Your brain doesn't die for five, ten seconds at least... 
- 
- ""... Nor the Battle to the Strong"", Deep Space Nine, 1996-08-06",bat'leth,14.986142416746247,0.0,0.0
-289,7744,"SISKO: I see him. 
- KLINGONS: Martok the Victor. Martok the Conqueror. May your Bat'leth run red. Success. 
- 0'BRIEN: What if he recognizes us? 
- 
- ""Apocalypse Rising"", Deep Space Nine, 1996-07-03",bat'leth,14.57044584222566,0.0,0.0
-290,65230,"KOR: That is... if there's going to be a quest. What did you find? 
- DAX: I found both Klingon and Hur'q DNA on the cloth... And traces of metallic compounds that could only have been left... by a Klingon Bat'leth... a Bat'leth fourteen hundred years old. 
- KOR: The time of Kahless! I never doubted it. When do we leave? 
- 
- ""The Sword of Kahless"", Deep Space Nine, 1995-09-29",bat'leth,14.210347711007103,0.0,0.0
-291,7629,"DUKAT: Don't worry, Captain, by the time we get to Ty'Gokor, we'll have something suitably impressive to plant in their central computer system. 
- WORF: Our names must be added to the list of candidates for the Order of the Bat'leth. 
- DUKAT: The Order of the Bat'leth? Don't you think you might be overdoing it? 
- 
- ""Apocalypse Rising"", Deep Space Nine, 1996-07-03",bat'leth,13.895900223113994,0.0,15.093799395350235
-292,76297,"COMPUTER: There is no log entry for that Stardate. 
- WORF: Computer, display any log entries regarding the Bat'leth Tournament on Forcas Three. 
- WORF ON MONITOR: Personal log, Stardate 47391.2. There has been a malfunction in the ship's main deflector. It will require two more days of repairs. 
- 
- ""Parallels"", The Next Generation, 1993-10-07",bat'leth,13.62555670861856,0.0,0.0
-293,31050,"WORF: A Klingon exercise that teaches children hand-eye coordination. So they will grow to become warriors. 
- BASHIR: (re: the rattle in Worf's hand) I get it. Sort of a... ""baby's first bat'leth"" kind of thing. 
- O'BRIEN: How'd he do? 
- 
- ""Time's Orphan"", Deep Space Nine, 1998-03-18",bat'leth,13.537764702122136,0.0,0.0
-294,54518,"WORF: E-cha! 
- DAX: Movek. Okay. I see your point. The mek'leth does have its advantages. But I still say that the longer reach of the bat'leth is usually the deciding factor. 
- WORF: That is the classic argument. However, I find that using a large and intimidating weapon like a bat'leth often leads to... overconfidence. 
- 
- ""The Sons of Mogh"", Deep Space Nine, 1995-12-06",bat'leth,12.440153788597605,0.0,10.289274546452955
-295,24361,"DAX: If Curzon were here, you'd be out of luck. But Jadzia Dax is a science officer. 
- KANG: We would also be unable to use our disruptors. But who among them could match our skills with the bat'leth? 
- DAX: Not many. 
- 
- ""Blood Oath"", Deep Space Nine, 1994-01-25",bat'leth,11.857029485154946,0.0,0.0
+0,45663,"O'BRIEN: Then you're just going to have to take my word for it, Julian. he battle at the Alamo would make a helluva holosuite program. KIRA: Raktajino. BASHIR: Let me get this straight... there's two hundred of us, trapped inside some crumbling, old mission... surrounded by two thousand enemy troops?",raktajino,12.962928451665686,0.0,0.0
+1,115,"ROM: (looking at their coffee mugs) So, what are you drinking? WHATLEY: Raktajino. ROM: Great. Is that what we drink on the swing shift?",raktajino,12.962928451665686,0.0,0.0
+2,72343,SISKO: My throat's a little dry. SISKO: One raktajino. EDDINGTON: You're crazy. They're almost on top of us.,raktajino,12.35435956839319,0.0,0.0
+3,57705,"KIRA: Something wrong? ODO: Your raktajino... ? KIRA: Oh, I had one this morning with Shakaar.",raktajino,12.211042025662405,0.0,0.0
+4,12813,"DAX: I'll take a raktajino, Julian. BASHIR: And a raktajino. O'BRIEN: Look, Garak -- we're at war with the Dominion. Cardassia is part of the Dominion. You're a Cardassian. And at one time, a fairly important one. Of course Starfleet Intelligence is going to press you for specifics -- they need to know everything you know.",raktajino,12.071011480646757,10.504954432527574,0.0
+5,28201,"KIRA: It's just... every morning for the last year, I've seen you walk in here and start your day with a raktajino. SISKO: I like raktajino. KIRA: I know. You never even talk to anyone until you've had your first cup.",raktajino,11.93415613412908,5.973942573161281,0.0
+6,43170,"DAX: Or is it an R-C-L type two... BASHIR: Another raktajino? DAX: (still studying, no eye contact) It would keep me up all night.",raktajino,11.800369200158105,0.0,0.0
+7,72340,EDDINGTON: Where are you going? SISKO: To get a raktajino. EDDINGTON: Now?,raktajino,11.669548628159564,0.0,0.0
+8,34678,"JAKE: Actually, I am. (with a glance over to his father) My dad seems a lot happier since you showed up. EZRI: One iced raktajino. EZRI: I know you've been worried about your father, Jake... but he's going to be all right.",raktajino,11.669548628159564,0.0,0.0
+9,34399,"COLLINS: Coffee? JAKE: Uh... raktajino, please. COLLINS: Here you go.",raktajino,11.541596843328916,0.0,0.0
+10,12259,"ODO: We have reason to believe he'll return to this area. O'BRIEN: Ah, yes. The ""raktajino."" BASHIR: A vital clue others might've missed.",raktajino,11.41642050391776,0.0,0.0
+11,12116,WAITRESS: What's your pleasure? ODO: I'll have a raktajino. WAITRESS: You're the second person today who's ordered that -- what is it?,raktajino,11.293930274145138,0.0,0.0
+12,118,WHATLEY: You can drink anything you want. ROM: I'll have a raktajino. ROM: It's not like this on the night shift.,raktajino,11.293930274145138,0.0,0.0
+13,45241,"KAJADA: Very sure. QUARK: Iced Raktajino. Extra cream. DAX: Thank you, Quark.",raktajino,10.71889873575634,0.0,0.0
+14,51403,JAKE: I never thought I'd hold this hand again... it feels just like my mom's. JAKE: I'll get you that raktajino. KIRA: That went well. I think you made it clear to the minister why the Emissary can't endorse his land reform program.,raktajino,10.610848265221234,0.0,0.0
+15,50899,"DAX: What are you all standing around for? The party's just getting started. Play something. DAX: Double raktajino, extra sweet. ATOA: What time is it?",raktajino,10.504954432527574,0.0,0.0
+16,12812,"BASHIR: Tarkalean tea. DAX: I'll take a raktajino, Julian. BASHIR: And a raktajino.",raktajino,10.504954432527574,0.0,12.071011480646757
+17,51398,SISKO: Okay. JAKE: Would you like another raktajino? JENNIFER: Thank you. That would be nice.,raktajino,10.101703686367623,0.0,0.0
+18,34686,EZRI: You know I wasn't always so... confused. Before I was joined I was considered a very promising young officer. EZRI: That's horrible. I hate raktajino. JAKE: Then why'd you order it?,raktajino,10.101703686367623,0.0,0.0
+19,44825,"SISKO: Join me, Major. SISKO: One Raktajino with a jacarine peel. KIRA: Nothing for me.",raktajino,9.911469287382383,0.0,0.0
+20,111153,"GEORDI: Have you rerun the phase reversal figures, Data? DATA: There were no errors, Geordi. The variance must be no more than point zero six terawatts. GEORDI: I don't see any other choice. We'll keep running the numbers down here. You better inform the captain... of the good news and the bad news. La Forge out.",commit no errors,11.59084418355199,0.0,0.0
+21,125989,"PICARD: Then formulate one now: How do I handle Riker and the Hathaway? I'll await your answer on the bridge. PICARD: Commander, it is possible to commit no mistakes -- and still lose. PICARD : That is not a weakness. That is ""life"".",commit no errors,11.109548363986557,0.0,0.0
+22,93449,"WORF: No, there are not. I will not live as an object of... pity... or shame. My life as a Klingon is over. RIKER: I won't help a friend commit suicide. WORF: We have served together for many years... fought side by side... I know you to be a brave and honorable man... if you truly consider me your friend... help me now... help me end my life as I lived it... with dignity and honor. Please.",commit no errors,10.015067649028785,2.4274382322027566,0.0
+23,109939,"YUTA: William, this is not your concern. RIKER: It is now. You're about to commit murder. YUTA: It isn't murder. It's justice.",commit no errors,9.744883542519638,0.0,0.0
+24,55944,"WEYOUN: At once. DUKAT: The Defiant's no match for this station... if Sisko wants to commit suicide, I say we let him. QUARK: Don't scream. I'm not going to hurt you. I just have one question.",commit no errors,9.179882493415882,0.0,0.0
+25,108854,PICARD: That would have some definite advantages. TROI: Yes. A single leader can make errors. It is less likely for the combined whole. Q : Picard.,commit no errors,8.359002479277054,0.0,0.0
+26,98551,ROGA: (if you really want to help) Unlock the door. TROI: Why does a non-violent man commit acts of excessive violence? ROGA: You can learn to do it if you have to.,commit no errors,8.196938229949481,0.0,0.0
+27,64592,"GARAK: Thank you for your concern, Doctor. But I'd rather have the hypospray. BASHIR: I'm not going to let you commit suicide. I'm here to help you. GARAK: I doubt you can.",commit no errors,8.196938229949481,0.0,0.0
+28,61760,LAMAT'UKAN: First? LAMAT'UKAN: I've realigned the targeting sensors. There were errors in the tracking subroutines. KUDAK'ETAN: You were not ordered to check the targeting sensors.,commit no errors,8.033755165804708,0.0,0.0
+29,35394,"MORA: Then, the possibility exists... ODO: It doesn't. I do not commit criminal acts. It is not in my nature. MORA: (the evidence before us) Isn't it?",commit no errors,8.015057142166858,0.0,0.0
+30,2858,NOG: This is outrageous! I didn't steal anything from the Tholian Ambassador! ODO: Just another innocent man arrested for a crime he didn't commit. NOG: What's he doing here?,commit no errors,8.015057142166858,0.0,0.0
+31,101456,JEV: According to what I've just learned... it was a practice that was abolished on our world centuries ago. PICARD: What would motivate someone like your father to commit such an act? JEV: I don't know. A perverse source of pleasure... a way to exercise control over another... ?,commit no errors,7.841072329226439,0.0,0.0
+32,22876,"GUL DANAR: A diplomatic insult to the Cardassian people would be a problem... delivering a wanted criminal to us would not be... SISKO: (seeking a reasonable solution) Danar, in war, both sides commit atrocities... GUL DANAR: My ""request"" for this man is made in connection with an extremely sensitive issue. I can only tell you that we are certain he plans to commit more acts of terrorism...",commit no errors,7.567297038472596,0.0,4.6468474692848
+33,39937,"MARRITZA: Security! Security guard! Get in here! Help me! Security! KIRA: You didn't commit those crimes; and you couldn't stop them. You were only one man. MARRITZA: No; don't you see? I have to be punished. We all have to be punished. Major, you have to go out there and tell them; tell them I'm Gul Darhe'el. It's the only way; don't you see that?",commit no errors,7.166918109305847,0.0,1.609098828000246
+34,23001,"TAHNA: Once you're in your comfortable bed with the Federation, you won't be KIRA: If you expect me to help you commit some act of violence against the Federation... TAHNA: No. The violence is over. That's the truth. No one will be hurt. In any way. I promise you that. But I do need your help...",commit no errors,7.166918109305847,0.0,3.3191591579869373
+35,13013,SISKO: Then you have to change his mind. MARTOK: The Chancellor is reluctant to commit such a large fleet to a single engagement. WORF: He feels it would leave the Empire vulnerable.,commit no errors,7.166918109305847,0.0,0.0
+36,30523,"BASHIR: Thirty-one is not part of the Federation, it's a rogue agency that -- ODO: Don't split hairs with me, doctor. They used me as an instrument to try to commit genocide. We may be at war with the Founders, but that's no excuse. BASHIR: I completely agree.",commit no errors,6.844603932279424,0.0,0.0
+37,114647,"BARCLAY: If you'll excuse me. DATA: Metathesis is one of the most common of pronunciation errors, sir... a reversal of vowel and consonant, ""bark"" to ""broc""... GUINAN: Yes, I know him... comes in here, stands at the bar, doesn't say much... always orders a warm milk.",commit no errors,6.762055043405805,0.0,0.0
+38,101669,"PICARD: Forgive me, Professor, but I wonder why you're in such a hurry... is this woman your partner in some illegal venture? MORIARTY: Your computer designed her to be a person of impeccable integrity. She would never commit a crime. PICARD: You must love her very much...",commit no errors,6.442568228496157,0.0,0.0
+39,115583,PICARD: And now we're supplying the devices with the energy to kill us. GEORDI: No... no... no... LEAH: Will you listen to me...,commit no errors,6.416491404712682,0.0,0.0
+40,94028,"PICARD: Temba. His arms wide. Give me more. ""Darmok on the ocean... "" DATHON: Tanagra on the ocean. Darmok at Tanagra. PICARD: ""At Tanagra."" A country? ""Tanagra on the ocean."" An island. Temba... His arms wide.",tanagra,14.073901956558057,0.0,11.70085079612906
+41,93946,DATHON: Darmok and Jalad -- PICARD: -- at Tanagra. PICARD: I remember the words. But I don't understand...,tanagra,13.929088812578287,0.0,0.0
+42,93897,DATA: Replay at time index one-four-four. DATHON: Darmok at Tanagra. DATA: Freeze.,tanagra,12.836032005704048,0.0,0.0
+43,93878,"PICARD: Forgive the intrusion, Captain. But I need some answers. DATHON: Darmok at Tanagra. FIRST OFFICER: Shaka! Mirab. His sails unfurled.",tanagra,12.836032005704048,0.0,0.0
+44,93812,RIKER: You are holding our captain. I want him released. FIRST OFFICER: Darmok at Tanagra. RIKER: Your actions can be interpreted as an act of war.,tanagra,12.836032005704048,0.0,0.0
+45,93777,FIRST OFFICER: Zima at Anzo. Zima and Bakor. DATHON: Darmok at Tanagra. FIRST OFFICER: Shaka! Mirab. His sails unfurled.,tanagra,12.836032005704048,0.0,0.0
+46,94032,"PICARD: ""Jalad at Tanagra."" He went to the same island as Darmok. To Tanagra. DATHON: The beast at Tanagra. PICARD: The beast. A creature on the island? On Tanagra. Darmok and Jalad -- did they fight the beast?",tanagra,12.418385941424688,12.134872966549496,7.192143908586825
+47,94031,"DATHON: Jalad on the ocean. Jalad at Tanagra. PICARD: ""Jalad at Tanagra."" He went to the same island as Darmok. To Tanagra. DATHON: The beast at Tanagra.",tanagra,12.134872966549496,10.680782467476083,12.418385941424688
+48,94029,"DATHON: Tanagra on the ocean. Darmok at Tanagra. PICARD: ""At Tanagra."" A country? ""Tanagra on the ocean."" An island. Temba... His arms wide. DATHON: Jalad on the ocean. Jalad at Tanagra.",tanagra,11.70085079612906,14.073901956558057,10.680782467476083
+49,94017,"DATA: It is necessary for us to learn the narratives from which the Tamarians are drawing these images. Given our current relations, that does not appear likely. DATHON: Darmok and Jalad at Tanagra. PICARD: Our situation is similar to theirs. I understand. But I need to know more. Tell me more. About Darmok and Jalad. Tell me...",tanagra,11.542112422908275,0.0,0.0
+50,93908,DATHON : Darmok! DATHON: Darmok and Jalad at Tanagra! PICARD: I was curious. I meant no harm.,tanagra,11.542112422908275,0.0,0.0
+51,93802,PICARD: I don't know who or what Darmok and Jalad are. But I didn't come here to start a war. DATHON: Darmok and Jalad at Tanagra. PICARD: I refuse.,tanagra,11.542112422908275,0.0,0.0
+52,93783,DATHON: The river Temarc... DATHON: Darmok and Jalad at Tanagra. RIKER: Block their transporter with the shields! Extend to maximum range!,tanagra,11.542112422908275,0.0,0.0
+53,94030,"PICARD: ""At Tanagra."" A country? ""Tanagra on the ocean."" An island. Temba... His arms wide. DATHON: Jalad on the ocean. Jalad at Tanagra. PICARD: ""Jalad at Tanagra."" He went to the same island as Darmok. To Tanagra.",tanagra,10.680782467476083,11.70085079612906,12.134872966549496
+54,94091,FIRST OFFICER: Darmok... PICARD: ... And Jalad. At Tanagra. Darmok and Jalad on the ocean. FIRST OFFICER: Sokath! His eyes open!,tanagra,9.36974978898164,0.0,0.0
+55,93899,"DATA: Freeze. DATA: Computer, search for the term ""Tanagra."" All databases. COMPUTER: Searching... Tanagra is the name of the ruling family on Gallos Two...",tanagra,9.36974978898164,0.0,8.406652183926596
+56,93913,PICARD: --Enough! I'm not going to fight you. You'll just have to--- DATHON: (re: noise; matter-of-factly) Darmok and Jalad at Tanagra. WORF: Commander! Sensors are picking up an electromagnetic disturbance -- approaching the captain's position.,tanagra,9.145239864698482,0.0,0.0
+57,94093,FIRST OFFICER: Sokath! His eyes open! PICARD: The beast at Tanagra. Uzani. His army. Shaka. When the walls fell. FIRST OFFICER: Picard and Dathon at El-Adrel.,tanagra,8.595987354961697,0.0,0.0
+58,93900,"DATA: Computer, search for the term ""Tanagra."" All databases. COMPUTER: Searching... Tanagra is the name of the ruling family on Gallos Two... COMPUTER  : A ceremonial drink on Lerishi Four... An island-continent on Shantil Three --",tanagra,8.406652183926596,9.36974978898164,0.0
+59,94033,"DATHON: The beast at Tanagra. PICARD: The beast. A creature on the island? On Tanagra. Darmok and Jalad -- did they fight the beast? PICARD: They arrived separately. They struggled against a common foe. ""The beast at Tanagra. Darmok and Jalad.""",tanagra,7.192143908586825,12.418385941424688,6.767083092077619
+60,112713,"DATA: The vessel is traveling at warp seven-point-six. Mass: two-point-five million metric tons, configuration: ...cubical. RIKER: The Borg... DATA: Its dimensions indicate that it is a scout ship similar to the one that crashed.",borg,10.200399740455099,0.0,0.0
+61,112719,GUINAN: Well... you don't look so tough. BORG: We are Borg. GUINAN: I hear they gave you a name.,borg,9.832608813911339,0.0,0.0
+62,112605,"GEORDI: Who's ""we?"" BORG: We... are Borg. GEORDI: There's only one of you.",borg,9.832608813911339,0.0,0.0
+63,112599,WORF: Commander... BORG: We are Borg. BORG: You will be assimilated.,borg,9.832608813911339,0.0,0.0
+64,112496,"RIKER: We've found the wreckage of a small craft... and one survivor. RIKER: It's a Borg. RIKER: Male, adolescent -- he's badly hurt.",borg,9.832608813911339,0.0,0.0
+65,112785,GUINAN: Not to mention tending bar... GUINAN: About the Borg... GUINAN: Aren't you just a bit surprised by him?,borg,9.490417381152323,0.0,0.0
+66,112840,BORG: Geordi must not be assimilated. PICARD: But... you are Borg. BORG: No. I am -- Hugh.,borg,9.27522176786385,0.0,0.0
+67,112697,GEORDI: That's the name we gave him. GUINAN: You named a Borg... GEORDI: Yeah. It was easier to have something to call him.,borg,9.27522176786385,0.0,0.0
+68,112620,GEORDI: I'm just a nice guy at heart. Feeling better? BORG: You are not-Borg. GEORDI: That's right. And hope to stay that way.,borg,9.27522176786385,0.0,0.0
+69,94868,"RIKER: Altered... ? WORF: He is a Borg, sir. SHELBY: We'll go back... I need more people... we need to retune the phasers again... we'll get him out of there...",borg,9.27522176786385,0.0,0.0
+70,94519,SHELBY: I don't know exactly what I'm looking for... but we've tested the sections of the Enterprise's hull that were damaged by the Borg. There were some unusual magnetic-resonance traces... RIKER: A Borg footprint? SHELBY: That's my theory. I'll see if it holds up tomorrow. I've reviewed your personnel... I'll be assigning Mister La Forge and Mister Data to accompany me on the away team...,borg,9.27522176786385,3.2960947679659305,0.0
+71,143440,"TAITT: Sir, I'm picking up a vessel closing in on our location. BEVERLY: Is it a Borg ship? TAITT: It... it seems to match the configuration of a ship The Enterprise encountered... at Ohniaka Three...",borg,9.171242611878567,0.0,0.0
+72,140742,GEORDI: I've scanned three star systems within sensor range... there's evidence of at least two advanced civilizations... but I'm reading no life signs. And there are indications that plasma weapons have been fired in those systems recently. PICARD: The Borg have been busy. RIKER: I think we've found the shuttle's energy signature.,borg,8.593239530593973,0.0,0.0
+73,112898,"PICARD: Increase power to the shields. Hold us here. RIKER: Status of the Borg ship? DATA: Solar radiation is rendering our sensors inoperable. At last known course and speed, the Borg vessel will enter the system in three minutes.",borg,8.593239530593973,0.0,3.910559562718663
+74,108992,"Q: You can't outrun them. You can't destroy them. If you damage them, the essence of what they are remains -- they regenerate and keep coming... eventually you will weaken -- your reserves will be gone... they are relentless. WORF: The Borg ship is firing. WORF: We have again lost the shields.",borg,8.593239530593973,0.0,0.0
+75,112811,BORG: Locutus... PICARD: Yes. I am Locutus... of Borg. BORG: Why are you here?,borg,8.50391522614029,0.0,0.0
+76,108983,WORF: Shield effectiveness has been reduced twelve percent. WESLEY: The Borg ship is closing. WORF: They are firing again.,borg,8.50391522614029,0.0,0.0
+77,96174,DATA: Yessir. RIKER: Status of Borg power drive... ? WORF: Minimal power...,borg,8.330724163822156,0.0,0.0
+78,96135,"WORF: Aye, Captain... RIKER: Status of the Borg weapons... WORF: Borg weapon systems are fully charged...",borg,8.330724163822156,0.0,7.491569424075288
+79,95835,GEORDI: Deflector power approaching maximum limits. Energy discharge in... six seconds... WORF: The Borg ship is undamaged. SHELBY: Impossible...,borg,8.330724163822156,0.0,0.0
+80,66615,KIRA: Captain? SISKO: Cardassia. KIRA: Sir?,cardassia,9.690821761050556,0.0,0.0
+81,27353,KIRA: Remember Damar's orders -- we stop for nothing. GARAK: For Cardassia. WEYOUN: We have a security breach.,cardassia,9.235868036735468,0.0,0.0
+82,16072,"WORF: I need to speak with him. Now. SISKO: Cardassia? Why would the Klingons want to invade Cardassia? WORF: According to my source, there's been an uprising on the Cardassian homeworld. The Central Command has been overthrown and power has been transferred to civilian authorities.",cardassia,8.661104392246573,0.0,0.0
+83,18570,"DUKAT: I do. (off Damar's surprise) Tell me, Damar. What do you believe in? The Dominion? DAMAR: I believe in Cardassia. DUKAT: Good. Then we're still on the same side.",cardassia,8.35348558169175,0.0,0.0
+84,5147,course.SISKO: Heading? O'BRIEN: Straight for Cardassia. DAX: Dukat's ship is breaking formation. He's going after the Dominion fleet.,cardassia,8.35348558169175,0.0,0.0
+85,26942,"DAMAR: And once the Dominion is crushed... MILA : Cardassia will be free again. MILA: When you were a small boy, I was worried about you. Always getting in trouble. Secretive... so full of deceit. Little did I know you would turn such distasteful characteristics into virtues. More tea?",cardassia,7.8532903574347515,0.0,0.0
+86,16171,"GOWRON: What better way to redeem yourself in the eyes of your people. Come with me Worf. GOWRON : Glory awaits you on Cardassia. GOWRON: Worf, why do you stand there like a mute d'blok. I have offered you a chance for glory. All you have to do is take it.",cardassia,7.775690746694216,0.0,0.0
+87,27290,"GARAK: During all my years of exile... I imagined what it would be like to come home... maybe even to live in this house again with Mila. But now she's dead and this house is about to become a pile of rubble... My Cardassia is gone. KIRA: Then fight for a new Cardassia. GARAK: I have a better reason than that, colonel. Revenge.",cardassia,7.699609679171715,2.7495230231149534,0.0
+88,8455,DUKAT : There's a ship leaving for Cardassia in the morning. I want you on it. ZIYAL: You're sending me to Cardassia? DUKAT: I've just learned that there's a Dominion fleet headed for the wormhole. This place isn't safe anymore.,cardassia,7.699609679171715,5.6127371611555255,0.0
+89,52494,"GHEMOR: The enemies of the Order, you mean. ENTEK: The Obsidian Order is Cardassia. GHEMOR: What are you doing?",cardassia,7.62500301232522,0.0,0.0
+90,41916,"MARTOK: This is General Martok to all ships. Assume tactical formation, we're moving out. SISKO: Take us to Cardassia, Mister Nog. NOG: Aye, sir.",cardassia,7.62500301232522,0.0,0.0
+91,1321,"ODO : They still admire her as... the woman who made peace with Cardassia. KIRA: Bareil made peace with Cardassia. ODO: I know that, Major. But to the rest of Bajor, Winn is the real hero... in their eyes, it took courage for her to conclude a treaty with a race that she herself had so bitterly condemned and fought against.",cardassia,7.551828298100111,5.7775719856691685,0.0
+92,39853,ODO: You're sure the man you saw buried was Gul Darhe'el? DUKAT: Half of Cardassia viewed his body! ODO: I saw a photograph of Darhe'el taken at the Gallitep labor camp. It certainly appears to be the man we're holding.,cardassia,7.480044702394768,0.0,0.0
+93,27381,WEYOUN: A pity. GARAK: He died helping to free Cardassia. WEYOUN: What's left of it.,cardassia,7.480044702394768,0.0,0.0
+94,30733,"LONAR: It's Damar! He's alive! DAMAR: Citizens of Cardassia -- listen to me! DAMAR: The Dominion told you that the Rebellion had been crushed. What you have seen here today proves that was a lie. The fight for freedom continues... but it will take place here, in the streets.",cardassia,7.409612929076019,0.0,0.0
+95,27208,"GARAK: Does anyone have any final words? DAMAR: You may kill us, but Cardassia will -- JEM'HADAR FIRST: Enough. Final words are not permitted.",cardassia,7.409612929076019,0.0,0.0
+96,51823,KIRA: Good. I'll be right back. BASHIR: I'm glad I'm not going to Cardassia. QUARK : Major!,cardassia,7.340495148247358,0.0,0.0
+97,27135,MARTOK: A bottle? I brought a barrel of twenty-three-oh-nine -- there is no finer vintage. ROSS: Then I'll meet you two on Cardassia. MARTOK: We'll see who gets there first.,cardassia,7.340495148247358,0.0,0.0
+98,70360,"SISKO: Korinas. KORINAS: Welcome to Cardassia Prime, Commander. SISKO: Thank you.",cardassia,7.272654928494761,0.0,0.0
+99,44892,"O'BRIEN: Then she will be going to Cardassia Four, after all. SISKO: How do you know about Cardassia Four? O'BRIEN: She told me all about it.",cardassia,7.272654928494761,6.439472302310088,0.0
+100,58955,JAKE: You don't have enough faith in yourself... SISKO: Poetry? You write poetry? JAKE: Sort of... not really...,poetry,15.503075039540182,0.0,0.0
+101,58958,MARDAH: Now who doesn't have enough faith in themselves... ? He writes some of the most beautiful things I've ever read... (she takes Jake's hand) That's what won me over. SISKO: His... poetry. MARDAH: And the way he plays dom-jot.,poetry,13.929088812578287,0.0,0.0
+102,28535,PIERSALL: What's he talking about? SISKO: Klingon poetry. DAX: Thirty seconds until impact.,poetry,13.282747650158248,0.0,0.0
+103,134349,"WESLEY: What does the man do? WORF: He reads love poetry. He ducks a lot. WESLEY: Yes, well, that might work for Klingons, but I think I should try something less dangerous.",poetry,10.680782467476083,0.0,0.0
+104,106867,"RIKER: Wait a second... I recognize this... It's Data's poetry. BEVERLY: The play's gone. I just keep getting more poetry... GEORDI: Well.. the PADDs are functioning normally... It seems to be a problem with the information retrieval net. For some reason, when you tried to bring up your play, the computer accessed Data's literary files.",poetry,9.605560292127361,9.447056231480968,0.0
+105,106866,"BEVERLY: Your visual, olfactory, and auditory senses Contribute to your hunting skill and... "" RIKER: Wait a second... I recognize this... It's Data's poetry. BEVERLY: The play's gone. I just keep getting more poetry...",poetry,9.447056231480968,0.0,9.605560292127361
+106,58953,JAKE: Yeah... Mrs. O'Brien used to say that Mardah should try to get some of her stories published. MARDAH: Jake... they aren't that good. Nothing like your poetry. JAKE: You don't have enough faith in yourself...,poetry,9.293698293664919,0.0,0.0
+107,136500,"GEORDI: No... I was just passing by. Wondered what you were up to. DATA: I am using the time to catch up on my study of poetry. GEORDI: Data, there's nothing on the screen.",poetry,9.145239864698482,0.0,0.0
+108,124216,"SHIPLEY: Yes sir. DATA: Geordi... may I make a personal inquiry? It concerns my poetry reading. GEORDI: Sure, Data... what is it?",poetry,8.284995342165539,0.0,0.0
+109,120003,"PULASKI: Worf, you're a romantic. WORF: It is among the Klingons that love poetry achieves its fullest flower. PULASKI: Hold that thought.",poetry,8.10897189855381,0.0,0.0
+110,103538,"PICARD: Mrs. Troi, I'm truly grateful that you risked your life for my... ...people. I'll have you home within hours. LWAXANA: Really, that isn't necessary, Captain... I'd love to hear more of that poetry... PICARD: Perhaps another time. Mister Crusher, set course for Betazed. Warp Nine.",poetry,7.940272455392951,0.0,0.0
+111,124184,"GEORDI: Data, let's get those subspace field taps on-line... DATA: Commander -- I would like to remind you about my poetry reading this afternoon. RIKER: Wouldn't miss it for the world.",poetry,7.778449221964984,0.0,0.0
+112,120005,"PULASKI: Hold that thought. PULASKI: Antidote. If we're going to share, let's share. Now, quote me a little of that poetry. DATA: Scans indicate human life form readings thirty meters below the planet's surface.",poetry,7.473815593296447,0.0,0.0
+113,84366,"MAQUES: Please... what is a... poem? TROI: Poetry is... an art-form that uses words, put together in new and unexpected ways -- sometimes in rhyme. TROI: Milton was speculating that in Heaven, roses wouldn't have thorns.",poetry,6.807314806384425,0.0,0.0
+114,124218,"GEORDI: Sure, Data... what is it? DATA: I noticed that many spectators seemed distracted during my presentation. Was my poetry uninteresting? GEORDI: Well... it was very well constructed... a real tribute to form... I especially liked your Haiku poem...",poetry,6.688029631190181,0.0,0.0
+115,27896,"EZRI: You shouldn't just give up. NORVO: I'm not very good, Zee. I never was. All this... it's an indulgence. Just like my other ""hobbies"" -- poetry... music... NORVO: I can't concentrate. My mind wanders. I don't have the discipline it takes to succeed.",poetry,6.610801856842862,0.0,0.0
+116,139409,"ORTON: Perhaps. HUTCHINSON: The crew of the Magellan actually put on a talent show here. Captain Conklin did a poetry reading, if you can imagine that. RIKER: I'm trying to.",poetry,5.957297856482438,0.0,0.0
+117,41436,"VIC: I thought you two were getting along just fine. ODO: Of course we are. You've programmed her to find me irresistible. If I read her a criminal activities report, she'd think it was poetry. VIC: You want me to reprogram her -- make her play hard to get?",poetry,5.6348106284138035,0.0,0.0
+118,141554,"DEBIN: Not good enough?? You're forcing me to embarrass my family by demanding reasons. DEBIN: It was Okona... He's been bringing Yanar gifts, flowers, and even poetry for the past five months. He took advantage. Then he left her like this. I want him. PICARD: I do sympathize with you. If you will allow me just a little more time.",poetry,5.199794257656209,0.0,0.0
+119,124225,"GEORDI: Maybe some of your poems were a little... formal. DATA: I have found poetry more challenging than other artistic endeavors. Unlike painting and musical composition, it demands a more articulated emotional content. GEORDI: Next time, don't worry so much about rhyme and meter. Some of the world's greatests poets didn't pay attention to rules...",poetry,5.061870328656261,0.0,0.0
+120,102921,JENNA: The cat's out of the bag. DATA: Spot? JENNA: I mean you've caught me in the act. I'm just trying to brighten things up around here. It's Tyrinean. What do you think?,spot,12.64678820159246,0.0,0.0
+121,84160,DATA: Yes. I am curious as to why Spot is not taking care of them. DATA: Spot... ? PICARD: It would seem the intron virus isn't limited to humanoid lifeforms.,spot,12.64678820159246,7.40168539469569,0.0
+122,77046,DATA: Spot -- down. DATA: Spot -- down. DATA: This is up. Up is no.,spot,11.868071007651759,11.868071007651759,0.0
+123,77045,DATA: Spot -- down. DATA: Spot -- down. DATA: Spot -- down.,spot,11.868071007651759,11.868071007651759,11.868071007651759
+124,77044,"PRAK: I believe it would, Captain. DATA: Spot -- down. DATA: Spot -- down.",spot,11.868071007651759,0.0,11.868071007651759
+125,103149,"JENNA: (quickly toward the door) I'll see you later... DATA: Hello, Spot. PICARD : Captain's Log, Stardate 43980.7. The Enterprise has been in attendance at the biennial Trade Agreements Conference on Betazed.",spot,11.723695329275497,0.0,0.0
+126,81102,"DATA: Unlike a canine, Spot will not respond to verbal commands. DATA: Goodbye, Spot. DATA: He will need to be fed once a day. He prefers feline supplement one-twenty-five.",spot,11.445231695357998,7.517153871138495,0.0
+127,18242,"JAKE: What's this? SISKO: Nice spot, huh? JAKE: Bajor, right?",spot,11.310902251636815,0.0,0.0
+128,81100,"WORF: Of course. WORF: Spot. Come here. DATA: Unlike a canine, Spot will not respond to verbal commands.",spot,11.179689402617921,0.0,7.517153871138495
+129,80916,"DATA: Good night, Counselor. DATA: Good night, Spot. DATA: Computer -- dim lights.",spot,11.051485929330035,0.0,0.0
+130,62335,JAKE: I'll walk you over to the airlock. JAKE: It was a good spot. NOG: The best.,spot,10.683930892825904,0.0,0.0
+131,57986,O'BRIEN: I've got plenty of time to learn. EE'CHAR: Here. This is a good spot. EE'CHAR: You start by drawing a circle.,spot,10.017592179164863,0.0,0.0
+132,45922,HALB: Twenty meters. I suggest you plant it somewhere in Dukat's quarters. KIRA: I'll pick the right spot. HALB: What about that Bajoran mistress of his?,spot,10.017592179164863,0.0,0.0
+133,136785,BEVERLY: Oh? What were you doing? RIKER: I was trying to feed Spot. BEVERLY: Data's cat?,spot,9.914533397138687,0.0,0.0
+134,76903,"GEORDI: Probably because she knows I'll kill her if I get my hands on her. DATA: Has Spot been misbehaving? GEORDI: That's putting it mildly. So far she's broken a vase and a teapot, destroyed my couch by using it as a scratching post, and coughed up hairballs on my carpet.",spot,9.914533397138687,0.0,0.0
+135,88903,"RIKER: Glad you could join us. O'BRIEN: Great spot for a picnic, sir. O'BRIEN: We need to distribute the enhancer rods at seven meter legs... that ought to do it...",spot,9.714649057318724,0.0,0.0
+136,136790,BEVERLY: You've just got to know how to handle them. RIKER: Maybe you'd like to feed Spot. BEVERLY: I'd be happy to...,spot,9.522665073276881,0.0,0.0
+137,81096,WORF: Yes? DATA: Will you take care of Spot for me? WORF: Your... animal?,spot,9.160595856300917,0.0,0.0
+138,84157,PICARD: Agreed. DATA: I believe Spot has had her kittens. PICARD: They sound hungry.,spot,9.074340086919072,0.0,0.0
+139,137117,"RIKER: Where's that cat of yours? DATA: Spot is sleeping, sir. Why do you ask? RIKER: No reason...",spot,8.98969352639076,0.0,0.0
+140,112887,"PICARD: My experience suggests that they would ignore him. Would you agree? BORG: The Borg assimilate civilizations. Not individuals. BEVERLY: But, Captain, they kidnapped you...",assimilate,9.830092495378965,0.0,0.0
+141,112741,GEORDI: You're very different from us. Part of what we do is to learn more about other species. BORG: We assimilate species. Then we know everything about them. GEORDI: Yeah. I know.,assimilate,9.293359291896225,0.0,0.0
+142,140668,PICARD: You are Borg... your goal is not to destroy us... it's to assimilate us into the collective. CROSIS: We do not assimilate inferior biological organisms. We destroy them. PICARD: Tell me more about the One... does he have a name? Is he called Hugh?,assimilate,8.62091518687868,7.578964982195805,0.0
+143,140667,CROSIS: The One who will destroy you. PICARD: You are Borg... your goal is not to destroy us... it's to assimilate us into the collective. CROSIS: We do not assimilate inferior biological organisms. We destroy them.,assimilate,7.578964982195805,0.0,8.62091518687868
+144,129658,MADDOX: I'm going to disassemble Data. PICARD: (pausing for a beat to assimilate this) I think we will remove this discussion to the lounge. PICARD: Explain this procedure.,assimilate,7.345338635569765,0.0,0.0
+145,30945,"KEIKO: This is our Molly. We may have missed ten years of her life, but we don't have the right to take them away from her. BASHIR: She's been deprived of human contact for a long time. It's not going to be easy for her to re-assimilate. BASHIR: Her language skills are going to be rusty. The two of you are the best hope we have of helping her recover them.",assimilate,6.800316209339137,0.0,0.0
+146,49969,"SLOAN: (picking up another PADD) Let's move on. Doctor, we spoke yesterday about a group of genetically enhanced patients that you brought to the station. Why, exactly, did you decide to work with them? BASHIR: They'd been institutionalized most of their lives. I thought I might be able to help them assimilate into society. SLOAN: A laudable goal. But what I find puzzling is the way you went about it. These misfits had been sheltered from the outside world for as long as they could remember, yet you chose to bombard them with information about the war with the Dominion. Frankly, I'm surprised it didn't scare them into deeper isolation.",assimilate,6.468058077983554,0.0,0.0
+147,112727,"BORG: Resistance is futile... GUINAN: I've got news for you. It isn't. Some of my ancestors resisted the Borg, when you came to assimilate us. A few escaped. BORG: Resistance is not futile...",assimilate,6.398584778462811,0.0,0.0
+148,100065,"BEVERLY: Well, first I had to go back into my own childhood and remember how painful it was for me. Because there was a time when I didn't feel very popular either. When I told that to Wesley, it made him feel a little better. He knew I understood what he was going through. DATA: I have not told Lal how difficult it was for me to assimilate. I did not want it to discourage her. Perhaps this was an error of judgement. BEVERLY: You had no one with experience to help you through sentience. At least, she has you. Just help her realize that she's not alone. Be there to nurture her when she needs love and attention.",assimilate,5.722470284708521,0.0,0.0
+149,96751,"PICARD: I'm sorry, I didn't... RO: No reason you should know. It is an old custom. Most Bajorans these days accept the distortion of their names in order to assimilate. I do not. PICARD: I wish to be candid with you, Ensign.",assimilate,5.641186235728141,0.0,0.0
+150,140523,PICARD: Did they show any interest in... assimilating you... or your technology? RIKER: They seemed more concerned with the death of their colleague... and with destroying us... I didn't see anything that suggested they wanted to assimilate anyone. PICARD: The Borg's entire existence was centered around the acquisition of technology and cultures... if that is no longer the case... then they must have a new objective. We have to find out what it is.,assimilate,5.290495030632493,0.0,0.0
+151,91479,PICARD: Isn't it possible he was injured prior to his captivity? BEVERLY: Not likely. He's been with them a long time... long enough to assimilate their cultural traits... and calcium trace patterns indicate the injuries occurred during the past seven years. PICARD: But if they have... abused the boy... why would he devoutly wish to return to them?,assimilate,4.800244988059514,0.0,0.0
+152,61782,"O'BRIEN: But, I'll have to leave the ship to do it. And I have to say I'm not fond of the idea. I can think of about a thousand ways a one- centimeter man could get fried walking around inside a circuit housing. BASHIR: Relax, Miles. You couldn't go outside even if you wanted to. You wouldn't be able to breathe. The oxygen molecules out there are almost two thousand times bigger than anything your hemoglobin can assimilate. You'd suffocate. O'BRIEN: Oh. Well, that takes care of that idea.",assimilate,4.105522687317406,0.0,0.0
+153,99786,"RIKER: If it's artificial, then we're talking about sabotage. BEVERLY: With tricyanate? That's hard to believe. It's slow to assimilate, difficult to replicate, and hard to transport. There are a lot easier ways to poison a water supply. A lot more effective ways too. Toxins that can't be neutralized. Bacteriologic agents with no cures at all. RIKER: Can you think of any reason why a saboteur might choose tricyanate?",assimilate,3.53328656762896,0.0,0.0
+154,20618,"CRODEN: They don't maintain a humanoid shape, you know. CRODEN: They refused to assimilate on my world... they're a very proud species... that's why they were so persecuted. But I will say this for them... they treated me well enough when I landed at their colony. I was badly wounded... they could have allowed me to die... they didn't. You're one of them... that's for sure... you have that sense of decency, of justice... ODO: You don't give up, do you...",assimilate,2.947614581064795,0.0,0.0
+155,63082,"EDDINGTON: I know you. I was like you once, but then I opened my eyes... open your eyes, Captain. Why is the Federation so obsessed about the Maquis? We've never harmed you. And yet we're constantly arrested and charged with terrorism... Starships chase us through the Badlands... and our supporters are harassed and ridiculed. Why? Because we've left the Federation, and that's the one thing you can't accept. Nobody leaves paradise. Everyone should want to be in the Federation. EDDINGTON : Hell, you even want the Cardassians to join. You're only sending them replicators so that one day they can take their ""rightful place"" on the Federation Council. You know, in some ways you're worse than the Borg. At least they tell you about their plans for assimilation. You're more insidious... you assimilate people and they don't even know it. SISKO: You know what, Mister Eddington... I don't give a damn what you think of the Federation, or the Maquis, or anything else. All I know is that you betrayed your oath, your duty, and me. And if it takes me the rest of my life, I'll see you standing before a court-martial that'll break you and send you to a penal colony where you'll spend the rest of your days growing old and wondering whether a ship full of replicators was really worth it.",assimilate,2.9258985077715747,0.0,0.0
+156,135584,GEORDI: We've been getting some pretty strange readings from that comet... now it looks like there's some kind of energy generation coming from the core. WORF: Is that unusual? GEORDI: The core is normally just a chunk of rock... it should be completely inert.,unusual,9.573909317110642,0.0,0.0
+157,81520,TROI: I'm fine. The inhibitor seems to be working. Have you found anything? GEORDI: Nothing unusual. TROI: I don't remember seeing this console during my empathic experience. Has it been here since the ship was built?,unusual,9.573909317110642,0.0,0.0
+158,74477,"GEORDI: This is my gift to Starship Victory's Captain Zimbata. DATA: Ah, most unusual. GEORDI: I served as an ensign under him. I wish he'd been in command of this Victory. Wind and sail, that's the proper way to move a ship.",unusual,9.573909317110642,0.0,0.0
+159,48847,DAX: Looks like we found that particle field. They're Omicron particles. ODO: Is that unusual? DAX: Omicron particles are incredibly rare. They can only be created by certain types of matter/anti-matter reactions. The field seems to be coming from the second planet in this system. Let's go in a little closer.,unusual,9.573909317110642,0.0,0.0
+160,105045,BEVERLY: There is a minor vascular irregularity in the visual cortex; a slight dilation of the blood vessels. It doesn't seem serious. (a beat as she thinks about it) What about your VISOR? Has it been giving you any problems? GEORDI: No... nothing unusual. BEVERLY: It might not be a bad idea to have your VISOR examined when we get to Starbase Thirty-Six next month.,unusual,9.25549615429796,0.0,0.0
+161,83574,"WORF: Nikolai is older than I... and we are not -- alike. We had many disagreements as we were growing up. BEVERLY: That's not unusual. WORF: Nikolai... has a mind of his own. He attended Starfleet Academy -- but he was unable to follow the rules. He left after one year. However, he has many fine qualities. He is... brilliant. Persuasive. A natural leader...",unusual,9.25549615429796,0.0,0.0
+162,59991,"QUARK: No, he comes in all the time. But he was in a good mood... CH'POK: And that's unusual? QUARK: Well, he's a Klingon, and you people are rarely in what I would call good moods. Not that you're anything but a pleasant, charming race. Some of my best friends are Klingons.",unusual,9.25549615429796,0.0,0.0
+163,133892,"DATA: No. Our sensors are not fully penetrating whatever the debris is, sir. I cannot explain it. PICARD: That's very unusual. DATA: Yes. I cannot explain it.",unusual,9.154013458593868,0.0,0.0
+164,90630,"DATA: Sensors are reading gravimetric fluctuations... most unusual ones. RIKER: ""Unusual"" how? Specify? DATA: Nothing I have seen before.",unusual,9.154013458593868,6.220968371066933,0.0
+165,89768,"DATA: No, Sir. However, the star's single planet falls within the M-Class range. It is capable of supporting life. PICARD: Now that is unusual. DATA: Highly, Sir.",unusual,9.154013458593868,0.0,0.0
+166,26159,BASHIR: -- I was running a scan on the sample you left when I noticed something unusual. ODO: Unusual in what way? BASHIR: The disease that's killing your people... you're infected...,unusual,9.154013458593868,5.633303264820901,0.0
+167,128339,GEORDI: Come on... let's get started. PICARD: Well. This is... unusual. RIKER: Yeah... but I think I like it.,unusual,9.054732058349018,0.0,0.0
+168,103845,"FALSE PICARD : You know, back when I was in the Academy, we would follow each toast with a song. WORF: An unusual tradition. FALSE PICARD: Let's see if I can remember one...",unusual,9.054732058349018,0.0,0.0
+169,71332,"SISKO: An unusual request for a woman. KIRA: I'm an unusual woman. SISKO: I understand your field is geology, Mister Merriweather.",unusual,9.054732058349018,8.168773879749544,0.0
+170,41518,ODO: This isn't quite the way I pictured it would be. KIRA: It's a little unusual. ODO: Is something wrong? You haven't touched your food.,unusual,8.957581098468372,0.0,0.0
+171,103855,"BEVERLY: He came in for a physical without a word from me... WORF: Anything unusual, doctor? BEVERLY: He was in perfect health... every test result identical to his last physical... that's kind of unusual in itself, actually...",unusual,8.769401964521084,0.0,4.459715363437868
+172,39461,SISKO: Solar neutrinos. DAX: Notice anything unusual? KIRA: There're a lot of them?,unusual,8.769401964521084,0.0,0.0
+173,136384,ADMIRAL HOLT: We're hosting this year's palio. The Ferengi have already been accused of trying to bribe the Breen pilot into throwing the race... PICARD: Nothing unusual about that. ADMIRAL HOLT: Nothing at all...,unusual,8.501505001461958,0.0,0.0
+174,89766,"DATA: Long range sensors have detected a T-tauri type star within a pocket of the Ngame cloud. PICARD: Nothing unusual about that. DATA: No, Sir. However, the star's single planet falls within the M-Class range. It is capable of supporting life.",unusual,8.501505001461958,0.0,0.0
+175,54313,"DAX: They know more about them than anyone. BASHIR: Sounds like an unusual job. SISKO: From what Curzon told me, the Guardians are unusual people.",unusual,8.501505001461958,0.0,6.461712884432334
+176,119452,"DATA: Captain, the ODN bypass to the Bridge has been blocked. We have not regained control of the propulsion systems. RIKER: Barclay! BARCLAY: Yes, Commander Riker?",barclay,11.83192999885251,0.0,0.0
+177,119371,"BARCLAY: I am responding, sir. I'm sorry if I caused you any alarm. It was necessary in order to secure the Array. RIKER: Barclay? BARCLAY: Yes, Commander...",barclay,11.83192999885251,0.0,0.0
+178,119368,BARCLAY: A neural interface was created to expedite the repairs. RIKER: Barclay? PICARD: Computer! Respond.,barclay,11.83192999885251,0.0,0.0
+179,114645,"PICARD: Good. I look forward to your report, Mister Broccoli. PICARD: Barclay. BARCLAY: If you'll excuse me.",barclay,11.83192999885251,0.0,0.0
+180,92233,O'BRIEN: Okay... Energizing. GEORDI : Barclay. BARCLAY: Aye sir...,barclay,11.83192999885251,0.0,0.0
+181,119384,"GEORDI: I disconnected the visual and audio pickups. We can talk without being monitored by... the computer... WORF: By Barclay. PICARD: Report, Commander.",barclay,11.400121935271642,0.0,0.0
+182,101528,"GEORDI: La Forge to Barclay... BARCLAY: Barclay here. GEORDI: Reg, something went wrong with the Holodeck program again.",barclay,11.1293438834682,10.27514324428214,0.0
+183,119493,"ALIEN: The same as you. PICARD: Mister Barclay... ? BARCLAY: You both have the same mission, Captain...",barclay,10.871130544483764,0.0,0.0
+184,119219,"PICARD : Captain's log, stardate 44705.3. The Enterprise has destroyed the alien probe. But now we are left with the difficult task of repairing the Argus Telescope. Failure to do so would represent an irreplaceable scientific loss. RIKER : Mister Barclay. RIKER: ... Everyone's still trying to figure out exactly how you did it.",barclay,10.871130544483764,0.0,0.0
+185,92430,"BARCLAY: Nowhere. I just don't get to these decks very often. There's Stellar Cartography -- I thought that was on Deck Eleven. TROI: Mister Barclay... BARCLAY: I was... I was having trouble sleeping. I'm just trying to wear myself out. That's a perfectly normal thing to be doing, isn't it?",barclay,10.871130544483764,0.0,0.0
+186,101739,"COUNTESS: James has explained it to me. It sounds like a grand adventure... there's nothing I love more than exploring the unknown. Have you ever been to Africa, Mister -- ? BARCLAY: Ah -- Barclay. Lieutenant Reg Barclay. No, I never have. COUNTESS: I have, when I was seventeen -- I went on safari with my uncle.",barclay,10.78925283807682,0.0,0.0
+187,101527,GEORDI: Freeze program. GEORDI: La Forge to Barclay... BARCLAY: Barclay here.,barclay,10.27514324428214,0.0,11.1293438834682
+188,92213,"BARCLAY: I'll ask Ensign Dern to join you. GEORDI: I meant you, Barclay. BARCLAY: Shouldn't I stay here and set up the remote link?",barclay,10.27514324428214,0.0,0.0
+189,114757,RIKER: (entering from Picard's Ready Room) Where is Mister Barclay... it's past fourteen hundred hours... GEORDI: Lieutenant Barclay to the bridge. Lieutenant Barclay report. RIKER: Computer. Locate Lieutenant Barclay.,barclay,10.257802575641835,5.777467453905245,8.823888762673418
+190,114710,"BARCLAY: No, but you're good. You were born to be in Starfleet. Me... GEORDI: You're just shy, Barclay. BARCLAY: ""Just shy""... sounds like nothing serious, doesn't it... You can't know.",barclay,9.843426794129327,0.0,0.0
+191,119267,"BARCLAY: -- I don't need a counselor. What I need is the company of a charming, intelligent woman. TROI: Goodnight, Mister Barclay. GEORDI: Where's Lieutenant Barclay?",barclay,9.74110714521276,0.0,9.542719385013992
+192,119214,"WORF: Aye. PICARD: Thank you, Mister Barclay... BARCLAY: You're welcome, Captain. Barclay out.",barclay,9.74110714521276,0.0,8.823888762673418
+193,92449,BARCLAY: Calm... stay calm... Computer -- let's try music... something soothing. BARCLAY: Barclay to Chief O'Brien. O'BRIEN: O'Brien here.,barclay,9.74110714521276,0.0,0.0
+194,101758,"COUNTESS: How thoughtful. Isn't he thoughtful, James? BARCLAY: Barclay to Commander Data... DATA: Go ahead, Lieutenant.",barclay,9.640892780321755,0.0,0.0
+195,119502,"BARCLAY: Smaller... GEORDI: Just plain old Barclay, huh... BARCLAY: It always seems to come back to that, doesn't it..",barclay,9.542719385013992,0.0,0.0
+196,69545,"QUARK: Rule of Acquisition number two- fourteen: ""Never begin a negotiation on an empty stomach."" SAKONNA: Rule of Acquisition? QUARK: Yes, yes... every Ferengi business transaction is governed by two hundred eighty-five Rules of Acquisition... to insure a fair and honest deal for all parties concerned... well, most of them anyway...",acquisition,10.76450041330466,6.245131383427226,3.802251187220798
+197,30929,DAX: Synchronized. O'BRIEN: DNA acquisition sensors? BASHIR: Locked in.,acquisition,10.312223321334537,0.0,0.0
+198,2673,"NOG: Yeah. Money is money, but women are better. JAKE: Is that a Rule of Acquisition? NOG: It's a personal rule. So, who is she?",acquisition,9.70084301128592,0.0,0.0
+199,47770,"ARJIN: How? QUARK: Rule of Acquisition One-twelve. QUARK : ""Never have sex with the boss's sister."" I was fired, broke. It was quite a setback to my ambitions.",acquisition,9.605925335646544,0.0,0.0
+200,10064,"ROM: I'll be able to go into business for myself. Turn the page, Brother. Turn the page. QUARK: The first Rule of Acquisition is... ROM: Go on.",acquisition,9.421555351748184,0.0,0.0
+201,72664,"WORF: Quark may lend you the money, but remember Rule of Acquisition number one hundred and eleven: ""Treat people in your debt like family -- exploit them."" DAX: You know the Rules of Acquisition? WORF: I am a graduate of Starfleet Academy. I know many things.",acquisition,9.331999141836002,4.58328265837992,0.0
+202,15633,"NOG: ""... Is no Ferengi at all."" SISKO: The eighteenth Rule of Acquisition. NOG: My father's a mechanical genius. He could've been the chief engineer of a starship if he'd had the opportunity. But he went into business instead, like a good Ferengi. The only thing is, he's not a good Ferengi... not when it comes to acquiring profit. So now all he has to live for is the slim chance that someday, somehow, he might be able to take over my uncle's bar. Well I'm not going to make the same mistake. I want to do something with my life... something worthwhile.",acquisition,9.244129446624404,0.0,0.0
+203,92553,BEVERLY: The imaging scanners are actuating... GEORDI: Got it... pattern acquisition... Positive. O'BRIEN: Programming bio-filter...,acquisition,9.157899070063666,0.0,0.0
+204,36208,"QUARK: ""Never place friendship above profit."" PEL: The twenty-first Rule of Acquisition. QUARK: I'm glad you agree.",acquisition,9.073262560831237,0.0,0.0
+205,35997,"PEL: Just remember one thing, ""The bigger the smile, the sharper the knife."" QUARK: The forty-eighth Rule of Acquisition. PEL: I'd keep it in mind if I were you.",acquisition,9.073262560831237,0.0,0.0
+206,10058,"ZEK: By all means. QUARK: ""The Rules of Acquisition, Revised for the Modern Ferengi."" You rewrote the Rules of Acquisition? ZEK: I hope you like them. Absorb... enjoy...",acquisition,9.060352562070337,0.0,0.0
+207,58324,"QUARK: As a wise man once wrote... ""Nature decays, but latinum lasts forever."" NOG: Rule of Acquisition number one-oh- two? QUARK: Good lad. Nog... I have some ointment in one of my bags... get it.",acquisition,8.990176132446994,0.0,0.0
+208,44235,"QUARK: It's always good business to know about new customers before they walk in your door. O'BRIEN: Yeah... ? Which Rule of Acquisition is that? QUARK: Oh, one of the high numbers... one ninety-four, I think...",acquisition,8.908597587737734,0.0,0.0
+209,24556,"ZEK: He also spoke of how you betrayed him to the authorities and left him to rot behind bars while you kept all the profits... QUARK: The sixth rule of Acquisition expressly states... ZEK: ""Never allow family to stand in the way of opportunity."" I certainly never have. You see, I told you he had brains...",acquisition,8.305660608270724,0.0,0.0
+210,10175,"QUARK: Beyond greed? There's nothing beyond greed. It's the purest, most noble of emotions. ROM: ""Greed is Dead."" That's the tenth Rule of Acquisition. QUARK: No it's not. The tenth Rule of Acquisition is ""Greed is Eternal.""",acquisition,8.033795570739754,0.0,7.370357447499342
+211,44744,ROM: He's not alone. Those Subytt smugglers were a potential source of great profit. QUARK: Must I quote you the seventy-sixth Rule of Acquisition? ROM: The seventy-sixth rule...,acquisition,7.7791640808969555,0.0,0.0
+212,43803,ODO: Keep your ears open. QUARK: Are you kidding? That's the seventh rule of acquisition. O'BRIEN: It's a security bypass module.,acquisition,7.7791640808969555,0.0,0.0
+213,37447,"ROM: I'm calling on behalf of Grand Nagus Zek -- QUARK: I know all about the ninety-fourth Rule of Acquisition -- NOG: I know... ""Females and finances don't mix,"" but that can be interpreted in many different ways...",acquisition,7.7791640808969555,0.0,0.0
+214,35926,"PEL: I wanted to learn from the best. QUARK: Which brings to mind the thirty-third Rule of Acquisition... QUARK AND PEL: ""It never hurts to suck up to the boss.""",acquisition,7.598537114868133,0.0,0.0
+215,55684,"QUARK: ""A Ferengi without profit is no Ferengi at all."" You taught me that. ISHKA: The Rules of Acquisition aren't going to help you now, Quark. QUARK: A hundred and ninety-nine point slide...",acquisition,7.482708142719518,0.0,0.0
+216,53433,"BASHIR: Ah, but there's the rub. Even if they do harbor feelings for each other, it's strictly against the rules of Trill society for them to acknowledge it in any way. KIRA: The ""rules?"" BASHIR: It's more of a... taboo, really. Having a relationship with a lover from a past life is called, ""reassociation,"" and the Trill feel very strongly that it's... unnatural.",rules,11.077192935763447,3.941662373390297,0.0
+217,32982,"BASHIR: So, where can someone practice with his phaser around here... ? QUARK: New rules... ? KIRA: You're can't cheat every customer who walks through your door anymore, Quark... you're a community leader now...",rules,11.077192935763447,0.0,0.0
+218,20298,"O'BRIEN: Of course, I suppose when the Ferengi don't like the rules... they just change them... QUARK: Well, rules... rules are always subject to inter--... O'BRIEN: Of course... change the rules... why didn't I think of that...",rules,10.663007089170677,5.948954549797528,7.184333775713452
+219,23299,FALOW: Chula. QUARK: What are the rules? FALOW: These are your players. We'll start them on the second shap.,rules,9.971962902471084,0.0,0.0
+220,67935,"GINT: Of course they matter. That's why they're a best-seller... but we're talking about your life here. The Rules are nothing but guideposts, suggestions... QUARK: Then why call them Rules? GINT: Would you buy a book called ""Suggestions of Acquisition""? Doesn't quite have the same ring to it, does it?",rules,9.350028429123823,4.1992841141935955,0.0
+221,35921,"PEL: True, but the twenty-second rule says, ""A wise man can hear profit in the wind."" QUARK: I see you know your Rules. PEL: All two hundred and eighty-five of them. And the various commentaries as well. I don't plan on being a waiter forever.",rules,9.25383739593126,0.0,0.0
+222,48407,"ODO: You're not just leaving, Major. You're surrendering. KIRA: You break the rules, you pay. ODO: Wait a minute. I want to be sure I heard that correctly. Because it doesn't sound like the Kira Nerys who has made a career out of breaking rules...",rules,9.067273177062338,0.0,4.1797709572677295
+223,42881,O'BRIEN: Luck has nothing to do with it. Tongo is a game of strategy and calculated risk. Pull up a chair. BASHIR: I don't even know the rules. O'BRIEN: Here.,rules,9.067273177062338,0.0,0.0
+224,70831,ISHKA: I'd like to. But Ferengi tradition doesn't allow females to travel. ROM: Quark doesn't make the rules. ISHKA: He just lives by them.,rules,8.976783869817538,0.0,0.0
+225,21238,FRANKIE: What kind of card is that to give such a pretty lady. Hit her again. KIRA: Isn't that against the rules? FRANKIE: Don't worry about it. Double your bet.,rules,8.976783869817538,0.0,0.0
+226,19769,Q: Or what? You'll thrash me? Shall we settle this mano a mano? Q: Marquis of Queensberry Rules? SISKO: What?,rules,8.976783869817538,0.0,0.0
+227,55535,"QUARK: I'll make myself scarce. Good luck, I'm counting on you. ODO: Commander, I'm sorry if the Klingons are unhappy, but station rules are station rules. WORF: I am well aware of station rules. But General Martok is a great warrior and has no business being in a holding cell.",rules,8.660938102120326,0.0,4.830746242901986
+228,119861,"ROBERT: I was always your brother... watching you get the cheers... watching you break every one of father's rules and getting away with it... PICARD: Why didn't you break a few rules? ROBERT: I was the older one, the responsible one. I had to look after you...",rules,8.632194579414538,4.561286403518947,0.0
+229,92675,GEORDI: Completely disrupted. RO: That rules out a distress signal. RIKER: If we even knew where to send it.,rules,8.632194579414538,0.0,0.0
+230,72664,"WORF: Quark may lend you the money, but remember Rule of Acquisition number one hundred and eleven: ""Treat people in your debt like family -- exploit them."" DAX: You know the Rules of Acquisition? WORF: I am a graduate of Starfleet Academy. I know many things.",rules,8.550141606110783,0.0,0.0
+231,60908,"GARAK: That is the idea. In case you've forgotten we're in a war and they're the enemy. O'BRIEN: There are rules, even in war, Garak. GARAK: Correction -- -humans have rules in war. Rules that tend to make victory a little harder to achieve, in my opinion.",rules,8.550141606110783,0.0,7.7305098677402
+232,10249,ROM: A gift? QUARK: Zek said the New Rules were a gift. ROM: A gift from Zek to the Ferengi people.,rules,8.469633847213032,0.0,0.0
+233,141360,"DATA: You are not permitted on the bridge. You are restricted to your quarters or the Ten-Forward lounge unless escorted by a crewmember. OKONA: I've broken some small rules before. GEORDI: You do and besides the bells and lights that will go off, our benevolent and kindly Lieutenant Worf will offer you a new kind of greeting.",rules,8.390628060871142,0.0,0.0
+234,63205,"WORF: An extra worker for you... WORF: A Terran who doesn't know the rules. ODO: Well, we'll see to it that he learns them.",rules,8.390628060871142,0.0,0.0
+235,10058,"ZEK: By all means. QUARK: ""The Rules of Acquisition, Revised for the Modern Ferengi."" You rewrote the Rules of Acquisition? ZEK: I hope you like them. Absorb... enjoy...",rules,8.301254236050957,0.0,0.0
+236,2572,BASHIR: Kai Winn... ? WINN: The Vedek... take care of the Vedek... ODO: Odo to Kira.,vedek,11.468552381416869,0.0,0.0
+237,56768,KIRA: It's because the man you look like was respected and loved by a lot of people. He was a Vedek. BAREIL: A Vedek? KIRA: A religious leader.,vedek,11.346077181025262,5.472747796903223,0.0
+238,48621,"WINN: ... to come upon such a flowing exchange of spiritual harmony. BAREIL: Vedek Winn. WINN: We've met before, haven't we. You're Major... Major...",vedek,10.932000389051955,0.0,0.0
+239,48514,KIRA: And you won't tell. BAREIL: I'm a Vedek. KIRA: I have absolutely no artistic skills. I was the worst fingerpainter in the four year old level. My parents were humiliated.,vedek,10.800610422175788,0.0,0.0
+240,9523,O'BRIEN: I guess so... KIRA: Vedek Porta... PORTA: Nerys...,vedek,10.800610422175788,0.0,0.0
+241,54002,KIRA: In the Assembly records? Who has ODO: Only a Vedek. QUARK: Eight... nine... ten.,vedek,10.672341256941854,0.0,0.0
+242,48472,KIRA: We're open for business. Come on in. Join the crowd. KIRA: Vedek Bareil. BAREIL: I didn't mean to intrude...,vedek,10.672341256941854,0.0,0.0
+243,43720,"BAREIL: I'm sorry for keeping you waiting, Commander Sisko. SISKO: Vedek Bareil... ? BAREIL: Please. There is no need to pay tribute to me, Commander...",vedek,10.672341256941854,0.0,0.0
+244,48625,"WINN: That's right, Major Kira. From the space station. What brings you here? BAREIL: I do, Vedek Winn. WINN: Good for you, Vedek Bareil. After working so hard, you deserve a little... (no beat, looking at Kira) ...recreation.",vedek,10.305184934083773,0.0,5.129144503456922
+245,57587,KIRA: I guess not. SARISH: Is that Vedek Tonsa? KIRA: Yes.,vedek,9.853216534159849,0.0,0.0
+246,56905,"DAX: It's not a midnight swim in the Holosuites... but as long as it makes you happy... BAREIL: So where's this Vedek? KIRA: He'll be here -- now stop pacing. This is an orb experience, not an execution.",vedek,9.641780251332941,0.0,0.0
+247,53733,BAREIL: Nerys? KIRA: Vedek Bareil. Want to play? BAREIL: Help me.,vedek,9.245010204601313,0.0,0.0
+248,43864,"BAREIL: Commander... SISKO: Thank you for coming, Vedek. BAREIL: I'm just another voice. But perhaps some of the Bajorans on your station will listen to what I have to say...",vedek,9.15086808912284,0.0,0.0
+249,25645,"FALA: Faith, Nerys. Faith... ODO: I'm sorry about Vedek Fala... KIRA: I keep going over what he said when he died. I don't know if he was trying to tell me that he never lost his faith... or that he felt betrayed by it.",vedek,9.15086808912284,0.0,0.0
+250,14906,"BASHIR: I'll see you later. KIRA: What can I do for you, Vedek? YARKA: Have you been able to convince the Emissary to reconsider his decision?",vedek,9.058623948450432,0.0,0.0
+251,48479,"BAREIL: Nowadays, it's probably wiser not to announce those things. ODO: How bad is it on Bajor, Vedek? BAREIL: The violence has seriously escalated... it almost seems there are more weapons on the streets now than during the occupation...",vedek,8.968220958523972,0.0,0.0
+252,14919,"YARKA: I'm afraid that's no longer possible. The Prophets have chosen you to help the Emissary make this decision -- a decision that has profound implications for all of Bajor. You must convince him to make the Cardassians leave before the Sword of Stars appears... KIRA: Vedek, if you're asking me to -- YARKA: It is not I who is asking... but the Prophets. If you turn your back on them now, you'll be abandoning your faith. And without your faith, Nerys... what do you have left?",vedek,8.968220958523972,0.0,0.0
+253,1353,"WINN: Have you suffered a recent loss? Or are you still mourning the death of Minister Kalem? KIRA: It's for Vedek Bareil, actually. WINN: It's been three months since Bareil left us to walk with the Prophets... you must have cared for him deeply.",vedek,8.792722254542658,0.0,0.0
+254,60820,"YASSIM: What will it take to make you act, Kira? To make you stop accepting them and start fighting back? KIRA: Vedek, you just don't understand. YASSIM: You're right -- I don't. Maybe tomorrow, we'll both understand.",vedek,8.707523688998101,0.0,0.0
+255,53859,"KIRA: And that's why you can never be allowed to set foot on Bajor again. If you did, it would dishonor the memory of every person you sentenced to death. SISKO: Vedek Winn. What can I do for you? WINN: Emissary, it has recently come to my attention that there are some on Bajor who believe my relationship with you is not all it should be.",vedek,8.623960370200605,0.0,0.0
+256,61683,"O'BRIEN: Unless I can find another way out of here, we'll be vaporized. Is that clear enough? BASHIR: Crystal. O'BRIEN: There's a distribution manifold coming up... take the left conduit, then make a quick right into the relays.",warp crystal,12.683450396933875,0.0,0.0
+257,13819,SORM: Spicy... TRAIDY: They have the crystal. TRAIDY: We've got to make sure she doesn't access it.,warp crystal,10.778266321018226,0.0,0.0
+258,13778,ARISSA: Not quite. I meant what I said about your eyes. ODO: What's on the crystal? ARISSA: I don't know. But I need to find out.,warp crystal,10.778266321018226,0.0,0.0
+259,14012,"ODO: Forget about the crystal, we have to find Arissa. IDANIAN #2: That crystal is Arissa. O'BRIEN: She took it... I don't know where she went...",warp crystal,10.663850641004572,8.42735549993973,0.0
+260,13845,"ODO : ... as you said before, they're a secretive race. ARISSA: What about the crystal? ODO: Dax and Chief O'Brien are still trying to get past the encryption lockouts.",warp crystal,10.663850641004572,0.0,0.0
+261,15315,ODO: Your foot's been encased in some kind of crystal. And from the look of things... ODO: The crystal's spreading. ODO: You're sure you can't pull it loose?,warp crystal,10.551838583502208,6.778307914586783,0.0
+262,102185,DATA: That is true. I have experimented with producing vibrations in crystal by means of graviton pulses. DOCTOR MARR: Like tapping a crystal goblet? DATA: Exactly.,warp crystal,9.926252214419419,5.937042002777252,0.0
+263,115515,"GEORDI: Great. Thanks a lot. Computer, generate a cross section image of the dilithium crystal chamber. GEORDI: What about reorienting the crystal? LEAH: It is possible to reorient the crystal. The key lies in adjusting the lattice structure direction. This modification will be integrated into the next class starship.",warp crystal,9.458926433834932,6.155311990745495,4.289291036354042
+264,125947,RIKER: Assuming you can -- can you regulate the reaction? WESLEY : There's just enough crystal to do it. WESLEY: We plan to channel the reaction through the chips.,warp crystal,9.284089277775177,0.0,0.0
+265,115633,GEORDI: What? -- computer -- GEORDI: The crystal lattice is breaking down... GEORDI: We'll have to pick up repairs when we can reach a starbase....,warp crystal,9.284089277775177,0.0,0.0
+266,115510,PICARD: Good. Return at once. GEORDI: What about the dilithium crystal control? LEAH: It should be possible to fine tune the frequency ranges...,warp crystal,8.953113676265335,0.0,0.0
+267,75115,RIKER: With compliments of the USS Enterprise. RIKER: It's called an Albeni meditation crystal. BEATA: Very impressive.,warp crystal,8.953113676265335,0.0,0.0
+268,102423,"JA'DAR: If our theories are correct, the wave will envelop the ship and push it into warp. PICARD: Warp without warp drive... RIKER: They're going to put you out of a job, Geordi.",warp crystal,8.765691122254717,4.253581462902485,0.0
+269,14011,"IDANIAN #2: The datacrystal -- where is it? ODO: Forget about the crystal, we have to find Arissa. IDANIAN #2: That crystal is Arissa.",warp crystal,8.42735549993973,0.0,10.663850641004572
+270,74053,"PICARD: Now that your son's safe, Doctor, report immediately to Sickbay. RIKER: Captain... The crystal thing has begun to move away. PICARD: (continuing; beat; eyeing him) Data, get rid of that damned twitch! And put on a correct uniform.",warp crystal,8.357245965871481,0.0,0.0
+271,115559,"GEORDI: ... 452 through system L-575. COMPUTER: Adjustments to dilithium crystal chamber complete. GEORDI: Impact analysis, computer.",warp crystal,8.288293329006718,0.0,0.0
+272,14021,"ARISSA: Maybe. TRAIDY: I thought we had a deal, your life for the crystal. ARISSA: I just want to make sure you live up to your end.",warp crystal,8.288293329006718,0.0,0.0
+273,73920,"TASHA: By which Doctor Soong left proof behind that his experiment did work. RIKER: Captain, how believable do you find that crystal thing? PICARD: Having explored so little of just our galaxy, I find anything possible.",warp crystal,8.023497341971911,0.0,0.0
+274,131597,PICARD: Speed -- warp five. GEORDI: Warp five. PICARD: ... And Worf.,warp crystal,7.972722239857207,7.4241574385113385,0.0
+275,108960,GEORDI: We are passing warp eight point five. GEORDI: ... warp nine. RIKER: Arm the photon torpedoes. Recommend we try to slow them down.,warp crystal,7.972722239857207,5.983275631408532,0.0
+276,13547,DAX: MoVas ah-kee rustak. (Today was a good day to die.) DAX: Computer -- bat'leth. DAX: MoVas ah-kee rustak!,bat'leth,23.55419290948378,0.0,0.0
+277,76489,"WORF: I do not believe so. But I will explain when I arrive. PICARD: How was the Bat'leth tournament? WORF: I won... ""Champion Standing.""",bat'leth,20.35894035118146,0.0,0.0
+278,16036,"WORF: You mean Curzon's. DAX: No. I mean mine. Computer, bat'leth. DAX: I thought you might be tired of fighting holograms.",bat'leth,20.16356211464625,0.0,0.0
+279,9273,"KIRBY: He said the Klingons have been shooting them out of the sky left and right. Unless something changes, he figures the Klingons'll capture the settlement the day after tomorrow. KIRBY: Did you see all the bat'leth wounds today? KIRBY : (off Jake's nod When Klingons get mad, they forget about their disruptors, go hand-to- hand. If you ask me, they're looking to get even for what happened on Ganalda Four.",bat'leth,18.56049033059397,0.0,0.0
+280,65473,KOR: Are you siding with him? DAX: Put it away so he can give me the Bat'leth. KOR: You see. I was right. He's not to be trusted.,bat'leth,18.397967992280986,0.0,0.0
+281,13510,TUMEK: The challenge has been given and accepted. Let no one interfere. Mok! THOPOK: Where did you learn to fight with a bat'leth? QUARK: I'm a man of many talents.,bat'leth,18.08131497957366,0.0,0.0
+282,85244,WORF: No... it has not been easy. K'MTAR: How are his fighting skills? Can he handle a Bat'leth? WORF: He is learning... he could be better.,bat'leth,16.91668235595491,0.0,0.0
+283,37221,"O'BRIEN: It was my idea. Now, if you want to skip the drinking and get right down to talking, I'm game. WORF: (getting back to his bat'leth) What do you wish to discuss? O'BRIEN: Julian swears there's nothing going on between him and Ezri. There's no reason for you to be jealous.",bat'leth,16.388871882002903,0.0,0.0
+284,65192,KOR: He guessed! I know where the Sword rests. Imagine the glory! KOR : The honor of finding the Bat'leth of the first Warrior King... WORF: Lost for a millennium... It's return would change Klingon history. If you know where it is we must bring it back to the Emperor.,bat'leth,16.01413405627327,0.0,0.0
+285,65332,"DAX: How does it feel? KOR: Good. Very, very good. To think... Kahless himself held this Bat'leth... WORF: And with it he slew Molor... conquered the Fek'Ihri and forged the first Empire. And now... I hold it in my hands...",bat'leth,15.540352579931353,0.0,0.0
+286,16042,"DAX: I hope you're not holding back because I'm a woman. If it makes things easier, think of me as a man. I have been one several times. WORF: I see you haven't forgotten all that Curzon knew about the bat'leth. DAX: Feel better? I take it your conversation with General Martok didn't go all that well.",bat'leth,15.093799395350235,0.0,0.0
+287,7630,WORF: Our names must be added to the list of candidates for the Order of the Bat'leth. DUKAT: The Order of the Bat'leth? Don't you think you might be overdoing it? SISKO: They'll be inducting new members in a few days. And Chancellor Gowron will be presiding over the ceremony.,bat'leth,15.093799395350235,13.895900223113994,0.0
+288,9431,"BOLIAN: Don't be so sure about that. Some people think it's like being boiled alive. KIRBY: Decapitation has its virtues. A clean blow with a nice, sharp bat'leth. BOLIAN: Your brain doesn't die for five, ten seconds at least...",bat'leth,14.986142416746247,0.0,0.0
+289,7744,SISKO: I see him. KLINGONS: Martok the Victor. Martok the Conqueror. May your Bat'leth run red. Success. 0'BRIEN: What if he recognizes us?,bat'leth,14.57044584222566,0.0,0.0
+290,65230,KOR: That is... if there's going to be a quest. What did you find? DAX: I found both Klingon and Hur'q DNA on the cloth... And traces of metallic compounds that could only have been left... by a Klingon Bat'leth... a Bat'leth fourteen hundred years old. KOR: The time of Kahless! I never doubted it. When do we leave?,bat'leth,14.210347711007103,0.0,0.0
+291,7629,"DUKAT: Don't worry, Captain, by the time we get to Ty'Gokor, we'll have something suitably impressive to plant in their central computer system. WORF: Our names must be added to the list of candidates for the Order of the Bat'leth. DUKAT: The Order of the Bat'leth? Don't you think you might be overdoing it?",bat'leth,13.895900223113994,0.0,15.093799395350235
+292,76297,"COMPUTER: There is no log entry for that Stardate. WORF: Computer, display any log entries regarding the Bat'leth Tournament on Forcas Three. WORF ON MONITOR: Personal log, Stardate 47391.2. There has been a malfunction in the ship's main deflector. It will require two more days of repairs.",bat'leth,13.62555670861856,0.0,0.0
+293,31050,"WORF: A Klingon exercise that teaches children hand-eye coordination. So they will grow to become warriors. BASHIR: (re: the rattle in Worf's hand) I get it. Sort of a... ""baby's first bat'leth"" kind of thing. O'BRIEN: How'd he do?",bat'leth,13.537764702122136,0.0,0.0
+294,54518,"WORF: E-cha! DAX: Movek. Okay. I see your point. The mek'leth does have its advantages. But I still say that the longer reach of the bat'leth is usually the deciding factor. WORF: That is the classic argument. However, I find that using a large and intimidating weapon like a bat'leth often leads to... overconfidence.",bat'leth,12.440153788597605,0.0,10.289274546452955
+295,24361,"DAX: If Curzon were here, you'd be out of luck. But Jadzia Dax is a science officer. KANG: We would also be unable to use our disruptors. But who among them could match our skills with the bat'leth? DAX: Not many.",bat'leth,11.857029485154946,0.0,0.0
