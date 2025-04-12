@@ -2,14 +2,15 @@ import hvplot.pandas
 import numpy as np
 import pandas as pd
 import panel as pn
-# import simple_search_func as ss
 import re
 import csv
+# This is a demo file: It doesn't actually search, it emulates what the search would look like
 
+# sets the background color as grey
 pn.extension( global_css=[''':root { --design-primary-color: black;
-    --mdc-theme-background: #eaeaea; /* Green background */}
+    --mdc-theme-background: #eaeaea; 
     body {
-    --mdc-theme-background: #eaeaea; /* Green background */
+    --mdc-theme-background: #eaeaea;
 }
 '''])
 
@@ -22,57 +23,14 @@ pn.extension(raw_css=['''.custom-button {
     }
     '''])
 
-
-
-# LOAD EVERYTHING
-complete = pd.read_csv('https://scmcqueen.github.io/StarTrekScriptData/complete_data.csv')
-complete.columns = ['index','character', 'quote', 'scene', 'location', 'view',
-       'episode', 'date', 'series', 'file']
-# test_engine = ss.search_engine()
-# test_engine.bulk_load(complete[['quote']].to_dict()['quote'])
-# test_engine.add_df(complete)
-
-# globals
-ranking = []
-results = None
 craines = pn.widgets.Button(name='Craines')
 
-# functions
-# search_results = []
-# def search(search_engine:ss.search_engine,query:str,num_results:int=30)->list:
-#     global search_results, results
-#     '''Completes a search of a term on an engine'''
-#     results=search_engine.bw_search(query,num_results)
-#     search_results = search_engine.pretty_print([x[0] for x in results])
-#     pn.main = [search_results] # tried this
-#     print('success')
-#     return(search_engine.pretty_print([x[0] for x in results]))
 
 def pretty_print(event):
     global search_results, ranking, craines
     temp_open = pn.pane.Markdown('### Results')
     column = pn.Column(temp_open)
-    # output =  ''
-    # counter = 0
-    # ranking = []
-    # for x in search_results:
-    #     output+='"'+re.sub(r'\s+', ' ', x[0]).strip()+'"'
-    #     output+='\n'
-    #     output+='**'
-    #     output+=x[1]
-    #     # output+='"'+re.sub(r'\s+', ' ', x[1]).strip()+'"'
-    #     output+='**'
-    #     output+='\n'
-    #     output+='"'+re.sub(r'\s+', ' ', x[2]).strip()+'"'
-    #     column.append(pn.pane.Markdown(output))
-    #     output=''
-    #     # temp = pn.widgets.TextInput(name=f'Ranking {str(counter)}', placeholder='candle')
-    #     radio = pn.widgets.RadioButtonGroup(name=f'Ranking {str(counter)}', 
-    #                                         options=['Relevant','No'], button_type='success')
-    #     ranking.append(radio)
-    #     column.append(radio)
-    #     counter +=1
-    # # TEMPORARILY COMMENT EVERYTHING OUT
+
     column.append(pn.pane.Markdown('''
         RIKER: I don't like fudge.
         **TROI: Really. I never met a chocolate I didn't like.**
@@ -125,7 +83,7 @@ text_input = pn.widgets.TextInput( placeholder='Try "candle"',width = 550)
 search_button = pn.widgets.Button(name='Search',css_classes=['custom-button'],
     button_type='light',button_style='outline', align="center")
 # bind
-search_button.on_click(lambda event: search(test_engine,text_input.value)) # lambda x
+search_button.on_click(lambda event: search(test_engine,text_input.value))
 
 title_text = pn.pane.Markdown('## A _Star Trek_ Search Engine that prioritizes humor', align="center")
 
@@ -133,12 +91,9 @@ title_text = pn.pane.Markdown('## A _Star Trek_ Search Engine that prioritizes h
 pn.template.MaterialTemplate(
     title="Ad Aspera per Data",
     main=pn.Column(title_text,
-    pn.Row(#pn.Spacer(sizing_mode="stretch_width"),
+    pn.Row(
         text_input,
         search_button,
-        #pn.Spacer(sizing_mode="stretch_width")
         ),
     pn.bind(pretty_print,event=search_button)),
-).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
-
-# should add character names to results
+).servable()
