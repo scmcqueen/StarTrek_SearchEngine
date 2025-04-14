@@ -41,13 +41,13 @@ def feature_engineering(full_data:pd.DataFrame,complete:pd.DataFrame)->pd.DataFr
     complete['prev_character']=complete['character'].shift(1)
     complete['prev_sent']=complete['sentiment'].shift(1)
     complete['prev_quote_len']=complete['quote'].apply(lambda z: len(str(z).split())).shift(1)
-    full_data = pd.merge(full_data,complete[['prev_character','prev_quote_len','prev_sent','index']],on='index',how='left')
+    full_data = full_data.merge(complete[['prev_character','prev_quote_len','prev_sent','index']],on='index',how='left')
 
     # get next quote info
     complete['next_character']=complete['character'].shift(-1)
     complete['next_sent']=complete['sentiment'].shift(-1)
     complete['next_quote_len']=complete['quote'].apply(lambda z: len(str(z).split())).shift(-1)
-    full_data = pd.merge(full_data,complete[['next_character','next_quote_len','next_sent','index']],on='index',how='left')
+    full_data = full_data.merge(complete[['next_character','next_quote_len','next_sent','index']],on='index',how='left')
     return(full_data)
 
 def merge_data(bm25_df:pd.DataFrame,complete_df:pd.DataFrame,embed_df:pd.DataFrame):
