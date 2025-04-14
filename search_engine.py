@@ -241,7 +241,7 @@ class search_engine:
         n_q = self.full_data.iloc[index+1]['quote'] # get next quote
         n_char = self.full_data.iloc[index+1]['character'] # get next character (& make lowercase)
 
-        output = f'{p_char}: {p_q} \n {char}: {q} \n {n_char}: {n_q} \n \n "{ep}", {series}, {date}'
+        output = f'{p_char}: {p_q} \n {char}: {q} \n {n_char}: {n_q} \n \n "{ep}", __Star Trek: {series}__, {date}'
         return(output)
 
     def old_pretty_print(self,ids:list)->list:
