@@ -1,12 +1,9 @@
-import hvplot.pandas
 import numpy as np
 import pandas as pd
 import panel as pn
 import re
 import csv
 import lightgbm as lgb
-import numpy as np
-import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, classification_report
 from sklearn.datasets import load_breast_cancer
@@ -47,13 +44,22 @@ pn.extension(raw_css=['''.custom-button {
 
 
 
-# LOAD EVERYTHING
+# Start by loading in the data
 complete = pd.read_csv('https://scmcqueen.github.io/StarTrekScriptData/complete_data.csv')
-complete.columns = ['index','character', 'quote', 'scene', 'location', 'view',
+# Rename columns
+complete.columns = ['index', 'character', 'quote', 'scene', 'location', 'view',
        'episode', 'date', 'series', 'file']
+# Clean up Character & Quote
+complete['character'] = complete['character'].apply(lambda text: " ".join(str(text).split()))
+complete['quote']=complete['quote'].apply(lambda text: " ".join(text.split()))
 # test_engine = ss.search_engine()
 # test_engine.bulk_load(complete[['quote']].to_dict()['quote'])
 # test_engine.add_df(complete)
+
+# instantiate the search engine & load data
+search_engine = se.search_engine(name='BM25 Engine',full_data=complete)
+search_engine.bulk_load(complete[['quote']].to_dict()['quote'])
+# to query, we need to do search_engine.bw_search(term,20,context=True)
 
 # globals
 ranking = []
@@ -102,42 +108,6 @@ def pretty_print(event):
         RIKER: Doesn't it taste good?
 
         _Star Trek: The Next Generation_, “The Game”
-    '''))
-    column.append(pn.pane.Markdown('''
-        RIKER: Sure. I'll catch up with you later.
-        **RIKER: Chocolate ice cream. Chocolate fudge. Chocolate chips. You're not depressed, are you?**
-        TROI: I'm fine, Commander.
-
-        _Star Trek: The Next Generation_, “The Game”
-    '''))
-
-    column.append(pn.pane.Markdown('''
-        RIKER: I never knew it was a ritual. 
-        **TROI: Chocolate is a serious thing.**
-        RIKER: You know... I brought something back from Risa. It's better than chocolate.
-
-        _Star Trek: The Next Generation_, “The Game”
-    '''))
-    column.append(pn.pane.Markdown('''
-        WORF: I believe Commander Data's painting is making me dizzy... 
-        **WORF: I thought this cake was chocolate... **
-        TROI: Don't I wish.
-
-        _Star Trek: The Next Generation_, “Parallels”
-    '''))
-    column.append(pn.pane.Markdown('''
-        TROI: Transfer my mother's letters to my viewer...
-        **TROI : ... and computer, I'd like a... a real chocolate sundae.**
-        COMPUTER: Define ""real"" in context, please.
-
-        _Star Trek: The Next Generation_, “The Price”
-    '''))
-    column.append(pn.pane.Markdown('''
-        DATA: When Counselor Troi is in an unhappy mood, she often has something chocolate... 
-        **Q: Chocolate...**
-        DATA: For example, a hot fudge sundae. I cannot speak from personal experience, but I have seen it often has a profound psychological impact.
-        
-        _Star Trek: The Next Generation_, “Deja Q”
     '''))
     return(column)
 
