@@ -1,0 +1,11 @@
+numpy
+pandas
+panel
+lightgbm
+sklearn
+matplotlib
+seaborn
+nltk
+spacy
+altair
+joblib
