@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+85000,85000,85000,85000,383,OGAWA,"You wanted to see me, Doctor?",41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85001,85001,85001,85001,384,BEVERLY,Yes...,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85002,85002,85002,85002,385,BEVERLY,"Alyssa, I think you know how much I've come to depend on you. I've recommended your promotion because your performance here has been exemplary.",41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85003,85003,85003,85003,386,OGAWA,"Thank you, Doctor... I appreciate that.",41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85004,85004,85004,85004,387,BEVERLY,"But more than that, I've come to think of you as a friend. Someone I care about...",41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85005,85005,85005,85005,388,OGAWA,That's nice of you to say. I feel the same way.,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85006,85006,85006,85006,389,BEVERLY,So... I was wondering about you and Andrew Powell...,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85007,85007,85007,85007,390,OGAWA,Someone told you!,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85008,85008,85008,85008,391,BEVERLY,Told me... ?,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85009,85009,85009,85009,392,OGAWA,We were going to keep it a secret until the promotions are announced.,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85010,85010,85010,85010,393,BEVERLY,Secret... ?,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85011,85011,85011,85011,394,OGAWA,He asked me to marry him.,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85012,85012,85012,85012,395,BEVERLY,Alyssa -- that's wonderful!,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85013,85013,85013,85013,396,BEVERLY,I'm so relieved...,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85014,85014,85014,85014,397,BEVERLY,I mean -- happy.,41   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85015,85015,85015,85015,398,RIKER,"Have a seat, Ensign.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85016,85016,85016,85016,399,PICARD,This is Joret Dal... he was in the escape pod we retrieved.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85017,85017,85017,85017,400,PICARD,Joret is a member of the Cardassian military... he is also a Federation operative.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85018,85018,85018,85018,401,PICARD,"He risked his life to come here and give us invaluable information about Cardassia's strategic intentions -- information that could very well enhance the security of Bajor, as well as other planets in this sector. It is imperative that we get him safely back to Cardassian space.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85019,85019,85019,85019,402,JORET,It will not be easy. The border is heavily guarded.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85020,85020,85020,85020,403,RIKER,Since his ship was destroyed he's going to have to take one of our shuttlecraft.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85021,85021,85021,85021,404,JORET,"If a patrol stops me, I will claim to have stolen it.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85022,85022,85022,85022,405,WORF,We have distressed the shuttle so that it appears to have been fired on.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85023,85023,85023,85023,406,RIKER,Joret's going to have to try and talk his way past the patrol.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85024,85024,85024,85024,407,JORET,"If I were alone, the chances of my succeeding would be slim. But if I had a prisoner with me... a Bajoran terrorist...",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85025,85025,85025,85025,408,JORET,"I would appear to be a bounty hunter. Border crossings of that nature are not uncommon... for a price, the patrol can be convinced to look the other way.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85026,85026,85026,85026,409,PICARD,"Once the shuttle is safely past the patrol, Joret will put you in an escape pod and send you back across the border.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85027,85027,85027,85027,410,RIKER,"Since the pod is so small, it shouldn't be detectable.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85028,85028,85028,85028,411,PICARD,We'll be waiting here to pick you up.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85029,85029,85029,85029,412,SITO,"I understand, sir.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85030,85030,85030,85030,413,PICARD,This is obviously a very dangerous mission. I'm not ordering you to take part in it.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85031,85031,85031,85031,414,SITO,"Then I'll volunteer, sir.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85032,85032,85032,85032,415,WORF,Be certain you understand the risk you are taking. If you are captured --,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85033,85033,85033,85033,416,SITO,I'm Bajoran. No one knows better than I do what the Cardassians do to their prisoners.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85034,85034,85034,85034,417,SITO,I've made my decision.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85035,85035,85035,85035,418,PICARD,"Very well, Ensign. Report to Sickbay. Doctor Crusher will explain.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85036,85036,85036,85036,419,PICARD,I'd also ask you not to discuss this mission with anyone...,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85037,85037,85037,85037,420,SITO,"Yes, sir.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85038,85038,85038,85038,421,JORET,I didn't realize she would be so... young...,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85039,85039,85039,85039,422,SITO,The Captain asked Doctor Crusher to make it look like Joret had mistreated me...,45   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85040,85040,85040,85040,423,GEORDI,We're all set...,45   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85041,85041,85041,85041,424,SITO,Sir... I want you to know that I really appreciate the fact that you've always had confidence in me.,45   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85042,85042,85042,85042,425,WORF,Good luck...,45   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85043,85043,85043,85043,426,SITO,I'll see you soon...,45   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85044,85044,85044,85044,427,JORET,We are approaching the border... it won't be long before we're detected by the patrol ships.,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85045,85045,85045,85045,428,SITO,When they stop us... do you want me to say anything?,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85046,85046,85046,85046,429,JORET,"No. It should seem that I've broken your will. If you're asked any questions, look at me... as though you're afraid to answer.",48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85047,85047,85047,85047,430,SITO,Can I ask you something... ? Why are you doing this -- risking your life to help Starfleet?,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85048,85048,85048,85048,431,JORET,"I don't consider myself a traitor, if that's what you're asking.",48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85049,85049,85049,85049,432,JORET,"I've served in the military all my life... once it was an institution dedicated to the security of Cardassia, now it's little more than... a platform for ambitious Guls hoping to make their reputations in battle.",48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85050,85050,85050,85050,433,JORET,"If the information I provide helps Starfleet deter even one pointless border skirmish, I'll have served my purpose. I'm sick of war. My people need peace.",48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85051,85051,85051,85051,434,SITO,I never thought I'd hear a Cardassian say something like that...,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85052,85052,85052,85052,435,JORET,And I never thought a Bajoran would risk her life to help a Cardassian get home...,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85053,85053,85053,85053,436,SITO,A patrol ship is closing in on our position...,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85054,85054,85054,85054,437,JORET,We don't have much time...,48   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85055,85055,85055,85055,438,LAVELLE,"She must have left on that shuttle, there's no other explanation.",52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85056,85056,85056,85056,439,BEN,Do you have any idea where it went?,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85057,85057,85057,85057,440,LAVELLE,Toward Cardassian space -- that's what I'm worried about.,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85058,85058,85058,85058,441,LAVELLE,"There's another thing, I noticed the shuttle was damaged --",52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85059,85059,85059,85059,442,OGAWA,"Sam, can we talk about something else?",52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85060,85060,85060,85060,443,LAVELLE,Don't you care what's happened to her?,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85061,85061,85061,85061,444,OGAWA,Of course --,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85062,85062,85062,85062,445,TAURIK,But we have to accept the fact that we're not always told about everything that happens aboard ship.,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85063,85063,85063,85063,446,LAVELLE,We can at least tell each other what we know.,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85064,85064,85064,85064,447,LAVELLE,Do you two know something?,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85065,85065,85065,85065,448,OGAWA,"Sam, please...",52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85066,85066,85066,85066,449,LAVELLE,I can't believe this. We're friends.,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85067,85067,85067,85067,450,TAURIK,We're also Starfleet Officers.,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85068,85068,85068,85068,451,OGAWA,I'm not allowed to talk about it...,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85069,85069,85069,85069,452,LAVELLE,Okay... I understand.,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85070,85070,85070,85070,453,LAVELLE,I better get going... I'm on duty in half an hour...,52   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85071,85071,85071,85071,454,RIKER,Report.,54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85072,85072,85072,85072,455,LAVELLE,"We've completed a long-range scan of the area, sir. The escape pod doesn't seem to be out there.",54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85073,85073,85073,85073,456,DATA,It is possible that at this distance we are simply unable to distinguish the pod from the inorganic matter normally present in space.,54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85074,85074,85074,85074,457,RIKER,Try narrowing the scan field -- see if you can pick up any biosigns.,54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85075,85075,85075,85075,458,LAVELLE,Sir... it would help if I knew what kind of life-signs to look for.,54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85076,85076,85076,85076,459,RIKER,"You're scanning for Bajoran lifesigns, Ensign.",54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85077,85077,85077,85077,460,LAVELLE,"Yes, sir.",54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85078,85078,85078,85078,461,RIKER,"Nothing yet, sir. The pod's thirty-two hours overdue.",54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85079,85079,85079,85079,462,WORF,"Sir, I recommend we launch a probe to increase the range of our sensor sweeps.",54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85080,85080,85080,85080,463,RIKER,Sending a probe into Cardassian space would be a treaty violation.,54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85081,85081,85081,85081,464,PICARD,Prepare a probe and launch when ready.,54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85082,85082,85082,85082,465,WORF,"Aye, sir.",54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85083,85083,85083,85083,466,WORF,It will be several minutes before we begin to receive the probe's telemetry.,54   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85084,85084,85084,85084,467,DATA,Sir... I am detecting signs of debris two hundred thousand kilometers inside Cardassian space...,56A  INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85085,85085,85085,85085,468,DATA,"(continuing, off console) Its mass and composition indicate that it could be the remains of a Federation escape pod...",56A  INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85086,85086,85086,85086,469,PICARD ,"Captain's Log, supplemental. We have intercepted a Cardassian report stating that a Bajoran prisoner escaped her captor... and was killed in an evacuation pod as she tried to leave Cardassian space...",56B  EXT. SPACE - ENTERPRISE (OPTICAL),SPACE - ENTERPRISE,EXT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85087,85087,85087,85087,470,PICARD,To all personnel with security clearance J-one and higher... this is the Captain. It is my sad duty to inform you --,57   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85088,85088,85088,85088,471,PICARD,-- that a member of the crew... Ensign Sito Jaxa...,58   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85089,85089,85089,85089,472,PICARD,Has been lost in the line of duty...,59   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85090,85090,85090,85090,473,PICARD,She was the finest example of a Starfleet officer... a young woman of remarkable courage... and strength of character.,60   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85091,85091,85091,85091,474,PICARD,Her absense will be deeply felt by all who knew her...,60A  INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85092,85092,85092,85092,475,BEN,You okay... ?,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85093,85093,85093,85093,476,LAVELLE,Hi...,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85094,85094,85094,85094,477,LAVELLE,I just got promoted...,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85095,85095,85095,85095,478,OGAWA,Congratulations...,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85096,85096,85096,85096,479,LAVELLE,Thanks...,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85097,85097,85097,85097,480,LAVELLE,"I just don't feel right about it... for all I know, she was going to get the promotion instead of me.",63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85098,85098,85098,85098,481,BEN,"You shouldn't feel that way, Sam.",63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85099,85099,85099,85099,482,OGAWA,She would have been happy for you.,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85100,85100,85100,85100,483,TAURIK,The best way to remember her... would be to excel in your new position.,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85101,85101,85101,85101,484,OGAWA,"We're proud of you, Sam.",63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85102,85102,85102,85102,485,BEN,"Excuse me, sir... but I need to move this table.",63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85103,85103,85103,85103,486,WORF,What?,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85104,85104,85104,85104,487,BEN,There's an empty seat over there.,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85105,85105,85105,85105,488,WORF,"I appreciate what you are trying to do, but it is not... appropriate. You were her friends. I was only her commanding officer...",63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85106,85106,85106,85106,489,BEN,Sir... I happen to know that she considered you a friend.,63   INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+85107,85107,85107,85107,0,WORF,"-- as time passes, a boy inevitably becomes a man. What is not inevitable, is that a man become a warrior. A warrior must be forged like a sword, tempered by... -- by experience. The path of the warrior begins --",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85108,85108,85108,85108,1,WORF,Alexander --,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85109,85109,85109,85109,2,WORF,Come in.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85110,85110,85110,85110,3,ALEXANDER,"No, wait --",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85111,85111,85111,85111,4,ERIC,Sorry. I didn't mean to hit you.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85112,85112,85112,85112,5,WORF,What is the meaning of this?,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85113,85113,85113,85113,6,ALEXANDER,I'm sorry. We made Fullerenes in chemistry class and filled them with water --,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85114,85114,85114,85114,7,WORF,I asked you to meet me here after school. I have been waiting for you.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85115,85115,85115,85115,8,ALEXANDER,I forgot.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85116,85116,85116,85116,9,WORF,You forgot because you allowed yourself to be distracted by foolishness.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85117,85117,85117,85117,10,ALEXANDER,I'm sorry.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85118,85118,85118,85118,11,WORF,There is something important I want to discuss with you.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85119,85119,85119,85119,12,WORF,"As time passes, a boy inevitably becomes a man. What is not inevitable, is that a man become a sword --",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85120,85120,85120,85120,13,ALEXANDER,What?,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85121,85121,85121,85121,14,WORF,I meant warrior...,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85122,85122,85122,85122,15,WORF,The path of the warrior begins with the First Rite of Ascension.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85123,85123,85123,85123,16,ALEXANDER,Is that where they hit you with pain sticks?,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85124,85124,85124,85124,17,WORF,"No, that is the Second Rite.",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85125,85125,85125,85125,18,ALEXANDER,Oh...,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85126,85126,85126,85126,19,WORF,You are approaching the age of ascension... it is time for you to prepare for the ceremony.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85127,85127,85127,85127,20,ALEXANDER,What do I have to do?,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85128,85128,85128,85128,21,WORF,"Your fighting skills will be tested... and your knowledge of the teachings of Kahless. It is very challenging, but I will help you prepare.",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.5017
+85129,85129,85129,85129,22,WORF,This is a kor'tova candle... it represents the fire that burns in a warrior's heart.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,-0.34
+85130,85130,85130,85130,23,WORF,"When you light yours, you will be declaring your intention to become a warrior.",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85131,85131,85131,85131,24,WORF,Go ahead.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85132,85132,85132,85132,25,ALEXANDER,What if... I don't want to?,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85133,85133,85133,85133,26,WORF,"If you do not participate in the rite before you are thirteen years of age, you will never be able to become a true Klingon warrior.",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85134,85134,85134,85134,27,ALEXANDER,I don't care about that...,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85135,85135,85135,85135,28,WORF,"You may not care now, but someday you might.",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85136,85136,85136,85136,29,ALEXANDER,Mother always said that I didn't have to do any of this Klingon stuff if I didn't want to.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85137,85137,85137,85137,30,WORF,It is your decision... but --,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85138,85138,85138,85138,31,ALEXANDER,"Good, then I'm not going to do it.",1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85139,85139,85139,85139,32,WORF,Alexander --,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85140,85140,85140,85140,33,ALEXANDER,You just said it was up to me. And I don't want to be a warrior.,1    INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85141,85141,85141,85141,34,PICARD,"As a result, the Kearsarge won't be able to rendezvous with us for another four days.",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85142,85142,85142,85142,35,RIKER,Will we be holding position here until it arrives?,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85143,85143,85143,85143,36,PICARD,"Yes. And, as it looks as though we'll have a few days of relative quiet, I'm going to take advantage of the time by visiting the Hatarian System. There are ancient ruins there just being excavated.",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85144,85144,85144,85144,37,DATA,The delay will also make it possible for Stellar Dynamics to complete their study of the Vodrey Nebula.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85145,85145,85145,85145,38,RIKER,I'll let them know they can have more access to the lateral sensor grid.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85146,85146,85146,85146,39,PICARD,This might be a good time to recalibrate the weapon targeting array.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85147,85147,85147,85147,40,PICARD,Mister Worf?,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85148,85148,85148,85148,41,WORF,"Yes, sir. I will begin the procedure immediately.",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85149,85149,85149,85149,42,PICARD,Very good. Dismissed.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85150,85150,85150,85150,43,PICARD,Lieutenant... could I have a word with you?,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85151,85151,85151,85151,44,PICARD,Several times during the briefing you seemed a bit... distracted.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85152,85152,85152,85152,45,WORF,"I apologize. In the future, I will make sure my personal affairs do not interfere with my duties.",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85153,85153,85153,85153,46,PICARD,Is everything all right?,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85154,85154,85154,85154,47,WORF,I... am having problems with Alexander. He has made it clear that he does not wish to participate in the First Rite of Ascension.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85155,85155,85155,85155,48,PICARD,I see...,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85156,85156,85156,85156,49,WORF,"I have tried to tell him that it is an important part of a young Klington's life, but he does not understand...",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85157,85157,85157,85157,50,PICARD,He's had so little opportunity to spend time among Klingons... I doubt if he fully appreciates what a rich cultural heritage he comes from.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85158,85158,85158,85158,51,WORF,"The festival of Kot'baval begins tomorrow. If he could take part in it, he would see that there is much more to Klingon life than what I have been able to show him... if only we were nearer the homeworld.",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85159,85159,85159,85159,52,PICARD,What about the Klingon outpost on Maranga Four... I'm sure they'll celebrate the festival there.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85160,85160,85160,85160,53,WORF,"Yes... but the outpost is on the far side of the Vodrey Nebula, it is three days away by shuttle...",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85161,85161,85161,85161,54,PICARD,"The Enterprise could be there in a fraction of that time, and still be back here for our rendezvous.",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85162,85162,85162,85162,55,WORF,"Sir, I could not ask you to --",2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85163,85163,85163,85163,56,PICARD,I'm willing to bet Stellar Dynamics would like nothing better than to make a trip around the Nebula; it'll give them the chance to study it that much more thoroughly.,2    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85164,85164,85164,85164,57,WORF,Bok'ta ku'mo.,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85165,85165,85165,85165,58,GEORDI,Who's that?,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85166,85166,85166,85166,59,WORF,That is the tyrant Molor. He was so strong that no one could stand against him.,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85167,85167,85167,85167,60,SINGER,"Nok'tar be'got, hosh'ar te'not... ?",4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85168,85168,85168,85168,61,BEVERLY,What's he saying?,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85169,85169,85169,85169,62,WORF,He is asking if anyone else will have the courage to stand up to Molor...,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85170,85170,85170,85170,63,SINGER,Nok'tar be'got... ?,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85171,85171,85171,85171,64,WORF,"Ki'rok Molor, ki'rok!",4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85172,85172,85172,85172,65,MOLOR,Ni'tokor bak'to!,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85173,85173,85173,85173,66,MOLOR,Ba'jak tu'mo!,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85174,85174,85174,85174,67,WORF,O'tak tu'ro!,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85175,85175,85175,85175,68,WORF,Nok'tar be'got?,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85176,85176,85176,85176,69,WORF,Hosh'ar te'not?,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85177,85177,85177,85177,70,ALEXANDER,"Ki'rok Molor, ki'rok!",4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85178,85178,85178,85178,71,MOLOR,What's this... ?,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85179,85179,85179,85179,72,MOLOR,Jik'ta! You have wounded me!,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85180,85180,85180,85180,73,WORF,You fought well.,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85181,85181,85181,85181,74,ALEXANDER,What happens now?,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85182,85182,85182,85182,75,WORF,Only one man can stand against Molor.,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85183,85183,85183,85183,76,ALEXANDER,It's Kahless!,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85184,85184,85184,85184,77,SINGER,Nok'til Kahless. Molor gik'tal!,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85185,85185,85185,85185,78,WORF,Kahless would rather die than live under Molor's tyranny...,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,-0.5994
+85186,85186,85186,85186,79,ALEXANDER,Ni'lot Kahless!,4    EXT. KLINGON OUTPOST - DAY,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85187,85187,85187,85187,80,ALEXANDER,Father --,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85188,85188,85188,85188,81,WORF,Where have you been?,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85189,85189,85189,85189,82,ALEXANDER,We were watching the fire dancers.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85190,85190,85190,85190,83,WORF,We?,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85191,85191,85191,85191,84,ALEXANDER,K'Nor and Bar'el -- they live here on the outpost. I need some money.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85192,85192,85192,85192,85,WORF,What for?,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85193,85193,85193,85193,86,ALEXANDER,There's a man over there who's got Molor's head in a box -- the real Molor.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85194,85194,85194,85194,87,WORF,That is impossible. Molor died centuries ago.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85195,85195,85195,85195,88,ALEXANDER,I know -- it's mummified. He said he'd show it to us for fifty darseks.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85196,85196,85196,85196,89,WORF,He is trying to take your money.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85197,85197,85197,85197,90,ALEXANDER,"Please, Father. He's waiting.",5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85198,85198,85198,85198,91,WORF,No. It is late. We should go home.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85199,85199,85199,85199,92,ALEXANDER,But --,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85200,85200,85200,85200,93,WORF,Alexander.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85201,85201,85201,85201,94,WORF,"Come, it is time to go.",5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85202,85202,85202,85202,95,ALEXANDER,I have to say goodbye.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85203,85203,85203,85203,96,WORF,You can see your friends again tomorrow.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85204,85204,85204,85204,97,ALEXANDER,We're coming back?,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85205,85205,85205,85205,98,WORF,If you want to.,5    EXT. KLINGON OUTPOST - NIGHT,KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85206,85206,85206,85206,99,WORF,"Alexander, run --",8    EXT. KLINGON OUTPOST - CONTINUOUS (OPTICAL),KLINGON OUTPOST - CONTINUOUS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85207,85207,85207,85207,100,K'MTAR,Ni'tokor bak'to!,8    EXT. KLINGON OUTPOST - CONTINUOUS (OPTICAL),KLINGON OUTPOST - CONTINUOUS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85208,85208,85208,85208,101,K'MTAR,"K'pla, Worf. They were no match for us.",8    EXT. KLINGON OUTPOST - CONTINUOUS (OPTICAL),KLINGON OUTPOST - CONTINUOUS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85209,85209,85209,85209,102,WORF,I've seen you somewhere before. Who are you?,8    EXT. KLINGON OUTPOST - CONTINUOUS (OPTICAL),KLINGON OUTPOST - CONTINUOUS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85210,85210,85210,85210,103,K'MTAR,A friend...,8    EXT. KLINGON OUTPOST - CONTINUOUS (OPTICAL),KLINGON OUTPOST - CONTINUOUS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85211,85211,85211,85211,104,WORF,Are you... K'mtar?,8    EXT. KLINGON OUTPOST - CONTINUOUS (OPTICAL),KLINGON OUTPOST - CONTINUOUS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85212,85212,85212,85212,105,K'MTAR,Your brother sent me here to protect you...,8    EXT. KLINGON OUTPOST - CONTINUOUS (OPTICAL),KLINGON OUTPOST - CONTINUOUS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85213,85213,85213,85213,106,WORF,He is gin'tak to the house of Mogh...,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85214,85214,85214,85214,107,RIKER,Gin'tak?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85215,85215,85215,85215,108,WORF,An advisor so trusted that he is made part of a family.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85216,85216,85216,85216,109,RIKER,Do you have any idea who was behind the attack?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85217,85217,85217,85217,110,K'MTAR,It is a Klingon matter. Not your concern.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85218,85218,85218,85218,111,RIKER,One of my officers was almost killed. That makes it my concern.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85219,85219,85219,85219,112,K'MTAR,Recently rumors began to circulate on the homeworld that an assassination attempt was going to be made against the family of Mogh. Kurn sent me to make sure nothing happened to Worf.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85220,85220,85220,85220,113,RIKER,Why didn't you warn him before the attack was made?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85221,85221,85221,85221,114,K'MTAR,"I tried to contact him by subspace, but was told Worf wasn't aboard. I decided to beam directly to the surface.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85222,85222,85222,85222,115,WORF,One of the attackers dropped this dagger. The design... represents the house of Duras.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85223,85223,85223,85223,116,K'MTAR,"We have other evidence that indicates the Duras sisters, Lursa and B'Etor, were behind the attack.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85224,85224,85224,85224,117,RIKER,What do you think they're after?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85225,85225,85225,85225,118,K'MTAR,"Kurn's seat on the council, of course.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85226,85226,85226,85226,119,WORF,We can not allow their attack on our house to go unanswered.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85227,85227,85227,85227,120,K'MTAR,First we have to find them... and they've been elusive.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85228,85228,85228,85228,121,RIKER,"At one point they were at Deep Space Nine, trying to sell bilitrium explosives.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85229,85229,85229,85229,122,K'MTAR,That was months ago. No one knows where they went from there.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85230,85230,85230,85230,123,RIKER,"Maybe we can find out. We've arranged quarters for you, if you'd like to stay aboard.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85231,85231,85231,85231,124,K'MTAR,I would. Worf and I have much to discuss.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85232,85232,85232,85232,125,K'MTAR,"I'll send Kurn a message telling him what happened, but it will be days before he receives it -- he's gone to the Hitora colony as Gowron's representative.",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85233,85233,85233,85233,126,WORF,"K'mtar, why did you treat Commander Riker so disrespectfully?",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85234,85234,85234,85234,127,WORF,You were... rude.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85235,85235,85235,85235,128,K'MTAR,"I may have been rude by human standards, but I meant no disrespect.",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85236,85236,85236,85236,129,K'MTAR ,"What's the matter Worf, have you been living among humans so long that you've forgotten how Klingons behave?",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85237,85237,85237,85237,130,WORF,I have not forgotten... I am merely pointing out that their ways our different from ours.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85238,85238,85238,85238,131,K'MTAR,"I trust you've made your son aware of that fact, as well?",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85239,85239,85239,85239,132,WORF,Of course I have.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85240,85240,85240,85240,133,K'MTAR,"Good. Because someday Alexander may be called upon to lead the house of Mogh. Kurn has no male heir, and he wants to be sure that Alexander is preparing himself.",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85241,85241,85241,85241,134,WORF,Does my brother doubt my ability to raise my son as a Klingon?,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85242,85242,85242,85242,135,K'MTAR,No. But you are alone among humans. It cannot be easy to keep our ways.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85243,85243,85243,85243,136,WORF,No... it has not been easy.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,-0.3412
+85244,85244,85244,85244,137,K'MTAR,How are his fighting skills? Can he handle a Bat'leth?,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,-0.4329
+85245,85245,85245,85245,138,WORF,He is learning... he could be better.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.4404
+85246,85246,85246,85246,139,K'MTAR,He must be. He's not far from the age of ascension.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85247,85247,85247,85247,140,WORF,Actually... Alexander has not committed himself to undergoing the rite.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85248,85248,85248,85248,141,K'MTAR,What?,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85249,85249,85249,85249,142,WORF,"I have tried to make him see how important it is, but he will not listen to me.",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85250,85250,85250,85250,143,K'MTAR,"Perhaps together, you and I can find a way to spark the boy's interest in his heritage.",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85251,85251,85251,85251,144,WORF,I would be grateful for any help you could give.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85252,85252,85252,85252,145,K'MTAR,"Tomorrow, then.",11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85253,85253,85253,85253,146,K'MTAR,May I say goodnight to him?,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85254,85254,85254,85254,147,WORF,Of course.,11   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85255,85255,85255,85255,148,K'MTAR,Is this your mother?,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85256,85256,85256,85256,149,ALEXANDER,She died when I was little.,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85257,85257,85257,85257,150,K'MTAR,"You miss her a great deal, don't you... ?",12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85258,85258,85258,85258,151,K'MTAR,It must be hard for you... being the only Klingon your age on board this ship.,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85259,85259,85259,85259,152,ALEXANDER,Sometimes...,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85260,85260,85260,85260,153,K'MTAR,Have you ever been to the homeworld?,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85261,85261,85261,85261,154,ALEXANDER,No...,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85262,85262,85262,85262,155,K'MTAR,I think you'd like it there. At your uncle's house there is a lake where you can swim. The water is so clear you can see to the bottom.,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85263,85263,85263,85263,156,ALEXANDER,Really?,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85264,85264,85264,85264,157,K'MTAR,And you have cousins there. They want to meet you.,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85265,85265,85265,85265,158,ALEXANDER,I don't know...,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85266,85266,85266,85266,159,K'MTAR,I understand. You're afraid... you don't know if the Home World is safe.,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85267,85267,85267,85267,160,ALEXANDER,Yes...,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85268,85268,85268,85268,161,K'MTAR,What happened today... on the planet... was frightening. You're still troubled...,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85269,85269,85269,85269,162,ALEXANDER,I thought they were going to kill my father.,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85270,85270,85270,85270,163,K'MTAR,You must have wanted to help us fight them off.,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85271,85271,85271,85271,164,ALEXANDER,I didn't know what to do...,12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85272,85272,85272,85272,165,K'MTAR,"Someday, if you work hard, you'll be a warrior... a Klingon warrior, and you'll always feel safe because you'll know how to defend yourself. And do you know what else? If anyone ever tries to hurt your father again, you'll be able to fight at his side and make sure nothing happens to him. What do you think of that?",12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,-0.3736
+85273,85273,85273,85273,166,K'MTAR,"Good night, Alexander. Dream well.",12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.7184
+85274,85274,85274,85274,167,ALEXANDER,"Good night, K'mtar.",12   INT. BEDROOM,BEDROOM,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.4404
+85275,85275,85275,85275,168,RIKER,Any luck?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85276,85276,85276,85276,169,DATA,Starfleet records contain no mention of the Duras sisters after their departure from Deep Space Nine.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85277,85277,85277,85277,170,K'MTAR,Didn't I tell you as much?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85278,85278,85278,85278,171,RIKER,Have you been able to make contact with Deep Space Nine?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85279,85279,85279,85279,172,WORF,"I am being patched through now, sir...",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85280,85280,85280,85280,173,RIKER,On screen.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85281,85281,85281,85281,174,RIKER,Quark...,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85282,85282,85282,85282,175,RIKER,I see you remember me.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85283,85283,85283,85283,176,QUARK,How could I forget the only man ever to win triple down dabo at one of my tables... ?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85284,85284,85284,85284,177,RIKER,And how could I forget that you didn't have enough latinum to cover my winnings?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85285,85285,85285,85285,178,QUARK,"I thought I explained that my brother had misplaced the key to the safe. Besides, those vouchers I gave you are every bit as good as latinum.",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85286,85286,85286,85286,179,RIKER,Not exactly. You can spend latinum just about anywhere. Those vouchers are only good at your bar.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85287,85287,85287,85287,180,QUARK,I look forward to seeing you upon your return... Is that what this is about... you're on your way and you're calling to reserve a Holosuite program... ?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85288,85288,85288,85288,181,RIKER,"Actually, I was hoping you could help me with something else.",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85289,85289,85289,85289,182,QUARK,What would that be... ?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85290,85290,85290,85290,183,RIKER,I'm looking for some Klingon friends of mine... the Duras sisters -- Lursa and B'Etor?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85291,85291,85291,85291,184,QUARK,"Oh, yes... Lursa and B'Etor... Big talk... small tips.",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85292,85292,85292,85292,185,RIKER,I thought you might know where they went.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85293,85293,85293,85293,186,QUARK,Me? What makes you think I'd know... ?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85294,85294,85294,85294,187,RIKER,"Commander Sisko said if anyone would know, you would...",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85295,85295,85295,85295,188,QUARK,"He flatters me. Well... I did hear a rumor, actually...",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85296,85296,85296,85296,189,RIKER,What kind of rumor?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85297,85297,85297,85297,190,QUARK,I don't know... I'm sure it was told to me in confidence...,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85298,85298,85298,85298,191,RIKER,"And how much is your ""confidence"" worth?",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85299,85299,85299,85299,192,QUARK,"How many vouchers do you have, again?",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85300,85300,85300,85300,193,RIKER,Enough for twelve bars of latinum.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85301,85301,85301,85301,194,RIKER,I'll be glad to return them.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85302,85302,85302,85302,195,QUARK,Ah. I believe the rumor was... that the sisters were trying to buy some second-hand mining equipment.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85303,85303,85303,85303,196,RIKER,What for?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85304,85304,85304,85304,197,QUARK,"They learned of a magnesite deposit in the Kalla system... it belongs to the Pakleds, but those fools don't even know it's there. Your friends were trying to get at it.",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85305,85305,85305,85305,198,RIKER,All right. I'll send you those vouchers...,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85306,85306,85306,85306,199,QUARK,Don't bother... I voided them while we've been talking.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85307,85307,85307,85307,200,RIKER,"So long, Quark...",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85308,85308,85308,85308,201,RIKER,How long would it take us to reach the Kalla system?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85309,85309,85309,85309,202,WORF,Approximately sixteen hours.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85310,85310,85310,85310,203,K'MTAR,Couldn't he have been lying?,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85311,85311,85311,85311,204,RIKER,Why would he? I'd just end up knocking on his door again in a few days -- and I wouldn't be in as good a mood.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85312,85312,85312,85312,205,K'MTAR,"I congratulate you, Commander. I didn't think it would be possible to find the sisters.",13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85313,85313,85313,85313,206,RIKER,Take us out of orbit.,13   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85314,85314,85314,85314,207,WORF,Today we will work on the Koh'manara block... it is a combination of the koh'bala pivot and the pak'ara thrust -- the forms I taught you last week.,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85315,85315,85315,85315,208,ALEXANDER,"Yes, Father...",14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85316,85316,85316,85316,209,WORF,"Alexander, have I not taught you to treat your sword with respect?",14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85317,85317,85317,85317,210,K'MTAR,"You're not looking forward to training, are you?",14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85318,85318,85318,85318,211,ALEXANDER,Not really...,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85319,85319,85319,85319,212,K'MTAR,It can be boring repeating the same moves over and over again.,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85320,85320,85320,85320,213,WORF,You must master the forms before you can apply them.,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85321,85321,85321,85321,214,K'MTAR,"That's true, but I was thinking we might try something different today.",14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85322,85322,85322,85322,215,K'MTAR,I took the liberty of creating a Holodeck program.,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85323,85323,85323,85323,216,WORF,What kind of program?,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85324,85324,85324,85324,217,K'MTAR,I'll show you...,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85325,85325,85325,85325,218,K'MTAR,Computer... run program K'mtar alpha-one.,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85326,85326,85326,85326,219,COMPUTER,Program initiated. Enter when ready.,14   INT. CORRIDOR,CORRIDOR,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85327,85327,85327,85327,220,ALEXANDER,Why did you want to recreate this?,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85328,85328,85328,85328,221,K'MTAR,"You said you wished you'd been able to help your father fight, but you didn't know how...",16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85329,85329,85329,85329,222,K'MTAR,You've probably thought about the attack over and over again.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85330,85330,85330,85330,223,ALEXANDER,Yes...,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85331,85331,85331,85331,224,K'MTAR,Then let's see what happens this time.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85332,85332,85332,85332,225,K'MTAR,"Computer, give us two Klingon warriors.",16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85333,85333,85333,85333,226,ALEXANDER,How can I fight somebody that big?,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85334,85334,85334,85334,227,K'MTAR,It is not size that matters. Cunning... skill... and observation are the most important weapons.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85335,85335,85335,85335,228,K'MTAR,"(continuing, a battle cry) Ni'tokor bak'to!",16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85336,85336,85336,85336,229,K'MTAR,Freeze program.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85337,85337,85337,85337,230,K'MTAR,"Look what this ko'tal is doing. See his legs, they give a clue to what his next move will be.",16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85338,85338,85338,85338,231,ALEXANDER,His weight is all on his right foot.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85339,85339,85339,85339,232,WORF,"Yes, he's going to have to shift it to regain his balance.",16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85340,85340,85340,85340,233,K'MTAR,"Stand ready. Computer, resume program.",16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85341,85341,85341,85341,234,K'MTAR,Po'tajg!,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85342,85342,85342,85342,235,K'MTAR,Finish him.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85343,85343,85343,85343,236,K'MTAR,Freeze program.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85344,85344,85344,85344,237,WORF,You should have killed him when you had the chance.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85345,85345,85345,85345,238,K'MTAR,Why didn't you?,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85346,85346,85346,85346,239,ALEXANDER,I... I don't know...,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85347,85347,85347,85347,240,K'MTAR,Look at him! He didn't care that you showed him mercy. He was going to kill you.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85348,85348,85348,85348,241,WORF,K'mtar... enough.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85349,85349,85349,85349,242,K'MTAR,If this were real he'd be dead now.,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85350,85350,85350,85350,243,WORF,Alexander --,16   EXT. KLINGON OUTPOST - DAY (OPTICAL),KLINGON OUTPOST - DAY,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85351,85351,85351,85351,244,DATA,We are approaching Kalla Three.,18   INT. BRIDGE,BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85352,85352,85352,85352,245,RIKER,Assume a standard orbit. Any evidence of a mining operation?,18   INT. BRIDGE,BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85353,85353,85353,85353,246,WORF,"A shaft has been cut through the outer crust... there is evidence of machinery, but it does not appear to be in use.",18   INT. BRIDGE,BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85354,85354,85354,85354,247,RIKER,Life signs?,18   INT. BRIDGE,BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85355,85355,85355,85355,248,DATA,It is difficult to say. The magnesite is interfering with bioreadings.,18   INT. BRIDGE,BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85356,85356,85356,85356,249,RIKER,Assemble an Away Team.,18   INT. BRIDGE,BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85357,85357,85357,85357,250,GEORDI,Who are you?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85358,85358,85358,85358,251,GORTA,Gorta... I'm Gorta...,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85359,85359,85359,85359,252,WORF,What are you doing on this planet?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85360,85360,85360,85360,253,GORTA,I... crashed here.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85361,85361,85361,85361,254,DATA,Then you are denying involvement in illegal mining activities.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85362,85362,85362,85362,255,GORTA,(as if he's realizing only now) Mining? So that's what all this equipment is for...,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85363,85363,85363,85363,256,DATA,I suspect that you are feigning ignorance.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85364,85364,85364,85364,257,GORTA,What a thing to say.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85365,85365,85365,85365,258,WORF,"We are looking for two Klingon women, sisters --",21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85366,85366,85366,85366,259,GORTA,Lursa! B'Etor? Do you know where they are?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85367,85367,85367,85367,260,GEORDI,Actually we were hoping you did.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85368,85368,85368,85368,261,GORTA,Maybe I do...,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85369,85369,85369,85369,262,DATA,Would you be willing to share your information with us?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85370,85370,85370,85370,263,GORTA,My personal code of conduct prohibits sharing. But I'd consider a trade...,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85371,85371,85371,85371,264,GEORDI,"Does your personal code of conduct tell you that when you're stranded on a planet with no way off, you shouldn't try to cut deals?",21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85372,85372,85372,85372,265,GORTA,You have a point.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85373,85373,85373,85373,266,DATA,We could certainly provide you with passage off this planet in exchange for information.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85374,85374,85374,85374,267,GORTA,Could you perhaps... fail to tell the Pakleds that we were mining their ore?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85375,85375,85375,85375,268,GEORDI,"Don't push your luck. But if you can get us to the Duras sisters, I'll see what I can do.",21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85376,85376,85376,85376,269,GORTA,"The Duras sisters... they are magnificent, aren't they?",21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85377,85377,85377,85377,270,WORF,Where are they now?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85378,85378,85378,85378,271,GORTA,"Selling the ore, I imagine. They took everything, the ore, the ship... Such treachery... I can't help but adore them.",21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85379,85379,85379,85379,272,DATA,What kind of ship do they have?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85380,85380,85380,85380,273,GORTA,A Bird of Prey. With a working cloaking device. Who knows how they got hold of that...,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85381,85381,85381,85381,274,WORF,And where have they gone?,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85382,85382,85382,85382,275,GORTA,We were going to sell the ore to a Yridian trader. We were supposed to meet him in the Ufandi system.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85383,85383,85383,85383,276,DATA,Gather your belongings. It is time to leave.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85384,85384,85384,85384,277,GORTA,Like I said... they took everything.,21   INT. A ROCKY PIT,A ROCKY PIT,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85385,85385,85385,85385,278,K'MTAR,Worf...,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85386,85386,85386,85386,279,K'MTAR,I'm sorry about what happened. I shouldn't have gotten so angry. It's just that... I'm worried about Alexander.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85387,85387,85387,85387,280,WORF,As am I.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85388,85388,85388,85388,281,K'MTAR,Kurn told me that his mother actively discouraged him from exploring his Klingon heritage...,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85389,85389,85389,85389,282,WORF,"When he came to live with me, he knew nothing of our ways. He often reminds me of things his mother said to him... I try not to disregard her wishes, I want him to honor her memory...",22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85390,85390,85390,85390,283,K'MTAR,Someday... I'm sure he'll appreciate you. And be grateful for all you've given him.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85391,85391,85391,85391,284,K'MTAR,"Still, compared to other boys his age, Alexander's fighting skills are years behind.",22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85392,85392,85392,85392,285,WORF,I know. He has not put in the time he needs to learn the skills.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85393,85393,85393,85393,286,K'MTAR,I think you should consider sending him to the training Academy on Ogat. Your brother is an influential man; he could see to it that Alexander was admitted.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85394,85394,85394,85394,287,WORF,Send him... to Ogat?,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85395,85395,85395,85395,288,K'MTAR,"I'm only thinking of what's best for him. At the Academy he'd learn our ways, he'd live like a Klingon.",22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85396,85396,85396,85396,289,WORF,"I want him to learn our ways, but... this is his home.",22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85397,85397,85397,85397,290,K'MTAR,How can you expect him to lead our house someday when all he's known is life aboard a Federation starship?,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85398,85398,85398,85398,291,WORF,He is my son; he belongs with me.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85399,85399,85399,85399,292,K'MTAR,"The boy is more human than Klingon. If he stays here, he'll never be a warrior. He'll never be able to defend our family against its enemies.",22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85400,85400,85400,85400,293,WORF,Enough... the decision is mine.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85401,85401,85401,85401,294,K'MTAR,Not necessarily. It would be within my rights to invoke ya'nora kor.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85402,85402,85402,85402,295,WORF,You would challenge my fitness to raise my own son?,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85403,85403,85403,85403,296,K'MTAR,"For the good of our house, yes.",22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85404,85404,85404,85404,297,K'MTAR,Worf... I beg you... stop thinking of yourself. It's Alexander we must consider. Look into your heart... and do what's best for him.,22   INT. TEN FORWARD,TEN FORWARD,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85405,85405,85405,85405,298,TROI,"-- if K'mtar invoked ya'nora kor, your vote would cancel his, and it would be up to your brother to decide who would get custody of Alexander.",23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85406,85406,85406,85406,299,WORF,I am confident my brother would not vote against me.,23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85407,85407,85407,85407,300,TROI,You don't sound confident...,23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85408,85408,85408,85408,301,WORF,Perhaps I should let Alexander know what is at stake... it might induce him to spend more time training.,23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85409,85409,85409,85409,302,TROI,I'm not sure that's a good idea... it might scare him.,23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85410,85410,85410,85410,303,WORF,I should have tried harder... I should have taken him to visit the homeworld...,23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85411,85411,85411,85411,304,TROI,"Worf... Alexander is part human, and that part of him is every bit as important as his Klingon side. I think you've done a wonderful job of exposing him to both sides of his heritage.",23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85412,85412,85412,85412,305,WORF,"But by doing that, I may have made it impossible for him to be accepted as a true Klingon.",23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85413,85413,85413,85413,306,TROI,"There are those who'd say you're not a true Klingon, just because you wear that uniform.",23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85414,85414,85414,85414,307,TROI,"The truth is you've found a balance within yourself, a balance that feels right to you. You have to trust that Alexander will be able to find his own balance. Just as you did.",23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85415,85415,85415,85415,308,WORF,Part of me wants to give him that freedom... but what if he turns away from his Klingon heritage? What will happen to my father's house? Who will lead it?,23   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85416,85416,85416,85416,309,K'MTAR,"-- Kahless was determined to teach his brother a lesson for having told a lie, but Morath refused to fight his brother, and instead ran away. Kahless pursued him across valleys and over mountains, all the way to the edge of the sea. And there on the shore, they fought for --",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85417,85417,85417,85417,310,ALEXANDER,"Twelve days and twelve nights. I know, I've heard this story before.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85418,85418,85418,85418,311,K'MTAR,"Alexander, it is important to tell these stories, even if we already know them.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85419,85419,85419,85419,312,ALEXANDER,Why was Kahless so mad about the lie his brother told?,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85420,85420,85420,85420,313,K'MTAR,Because it made him look like a coward.,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85421,85421,85421,85421,314,ALEXANDER,"If Kahless had just let him explain what happened, maybe they wouldn't have had to fight about it.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85422,85422,85422,85422,315,K'MTAR,You are missing the point --,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85423,85423,85423,85423,316,ALEXANDER,And I don't see what's so wrong with running away -- maybe Morath didn't want to fight his brother because he didn't want to have to kill him.,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85424,85424,85424,85424,317,K'MTAR,He ran because he was a coward --,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85425,85425,85425,85425,318,ALEXANDER,How do you know that's why?,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85426,85426,85426,85426,319,K'MTAR,No more questions! These are our stories. A warrior must learn how to interpret them properly.,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85427,85427,85427,85427,320,ALEXANDER,I'm trying to --,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85428,85428,85428,85428,321,K'MTAR,"No, your head is full of foolish human notions about the way things are. You are Klingon. You must begin to act like one.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85429,85429,85429,85429,322,ALEXANDER,"I'm part human, too.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85430,85430,85430,85430,323,K'MTAR,"Listen to me, Alexander... when a human looks at you, he doesn't see himself, he sees a Klingon.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85431,85431,85431,85431,324,ALEXANDER,It doesn't matter what I look like.,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85432,85432,85432,85432,325,K'MTAR,"It does. You're different from everyone aboard this ship. And no matter how much people pretend otherwise, they'll always see you as different.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85433,85433,85433,85433,326,ALEXANDER,That's not true...,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85434,85434,85434,85434,327,K'MTAR,"It is. The only way you'll ever feel like you really belong, is if you leave here and go live with your own kind.",24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85435,85435,85435,85435,328,K'MTAR,I know a Klingon school you could go to; you'd be welcome there. They'd teach you how to be a warrior -- prepare you for the Rite of Ascension.,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85436,85436,85436,85436,329,ALEXANDER,I don't know if I want to do that...,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85437,85437,85437,85437,330,K'MTAR,After you've been there a while... you'll find you won't want to do anything else.,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85438,85438,85438,85438,331,ALEXANDER,But I don't want to leave the Enterprise --,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85439,85439,85439,85439,332,K'MTAR,You must! Everything depends on it.,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85440,85440,85440,85440,333,ALEXANDER,I thought you were different. I thought you understood me. But you don't. You're just like my Father. All you care about is me becoming a warrior. Why don't you just leave me alone!,24   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85441,85441,85441,85441,334,RIKER ,"First Officer's Log, stardate 47779.4. We've entered the Ufandi system, where we believe the Duras sisters might have come to sell the ore they mined on Kalla Three.",25   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85442,85442,85442,85442,335,DATA,I am detecting a vessel holding position near the third planet... It is a Yridian freighter.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85443,85443,85443,85443,336,RIKER,Put it on screen.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85444,85444,85444,85444,337,RIKER,Scan for magnesite in its hold.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85445,85445,85445,85445,338,DATA,The resonance signature indicates that there is magnesite ore present...,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85446,85446,85446,85446,339,RIKER,Then we're too late. The sisters have already been here.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85447,85447,85447,85447,340,TROI,Somehow I doubt the Yridians are going to be very forthcoming about where they might have gone...,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85448,85448,85448,85448,341,DATA,"Sir, readings indicate that there are only five hundred kilograms of ore in the Yridian's hold...",26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85449,85449,85449,85449,342,WORF,There should be over ten thousand kilograms...,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85450,85450,85450,85450,343,RIKER,That's odd... Hail them.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85451,85451,85451,85451,344,RIKER,I'm Commander Riker of the Federation Starship Enterprise.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85452,85452,85452,85452,345,YRIDIAN,I am Yog... why are we speaking?,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85453,85453,85453,85453,346,RIKER,Our sensors indicate you're carrying magnesite ore...,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85454,85454,85454,85454,347,YRIDIAN,"Magnesite, yes.",26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85455,85455,85455,85455,348,RIKER,Where did you get it?,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85456,85456,85456,85456,349,YRIDIAN,From a Corvallen. For a good price.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85457,85457,85457,85457,350,RIKER,Where's this... Corvallen now? I have orders to acquire some magnesite.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85458,85458,85458,85458,351,YRIDIAN,He is gone... Where? I don't know.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85459,85459,85459,85459,352,RIKER,Wouldn't you be interested in selling me the ore you're carrying?,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85460,85460,85460,85460,353,YRIDIAN,"No, I have a buyer.",26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85461,85461,85461,85461,354,RIKER,You haven't heard my offer.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85462,85462,85462,85462,355,RIKER,Half a gram of Anjoran bio-mimetic gel.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85463,85463,85463,85463,356,YRIDIAN,Done.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85464,85464,85464,85464,357,RIKER,"Once we've verified the ore's purity, we'll beam over the gel.",26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85465,85465,85465,85465,358,TROI,You're up to something...,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85466,85466,85466,85466,359,RIKER,Have the Transporter Room beam the ore to these coordinates.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85467,85467,85467,85467,360,DATA,"Sir, that would place the ore directly off the ship's starboard bow.",26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85468,85468,85468,85468,361,RIKER,I know.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85469,85469,85469,85469,362,WORF,Transport complete.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85470,85470,85470,85470,363,RIKER,Lock phasers on the ore and fire.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85471,85471,85471,85471,364,WORF,Firing.,26   INT. BRIDGE (OPTICAL),BRIDGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85472,85472,85472,85472,365,WORF,A Bird of Prey...,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85473,85473,85473,85473,366,RIKER,Put a tractor beam on it.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85474,85474,85474,85474,367,TROI,How did you know?,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85475,85475,85475,85475,368,RIKER,The Yridians had only part of the shipment in their hold -- I realized we must've arrived before they had the chance to transfer the rest.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85476,85476,85476,85476,369,WORF,"Sir, the Klingon ship is hailing us.",28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85477,85477,85477,85477,370,RIKER,On screen.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85478,85478,85478,85478,371,LURSA,Release our vessel at once!,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85479,85479,85479,85479,372,RIKER,I don't think so.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85480,85480,85480,85480,373,B'ETOR,We've done nothing wrong. We were engaging in a simple business transaction.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85481,85481,85481,85481,374,RIKER,We know you're dealing in stolen ore.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85482,85482,85482,85482,375,RIKER,But what I really want to talk about is the assassination attempt on Lieutenant Worf.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85483,85483,85483,85483,376,B'ETOR,What assassination attempt? This is the first I've heard of it.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85484,85484,85484,85484,377,LURSA,Did it succeed?,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85485,85485,85485,85485,378,RIKER,We have evidence that you were behind it.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85486,85486,85486,85486,379,LURSA,That is outrageous.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,-0.4588
+85487,85487,85487,85487,380,B'ETOR,What is this evidence?,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85488,85488,85488,85488,381,RIKER,Beam over and we'll show you.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85489,85489,85489,85489,382,B'ETOR,We will be there shortly.,28   INT. BRIDGE - CONTINUOUS (OPTICAL),BRIDGE - CONTINUOUS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85490,85490,85490,85490,383,WORF,This was dropped by one of the assassins...,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85491,85491,85491,85491,384,WORF,It bears the crest of your house.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85492,85492,85492,85492,385,B'ETOR,Ge'ko... kaf'la. (It's true. How can this be?),29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85493,85493,85493,85493,386,LURSA,Someone must have given it to the assassins -- to implicate us.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85494,85494,85494,85494,387,TROI,Why would someone do that?,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85495,85495,85495,85495,388,B'ETOR,In order to tarnish our good name.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85496,85496,85496,85496,389,WORF,You can't tarnish a rusted blade...,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85497,85497,85497,85497,390,LURSA,Ji'ko to'val!,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85498,85498,85498,85498,391,WORF,Gir'nak tovo'sor!,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85499,85499,85499,85499,392,RIKER,Mister Worf --,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85500,85500,85500,85500,393,RIKER,You said you had other evidence they were involved.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85501,85501,85501,85501,394,K'MTAR,Yes... on the homeworld.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85502,85502,85502,85502,395,RIKER,Then we'll set a course there. I want this cleared up.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85503,85503,85503,85503,396,K'MTAR,I will send a message to Kurn... he may wish to return to the homeworld as well.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85504,85504,85504,85504,397,B'ETOR,Bet'ala nog'tor.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85505,85505,85505,85505,398,LURSA,Impossible...,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85506,85506,85506,85506,399,TROI,What is it?,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85507,85507,85507,85507,400,B'ETOR,"These markings represent the members of our house... This symbol represents our father... Myself, my sister... and this... represents her son.",29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85508,85508,85508,85508,401,WORF,I was not aware you had a son.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85509,85509,85509,85509,402,LURSA,I do not... But I am with child...,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85510,85510,85510,85510,403,B'ETOR,She found out only a few days ago... and she's told no one but me.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85511,85511,85511,85511,404,B'ETOR,How can this marking be here? Where did this come from... ?,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85512,85512,85512,85512,405,WORF,I will talk to K'mtar.,29   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85513,85513,85513,85513,406,K'MTAR,No further.,30   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85514,85514,85514,85514,407,WORF,K'mtar... why are you doing this?,30   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85515,85515,85515,85515,408,K'MTAR,Step away from the door.,30   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85516,85516,85516,85516,409,WORF,You will have to kill me.,30   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85517,85517,85517,85517,410,K'MTAR,I won't do that. But I can stun you -- then kill the boy.,30   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85518,85518,85518,85518,411,WORF,What?,30   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85519,85519,85519,85519,412,K'MTAR,I... am Alexander.,30   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85520,85520,85520,85520,413,WORF,What... are you saying?,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85521,85521,85521,85521,414,K'MTAR,I... am your son... Alexander... I have come to this time from forty years in the future.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85522,85522,85522,85522,415,WORF,P'tak! Tell me the truth or I will kill you.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85523,85523,85523,85523,416,K'MTAR,Look at me!,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85524,85524,85524,85524,417,K'MTAR,You said when you first met me that I looked familiar.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85525,85525,85525,85525,418,WORF,I could have seen you on the Homeworld...,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85526,85526,85526,85526,419,K'MTAR,No. Look closely. I am your son.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85527,85527,85527,85527,420,WORF,If you are Alexander... you will remember the final words your mother said as she died.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85528,85528,85528,85528,421,K'MTAR,I was three years old. She was dying when we found her. She barely managed to whisper my name... and she took my hand... and placed it in yours. Then she died. You howled with rage... and then you told me to look at her... to look at death... and always to remember. And I always have.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85529,85529,85529,85529,422,WORF,How... have you done this? Come to this time?,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85530,85530,85530,85530,423,K'MTAR,Forty years from now the ways are well known. But few are willing to risk the dangers. I decided I must take the risk.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85531,85531,85531,85531,424,WORF,And you did it... in order to end your own life?,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85532,85532,85532,85532,425,K'MTAR,"I was hoping I wouldn't have to... that I could change things, change myself. But I couldn't. Everything's going to turn out the way it did before. And I can't let that happen.",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85533,85533,85533,85533,426,WORF,Why? What is going to happen that is so terrible?,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85534,85534,85534,85534,427,K'MTAR,You will be killed. Because I was naive... too weak... to be able to protect you.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85535,85535,85535,85535,428,WORF,I don't believe that...,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85536,85536,85536,85536,429,K'MTAR,I was there! I saw you murdered... and I was to blame.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85537,85537,85537,85537,430,WORF,You mustn't blame yourself.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85538,85538,85538,85538,431,K'MTAR,"You don't understand -- I never became a warrior! I became a diplomat... a ""peacemaker.""",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85539,85539,85539,85539,432,K'MTAR,"When the time came for me to lead our family -- I thought I could single-handedly put an end to the fighting between the great houses... I declared publicly that the house of Mogh would take the first step to end the feuding. There would be no more retribution, no more revenge.",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85540,85540,85540,85540,433,K'MTAR,"You tried to warn me... you tried to tell me that I mustn't show weakness... but I thought you were a foolish old man. I told you that you were a relic of an earlier time, and that a new era of peace was at hand.",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85541,85541,85541,85541,434,K'MTAR,But you were right. My enemies saw my weakness... and they moved against me.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85542,85542,85542,85542,435,K'MTAR,Unless I stop it all now... -- that boy will see his father killed on the floor of the Council Chamber.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85543,85543,85543,85543,436,WORF,"That's why you wanted to take Alexander away. To turn him into a warrior, not a peacemaker.",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85544,85544,85544,85544,437,K'MTAR,I staged the assassination attempt to frighten him... make him realize he must learn the ways of a warrior.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85545,85545,85545,85545,438,K'MTAR,If I had listened to you... if I had become the warrior you wanted... you would not have died in my arms.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85546,85546,85546,85546,439,K'MTAR,"Who is to say what the future will be now, after you have disrupted time? I may die tomorrow... or I may outlive you.",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85547,85547,85547,85547,440,WORF,"But when I die... I would like an honorable death. And the only way that is possible -- is for you accept yourself, as you are, and stay true to what you believe.",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.8674
+85548,85548,85548,85548,441,WORF,"The cause of peace is a worthy one... go back, and continue to work for it. Your struggle must continue.",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.6249
+85549,85549,85549,85549,442,K'MTAR,But it is a futile struggle...,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,-0.5927
+85550,85550,85550,85550,443,WORF,No... you've already changed things more than you realize.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85551,85551,85551,85551,444,K'MTAR,The boy I was has not changed...,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85552,85552,85552,85552,445,WORF,I'm talking about myself.,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85553,85553,85553,85553,446,WORF,You have given me a glimpse into my son's future. I see now that he has his own destiny... and I believe it will be a great one...,32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85554,85554,85554,85554,447,K'MTAR,"I love you, Father...",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85555,85555,85555,85555,448,WORF,"And I you, Alexander...",32   INT. WORF'S QUARTERS - CONTINUOUS,WORF'S QUARTER,INT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85556,85556,85556,85556,449,ALEXANDER,I've been waiting -- where's K'mtar?,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85557,85557,85557,85557,450,WORF,He had to leave... he was called away...,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85558,85558,85558,85558,451,ALEXANDER,He never said goodbye.,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85559,85559,85559,85559,452,WORF,He asked me to say goodbye for him.,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85560,85560,85560,85560,453,WORF,"He wanted me to tell you that no matter what happens, no matter what you decide to do with your life, he'll always care about you a great deal.",34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85561,85561,85561,85561,454,ALEXANDER,When will I see him again?,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85562,85562,85562,85562,455,WORF,It may be a long time...,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85563,85563,85563,85563,456,ALEXANDER,We should start practice...,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85564,85564,85564,85564,457,WORF,Alexander... there will be plenty of time for training. Why don't we... just spend some time together?,34   EXT. HOLODECK/KLINGON OUTPOST - DAY,HOLODECK/KLINGON OUTPOS,EXT.,Firstborn,1994-01-28,The Next Generation,273.txt,0.0
+85565,85565,85565,85565,0,RIKER,Come in.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85566,85566,85566,85566,1,RIKER,Excellent. Exactly what I need.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85567,85567,85567,85567,2,RIKER,"Well, Doctor, and bearing gifts?",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85568,85568,85568,85568,3,PULASKI,Ale from Ennan Six... your omelets deserve no less.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85569,85569,85569,85569,4,DATA,This is not an efficient method for the preparation of sustenance.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85570,85570,85570,85570,5,RIKER,"You're right, Data. The ship's computer is much more efficient, but it lacks the subtlety needed for great cooking. It mixes the ingredients to precise measurements. There's no flair, no individuality, and Data, as we both know... inspiration and flair are the difference between artistry and mere competence.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85571,85571,85571,85571,6,PULASKI,"For much of the history of mankind, the breaking of bread was a sign of friendship and community. Something we have gotten away from in the twenty-fourth century. (re: Riker and the whisk) You have a practiced hand, Commander.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85572,85572,85572,85572,7,RIKER,I have my father to thank for that.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.3612
+85573,85573,85573,85573,8,PULASKI,"Oh, your father liked to cook?",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.4215
+85574,85574,85574,85574,9,RIKER,"No, he hated it. It was a chore left to me.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,-0.7506
+85575,85575,85575,85575,10,WORF,"It is my understanding that in most human families, the woman shares in the cooking.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85576,85576,85576,85576,11,RIKER,There were only the two of us. I never knew my mother. She died when I was very young.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85577,85577,85577,85577,12,GEORDI,Where did you get the eggs?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85578,85578,85578,85578,13,RIKER,During our last stop.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85579,85579,85579,85579,14,GEORDI,At Starbase seventy-three?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85580,85580,85580,85580,15,RIKER,Yes.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85581,85581,85581,85581,16,GEORDI,What kind of eggs did you say these are?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85582,85582,85582,85582,17,RIKER,'Owon.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85583,85583,85583,85583,18,RIKER,A cook's only as good as his ingredients.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.4404
+85584,85584,85584,85584,19,WORF,Delicious.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.5719
+85585,85585,85585,85585,20,PICARD,Commander Riker...,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85586,85586,85586,85586,21,RIKER,"Yes, Captain.",2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85587,85587,85587,85587,22,PICARD,Would you join me on the bridge?,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85588,85588,85588,85588,23,RIKER,On my way.,2    INT. RIKER'S QUARTERS (OPTICAL),RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85589,85589,85589,85589,24,PICARD,We have picked up an automated signal from a Federation shuttlecraft.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85590,85590,85590,85590,25,RIKER,A shuttle? Out here?! How is that possible? We're the first manned Federation vessel to enter this area.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85591,85591,85591,85591,26,PICARD,Apparently not.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85592,85592,85592,85592,27,RIKER,So what's a shuttle doing out this far? And where's the mother ship?,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85593,85593,85593,85593,28,PICARD,I don't know.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85594,85594,85594,85594,29,WORF,Sensors indicate there is at least one life-form on board the shuttle. Humanoid.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85595,85595,85595,85595,30,PICARD,"Perhaps someone to answer your questions, Number One. Open hailing frequencies.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85596,85596,85596,85596,31,WORF,"Captain, the shuttle is without power. Communication is not possible.",7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85597,85597,85597,85597,32,RIKER,Set course to intercept.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85598,85598,85598,85598,33,DATA,Estimate intercept in three minutes.,7    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85599,85599,85599,85599,34,PICARD ,"Captain's log, stardate 42679.2. While traversing an unexplored section of the galaxy en route to the Endicor system, a Federation shuttlecraft has quite suddenly appeared -- virtually out of nowhere. There are no other ships in the vicinity -- and no indications whence it came nor how it got out here.",10   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85600,85600,85600,85600,35,WORF,We are closing on shuttlecraft.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85601,85601,85601,85601,36,PICARD,On screen.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85602,85602,85602,85602,37,RIKER,Magnify.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85603,85603,85603,85603,38,RIKER,Prepare to lock tractor beam.,11   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85604,85604,85604,85604,39,DATA,Target vehicle -- we will be within tractor beam range in two zero seconds.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85605,85605,85605,85605,40,RIKER,Set automatic locking device. Alert Shuttle Bay Two.,14   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85606,85606,85606,85606,41,DATA,Locking tractor beam.,16   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85607,85607,85607,85607,42,DATA,The tractor beam has been locked.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85608,85608,85608,85608,43,PICARD,Number One.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85609,85609,85609,85609,44,RIKER,Worf -- you're with me.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85610,85610,85610,85610,45,PICARD,"Doctor Pulaski, you are needed in Shuttle Bay Two.",18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85611,85611,85611,85611,46,PULASKI,I have been monitoring. I am on my way.,18   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85612,85612,85612,85612,47,RIKER,"Well, it's a Federation shuttle all right.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85613,85613,85613,85613,48,WORF,"Yet, there are no Federation vessels or bases in this area.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85614,85614,85614,85614,49,RIKER,"NCC one-seven-zero-one-D -- USS Enterprise, shuttle number five.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85615,85615,85615,85615,50,RIKER,NCC one-seven-zero-one-D -- USS Enterprise shuttle number five.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85616,85616,85616,85616,51,WORF,How is this possible?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85617,85617,85617,85617,52,PULASKI,Commander! Come here!,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85618,85618,85618,85618,53,RIKER,(he touches his communicator) Captain?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85619,85619,85619,85619,54,PICARD,"What is it, Number One?",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85620,85620,85620,85620,55,RIKER,"Captain, are you on the bridge?",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85621,85621,85621,85621,56,PICARD,Where else would I be?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85622,85622,85622,85622,57,RIKER,"Right now, I think you had better be in Shuttle Bay Two.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85623,85623,85623,85623,58,PICARD,Why? What is it?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85624,85624,85624,85624,59,RIKER,"This you had better see for yourself and, Captain, bring Commander Data.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85625,85625,85625,85625,60,RIKER,"We have been in a lot of bizarre situations, but nothing like this.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85626,85626,85626,85626,61,PICARD,What's his condition?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85627,85627,85627,85627,62,PULASKI,"The life signs are confusing. I get a strong heartbeat, but the rhythm is off.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85628,85628,85628,85628,63,PICARD,Has he been injured?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85629,85629,85629,85629,64,PULASKI,No signs of trauma.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85630,85630,85630,85630,65,PICARD,Then why is he unconscious? What happened to him?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85631,85631,85631,85631,66,PULASKI,I can't say.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85632,85632,85632,85632,67,PULASKI,The readings from his brain waves are very... strange.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85633,85633,85633,85633,68,PICARD,Strange? In what way? Non-human? Artificial?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85634,85634,85634,85634,69,PULASKI,No -- neither. They are just out of phase.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85635,85635,85635,85635,70,PICARD,Can you revive him?,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85636,85636,85636,85636,71,PULASKI,"I won't attempt it until he's in Sickbay. (she holds the look for a beat, then:) Let's get him there.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85637,85637,85637,85637,72,PICARD,Counselor.,19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85638,85638,85638,85638,73,TROI,"I have never felt anything quite like this so it is difficult to put into words. (she pauses to gather her thoughts) That person is you. What I mean, the person we are looking at is as much Jean-Luc Picard as the person I am standing next to; beyond that there's very little of which I am sure. I will have to wait until he is conscious before knowing more.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85639,85639,85639,85639,74,PICARD,"Data, we have to know what is on the shuttle's logs.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85640,85640,85640,85640,75,DATA,"Yes, sir.",19   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85641,85641,85641,85641,76,DATA,Both primary and reserve power has been drained from the shuttle. I am going to have to connect to the Enterprise in order to activate the shuttle's systems.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85642,85642,85642,85642,77,RIKER,Lieutenant La Forge -- report to Shuttle Bay Two.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85643,85643,85643,85643,78,GEORDI,I'm on my way.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85644,85644,85644,85644,79,PICARD,"Number One, I'll be in Sickbay. Keep me informed.",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85645,85645,85645,85645,80,RIKER,"(indicating an unusual burn on the skin of the shuttle) Did you see this, Captain?",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85646,85646,85646,85646,81,PICARD,It looks like the kind of damage caused by an antimatter explosion.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85647,85647,85647,85647,82,RIKER,"Yes, the shuttle must have been just out of range.",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85648,85648,85648,85648,83,PICARD,"Data, I need those logs. Counselor.",39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85649,85649,85649,85649,84,RIKER,We'll be on the bridge.,39   INT./EXT. SHUTTLE,EXT. SHUTTLE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85650,85650,85650,85650,85,RIKER,Resume course and speed. Scanners at maximum range.,39A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85651,85651,85651,85651,86,WORF,Maximum range.,39A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85652,85652,85652,85652,87,GEORDI,You should have power now.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85653,85653,85653,85653,88,GEORDI,What happened?,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85654,85654,85654,85654,89,DATA,The polarity was not compatible.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85655,85655,85655,85655,90,GEORDI,"Not possible, the connection is idiot proof.",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85656,85656,85656,85656,91,DATA,"The power requirements of the shuttle do not match the Enterprise. We are going to need a variable phase inverter, to align the power from the Enterprise to the circuits of the shuttle.",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85657,85657,85657,85657,92,GEORDI,"Data, what do you think is going on? I don't just mean about the shuttle, I mean about all of this?",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85658,85658,85658,85658,93,DATA,I do not have enough information.,40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85659,85659,85659,85659,94,GEORDI,"The captain here, the captain there. This shuttle -- that shuttle. Commander Riker is right -- this is very strange.",40   INT. SHUTTLE BAY TWO (OPTICAL),SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85660,85660,85660,85660,95,PICARD,This smells like a set-up.,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85661,85661,85661,85661,96,TROI,A trap?,44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85662,85662,85662,85662,97,PICARD,"If it is me, me from where? And why in a shuttle? There is nothing about this which is random or happenstance. Look beneath the boards, Counselor; I expect something foul and familiar to crawl out.",44   INT. CORRIDOR - OUTSIDE SICKBAY,CORRIDO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85663,85663,85663,85663,98,PULASKI,"We have just started doing a complete work-up. The vital signs are distorted. Some of the indicators are totally depressed, others are fluctuating wildly. I can't explain any of it. But he is alive, and I don't think he's in any immediate danger.",45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85664,85664,85664,85664,99,PULASKI,The restraints are for his own protection.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85665,85665,85665,85665,100,PICARD,Have you been able to determine why he is still unconscious?,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85666,85666,85666,85666,101,PULASKI,I have been able to rule out head injury -- otherwise there is no apparent cause.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85667,85667,85667,85667,102,PICARD,Wake him.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85668,85668,85668,85668,103,PICARD,What happened?,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85669,85669,85669,85669,104,PULASKI,Apparently a normal stimulant had the opposite effect. I'll have to try something else.,45   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85670,85670,85670,85670,105,GEORDI,"There... that should give you something. Making this power adjustment is very tricky. By all rights, this connection should overload all the shuttle's circuits.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85671,85671,85671,85671,106,DATA,Perhaps you had better step back out of the way.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85672,85672,85672,85672,107,GEORDI,Remember you're not indestructible yourself.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85673,85673,85673,85673,108,DATA,Increase the power.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85674,85674,85674,85674,109,DATA,Adjust the invert two percent positive.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85675,85675,85675,85675,110,GEORDI,"That's the correct decision, but it's having the opposite effect.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85676,85676,85676,85676,111,DATA,Yes.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85677,85677,85677,85677,112,GEORDI,There is nothing I can think of which could cause such a radical change in this circuit.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85678,85678,85678,85678,113,DATA,Adjust the invert two percent negative.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85679,85679,85679,85679,114,GEORDI,"Got it. It shouldn't work, but it does.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85680,85680,85680,85680,115,GEORDI,"(continuing; stunned) Data, take a look at the stardate.",46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85681,85681,85681,85681,116,GEORDI,Four-two-six-seven-nine-point-five. (he touches his communicator) Captain.,46   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85682,85682,85682,85682,117,PICARD,Go ahead.,48   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85683,85683,85683,85683,118,GEORDI,"Captain, we have been able to activate the shuttle; the on-board clock indicates that the shuttle is six hours ahead of us.",48   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85684,85684,85684,85684,119,GEORDI,"Captain, did you read me? If the shuttle is from six hours into the future, so is the other Captain Picard.",48   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85685,85685,85685,85685,120,PICARD ,"Captain's log, supplemental. Part of the mystery has been solved. The reason there are two NCC one-seven-zero-one-D-five shuttlecrafts is because one of them is from the future... six hours to be exact. And, so presumably is the facsimile of me.",50   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85686,85686,85686,85686,121,PICARD,"Try to wake him, again.",51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85687,85687,85687,85687,122,PICARD,No!,51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85688,85688,85688,85688,123,PULASKI,It's a only a sedative.,51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85689,85689,85689,85689,124,PICARD,"I know what it is... don't sedate him. Let him be! (then, changing his tone) Please... allow him to remain conscious.",51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85690,85690,85690,85690,125,PULASKI,I have never seen anything like this.,51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85691,85691,85691,85691,126,PULASKI,"Captain, you had better sit down.",51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85692,85692,85692,85692,127,PICARD,"I'm fine, Doctor... Save your ministrations for the patient. I want a staff meeting in five minutes. Doctor, I assume you will want to remain here.",51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85693,85693,85693,85693,128,PULASKI,I will monitor the conference from here.,51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85694,85694,85694,85694,129,PICARD,"Keep me informed, Doctor -- of any change no matter how small.",51   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85695,85695,85695,85695,130,GEORDI,"Captain, we have retrieved all we are going to get from the shuttle logs, including the last visual records. Everything before this is just a jumble.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85696,85696,85696,85696,131,PICARD,Proceed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85697,85697,85697,85697,132,GEORDI,The distortion is because we had to use a phase inverter to retrieve the logs. It will improve slightly.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85698,85698,85698,85698,133,DATA,"According to the shuttle log, the Enterprise was destroyed three hours, nineteen minutes from now.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85699,85699,85699,85699,134,GEORDI,"Captain, we have a portion of your last log entry.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85700,85700,85700,85700,135,PICARD,Proceed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85701,85701,85701,85701,136,GEORDI,It's audio only.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85702,85702,85702,85702,137,PICARD ,"Captain's personal log, supplemental. For the record... I have just witnessed the total destruction of the USS Enterprise with a loss of all hands, save one. Me.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85703,85703,85703,85703,138,DATA,That last sound apparently occurred when the shuttle was thrown back in time.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85704,85704,85704,85704,139,GEORDI,All attempts to obtain additional information from the shuttle's logs have failed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85705,85705,85705,85705,140,RIKER,At least now we have something to go on.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85706,85706,85706,85706,141,GEORDI,I can't understand how you could end up in a shuttlecraft while the Enterprise is being destroyed.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85707,85707,85707,85707,142,WORF,"Nor I, the last thing you would do is leave the bridge of the Enterprise during an emergency.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85708,85708,85708,85708,143,PICARD,"Yes, but let's proceed on the premise that what we have just seen is factual and that somehow, in less than four hours, the Enterprise will be destroyed and somehow -- although this is unfathomable -- I, and I alone escaped. Discussion.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85709,85709,85709,85709,144,RIKER,"Our destination is the Endicor system. We are not due to arrive for three days. The charts indicate nothing of consequence, certainly nothing which could threaten the Enterprise, between here and there.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85710,85710,85710,85710,145,WORF,Sensors indicated no other vessels -- Federation or otherwise -- in this area.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85711,85711,85711,85711,146,PICARD,Data?,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85712,85712,85712,85712,147,DATA,I have nothing to offer. There is not enough information upon which I can base a hypothesis.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85713,85713,85713,85713,148,GEORDI,"Well, the shuttle apparently came from somewhere up ahead. Rather than continuing on this course, perhaps we should stop here and let whatever is out there come and find us.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85714,85714,85714,85714,149,RIKER,I think it's already too late for that.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85715,85715,85715,85715,150,GEORDI,"Are you saying that stopping, turning left, or right, or even reversing course, is pointless?",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85716,85716,85716,85716,151,RIKER,"When we brought the shuttle and the other Picard on board, we committed ourselves to a sequence of events which may be unalterable.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85717,85717,85717,85717,152,PICARD,"Yes, this isn't a rock in the road which once seen can be avoided. It's much more complex.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85718,85718,85718,85718,153,WORF,"There is the theory of the moebius, a twist in the fabric of space where time becomes a loop from which there is no escape.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85719,85719,85719,85719,154,GEORDI,"So, when we reach that moment -- whatever happened will happen again... The Enterprise will be destroyed, the ""other Picard"" sent back to meet with us and do it all over again. That sounds like someone's definition of hell.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,-0.7128
+85720,85720,85720,85720,155,RIKER,I know this much -- we can't avoid the future.,60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.2235
+85721,85721,85721,85721,156,PICARD,"Agreed. So let's continue on course. Everyone return to your duty stations. Somewhere out there something will happen... a decision will be made which will cause me to become separated from the Enterprise -- at the time that decision will seem correct, but it won't be. We have to anticipate and not make the same mistake once. Something is waiting for us out there -- let's determine what it is as quickly as possible.",60   INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,-0.3716
+85722,85722,85722,85722,157,GEORDI,Data -- I think the molecular structure of the shuttle has changed!,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85723,85723,85723,85723,158,DATA,Your assessment is accurate.,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85724,85724,85724,85724,159,GEORDI,Why now?,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85725,85725,85725,85725,160,DATA,Perhaps it always was unstable and it was only by leaving and coming back that you were able to see the change.,73   INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85726,85726,85726,85726,161,PICARD,Doctor?,74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85727,85727,85727,85727,162,PULASKI,"I am beginning to realize just how much of the body is held together by its own internal clock. You -- he was thrown out of time, which caused the body systems to change their rhythms. Slowly, as we move closer to the time he left, the internal body clocks are realigning.",74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85728,85728,85728,85728,163,PICARD,"You're saying, when our time intersects with the time he left, at that instant he will be functioning normally. And there will be two of us.",74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85729,85729,85729,85729,164,PULASKI,"Right now, that would be my guess.",74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85730,85730,85730,85730,165,PICARD,I don't believe that is possible.,74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85731,85731,85731,85731,166,TROI,"Captain, I am able to feel more from him now. Much of his emotions are still a jumble, but...",74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85732,85732,85732,85732,167,PICARD,What did you feel?,74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85733,85733,85733,85733,168,TROI,Only that he wants desperately to leave this ship.,74   INT. SICKBAY,SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85734,85734,85734,85734,169,PICARD ,"Captain's log, supplemental. We continue on course to Endicor. We are now less than two hours away from our rendezvous with ourselves.",75   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85735,85735,85735,85735,170,RIKER,Worf.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85736,85736,85736,85736,171,WORF,All sensors are on maximum scan. There is nothing unusual to report.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85737,85737,85737,85737,172,RIKER,"If the timetable is correct, we should get an indication of something very soon.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85738,85738,85738,85738,173,PULASKI,"Bridge, this is Sickbay.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85739,85739,85739,85739,174,PICARD,"Yes, Doctor.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85740,85740,85740,85740,175,PULASKI,"Captain, my patient is more coherent.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85741,85741,85741,85741,176,PICARD,I'll be right there.,76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85742,85742,85742,85742,177,PICARD,"Number One, you have the bridge.",76   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85743,85743,85743,85743,178,PICARD,How is he?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85744,85744,85744,85744,179,PULASKI,"His vital signs are more normal -- which is to say, more like ours. He is calmer.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85745,85745,85745,85745,180,PICARD,He is now aware of me.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85746,85746,85746,85746,181,PULASKI,In some fashion.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85747,85747,85747,85747,182,PICARD,"(sotto, almost to himself) But, does he know where he is, and who's here with him?",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85748,85748,85748,85748,183,PULASKI,I doubt it.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85749,85749,85749,85749,184,PICARD,What went wrong?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85750,85750,85750,85750,185,PICARD,You know... don't you?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85751,85751,85751,85751,186,PICARD,What did you do? What happened? Why did you leave the ship?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85752,85752,85752,85752,187,PICARD,Don't turn away. Look at me.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85753,85753,85753,85753,188,PICARD,Picard!,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85754,85754,85754,85754,189,PICARD,LOOK AT ME!,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85755,85755,85755,85755,190,TROI,He doesn't understand you.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85756,85756,85756,85756,191,PICARD,He knows I'm here.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85757,85757,85757,85757,192,TROI,"Yes, as part of a nightmare of disjointed images, half-heard voices. He is in another dimension -- seeing us across a great chasm -- and he's filled with remorse at what he has witnessed, and he's afraid.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85758,85758,85758,85758,193,PICARD,What is he afraid of?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85759,85759,85759,85759,194,PICARD,(continuing; back to P2) Damn you -- help me! Why did you leave the ship?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85760,85760,85760,85760,195,TROI,"It's no use, Captain. He can't answer.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85761,85761,85761,85761,196,PULASKI,"As we get closer to the time he left, he may be able to.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85762,85762,85762,85762,197,PICARD,Are you still convinced he is me?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85763,85763,85763,85763,198,TROI,Yes -- but you're not.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85764,85764,85764,85764,199,PICARD,Not in the slightest. Except for his features there is nothing about him which I find familiar.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85765,85765,85765,85765,200,PICARD,I want you to stay with him. He will be able to communicate with you before any of the rest of us.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85766,85766,85766,85766,201,PULASKI,I don't know how long anyone can take this kind of schizophrenia. There has to be a breaking point.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85767,85767,85767,85767,202,TROI,He is handling it very well.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85768,85768,85768,85768,203,PULASKI,He has a lot of anger.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85769,85769,85769,85769,204,TROI,Yes. Because of what... ... he represents.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85770,85770,85770,85770,205,PULASKI,And what is that?,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85771,85771,85771,85771,206,TROI,"Doubt. Seeing him here and knowing what happened to the Enterprise could make him timid or, worse, cause him to hesitate.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85772,85772,85772,85772,207,PULASKI,When he said -- that there is nothing familiar about him... ... except his features. It sounded like a form of denial.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85773,85773,85773,85773,208,TROI,It's his accurate feelings.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85774,85774,85774,85774,209,PULASKI,"Part of my job is to anticipate problems. I have a duty to the captain, but first to the ship and its crew.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85775,85775,85775,85775,210,TROI,"Doctor, the captain is fully capable of command decisions.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85776,85776,85776,85776,211,PULASKI,Yes... for now. But... this situation has put enormous pressure -- of a unique and very personal nature -- on Captain Picard. And we both know that pressure is going to increase. You said he already has doubt.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85777,85777,85777,85777,212,TROI,"Yes, which is necessary and healthy.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85778,85778,85778,85778,213,PULASKI,"But could potentially paralyze. If we begin to see signs that he is acting in an irrational manner, then I have the authority and the duty to relieve him.",79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85779,85779,85779,85779,214,TROI,I do not think that will be necessary.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85780,85780,85780,85780,215,PULASKI,I hope you're right.,79   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85781,85781,85781,85781,216,PICARD,What force or phenomenon could cause a shuttle to be thrown back in time?,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85782,85782,85782,85782,217,RIKER,"None that we have ever encountered. In theory, accelerating beyond warp ten.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85783,85783,85783,85783,218,PICARD,"Using the gravitational pull of a star to ""slingshot"" back in time. Is that what happened here?",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85784,85784,85784,85784,219,RIKER,The shuttle doesn't have warp capability.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85785,85785,85785,85785,220,PICARD,No. Some external force was needed.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85786,85786,85786,85786,221,RIKER,We have never encountered any natural force that powerful. And why only six hours? Why not a day? A year?,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85787,85787,85787,85787,222,PICARD,Are you suggesting there is a conscious mind at work here?,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85788,85788,85788,85788,223,RIKER,There is no evidence either way.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,-0.296
+85789,85789,85789,85789,224,PICARD,The Traveler moved through time with the power of his mind.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85790,85790,85790,85790,225,RIKER,I don't think that's the case here.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85791,85791,85791,85791,226,PICARD,"No -- and Manheim's experiments with gravity and time were rudimentary, and uncontrollable.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85792,85792,85792,85792,227,RIKER,"Captain, this is one instant where you must suppress your natural tendencies.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85793,85793,85793,85793,228,PICARD,Explain.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85794,85794,85794,85794,229,RIKER,"(then more as a friend than a subordinate, or even a fellow officer) Your strength, Jean-Luc, is your ability to evaluate the dynamics of a situation, step in and make the definitive, preemptive move. You take charge. You're frustrated now because, not only can't you see the solution... you can't even define the problem.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85795,85795,85795,85795,230,PICARD,Go on.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85796,85796,85796,85796,231,RIKER,This is not place or person we are facing... at least not yet... it's time.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85797,85797,85797,85797,232,PICARD,Are you telling me to just sit down -- shut up and wait.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85798,85798,85798,85798,233,RIKER,"I wouldn't have used those exact words... but, yes.",88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85799,85799,85799,85799,234,PICARD,I don't do that well.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85800,85800,85800,85800,235,RIKER,It's your Persian Flaw.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85801,85801,85801,85801,236,PICARD,Yes -- perhaps it is.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85802,85802,85802,85802,237,WORF,Captain to the bridge.,88   INT. CAPTAIN'S READY ROOM (OPTICAL),CAPTAIN'S READY ROOM,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85803,85803,85803,85803,238,PICARD,Report.,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85804,85804,85804,85804,239,WORF,This energy vortex appeared out of nowhere. There was no warning.,89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85805,85805,85805,85805,240,RIKER,"Well, now at least the waiting is over.",89   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85806,85806,85806,85806,241,PICARD ,"Captain's log, supplemental. The waiting is over. We have apparently intersected with... something.",92   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85807,85807,85807,85807,242,DATA,"It is similar to our tractor beam, only much more powerful.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85808,85808,85808,85808,243,GEORDI,"Bridge, this is Engineering.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85809,85809,85809,85809,244,RIKER,This is the bridge.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85810,85810,85810,85810,245,GEORDI,"The pull on the Enterprise is steady. I am having to hold the warp engines at thirty percent, in order to maintain this position.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85811,85811,85811,85811,246,PICARD,Transfer engine control to the bridge.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85812,85812,85812,85812,247,GEORDI,"Aye, sir.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85813,85813,85813,85813,248,TROI,"There is a consciousness here, Captain. Not thought -- it is more like instinct.",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85814,85814,85814,85814,249,PICARD,"What do you make of it, Number One?",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85815,85815,85815,85815,250,RIKER,I would say we're being probed.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85816,85816,85816,85816,251,DATA,The beam is coming directly from the center of the vortex. Sensors show only massive amounts of energy.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85817,85817,85817,85817,252,PICARD,What is it trying to learn?,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85818,85818,85818,85818,253,TROI,I think it is trying to determine if we are a life force.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85819,85819,85819,85819,254,PICARD,We should stay and investigate.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85820,85820,85820,85820,255,RIKER,Agreed.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85821,85821,85821,85821,256,PICARD,"But, was that the mistake?",93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85822,85822,85822,85822,257,PICARD,... staying too long.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85823,85823,85823,85823,258,RIKER,Possibly.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85824,85824,85824,85824,259,PICARD,We should go now.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85825,85825,85825,85825,260,RIKER,Well...,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85826,85826,85826,85826,261,PICARD,It's the prudent move.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85827,85827,85827,85827,262,PICARD,I never thought I would hear myself say something like that.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85828,85828,85828,85828,263,RIKER,Under the circumstances -- I think you may be right.,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85829,85829,85829,85829,264,PICARD,But you'd rather stay and find out what it is? What is its intent?,93   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85830,85830,85830,85830,265,GEORDI,"Engineering, transfer to bridge.",95   INT. BRIDGE ENGINEERING STATION,BRIDGE ENGINEERING STATION,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85831,85831,85831,85831,266,PICARD,Lieutenant La Forge.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85832,85832,85832,85832,267,GEORDI,"Yes, sir.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85833,85833,85833,85833,268,PICARD,"See if you can get us out of here, Mister La Forge. Maximum warp.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85834,85834,85834,85834,269,GEORDI,"Aye, sir.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85835,85835,85835,85835,270,GEORDI,I have set velocity to warp nine.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85836,85836,85836,85836,271,PICARD,Engage.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85837,85837,85837,85837,272,GEORDI,The warp engines are at ninety-one percent.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85838,85838,85838,85838,273,PICARD,Put it to the wall.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85839,85839,85839,85839,274,GEORDI,"Aye, sir.",100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85840,85840,85840,85840,275,GEORDI,I can't hold it.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85841,85841,85841,85841,276,RIKER,Captain! The engines can't take this strain.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85842,85842,85842,85842,277,PICARD,All stop.,100  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85843,85843,85843,85843,278,PICARD,Status.,106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85844,85844,85844,85844,279,WORF,All decks have reported... no damage -- no injuries.,106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85845,85845,85845,85845,280,GEORDI,"The pull on the Enterprise is steady, but much stronger than before. I am at warp seven just to hold this position.",106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85846,85846,85846,85846,281,PICARD,Everything we do tightens its grip. Let's see what we can learn. Launch a Class One probe.,106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85847,85847,85847,85847,282,WORF,"Aye, sir.",106  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85848,85848,85848,85848,283,PICARD,That was personal.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85849,85849,85849,85849,284,GEORDI,Captain -- the power drain needed to hold this position is enormous.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85850,85850,85850,85850,285,PICARD,How long can you maintain it?,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85851,85851,85851,85851,286,GEORDI,"A few minutes, then we are going to have to shut down again.",114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85852,85852,85852,85852,287,PULASKI,Captain -- some kind of energy has just surrounded my patient.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85853,85853,85853,85853,288,PICARD,Is he still alive?,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85854,85854,85854,85854,289,PULASKI,Yes...,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85855,85855,85855,85855,290,RIKER,"Arm photons, Mister Worf, and lock them on the center of the vortex.",114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85856,85856,85856,85856,291,WORF,Photon torpedoes locked on target.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85857,85857,85857,85857,292,PICARD,Hold.,114  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85858,85858,85858,85858,293,RIKER,We're like a rag in a dog's mouth.,116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85859,85859,85859,85859,294,GEORDI,I am now at maximum warp.,116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85860,85860,85860,85860,295,TROI,"It's you, Captain. It was the entire ship, but now it has turned its attention completely on you.",116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85861,85861,85861,85861,296,GEORDI,"Captain, I can't hold it. If we don't shut down, we are going to explode.",116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85862,85862,85862,85862,297,PICARD,"Counselor, what if I were to leave the Enterprise? Would its attention stay focused on me?",116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85863,85863,85863,85863,298,TROI,Yes. I think it would.,116  INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85864,85864,85864,85864,299,RIKER,You'd never survive.,119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85865,85865,85865,85865,300,PICARD,"But, maybe in those few seconds -- the Enterprise could break free. In any case, that's what he... the other Picard... must have thought.",119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85866,85866,85866,85866,301,RIKER,"Captain, where are you going?",119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85867,85867,85867,85867,302,PICARD,"Prepare a shuttle, Number One.",119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85868,85868,85868,85868,303,RIKER,You're leaving the ship?!,119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85869,85869,85869,85869,304,PICARD,I have to make a stop in Sickbay. We may be on a road which has no turns.,119  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85870,85870,85870,85870,305,PULASKI,He's very agitated.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85871,85871,85871,85871,306,P2,I must get to the shuttle.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85872,85872,85872,85872,307,PICARD,I know.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85873,85873,85873,85873,308,PICARD,Do you know where you are?,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85874,85874,85874,85874,309,P2,The Enterprise.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85875,85875,85875,85875,310,PICARD,But you're only vaguely aware of it. And me -- do you know who I am?,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85876,85876,85876,85876,311,PICARD,No. You don't.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85877,85877,85877,85877,312,P2,I must go.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85878,85878,85878,85878,313,PICARD,Release him.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85879,85879,85879,85879,314,PULASKI,Do you know what you are doing?,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85880,85880,85880,85880,315,PICARD,No -- release him!,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85881,85881,85881,85881,316,PULASKI,(touching her communicator) Security to Sickbay.,124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85882,85882,85882,85882,317,PICARD,"No. Security, this is the captain -- disregard that order. And clear all personnel -- repeat, all personnel -- from Shuttle Bay Two. I don't want any distractions. You... (meaning both Troi and Pulaski) ... stay here.",124  INT. SICKBAY (OPTICAL),SICKBAY,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85883,85883,85883,85883,318,PICARD,You have made the decision to leave the ship?,127A INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85884,85884,85884,85884,319,P2,I must.,127A INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85885,85885,85885,85885,320,PICARD,Why?,127A INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85886,85886,85886,85886,321,P2,The energy in the vortex wants me.,127A INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85887,85887,85887,85887,322,PICARD,You're certain.,127A INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85888,85888,85888,85888,323,P2,"Yes... it's an entity -- a life-form which recognizes the Enterprise as an entity with me as the brain, and it wants me.",127A INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85889,85889,85889,85889,324,P2,Shuttle Bay Number Two.,127B INT. TURBOLIFT,TURBOLIFT,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85890,85890,85890,85890,325,PICARD,What's your other option?,127B INT. TURBOLIFT,TURBOLIFT,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85891,85891,85891,85891,326,P2,"This is our only chance. If I leave, it might be distracted long enough for the Enterprise to escape.",127B INT. TURBOLIFT,TURBOLIFT,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85892,85892,85892,85892,327,PICARD,You are wrong. Leaving won't save your ship. Don't you remember? It was destroyed -- you saw it happen.,127B INT. TURBOLIFT,TURBOLIFT,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85893,85893,85893,85893,328,P2,"If I don't leave the Enterprise, the ship will be destroyed.",127B INT. TURBOLIFT,TURBOLIFT,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85894,85894,85894,85894,329,PICARD,"If that's true, then help me. We want the same thing. We want the Enterprise to be safe. There has to be a piece of information which I don't have. What is it?",127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85895,85895,85895,85895,330,P2,It's me.,127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85896,85896,85896,85896,331,PICARD,You?,127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85897,85897,85897,85897,332,RIKER,Captain.,127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85898,85898,85898,85898,333,PICARD,Yes.,127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85899,85899,85899,85899,334,RIKER,We are about to lose warp drive.,127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85900,85900,85900,85900,335,PICARD & P2,"(in sync, they respond to Riker) Understood.",127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85901,85901,85901,85901,336,PICARD,"When you say it's ""you,"" do you mean it's still you? And it's not me -- just you. Has this entity singled you out -- somehow making a connection?",127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85902,85902,85902,85902,337,P2,You're confusing me. We're almost out of time.,127BB	INT. CORRIDOR,CORRIDOR,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85903,85903,85903,85903,338,P2,I must get to the shuttle.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85904,85904,85904,85904,339,PICARD,"Wait. You can -- I'll let you, hell, man, I'll go with you, but first tell me. What is -- what was, your other choice?",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85905,85905,85905,85905,340,P2,Stand aside.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85906,85906,85906,85906,341,PICARD,You don't know what I'm talking about. You're frozen with a single thought -- unable to change -- unable to alter any part of your previous actions.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85907,85907,85907,85907,342,P2,I must leave -- there's no other way.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85908,85908,85908,85908,343,PICARD,There must be.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85909,85909,85909,85909,344,P2,Only one -- but it would never work.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85910,85910,85910,85910,345,PICARD,What is it? What would never work?,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85911,85911,85911,85911,346,P2,Better to sacrifice myself than destroy the Enterprise.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85912,85912,85912,85912,347,PICARD,Destroy the Enterprise -- how?,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85913,85913,85913,85913,348,P2,I have to leave.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85914,85914,85914,85914,349,PICARD,"Tell me -- what was your other choice? We can't escape it -- we can't fight it, we can't go forward.",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85915,85915,85915,85915,350,P2,"No -- no... We can't go forward, it would destroy the Enterprise.",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85916,85916,85916,85916,351,PICARD,Was that it... Was that the other choice?,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85917,85917,85917,85917,352,P2,I must leave.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85918,85918,85918,85918,353,PICARD,No.,127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85919,85919,85919,85919,354,PICARD,"I can't allow it. Before we have any chance of moving forward, the cycle must end.",127C INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85920,85920,85920,85920,355,PICARD,(touching his communicator) Doctor Pulaski -- report to Shuttle Bay Two.,130A INT. SHUTTLE BAY TWO,SHUTTLE BAY TWO,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85921,85921,85921,85921,356,PICARD,Bridge.,131  INT. TURBOLIFT,TURBOLIFT,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85922,85922,85922,85922,357,PICARD,"Number One, we have been wasting our energy trying to escape. It only weakens us. (he moves to his Command Chair) Helm, set a course for the center of the vortex. Lieutenant La Forge, on my command -- I want all the power you can muster.",132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,-0.1531
+85923,85923,85923,85923,358,GEORDI,"Yes, sir.",132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85924,85924,85924,85924,359,RIKER,We are going into it?,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85925,85925,85925,85925,360,PICARD,Yes.,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85926,85926,85926,85926,361,DATA,Course set.,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85927,85927,85927,85927,362,PICARD,Everyone hold your position -- no matter what. ENGAGE!,132  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85928,85928,85928,85928,363,PICARD,What's our position?,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85929,85929,85929,85929,364,DATA,We are back on course to Endicor.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85930,85930,85930,85930,365,RIKER,Stand down from Red Alert.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85931,85931,85931,85931,366,O'BRIEN,"Bridge, this is Shuttle Bay Two. The other Picard and the shuttle are gone.",141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85932,85932,85932,85932,367,PICARD,Explain.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85933,85933,85933,85933,368,O'BRIEN,They just... vanished.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85934,85934,85934,85934,369,WORF,All decks have reported in. No damage -- no casualties.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85935,85935,85935,85935,370,RIKER,I want a complete check -- all systems.,141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85936,85936,85936,85936,371,WORF,"Yes, sir.",141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85937,85937,85937,85937,372,PICARD,"You have the bridge, Number One.",141  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85938,85938,85938,85938,373,PICARD,"Lots of questions, Number One...",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85939,85939,85939,85939,374,PICARD,... and damn few answers.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85940,85940,85940,85940,375,RIKER,Everything about it seemed a tick off.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85941,85941,85941,85941,376,PICARD,"He certainly did not act like me, at least not the way I think I act.",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85942,85942,85942,85942,377,RIKER,Maybe none of it was real... we could have just been part of a shared illusion.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85943,85943,85943,85943,378,PICARD,"Or maybe ""he"" was thrown back in time so that we would be able to take another road... make another choice?",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85944,85944,85944,85944,379,RIKER,"That suggests a moral force, giving us the opportunity... or specifically giving you the opportunity to right a wrong.",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85945,85945,85945,85945,380,PICARD,It's said... if you travel far enough you will eventually meet yourself.,142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85946,85946,85946,85946,381,PICARD,"I will tell you this... it's a very unnerving experience, one I hope never to repeat.",142  INT. OBSERVATION LOUNGE (OPTICAL),OBSERVATION LOUNGE,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85947,85947,85947,85947,382,RIKER,Come.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85948,85948,85948,85948,383,RIKER,I know you were all disappointed with my last culinary effort.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85949,85949,85949,85949,384,WORF,Not all.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85950,85950,85950,85950,385,RIKER,"Thank you, Worf. Anyway, considering the stress of the last few days, I thought we could use a little diversion and at the same time I could make amends for the 'Owon omelet.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85951,85951,85951,85951,386,PULASKI,So what are you preparing?,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85952,85952,85952,85952,387,RIKER,"The specialty of the house, Alaskan stew.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85953,85953,85953,85953,388,GEORDI,Not with ingredients you picked up at Starbase seventy-three?,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85954,85954,85954,85954,389,RIKER,"No -- I had the computer fabricate everything. The potatoes, the onions, the flour, and the meat.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85955,85955,85955,85955,390,WORF,Meat? What kind of meat?,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85956,85956,85956,85956,391,RIKER,"Ahh... Well, to be authentic I needed moose. But, I couldn't find the specific molecular pattern for moose, so I had to improvise. The computer came close...",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85957,85957,85957,85957,392,RIKER,"... actually, it's somewhere between venison -- musk ox -- and Kobe beef.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85958,85958,85958,85958,393,WORF,I thought that humans had long ago given up the practice of raising animals for food.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85959,85959,85959,85959,394,RIKER,There were a couple of winters when it was either starve or hunt.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85960,85960,85960,85960,395,WORF,How fortunate.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85961,85961,85961,85961,396,PULASKI,I'll give you this -- your stew smells a lot better than the eggs.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85962,85962,85962,85962,397,PULASKI,This is quite good.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85963,85963,85963,85963,398,GEORDI,Agreed.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85964,85964,85964,85964,399,RIKER,"No good, Worf.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85965,85965,85965,85965,400,WORF,"I appreciate the effort, I would have preferred another omelet.",142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85966,85966,85966,85966,401,RIKER,Sorry. I used the last of 'Owon eggs.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85967,85967,85967,85967,402,GEORDI,Thank goodness.,142A INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Time Squared,1989-01-25,The Next Generation,139.txt,0.0
+85968,85968,85968,85968,0,BEVERLY,"Include a burn unit with each kit. On arrival, identify the most critically injured and beam them up to Cargo Bay Six...",2    INT. ND CORRIDOR,ND CORRIDOR,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85969,85969,85969,85969,1,PICARD,"Doctor Crusher, this is the Captain.",2    INT. ND CORRIDOR,ND CORRIDOR,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85970,85970,85970,85970,2,BEVERLY,Doctor Crusher here.,2    INT. ND CORRIDOR,ND CORRIDOR,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85971,85971,85971,85971,3,PICARD,Additional information. The number of colonists at the site is five hundred-four - including thirty-eight children.,2    INT. ND CORRIDOR,ND CORRIDOR,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85972,85972,85972,85972,4,PICARD,"So far nothing more than the initial message. Explosion - cause unknown - many injured. Are you prepared, Doctor?",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85973,85973,85973,85973,5,BEVERLY,"We believe so, sir.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85974,85974,85974,85974,6,GEORDI,"Captain, we are now at warp nine point one.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85975,85975,85975,85975,7,DATA,Which will bring us into the Quadra Sigma System in three point two hours.,4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85976,85976,85976,85976,8,RIKER,"Captain, I have a schematic of the explosion site. It suggests the cause as a methane-like gas seeping in underground...",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85977,85977,85977,85977,9,TROI,"Captain, I am...",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85978,85978,85978,85978,10,TROI,I am sensing what we encountered months ago...,4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85979,85979,85979,85979,11,DATA,"The ""Q"" Entity, sir? It is identical to the grid we encountered when...",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85980,85980,85980,85980,12,WORF,"It reads solid, sir. If we hit it... !",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85981,85981,85981,85981,13,PICARD,"Not now, damn it, ""Q""... Emergency full stop!",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85982,85982,85982,85982,14,GEORDI,"Yes, sir.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85983,85983,85983,85983,15,TASHA,"Shields and deflectors, up, sir.",4    INT. ENTERPRISE - MAIN BRIDGE,ENTERPRIS,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85984,85984,85984,85984,16,GEORDI,"Now reading full stop, sir.",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85985,85985,85985,85985,17,Q ,"Humans, I thought by now you would have scampered back to your own little star system.",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85986,85986,85986,85986,18,PICARD,"If this is ""Q"" I'm addressing, our vessel and crew are on a mission of rescue where a group of badly injured...",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85987,85987,85987,85987,19,Q ,"We of the ""Q"" have studied our recent contact with you... and are impressed. We have much to discuss, including perhaps the realization of your most impossible dreams.",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85988,85988,85988,85988,20,PICARD,"However intriguing we may find that to be, we are now in the midst of an urgent journey. Once we have completed that...",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85989,85989,85989,85989,21,Q ,"You will abandon that mission, Captain. My business with you takes precedence!",8B   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85990,85990,85990,85990,22,Q ,"If my magnificence blinds you, then perhaps something more familiar...",9    INT. MAIN BRIDGE - ANGLE ON BRIDGE CREW,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85991,85991,85991,85991,23,WORF,"Damn, the phasers are useless!",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85992,85992,85992,85992,24,PICARD ,"""Q"", STOP THIS!",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85993,85993,85993,85993,25,PICARD,Stop this and we agree to talk for a moment!,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85994,85994,85994,85994,26,Q ,"Starfleet Admiral ""Q"" at your service!",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85995,85995,85995,85995,27,PICARD,"You are not a Starfleet admiral, ""Q""...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85996,85996,85996,85996,28,Q ,"Neither am I an Aldebaran serpent, Captain. But you accepted me as such.",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85997,85997,85997,85997,29,RIKER,"He's got us there, Captain.",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85998,85998,85998,85998,30,Q ,The redoubtable Commander Riker whom I noticed before. You seem to find this amusing.,13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0
+85999,85999,85999,85999,31,RIKER,"I might, if we weren't trying to rescue a group of suffering and dying humans who...",13   INT. MAIN BRIDGE - ANGLE ON TASHA AND WORF,MAIN BRIDG,INT.,Hide And Q,1987-09-25,The Next Generation,111.txt,0.0

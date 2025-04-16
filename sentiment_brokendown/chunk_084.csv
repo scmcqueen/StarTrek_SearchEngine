@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+84000,84000,84000,84000,97,WORF,Caviar... for lunch?,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84001,84001,84001,84001,98,TROI,"I'm in the mood for something salty. Besides, it's no stranger than what you're eating.",11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,-0.296
+84002,84002,84002,84002,99,TROI,Have you noticed how dry the air is on the ship? I wonder if the environmental controls are set properly....,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84003,84003,84003,84003,100,TROI,You're excused.,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84004,84004,84004,84004,101,TROI,Is something wrong?,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84005,84005,84005,84005,102,WORF,It has been a difficult day. The torpedo guidance system failed... it was my fault.,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84006,84006,84006,84006,103,TROI,"You always say that, Worf...",11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84007,84007,84007,84007,104,WORF,It was my fault. I designed the guidance system.,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84008,84008,84008,84008,105,TROI,Worf... calm down.,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84009,84009,84009,84009,106,TROI,I think you're under more stress than you'd like to admit. Maybe you should get some rest...,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84010,84010,84010,84010,107,WORF,Yes... perhaps you are right. Excuse me.,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84011,84011,84011,84011,108,TROI,I didn't mean right now...,11   INT. TEN FORWARD,TEN FORWARD,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84012,84012,84012,84012,109,BARCLAY,"We removed the torpedo bay's primary guidance module and found a power fluctuation in the forward sensor cluster and we think there may be a radial imbalance in the phase discriminator. Now what we want to do next is run a level four diagnostic, but that's going to mean shutting down auxiliary power to nineteen decks and --",13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84013,84013,84013,84013,110,RIKER,Wait... slow down... I lost you back there... Which sensor cluster?,13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84014,84014,84014,84014,111,BARCLAY,The forward. It's... it's a power fluctuation in the converter nodes. Minor adjustment -- minor.,13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84015,84015,84015,84015,112,GEORDI,"It's all right in here in this diagram, sir.",13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84016,84016,84016,84016,113,RIKER,"I'll... take a look at this later. In the meantime, go ahead and run your diagnostic. I'll notify all departments about the power shutdown.",13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84017,84017,84017,84017,114,BARCLAY,I'll check that!,13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84018,84018,84018,84018,115,RIKER,He's full of energy today.,13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84019,84019,84019,84019,116,GEORDI,I can't get him to slow down. He's been working since late last night...,13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84020,84020,84020,84020,117,BARCLAY,Looks like a plasma conduit just cut out in Junction Seventeen. I'll go take a look...,13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84021,84021,84021,84021,118,GEORDI,"Hold on, Reg -- I'll go with you! We'll keep you posted, sir.",13   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84022,84022,84022,84022,119,TROI,"Computer, increase ambient air temperature by two degrees Centigrade... and increase relative humidity another ten percent.",14   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84023,84023,84023,84023,120,WORF,"Computer, reset environmental controls to standard.",14   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84024,84024,84024,84024,121,TROI,"Worf, it's freezing in here.",14   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84025,84025,84025,84025,122,WORF,You have already raised the temperature three times. It is too hot.,14   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84026,84026,84026,84026,123,TROI,"Live with it. Computer, execute my original command.",14   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84027,84027,84027,84027,124,TROI,I need a bath... You have the Bridge.,14   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84028,84028,84028,84028,125,BARCLAY,"Here we are. It looks like the conduit ruptured. No problem, I'll just bypass it...",15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84029,84029,84029,84029,126,GEORDI,Reg... wait a second... look at the corroded edges... and the blast pattern. This conduit didn't just rupture on its own... it looks like something dissolved the bulkhead and ate through the conduit...,15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84030,84030,84030,84030,127,BARCLAY,And that... that caused the rupture?,15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84031,84031,84031,84031,128,GEORDI,I think so. Whatever dissolved the bulkhead was highly corrosive... but it's not like any solvent I've ever seen...,15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84032,84032,84032,84032,129,GEORDI,"There's a high level of cholic acid here... enzymatic agents... If I didn't know any better, I'd say this solvent was organic.",15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84033,84033,84033,84033,130,BARCLAY,Maybe we should run a bio-spectral analysis of the solvent... take a closer look.,15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84034,84034,84034,84034,131,GEORDI,"Good idea. But let's take a break first, give ourselves a chance to --",15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84035,84035,84035,84035,132,BARCLAY,"You go ahead, sir. I'll take care of it.",15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84036,84036,84036,84036,133,GEORDI,"I don't know what's gotten into you, Reg...",15   INT. JEFFERIES TUBE (OPTICAL),JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84037,84037,84037,84037,134,TROI,"Computer, adjust temperature to twenty-nine degrees Celsius... relative humidity to ninety percent.",16   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84038,84038,84038,84038,135,RIKER,It's awfully hot in here.,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84039,84039,84039,84039,136,WORF,Counselor Troi would not let us turn down the temperature.,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84040,84040,84040,84040,137,RIKER,Where is she? This is supposed to be her watch.,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84041,84041,84041,84041,138,WORF,She said she needed... a bath.,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84042,84042,84042,84042,139,RIKER,A bath?,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84043,84043,84043,84043,140,WORF,Yes sir.,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84044,84044,84044,84044,141,WORF,Permission to be excused. I am not... feeling well.,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84045,84045,84045,84045,142,DERN,"Commander, we received a communication from Starfleet. They wanted to know when they could expect your performance analysis of the new weapon systems.",18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84046,84046,84046,84046,143,RIKER,The weapon systems... ?,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84047,84047,84047,84047,144,DERN,"Yes, sir. The ones we've been testing for the past few days... ?",18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84048,84048,84048,84048,145,RIKER,"Oh, that's right...",18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84049,84049,84049,84049,146,DERN,"What should I tell them, sir?",18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84050,84050,84050,84050,147,RIKER,Tell them... we're not finished yet...,18   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84051,84051,84051,84051,148,TROI,Worf... what are you doing in here?,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84052,84052,84052,84052,149,WORF,I had to be with you...,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84053,84053,84053,84053,150,TROI,"Well, as you can see, I'm a little busy right now. Please come back later.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84054,84054,84054,84054,151,TROI,"Computer, increase water temperature by five degrees.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84055,84055,84055,84055,152,WORF,Get out of the water. Now.,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84056,84056,84056,84056,153,TROI,Worf... what do you think you're --,19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84057,84057,84057,84057,154,TROI,"Leave me alone, or I'm going to call security.",19   INT. TROI'S QUARTERS - BATHROOM,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84058,84058,84058,84058,155,TROI,"It's just so cold in here... (quickly, to passing N.D.) May I have a glass of water... ?",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84059,84059,84059,84059,156,BEVERLY,Your temperature has dropped eight degrees. I want to run a hypothalamic series right away.,22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84060,84060,84060,84060,157,OGAWA,"Doctor, we've had three other crewmembers complaining about the temperature levels. Some feel like they have fevers... others are freezing, like Counselor Troi.",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84061,84061,84061,84061,158,BEVERLY,Call Doctor Selar and Doctor Hacopian. We may have some kind of viral infection going around. I'm going to check on Worf...,22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84062,84062,84062,84062,159,BEVERLY,"Worf, have you had any unusual symptoms lately? Headaches... nausea... dizziness?",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84063,84063,84063,84063,160,BEVERLY,Worf? Worf... can you hear me?,22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84064,84064,84064,84064,161,BEVERLY,I think we'd better run a full bio-scan. I want you to lie down.,22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.4939
+84065,84065,84065,84065,162,BEVERLY,"Worf, lie down...",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84066,84066,84066,84066,163,BEVERLY,Okay... we'll do this sitting up.,22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84067,84067,84067,84067,164,BEVERLY,What's this... ?,22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84068,84068,84068,84068,165,BEVERLY,"Worf, how long have you had this on your neck?",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84069,84069,84069,84069,166,BEVERLY,"(continuing, off tricorder) It's full of some sort of bioacidic compound... almost like a venom sack... Open your mouth.",22   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84070,84070,84070,84070,167,OGAWA,I managed to get her into stasis before the venom paralyzed her. She's going to need reconstructive surgery... but I think she'll be alright.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84071,84071,84071,84071,168,BARCLAY,"Sir, we analyzed the venom and compared it to the acidic compound we found in Junction Seventeen... and on Decks Ten and Twelve. They all have the same enzymatic composition...",27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84072,84072,84072,84072,169,RIKER,Are you saying that Mister Worf has been... spraying this... this...,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84073,84073,84073,84073,170,BARCLAY,Venom.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84074,84074,84074,84074,171,RIKER,Venom... all over the ship?,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84075,84075,84075,84075,172,BARCLAY,I'd say so.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84076,84076,84076,84076,173,OGAWA,"Commander, sixty crewmen have begun to exhibit strange behavioral changes.",27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84077,84077,84077,84077,174,OGAWA ,Memory loss... fatigue... headaches... Doctor Selar and I are trying to coordinate everything... but we're having a tough time understanding what we're dealing with. I think one thing is clear... there's some sort of disease aboard the Enterprise... and it's spreading.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84078,84078,84078,84078,175,RIKER,I'm having trouble concentrating myself... it's like my mind keeps... wandering... I can't...,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84079,84079,84079,84079,176,GEORDI,"Commander -- I have seven security teams hunting for Worf, but for some reason sensors are having trouble locking onto him. I've called a Level Two Security Alert -- do you think we should go to a Level One?",27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84080,84080,84080,84080,177,RIKER,I... don't know. What do you think?,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84081,84081,84081,84081,178,GEORDI,I think we should...,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84082,84082,84082,84082,179,RIKER,"Okay... sounds good... then you'll take care of that... security thing, won't you?",27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84083,84083,84083,84083,180,GEORDI,Yes sir.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84084,84084,84084,84084,181,RIKER,I'll... contact Starfleet... let them know what's happening. You have your orders. Dismissed.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84085,84085,84085,84085,182,RIKER,"Computer, send a subspace message to Starfleet command... security channel, authorization...",27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84086,84086,84086,84086,183,COMPUTER,Alpha-four seven authorization required to activate security channel.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84087,84087,84087,84087,184,RIKER,Computer...,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84088,84088,84088,84088,185,COMPUTER,Awaiting authorization.,27   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84089,84089,84089,84089,186,PICARD ,"Captain's Log, supplemental. Commander Data and I have recovered the stray torpedo after a three day search. We are enroute back to the Enterprise.",28   EXT. SPACE - THE SHUTTLECRAFT (OPTICAL),SPACE - THE SHUTTLECRAFT,EXT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84090,84090,84090,84090,187,DATA,"Captain, the ship is not at the pre-arranged coordinates.",29   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84091,84091,84091,84091,188,PICARD,Have they been delayed?,29   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84092,84092,84092,84092,189,DATA,I do not know. I am unable to raise them on any communication channel.,29   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84093,84093,84093,84093,190,PICARD,Scan the vicinity... see if you can find them...,29   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84094,84094,84094,84094,191,DATA,The Enterprise appears to be adrift. I am reading power fluctuations on all decks...,31   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84095,84095,84095,84095,192,PICARD,Life signs?,31   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84096,84096,84096,84096,193,DATA,"There are life signs, but the sensor readings are highly distorted. I am unable to identify specific lifeforms.",31   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84097,84097,84097,84097,194,PICARD,Adjust our axial stabilizers to match the attitude and rotation rate of the Enterprise... I'm going to dock the shuttle manually...,31   INT. SHUTTLECRAFT,SHUTTLECRAFT,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84098,84098,84098,84098,195,DATA,Main power is off-line. All systems are in Emergency or Standby mode... and there is no response from any manned station.,33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84099,84099,84099,84099,196,PICARD,Any sign of the crew?,33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84100,84100,84100,84100,197,DATA,I cannot access the internal sensors from here. We will have to go to the Bridge.,33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84101,84101,84101,84101,198,PICARD,What's that smell?,33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84102,84102,84102,84102,199,DATA,"It is a mixture of methane, uric acid and ammonia. There is also an abundance of pheromones in the air.",33   INT. SHUTTLEBAY,SHUTTLEBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84103,84103,84103,84103,200,PICARD,That sounds like... animals.,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84104,84104,84104,84104,201,DATA,"Yes, sir. I am able to discern over three hundred different vocalizations.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84105,84105,84105,84105,202,PICARD,Look at this...,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84106,84106,84106,84106,203,DATA,It is composed of reptilian DNA... I believe it is an epidermal layer that has been cast off during molting.,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84107,84107,84107,84107,204,PICARD,But it seems to be humanoid...,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84108,84108,84108,84108,205,DATA,"Yes, sir. I cannot explain it. There are no species aboard the Enterprise that shed their skin in this fashion.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84109,84109,84109,84109,206,PICARD,This is Commander Troi's quarters... can you tell if she's inside?,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84110,84110,84110,84110,207,DATA,"No, sir.",34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84111,84111,84111,84111,208,PICARD,I want to take a look inside. Stand ready.,34   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84112,84112,84112,84112,209,PICARD,The environmental settings in this room have been altered...,35   INT. TROI'S QUARTERS - CONTINUOUS,TROI'S QUARTER,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84113,84113,84113,84113,210,PICARD,Deanna!,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84114,84114,84114,84114,211,PICARD,What's happened to her... ?,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84115,84115,84115,84115,212,DATA,"Her DNA is in a state of ribocyatic flux... her genetic codes are being re-sequenced... and her cells are mutating as a result. At a fundamental level, she is no longer human.",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84116,84116,84116,84116,213,PICARD,What... is she?,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84117,84117,84117,84117,214,DATA,"Her respiratory tissue has become capable of metabolizing water as well as air... and her eyes have developed nictitating membranes... I believe she has become... amphibian, sir.",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84118,84118,84118,84118,215,PICARD,She's been injured...,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84119,84119,84119,84119,216,DATA,There is Klingon DNA in the wound. It is saliva.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84120,84120,84120,84120,217,PICARD,"You mean, she's been bitten?",36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84121,84121,84121,84121,218,DATA,It would appear so.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84122,84122,84122,84122,219,DATA,I will need to run a full biospectral analysis.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84123,84123,84123,84123,220,PICARD,First we've got to get the ship under control... let's go to the Bridge.,36   INT. TROI'S BATHROOM - CONTINUOUS,TROI'S BATHROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84124,84124,84124,84124,221,DATA,His upper spinal column has been broken in three places.,38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84125,84125,84125,84125,222,PICARD,"It looks like he's been attacked by some sort of animal... Has his DNA changed, as well?",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84126,84126,84126,84126,223,DATA,"Yes. However, the mutation was in its initial stages when he died.",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84127,84127,84127,84127,224,PICARD,I've restored attitude control to the ship. But I can't get main power back on-line... it looks like the entire power transfer grid has been destroyed...,38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84128,84128,84128,84128,225,DATA,"Captain, I am picking up one thousand eleven individual life readings within the ship. All exhibit a genetic flux similar to the one we observed in Counselor Troi.",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84129,84129,84129,84129,226,PICARD,Then the entire ship has been affected...,38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84130,84130,84130,84130,227,DATA,"Most of the lifeforms are scattered throughout ship's quarters... but there are several large concentrations in the arboretum, and the aquatics lab.",38   INT. BRIDGE,BRIDGE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84131,84131,84131,84131,228,PICARD,Commander Riker... ?,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84132,84132,84132,84132,229,PICARD,Wil... ?,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84133,84133,84133,84133,230,DATA,"His cranial plates have thickened by twenty percent -- his brain is much smaller, sir. I doubt he can comprehend our language.",39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84134,84134,84134,84134,231,PICARD,I think he's trying to communicate...,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84135,84135,84135,84135,232,PICARD,"Wil, can you --",39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84136,84136,84136,84136,233,PICARD,He looks almost... proto-human.,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84137,84137,84137,84137,234,DATA,"Yes, sir. His DNA would seem to confirm that observation.",39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84138,84138,84138,84138,235,DATA,Captain... I believe the crew is de-evolving.,39   INT. READY ROOM - CONTINUOUS,READY ROO,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84139,84139,84139,84139,236,PICARD,This tranquilizer should keep him unconscious for another seven hours. What have you found out?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84140,84140,84140,84140,237,DATA,I have analyzed Commander Riker's DNA structure. A synthetic T-cell has invaded his genetic code. This T-cell has begun to activate his latent introns.,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84141,84141,84141,84141,238,PICARD,Introns?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84142,84142,84142,84142,239,DATA,"They are genetic codes which are normally dormant. They are evolutionary holdovers -- sequences of DNA that provided key physical and behavioral characteristics millions of years ago, but are no longer necessary. For instance, Counselor Troi's gill slits and other amphibious characteristics were derived from introns which still contain amphibious codes.",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84143,84143,84143,84143,240,PICARD,So these... introns are causing her DNA to re-combine in an earlier configuration?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84144,84144,84144,84144,241,DATA,"That is correct. In her case, the DNA is creating an amphibious lifeform which became extinct over fifty million years ago.",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84145,84145,84145,84145,242,PICARD,Commander Riker's introns are changing him into one of the earlier hominids...,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84146,84146,84146,84146,243,DATA,"Yes, sir. I would say... Australopithacine. Each of these stages is another link in the evolutionary chain, stretching back to the origins of all lifeforms on Earth. Because introns can include genetic material from many different species over millions of years of evolution, it is possible that a wide variety of transformations is occurring among the crew.",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84147,84147,84147,84147,244,PICARD,What about crewmembers who are not from Earth?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84148,84148,84148,84148,245,DATA,All humanoid life has a similar genetic pattern. The virus should affect non-human crewmembers in the same way. They are each deevolving to earlier forms of life on their homeworlds.,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84149,84149,84149,84149,246,DATA,"I feel I must point out, sir, that you have become infected with the intron virus, as well.",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84150,84150,84150,84150,247,PICARD,How long before I start to change?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84151,84151,84151,84151,248,DATA,"According to my calculations, within the next twelve hours, you will begin to exhibit the first signs of your eventual transformation.",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84152,84152,84152,84152,249,PICARD,Which will be what... ?,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84153,84153,84153,84153,250,DATA,"I believe you will also de-evolve into some form of early primate. Possibly similar to a lemur, or pygmy marmoset.",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84154,84154,84154,84154,251,PICARD,"Well... before I begin scurrying about, searching for food, we need to find some answers. How do we reverse the process?",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84155,84155,84155,84155,252,DATA,"I am uncertain. We will need to run several micro-cellular scans. However, the ship's main computer has been damaged. Possibly by crewmembers who did not know what they were doing. The computer in my quarters has an independent processing and memory storage unit, and should not be affected. I suggest we work from there.",41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84156,84156,84156,84156,253,PICARD,Agreed.,41   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.2732
+84157,84157,84157,84157,254,DATA,I believe Spot has had her kittens.,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84158,84158,84158,84158,255,PICARD,They sound hungry.,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84159,84159,84159,84159,256,DATA,Yes. I am curious as to why Spot is not taking care of them.,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.3339
+84160,84160,84160,84160,257,DATA,Spot... ?,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84161,84161,84161,84161,258,PICARD,It would seem the intron virus isn't limited to humanoid lifeforms.,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.1695
+84162,84162,84162,84162,259,DATA,"No, sir.",42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84163,84163,84163,84163,260,PICARD,What is it?,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84164,84164,84164,84164,261,DATA,These kittens were born within the last twenty-four hours. It appears that Spot's transformation took place at approximately the same time.,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84165,84165,84165,84165,262,PICARD,So... Spot gave birth to the kittens while she was... changing into a reptilian form?,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84166,84166,84166,84166,263,DATA,"I believe so. For some reason, the intron virus was not passed on to the kittens. I do not know why.",42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84167,84167,84167,84167,264,PICARD,"As I remember my biology, there are several natural immune systems that come into play in the womb of the mother... to protect the unborn from viral infections...",42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84168,84168,84168,84168,265,DATA,"That is true. The placental barrier, maternal antibodies and amniotic fluid all serve as a filtration system.",42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84169,84169,84169,84169,266,PICARD,Maybe we could... inhibit this intron virus by using some of the natural antibodies in Spot's amniotic fluid...,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84170,84170,84170,84170,267,DATA,"It would take further research, but I believe that to be effective on humanoid crewmembers, humanoid antibodies would be necessary.",42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.631
+84171,84171,84171,84171,268,PICARD,Then perhaps we should locate a humanoid who's pregnant...,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84172,84172,84172,84172,269,DATA,Nurse Ogawa recently became pregnant...,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84173,84173,84173,84173,270,PICARD,Then we need to locate Nurse Ogawa.,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84174,84174,84174,84174,271,DATA,"I have traced her combadge signal to Deck Seventeen, Section Twentyone Alpha.",42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84175,84175,84175,84175,272,PICARD,The Arboretum...,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84176,84176,84176,84176,273,DATA,One of the warp plasma vents has failed. Main Engineering has been abandoned -- there is no one there to fix the problem.,42   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84177,84177,84177,84177,274,DATA,I can repair the damaged plasma vent from here.,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84178,84178,84178,84178,275,PICARD,I'd better check the status of the warp core...,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84179,84179,84179,84179,276,PICARD,Data!,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84180,84180,84180,84180,277,PICARD,What was that?,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84181,84181,84181,84181,278,DATA,I believe it was Lieutenant Barclay. He appeared to be partially transformed into an arachnid.,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84182,84182,84182,84182,279,PICARD,A spider?,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84183,84183,84183,84183,280,DATA,I recognized the chitin colorations. He is becoming a member of the Pisauridae family.,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84184,84184,84184,84184,281,DATA,Captain. Are you all right?,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84185,84185,84185,84185,282,PICARD,I have the most intense feeling of... fear... panic... as if I were being watched... I can't explain it.,44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84186,84186,84186,84186,283,DATA,"You may be experiencing the initial stages of your transformation. Early primates were often prey for larger carnivores -- as a result, their instincts probably included a heightened sense of awareness.",44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84187,84187,84187,84187,284,PICARD,"If that's the case, then my instincts tell me... we'd better hurry.",44   INT. ENGINEERING,ENGINEERING,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84188,84188,84188,84188,285,DATA,Captain.,50   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84189,84189,84189,84189,286,DATA,"I have analyzed Nurse Ogawa's embryo. It has been unaffected by the virus. I believe I can use her amniotic fluid as a template for a retro-virus. It would neutralize the synthetic T-cell, and re-establish the original genetic patterns of each host.",50   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84190,84190,84190,84190,287,PICARD,How soon can you have it ready?,50   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84191,84191,84191,84191,288,DATA,"It will not take long to isolate the appropriate genetic material. However, I will need to get the Sickbay computer back on --",50   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84192,84192,84192,84192,289,PICARD,What -- what's that?,50   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84193,84193,84193,84193,290,DATA,"It is large, approximately two hundred kilograms... and it is heavily armored with an exoskeleton of some sort... The lifesigns appear to be... Klingon.",50   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84194,84194,84194,84194,291,PICARD,Worf...,50   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84195,84195,84195,84195,292,PICARD,Set your phaser to heavy stun.,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84196,84196,84196,84196,293,DATA,"We have no way of knowing if the stun setting will have any effect on him, sir. And a higher setting may kill him.",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84197,84197,84197,84197,294,PICARD,Listen to that... he sounds angry... aggressive... What does Worf want... is he responding to some sort of predatory instinct? Does he see us as prey?,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84198,84198,84198,84198,295,DATA,"There are crewmembers in the corridors and other sections of the ship. It would be much easier for him to capture and consume one of them, rather than attempt to break through a door.",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84199,84199,84199,84199,296,PICARD,Then... what does he want?,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84200,84200,84200,84200,297,PICARD ,Predators use vocalizations to frighten off other predators... to mark territory... and to initiate the mating process... The mating process...,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84201,84201,84201,84201,298,PICARD,Counselor Troi has been bitten by a Klingon... but it's not in a life-threatening location... nowhere near a major artery or organ...,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84202,84202,84202,84202,299,PICARD,"And look at the wound itself... the penetration of the bite is very shallow, as if he didn't intend to seriously injure her...",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84203,84203,84203,84203,300,DATA,"What are you suggesting, Captain?",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84204,84204,84204,84204,301,PICARD,Is it possible that Worf thinks of Troi as his mate?,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84205,84205,84205,84205,302,DATA,"If that is true, then he must now by trying to reach her.",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84206,84206,84206,84206,303,PICARD,"We... we can't just leave. We've got to stay here and protect her... and keep working on the retro-virus... If we can't stun him, then we'll have to distract him somehow... lure him away from Deanna...",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84207,84207,84207,84207,304,DATA,The mating instinct is quite strong in Klingon biology. I am not certain what would serve as an effective lure.,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84208,84208,84208,84208,305,PICARD,"Klingons have a highly developed sense of smell... if we could duplicate Deanna's pheromones, we might be able to convince him she has left Sickbay... and is somewhere else on the ship...",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84209,84209,84209,84209,306,DATA,"I am extracting a blood sample from one of her sebaceous glands, where pheromones are produced.",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84210,84210,84210,84210,307,DATA,I believe I can activate the pheromones with a bio-activant solution.,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84211,84211,84211,84211,308,PICARD,Can you amplify the pheromones? They'll have to be far more powerful than Deanna's actual scent.,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84212,84212,84212,84212,309,DATA,I believe this will produce the desired effect. I will use it to draw Worf to a different part of the ship.,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84213,84213,84213,84213,310,PICARD,No... you... you must stay here... continue working on the retro-virus...,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84214,84214,84214,84214,311,PICARD,I'll go...,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84215,84215,84215,84215,312,DATA,"Captain, that would be extremely unwise. Worf may be much faster than --",51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84216,84216,84216,84216,313,PICARD,No time... no time to argue.,51   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84217,84217,84217,84217,314,DATA,Computer -- activate medical database.,55   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84218,84218,84218,84218,315,COMPUTER,Main computer systems are inactive -- unable to comply.,55   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84219,84219,84219,84219,316,DATA,"Computer, bypass database system -- activate local subprocessors only.",55   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84220,84220,84220,84220,317,COMPUTER,Acknowledged.,55   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84221,84221,84221,84221,318,PICARD,Deck Seventeen.,61   INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84222,84222,84222,84222,319,DATA,"Computer, display progress of genetic re-sequencing.",62   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84223,84223,84223,84223,320,COMPUTER,Genetic re-sequencing in progress -- DNA to seventy percent normal.,67   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84224,84224,84224,84224,321,DATA,"Computer, increase nucleotide substitution by thirty-two percent.",67   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84225,84225,84225,84225,322,DATA,Data to Captain Picard.,71   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84226,84226,84226,84226,323,PICARD,Go ahead.,71   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84227,84227,84227,84227,324,DATA,"The retro-virus is working. I can release it into the ship's atmosphere in a gaseous state, but it will take some time to take effect.",71   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84228,84228,84228,84228,325,PICARD,Acknowledged.,72   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84229,84229,84229,84229,326,DATA,"Are you all right, sir?",72   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84230,84230,84230,84230,327,PICARD,"I'm fine, Mister Data. Proceed...",72   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84231,84231,84231,84231,328,PICARD,"Well, Mister Worf... let's hope you wake up feeling like a new man.",72   INT. JEFFERIES TUBE,JEFFERIES TUBE,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84232,84232,84232,84232,329,PICARD ,"Captain's log, supplemental. Commander Data has succeeded in returning the crew to normal. Doctor Crusher has determined that the synthetic T-cell she used to cure Mister Barclay's Urodelan flu initiated the intron virus which swept through the ship.",73   EXT. SPACE - THE ENTERPRISE,SPAC,EXT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84233,84233,84233,84233,330,BARCLAY,So... this was my fault...,74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84234,84234,84234,84234,331,BEVERLY,"No... in a way, it was mine. I didn't realize it at the time, but there's an anomaly in your genetic chemistry that caused the synthetic T-cell to mutate... Instead of just activating one dormant gene, it started to activate all of them -- including your introns.",74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84235,84235,84235,84235,332,BARCLAY,And that... that caused me to devolve...,74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84236,84236,84236,84236,333,BEVERLY,Along with every other member of the crew. The T-cell became airborne and started to spread like a virus...,74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84237,84237,84237,84237,334,BEVERLY,"You know, Reg... this is a completely new disease. And it's traditional to classify a new disease with the name of the first diagnosed patient...",74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84238,84238,84238,84238,335,BARCLAY,You mean... you want to name the disease... after me?,74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84239,84239,84239,84239,336,BEVERLY,"That's right. How about... ""Barclay's Proto-morphosis Syndrome""?",74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84240,84240,84240,84240,337,BARCLAY,"""Barclay's Proto-morphosis""... it... it has a nice ring to it... Thank you, Doctor...",74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84241,84241,84241,84241,338,TROI,He transformed into a spider... and now he's had a disease named after him... I think I'd better clear my calendar for the next few weeks.,74   INT. SICKBAY,SICKBAY,INT.,Genesis,1994-01-07,The Next Generation,271.txt,0.0
+84242,84242,84242,84242,0,PICARD ,"Captain's Log, Stardate 47254.1. A delegation of the Cairn have just come on board. This telepathic species has no concept of spoken language, and is being instructed in its use by... an old friend.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84243,84243,84243,84243,1,LWAXANA,"I don't know what they'd have done without me. First, I had to learn how they communicate. It was an absolutely exhausting process...",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84244,84244,84244,84244,2,PICARD,It must have been.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84245,84245,84245,84245,3,LWAXANA,"Quite different from Betazoid telepathy. We transmit words... with the Cairn... (shakes her head at the enormity of it) ... it's images. A flood of them, all at the same time. It's overwhelming...",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84246,84246,84246,84246,4,PICARD,I can imagine...,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84247,84247,84247,84247,5,LWAXANA,It's actually a very efficient way of communicating. If two Cairn were having this conversation it would have been over minutes ago.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84248,84248,84248,84248,6,PICARD,Really?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84249,84249,84249,84249,7,LWAXANA,But of course they realize they'll want to communicate verbally if they join the Federation. Do me a favor... introduce yourself to one of them and engage him in conversation -- they need the practice.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84250,84250,84250,84250,8,PICARD,I'd be happy to.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84251,84251,84251,84251,9,GEORDI,... it's called a VISOR. It lets me see things.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84252,84252,84252,84252,10,HEDRIL,Like my vocal enhancer. It lets me make sounds.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84253,84253,84253,84253,11,LWAXANA,I see you've met my star pupil. (puts her arm around Hedril) Hedril has picked up spoken language much faster than the others.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84254,84254,84254,84254,12,DATA,It is often the case that children learn languages more easily than adults.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84255,84255,84255,84255,13,LWAXANA,Deanna was quite good at languages when she was little. Where is Deanna?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84256,84256,84256,84256,14,GEORDI,Should be here someplace...,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84257,84257,84257,84257,15,LWAXANA,"Hedril, darling...",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84258,84258,84258,84258,16,HEDRIL,What?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84259,84259,84259,84259,17,LWAXANA,"Go find your father, dear. I want to talk to him.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84260,84260,84260,84260,18,DATA,"Mrs. Troi, are you all right?",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84261,84261,84261,84261,19,LWAXANA,"Yes... yes... just a little tired. This constant telepathy with the Cairn... I'm fine, really.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84262,84262,84262,84262,20,LWAXANA,"Aren't you going to mingle, Mister Woof?",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84263,84263,84263,84263,21,WORF,I do not care for telepaths. They make me... uneasy.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84264,84264,84264,84264,22,LWAXANA,Don't worry -- The Cairn couldn't read your thoughts even if they wanted to. Your brain isn't sophisticated enough.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84265,84265,84265,84265,23,LWAXANA,"Neither is yours, dear. They can only communicate with other telepaths. Has either of you seen Deanna?",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84266,84266,84266,84266,24,RIKER,"She was working, but she said she'd be here -- ah -- speak of the devil.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84267,84267,84267,84267,25,TROI,Sorry I'm late. I lost track of the time.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84268,84268,84268,84268,26,LWAXANA,"Deanna, dear, come with me. I want you to meet the senior diplomat of the Cairn delegation.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84269,84269,84269,84269,27,LWAXANA,Maques... This is the beautiful daughter I've been telling you about -- Deanna.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84270,84270,84270,84270,28,MAQUES,Pleased to...,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84271,84271,84271,84271,29,MAQUES,Hello.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84272,84272,84272,84272,30,TROI,Hello.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84273,84273,84273,84273,31,TROI,Pleased to meet you.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84274,84274,84274,84274,32,MAQUES,"Yes, that is it. Pleased to meet you, Deanna.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84275,84275,84275,84275,33,LWAXANA,"Well, I'll just let you young people chat...",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84276,84276,84276,84276,34,TROI,"Well, Maques... what do you think of the Enterprise?",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84277,84277,84277,84277,35,MAQUES,"It is... -- -- beautiful... comfortable, also.",2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84278,84278,84278,84278,36,TROI,I'm glad you think so.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84279,84279,84279,84279,37,MAQUES,There is another word... a word that describes it... but... I cannot remember.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84280,84280,84280,84280,38,TROI,You've learned a great deal in a very short time. I'm sure it won't be long before your words will do justice to your thoughts.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84281,84281,84281,84281,39,MAQUES,Your Mother has... told me... of your need.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84282,84282,84282,84282,40,TROI,Need?,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84283,84283,84283,84283,41,MAQUES,A moment... Husband. You need a husband.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84284,84284,84284,84284,42,MAQUES,I need a wife.,2    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84285,84285,84285,84285,43,LWAXANA ,Deanna!,3    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84286,84286,84286,84286,44,LWAXANA,Good morning... So what did you think of Maques?,3    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84287,84287,84287,84287,45,TROI,"Why did you do that, Mother? You embarrassed both of us.",3    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84288,84288,84288,84288,46,LWAXANA,"He's really very sweet. And lonely. Poor man, a widower, raising a child alone.",3    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84289,84289,84289,84289,47,TROI,"Please, Mother... don't start.",3    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84290,84290,84290,84290,48,LWAXANA,I just think it's time for you to settle down. If your Father were still alive I'm sure he'd say the same thing.,3    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84291,84291,84291,84291,49,LWAXANA ,But you'll do exactly what you want...,4    INT. TURBOLIFT,TURBOLIFT,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84292,84292,84292,84292,50,LWAXANA ,Just like always...,4    INT. TURBOLIFT,TURBOLIFT,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84293,84293,84293,84293,51,TROI,"Stop it, mother.",4    INT. TURBOLIFT,TURBOLIFT,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84294,84294,84294,84294,52,TROI,Are you coming?,4    INT. TURBOLIFT,TURBOLIFT,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84295,84295,84295,84295,53,TROI,What's wrong... ?,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84296,84296,84296,84296,54,LWAXANA,You're so precious to me. You're all I've got. If something happened to you I don't know what I'd do...,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84297,84297,84297,84297,55,TROI,Nothing's going to happen to me...,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84298,84298,84298,84298,56,LWAXANA,You'd better go...,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84299,84299,84299,84299,57,TROI,My first appointment isn't for a few minutes... why don't we talk for a while?,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84300,84300,84300,84300,58,LWAXANA,I'm fine... I'm just tired from working with the Cairn and it's making me emotional.,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84301,84301,84301,84301,59,TROI,Are you sure?,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84302,84302,84302,84302,60,LWAXANA,Go on... I'll see you later...,5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84303,84303,84303,84303,61,LWAXANA,"(continuing, shooing her away) Go on.",5    INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84304,84304,84304,84304,62,TROI,Maques...,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84305,84305,84305,84305,63,MAQUES,I wanted to... apologize... for yesterday.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84306,84306,84306,84306,64,TROI,You don't have to --,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84307,84307,84307,84307,65,MAQUES,My words... they were... confused.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84308,84308,84308,84308,66,TROI,It wasn't your fault. My mother misled you.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84309,84309,84309,84309,67,MAQUES,Not in everything... she has an image of you... in her mind -- -- she shared it with me...,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84310,84310,84310,84310,68,MAQUES,You are even more beautiful...,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84311,84311,84311,84311,69,MAQUES,The way my people communicate... It is... direct. Nothing is hidden.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84312,84312,84312,84312,70,TROI,Yes.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84313,84313,84313,84313,71,MAQUES,Your Mother is... the first... to learn our telepathy...,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84314,84314,84314,84314,72,TROI,You mean you've never had telepathy with someone who wasn't Cairn?,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84315,84315,84315,84315,73,MAQUES,No...,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84316,84316,84316,84316,74,MAQUES,To communicate with her is... very different.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84317,84317,84317,84317,75,TROI,In what way?,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84318,84318,84318,84318,76,MAQUES,Always... there is a part of her... a part of her that is... dark.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84319,84319,84319,84319,77,TROI,Dark?,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84320,84320,84320,84320,78,MAQUES,A part of her that... can not be seen. Do you understand?,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84321,84321,84321,84321,79,TROI,I'm not sure... Did you ask my Mother about this?,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84322,84322,84322,84322,80,MAQUES,She called it... a moment... Privacy.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84323,84323,84323,84323,81,TROI,Of course.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84324,84324,84324,84324,82,TROI,"You said that among the Cairn, nothing is hidden. We value honesty, but we don't always share everything we're thinking and feeling.",6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84325,84325,84325,84325,83,MAQUES,This is... privacy?,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84326,84326,84326,84326,84,TROI,Yes.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84327,84327,84327,84327,85,MAQUES,It is... normal?,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84328,84328,84328,84328,86,TROI,"For us, yes.",6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84329,84329,84329,84329,87,MAQUES,If this is your way... I am... relieved.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84330,84330,84330,84330,88,TROI,It is our way.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84331,84331,84331,84331,89,MAQUES,I will leave now.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84332,84332,84332,84332,90,TROI,I'm glad you stopped by.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84333,84333,84333,84333,91,MAQUES,I am glad to have stopped also.,6    INT. TROI'S OFFICE,TROI'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84334,84334,84334,84334,92,TROI,I was all set for another round of arguing when all of a sudden she just... fell apart.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84335,84335,84335,84335,93,RIKER,"She's been under a lot of stress, preparing the Cairn to meet with the Federation Council.",8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84336,84336,84336,84336,94,TROI,It's more than that. I've been sensing very... erratic emotions from her. Even the clothes she's wearing seem unusual -- very subdued.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84337,84337,84337,84337,95,RIKER,Maybe you better have a talk with her --,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84338,84338,84338,84338,96,LWAXANA ,Commander --,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84339,84339,84339,84339,97,LWAXANA,Take your hands off her.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84340,84340,84340,84340,98,RIKER,Mrs. Troi --,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84341,84341,84341,84341,99,LWAXANA,"Don't ""Mrs. Troi"" me.",8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84342,84342,84342,84342,100,TROI,Mother!,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84343,84343,84343,84343,101,LWAXANA,Why don't you leave her alone? If it weren't for you she'd be married by now.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84344,84344,84344,84344,102,TROI,That's enough.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84345,84345,84345,84345,103,LWAXANA,"I'm warning you, stay away from her!",8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84346,84346,84346,84346,104,TROI,You're coming with me --,8    INT. TEN FORWARD,TEN FORWARD,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84347,84347,84347,84347,105,LWAXANA,I don't know what got into me. Please tell Wil how sorry I am.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84348,84348,84348,84348,106,BEVERLY,"She's fine, except her psilosynine levels are a little low.",10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84349,84349,84349,84349,107,LWAXANA,Psilosynine?,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84350,84350,84350,84350,108,TROI,That's a neurotransimitter involved in telepathy.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84351,84351,84351,84351,109,BEVERLY,It's been depleted by your work with the Cairn. You're going to have to avoid telepathic communication for a while.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84352,84352,84352,84352,110,LWAXANA,I can't -- We only have three days left and the Cairn still have so much to learn.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84353,84353,84353,84353,111,BEVERLY,"I'm sorry, but you're going to have to take some time and rest.",10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84354,84354,84354,84354,112,TROI,Maybe I can help with the Cairn.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84355,84355,84355,84355,113,LWAXANA,"You're only half-Betazoid, dear. And you don't have any experience with their form of telepathy.",10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84356,84356,84356,84356,114,TROI,Then I won't use telepathy; we'll work verbally.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84357,84357,84357,84357,115,LWAXANA,I suppose we could do that... And if they don't understand something I'll explain it to them telepathically.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84358,84358,84358,84358,116,TROI,"No, you'll work verbally too. The point is for you to rest. Besides, it'll be good for them to have to figure things out with words.",10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84359,84359,84359,84359,117,LWAXANA,Well... I suppose you're right.,10   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84360,84360,84360,84360,118,TROI,This is the ship's arboretum.,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84361,84361,84361,84361,119,HEDRIL,Arbor means tree.,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84362,84362,84362,84362,120,TROI,"Very good, Hedril. People like to come here to relax, enjoy themselves in a natural setting.",11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84363,84363,84363,84363,121,TROI,"""Flowers of all hue, and without thorn the rose... """,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84364,84364,84364,84364,122,TROI,That's from an old earth poem by John Milton.,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84365,84365,84365,84365,123,MAQUES,Please... what is a... poem?,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84366,84366,84366,84366,124,TROI,"Poetry is... an art-form that uses words, put together in new and unexpected ways -- sometimes in rhyme.",11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84367,84367,84367,84367,125,TROI,"Milton was speculating that in Heaven, roses wouldn't have thorns.",11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.5106
+84368,84368,84368,84368,126,HEDRIL,Heaven... ?,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84369,84369,84369,84369,127,TROI,Heaven is... it's a...,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84370,84370,84370,84370,128,MAQUES,"I see. Yes, thank you. ""Heaven.""",11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84371,84371,84371,84371,129,TROI,"Mother, you're supposed to be avoiding telepathy.",11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84372,84372,84372,84372,130,LWAXANA,"I was just trying to help, dear.",11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84373,84373,84373,84373,131,TROI,You don't look well.,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84374,84374,84374,84374,132,LWAXANA,I'm just tired -- maybe I'll sit down...,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84375,84375,84375,84375,133,TROI,Don't worry... she'll be fine...,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84376,84376,84376,84376,134,TROI,Mother!,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84377,84377,84377,84377,135,TROI,Mother... ?,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84378,84378,84378,84378,136,TROI,Troi to Sickbay... medical emergency in the arboretum...,11   INT. ARBORETUM,ARBORETUM,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84379,84379,84379,84379,137,BEVERLY,She's not responding to cortical stimulation. I'm not sure what more I can do...,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84380,84380,84380,84380,138,TROI,I don't understand... she was fine just yesterday.,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84381,84381,84381,84381,139,BEVERLY,I've never seen anything like this. It's almost as if her brain has... shut itself down.,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84382,84382,84382,84382,140,PICARD,Is there any physiological cause?,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84383,84383,84383,84383,141,BEVERLY,"I'm running a sub-neural scan, but as far as I can see there's no tissue damage, no neuro-chemical imbalance, no sign of infection -- nothing.",12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84384,84384,84384,84384,142,PICARD,Yet her neural activity is practically non-existent.,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84385,84385,84385,84385,143,BEVERLY,The only exception is in the paracortex -- activity there is almost off the scale.,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84386,84386,84386,84386,144,TROI,The paracortex is the Betazoid telepathic lobe. She communicated with Maques telepathically just before she fell...,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84387,84387,84387,84387,145,PICARD,Might there be some side-effect of Cairn telepathy that we're not aware of?,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84388,84388,84388,84388,146,BEVERLY,It's a possibility.,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84389,84389,84389,84389,147,PICARD,I think you and I had better have a talk with Maques.,12   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84390,84390,84390,84390,148,MAQUES,I am very... apologetic -- for what has happened to your Mother.,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84391,84391,84391,84391,149,PICARD,"Maques, is it possible that your telepathic communications with Mrs. Troi harmed her in some way?",13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84392,84392,84392,84392,150,MAQUES,No... I tried to... to explain... before.,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84393,84393,84393,84393,151,MAQUES,Bad thoughts... they hurt her...,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84394,84394,84394,84394,152,TROI,"What thoughts, Maques? Take your time...",13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84395,84395,84395,84395,153,MAQUES,Inside her... the dark place...,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84396,84396,84396,84396,154,TROI,I don't understand.,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84397,84397,84397,84397,155,MAQUES,She is... what are the words... I don't have the words...,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84398,84398,84398,84398,156,PICARD,Counsellor --,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84399,84399,84399,84399,157,PICARD,Stop it!,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84400,84400,84400,84400,158,TROI,"It's all right, Captain.",13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84401,84401,84401,84401,159,TROI,I'm fine... He was just trying to communicate with me telepathically.,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84402,84402,84402,84402,160,MAQUES,Do you understand now?,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84403,84403,84403,84403,161,TROI,I... I'm not sure...,13   INT. MAQUES' QUARTERS,MAQUES' QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84404,84404,84404,84404,162,TROI,He communicated so much to me that at first it was just a jumble of images.,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84405,84405,84405,84405,163,BEVERLY,Have you been able to sort any of it out?,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84406,84406,84406,84406,164,TROI,"I think so... during his telepathic contact with my Mother, Maques sensed what he calls a ""dark place.""",14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84407,84407,84407,84407,165,TROI,"He tried to tell me about it before, in my office. I misunderstood, I thought he was talking about thoughts she was keeping private. What he meant was that something was happening in her meta-conscious mind.",14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,-0.34
+84408,84408,84408,84408,166,BEVERLY,Meta-conscious?,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84409,84409,84409,84409,167,TROI,It's a part of the Betazoid psyche. A kind of... filtering mechanism to protect us from psychic trauma.,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.4939
+84410,84410,84410,84410,168,PICARD,Is Maques suggesting that Lwaxana's meta-conscious is damaged somehow?,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84411,84411,84411,84411,169,TROI,He feels that whatever is wrong with her is centered there. If he's right... that may mean that she's suffered some kind of trauma that her meta-conscious can't tolerate.,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84412,84412,84412,84412,170,BEVERLY,"Did your Mother mention anything that happened to her lately, something that might have been traumatic for her?",14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84413,84413,84413,84413,171,TROI,No. Nothing like that.,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84414,84414,84414,84414,172,BEVERLY,"Maques could be wrong about this. There's still a chance that the sub-neural scan will pinpoint an physiological cause for your Mother's condition, something I'll be able to treat.",14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84415,84415,84415,84415,173,BEVERLY,The results won't be in until morning; maybe we should all get some rest.,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84416,84416,84416,84416,174,TROI,I'd like to stay here with her... I'm going to try to contact her telepathically.,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84417,84417,84417,84417,175,BEVERLY,All right.,14   INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84418,84418,84418,84418,176,TROI ,Mother... can you hear me... ?,15   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84419,84419,84419,84419,177,TROI ,Please come back to me... please...,15   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84420,84420,84420,84420,178,,Help me...,15   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.4019
+84421,84421,84421,84421,179,TROI ,Mother... ?,15   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84422,84422,84422,84422,180,,Help me...,15   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.4019
+84423,84423,84423,84423,181,TROI ,How? How can I help you?,15   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84424,84424,84424,84424,182,TROI,"Tell me, Mother. Please.",15   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84425,84425,84425,84425,183,TROI,"Computer, lights!",17   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84426,84426,84426,84426,184,TROI,What are you doing?,17   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84427,84427,84427,84427,185,PICARD,"What were you doing in Sickbay, Maques?",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84428,84428,84428,84428,186,MAQUES,Helping... trying to help Lwaxana...,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.4019
+84429,84429,84429,84429,187,TROI,How... what were you trying to do?,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84430,84430,84430,84430,188,MAQUES,I was... she is...,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84431,84431,84431,84431,189,MAQUES,"You, Deanna. Maybe you --",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84432,84432,84432,84432,190,TROI,I don't understand.,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84433,84433,84433,84433,191,MAQUES,You must... how can I explain...,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84434,84434,84434,84434,192,TROI,"Tell me, telepathically.",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84435,84435,84435,84435,193,TROI,"Maques believes my Mother's psyche has... collapsed in on itself -- that for some reason, she's retreated into her meta-conscious mind.",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84436,84436,84436,84436,194,PICARD,Was he trying to contact her telepathically?,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84437,84437,84437,84437,195,TROI,Yes. He was able to access images being generated by her meta-conscious mind. But he couldn't make any sense of them...,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84438,84438,84438,84438,196,MAQUES,I did not... understand...,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84439,84439,84439,84439,197,TROI,"He saw faces he didn't recognize, events he couldn't interpret.",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84440,84440,84440,84440,198,BEVERLY,"If we could decipher those images, it might help us determine whether or not your Mother's condition was induced by some traumatic event.",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84441,84441,84441,84441,199,TROI,"Maques believes he can provide a... telepathic ""bridge"" that will allow me to access her meta-conscious. If he can, I might be able to find out what happened to her.",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84442,84442,84442,84442,200,PICARD,"If you succeed, would you be able to use that information to help your Mother?",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84443,84443,84443,84443,201,TROI,"I'm not sure. But I do know that some part of her wants to be helped. When I tried to contact her telepathically, I heard a voice calling out to me.",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84444,84444,84444,84444,202,PICARD,"If her psyche has... ""collapsed in on itself,"" could accessing her mind pose any danger to you?",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84445,84445,84445,84445,203,TROI,There's no way to know.,18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84446,84446,84446,84446,204,TROI,"Sir, I'd like to try...",18   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84447,84447,84447,84447,205,BEVERLY,"I'll be monitoring her through the whole procedure. If anything goes wrong, Maques can break the telepathic link.",19   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84448,84448,84448,84448,206,MAQUES,Your Mother -- part of her is... very frightened. She may... resist you.,19   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84449,84449,84449,84449,207,TROI,I understand.,19   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84450,84450,84450,84450,208,,Help me...,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.4019
+84451,84451,84451,84451,209,TROI,Mother... ?,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84452,84452,84452,84452,210,,Help me...,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.4019
+84453,84453,84453,84453,211,PICARD ,Counselor... can you hear me... ?,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84454,84454,84454,84454,212,TROI,Captain... ?,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84455,84455,84455,84455,213,PICARD,Deanna... Doctor Crusher is concerned that your para-cortical readings have become erratic.,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84456,84456,84456,84456,214,TROI,Are you... talking to me from Sickbay?,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84457,84457,84457,84457,215,PICARD,Yes. I want you to sever your connection to your Mother.,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84458,84458,84458,84458,216,TROI,Why don't you ask Maques to do it?,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84459,84459,84459,84459,217,PICARD,I'm asking you.,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84460,84460,84460,84460,218,PICARD,"That's an order, Counselor.",22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84461,84461,84461,84461,219,TROI,You're not Captain Picard.,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84462,84462,84462,84462,220,PICARD/LWAXANA,Leave me alone... please...,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,-0.0516
+84463,84463,84463,84463,221,TROI,This isn't real... none of this is real...,22   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84464,84464,84464,84464,222,TROI,Daddy... ?,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84465,84465,84465,84465,223,MISTER TROI,Deanna...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84466,84466,84466,84466,224,MISTER TROI,Look at you... you've become a beautiful woman...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84467,84467,84467,84467,225,TROI,Don't do this...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84468,84468,84468,84468,226,MISTER TROI,I'm sorry I had to go away when you were so little... I didn't want to...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84469,84469,84469,84469,227,TROI,You're not my father... you're a part of Mother's mind...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84470,84470,84470,84470,228,TROI,What is this place?,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84471,84471,84471,84471,229,MISTER TROI,"It's our house near Lake El'nar, on Betazed. We used to live here. Deanna -- let's not waste this chance. I want to hear everything that's happened to you...",27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84472,84472,84472,84472,230,TROI,Did I live here?,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84473,84473,84473,84473,231,MISTER TROI,For a while... when you were a baby. You were such a beautiful baby... Your mother and I loved you so much...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84474,84474,84474,84474,232,TROI,I don't remember these toys...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84475,84475,84475,84475,233,MISTER TROI,"I'll bet you don't remember me singing you to sleep at night, either... but I did.",27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84476,84476,84476,84476,234,TROI,I do remember... I always felt safe when you sang to me...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84477,84477,84477,84477,235,MISTER TROI,There was one song you always asked me to sing... you couldn't fall asleep unless you heard it....,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84478,84478,84478,84478,236,TROI,Down in the valley...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84479,84479,84479,84479,237,MISTER TROI,Valley so low... hang your head over.... hear the wind blow --,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84480,84480,84480,84480,238,TROI,No... no... you're trying to keep me here... keep me from finding something...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84481,84481,84481,84481,239,MISTER TROI,"Your Mother doesn't want to see you, Deanna.",27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84482,84482,84482,84482,240,TROI,I have to help her...,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84483,84483,84483,84483,241,MISTER TROI,If you want to help her... leave. Let her have peace.,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84484,84484,84484,84484,242,TROI,But... she called out to me.... she does want my help.,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84485,84485,84485,84485,243,MISTER TROI,Stay with me... just a little while... it's been so long -- we'll never have this chance again.,27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84486,84486,84486,84486,244,TROI,"Goodbye, daddy.",27   INT. TROI'S QUARTERS - CONTINUOUS (OPTICAL),TROI'S QUARTERS - CONTINUOUS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84487,84487,84487,84487,245,TROI,Hedril... ?,28   INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84488,84488,84488,84488,246,TROI,Mother...,28   INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84489,84489,84489,84489,247,LWAXANA,Get away from here!,28   INT. CORRIDOR,CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84490,84490,84490,84490,248,TROI,No!,31   INT. SICKBAY - CONTINUOUS,SICKBA,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84491,84491,84491,84491,249,TROI,"I asked your Father to bring you here because I wanted to talk to you about something. You know that Lwaxana is sick, don't you?",32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84492,84492,84492,84492,250,HEDRIL,Yes.,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84493,84493,84493,84493,251,HEDRIL,Is it my fault?,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84494,84494,84494,84494,252,TROI,No... not at all. But... I believe my Mother has been thinking about you. Do you know why?,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84495,84495,84495,84495,253,HEDRIL,I make her sad.,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84496,84496,84496,84496,254,TROI,Why do you say that?,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84497,84497,84497,84497,255,HEDRIL,Because it's true.,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84498,84498,84498,84498,256,TROI,Do you have any idea why Hedril would make my Mother sad?,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84499,84499,84499,84499,257,MAQUES,No.,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84500,84500,84500,84500,258,TROI,"Thank you for coming to talk to us. I'll see you later, all right?",32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84501,84501,84501,84501,259,HEDRIL,I hope your mother gets better.,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84502,84502,84502,84502,260,TROI,"Thank you, Hedril. So do I.",32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84503,84503,84503,84503,261,TROI,I just don't understand how she fits in to all this...,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84504,84504,84504,84504,262,BEVERLY,"I still haven't been able to find a physiological cause for what's happened to your Mother. That makes me think that Maques was right, that her condition was precipitated by some traumatic event.",32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84505,84505,84505,84505,263,PICARD,Could this event have involved Hedril?,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84506,84506,84506,84506,264,TROI,I don't think so. My Mother never mentioned her.,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84507,84507,84507,84507,265,BEVERLY,Does your mother make personal logs... or keep a journal?,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84508,84508,84508,84508,266,TROI,"Yes, she does. I'll contact Mister Homn on Betazed and ask him to transmit a copy as soon as possible. Maybe there's a clue there...",32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84509,84509,84509,84509,267,DATA,"Perhaps we are being too literal. In my recent study of dream analysis, I learned that people who appear in a dream can sometimes represent different aspects of the person who is dreaming.",32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84510,84510,84510,84510,268,TROI,That's right... a child might represent vulnerability. Maybe Hedril depicts some fragile part of my mother.,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84511,84511,84511,84511,269,PICARD,A part that she's protecting... ... you said everything you encountered when you were in her mind was a barrier of one kind or another...,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84512,84512,84512,84512,270,TROI,"Yes... you, the wolf, my father... as though she were summoning all her defenses to keep me away.",32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84513,84513,84513,84513,271,TROI,But away from what? What is she protecting?,32   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84514,84514,84514,84514,272,TROI,Come in.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84515,84515,84515,84515,273,PICARD,Counselor...,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84516,84516,84516,84516,274,TROI,"Hello, Captain.",34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84517,84517,84517,84517,275,PICARD,I've just been in Sickbay. Doctor Crusher feels your mother's condition is deteriorating... her neural functions are getting weaker.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84518,84518,84518,84518,276,PICARD,Have you had any luck here?,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84519,84519,84519,84519,277,TROI,"No, nothing. I've gone through her belongings... and read her journal from the last five years... ... and other than the fact that I'm not married yet, nothing bad seems to have happened to her.",34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84520,84520,84520,84520,278,PICARD,Is this your Father?,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84521,84521,84521,84521,279,TROI,Yes...,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84522,84522,84522,84522,280,PICARD,He had a kind face...,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84523,84523,84523,84523,281,TROI,"I remember when he died, my Mother had to go through all his things and pack them away... I was seven... and I remember thinking that he'd be mad when he came home and saw what she'd done. I didn't understand that he wasn't coming back...",34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84524,84524,84524,84524,282,PICARD,Deanna... your Mother might still come out of this.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84525,84525,84525,84525,283,TROI,If we can't figure out what's wrong with her -- I don't think she will.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84526,84526,84526,84526,284,TROI,"But I don't know what to do. I've talked with Mister Homn, who's known her for years. I've checked her medical records. I've made enquiries to the government on Betazed and I've contacted several of her close friends. If she suffered some kind of psychic trauma, there's just no evidence of it.",34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84527,84527,84527,84527,285,PICARD,You said you'd reviewed her journals for the past five years. Perhaps we should go further back.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84528,84528,84528,84528,286,TROI,There's a lot to review. My mother's kept a journal since she was first married...,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84529,84529,84529,84529,287,PICARD,"Well, let's start at the beginning.",34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84530,84530,84530,84530,288,PICARD,The first entry seems to be Stardate 30620.1.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84531,84531,84531,84531,289,TROI,That's the year they were married.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84532,84532,84532,84532,290,PICARD,This is odd... there's a seven year gap.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84533,84533,84533,84533,291,TROI,It starts about a year after my parents were married...,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84534,84534,84534,84534,292,PICARD,"And if I'm not mistaken, it ends a few months after your birth.",34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84535,84535,84535,84535,293,TROI,My Mother has always been so diligent about her journal -- why would she have stopped making entries for so long?,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84536,84536,84536,84536,294,PICARD,She didn't. The files were deleted.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84537,84537,84537,84537,295,PICARD,By your Mother... almost thirty years ago.,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84538,84538,84538,84538,296,TROI,I don't understand any of this...,34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84539,84539,84539,84539,297,TROI,"Captain, I have to go back in to my mother's mind. That's the only way we're ever going to get any answers.",34   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84540,84540,84540,84540,298,BEVERLY,"Deanna... you understand that if your para-cortical readings go too high again, I'll have to tell Maques to sever the connection.",35   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84541,84541,84541,84541,299,TROI,I know.,35   INT. SICKBAY,SICKBAY,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84542,84542,84542,84542,300,TROI,"Hedril, be careful...",36   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84543,84543,84543,84543,301,HEDRIL,Who is Hedril?,36   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84544,84544,84544,84544,302,TROI,Wait! I want to talk to you --,36   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84545,84545,84545,84545,303,,Help me...,36   INT. AN ENTERPRISE CORRIDOR (OPTICAL),AN ENTERPRISE CORRIDOR,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84546,84546,84546,84546,304,,Help me...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.4019
+84547,84547,84547,84547,305,TROI,Mother... ?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84548,84548,84548,84548,306,LWAXANA,Go away.,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84549,84549,84549,84549,307,TROI,No... I want to help you.,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84550,84550,84550,84550,308,TROI,Why did you delete parts of your journal?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84551,84551,84551,84551,309,TROI,Did something happen to you -- something you don't want me to know about?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84552,84552,84552,84552,310,LWAXANA,Leave me alone... please...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84553,84553,84553,84553,311,TROI,"Who is Hedril, Mother? Why is she here?",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84554,84554,84554,84554,312,TROI,Is Hedril me -- when I was a little girl?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84555,84555,84555,84555,313,LWAXANA,No -- I would never let anything happen to you... never.,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84556,84556,84556,84556,314,TROI,Did you let something happen to someone... ?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84557,84557,84557,84557,315,TROI,"Was it here, at El'nar?",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84558,84558,84558,84558,316,LWAXANA,You were just a baby...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84559,84559,84559,84559,317,TROI,Tell me; whatever it is we can face it together.,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84560,84560,84560,84560,318,LWAXANA,I can't...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84561,84561,84561,84561,319,TROI,You can... we can.,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84562,84562,84562,84562,320,HEDRIL ,Help me...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84563,84563,84563,84563,321,HEDRIL,"Help me, papa...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84564,84564,84564,84564,322,LWAXANA,Please... don't make me go through this again...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84565,84565,84565,84565,323,MISTER TROI,Here...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84566,84566,84566,84566,324,MISTER TROI,"Now hold on to him, don't let him run off.",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84567,84567,84567,84567,325,HEDRIL,I won't...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84568,84568,84568,84568,326,HEDRIL,"Mommy, can we go play by the water?",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84569,84569,84569,84569,327,LWAXANA,"No, Kestra... stay here with us...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84570,84570,84570,84570,328,HEDRIL,Please?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84571,84571,84571,84571,329,LWAXANA,"Kestra, you woke your sister.",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84572,84572,84572,84572,330,TROI,Kestra... ?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84573,84573,84573,84573,331,LWAXANA,"Don't cry, Deanna... mommy's here..",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84574,84574,84574,84574,332,HEDRIL,"Please, mommy?",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84575,84575,84575,84575,333,MISTER TROI,"No, Kestra... we're going to eat in just a few minutes...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84576,84576,84576,84576,334,LWAXANA,"What's wrong, little one... what's wrong... ?",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84577,84577,84577,84577,335,LWAXANA,"She's teething, Ian... where's her ring... ?",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84578,84578,84578,84578,336,MISTER TROI,"In your bag, I think...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84579,84579,84579,84579,337,LWAXANA,Mommy's going to make it all better...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84580,84580,84580,84580,338,LWAXANA,I can't find it -- are you sure it's in here?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84581,84581,84581,84581,339,LWAXANA,"No, I don't want to see this again -- I can't --",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84582,84582,84582,84582,340,TROI,"What happened, Mother. What happened next?",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84583,84583,84583,84583,341,LWAXANA,I don't remember --,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84584,84584,84584,84584,342,TROI,You have to. You can't hold it back -- it's killing you.,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84585,84585,84585,84585,343,LWAXANA,The dog got away... she ran after him... we didn't notice... until it was too late...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84586,84586,84586,84586,344,MISTER TROI,The current was too strong...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84587,84587,84587,84587,345,LWAXANA,Kestra...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84588,84588,84588,84588,346,LWAXANA,Why did I look away... why wasn't I paying attention... ?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84589,84589,84589,84589,347,TROI,"You have to forgive yourself, Mother... you have to let go...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84590,84590,84590,84590,348,LWAXANA,How can I? I let her die...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84591,84591,84591,84591,349,TROI,It was a terrible tragedy -- the worst thing that can happen to any parent... I know you feel responsible... but it was an accident...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84592,84592,84592,84592,350,TROI,And what you're doing isn't fair to Kestra...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84593,84593,84593,84593,351,TROI,I saw a little girl who was sweet and happy... she must have brought a great deal of joy into your lives...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84594,84594,84594,84594,352,LWAXANA,She woke up every morning with a smile...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84595,84595,84595,84595,353,TROI,"Then isn't it better to remember her like that? I've just found out I had a sister I never knew... I'd like to remember what was good and joyous about her... to celebrate her life, not mourn it...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84596,84596,84596,84596,354,LWAXANA,But when she died... the pain was so awful...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84597,84597,84597,84597,355,TROI,"I know. And you shut it away inside you all these years. But hiding it didn't make it go away. It's still there, hurting you... and it will stay there unless you can forgive yourself and move on.",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84598,84598,84598,84598,356,LWAXANA,How? How can I do that?,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84599,84599,84599,84599,357,TROI,"Kestra was here, a few moments ago. Talk to her...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84600,84600,84600,84600,358,LWAXANA,No --,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84601,84601,84601,84601,359,TROI,Do it. Tell her how you feel. I'm here with you. I'll help you.,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84602,84602,84602,84602,360,KESTRA ,Mommy...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84603,84603,84603,84603,361,LWAXANA,Kestra...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84604,84604,84604,84604,362,LWAXANA,"Oh, Kestra... my precious one... I'm so sorry...",37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84605,84605,84605,84605,363,KESTRA,I have to go now...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84606,84606,84606,84606,364,LWAXANA,I know...,37   INT. ARBORETUM - CONTINUOUS,ARBORETU,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84607,84607,84607,84607,365,LWAXANA,Kestra always wanted to help take care of you... she was never the slightest bit jealous of all the attention you got.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84608,84608,84608,84608,366,TROI,She sounds very sweet...,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84609,84609,84609,84609,367,LWAXANA,I made your father promise never to speak of her... it was a terrible thing to ask... but he went along with it.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84610,84610,84610,84610,368,TROI,"If it hadn't been for your work with the Cairn, the strain of the telepathic contact, you might have been able to repress the memory forever.",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84611,84611,84611,84611,369,LWAXANA,And if it hadn't been for you -- I might have died trying to keep that dreadful secret.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84612,84612,84612,84612,370,TROI,I contacted Mister Homn and told him you were all right. He asked me to give you something.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84613,84613,84613,84613,371,LWAXANA,I remember the day I took this...,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84614,84614,84614,84614,372,TROI,Mister Homn said he saved it... in case someday you wanted to remember her...,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84615,84615,84615,84615,373,LWAXANA,"I wish you could have known her, Deanna. I wish you two could have grown up together...",48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84616,84616,84616,84616,374,TROI,Tell me about her.. I want to know everything.,48   INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Dark Page,1993-08-26,The Next Generation,259.txt,0.0
+84617,84617,84617,84617,0,RIKER,Fletcher has more experience with propulsion systems --,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84618,84618,84618,84618,1,TROI,"But Carstairs is better with people. Considering this is a supervisory position, I'd go with her.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84619,84619,84619,84619,2,RIKER,You're probably right...,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84620,84620,84620,84620,3,RIKER,Didn't we just finish a Crew Evaluation Report?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84621,84621,84621,84621,4,TROI,That was three months ago.,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84622,84622,84622,84622,5,RIKER,Feels like three weeks. Maybe we should just give everyone a promotion and call it a night. What do you say... Commander?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84623,84623,84623,84623,6,TROI,Fine with me... Captain.,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84624,84624,84624,84624,7,LAVELLE,Why do they keep laughing? What's so funny about Crew Evaluations?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84625,84625,84625,84625,8,OGAWA,"Don't worry about it, Sam.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84626,84626,84626,84626,9,SITO,Let's just try and have a good time.,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84627,84627,84627,84627,10,LAVELLE,How can I have a good time when my career's being decided across the room?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84628,84628,84628,84628,11,LAVELLE,Think promotion... promotion... promotion...,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84629,84629,84629,84629,12,TAURIK,You can't really believe this will influence the outcome of your evaluation?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84630,84630,84630,84630,13,OGAWA,"It's a time-honored strategy, Taurik.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84631,84631,84631,84631,14,SITO,The Vedeks of the Janalan order maintain a round-the-clock chant for the well-being of the Bajoran people.,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84632,84632,84632,84632,15,TAURIK,"Considering the history of your planet, that doesn't exactly validate what he's doing.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84633,84633,84633,84633,16,LAVELLE,"Promote me, please -- so I can make Lieutenant and have my own room.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84634,84634,84634,84634,17,TAURIK,"If you aren't happy sharing quarters with me, then you should put in for a new room assignment. Just in case you're not promoted.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84635,84635,84635,84635,18,RIKER,I've been thinking about who to promote to Ops --,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84636,84636,84636,84636,19,TROI,The new night duty officer?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84637,84637,84637,84637,20,RIKER,"Lavelle's an obvious candidate, but I'm considering Ensign Sito as well.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84638,84638,84638,84638,21,BEN,You sure about dessert?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84639,84639,84639,84639,22,TROI,Yes. Don't tempt me.,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84640,84640,84640,84640,23,LAVELLE,Are they working on the crew evaluations?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84641,84641,84641,84641,24,BEN,Yep.,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84642,84642,84642,84642,25,SITO,Who were they talking about?,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84643,84643,84643,84643,26,BEN,It's not my place to say...,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84644,84644,84644,84644,27,SITO,"Come on, Ben.",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84645,84645,84645,84645,28,LAVELLE,Please.,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84646,84646,84646,84646,29,BEN,"All right, but I'm not sure you're going to like it...",1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84647,84647,84647,84647,30,BEN,Apparently... you're both up for the same job...,1    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84648,84648,84648,84648,31,RIKER,Lock phasers on target --,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84649,84649,84649,84649,32,SITO,Phasers locked --,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84650,84650,84650,84650,33,DATA,The enemy vessel is firing.,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84651,84651,84651,84651,34,RIKER,"Helm, hard to starboard!",4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84652,84652,84652,84652,35,LAVELLE,Hard starboard --,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84653,84653,84653,84653,36,RIKER,Fire phasers!,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84654,84654,84654,84654,37,SITO,Firing --,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84655,84655,84655,84655,38,DATA,Target is destroyed.,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84656,84656,84656,84656,39,RIKER,End simulation sequence and secure from drill.,4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84657,84657,84657,84657,40,RIKER,"Alpha shift, your response time was seven percent slower than gamma shift --",4    INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84658,84658,84658,84658,41,RIKER,I'd like all departments to submit drill evaluation reports by oh nine hundred hours --,4A   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84659,84659,84659,84659,42,GEORDI,"Ensign, you'll write that report.",4A   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84660,84660,84660,84660,43,TAURIK,"Yes, sir.",4A   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84661,84661,84661,84661,44,RIKER,Let's see if we can find a way to close that gap.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84662,84662,84662,84662,45,RIKER,"What happened back there, Ensign?",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84663,84663,84663,84663,46,SITO,"I'm sorry, sir. When we changed course I had to re-lock the phasers before I could fire.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84664,84664,84664,84664,47,RIKER,Next time try letting the locking relay float until the actual order to fire is given.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84665,84665,84665,84665,48,RIKER,"They may not teach that trick at the Academy, but it works.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84666,84666,84666,84666,49,SITO,"Thank you, sir.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84667,84667,84667,84667,50,RIKER,Lavelle...,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84668,84668,84668,84668,51,LAVELLE,Sir?,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84669,84669,84669,84669,52,RIKER,Resume previous course and speed.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84670,84670,84670,84670,53,LAVELLE,"Aye, aye sir.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84671,84671,84671,84671,54,RIKER,"One ""aye"" is sufficient acknowledgment, Ensign.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84672,84672,84672,84672,55,PICARD,"Helm, change course for the Argaya system -- maximum warp.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84673,84673,84673,84673,56,LAVELLE,"Aye, sir.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84674,84674,84674,84674,57,RIKER,What about our rendezvous with the Clement?,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84675,84675,84675,84675,58,PICARD,I've just received new orders from Starfleet. We'll discuss it in the Observation Lounge.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84676,84676,84676,84676,59,RIKER,"Ensign Sito, you'll fill in at Ops.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84677,84677,84677,84677,60,SITO,"Yes, sir.",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84678,84678,84678,84678,61,SITO,The Argaya system is close to the Cardassian border; I wonder why we're going there.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84679,84679,84679,84679,62,SITO,How would you like to be a spider under that table?,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84680,84680,84680,84680,63,LAVELLE,What?,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84681,84681,84681,84681,64,SITO,(gesturing back toward the Observation lounge) A spider under the table --,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84682,84682,84682,84682,65,LAVELLE,Is that like a fly on the wall?,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84683,84683,84683,84683,66,SITO,I guess so.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84684,84684,84684,84684,67,SITO,You did really well during the drill.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84685,84685,84685,84685,68,LAVELLE,Apparently Commander Riker didn't think so. I swear he's got it in for me.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84686,84686,84686,84686,69,SITO,You're imagining things.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84687,84687,84687,84687,70,LAVELLE,"Oh, yeah? Then how come you're sitting in that chair instead of me?",4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84688,84688,84688,84688,71,SITO,Maybe he figured I need more practice than you do.,4B   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84689,84689,84689,84689,72,TAURIK,"Excuse me, sir... do you have a minute?",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84690,84690,84690,84690,73,GEORDI,Sure. What is it?,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84691,84691,84691,84691,74,TAURIK,I'd like you to take a look at something.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84692,84692,84692,84692,75,GEORDI,"Have you been improvising again, Ensign?",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84693,84693,84693,84693,76,TAURIK,In a manner of speaking. I'm running a computer simulation to test a new warp-field configuration.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84694,84694,84694,84694,77,GEORDI,You've got a problem right here... the plasma flow in the nacelles is out of sync.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84695,84695,84695,84695,78,TAURIK,"Actually, sir, that was done deliberately.",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84696,84696,84696,84696,79,TAURIK,"As you can see, this configuration has increased overall warp-field integrity by seven percent.",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84697,84697,84697,84697,80,GEORDI,You're right...,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84698,84698,84698,84698,81,TAURIK,Doctor Nils Diaz has been experimenting with this technique at the Tanaline Propulsion Laboratory.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84699,84699,84699,84699,82,GEORDI,"I know his work, but I never heard anything about this...",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84700,84700,84700,84700,83,TAURIK,His findings have not been released yet. I was able to review a preliminary report when I was at the Academy.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84701,84701,84701,84701,84,GEORDI,I'll look forward to reading about it...,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84702,84702,84702,84702,85,TAURIK,"I predict that when these findings are made public, they will become a new model for warp field operation.",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84703,84703,84703,84703,86,GEORDI,Sounds interesting.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84704,84704,84704,84704,87,TAURIK,"With your permission, I would like to begin tests to see if the technique can be adapted to our warp drive.",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84705,84705,84705,84705,88,GEORDI,I don't know... There could be variables you didn't account for.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84706,84706,84706,84706,89,TAURIK,I was quite thorough.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84707,84707,84707,84707,90,GEORDI,I'm sure you were... but I'd like to look over your simulation before I authorize any tests.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84708,84708,84708,84708,91,TAURIK,As you wish.,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84709,84709,84709,84709,92,GEORDI,"If you have any other ideas for improving efficiency, feel free to run them by me.",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84710,84710,84710,84710,93,TAURIK,"As a matter of fact, sir, I do -- when would be a good time to discuss them?",6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84711,84711,84711,84711,94,GEORDI,I'll get back to you on that...,6    INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84712,84712,84712,84712,95,BEVERLY,"If you're wondering about your evaluation, it couldn't be better.",8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84713,84713,84713,84713,96,OGAWA,"Actually, I just wanted to tell you that Ensign Reilly's condition is showing improvement... but thank you.",8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84714,84714,84714,84714,97,BEVERLY,"In fact, I'm recommending you for a promotion. How does Lieutenant Alyssa Ogawa sound to you?",8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84715,84715,84715,84715,98,OGAWA,It sounds wonderful.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84716,84716,84716,84716,99,BEVERLY,I'll talk to Commander Riker... I expect it'll be official as soon as the current crew evaluation is over.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84717,84717,84717,84717,100,BEVERLY,Alyssa... I've been meaning to ask you -- how are things going with you and Lieutenant Powell?,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84718,84718,84718,84718,101,OGAWA,Fine... I think.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84719,84719,84719,84719,102,BEVERLY,You think?,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84720,84720,84720,84720,103,OGAWA,I'm sure it's nothing... but he seems... preoccupied lately. Last night he had to cancel our date.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84721,84721,84721,84721,104,BEVERLY,I see...,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84722,84722,84722,84722,105,OGAWA,I know he's been putting together a research proposal... he's been really busy with it...,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84723,84723,84723,84723,106,BEVERLY,I can understand that. Sometimes I get so absorbed in my research I forget to eat.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84724,84724,84724,84724,107,OGAWA,I just wonder...,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84725,84725,84725,84725,108,BEVERLY,What?,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84726,84726,84726,84726,109,OGAWA,I've never met anyone like Andrew. It's as though we've known each other forever...,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84727,84727,84727,84727,110,BEVERLY,You do seem well-suited.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84728,84728,84728,84728,111,OGAWA,But... I know that in the beginning of a romance... it's possible to be... a little blind.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,-0.3415
+84729,84729,84729,84729,112,BEVERLY,I'm not sure exactly what you mean...,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,-0.2411
+84730,84730,84730,84730,113,OGAWA,Well... cancelling a date like that... the way he's been so distant lately... Doctor... do you think those could be warning signs? That he's losing interest?,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84731,84731,84731,84731,114,BEVERLY,Alyssa... I think you may be overreacting.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84732,84732,84732,84732,115,OGAWA,Maybe so...,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84733,84733,84733,84733,116,BEVERLY,If I felt as strongly about someone as you do about Andrew -- he'd have to do a lot more than cancel one date before I became suspicious.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84734,84734,84734,84734,117,OGAWA,You're right...,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84735,84735,84735,84735,118,BEVERLY,As soon as this research project is over... I'm sure things will be just like they were.,8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84736,84736,84736,84736,119,OGAWA,"Except, of course, that he'll have to deal with Lieutenant Ogawa.",8    INT. BEVERLY'S OFFICE,BEVERLY'S OFFICE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84737,84737,84737,84737,120,SITO,"I only filled in at Ops for half an hour, but I had to degauss the main deflector dish, recalibrate the navigation grid, and use the internal sensors to find a lost puppy.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84738,84738,84738,84738,121,WORF,Ops is a very different challenge from Tactical.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84739,84739,84739,84739,122,SITO,I can't figure out why I'm even being considered for the assignment... I'm a security officer.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84740,84740,84740,84740,123,WORF,I recommended you.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84741,84741,84741,84741,124,SITO,"I'll try not to let you down, sir.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84742,84742,84742,84742,125,LAVELLE,What could they be talking about?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84743,84743,84743,84743,126,TAURIK,Have you ever considered learning to lip read?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84744,84744,84744,84744,127,LAVELLE,Do you think Worf's chewing her out?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84745,84745,84745,84745,128,BEN,"No, he always looks like that.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84746,84746,84746,84746,129,LAVELLE,Maybe he's giving her pointers on how to land the Ops position.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84747,84747,84747,84747,130,BEN,"Hi, Wil.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84748,84748,84748,84748,131,RIKER,Ben...,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84749,84749,84749,84749,132,LAVELLE,You call him Wil?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84750,84750,84750,84750,133,BEN,Why not?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84751,84751,84751,84751,134,LAVELLE,"He's second in command of this ship, that's why not.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84752,84752,84752,84752,135,BEN,"I'm not Starfleet; I'm a civilian. And when he's in here, he wants to be treated like a civilian.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84753,84753,84753,84753,136,LAVELLE,Riker? I bet he sleeps in his uniform.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84754,84754,84754,84754,137,BEN,You only think that because he's your C.O. If you got to know him --,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84755,84755,84755,84755,138,LAVELLE,Right.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84756,84756,84756,84756,139,TAURIK,"He's convinced that Commander Riker doesn't ""like"" him.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84757,84757,84757,84757,140,BEN,Why? Did you crash the ship into something?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84758,84758,84758,84758,141,LAVELLE,No. He just doesn't like me.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84759,84759,84759,84759,142,TAURIK,He doesn't even know you.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84760,84760,84760,84760,143,BEN,That's right. You should go talk to him.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84761,84761,84761,84761,144,LAVELLE,About what?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84762,84762,84762,84762,145,TAURIK,Perhaps something you have in common?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84763,84763,84763,84763,146,BEN,He likes Jazz... poker... he's Canadian --,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.4215
+84764,84764,84764,84764,147,LAVELLE,Yeah? My grandfather was from Canada.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.296
+84765,84765,84765,84765,148,BEN,There you go.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84766,84766,84766,84766,149,SITO,Hi --,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84767,84767,84767,84767,150,LAVELLE,Here...,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84768,84768,84768,84768,151,LAVELLE,I've got to go talk to somebody.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84769,84769,84769,84769,152,LAVELLE,"Good evening, sir...",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84770,84770,84770,84770,153,RIKER,Lavelle...,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84771,84771,84771,84771,154,RIKER,Can I do something for you?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84772,84772,84772,84772,155,LAVELLE,"No, sir. I... just came to get myself another drink.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84773,84773,84773,84773,156,RIKER,Something wrong with that one?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84774,84774,84774,84774,157,LAVELLE,"Actually, I...",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84775,84775,84775,84775,158,LAVELLE,What are you having?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84776,84776,84776,84776,159,RIKER,Trakian Ale.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84777,84777,84777,84777,160,LAVELLE,"Good choice. I'll have one, too.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84778,84778,84778,84778,161,LAVELLE,"My Grandfather was Canadian, you know.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84779,84779,84779,84779,162,RIKER,Really...,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84780,84780,84780,84780,163,LAVELLE,"Aren't you one, too?",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84781,84781,84781,84781,164,RIKER,A grandfather?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84782,84782,84782,84782,165,LAVELLE,"Canadian, sir. Canadian.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84783,84783,84783,84783,166,RIKER,No. I grew up in Alaska.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84784,84784,84784,84784,167,LAVELLE,Oh. Well... they both... get a lot of snow.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84785,84785,84785,84785,168,LAVELLE,"Good talking to you, sir.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84786,84786,84786,84786,169,RIKER,We're holding position in the Argaya System.,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84787,84787,84787,84787,170,PICARD,Anything?,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84788,84788,84788,84788,171,WORF,"No, sir. I detect no vessels in the vicinity.",12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84789,84789,84789,84789,172,PICARD,How close are we to the Cardassian border?,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84790,84790,84790,84790,173,DATA,Less than five thousand kilometers.,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84791,84791,84791,84791,174,WORF,Sir... I am detecting an object... five meters in length. It appears to be an escape pod.,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84792,84792,84792,84792,175,RIKER,They must have been forced to abandon ship.,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84793,84793,84793,84793,176,PICARD,How far inside Cardassian space is it?,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84794,84794,84794,84794,177,WORF,Over fifty thousand kilometers.,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84795,84795,84795,84795,178,PICARD,How the hell are we going to get it out of there... ?,12   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84796,84796,84796,84796,179,DATA,"Sir, the pod's life-support system is failing.",13   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84797,84797,84797,84797,180,RIKER,Notify Doctor Crusher --,13   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84798,84798,84798,84798,181,PICARD,Can we get within Transporter range without crossing into Cardassian territory?,13   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84799,84799,84799,84799,182,DATA,We would need to boost the gain on the confinement beam by at least seven percent.,13   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84800,84800,84800,84800,183,PICARD,Mister La Forge?,13   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84801,84801,84801,84801,184,GEORDI,"I'm on it, sir.",14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84802,84802,84802,84802,185,GEORDI,Try it now...,14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84803,84803,84803,84803,186,TAURIK,The pod is still too far away...,14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84804,84804,84804,84804,187,GEORDI,I'm going to try augmenting the frequency spread...,14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84805,84805,84805,84805,188,TAURIK,Bio-readings indicate that the passenger is humanoid... Attempting life-form identification --,14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84806,84806,84806,84806,189,GEORDI,"No one asked you to do that, Ensign. Let's just get him aboard safely.",14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84807,84807,84807,84807,190,GEORDI,"There, that should do it...",14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84808,84808,84808,84808,191,TAURIK,Confinement beam is at one hundred nine percent of normal.,14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84809,84809,84809,84809,192,GEORDI,Transporter room -- you should be able to get a lock now.,14   INT. ENGINEERING,ENGINEERING,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84810,84810,84810,84810,193,,"Aye, sir --",15   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84811,84811,84811,84811,194,PICARD,"Doctor, are you ready?",15   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84812,84812,84812,84812,195,BEVERLY,Stand by.,16   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84813,84813,84813,84813,196,BEVERLY,"Alyssa, I'm afraid I'm going to have to ask you to leave.",16   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84814,84814,84814,84814,197,OGAWA,"All right, Doctor.",16   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84815,84815,84815,84815,198,BEVERLY,Transporter room. go ahead.,16   INT. SICKBAY (OPTICAL),SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84816,84816,84816,84816,199,OGAWA,What are you doing here?,17   INT. CORRIDOR,CORRIDOR,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84817,84817,84817,84817,200,SITO,I'm not supposed to let anyone but the senior officers inside Sickbay.,17   INT. CORRIDOR,CORRIDOR,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84818,84818,84818,84818,201,OGAWA,Do you have any idea what's going on?,17   INT. CORRIDOR,CORRIDOR,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84819,84819,84819,84819,202,SITO,No. Do you?,17   INT. CORRIDOR,CORRIDOR,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84820,84820,84820,84820,203,OGAWA,I better go.,17   INT. CORRIDOR,CORRIDOR,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84821,84821,84821,84821,204,PICARD,Ensign...,17   INT. CORRIDOR,CORRIDOR,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84822,84822,84822,84822,205,RIKER,Twelve hundred hours -- alpha shift is relieved...,18   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84823,84823,84823,84823,206,LAVELLE,"Excuse me, sir.",18   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84824,84824,84824,84824,207,LAVELLE,"If it's all right with you, I'd like to stay on for another shift. I could use the training.",18   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84825,84825,84825,84825,208,RIKER,Now's not the best time.,18   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84826,84826,84826,84826,209,LAVELLE,"Yes, sir.",18   INT. BRIDGE,BRIDGE,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84827,84827,84827,84827,210,PICARD,"Ensign, you're with me.",19   INT. CORRIDOR,CORRIDOR,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84828,84828,84828,84828,211,PICARD,Bridge.,20   INT. TURBOLIFT,TURBOLIFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84829,84829,84829,84829,212,PICARD,"You're a certified pilot, aren't you?",20   INT. TURBOLIFT,TURBOLIFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84830,84830,84830,84830,213,SITO,"Yes, sir.",20   INT. TURBOLIFT,TURBOLIFT,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84831,84831,84831,84831,214,PICARD,How long have you served on the Enterprise?,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84832,84832,84832,84832,215,SITO,"Seven months, sir.",21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84833,84833,84833,84833,216,PICARD,I see... I understand you've been recommended for the Ops position. Do you think you're up to it?,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84834,84834,84834,84834,217,SITO,"I do, sir.",21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84835,84835,84835,84835,218,PICARD,I'm not so sure. Your record concerns me.,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84836,84836,84836,84836,219,SITO,Sir?,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84837,84837,84837,84837,220,PICARD,The incident you were involved in at the Academy.,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84838,84838,84838,84838,221,SITO,With all due respect... that was three years ago. My record since then --,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84839,84839,84839,84839,222,PICARD,I'm not certain it matters how long it's been. What I need to know is whether you would ever do something like that again.,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84840,84840,84840,84840,223,SITO,"I can assure you, sir, I would never, never jeopardize lives by participating in --",21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84841,84841,84841,84841,224,PICARD,A dare-devil stunt? I should hope not. What concerns me more is that you participated in a coverup that impeded an official investigation into the death of a cadet.,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84842,84842,84842,84842,225,SITO,"Sir, I know I should have told the truth right from the start --",21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84843,84843,84843,84843,226,PICARD,But you didn't. You went along with the others and pretended that what happened was nothing more than an accident. What do you suppose that tells me about your character?,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84844,84844,84844,84844,227,SITO,"Sir, if you had any idea what it was like after that incident -- I didn't have any friends, anyone to talk to. I had to take my flighttest with the instructor because no one else would be my partner. In a lot of ways it would have been easier to just walk away. But I didn't. I stuck with it. Doesn't that say something about my character, too... ?",21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84845,84845,84845,84845,228,PICARD,"I'm very sorry you didn't enjoy your time at the Academy, Ensign. But as far as I'm concerned, you should have been expelled for what you did. Quite frankly, I don't know how you made it onto my ship.",21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84846,84846,84846,84846,229,PICARD,You're dismissed...,21   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84847,84847,84847,84847,230,GEORDI,Two more seconds... That's enough.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84848,84848,84848,84848,231,TAURIK,"Sir, I'm a little puzzled. Why are we intentionally damaging this shuttlecraft?",22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84849,84849,84849,84849,232,GEORDI,We're evaluating hull resiliency. Starfleet requires periodic testing.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84850,84850,84850,84850,233,TAURIK,I see. I don't believe I'm familiar with that requirement.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84851,84851,84851,84851,234,GEORDI,Probably because you're not a senior officer.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84852,84852,84852,84852,235,TAURIK,"If you wish, I can reconfigure the phaser to fire a low-intensity burst that would not harm the shuttle's hull. The test procedure would not be affected.",22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84853,84853,84853,84853,236,GEORDI,It's fine the way it is. Just give me a four second burst right about here.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84854,84854,84854,84854,237,TAURIK,Should I fire from this position?,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84855,84855,84855,84855,238,GEORDI,Actually... Make it over there.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84856,84856,84856,84856,239,TAURIK,That would be consistent...,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84857,84857,84857,84857,240,GEORDI,Consistent with what?,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84858,84858,84858,84858,241,TAURIK,With making it appear that this shuttle fled an attack.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84859,84859,84859,84859,242,GEORDI,What makes you think that's what we're doing?,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84860,84860,84860,84860,243,TAURIK,The pattern of fire you have asked for is similar to what might result if the shuttle were fleeing an attacker while engaging in evasive maneuvers.,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84861,84861,84861,84861,244,GEORDI,That's quite a coincidence...,22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84862,84862,84862,84862,245,TAURIK,"Yes, sir. It is indeed. Shall we proceed with the testing?",22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84863,84863,84863,84863,246,GEORDI,"Yes, Ensign. Thank you.",22   INT. SHUTTLEBAY (OPTICAL),SHUTTLEBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84864,84864,84864,84864,247,BEVERLY,Alyssa... thanks for coming so quickly.,23   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84865,84865,84865,84865,248,BEVERLY,We need to prepare for surgery. We have a comatose patient with a subdeural hematoma.,23   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84866,84866,84866,84866,249,OGAWA,"Yes, sir.",23   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84867,84867,84867,84867,250,BEVERLY,I want to make it clear that you are not to discuss what you see here with anyone.,23   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84868,84868,84868,84868,251,OGAWA,I understand.,23   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84869,84869,84869,84869,252,BEVERLY,We'll need to synthesize at least a liter of Cardassian blood...,23   INT. SICKBAY,SICKBAY,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84870,84870,84870,84870,253,BEN,What I can't figure out is why we're just sitting here so close to the Cardassian border.,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84871,84871,84871,84871,254,LAVELLE,It must have something to do with that escape pod we picked up. Don't you think?,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84872,84872,84872,84872,255,SITO,Maybe...,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84873,84873,84873,84873,256,LAVELLE,I wonder who was in it... ?,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84874,84874,84874,84874,257,BEN,You know what I heard... ?,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84875,84875,84875,84875,258,BEN,It was Ambassador Spock.,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84876,84876,84876,84876,259,TAURIK,That is unlikely.,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84877,84877,84877,84877,260,BEN,That's what I was told...,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84878,84878,84878,84878,261,TAURIK,By whom?,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84879,84879,84879,84879,262,BEN,I can't say.,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84880,84880,84880,84880,263,LAVELLE,They beamed whoever was in it right to Sickbay. Did you see anything when you went down there?,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84881,84881,84881,84881,264,OGAWA,No... Doctor Crusher just wanted me to help her with the lab schedule.,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84882,84882,84882,84882,265,TAURIK,I thought Lieutenant Powell was going to join us tonight?,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84883,84883,84883,84883,266,OGAWA,He had to do a double shift.,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84884,84884,84884,84884,267,LAVELLE,That's too bad... He's the worst poker player I've ever met...,25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,-0.6249
+84885,84885,84885,84885,268,BEN,"It's your bet, Sam.",25   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84886,84886,84886,84886,269,WORF,Twenty.,26   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84887,84887,84887,84887,270,BEVERLY,"-- the thing is, I saw Powell in Ten Forward with another woman... the way they were talking made me wonder...",26   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84888,84888,84888,84888,271,TROI,"He should tell Alyssa if he's seeing someone else. Even if it hurts her, it'll be better in the long run.",26   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84889,84889,84889,84889,272,RIKER,"I've been meaning to tell you something, Worf... I don't think Ensign Sito is ready for the Ops position.",26   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84890,84890,84890,84890,273,WORF,"I must say that I disagree, sir.",26   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84891,84891,84891,84891,274,RIKER,I'm listening...,26   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84892,84892,84892,84892,275,BEN,The bet is fifty --,27   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84893,84893,84893,84893,276,TAURIK,It would be illogical for the Captain to deny you a promotion because of something you did as a cadet.,27   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84894,84894,84894,84894,277,SITO,He said it shows I don't have character.,27   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84895,84895,84895,84895,278,OGAWA,What did you say?,27   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84896,84896,84896,84896,279,SITO,What could I say? Maybe he's right...,27   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84897,84897,84897,84897,280,LAVELLE,You're a damn fine officer and you deserve that post as much as anyone.,27   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84898,84898,84898,84898,281,LAVELLE,One thing's for sure -- I won't be getting it. Not if it's up to Riker.,27   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84899,84899,84899,84899,282,WORF,"It is your decision, sir -- but if you give her a chance to prove herself, I feel certain that Ensign Sito will not disappoint you.",28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84900,84900,84900,84900,283,RIKER,"All right, Worf. I'll keep her under consideration. Besides, I have my doubts about Lavelle.",28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84901,84901,84901,84901,284,TROI,Really? Why?,28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84902,84902,84902,84902,285,RIKER,He's too... eager to please. He keeps trying to ingratiate himself to me.,28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84903,84903,84903,84903,286,TROI,Why assume he's doing it just to get the job?,28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84904,84904,84904,84904,287,RIKER,I'll see your fifty and raise you a hundred.,28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84905,84905,84905,84905,288,TROI,I don't know... It seems to me that you and Lavelle have a lot in common.,28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84906,84906,84906,84906,289,RIKER,What? We're not at all alike.,28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84907,84907,84907,84907,290,GEORDI,You're bluffing.,28   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84908,84908,84908,84908,291,LAVELLE,Think so?,29   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84909,84909,84909,84909,292,BEN,"Yes, and I'm not gonna let you get away with it.",29   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84910,84910,84910,84910,293,OGAWA,"You know, Sam, maybe you shouldn't try so hard with Riker. It doesn't matter whether he likes you... as long as he respects you.",29   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84911,84911,84911,84911,294,SITO,And he must... otherwise he wouldn't be considering you for the Ops position.,29   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84912,84912,84912,84912,295,LAVELLE,You're probably right... maybe I'm just telling myself he hates me so if I don't get promoted I'll have an excuse.,29   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84913,84913,84913,84913,296,BEN,Well? You in or not?,29   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84914,84914,84914,84914,297,TAURIK,"At this juncture, the odds of my winning this hand are less than thirty-nine to one. I fold.",29   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84915,84915,84915,84915,298,RIKER,"Looks like it's just you and me, buddy. You in for another fifty?",30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84916,84916,84916,84916,299,GEORDI,Give me a minute. I'm thinking.,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84917,84917,84917,84917,300,TROI,Didn't you tell me you took up poker so you could get into the officer's game on the Potemkin?,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84918,84918,84918,84918,301,RIKER,I happen to like poker.,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.3612
+84919,84919,84919,84919,302,TROI,But your senior officers might have thought you were trying to ingratiate yourself -- I guess they realized you were just young and inexperienced and decided not to hold it against you.,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84920,84920,84920,84920,303,RIKER,Maybe I am being too hard on Lavelle...,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84921,84921,84921,84921,304,WORF,I do not believe he is bluffing.,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84922,84922,84922,84922,305,GEORDI,I do. What've you got?,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84923,84923,84923,84923,306,GEORDI,I can't believe this.,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84924,84924,84924,84924,307,RIKER,(as he takes in the chips) I'm your worst nightmare...,30   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84925,84925,84925,84925,308,BEN,I knew it!,31   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84926,84926,84926,84926,309,LAVELLE,How could you tell I was bluffing?,31   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84927,84927,84927,84927,310,BEN,"You don't really expect me to answer that, do you... ?",31   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84928,84928,84928,84928,311,SITO,Well... it's getting pretty late. Maybe we should all get some sleep.,31   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84929,84929,84929,84929,312,BEN,One more hand --,31   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84930,84930,84930,84930,313,RIKER,"Come on, Geordi. You're not going to quit just because I'm unbeatable?",32   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84931,84931,84931,84931,314,GEORDI,There's something I need to do down in Engineering.,32   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84932,84932,84932,84932,315,GEORDI,I'll get you next time.,32   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84933,84933,84933,84933,316,RIKER,I'll be waiting...,32   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84934,84934,84934,84934,317,GEORDI,"Good night, everybody.",32   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84935,84935,84935,84935,318,LAVELLE,Good night.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84936,84936,84936,84936,319,TAURIK,"What I find curious is that when Commander La Forge saw that the technique I was proposing was more efficient, he seemed... annoyed.",33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84937,84937,84937,84937,320,BEN,Of course he was.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84938,84938,84938,84938,321,LAVELLE,He didn't like the fact that you knew something he didn't.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84939,84939,84939,84939,322,TAURIK,Do you think I have irreparably damaged my relationship with him?,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84940,84940,84940,84940,323,LAVELLE,It depends on what kind of guy he is.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84941,84941,84941,84941,324,BEN,"Ante up, gentlemen.",33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84942,84942,84942,84942,325,LAVELLE,Come in.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84943,84943,84943,84943,326,LAVELLE,Commander --,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84944,84944,84944,84944,327,GEORDI,Don't get up. I just dropped by to see Taurik.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84945,84945,84945,84945,328,TAURIK,"What can I do for you, sir?",33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84946,84946,84946,84946,329,GEORDI,I'm headed for Engineering to run those tests on the nacelles. Since you've already put in some work on the technique... I thought you might like to give me a hand.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84947,84947,84947,84947,330,TAURIK,"I would be pleased to, sir.",33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84948,84948,84948,84948,331,GEORDI,Great. Let's go.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84949,84949,84949,84949,332,BEN,How about some blackjack?,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84950,84950,84950,84950,333,LAVELLE,I've got to get some sleep so I can be sharp tomorrow.,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84951,84951,84951,84951,334,BEN,"Why? So you can get promoted, have more responsibility, and have to get to sleep even earlier?",33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84952,84952,84952,84952,335,LAVELLE,Good night...,33   INT. LAVELLE/TAURIK'S QUARTERS,LAVELLE/TAURIK'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84953,84953,84953,84953,336,RIKER,Come in.,38   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84954,84954,84954,84954,337,BEVERLY,Ben --,38   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84955,84955,84955,84955,338,BEN,I just cleaned out some junior officers and I thought I'd do the same here.,38   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84956,84956,84956,84956,339,RIKER,You're welcome to give it a try.,38   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84957,84957,84957,84957,340,TROI,Pull up a chair.,38   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84958,84958,84958,84958,341,BEN,Thanks --,38   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84959,84959,84959,84959,342,WORF,Ensign Sito --,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84960,84960,84960,84960,343,WORF,I also teach an advanced class -- I believe you may be ready to participate.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84961,84961,84961,84961,344,WORF,"Before you can join the group, however, you must pass the... gik'tal.",39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84962,84962,84962,84962,345,SITO,Gik'tal?,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84963,84963,84963,84963,346,WORF,It is a very ancient Klingon ritual. It tests your knowledge of the forms of the mok'bara.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84964,84964,84964,84964,347,SITO,I should practice first...,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84965,84965,84965,84965,348,WORF,No. No practice. That is part of the ritual -- the test must be... unannounced.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84966,84966,84966,84966,349,WORF,Come.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84967,84967,84967,84967,350,WORF,Can you see?,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84968,84968,84968,84968,351,SITO,No...,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84969,84969,84969,84969,352,SITO,Ow!,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84970,84970,84970,84970,353,WORF,You did not anticipate.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84971,84971,84971,84971,354,SITO,How am I supposed to defend myself when I can't see a thing?,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84972,84972,84972,84972,355,WORF,Stop making excuses! Replace the blindfold.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84973,84973,84973,84973,356,SITO,"No, this isn't a fair test.",39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84974,84974,84974,84974,357,WORF,"Very good, Ensign. You have passed the challenge.",39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84975,84975,84975,84975,358,SITO,What? By taking off the blindfold?,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84976,84976,84976,84976,359,WORF,It takes courage to say the test is not fair.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84977,84977,84977,84977,360,SITO,"There's one thing I don't understand. Doesn't gik'tal mean ""to the death""?",39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84978,84978,84978,84978,361,WORF,You... speak Klingon?,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84979,84979,84979,84979,362,SITO,Sir... is there really such a thing as the gik'tal challenge?,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0772
+84980,84980,84980,84980,363,WORF,No... there is not.,39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84981,84981,84981,84981,364,WORF,"But perhaps the next time you are judged unfairly, you will not have to suffer so many bruises before you protest.",39   INT. SHIP'S GYMNASIUM,SHIP'S GYMNASIUM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84982,84982,84982,84982,365,SITO,-- all I've ever wanted is to make a career for myself in Starfleet. I can't change what happened at the Academy. No one can. All I can do is work hard and try to earn the respect of the people I serve with.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84983,84983,84983,84983,366,SITO,"If you're not going to give me that chance, then I respectfully request that you transfer me to another ship.",40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84984,84984,84984,84984,367,PICARD,"If you're looking for a more lenient commander, I don't think you'll find one.",40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84985,84985,84985,84985,368,SITO,"Permission to speak freely, sir?",40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84986,84986,84986,84986,369,PICARD,Please do.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84987,84987,84987,84987,370,SITO,If you didn't want me on your ship you should have said so when I was assigned to it.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84988,84988,84988,84988,371,SITO ,It's not your place to punish me for what I did at the Academy.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84989,84989,84989,84989,372,SITO,"I've worked hard here. My record is exemplary. If you're going to judge me, judge me for what I am now.",40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84990,84990,84990,84990,373,PICARD,"All right, Ensign. I will...",40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84991,84991,84991,84991,374,PICARD,It took a lot of courage to come here and face me after what I said to you the other day.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84992,84992,84992,84992,375,PICARD,You see... I didn't call you in here then to assess your qualifications for the Ops position.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84993,84993,84993,84993,376,SITO,I... don't understand.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84994,84994,84994,84994,377,PICARD,I was harsh with you because I was assessing you for a very important mission. A mission that could involve a situation far more... unnerving than being dressed down by your commanding officer.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84995,84995,84995,84995,378,SITO,May I ask what this mission --,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84996,84996,84996,84996,379,PICARD,Join the senior staff in the Observation Lounge at oh-nine hundred hours. We'll discuss it then.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84997,84997,84997,84997,380,SITO,"Yes, sir.",40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84998,84998,84998,84998,381,PICARD,And Ensign... I do know how you ended up on the Enterprise. I asked for you.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
+84999,84999,84999,84999,382,PICARD,I wanted to make sure you got a fair chance to redeem yourself.,40   INT. READY ROOM,READY ROOM,INT.,Lower Decks,1993-11-17,The Next Generation,267.txt,0.0
