@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+135000,135000,135000,135000,337,DATA,"Please, take the tricorder. I am unable to sufficiently pinpoint your location to be able to hand it to you.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135001,135001,135001,135001,338,PICARD,You're blind.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135002,135002,135002,135002,339,DATA,"Yes, sir.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135003,135003,135003,135003,340,PICARD,(handing the tricorder to Worf) Destroy this.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135004,135004,135004,135004,341,WORF,"But, sir, it contains the record of all that we have discovered here.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135005,135005,135005,135005,342,PICARD,And that is precisely why it must be destroyed. Time?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135006,135006,135006,135006,343,WORF,Three minutes.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135007,135007,135007,135007,344,PICARD,I am running out of time. We all are.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135008,135008,135008,135008,345,PICARD,This room and the technology contained in it must be destroyed. It cannot be allowed to fall into Romulan hands.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135009,135009,135009,135009,346,DATA,I understand...,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135010,135010,135010,135010,347,PICARD,"How! How do I do it? How can I destroy everything? Control room, the probes? All of it.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135011,135011,135011,135011,348,DATA,The... power... source.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135012,135012,135012,135012,349,PICARD,I detonate it?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135013,135013,135013,135013,350,DATA,Yes.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135014,135014,135014,135014,351,PICARD,How? What do I do?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135015,135015,135015,135015,352,DATA,The... probes.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135016,135016,135016,135016,353,PICARD,Probes... the probes. Launch? Do I launch the probes?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135017,135017,135017,135017,354,PICARD,What's that going to do? Nothing.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135018,135018,135018,135018,355,DATA,Doors.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135019,135019,135019,135019,356,PICARD,Doors?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135020,135020,135020,135020,357,WORF,Perhaps the probes are in a launch bay.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135021,135021,135021,135021,358,PICARD,The doors will open automatically when the launch begins. I'd have to override.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135022,135022,135022,135022,359,DATA,Yes.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135023,135023,135023,135023,360,PICARD,The power source! The backwash from the rockets will spill into the main power grids and cause an overload.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135024,135024,135024,135024,361,DATA,Cor... rect.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135025,135025,135025,135025,362,PICARD,"Which control keys? Damn, I forgot you can't see.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135026,135026,135026,135026,363,DATA,Help.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135027,135027,135027,135027,364,DATA,Describe.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135028,135028,135028,135028,365,PICARD,We're directly opposite the gateway. There is a rectangular screen.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135029,135029,135029,135029,366,DATA,Left... one meter.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135030,135030,135030,135030,367,PICARD,Triangular screen. The lights directly above are solid amber. To the left red --,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135031,135031,135031,135031,368,DATA,"Cor... rect. Key... blue, amber... amber... red.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135032,135032,135032,135032,369,PICARD,That's the launch sequence?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135033,135033,135033,135033,370,PICARD,How do I override the doors?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135034,135034,135034,135034,371,DATA,"Blue, blue, blue.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135035,135035,135035,135035,372,PICARD,I hope you're not stuttering. I don't know how long a delay there will be between the launch and the detonation. I'll hold off keying the launch sequence until you're through the gate. How long until the Enterprise returns?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135036,135036,135036,135036,373,WORF,"Almost time, sir. Captain, you will be killed.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135037,135037,135037,135037,374,PICARD,I'll go through the gate.,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135038,135038,135038,135038,375,WORF,But where will you end up?,37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135039,135039,135039,135039,376,PICARD,"Any place is going to be better than this room. Worf, I'm depending on you. Get Data back to the Enterprise. He may be their last hope.",37   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135040,135040,135040,135040,377,RIKER,Worf! What happened? Where's the captain?,38   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135041,135041,135041,135041,378,WORF,We must take Data to Engineering.,38   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135042,135042,135042,135042,379,GEORDI,"I don't know how to help him. But comparing recorded norms for Data to the current readings, it's clear that all his functions are going crazy. If we had an expert -- Maddox, or somebody --",39   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135043,135043,135043,135043,380,GEORDI,He's gone.,39   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135044,135044,135044,135044,381,COMPUTER,Kandar se. Kandar ere.,40   INT. ICONIAN CONTROL ROOM,ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135045,135045,135045,135045,382,GEORDI,Data!,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135046,135046,135046,135046,383,RIKER,What the hell?,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135047,135047,135047,135047,384,DATA,"Ah, I have access.",41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135048,135048,135048,135048,385,GEORDI,The self-correcting mechanism --,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135049,135049,135049,135049,386,DATA,Captain? Captain?,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135050,135050,135050,135050,387,GEORDI,It's constantly kicking in to make minute adjustments in the positronic brain.,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135051,135051,135051,135051,388,DATA,This is the Enterprise. How did I get here?,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135052,135052,135052,135052,389,RIKER,He cleared the Iconian program from his own system. How?,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135053,135053,135053,135053,390,DATA,Iconia? I was on Iconia. Now I am on the Enterprise.,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135054,135054,135054,135054,391,RIKER,"Geordi, this is critical. How?",41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135055,135055,135055,135055,392,GEORDI,"Let me think for a second. There was an incompatible program running through Data's system, so the mechanism started searching for a way to keep him alive. The solution must have been a shutdown and a total wipe of all affected memory.",41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135056,135056,135056,135056,393,DATA,Query. What have I forgotten?,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135057,135057,135057,135057,394,RIKER,One question. Can we do the same thing with the Enterprise?,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135058,135058,135058,135058,395,GEORDI,"I don't see why not... but it will have to be a complete shutdown. We turn her off, effect a wipe of the Yamato log and every subsequent event since we downloaded it. I'll then reload all the ship's programs from the protected archives in the main core.",41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135059,135059,135059,135059,396,RIKER,"Geordi, a shutdown means that the shields are going to be coming down too, and we're hanging nose to nose with a Romulan battle cruiser.",41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135060,135060,135060,135060,397,GEORDI,"Hey, Commander, whether it's Romulan phasers or our own warp engines we're just as dead.",41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,-0.6486
+135061,135061,135061,135061,398,RIKER,Make it so.,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135062,135062,135062,135062,399,DATA,Can I help?,41   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.4019
+135063,135063,135063,135063,400,COMPUTER,"Kandar more, kandar sete, kandar ne.",42   INT. ICONIAN CONTROL ROOM,ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135064,135064,135064,135064,401,O'BRIEN,All systems functioning.,44   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135065,135065,135065,135065,402,RIKER,Lock on the captain and bring him back.,44   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135066,135066,135066,135066,403,O'BRIEN,"Scanning, sir. Got him.",44   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135067,135067,135067,135067,404,COMPUTER,"Kandar qetar, Kandar jet, kandar piqe, kandar...",45   INT. ICONIAN CONTROL ROOM (OPTICAL),ICONIAN CONTROL ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135068,135068,135068,135068,405,COMPUTER,Setha-tri par trukatha.,46   INT. ROMULAN MAIN BRIDGE (OPTICAL),ROMULAN MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135069,135069,135069,135069,406,O'BRIEN,I've lost him!,47   INT. ENTERPRISE TRANSPORTER ROOM,ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135070,135070,135070,135070,407,RIKER,Damn it!,47   INT. ENTERPRISE TRANSPORTER ROOM,ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135071,135071,135071,135071,408,O'BRIEN,Got him! Sir! He's on the Romulan ship.,47   INT. ENTERPRISE TRANSPORTER ROOM,ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135072,135072,135072,135072,409,RIKER,How the hell... never mind. Energize!,47   INT. ENTERPRISE TRANSPORTER ROOM,ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135073,135073,135073,135073,410,TARIS,You did this.,48   INT. ROMULAN MAIN BRIDGE (OPTICAL),ROMULAN MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135074,135074,135074,135074,411,COMPUTER,Setha-ki par trukatha.,48   INT. ROMULAN MAIN BRIDGE (OPTICAL),ROMULAN MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135075,135075,135075,135075,412,PICARD,Did what?,48   INT. ROMULAN MAIN BRIDGE (OPTICAL),ROMULAN MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135076,135076,135076,135076,413,TARIS,Activated the auto-destruct. I at least have the satisfaction that you will die with us.,48   INT. ROMULAN MAIN BRIDGE (OPTICAL),ROMULAN MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135077,135077,135077,135077,414,COMPUTER,Setha-mille par trukatha.,48   INT. ROMULAN MAIN BRIDGE (OPTICAL),ROMULAN MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135078,135078,135078,135078,415,PICARD,"(feeling the effects of the transporter kicking in) Not I think, today, Commander.",48   INT. ROMULAN MAIN BRIDGE (OPTICAL),ROMULAN MAIN BRIDGE,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135079,135079,135079,135079,416,PICARD,Bridge.,49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135080,135080,135080,135080,417,DATA,"Yes, sir.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.4019
+135081,135081,135081,135081,418,PICARD,Get us out of here. The Romulan ship is set for auto-destruct and they can't deactivate it.,49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135082,135082,135082,135082,419,RIKER,"Wait, sir. Open a hailing frequency.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135083,135083,135083,135083,420,O'BRIEN,"Open, sir.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135084,135084,135084,135084,421,RIKER,"Commander Taris, prepare to receive a transmission from our chief engineer. He'll instruct you on how to purge your system.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135085,135085,135085,135085,422,DATA,"Commander, your transmission has been received and acknowledged.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135086,135086,135086,135086,423,RIKER,"Now, Mister Data, warp speed please -- just in case Taris's engineer is not as efficient as Lieutenant La Forge.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135087,135087,135087,135087,424,DATA,"Yes, sir. Captain, sensors picking up a large explosion on the surface of Iconia. It is equivalent to a force twelve hydrogen explosion. Blast radius is nine hundred kilometers.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135088,135088,135088,135088,425,DATA,The dust particles entering the stratosphere will take an estimated seven months to fall back to the surface. The diminution in sunlight will have the effect of lowering average daily surface temperatures on Iconia by fifteen degrees Celsius.,49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135089,135089,135089,135089,426,PICARD,I see Data's back to normal.,49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135090,135090,135090,135090,427,RIKER,With a little touch of amnesia.,49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135091,135091,135091,135091,428,PICARD,"It seems that everything is back to normal. Well done, Commander.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135092,135092,135092,135092,429,RIKER,"Thank you, sir.",49   INT. ENTERPRISE TRANSPORTER ROOM (OPTICAL),ENTERPRISE TRANSPORTER ROOM,INT.,Contagion,1989-01-04,The Next Generation,137.txt,0.0
+135093,135093,135093,135093,0,PICARD,"All hands, this is the captain. The sun in the Delos system is undergoing large-scale magnetic field changes, producing violent, gigantic flares.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135094,135094,135094,135094,1,PICARD,"We will be studying this star at close range. Even though we will be running with full deflectors, the closeness of the event and its severity are going to create problems.",2    INT. ENTERPRISE - VARIOUS SHOTS,ENTERPRIS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135095,135095,135095,135095,2,PICARD,"Intense magnetic fields have a disruptive effect on electrical systems. We can therefore expect an interruption of communications, and potential temporary loss of other systems. As a precaution, we are now going to Yellow Alert...",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135096,135096,135096,135096,3,PICARD,"Stay sharp, everyone.",3    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135097,135097,135097,135097,4,DATA,"Engineering, this is Ops. Bring all systems on line and direct full power to the shields.",5    INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135098,135098,135098,135098,5,DATA,All sections secure.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135099,135099,135099,135099,6,PICARD,Lieutenant La Forge?,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135100,135100,135100,135100,7,GEORDI,Course set.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135101,135101,135101,135101,8,PICARD,Half impulse.,6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135102,135102,135102,135102,9,GEORDI,"Half impulse, aye.",6    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135103,135103,135103,135103,10,PICARD,On Main Viewer.,8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135104,135104,135104,135104,11,PICARD,Mask out the photosphere.,8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135105,135105,135105,135105,12,PICARD,"Magnify. Quadrant one-seven, sector four-zero-three.",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135106,135106,135106,135106,13,RIKER,I've never seen anything like this before. The violence of these eruptions is awesome.,8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135107,135107,135107,135107,14,PICARD,"And humbling, Number One.",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135108,135108,135108,135108,15,DATA,"Reading an unusual number of sunspots and eruptive prominences, sir. The magnetic field is extremely irregular.",8    INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135109,135109,135109,135109,16,WESLEY,"Captain, deflectors are being hit by a huge burst of X-rays.",12   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135110,135110,135110,135110,17,WESLEY,"Wow -- look! Sir, my console seems to be overloading.",12   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135111,135111,135111,135111,18,WORF,"The X-ray burst is disrupting systems, Captain. I'm adjusting deflectors to compensate.",12   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135112,135112,135112,135112,19,WORF,Increase power to forward deflectors.,13   INT. MAIN ENGINEERING,MAIN ENGINEERING,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135113,135113,135113,135113,20,PICARD,Status report.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135114,135114,135114,135114,21,WORF,"All systems operational, sir.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135115,135115,135115,135115,22,TROI,Captain. The level of tension on the ship is mounting.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135116,135116,135116,135116,23,PICARD,Understandable. Data?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135117,135117,135117,135117,24,DATA,If we are to investigate this unusual solar activity -- we must get closer.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135118,135118,135118,135118,25,PICARD,"Mister La Forge, move us closer.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135119,135119,135119,135119,26,PICARD,"We'll be pushing our deflectors to the limit, but we'll get a good look at this phenomenon.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135120,135120,135120,135120,27,WORF,"Captain, I have intercepted what seems to be a distress signal.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135121,135121,135121,135121,28,PICARD,Let me hear it.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135122,135122,135122,135122,29,,This... -- this is ... -- on the freighter Sanction... ... and unable to... .... Need help.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135123,135123,135123,135123,30,DATA,"The transmission is from a freighter in orbit around the fourth planet of the system. However, the receiving station is on the third planet.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135124,135124,135124,135124,31,PICARD,Open hailing frequency.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135125,135125,135125,135125,32,TASHA,Hailing frequencies open.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135126,135126,135126,135126,33,PICARD,"Unidentified freighter, this is the USS Enterprise. May we be of assistance?",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135127,135127,135127,135127,34,T'JON ,"Whoever you are, YES! .... cannot maintain... ... if you can help...",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135128,135128,135128,135128,35,PICARD,Can't you enhance the image?,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135129,135129,135129,135129,36,TASHA,Too much interference.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135130,135130,135130,135130,37,PICARD,Set a course to intersect with the freighter. Warp two.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135131,135131,135131,135131,38,GEORDI,"Aye, sir.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135132,135132,135132,135132,39,PICARD,Maintain Yellow Alert.,14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135133,135133,135133,135133,40,T'JON ,"Can't control... ... ship is losing orbit... ... heading into atmosphere... without help, we'll burn up.",14   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135134,135134,135134,135134,41,WORF,It is a freighter -- very old.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135135,135135,135135,135135,42,DATA,"Captain, our sensors are being severely affected by the sun flares.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135136,135136,135136,135136,43,PICARD,Helm -- get us in as close as possible to the freighter's orbit.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135137,135137,135137,135137,44,GEORDI,"Aye, sir.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135138,135138,135138,135138,45,DATA,There are six life forms aboard the freighter.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135139,135139,135139,135139,46,WORF,"Captain, the freighter's orbit is decaying.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135140,135140,135140,135140,47,PICARD,How long until it loses integrity?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135141,135141,135141,135141,48,WORF,A matter of minutes.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135142,135142,135142,135142,49,PICARD,"(he touches his arm-panel) Unidentified freighter, this is the USS Enterprise.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135143,135143,135143,135143,50,,"Enterprise, this is the Aurelian freighter... Sanction.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135144,135144,135144,135144,51,PICARD,Put this on the Main Viewer.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135145,135145,135145,135145,52,TASHA,The visual transmission is still breaking up.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135146,135146,135146,135146,53,PICARD,"Freighter, this is the Enterprise. What is your situation?",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135147,135147,135147,135147,54,T'JON ,... ... We are...,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135148,135148,135148,135148,55,SOBI ,Get us off here.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135149,135149,135149,135149,56,LANGOR ,Please -- help us.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135150,135150,135150,135150,57,PICARD,This is the Enterprise -- with all this interference it is difficult to copy your transmission -- if you all talk at once... it is impossible. Now -- please -- say again. What is your situation?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135151,135151,135151,135151,58,T'JON,I am T'Jon -- the captain of the Sanction.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135152,135152,135152,135152,59,PICARD,At last. How can we help?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135153,135153,135153,135153,60,T'JON,"We have lost -- I don't know... something -- and I am no longer able to maintain this orbit, nor am I able to use main thrusters. Everything's just kind of... you know... dead, I guess. It's all... you know... shut down.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135154,135154,135154,135154,61,PICARD,That's very vague. What's the computer analysis?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135155,135155,135155,135155,62,T'JON,The computer's not working very well.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135156,135156,135156,135156,63,PICARD,Data... can you tap into their computer and clarify the situation?,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135157,135157,135157,135157,64,DATA,I will attempt it.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135158,135158,135158,135158,65,TASHA,"Captain, the tractor beam is available, if you want it.",17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135159,135159,135159,135159,66,RIKER,At least we can pull them out of orbit before they enter the atmosphere.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135160,135160,135160,135160,67,PICARD,Yes. Captain T'Jon -- we are going to lock on our tractor beam and pull you out of orbit.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135161,135161,135161,135161,68,T'JON,Hey -- that's great.,17   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135162,135162,135162,135162,69,TASHA,"The solar flares are interfering with the tractor beam, Captain. I am unable to lock on.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135163,135163,135163,135163,70,WORF,"Captain, the freighter's orbit continues to deteriorate.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135164,135164,135164,135164,71,PICARD,"Captain T'Jon, we are unable to attach our tractor beam because of the intense solar activity.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135165,135165,135165,135165,72,T'JON ,I understand. Thanks for trying.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135166,135166,135166,135166,73,DATA,"Captain, I have determined what is malfunctioning on the freighter.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135167,135167,135167,135167,74,PICARD,Enterprise to Sanction. We have analyzed your problem.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135168,135168,135168,135168,75,T'JON,Great.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135169,135169,135169,135169,76,DATA,Your ship's design uses an electromagnetic coil to constrict the exhaust flow. That coil is misaligned.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135170,135170,135170,135170,77,PICARD,Have you the necessary tools to realign the coil?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135171,135171,135171,135171,78,T'JON,I don't think so.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135172,135172,135172,135172,79,DATA,"Captain, I believe we can provide the freighter with a temporary substitute. Ship's stores contain a coil of the proper type.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135173,135173,135173,135173,80,RIKER,Can we beam it over?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135174,135174,135174,135174,81,TASHA,Yes.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135175,135175,135175,135175,82,PICARD,"Captain T'Jon, we will beam over a replacement coil.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135176,135176,135176,135176,83,T'JON,That's great... and that will fix us up?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135177,135177,135177,135177,84,PICARD,"Well, once it's installed.",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135178,135178,135178,135178,85,T'JON,Right. ... And how do we do that?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135179,135179,135179,135179,86,PICARD,What's the matter with these people? How can he be the captain of the vessel and be ignorant of its simplest functions?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135180,135180,135180,135180,87,RIKER,If this weren't so serious it would make you laugh.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135181,135181,135181,135181,88,PICARD,Captain T'Jon -- how long have you been in command of the freighter?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135182,135182,135182,135182,89,T'JON,Seven years. This is my twenty-sixth voyage to Brekka.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135183,135183,135183,135183,90,PICARD,And you don't know how to align a control coil?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135184,135184,135184,135184,91,T'JON,It's never come up.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135185,135185,135185,135185,92,RIKER,Is there anyone on board who can do it?,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135186,135186,135186,135186,93,T'JON,Hold on a minute... I'll ask.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135187,135187,135187,135187,94,T'JON,Sorry -- nobody here knows anything about it.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135188,135188,135188,135188,95,RIKER,I'll beam over with a team.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135189,135189,135189,135189,96,TASHA,Captain -- I strongly recommend against anyone from this ship beaming over. The solar interference is too great.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135190,135190,135190,135190,97,WORF,The freighter has entered the planet's atmosphere. Disintegration is imminent.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135191,135191,135191,135191,98,RIKER,We are running out of options.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135192,135192,135192,135192,99,PICARD,(nods to Tasha and Riker) Let's get them off there.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135193,135193,135193,135193,100,PICARD,Captain T'Jon. Prepare to beam over.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135194,135194,135194,135194,101,T'JON,If you think that's best.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135195,135195,135195,135195,102,PICARD,"Unless you have another option -- yes, I ""think that's best.""",21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135196,135196,135196,135196,103,T'JON,Whatever you say.,21   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135197,135197,135197,135197,104,TASHA,I can't maintain a positive lock.,22   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135198,135198,135198,135198,105,WESLEY,An unusual E-M burst. Readings off scale.,23   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135199,135199,135199,135199,106,RIKER,"Freighter Sanction, this is the Enterprise. We are having difficulty getting a fix.",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135200,135200,135200,135200,107,TASHA,"Have them go to their own Transporter Room. It will be tricky, but perhaps I can link the two transporters in series and get them over with the increased power.",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135201,135201,135201,135201,108,RIKER,It's worth a try. Captain T'Jon -- go immediately to your Transporter Room. Contact me from there.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135202,135202,135202,135202,109,T'JON,"Right, Enterprise -- we'll call you from there... but, if you can't get us with your transporter, what makes you think ours will do the job?",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135203,135203,135203,135203,110,TASHA,I'm going to interconnect them.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135204,135204,135204,135204,111,T'JON,I didn't know you could do that.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135205,135205,135205,135205,112,TASHA,Hurry -- we're running out of time.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135206,135206,135206,135206,113,T'JON,We're on the way.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135207,135207,135207,135207,114,TASHA,I don't think they're going to make it.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135208,135208,135208,135208,115,RIKER,Captain T'Jon doesn't seem to care one way or the other.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135209,135209,135209,135209,116,TASHA,Worf -- how much time do we have?,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135210,135210,135210,135210,117,WORF,"One minute, twenty-eight seconds.",24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135211,135211,135211,135211,118,TASHA,Captain T'Jon -- are you there?,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135212,135212,135212,135212,119,T'JON,Yeah. We're in the transporter room.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135213,135213,135213,135213,120,TASHA,Great. Activate your transporter. Set coordinates nine -- seven -- zero -- three... mark two... six... eight.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135214,135214,135214,135214,121,T'JON,Did you say... two -- eight -- six... or eight -- eight -- six.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135215,135215,135215,135215,122,TASHA,(frustrated almost to the point of anger) TWO -- SIX -- EIGHT.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135216,135216,135216,135216,123,T'JON,Got it.,24   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135217,135217,135217,135217,124,WORF,The hull temperature of the freighter is passing three thousand degrees.,25   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135218,135218,135218,135218,125,PICARD,"What's the holdup, Number One?",25   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135219,135219,135219,135219,126,RIKER,We are establishing the link now.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135220,135220,135220,135220,127,T'JON,We are ready.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135221,135221,135221,135221,128,TASHA,"Then all six of you get on the transporter platform -- on my signal, energize.",26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135222,135222,135222,135222,129,TASHA,I've got their initial transporter signal. Interlock complete. Energize on my mark. Four -- three -- two -- one -- energize.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135223,135223,135223,135223,130,PICARD,Did you get them off?,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135224,135224,135224,135224,131,RIKER,No. They stayed on the freighter -- and sent their cargo.,26   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135225,135225,135225,135225,132,PICARD,Cargo!? Are those people crazy? What could possibly be that important?,31   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135226,135226,135226,135226,133,WORF,Sir -- the freighter is disintegrating.,31   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135227,135227,135227,135227,134,GEORDI,"Captain, the freighter is entering the atmosphere. Her hull temperature is building.",33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135228,135228,135228,135228,135,PICARD,Number One -- I don't understand these people. Their lives are in danger and they're sending over cargo?,33   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135229,135229,135229,135229,136,RIKER,Unbelievable.,34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135230,135230,135230,135230,137,PICARD,We're losing the freighter. You've got to beam those people over now.,34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135231,135231,135231,135231,138,RIKER,Clear that cargo. Beam it to a hold.,34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135232,135232,135232,135232,139,TASHA,"Aye, sir.",34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135233,135233,135233,135233,140,RIKER,"Freighter Sanction... this is the Enterprise, get on the transporter pad and... Forget it. Just lock on to any life forms you can find and get them over.",34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135234,135234,135234,135234,141,TASHA,"Trying, sir.",34   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135235,135235,135235,135235,142,GEORDI,The freighter is going down.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135236,135236,135236,135236,143,PICARD,Transporter Room! You're out of time.,35   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135237,135237,135237,135237,144,TASHA,Reading six life forms... But I can't get a solid lock.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135238,135238,135238,135238,145,RIKER,We've no choice. Energize.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135239,135239,135239,135239,146,RIKER,You said SIX - where are... ... the other two?,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135240,135240,135240,135240,147,TASHA,"The lock didn't hold, sir.",36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135241,135241,135241,135241,148,RIKER,Re-establish.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135242,135242,135242,135242,149,TASHA,It's too late.,36   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135243,135243,135243,135243,150,PICARD,Number One!?,37A  INT. MAIN BRIDGE - ANGLE ON MAIN VIEWER (OPTICAL),MAIN BRIDGE - ANGLE ON MAIN VIEWER,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135244,135244,135244,135244,151,RIKER,"Two are lost, sir. But we saved four.",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135245,135245,135245,135245,152,RIKER,I am Commander William Riker of the USS Enterprise. I'm sorry. We were unable to rescue the other two.,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135246,135246,135246,135246,153,RIKER,Were they with you... (then indicating the other pair) ... or with you?,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135247,135247,135247,135247,154,T'JON,With us.,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135248,135248,135248,135248,155,RIKER,"We did everything we could, if you had come instead of the cargo, you could have all made it.",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135249,135249,135249,135249,156,T'JON,The cargo... Where is it?,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135250,135250,135250,135250,157,ROMAS,"You did save it, didn't you?",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135251,135251,135251,135251,158,RIKER,"Yes, we did. It's in one of our cargo holds. You act like it's more important than your comrades.",39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135252,135252,135252,135252,159,T'JON,May we see it?,39   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135253,135253,135253,135253,160,T'JON,Thank you. It's just we thought we had lost it.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135254,135254,135254,135254,161,SOBI,"Careful with your choice of words, T'Jon. It's ours, not yours.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135255,135255,135255,135255,162,T'JON,We paid a fair price for it!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135256,135256,135256,135256,163,LANGOR,"You offered a fair price, but we have not received it.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135257,135257,135257,135257,164,ROMAS,You accepted our goods in trade!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135258,135258,135258,135258,165,SOBI,Then where are they? Tell me!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135259,135259,135259,135259,166,T'JON,That's not our problem!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135260,135260,135260,135260,167,LANGOR,No more than the barrel is your property. It's as simple as this. The goods were never delivered; they were destroyed with your ship.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135261,135261,135261,135261,168,SOBI,Hence the deal was incomplete; hence possession of the Felicium remains ours!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135262,135262,135262,135262,169,ROMAS,We need it.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135263,135263,135263,135263,170,SOBI,"Commander, I request you transport my associate -- -- and myself down to our planet, with our merchandise.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135264,135264,135264,135264,171,T'JON,"Yes, get them out of here! But the barrel stays.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135265,135265,135265,135265,172,LANGOR,There's no reasoning with you.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135266,135266,135266,135266,173,SOBI,"Langor, you expect too much from them. You always have and you are always disappointed. (then to T'Jon with a hard edge) You didn't pay -- so it's not yours.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135267,135267,135267,135267,174,T'JON,"Damn you, Sobi --",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135268,135268,135268,135268,175,TASHA,Stop this! Now!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135269,135269,135269,135269,176,RIKER,Security to Cargo Bay Eleven!,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135270,135270,135270,135270,177,TASHA,"Behave yourselves, Gentlemen.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135271,135271,135271,135271,178,TASHA,"Escort our ""visitors"" to the Observation Lounge.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135272,135272,135272,135272,179,TASHA,A natural electrical charge... ?,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135273,135273,135273,135273,180,RIKER,Formidable.,39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135274,135274,135274,135274,181,TASHA,"Yes, and a difficult weapon to confiscate.",39A  INT. CARGO BAY (OPTICAL),CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135275,135275,135275,135275,182,T'JON,We have to resolve this. There isn't much time.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135276,135276,135276,135276,183,SOBI,What can you offer?,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135277,135277,135277,135277,184,T'JON,Everything we had went down with the Sanction.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135278,135278,135278,135278,185,SOBI,Then it is going to be difficult to accommodate you.,41   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135279,135279,135279,135279,186,GEORDI,"Solar flares are increasing in magnitude, sir. Deflectors are shaky, but holding.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135280,135280,135280,135280,187,PICARD,"Maintain. And our rather combative guests, Number One?",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135281,135281,135281,135281,188,RIKER,"Waiting for you in the Observation Lounge, sir.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135282,135282,135282,135282,189,PICARD,"Data, what can you tell me about the inhabitants of this system?",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135283,135283,135283,135283,190,DATA,"Not very much, sir. The only recorded contact with the Delos system was over two hundred years ago. A scout ship reported two inhabited planets, both technologically just on the edge of acquiring space travel.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135284,135284,135284,135284,191,GEORDI,"Odd that in two centuries, neither civilization advanced further.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,-0.466
+135285,135285,135285,135285,192,TROI,"Sir, I find it strange that none of our visitors feel much remorse about the two freighter passengers who perished... yet their barrel of cargo is a source of great anxiety to them.",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.128
+135286,135286,135286,135286,193,PICARD,"Yes, let us pay a call and get some answers. Counselor, Number One, Mister Data...",42   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135287,135287,135287,135287,194,RIKER,"Captain, may I present Sobi and Langor from the planet Brekka, which we are now orbiting. And T'Jon and Romas... from the neighboring planet, Ornara.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135288,135288,135288,135288,195,PICARD,I am sorry we could not save your ship.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135289,135289,135289,135289,196,T'JON,You could have repaired it.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135290,135290,135290,135290,197,PICARD,Yes.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135291,135291,135291,135291,198,T'JON,We have only two left. Neither works. They are critical to our survival. Could you fix them?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135292,135292,135292,135292,199,PICARD,Mister Data?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135293,135293,135293,135293,200,DATA,"Our computer downloaded the specifications for the magnetic coils the freighters depend on, sir. Assuming the malfunction is similar... suitable replacements can be fabricated.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135294,135294,135294,135294,201,PICARD,Instruct Engineering to proceed.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135295,135295,135295,135295,202,DATA,"Aye, sir.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135296,135296,135296,135296,203,T'JON,"Now, as for our cargo...",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135297,135297,135297,135297,204,SOBI,"Our cargo, Captain.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135298,135298,135298,135298,205,ROMAS,"Wrong, Sobi --",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135299,135299,135299,135299,206,PICARD,My first officer has said ownership of the cargo is in dispute. This is a question which must be settled by whatever legal mechanisms exist between your societies.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135300,135300,135300,135300,207,T'JON,"Captain Picard, you don't understand. This is a matter of life and death.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135301,135301,135301,135301,208,PICARD,Why is that? What is the cargo?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135302,135302,135302,135302,209,T'JON,Medicine.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135303,135303,135303,135303,210,PICARD,Indeed.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135304,135304,135304,135304,211,ROMAS,"Our home planet is in desperate need, Captain. Ornara suffers from a lethal plague.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135305,135305,135305,135305,212,T'JON,The cargo you have impounded represents the only hope of life for our people.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135306,135306,135306,135306,213,PICARD,Is that right?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135307,135307,135307,135307,214,SOBI,Yes.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135308,135308,135308,135308,215,LANGOR,"You must think us heartless brutes, Captain, but look at our side of it. The plant which yields the medicine Felicium grows only in remote areas of our home planet Brekka.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135309,135309,135309,135309,216,SOBI,"It must be painstakingly cultivated, harvested, and purified... a complex and expensive process.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135310,135310,135310,135310,217,LANGOR,That single shipment of Felicium represents an enormous investment. We can't just give it away!,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135311,135311,135311,135311,218,T'JON,We paid for it. We are asking only for what is ours.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135312,135312,135312,135312,219,LANGOR,"That is your viewpoint. Ours, of course, differs.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135313,135313,135313,135313,220,ROMAS,You are going to hold to that position.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135314,135314,135314,135314,221,SOBI,I am constrained to abide by the terms of our agreement.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135315,135315,135315,135315,222,ROMAS,Then you condemn us to death!,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135316,135316,135316,135316,223,T'JON,Romas --,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135317,135317,135317,135317,224,ROMAS,"You disgust me! If you saw the suffering the plague has brought, would you still be so heartless?",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135318,135318,135318,135318,225,ROMAS,"We are going to get to find out, when you see what the plague does to us.",43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135319,135319,135319,135319,226,PICARD,Romas -- you and T'Jon carry the disease?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135320,135320,135320,135320,227,ROMAS,Yes. Every Ornaran does.,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135321,135321,135321,135321,228,PICARD,Then you may have brought it aboard my ship! Was there a medical scan during transport?,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135322,135322,135322,135322,229,RIKER,Unverified -- the solar flares may have caused a malfunction in the biofilters --,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135323,135323,135323,135323,230,PICARD,Red Alert! Medical emergency -- decks twelve and thirteen. Doctor Crusher to the Observation Lounge immediately!,43   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135324,135324,135324,135324,231,SOBI,"You find us well, I trust?",45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135325,135325,135325,135325,232,BEVERLY,As far as I can tell. Your physiology is somewhat different but I detect no dangerous virus or bacteria.,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135326,135326,135326,135326,233,LANGOR,I assure you we are in perfect health.,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135327,135327,135327,135327,234,T'JON,We're not! We need our medicine.,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135328,135328,135328,135328,235,SOBI,Our medicine.,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135329,135329,135329,135329,236,T'JON,We paid for it -- it's ours now!,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135330,135330,135330,135330,237,BEVERLY,Enough!,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135331,135331,135331,135331,238,SOBI,"Of course you are right, Doctor. Could we leave now?",45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135332,135332,135332,135332,239,BEVERLY,I see no reason why not. Escort them to their quarters.,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135333,135333,135333,135333,240,LANGOR,"Captain, could I talk with you please... in private.",45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135334,135334,135334,135334,241,PICARD,Not right now.,45   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135335,135335,135335,135335,242,PICARD,What have you learned?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135336,135336,135336,135336,243,BEVERLY,The Brekkians are free of infection. The Ornarans have all the symptoms of a disease -- but I can't find a cause.,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135337,135337,135337,135337,244,PICARD,Perhaps the transporter filtered it out when they were beamed aboard?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135338,135338,135338,135338,245,BEVERLY,"There's no record of it. Then again, the solar flare activity may have caused a transporter malfunction.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135339,135339,135339,135339,246,PICARD,Are they going to die?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135340,135340,135340,135340,247,BEVERLY,"The physiology is somewhat different from ours, so I need to check further, but... my instinct says no.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135341,135341,135341,135341,248,PICARD,Do you think we are in danger from this plague?,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135342,135342,135342,135342,249,BEVERLY,"Again, I don't think so, but I need more time to know for sure.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135343,135343,135343,135343,250,PICARD,"There are some missing pieces to the puzzle, don't you feel that too?",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,-0.296
+135344,135344,135344,135344,251,BEVERLY,What's missing here is a little humanity.,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,-0.296
+135345,135345,135345,135345,252,PICARD,"Are we losing our professional detachment, Doctor?",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,-0.3818
+135346,135346,135346,135346,253,BEVERLY,"Perhaps. As Captain, I think you should know that I am developing a very active dislike of the Brekkians.",45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135347,135347,135347,135347,254,PICARD,Understandable.,45A  INT. DR. CRUSHER'S OFFICE,DR. CRUSHER'S OFFICE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135348,135348,135348,135348,255,T'JON,"Captain, you must give us back our cargo.",45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135349,135349,135349,135349,256,PICARD,I can't do that.,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135350,135350,135350,135350,257,T'JON,Why not? It belongs to us.,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135351,135351,135351,135351,258,PICARD,And the Brekkians insist it is theirs.,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135352,135352,135352,135352,259,ROMAS,They lie!,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135353,135353,135353,135353,260,PICARD,"Maybe so, but it's not for me to decide.",45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135354,135354,135354,135354,261,ROMAS,We need some now... NOW! I don't care if it's your 'decision' or not... get us some!,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135355,135355,135355,135355,262,T'JON,"Captain, what's happening to us, is happening to thousands more on Ornara. Please understand the magnitude of the problem.",45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135356,135356,135356,135356,263,ROMAS,Your people don't need it -- (indicating the Brekkians) -- they don't need it... our people do!,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135357,135357,135357,135357,264,T'JON,"If you don't give it to us, you will be party to murder... not only us, but an entire civilization!",45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.2828
+135358,135358,135358,135358,265,T'JON,"Sorry, I did not mean to insult you. I'm feeling very shaky.",45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.1801
+135359,135359,135359,135359,266,ROMAS,We cannot hold out much longer!,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135360,135360,135360,135360,267,BEVERLY,"No, Captain -- I think they should have it. They believe it will help them. That in itself might control their symptoms.",45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135361,135361,135361,135361,268,PICARD,I'll talk with the Brekkians.,45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135362,135362,135362,135362,269,T'JON,"Thank you, Captain. I appreciate anything you can do.",45B  INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135363,135363,135363,135363,270,SOBI,"May I say, Captain, how impressed we are with your ship and its facilities.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135364,135364,135364,135364,271,PICARD,Thank you.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135365,135365,135365,135365,272,LANGOR,And its crew. Everyone is so efficient and professional.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135366,135366,135366,135366,273,PICARD,I am glad you are comfortable. I've come to seek your agreement to an Ornaran request.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135367,135367,135367,135367,274,SOBI,We cannot --,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135368,135368,135368,135368,275,LANGOR,Wait. Let the Captain speak. We want to be reasonable.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135369,135369,135369,135369,276,PICARD,The Ornarans are quite ill and are insistent that they need Felicium.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135370,135370,135370,135370,277,SOBI,That is not surprising.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135371,135371,135371,135371,278,PICARD,Then would you object to allowing them enough Felicium for their immediate needs?,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135372,135372,135372,135372,279,SOBI,"Captain, we Brekkians are in business -- we are not in the habit of giving away what has not been paid for.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135373,135373,135373,135373,280,PICARD,You would let them die rather than share the medicine?,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135374,135374,135374,135374,281,LANGOR,"We want to be fair, Captain. We agree to permitting them two dosages for immediate use.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135375,135375,135375,135375,282,SOBI,No charge.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135376,135376,135376,135376,283,PICARD,I'll have our medical officer handle it.,46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135377,135377,135377,135377,284,LANGOR,"I trust you won't mind if we are present while you open the cargo, Captain.",46   INT. BREKKIAN'S GUEST QUARTERS,BREKKIAN'S GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135378,135378,135378,135378,285,LANGOR,Point-zero-one milliliters is the proper individual dosage.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135379,135379,135379,135379,286,PICARD,A very potent substance.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135380,135380,135380,135380,287,SOBI,"We've perfected our distillation process over the years. In my grandfather's day, the same amount of Felicium would have filled five rooms this size, Captain.",47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135381,135381,135381,135381,288,DATA,No doubt you have applied your technology from other industries to the refinement of this product.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135382,135382,135382,135382,289,SOBI,We have no other industry.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135383,135383,135383,135383,290,PICARD,None at all?,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135384,135384,135384,135384,291,LANGOR,We don't need any. The Ornarans provide us everything we need -- in exchange for this.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135385,135385,135385,135385,292,DATA,Fascinating. Your society dedicated exclusively to the production of a single product.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135386,135386,135386,135386,293,PICARD,"A product for which you have no use for, but which the Ornarans can't live without.",47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135387,135387,135387,135387,294,LANGOR,"One of the little ironies of life, Captain.",47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135388,135388,135388,135388,295,SOBI,But one we'd be fools not to take advantage of. It is mutually beneficial.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135389,135389,135389,135389,296,LANGOR,The Ornarans provide us with the necessities of life and we provide them with the necessities of living. It is a fair exchange.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135390,135390,135390,135390,297,PICARD,A most interesting relationship.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135391,135391,135391,135391,298,BEVERLY,Excuse me... I'll take this to Sickbay.,47   INT. CARGO BAY,CARGO BAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135392,135392,135392,135392,299,BEVERLY,Can I help?,48   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135393,135393,135393,135393,300,T'Jon,No.,48   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135394,135394,135394,135394,301,ROMAS,Hurry up!,48   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135395,135395,135395,135395,302,BEVERLY,You are feeling better?,48   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135396,135396,135396,135396,303,T'JON,Yes. Thank you. I'm fine now.,48   INT. SICKBAY,SICKBAY,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135397,135397,135397,135397,304,PICARD,"Report, Doctor Crusher.",49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135398,135398,135398,135398,305,BEVERLY,I may not know Felicium's full effect on Ornaran physiology. But I know how to interpret physical reactions.,49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135399,135399,135399,135399,306,PICARD,Are the Ornarans recovering?,49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135400,135400,135400,135400,307,BEVERLY,"Both T'Jon and Romas are fine... in fact, too fine. Felicium is a narcotic.",49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135401,135401,135401,135401,308,PICARD,"Then T'Jon, Romas -- indeed every Ornaran --",49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135402,135402,135402,135402,309,BEVERLY,-- is a drug addict.,49   INT. MAIN BRIDGE (OPTICAL),MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135403,135403,135403,135403,310,RIKER,It's a fascinating little tale we've run into of disease -- rescue -- commerce -- and interdependence between two worlds.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135404,135404,135404,135404,311,PICARD,"You have piqued my interest, Number One -- please continue.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135405,135405,135405,135405,312,RIKER,Mister Data.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135406,135406,135406,135406,313,DATA,"Beginning several thousand years ago, the two worlds took different paths. Ornara became technically sophisticated, Brekka did not. Then two hundred years ago Ornara was stricken by a devastating plague.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135407,135407,135407,135407,314,RIKER,Their advanced technology could offer no solution.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135408,135408,135408,135408,315,DATA,"Somehow, and there is limited information on this point, the cure was found in a plant which is indigenous to only Brekka, and which resisted all attempts at cultivation on Ornara.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135409,135409,135409,135409,316,RIKER,"In any case a trading situation quickly developed, which still exists.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135410,135410,135410,135410,317,DATA,"The Ornarans acquire the Felicium from the Brekkians, and in exchange, the Ornarans provide the Brekkians with foods and staples.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135411,135411,135411,135411,318,BEVERLY ,A nice arrangement for the Brekkians.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135412,135412,135412,135412,319,RIKER,And for the Ornarans -- without the medicine they would all die.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135413,135413,135413,135413,320,BEVERLY,"No they wouldn't. Captain, here are the results of my analysis. Felicium is definitely a powerful and addictive narcotic. What's more, despite what the Ornarans have been saying, it's not a medicine. It was a medicine, and it did cure the plague, two hundred years ago.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135414,135414,135414,135414,321,PICARD,And they no longer need it.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135415,135415,135415,135415,322,BEVERLY,The plague is irrelevant now: it doesn't exist... and it's not going to recur.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135416,135416,135416,135416,323,PICARD,The Ornarans have no medical need for Felicium.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135417,135417,135417,135417,324,BEVERLY,"No, but their physical and psychological need is very real.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135418,135418,135418,135418,325,BEVERLY,What are you going to do?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135419,135419,135419,135419,326,PICARD,Based on what we know so far... there is nothing I can do.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135420,135420,135420,135420,327,BEVERLY,And you don't think drug addiction and exploitation is sufficient cause?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135421,135421,135421,135421,328,PICARD,This situation has existed for a very long time. Those two societies are intertwined in a symbiotic relationship.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135422,135422,135422,135422,329,BEVERLY,With one society profiting at the expense of the other.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135423,135423,135423,135423,330,PICARD,That's how you see it.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135424,135424,135424,135424,331,BEVERLY,I can synthesize a non-addictive substitute which will ease their withdrawal symptoms.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135425,135425,135425,135425,332,PICARD,No. We can't do that either.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135426,135426,135426,135426,333,BEVERLY,I know this. You can't let them have the Felicium.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135427,135427,135427,135427,334,PICARD,Why? Because it goes against our moral sensibilities? Our mission is not to force Federation or Earth values on others in the galaxy.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135428,135428,135428,135428,335,BEVERLY,"In this case... you're wrong, Captain. One hundred percent wrong.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135429,135429,135429,135429,336,TASHA,"Captain, I am receiving a call from Ornara.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135430,135430,135430,135430,337,PICARD,Patch it in here.,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135431,135431,135431,135431,338,TASHA,"The signal's ragged, but I think I can put it on the Viewscreen.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135432,135432,135432,135432,339,MARGAN,I am Margan. Are my people on board your ship?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135433,135433,135433,135433,340,PICARD,"Some of them, yes.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135434,135434,135434,135434,341,MARGAN,May I speak with them?,53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135435,135435,135435,135435,342,PICARD,"Yes. Lieutenant Yar, have the Ornarans brought in... no, wait, I don't want them to have access to the bridge. We will contact you in a few minutes. I will take this in the guest quarters.",53   INT. CAPTAIN'S READY ROOM,CAPTAIN'S READY ROOM,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135436,135436,135436,135436,343,WESLEY,I can understand how this could happen to the Ornarans... What I can't understand is why anyone would voluntarily become dependent upon a chemical.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135437,135437,135437,135437,344,DATA,"Yet, the voluntary addiction to drugs is a recurrent theme in many cultures.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135438,135438,135438,135438,345,WESLEY,As in the twenty-first century... when Earth governments used narcotics to control the military.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135439,135439,135439,135439,346,DATA,"Or look at the twentieth century. The dangers of drug abuse were well known, yet their use was commonplace.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135440,135440,135440,135440,347,WESLEY,Why?,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135441,135441,135441,135441,348,DATA,That is what I do not understand.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135442,135442,135442,135442,349,TASHA,No one wants to become dependent. That happens later.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135443,135443,135443,135443,350,WESLEY,But it does happen. So why do people even start?,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135444,135444,135444,135444,351,TASHA,"Oh, lots of reasons... My home planet was a place of great poverty and violence. For some, the only escape was through drugs.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135445,135445,135445,135445,352,DATA,I fail to comprehend how a chemical substance can provide an escape.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135446,135446,135446,135446,353,TASHA,It doesn't. But it makes you think it does. You have to understand -- drugs can make you feel good.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135447,135447,135447,135447,354,TASHA,They put you on top of the world. You're happy... Sure of yourself. In control. A lot of people never feel that otherwise.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135448,135448,135448,135448,355,DATA,But it is artificial.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135449,135449,135449,135449,356,TASHA,"It doesn't feel artificial. It feels natural, good, and mind expanding. Until the drug wears off. Then you pay the price. Once you come down, you're lower than when you started. So you take the drug again -- and it kicks you back up. But not as high this time.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135450,135450,135450,135450,357,WESLEY,So you take more.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135451,135451,135451,135451,358,TASHA,But each peak gets lower and the valleys get deeper. Before you know it -- you're taking the drug not to feel good but to keep from feeling bad.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135452,135452,135452,135452,359,WESLEY,And that's the trap.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135453,135453,135453,135453,360,TASHA,You think the drug expands your universe -- but it actually shrinks it. Shrinks it to where you and the drug are all that's left.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135454,135454,135454,135454,361,TASHA ,"Pretty soon, all you care about is getting your next dosage. You'll lie, cheat, steal -- anything to get that fix.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135455,135455,135455,135455,362,DATA,Certainly by then you would realize the danger.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135456,135456,135456,135456,363,TASHA,That's the worst of it. You don't care. The drug is your salvation -- your survival. Nothing else is important.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135457,135457,135457,135457,364,WESLEY,I guess I just don't understand.,53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135458,135458,135458,135458,365,TASHA,"Wesley, I hope you never do.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135459,135459,135459,135459,366,PICARD,"Lieutenant Yar, we are ready in the guest quarters.",53A  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135460,135460,135460,135460,367,MARGAN,T'Jon. Have you got it?,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135461,135461,135461,135461,368,T'JON,"Well, it's here, but...",56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135462,135462,135462,135462,369,MARGAN,You've got to get it to us. T'Jon... please... We're dying here. You don't know... this is the worst it's ever been.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135463,135463,135463,135463,370,T'JON,I'm doing everything I can. See... what happened was...,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135464,135464,135464,135464,371,MARGAN,"Stop. I can't listen. T'Jon... we need the medicine. So, many people... so much suffering. You've got to get it to us. I can't... I can't go on. Help, T'Jon... please.",56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135465,135465,135465,135465,372,PICARD,I'm sorry.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135466,135466,135466,135466,373,T'JON,Take us to our planet - leave us there with our medicine or this person dies.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135467,135467,135467,135467,374,T'JON,Don't you see -- I have no choice. We were sent to bring back the Felicium. The suffering on my planet is too great. People are dying. It doesn't matter any more whether we are entitled to the Felicium... we have to have it.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135468,135468,135468,135468,375,PICARD,Let him go.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135469,135469,135469,135469,376,T'JON,"Take us there now -- or give us a shuttle -- but we must have the medicine... if you refuse, this person dies.",56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135470,135470,135470,135470,377,PICARD,I will not be coerced.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135471,135471,135471,135471,378,T'JON,I'll do it. I'll kill him.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135472,135472,135472,135472,379,PICARD,No you won't. You're not a killer and neither am I.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135473,135473,135473,135473,380,T'JON,Help us... please... help us.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135474,135474,135474,135474,381,PICARD,I'm not sure that I can.,56A  INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135475,135475,135475,135475,382,LANGOR,"Captain Picard, we couldn't help overhearing. Could I see you for a moment?",62A  INT. ORNARAN GUEST QUARTERS,ORNARAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135476,135476,135476,135476,383,PICARD,"Come with me, Doctor. This could be interesting.",62A  INT. ORNARAN GUEST QUARTERS,ORNARAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135477,135477,135477,135477,384,LANGOR,We have thought about this a great deal.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135478,135478,135478,135478,385,SOBI,Both of us feel deeply about what is happening on Ornara.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135479,135479,135479,135479,386,LANGOR,"Although this is going to cause hardship to us and to our people, we have decided to give the Felicium to them.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135480,135480,135480,135480,387,SOBI,They can pay for it when they are able.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135481,135481,135481,135481,388,LANGOR,We don't want to cause any suffering.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135482,135482,135482,135482,389,PICARD,I wonder why I expected this.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135483,135483,135483,135483,390,LANGOR,Pardon?,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135484,135484,135484,135484,391,PICARD,It's the other shoe.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135485,135485,135485,135485,392,BEVERLY,"The Ornarans are not aware, are they?",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135486,135486,135486,135486,393,LANGOR,Of what?,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135487,135487,135487,135487,394,BEVERLY,That the plague which nearly destroyed Ornara... infected your world as well.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135488,135488,135488,135488,395,LANGOR,You don't know that for sure.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135489,135489,135489,135489,396,BEVERLY,It had to.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135490,135490,135490,135490,397,PICARD,"But somehow, one of your ancestors realized that your desire for the drug continued after the disease had been cured. They made the connection and were able to end their addiction.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135491,135491,135491,135491,398,BEVERLY,But these same wonderful people also realized that their neighbors never found out. Their need for the drug grew to the point it is now. Your sole source of support comes from providing the narcotic.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135492,135492,135492,135492,399,PICARD,And the refinement process of which you are so proud was a way to make Felicium even more addicting... and tighten your grip on the Ornarans even further.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135493,135493,135493,135493,400,LANGOR,Are you going to tell them?,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135494,135494,135494,135494,401,PICARD,"No. I can't tell them. You see, I am bound by the rules of the United Federation of Planets, which say I am not to interfere in other worlds, other cultures. To tell them any of this would be interfering and would violate the Prime Directive.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135495,135495,135495,135495,402,SOBI,You're talking to us about it...,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135496,135496,135496,135496,403,PICARD,Telling you things you already know... which changes nothing.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135497,135497,135497,135497,404,BEVERLY,Jean-Luc. I can synthesize something which will alleviate their suffering and make withdrawal painless.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135498,135498,135498,135498,405,LANGOR,"That won't be necessary, because if I understand the captain, he is going to allow the Ornarans to have the Felicium.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135499,135499,135499,135499,406,PICARD,"Yes, I am.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135500,135500,135500,135500,407,BEVERLY,"You can't do that. Some things go beyond words on a page. These Brekkians have knowingly enslaved others. They have caused untold suffering and hardship, just so their pitiful lives could be easier. At least don't give the Ornarans more drugs.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135501,135501,135501,135501,408,PICARD,It is not for me to make any of these decisions.,63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135502,135502,135502,135502,409,LANGOR,"You are absolutely right, Captain.",63   INT. BREKKIAN GUEST QUARTERS,BREKKIAN GUEST QUARTERS,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135503,135503,135503,135503,410,GEORDI,"Captain, we've arrived at Ornara and assumed standard orbit.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135504,135504,135504,135504,411,PICARD,Acknowledged. Thank you.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135505,135505,135505,135505,412,PICARD,Forgive me for doing what I must. I'm beaming you down to your world... with your Felicium.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135506,135506,135506,135506,413,T'JON,Good. I knew it would work out this way.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135507,135507,135507,135507,414,ROMAS,"You've made the only humanitarian decision, Captain.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135508,135508,135508,135508,415,SOBI,Langor and I will beam down to Ornara with you.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135509,135509,135509,135509,416,LANGOR,We'll work out payment terms for the Felicium.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135510,135510,135510,135510,417,T'JON,"On behalf of my people, I extend thanks for your benevolent attitude.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135511,135511,135511,135511,418,T'JON,"And I also thank you, Captain, for doing the right thing.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135512,135512,135512,135512,419,ROMAS,Your gift of these coils will ensure that our freighters will continue to work.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135513,135513,135513,135513,420,PICARD,No.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135514,135514,135514,135514,421,T'JON,No.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135515,135515,135515,135515,422,PICARD,"I will not supply you with spare parts for your freighters. If you want them repaired, you'll have to do that yourself.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135516,135516,135516,135516,423,ROMAS,In a short time our freighters will be inoperable.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135517,135517,135517,135517,424,PICARD,Quite possibly.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135518,135518,135518,135518,425,T'JON,But we depend on those freighters! We must have those parts.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135519,135519,135519,135519,426,SOBI,"If you withhold those coils, you're disrupting the stability of both our planets --",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135520,135520,135520,135520,427,LANGOR,-- and interfering with a trade arrangement that has lasted for generations! What of this Prime Directive of yours?,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135521,135521,135521,135521,428,PICARD,Nothing in the Prime Directive compels me to help you.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135522,135522,135522,135522,429,ROMAS,"You're an executioner, Captain. You want our world to perish.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135523,135523,135523,135523,430,PICARD,No. That's not what I want.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135524,135524,135524,135524,431,T'JON,"But without our freighters, there will be no more shipments of Felicium! We will die!",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135525,135525,135525,135525,432,BEVERLY,You must trust in yourselves. There are... other options.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135526,135526,135526,135526,433,PICARD,And you must understand that my oath as a Starfleet officer gives me no choice in the matter.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135527,135527,135527,135527,434,PICARD,Transporter Room. Lock onto our guests and their cargo and beam them down to Ornara.,67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135528,135528,135528,135528,435,T'JON,"Captain, I hope you realize what you've done to us.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135529,135529,135529,135529,436,PICARD,"Of that, you can be sure. Good luck.",67A  INT. CARGO HOLD,CARGO HOLD,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135530,135530,135530,135530,437,BEVERLY,"When the Felicium runs out, the people of Ornara will suffer horrible withdrawal pains.",68B  INT. TURBOLIFT,TURBOLIFT,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135531,135531,135531,135531,438,PICARD,No doubt.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135532,135532,135532,135532,439,BEVERLY,We could have made their burden easier.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135533,135533,135533,135533,440,PICARD,"Only in the short run. Painful as it will be, the people of Ornara -- and the people of Brekka -- must shape their own destinies.",68B  INT. TURBOLIFT,TURBOLIFT,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135534,135534,135534,135534,441,BEVERLY,It sounds so... heartless.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135535,135535,135535,135535,442,PICARD,"Doctor, it was not an easy decision.",68B  INT. TURBOLIFT,TURBOLIFT,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135536,135536,135536,135536,443,BEVERLY,I just hope it was the right one.,68B  INT. TURBOLIFT,TURBOLIFT,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135537,135537,135537,135537,444,PICARD,"Mister La Forge, take us out of orbit.",68C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135538,135538,135538,135538,445,GEORDI,"Aye, sir. Course laid in.",68C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135539,135539,135539,135539,446,PICARD,Engage.,68C  INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Symbiosis,1988-02-17,The Next Generation,123.txt,0.0
+135540,135540,135540,135540,0,TROI,That's very nice.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135541,135541,135541,135541,1,ERIC,"No, it isn't. I just can't get it right. Do you think the wings are too big?",1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135542,135542,135542,135542,2,TROI,"Not at all... birds have wings of all sizes, Eric. But you shouldn't worry about making it look perfect.",1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135543,135543,135543,135543,3,ERIC,But Mrs. Narsu said we should try to make our sculptures as realistic as possible.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135544,135544,135544,135544,4,TROI,She's right... it is important for you to be able to give the clay the shape you want it to have.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135545,135545,135545,135545,5,TROI ,But today you're not supposed to concentrate on technique. I'm here to help you focus more on the feelings you want to convey with your sculpture.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135546,135546,135546,135546,6,TROI,For instance... What do you think about when you see a bird?,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135547,135547,135547,135547,7,ERIC,Flying?,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135548,135548,135548,135548,8,TROI,"Fine. Then try to make your sculpture make me think of flying, too.",1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135549,135549,135549,135549,9,TROI,"How's it going, Data?",1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135550,135550,135550,135550,10,DATA,I have finished.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135551,135551,135551,135551,11,DATA,The dimensions are accurate to within one-point-three percent.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135552,135552,135552,135552,12,TROI,"I'm sure they are... You obviously have no trouble with realism, Data, but you're here to work on using your imagination. Maybe you should try something a little more... abstract.",1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135553,135553,135553,135553,13,TROI,I want you to start a new piece... I'd like you to sculpt... music.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135554,135554,135554,135554,14,DATA,Music?,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135555,135555,135555,135555,15,DATA,Counselor. Music is a collection of acoustic vibrations. How can I reproduce a sound with clay?,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135556,135556,135556,135556,16,TROI,Think of the effects that sounds have on people... the images that music brings to your mind... then give them a form.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135557,135557,135557,135557,17,TROI,"(continuing, looks at the shape) It's a start.",1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135558,135558,135558,135558,18,RIKER,Riker to Data... please report to the Bridge.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135559,135559,135559,135559,19,DATA,Acknowledged. I am on my way.,1    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135560,135560,135560,135560,20,PICARD ,"Captain's Log, Stardate 47615.2. We have encountered a rogue comet in sector one-one-five-six. It is not native to this region of space, and there is no previous record of this object on any Federation charts.",3    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135561,135561,135561,135561,21,DATA,"Based on its present trajectory, the comet appears to have originated in the D'Arsay system.",4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135562,135562,135562,135562,22,RIKER,That's over two sectors from here...,4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135563,135563,135563,135563,23,DATA,"That is correct, sir. This object has been en route for eighty-seven million years.",4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135564,135564,135564,135564,24,RIKER,That's a long time alone in the dark.,4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135565,135565,135565,135565,25,PICARD,"Begin a full sensor analysis, Mister Data. Log the results for the Federation Astrophysical Survey.",4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135566,135566,135566,135566,26,DATA,"Aye, sir.",4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135567,135567,135567,135567,27,DATA,The comet's outer shell is composed primarily of gaseous hydrogen and helium surrounding an icy mantle. The inner core consists of heavier elements--,4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135568,135568,135568,135568,28,PICARD,What was that?,4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135569,135569,135569,135569,29,DATA,There is distortion within the comet's inner core. I believed we experienced an intense sensor echo.,4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135570,135570,135570,135570,30,RIKER,Can you correct for it?,4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135571,135571,135571,135571,31,DATA,"I am attempting to do so now, sir...",4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135572,135572,135572,135572,32,DATA,I've compensated for the effect. Sensors are reconfigured for a low intensity sweep.,4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135573,135573,135573,135573,33,DATA ,"We are still picking up some interference, but the distortion is manageable... At these settings, the scan will be complete in thirty-nine hours.",4    INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135574,135574,135574,135574,34,BEVERLY,... Worf said he's going to be teaching us some Mok'bara throwing techniques today.,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135575,135575,135575,135575,35,TROI,More like falling techniques... the last time we did that I was sore for a week...,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135576,135576,135576,135576,36,BEVERLY ,What's this?,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135577,135577,135577,135577,37,TROI,I have no idea.,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135578,135578,135578,135578,38,BEVERLY,Maybe Wil left it here... a little present?,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135579,135579,135579,135579,39,TROI,It's not quite his style...,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135580,135580,135580,135580,40,BEVERLY,Then maybe you've got a secret admirer.,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135581,135581,135581,135581,41,TROI,That's an interesting thought...,5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135582,135582,135582,135582,42,BEVERLY,"Well, you can figure it out later. We're going to be late.",5    INT. TROI'S QUARTERS,TROI'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135583,135583,135583,135583,43,GEORDI,We've been getting some pretty strange readings from that comet... now it looks like there's some kind of energy generation coming from the core.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.6915
+135584,135584,135584,135584,44,WORF,Is that unusual?,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135585,135585,135585,135585,45,GEORDI,The core is normally just a chunk of rock... it should be completely inert.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135586,135586,135586,135586,46,RIKER,Maybe we've discovered a new kind of comet...,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135587,135587,135587,135587,47,RIKER,They must be changing the snacks around here.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135588,135588,135588,135588,48,GEORDI,I don't recognize it.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135589,135589,135589,135589,49,RIKER,"Well, whatever you do, don't put it in your mouth.",8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135590,135590,135590,135590,50,RIKER,This is terrible.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135591,135591,135591,135591,51,WORF,I like it.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135592,135592,135592,135592,52,RIKER,Then you can have it.. but it's not what I ordered.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135593,135593,135593,135593,53,GEORDI,Let's see what they're trying to poison you with...,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135594,135594,135594,135594,54,GEORDI,Wait a minute... this stuff is bio-organic... there are oxygenated cells... serum electrolytes... This looks like some kind of... blood.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135595,135595,135595,135595,55,RIKER,You're joking.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135596,135596,135596,135596,56,GEORDI,I'm serious.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135597,135597,135597,135597,57,RIKER,I'm gonna have a little talk with the bartender.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135598,135598,135598,135598,58,GEORDI,It might not be his fault. We should check out the replicator.,8    INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135599,135599,135599,135599,59,TROI,Nice... Very good... I like that...,9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135600,135600,135600,135600,60,TROI,Data... This is amazing. How did you come up with this?,9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.5859
+135601,135601,135601,135601,61,DATA,"I followed your advice, Counselor. I used my imagination.",9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135602,135602,135602,135602,62,TROI,That's an understatement...,9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135603,135603,135603,135603,63,DATA,"For some reason, as I shaped the clay, the image of the mask was exceptionally clear in my mind... the design seemed to flow quite... naturally.",9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135604,135604,135604,135604,64,TROI,"Data, have you been in my quarters?",9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135605,135605,135605,135605,65,DATA,"No, Counselor.",9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135606,135606,135606,135606,66,TROI,Somebody left an object in my room... it was some kind of artifact... and it looked similar to this. You don't know anything about that?,9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135607,135607,135607,135607,67,DATA,I do not.,9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135608,135608,135608,135608,68,ERIC,"Excuse me, Counselor, could you help me with my terminal? It's not working right.",9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135609,135609,135609,135609,69,DATA,Perhaps we should investigate this matter further.,9    INT. CLASSROOM,CLASSROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135610,135610,135610,135610,70,RIKER,These symbols don't match anything in Federation linguistic banks.,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135611,135611,135611,135611,71,GEORDI,"Some kind of alien information has been downloaded into our main computer. I'm not exactly sure how it's working, but it's reconfiguring our systems.",12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135612,135612,135612,135612,72,RIKER,How did it get in?,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135613,135613,135613,135613,73,GEORDI,I was able to trace its path from the replicators to our sensor array.,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135614,135614,135614,135614,74,RIKER,The sensors? They've been scanning that comet for the last eighteen hours...,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135615,135615,135615,135615,75,GEORDI,Those energy readings from the comet's core... the sensor echo... We still don't know what's inside that thing.,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135616,135616,135616,135616,76,RIKER,Maybe it's time we found out. Could we use the phasers to melt away the outer shell of the comet?,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135617,135617,135617,135617,77,GEORDI,"A dispersed wide-field beam might do the trick... it wouldn't take long to come up with the firing parameters... What do you think, Data?",12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135618,135618,135618,135618,78,GEORDI,What's the matter?,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135619,135619,135619,135619,79,DATA,I believe I recognize these symbols.,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135620,135620,135620,135620,80,RIKER,How?,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135621,135621,135621,135621,81,DATA,I do not know.,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135622,135622,135622,135622,82,GEORDI,Do you think your systems may have been affected?,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135623,135623,135623,135623,83,DATA,"It is a possibility. I do not believe my systems are currently impaired, but I will run a full self-diagnostic to make certain.",12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135624,135624,135624,135624,84,RIKER,What do these symbols mean?,12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135625,135625,135625,135625,85,DATA,"(continuing, as if reading) ""Boundary.""",12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135626,135626,135626,135626,86,DATA,"""Border."" ""Road."" ""Companion."" ""Message."" ""Messenger.""",12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135627,135627,135627,135627,87,DATA,"""Death.""",12   INT. ENGINEERING (OPTICAL),ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135628,135628,135628,135628,88,WORF,"Captain, phasers are set for wide dispersal, ten percent maximum power. The beam will terminate automatically when the comet's core is reached.",13   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135629,135629,135629,135629,89,PICARD,"Very well, Mister Worf. Fire...",13   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135630,135630,135630,135630,90,WORF,Phasers have terminated... the outer shell is gone...,15   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135631,135631,135631,135631,91,PICARD,Mister Data... What are we looking at? Is it a ship?,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135632,135632,135632,135632,92,DATA,"I do not believe so. The object is nearly solid, composed primarily of fortanium and several unknown materials... It is more than eighty-seven million years old.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135633,135633,135633,135633,93,RIKER,That's older than the comet itself. Could someone in the D'Arsay system have built it?,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135634,135634,135634,135634,94,PICARD,There are no technologically advanced cultures in that system now... but perhaps there were eighty-seven million years ago.,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135635,135635,135635,135635,95,RIKER,But why would anyone hide something like that inside a comet?,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135636,135636,135636,135636,96,PICARD,It's possible the frozen gasses simply accumulated over time as it travelled through space...,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135637,135637,135637,135637,97,GEORDI,"In any case, it's definitely responsible for the system anomalies we've been experiencing. It's been using our sensor beam as a carrier wave to get information into our computers and replicators.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135638,135638,135638,135638,98,PICARD,But the question remains: why? What is its purpose?,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135639,135639,135639,135639,99,DATA,"Captain, I believe this object is an informational archive.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135640,135640,135640,135640,100,PICARD,What makes you say that?,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135641,135641,135641,135641,101,DATA,"I... do not know, sir. However, I seem to have an intuitive understanding of its function.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135642,135642,135642,135642,102,GEORDI,The internal structure of that thing is pretty complex... and it's got a repetitive node configuration which might suggest a database of some kind... but it could be practically anything. I don't see how you could know for sure what it is.,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135643,135643,135643,135643,103,PICARD,Data... do you believe you're in communication with that object?,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135644,135644,135644,135644,104,DATA,"It is a possibility, sir. I recommend that we perform a level one diagnostic of my positronic net immediately to determine if that is the case.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135645,135645,135645,135645,105,PICARD,"Very well... Mister LaForge, give him a hand.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135646,135646,135646,135646,106,RIKER,Do you think it's just trying to make contact with us?,17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135647,135647,135647,135647,107,PICARD,"Perhaps. And if this really is an archive from some ancient civilization, we should allow it to do so. But we must be careful... Mister Worf, keep an eye on the sensors. If the Archive poses any danger to the ship, I want you to sever the connection immediately.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135648,135648,135648,135648,108,WORF,"Aye, sir.",17   INT. BRIDGE - INCLUDE VIEWSCREEN (OPTICAL),BRIDGE - INCLUDE VIEWSCREEN,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135649,135649,135649,135649,109,PICARD,Come.,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135650,135650,135650,135650,110,RIKER,Captain...,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135651,135651,135651,135651,111,PICARD,"Come in, Number One...",19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135652,135652,135652,135652,112,RIKER,"We've confined the system corruption. It's not spreading any further, but we've still got alien symbols floating around inside our computer...",19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135653,135653,135653,135653,113,RIKER,This is quite a collection you've assembled...,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135654,135654,135654,135654,114,RIKER,I've seen these things all over the ship. They all look the same... primitive and non-functional.,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135655,135655,135655,135655,115,PICARD,Ceremonial... and deceptively primitive. Only an advanced technological culture could have built that object out there. These artifacts must have played a ritualistic role in their society.,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135656,135656,135656,135656,116,RIKER,Do you think Data's right? Have we stumbled across some kind of alien library?,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135657,135657,135657,135657,117,PICARD,"It's possible... and if so, this could be a find of enormous significance. This ""library"" seems designed to do far more than simply store information. Who knows how much we could learn from it?",19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135658,135658,135658,135658,118,RIKER,I keep seeing this design...,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135659,135659,135659,135659,119,PICARD,It seems to be a symbol of some significance.,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135660,135660,135660,135660,120,RIKER,What do you think it means?,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135661,135661,135661,135661,121,PICARD,The concept of the four cardinal compass directions is common to many different cultures...,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135662,135662,135662,135662,122,RIKER,"The words Data recognized on the computer -- ""boundary,"" ""border,"" ""road"" -- they were also arranged in that design.",19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135663,135663,135663,135663,123,PICARD,"Perhaps everything with the compass design is part of the same theme -- movement. Finding a direction, travelling a path, crossing a boundary--",19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135664,135664,135664,135664,124,RIKER,"And ""death."" One of the symbols was ""death.""",19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135665,135665,135665,135665,125,PICARD,The ultimate boundary.,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135666,135666,135666,135666,126,PICARD,"I keep seeing this symbol, too.... but it's never prominently displayed...",19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135667,135667,135667,135667,127,PICARD,Always in the background... smaller than the others...,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135668,135668,135668,135668,128,RIKER,Do you know what it represents?,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135669,135669,135669,135669,129,PICARD,I have no idea.,19   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135670,135670,135670,135670,130,GEORDI,Lower synaptic functions are completely normal... Autonomous systems all check out...,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135671,135671,135671,135671,131,DATA,I suggest we examine the memory sub-systems next.,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135672,135672,135672,135672,132,GEORDI,All right...,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135673,135673,135673,135673,133,GEORDI,Data... what's the matter?,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135674,135674,135674,135674,134,DATA,I am... not certain. I am experiencing a curious sensation...,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135675,135675,135675,135675,135,GEORDI,What is it?,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135676,135676,135676,135676,136,DATA,An... impulse.,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135677,135677,135677,135677,137,GEORDI,Impulse? What kind of impulse?,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135678,135678,135678,135678,138,DATA,I do not know.,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135679,135679,135679,135679,139,GEORDI,I'm checking your higher functions.,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135680,135680,135680,135680,140,DATA,Geordi... What does it feel like when a person... loses his mind?,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135681,135681,135681,135681,141,GEORDI,"Data, you're scaring me. What's the matter?",22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135682,135682,135682,135682,142,DATA,I... do not... know...,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135683,135683,135683,135683,143,GEORDI,"You're gonna be all right. You're with me, okay?",22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135684,135684,135684,135684,144,DATA,Okay.,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135685,135685,135685,135685,145,GEORDI,What's going on... ?,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135686,135686,135686,135686,146,GEORDI,Data...,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135687,135687,135687,135687,147,DATA/IHAT,Masaka is waking.,22   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135688,135688,135688,135688,148,GEORDI,"Captain, he just--",23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135689,135689,135689,135689,149,DATA/IHAT,"I waited for you, Captain. You should feel honored... I don't usually wait for anybody.",23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135690,135690,135690,135690,150,PICARD,What is it you want?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135691,135691,135691,135691,151,DATA/IHAT,Masaka is waking.,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135692,135692,135692,135692,152,PICARD,Are you Masaka?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135693,135693,135693,135693,153,DATA/IHAT,What were my exact words?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135694,135694,135694,135694,154,GEORDI,"You said, ""Masaka is waking.""",23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135695,135695,135695,135695,155,DATA/IHAT,And isn't that what I've been saying since we first met?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135696,135696,135696,135696,156,DATA/IHAT,"I'm not ""Masaka"", Captain... I am Ihat.",23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135697,135697,135697,135697,157,PICARD,What have you done to Commander Data?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135698,135698,135698,135698,158,DATA/IHAT,Commander Data... ?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135699,135699,135699,135699,159,DATA/IHAT,You mean the one who was here?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135700,135700,135700,135700,160,PICARD,Yes.,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135701,135701,135701,135701,161,DATA/IHAT,He's gone. And who can say where?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135702,135702,135702,135702,162,PICARD,"Counselor Troi, report to Engineering immediately.",23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135703,135703,135703,135703,163,PICARD,Ihat. The place you came from... Is it a cultural archive of your species?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135704,135704,135704,135704,164,DATA/IHAT,I come from Masaka's city.,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135705,135705,135705,135705,165,PICARD,Are there others like you there?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135706,135706,135706,135706,166,DATA/IHAT,There are no others like me.,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135707,135707,135707,135707,167,PICARD,Who is Masaka?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135708,135708,135708,135708,168,DATA/IHAT,You will find out...,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135709,135709,135709,135709,169,DATA/IHAT,I don't think Masaka will like this place... at least not the way it is now...,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135710,135710,135710,135710,170,PICARD,I would like to know more about this Masaka... perhaps we can speak --,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135711,135711,135711,135711,171,DATA/IHAT,Do you understand pain? Death? That is all you need to know about Masaka... that is what she is.,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135712,135712,135712,135712,172,DATA/IHAT,You must go... leave this place before she finds you. It can be done... I did it...,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135713,135713,135713,135713,173,TROI,"What's going on, sir?",23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135714,135714,135714,135714,174,DATA/IHAT,Masaka... ?,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135715,135715,135715,135715,175,GEORDI,Data!,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135716,135716,135716,135716,176,DATA/VICTIM,Masaka! I am yours! Every part of me is yours!,23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135717,135717,135717,135717,177,PICARD,"(gravely, to N.D. Security) Get him to Sickbay.",23   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135718,135718,135718,135718,178,BEVERLY,"Every time he saw Deanna, he'd fall to his knees screaming ""Take me, Masaka -- take me.""",25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135719,135719,135719,135719,179,TROI,Data was acting as if he were a sacrificial victim of some kind...,25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135720,135720,135720,135720,180,PICARD,And apparently one all too willing to go to his death.,25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135721,135721,135721,135721,181,BEVERLY,I put him in isolation in his quarters. He's under guard... he seems to have calmed down a little.,25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135722,135722,135722,135722,182,RIKER,Couldn't we just shut him down and purge his memory systems?,25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135723,135723,135723,135723,183,GEORDI,I don't think it's going to be that simple...,25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135724,135724,135724,135724,184,GEORDI,"This is a micrograph of what's happened to Data's positronic net. As near as I can tell, these are behavioral nodes... I've found fourteen of them so far. I think the Archive is using Data to create different ""people"" from its culture... in the same way it used our replicators to create artifacts.",25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135725,135725,135725,135725,185,TROI,"As a result, his real personality has been completely buried. In a sense, Data has the android equivalent of multiple personalities.",25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135726,135726,135726,135726,186,GEORDI,And the Archive hasn't stopped yet... Data's positronic net is still being transformed. There's no way to tell how many more personalities might emerge...,25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135727,135727,135727,135727,187,RIKER,Our sensors are still in contact with the Archive. Would there be a risk to Data if we severed that connection?,25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135728,135728,135728,135728,188,GEORDI,"I don't know... but I wouldn't want to take the chance. Right now, our only link to the Archive is that sensor beam. If there's a way to reverse what's happened to Data, I think we're going to need that link to do it.",25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135729,135729,135729,135729,189,PICARD,"Mister La Forge, continue to scan the Archive. Try to find some way to access it. In the meantime, I'll see what I can learn from these ""people"" inside Data.",25   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135730,135730,135730,135730,190,PICARD,It's all right... I'm not going to hurt you...,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135731,135731,135731,135731,191,DATA/VICTIM,Only Masaka can hurt me... I am for her alone...,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135732,135732,135732,135732,192,PICARD,I need to speak to Ihat. Do you understand me? Ihat...,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135733,135733,135733,135733,193,DATA/IHAT,Captain...,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135734,135734,135734,135734,194,DATA/IHAT,That was a cruel joke to play on me. For a moment -- a brief moment -- I actually thought that woman was Masaka.,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135735,135735,135735,135735,195,PICARD,Whoever took your place wasn't afraid of Masaka -- he almost seemed eager for his fate.,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135736,135736,135736,135736,196,DATA/IHAT,"Pitiful, isn't it? ""Take me! Take me!"" Ha. You wouldn't catch me humiliating myself for a woman -- even if she were a queen.",26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135737,135737,135737,135737,197,PICARD,Then Masaka is your queen... ?,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135738,135738,135738,135738,198,DATA/IHAT,She's a lazy creature... she spends most of her time sleeping... The problem is what she does when she's awake.,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135739,135739,135739,135739,199,PICARD,Then should we try to keep her asleep?,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135740,135740,135740,135740,200,DATA/IHAT,Try to keep the sun from climbing the sky? Only Korgano can do that. And he's not here.,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135741,135741,135741,135741,201,PICARD,Where is he?,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135742,135742,135742,135742,202,DATA/BOY,Help me... please...,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135743,135743,135743,135743,203,PICARD,What's wrong?,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135744,135744,135744,135744,204,DATA/BOY,I'm afraid.,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135745,135745,135745,135745,205,PICARD,Of what?,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135746,135746,135746,135746,206,DATA/BOY,Of her.,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135747,135747,135747,135747,207,PICARD,Masaka?,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135748,135748,135748,135748,208,DATA/BOY,Her.,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135749,135749,135749,135749,209,PICARD,Picard to Bridge! Report!,26   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135750,135750,135750,135750,210,RIKER,"The Archive just activated some kind of tractor beam, sir. We can't disengage it.",27   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135751,135751,135751,135751,211,PICARD,Has there been any damage to the ship?,27   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135752,135752,135752,135752,212,RIKER,"Nothing major, sir, but Ten Forward reported an emergency. Worf's on his way.",27   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135753,135753,135753,135753,213,GEORDI,"Captain, there's some kind of energy pulse coming through the tractor beam...",27   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135754,135754,135754,135754,214,GEORDI,It's overriding our control systems...,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135755,135755,135755,135755,215,PICARD,I'll be right there...,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135756,135756,135756,135756,216,DATA/BOY,Don't leave me.,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135757,135757,135757,135757,217,PICARD,I... I... won't... leave you... Please... let go...,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135758,135758,135758,135758,218,DATA/BOY,Does it hurt?,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135759,135759,135759,135759,219,PICARD,Yes...,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135760,135760,135760,135760,220,DATA/BOY,She's going to hurt us all...,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135761,135761,135761,135761,221,DATA/IHAT,Now you've done it. Masaka is awake.,28   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135762,135762,135762,135762,222,TROI,Who is this?,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135763,135763,135763,135763,223,PICARD,I'd say it's Masaka. Ihat referred to her as a queen... it's not unusual in ceremonial cultures for royalty to be symbolized by a sun.,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135764,135764,135764,135764,224,TROI,You said the personalities inside Data were in awe of her... even terrified.,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135765,135765,135765,135765,225,PICARD,"According to Data, the sun image is also the symbol for death.",32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135766,135766,135766,135766,226,PICARD,There it is again... this U-shaped symbol... small and insignificant... almost like an afterthought...,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135767,135767,135767,135767,227,GEORDI,"Captain, this is incredible... These artifacts weren't beamed over here from the archive... the matter in Ten Forward was transformed.",32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135768,135768,135768,135768,228,PICARD,Into living plants? How is that possible?,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135769,135769,135769,135769,229,GEORDI,"I'm not sure. But bit by bit, the ship's being transformed.",32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135770,135770,135770,135770,230,WORF,We have received reports from the rest of the ship. Part of deck twelve is now an aqueduct.,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135771,135771,135771,135771,231,TROI,What are we being transformed into?,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135772,135772,135772,135772,232,GEORDI,I'm not sure I want to find out.,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135773,135773,135773,135773,233,PICARD,I don't think we have a choice... we'll have to destroy the Archive. Mister Worf?,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135774,135774,135774,135774,234,WORF,"Sir, our weapon control systems are inoperative. However, we could configure a photon torpedo for manual launch...",32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,-0.296
+135775,135775,135775,135775,235,PICARD,Make it so.,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135776,135776,135776,135776,236,PICARD,There's so much here we could have learned... I regret losing that opportunity.,32   INT. TEN FORWARD,TEN FORWARD,INT.,Masks,1993-12-09,The Next Generation,269.txt,-0.3818
+135777,135777,135777,135777,237,GEORDI,Okay... I've locked in the targeting parameters... what's the phase alignment now?,33   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135778,135778,135778,135778,238,WORF,Less than point seven percent.,33   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135779,135779,135779,135779,239,GEORDI,That'll do it. I'm setting the yield at maximum...,33   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135780,135780,135780,135780,240,WORF,Sir... the onboard power systems are not functioning...,33   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135781,135781,135781,135781,241,GEORDI,What's going on here... ?,33   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135782,135782,135782,135782,242,GEORDI,Something tells me we'd better get out of here...,33   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135783,135783,135783,135783,243,WORF,Engineering to Bridge -- emergency transport! Two to beam out...,33   INT. ENGINEERING,ENGINEERING,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135784,135784,135784,135784,244,RIKER,Maybe we'd better talk in here. The Observation Lounge seems to have become a swamp.,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135785,135785,135785,135785,245,PICARD,What's our status?,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135786,135786,135786,135786,246,GEORDI,So far the Archive's transformed over twenty percent of the ship... and we've lost main propulsion and weapons systems in the process.,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135787,135787,135787,135787,247,RIKER,What about communications? Sensors? Life support?,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135788,135788,135788,135788,248,GEORDI,"We have communications, and limited sensor control. Life support seems unaffected.",37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135789,135789,135789,135789,249,BEVERLY,I've been analyzing samples of these alien plant forms. They've been formed from biological matter we have on the ship...,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135790,135790,135790,135790,250,GEORDI,"The stone, the artifacts... they're made the same way -- extrapolated from the ship's own alloys.",37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135791,135791,135791,135791,251,BEVERLY,Apparently the Archive can reorder and transform molecular structures -- including DNA -- to make whatever it wants.,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135792,135792,135792,135792,252,PICARD,"So it's using our ship -- our alloys, our DNA, -- to create elements of its own culture...",37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135793,135793,135793,135793,253,TROI,But why is all this happening? What is the Archive trying to accomplish?,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135794,135794,135794,135794,254,WORF,It could be a weapon.,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135795,135795,135795,135795,255,WORF,It is powerful and insidious. It has completely disarmed us.,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135796,135796,135796,135796,256,RIKER,"Maybe it's more benign than that. If a civilization were dying... they might have created this technology to preserve their culture, and re-create it at some later point...",37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135797,135797,135797,135797,257,PICARD,It could even be a sophisticated terraforming device.,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135798,135798,135798,135798,258,PICARD,The Archive creates an environment... all the elements which enable a culture to exist...,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135799,135799,135799,135799,259,PICARD,"But whatever the intent behind the process, I don't want this ship transformed into an alien city. Mister La Forge, do you have any ideas?",37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135800,135800,135800,135800,260,GEORDI,"We still haven't been able to cut off that beam... but I've managed to access the Archive by sending an energy pulse back along their signal path. If I can locate the transformation program, I might be able to get control of it.",37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135801,135801,135801,135801,261,PICARD,"Good, keep at it...",37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135802,135802,135802,135802,262,PICARD,But somehow... I believe the answer lies there...,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135803,135803,135803,135803,263,PICARD,... with Masaka. We need to find her... access her... talk to her.,37   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135804,135804,135804,135804,264,PICARD,Hello...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135805,135805,135805,135805,265,DATA/ELDER,It's difficult... to stay warm...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135806,135806,135806,135806,266,PICARD,The fire feels good...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135807,135807,135807,135807,267,DATA/ELDER,But it's not warm enough. Not for an old man.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135808,135808,135808,135808,268,PICARD,Tell me... about Masaka.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135809,135809,135809,135809,269,DATA/ELDER,My daughter?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135810,135810,135810,135810,270,PICARD,Yes... how can I talk to her?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135811,135811,135811,135811,271,DATA/ELDER,Talk -- to Masaka?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135812,135812,135812,135812,272,PICARD,Yes. It's important. Can you tell her I must speak with her?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135813,135813,135813,135813,273,DATA/ELDER,"Children grow... forget their parents... no, only Korgano can talk to Masaka.",40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135814,135814,135814,135814,274,PICARD,Korgano... who is that?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135815,135815,135815,135815,275,DATA/ELDER,So cold... can't stay warm...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135816,135816,135816,135816,276,DATA/IHAT,"Well, you're a persistent one, aren't you?",40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135817,135817,135817,135817,277,PICARD,Ihat?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135818,135818,135818,135818,278,DATA/IHAT,Is anyone else so charming?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135819,135819,135819,135819,279,PICARD,Masaka is taking over my ship.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135820,135820,135820,135820,280,DATA/IHAT,I told you she would.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135821,135821,135821,135821,281,PICARD,I want to talk with her... but I'm told only Korgano can do that.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135822,135822,135822,135822,282,DATA/IHAT,Who told you that?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135823,135823,135823,135823,283,PICARD,An old man... Masaka's father...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135824,135824,135824,135824,284,DATA/IHAT,"Ah, yes... legends say she chopped him up and used his bones to make the world. Any wonder he doesn't like to talk about her?",40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135825,135825,135825,135825,285,PICARD,How can I find Korgano?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135826,135826,135826,135826,286,DATA/IHAT,I don't know. He's not chasing her anymore.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135827,135827,135827,135827,287,PICARD,Where has he gone?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135828,135828,135828,135828,288,DATA/IHAT,Stop asking these questions. I was fast enough to avoid her once... I don't want her to find me again. I'll end up on her sacrificial slab.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135829,135829,135829,135829,289,PICARD,If Masaka is looking for a sacrifice... she can take me instead. Perhaps then she'd stop looking for you.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135830,135830,135830,135830,290,DATA/IHAT,"Well, there's an idea. Better you than me.",40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135831,135831,135831,135831,291,PICARD,All right. Tell me what to do...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135832,135832,135832,135832,292,DATA/IHAT,You must build Masaka's temple... the Queen's temple. That will get her attention.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135833,135833,135833,135833,293,PICARD,Very well. How do I do that?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135834,135834,135834,135834,294,DATA/IHAT,You need the sign. I could give it to you... so could the Old Man. But just try getting it out of him.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135835,135835,135835,135835,295,PICARD,Give me the sign.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135836,135836,135836,135836,296,DATA/IHAT,If she finds out... You can't imagine her rage... she lets people die of thirst... a terrible death. Sometimes she burns them alive... She is glorious.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135837,135837,135837,135837,297,PICARD,Ihat... the sign. What is it?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135838,135838,135838,135838,298,DATA/IHAT,If she comes... you'll take my place?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135839,135839,135839,135839,299,PICARD,Yes.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135840,135840,135840,135840,300,DATA/IHAT,All right. Quickly. Give me your hand.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135841,135841,135841,135841,301,DATA/IHAT,"A line, as the unending horizon... A curve as --",40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135842,135842,135842,135842,302,DATA/IHAT,She has found me.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135843,135843,135843,135843,303,PICARD,"Masaka, show yourself. I'll go with you...",40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135844,135844,135844,135844,304,DATA/IHAT,It seems... I was not fast enough...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135845,135845,135845,135845,305,DATA/ELDER,So hard to stay warm...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135846,135846,135846,135846,306,PICARD,Let me help you...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135847,135847,135847,135847,307,DATA/ELDER,Are you one of my children? I don't remember anymore.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135848,135848,135848,135848,308,PICARD,I need your help. I need the sign for the temple. Masaka's temple.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135849,135849,135849,135849,309,DATA/ELDER,It won't help you. Korgano no longer pursues her. No one else can stop her.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135850,135850,135850,135850,310,PICARD,A line... as the unending horizon... A curve...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135851,135851,135851,135851,311,PICARD,A line... as the unending horizon.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135852,135852,135852,135852,312,DATA/ELDER,... as a rolling hillside.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135853,135853,135853,135853,313,DATA/ELDER,A point... as a distant bird.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135854,135854,135854,135854,314,DATA/ELDER,A ray... as the rising sun.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135855,135855,135855,135855,315,PICARD,Thank you.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135856,135856,135856,135856,316,DATA/ELDER,Now sit with me... tend the fire...,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135857,135857,135857,135857,317,DATA/BOY,I'm alone... there's no one left to help me... she's coming.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135858,135858,135858,135858,318,PICARD,Are the others dead? Did Masaka kill them?,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135859,135859,135859,135859,319,DATA/BOY,No. She sent them away. It will take them days to die.,40   INT. DATA'S QUARTERS,DATA'S QUARTERS,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135860,135860,135860,135860,320,GEORDI,I think I've found the Archive's transformation program.,42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135861,135861,135861,135861,321,PICARD,Will it accept the symbol for Masaka's temple?,42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135862,135862,135862,135862,322,GEORDI,I think so. I've isolated the program's input pathways. They're keyed to accept symbols...,42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135863,135863,135863,135863,323,GEORDI,"If I input this one, it should initiate the transformation process...",42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135864,135864,135864,135864,324,RIKER,And create the temple?,42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135865,135865,135865,135865,325,GEORDI,"I hope so... if this is the wrong symbol, it might turn the Enterprise into a big chunk of rock. There's no way to be sure.",42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135866,135866,135866,135866,326,TROI,The question is... can we trust a personality from an alien Archive that seems bent on taking us over?,42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135867,135867,135867,135867,327,PICARD,Ihat risked his life to show me that symbol... and Masaka killed him for doing it. I think we have to risk it.,42   INT. BRIDGE,BRIDGE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135868,135868,135868,135868,328,WORF,Captain. The entire deck has been cleared of personnel. We can proceed.,44   INT. CORRIDOR,CORRIDOR,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135869,135869,135869,135869,329,PICARD,"Commander Riker, we're ready...",44   INT. CORRIDOR,CORRIDOR,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135870,135870,135870,135870,330,RIKER,Understood. Initiate the transformation.,45   INT. BRIDGE - AFT SCIENCE,BRIDG,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135871,135871,135871,135871,331,GEORDI,"Aye, sir. I'm inputting the symbol...",45   INT. BRIDGE - AFT SCIENCE,BRIDG,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135872,135872,135872,135872,332,GEORDI,Now...,45   INT. BRIDGE - AFT SCIENCE,BRIDG,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135873,135873,135873,135873,333,PICARD,This would seem to be Masaka's temple...,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135874,135874,135874,135874,334,WORF,There's no one else here.,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135875,135875,135875,135875,335,PICARD,Ihat said creating the temple would get her attention... it may take time before she shows herself.,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135876,135876,135876,135876,336,WORF,And how will she do that?,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135877,135877,135877,135877,337,PICARD,I don't know.,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135878,135878,135878,135878,338,TROI,Captain... look at this.,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135879,135879,135879,135879,339,PICARD,This is the first time I've seen these two symbols paired... That could be significant...,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135880,135880,135880,135880,340,PICARD,There it is again... and again. Clearly this is an important pairing...,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135881,135881,135881,135881,341,PICARD,"""He's not chasing her anymore... """,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135882,135882,135882,135882,342,TROI,Sir?,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135883,135883,135883,135883,343,PICARD,"Ihat said that someone named Korgano was not chasing Masaka anymore. And the old man said, ""he pursues her no longer... """,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135884,135884,135884,135884,344,PICARD,"In a sense, this smaller symbol is chasing Masaka. Perhaps it represents Korgano.",47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135885,135885,135885,135885,345,WORF,The symbol suggests antlers of some kind... horns. Maybe it's meant to represent an animal...,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135886,135886,135886,135886,346,TROI,Animal gods are worshipped in many cultures...,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135887,135887,135887,135887,347,PICARD,"Both Ihat and the old man said that Korgano was the only one who could control Masaka... Many ritualistic cultures incorporate the idea of ""balance"" into their belief systems. Masaka is a queen, a powerful, god-like figure... it's not unreasonable to assume that she might have a counterpart... or a consort...",47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135888,135888,135888,135888,348,PICARD,Spread out... see if you can find that horn-like symbol anywhere else.,47   INT. TEMPLE - CONTINUOUS,TEMPL,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135889,135889,135889,135889,349,TROI,This is the most prominent instance of the horn symbol we've seen yet...,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135890,135890,135890,135890,350,WORF,But now it appears as though Masaka's sun is chasing it.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135891,135891,135891,135891,351,TROI,An animal chasing the sun... ?,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135892,135892,135892,135892,352,PICARD,Maybe it's simpler than that. Maybe the relationship between them is more like the sun and the moon.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135893,135893,135893,135893,353,WORF,I see... Masaka and Korgano changing positions... the sun setting and the moon rising.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135894,135894,135894,135894,354,PICARD,"Exactly. Two powerful rulers, changing places in a continuous cycle...",54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135895,135895,135895,135895,355,TROI,"And like the sun and the moon, only one of them can be in ascendance at any given time...",54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135896,135896,135896,135896,356,PICARD,If we could find Korgano within the Archive and bring him out... perhaps he could force Masaka to leave.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135897,135897,135897,135897,357,WORF,But would we be any better off with him?,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135898,135898,135898,135898,358,PICARD,Ihat and the others didn't seem to be afraid of Korgano...,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135899,135899,135899,135899,359,PICARD,Masaka...,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135900,135900,135900,135900,360,PICARD,"Masaka, I am Jean-Luc Picard of the Federation--",54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135901,135901,135901,135901,361,DATA/MASAKA,Go away.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135902,135902,135902,135902,362,PICARD,Please listen to us. Your Archive is destroying our ship--,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135903,135903,135903,135903,363,DATA/MASAKA,I do not hear you.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135904,135904,135904,135904,364,WORF,She won't even listen to us.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135905,135905,135905,135905,365,PICARD,Then we'll have to find someone she will listen to.,54   INT. TEMPLE,TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135906,135906,135906,135906,366,GEORDI,"I've found it, sir...",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135907,135907,135907,135907,367,GEORDI,This is the only place in the Archive where Korgano's moon symbol is by itself and not paired with Masaka's.,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135908,135908,135908,135908,368,PICARD,"Mister La Forge, access the transformation program.",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135909,135909,135909,135909,369,PICARD,"When you're ready, input the symbol.",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135910,135910,135910,135910,370,RIKER,Isn't that a little risky?,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135911,135911,135911,135911,371,TROI,We have no way of knowing what the result would be. The symbol might generate anything from Korgano's temple... to Korgano himself.,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135912,135912,135912,135912,372,PICARD,"In some sense, Korgano is Masaka's nemesis. Whatever this symbol represents -- it might give us a way to control her. If you have a better idea, I'd be glad to entertain it.",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135913,135913,135913,135913,373,GEORDI,"I've accessed the program, sir.",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135914,135914,135914,135914,374,PICARD,Initiate the transformation.,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135915,135915,135915,135915,375,RIKER,Another mask...,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135916,135916,135916,135916,376,PICARD,"Perhaps we've been approaching this incorrectly. We're dealing with a highly ritualistic culture... a society based on symbol and myth. Maybe we need to confront them on those terms instead... If I can incorporate myself into their rituals, perhaps Masaka will listen to me.",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135917,135917,135917,135917,377,RIKER,You're going to pose as Korgano.,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135918,135918,135918,135918,378,TROI,"Captain, we know so little about this culture... and even less about Korgano himself. How will you convince Masaka that you're him?",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135919,135919,135919,135919,379,PICARD,I'm not entirely sure. But there are similarities between this culture and others I've studied. I suppose I'll just have to improvise.,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135920,135920,135920,135920,380,PICARD,"Mister Worf, what's our status?",55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135921,135921,135921,135921,381,WORF,I estimate we have less than two hours before there's nothing left of the ship... at least nothing that we recognize.,55   INT. BRIDGE - AFT SCIENCE (OPTICAL),BRIDGE - AFT SCIENCE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135922,135922,135922,135922,382,PICARD ,Masaka!,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135923,135923,135923,135923,383,DATA/MASAKA,Korgano... ?,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135924,135924,135924,135924,384,PICARD,Are you surprised to see me?,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135925,135925,135925,135925,385,DATA/MASAKA,I thought I had escaped you.,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135926,135926,135926,135926,386,PICARD,You should know that's impossible.,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135927,135927,135927,135927,387,DATA/MASAKA,You are a fine hunter... but I am a powerful prey. You will never catch me.,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135928,135928,135928,135928,388,PICARD,Do you really want to be the prey... forever?,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135929,135929,135929,135929,389,DATA/MASAKA,I thought I was alone here. I thought I wouldn't have to share the sky with you...,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135930,135930,135930,135930,390,PICARD,"But without me... you aren't complete. I know you, Masaka... you live for the chase just as much as I do.",56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135931,135931,135931,135931,391,PICARD ,Won't you miss being the hunter... pursuing me... forcing me from the sky so that you can rise again?,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135932,135932,135932,135932,392,DATA/MASAKA,"You know me well, Korgano...",56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135933,135933,135933,135933,393,PICARD,I think you may be getting tired... it's difficult to brighten the sky forever...,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135934,135934,135934,135934,394,DATA/MASAKA,I am getting sleepy... you always do that to me...,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135935,135935,135935,135935,395,PICARD,Only so you can wake at dawn... and begin the hunt again...,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135936,135936,135936,135936,396,DATA/MASAKA,Begin the hunt again... I am eager for that.,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135937,135937,135937,135937,397,PICARD,As am I.,56   INT. TEMPLE (OPTICAL),TEMPLE,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135938,135938,135938,135938,398,RIKER,"Riker to Picard... I don't know what you did, sir... but it looks like everything's back to normal.",57   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135939,135939,135939,135939,399,PICARD,Acknowledged. Mister Data -- are you all right?,57   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135940,135940,135940,135940,400,DATA,"I believe so, sir. But I am not entirely certain what has happened. Have I been dreaming again?",57   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135941,135941,135941,135941,401,PICARD,I'm afraid it will take some time to explain.,57   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135942,135942,135942,135942,402,PICARD ,"Captain's Log, Stardate 47612.4. Commander La Forge has managed to disable the alien transformation program. Starfleet will send an archaeological team to study the Archive further.",58   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135943,135943,135943,135943,403,PICARD,I don't understand... I thought all the alien artifacts had disappeared from the Enterprise.,59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135944,135944,135944,135944,404,DATA,This was not created by the Archive... this is the clay mask I originally made. I have since glazed it.,59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135945,135945,135945,135945,405,DATA,Yes. Although I am relieved to be rid of those alien personalities... there is a sense in which I am now... empty.,59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135946,135946,135946,135946,406,PICARD,I can imagine. Doctor Crusher said there might have been dozens of personalities inside you.,59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135947,135947,135947,135947,407,DATA,I suspect the number was much greater.,59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135948,135948,135948,135948,408,DATA,My impression is that there were thousands... of all ages and walks of life. It was a remarkable experience.,59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.6705
+135949,135949,135949,135949,409,PICARD,"Well, Data, you may never become fully human... but you've had an experience that transcends the human condition. You have been an entire civilization.",59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.1406
+135950,135950,135950,135950,410,PICARD,Nonetheless... it's time to stand watch on the night shift.,59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135951,135951,135951,135951,411,DATA,"Yes, sir. Good night.",59   INT. READY ROOM,READY ROOM,INT.,Masks,1993-12-09,The Next Generation,269.txt,0.0
+135952,135952,135952,135952,0,BEVERLY,"Get the stasis units in here and bring them on-line. Tell Doctor Selar to use ward three for the ambulatory cases, I'll take the --",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135953,135953,135953,135953,1,COM,Transporter Room Four to Sickbay. They're coming in now.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135954,135954,135954,135954,2,BEVERLY,Acknowledged. Back everyone.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135955,135955,135955,135955,3,BEVERLY,What happened?,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135956,135956,135956,135956,4,RIKER,The Lenarians attacked us outside the conference room.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135957,135957,135957,135957,5,BEVERLY,He's in cardiac arrest. Get the pulmonary support unit.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135958,135958,135958,135958,6,BEVERLY,Internal hemorrhaging... the bioregulator in his artificial heart's been fused... damage to the spleen and liver... what kind of weapon did this?,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135959,135959,135959,135959,7,WORF,A compressed teryon beam.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135960,135960,135960,135960,8,BEVERLY,Forty cc's inoprovaline...,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135961,135961,135961,135961,9,BEVERLY,Activity in the isocortex is falling. Cortical stimulator.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135962,135962,135962,135962,10,BEVERLY,Now.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135963,135963,135963,135963,11,BEVERLY,Again.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135964,135964,135964,135964,12,Q,"Welcome to the afterlife, Jean-Luc. You're dead.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135965,135965,135965,135965,13,PICARD,"What's going on, Q?",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135966,135966,135966,135966,14,Q,I told you. You're dead. This is the afterlife. And I'm God.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135967,135967,135967,135967,15,PICARD,You are not God.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135968,135968,135968,135968,16,Q,"Blasphemy! You're lucky I don't cast you out, or smite you or something.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135969,135969,135969,135969,17,PICARD,"I don't know what game it is you're playing, but I am not going to participate.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135970,135970,135970,135970,18,Q,What an ego. Did you think the great Jean-Luc Picard would never die?,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135971,135971,135971,135971,19,PICARD,"Q, whatever you've done to --",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135972,135972,135972,135972,20,Q,I haven't done anything. Check your heart rate. Go ahead.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135973,135973,135973,135973,21,Q,No pulse? What a surprise.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135974,135974,135974,135974,22,PICARD,How do I know this isn't another one of your tricks?,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135975,135975,135975,135975,23,Q,"Think, Jean-Luc. Why would I go to all the trouble of faking your death when I could simply kill you whenever I felt like it?",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135976,135976,135976,135976,24,PICARD,Is that what happened?,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135977,135977,135977,135977,25,Q,I wouldn't want to steal the credit... it was a rather disgruntled Lenarian actually.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135978,135978,135978,135978,26,PICARD,The conference...,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135979,135979,135979,135979,27,Q,"Yes, yes. The conference, the unexpected attack, the compressed teryon beam... the bottom line is, your life ended about five minutes ago under the inept ministrations of Doctor Beverly Crusher.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135980,135980,135980,135980,28,PICARD,No. I am not dead. I refuse to believe there is an afterlife which is run by you. The universe is not that badly designed.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135981,135981,135981,135981,29,Q,"Very well. If you really require more evidence of your post-mortem status, I'll just have to provide some...",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135982,135982,135982,135982,30,MAURICE,Jean-Luc...,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135983,135983,135983,135983,31,PICARD,Father...,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135984,135984,135984,135984,32,MAURICE,I told you not to go running off to that Academy. I told you that Starfleet would bring you to a bad end. But you wouldn't listen. Now look at you... dead before your time.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,-0.8481
+135985,135985,135985,135985,33,PICARD,"All right, Q... enough.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135986,135986,135986,135986,34,Q,Enough what?,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135987,135987,135987,135987,35,MAURICE,Why couldn't you listen? Didn't you understand that I was only looking out for your best interests?,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135988,135988,135988,135988,36,PICARD,"Q, stop this.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135989,135989,135989,135989,37,MAURICE,"Even now, after all these years... you still manage to disappoint me, Jean-Luc.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135990,135990,135990,135990,38,PICARD,"I hope you're enjoying this, Q.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135991,135991,135991,135991,39,Q,"This isn't for me. This is for you, Jean-Luc... I wanted to give you an opportunity to make peace with your sordid past.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135992,135992,135992,135992,40,PICARD,I find it hard to believe that you're doing this for the benefit of my soul.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135993,135993,135993,135993,41,Q,"Now that you've finally shuffled off the mortal coil, we're free to spend some time together. I simply want you to be at peace with yourself.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135994,135994,135994,135994,42,PICARD,"""Some time together?""... how much time?",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135995,135995,135995,135995,43,Q,Eternity.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135996,135996,135996,135996,44,PICARD,So I'm in hell.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135997,135997,135997,135997,45,Q,"That's the spirit, Jean-Luc. Don't let a little thing like death slow down that rapier wit.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135998,135998,135998,135998,46,Q,Now you're sure you don't have any regrets or feelings of guilt about your former life? I can't have you whining and complaining through eternity.,1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
+135999,135999,135999,135999,47,PICARD,"If I'm truly dead, then my only regret is dying... and finding you here.",1    INT. SICKBAY (OPTICAL),SICKBAY,INT.,Tapestry,1992-11-30,The Next Generation,241.txt,0.0
