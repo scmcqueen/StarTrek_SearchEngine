@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+65000,65000,65000,65000,192,EKORIA ,Going to Trevean seemed so much easier than going on living.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65001,65001,65001,65001,193,BASHIR,But you don't feel that way anymore...,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65002,65002,65002,65002,194,EKORIA,Not since the baby...,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65003,65003,65003,65003,195,EKORIA,"My little boy... I wonder, can your machines tell me what he's going to look like when he grows up?",20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65004,65004,65004,65004,196,BASHIR,Not really...,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65005,65005,65005,65005,197,EKORIA,Maybe he'll look like his father...,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65006,65006,65006,65006,198,EKORIA,I want to be here for him... to hold his hand when he takes his first step... kiss his knee when he scrapes it in a fall...,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65007,65007,65007,65007,199,BASHIR,"With any luck, you'll see him have children of his own...",20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65008,65008,65008,65008,200,DAX,There are some people here who want to see you...,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65009,65009,65009,65009,201,EPRAN,I suppose you're going to want to bleed me?,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65010,65010,65010,65010,202,BASHIR,Just a little.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65011,65011,65011,65011,203,EPRAN,I canceled my death for you... I was really looking forward to it.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65012,65012,65012,65012,204,BASHIR,"All right, everyone gets three milligrams, including you.",21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65013,65013,65013,65013,205,BASHIR,Perfect.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65014,65014,65014,65014,206,DAX,There... this'll dull the pain.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65015,65015,65015,65015,207,EPRAN,I like your spots.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65016,65016,65016,65016,208,DAX,You told me that yesterday.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65017,65017,65017,65017,209,EPRAN,I still like them.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65018,65018,65018,65018,210,DAX,Epran has stopped responding to the cordrazine... I had to put him in an inhibitor field.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65019,65019,65019,65019,211,BASHIR,He's farther along than anyone here. But I'm hoping he'll be the first to respond to the antigen.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65020,65020,65020,65020,212,BASHIR,Think of it... she might very well be holding the cure in her hand. Do you think we should tell her what she's giving them?,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65021,65021,65021,65021,213,DAX,She's nervous enough about using that hypo. It's better to wait till we're positive.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65022,65022,65022,65022,214,BASHIR,I suppose.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65023,65023,65023,65023,215,DAX,Why don't you take a break? You've been working nonstop for days.,21   INT. TENEMENT HOUSE - DAYS LATER - DUSK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65024,65024,65024,65024,216,EKORIA,Dax wanted me to tell you that Epran's white blood cell count has gone up another twelve percent.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65025,65025,65025,65025,217,BASHIR,That's great news.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65026,65026,65026,65026,218,EKORIA,It is?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65027,65027,65027,65027,219,BASHIR,Trust me.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65028,65028,65028,65028,220,EKORIA,I do. He turns and sees the admiring look on her face...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65029,65029,65029,65029,221,EKORIA,I did from the start. I don't really know why.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65030,65030,65030,65030,222,BASHIR,I'd like to think it's my bedside manner... Doctors and nurses are supposed to project an air of caring competence. You were doing it in there.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65031,65031,65031,65031,223,EKORIA,Me?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65032,65032,65032,65032,224,BASHIR,I've been watching you. You're very good with the patients.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65033,65033,65033,65033,225,EKORIA,I'm just trying to be kind.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65034,65034,65034,65034,226,BASHIR,A lot of people don't want to be around the sick. It reminds them of their own mortality.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65035,65035,65035,65035,227,EKORIA,It doesn't bother you?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65036,65036,65036,65036,228,BASHIR,"Sometimes... but I think I'd rather confront mortality than hide from it. When you make someone well, it's like you're chasing Death off, making him wait for another day.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65037,65037,65037,65037,229,EKORIA,But Death comes to everyone in the end.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65038,65038,65038,65038,230,BASHIR,Not to Kukalaka.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65039,65039,65039,65039,231,EKORIA,Kuka-who?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65040,65040,65040,65040,232,BASHIR,My first patient. A teddy bear.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65041,65041,65041,65041,233,EKORIA,What's that?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65042,65042,65042,65042,234,BASHIR,"Sort of a soft puppet, stuffed with wadded cotton. When I was a boy, I took him everywhere I went. After a few years, he started to get a little threadbare, until one day his leg tore open and his insides spilled out and made a mess. My mother was all set to throw him out, but I wouldn't have it. At the tender age of five, I performed my first surgery. I re- stuffed him, and stitched his leg closed. From then on, I did whatever it took to keep Kukalaka together. I must've sewn, stitched or patched every square inch of him.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65043,65043,65043,65043,235,EKORIA,Why were you so determined to keep him in one piece?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65044,65044,65044,65044,236,BASHIR,"I wouldn't be much of a doctor if I gave up on a patient, would I?",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65045,65045,65045,65045,237,EKORIA,Where's Kukalaka now?,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65046,65046,65046,65046,238,BASHIR,Some closet somewhere...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65047,65047,65047,65047,239,BASHIR,On a shelf in my room...,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65048,65048,65048,65048,240,DAX ,Julian.,24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65049,65049,65049,65049,241,DAX,"Get in here, now.",24   EXT. TENEMENT DOORWAY - NIGHT,TENEMENT DOORWA,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65050,65050,65050,65050,242,BASHIR,Something's causing the virus to mutate...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65051,65051,65051,65051,243,DAX,Could it be a reaction to the antigen?,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65052,65052,65052,65052,244,BASHIR,I don't see how -- I need a micro- cellular scanner.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65053,65053,65053,65053,245,EPRAN,Bashir...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65054,65054,65054,65054,246,EKORIA,He'll take care of you... you're going to be all right...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.4939
+65055,65055,65055,65055,247,BASHIR,My god... it's the EM fields from our instruments.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65056,65056,65056,65056,248,BASHIR,Shut everything down -- now!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65057,65057,65057,65057,249,DAX,"All right, everything's off.",27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65058,65058,65058,65058,250,BASHIR,The mutation rate hasn't slowed... the effect must be cumulative...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65059,65059,65059,65059,251,LATIA,Help me...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65060,65060,65060,65060,252,BASHIR,Give everyone four milligrams of cordrazine...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65061,65061,65061,65061,253,EKORIA,His heart's stopped!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65062,65062,65062,65062,254,BASHIR,Come on... breathe...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65063,65063,65063,65063,255,BASHIR,Breathe.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65064,65064,65064,65064,256,DAX,Julian...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65065,65065,65065,65065,257,DAX,Julian.,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65066,65066,65066,65066,258,TREVEAN,What have you done?,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65067,65067,65067,65067,259,LATIA,Help me...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65068,65068,65068,65068,260,LATIA,"Trevean, please...",27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65069,65069,65069,65069,261,TREVEAN,Get out of my way!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65070,65070,65070,65070,262,LATIA,Trevean...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65071,65071,65071,65071,263,TREVEAN,She's asking for me! You have no right to interfere!,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65072,65072,65072,65072,264,LATIA,Thank you...,27   INT. TENEMENT HOUSE - CONTINUOUS - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65073,65073,65073,65073,265,BASHIR,"I remember running a hematology scan on Epran the other day... there were changes in the viral base-pair sequence, and I didn't know why...",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65074,65074,65074,65074,266,DAX,There's no way you could've known it was because of our instruments.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65075,65075,65075,65075,267,BASHIR,I should've put it together... I should've run more tests. But I was so bent on finding a cure I ignored the warning signs.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65076,65076,65076,65076,268,DAX,That's not fair and you know it.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65077,65077,65077,65077,269,BASHIR,"Isn't it? I'm going to let you in on a little secret, Jadzia. I was looking forward to tomorrow: to seeing Kira again and casually asking, ""how was the Nebula?"" By the way, I cured that Blight thing those people were having.",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65078,65078,65078,65078,270,DAX,"It's not a crime to believe in yourself, Julian.",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65079,65079,65079,65079,271,BASHIR,They believed in me. Look what it got them.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65080,65080,65080,65080,272,BASHIR,"Trevean was right... there is no cure... the Dominion made sure of that. But I was so arrogant, I thought I could find one in a week...",30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65081,65081,65081,65081,273,DAX,Maybe it was arrogant to think that. But it's even more arrogant to think there isn't a cure just because you couldn't find it.,30   INT. TENEMENT HOUSE - MORNING,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65082,65082,65082,65082,274,EKORIA ,I'm glad you got a chance to see it before you left.,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65083,65083,65083,65083,275,BASHIR,Ekoria...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65084,65084,65084,65084,276,EKORIA,I thought I was going to make it... I really did...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65085,65085,65085,65085,277,BASHIR,I'm sorry...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65086,65086,65086,65086,278,EKORIA,Don't be... you gave me hope. I hadn't felt that since my husband died...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65087,65087,65087,65087,279,EKORIA,I'm going to see Trevean tomorrow... I wish you could be there...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65088,65088,65088,65088,280,BASHIR,I have to go...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65089,65089,65089,65089,281,EKORIA,I understand...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65090,65090,65090,65090,282,EKORIA,Good-bye...,32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65091,65091,65091,65091,283,BASHIR,"Ekoria, wait...",32   EXT. ANOTHER PART OF THE CITY - DAY,ANOTHER PART OF THE CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65092,65092,65092,65092,284,KIRA,Are you sure about this?,35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65093,65093,65093,65093,285,BASHIR,I can't leave these people... not now.,35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65094,65094,65094,65094,286,KIRA,"Whenever you're ready, contact the station and we'll have a runabout here within days.",35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65095,65095,65095,65095,287,DAX,"You know what really worries me, Julian... ? That without me, you won't have anyone to translate for you...",35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65096,65096,65096,65096,288,DAX,Good luck...,35A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65097,65097,65097,65097,289,EKORIA,What is it?,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65098,65098,65098,65098,290,BASHIR,There's not a trace of the antigen I gave you in your bloodstream... (unable to figure out why) Your immune system must've rejected it...,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65099,65099,65099,65099,291,BASHIR,Is it bad?,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65100,65100,65100,65100,292,BASHIR,"I can give you another hypo, but you've got a lot of cordrazine in your system already. It might be hard on the baby's metabolism.",37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65101,65101,65101,65101,293,EKORIA,I'll wait...,37   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65102,65102,65102,65102,294,EKORIA ,What is that smell?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65103,65103,65103,65103,295,BASHIR,I'm making a salve for your lesions...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65104,65104,65104,65104,296,EKORIA,As long as I don't have to drink it...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65105,65105,65105,65105,297,BASHIR,How do you feel?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65106,65106,65106,65106,298,EKORIA,I've been better...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65107,65107,65107,65107,299,BASHIR,Can you sit up for me?,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65108,65108,65108,65108,300,BASHIR,Breathe...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65109,65109,65109,65109,301,BASHIR,Again...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65110,65110,65110,65110,302,BASHIR,Let's see how the baby's doing...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65111,65111,65111,65111,303,BASHIR,His head's over here now...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65112,65112,65112,65112,304,EKORIA,I'm not surprised... feels like he's been turning somersaults in there...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65113,65113,65113,65113,305,BASHIR,His heart's getting stronger every day... I'd say another six weeks...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65114,65114,65114,65114,306,EKORIA,I'll never make it that long...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65115,65115,65115,65115,307,BASHIR,I can induce labor in another two weeks... the baby will be old enough then.,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65116,65116,65116,65116,308,EKORIA,Two weeks...,38   INT. TENEMENT HOUSE - CLOSE ON A BEAKER - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65117,65117,65117,65117,309,EKORIA,Trevean... Am I... dead?,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65118,65118,65118,65118,310,TREVEAN,Is that what you want?,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65119,65119,65119,65119,311,TREVEAN,I can end your suffering...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65120,65120,65120,65120,312,TREVEAN,Your child will die having known nothing but peace...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65121,65121,65121,65121,313,EKORIA,No... he deserves a chance to live...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65122,65122,65122,65122,314,TREVEAN,The Blight will take him in the end.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65123,65123,65123,65123,315,BASHIR ,I thought you let people come to you...,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65124,65124,65124,65124,316,BASHIR,I didn't realize you made house calls.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65125,65125,65125,65125,317,TREVEAN,I was concerned that she might be too weak to come.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65126,65126,65126,65126,318,BASHIR,"I don't understand why you're so obsessed with death, Trevean. From what I've seen, you've lived with the Blight longer than anyone else.",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65127,65127,65127,65127,319,TREVEAN,Yes... and I've seen more suffering than anyone else.,40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65128,65128,65128,65128,320,TREVEAN,"Good-bye, Ekoria... I hope you live to see your baby...",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65129,65129,65129,65129,321,EKORIA,"Trevean means well... he's a kind man, in his own way...",40   INT. TENEMENT HOUSE - NIGHT,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65130,65130,65130,65130,322,BASHIR,That's it... push.,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65131,65131,65131,65131,323,BASHIR,Good... now breathe...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65132,65132,65132,65132,324,BASHIR,I can see his head. I'm going to turn it around... gather your strength for one last push...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65133,65133,65133,65133,325,BASHIR,Ekoria...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65134,65134,65134,65134,326,EKORIA,He's beautiful...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65135,65135,65135,65135,327,BASHIR,My god...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65136,65136,65136,65136,328,BASHIR,He doesn't have any lesions... The antigen must've been absorbed through the placenta... he doesn't have the Blight...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65137,65137,65137,65137,329,EKORIA,It's a miracle...,42   INT. TENEMENT HOUSE - DAYBREAK,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65138,65138,65138,65138,330,TREVEAN,I see that I misjudged you...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65139,65139,65139,65139,331,BASHIR,Every pregnant woman should be inoculated as soon as possible... the antigen will protect their babies...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.3818
+65140,65140,65140,65140,332,TREVEAN,I'll see that it's done...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65141,65141,65141,65141,333,BASHIR,Ekoria had no family left...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65142,65142,65142,65142,334,TREVEAN,I'd be happy to raise her son as my own...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65143,65143,65143,65143,335,BASHIR,I think she'd have liked that...,45   INT. HOSPITAL - DAWN,HOSPITA,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65144,65144,65144,65144,336,COMPUTER,Nucleotide sequencing complete... viral reproduction normal.,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65145,65145,65145,65145,337,BASHIR,Let's try an A-to-C base pair reshuffling...,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65146,65146,65146,65146,338,SISKO ,Doctor...,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65147,65147,65147,65147,339,SISKO,I read your report.,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65148,65148,65148,65148,340,SISKO,Good work.,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65149,65149,65149,65149,341,BASHIR,"Thank you, sir.",49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65150,65150,65150,65150,342,COMPUTER,Nucleotide sequencing complete... viral reproduction normal...,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65151,65151,65151,65151,343,BASHIR,People are still dying back there.,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65152,65152,65152,65152,344,SISKO,Yes... but their children won't.,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65153,65153,65153,65153,345,BASHIR,That's what I keep telling myself...,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65154,65154,65154,65154,346,BASHIR,Initiate reshuffling sequence...,49A  INT. INFIRMARY,INFIRMARY,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+65155,65155,65155,65155,0,KOR,"-- walls of fire on one side, rivers of lava on the other... we snaked our way through the hot, smoldering canyon, our skin so parched and blistered it was thick as armor. Kang, Koloth and I had set out with forty legions and now, only we three remained to face T'nag's army.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65156,65156,65156,65156,1,QUARK,"You know what I like about Klingon stories, Commander?",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65157,65157,65157,65157,2,QUARK,Nothing. Lots of people die and nobody makes any profit.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65158,65158,65158,65158,3,KOR,"Chanting a battle cry -- Koloth attacked their flank -- his eyes bulging with hate and revenge. It was a magnificent sight. A disruptor in one hand, his Bat'leth in the other -- I saw him kill two dozen men.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65159,65159,65159,65159,4,BASHIR,Do you believe a word of this?,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65160,65160,65160,65160,5,ODO,Walking along rivers of lava... walls of fire? Not likely.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65161,65161,65161,65161,6,KIRA,And three against an army? Even more unlikely.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65162,65162,65162,65162,7,O'BRIEN,"Yeah, but who cares? He tells it well.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65163,65163,65163,65163,8,KOR,"Kang took the high ground -- and keeping the three suns to his back, he forced the enemy to battle him against the blinding light.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65164,65164,65164,65164,9,DAX,"When Kang told this story, you took the high ground.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65165,65165,65165,65165,10,KOR,Who gets the credit is not important.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65166,65166,65166,65166,11,KOR ,"What matters is that in the end, the mountainside was so covered with dead that not a square meter of ground could be seen. We found T'nag's body by the river, its waters red with blood. Which one of us had slain him, none could say for certain...",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65167,65167,65167,65167,12,KOR,So we cut out his heart -- and the three of us feasted on it together!,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65168,65168,65168,65168,13,DAX,Big heart.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65169,65169,65169,65169,14,KOR,You need more bloodwine.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65170,65170,65170,65170,15,DAX,Thanks -- but I've had enough to last me a year. I need some tea.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65171,65171,65171,65171,16,DAX,Mister Worf -- I didn't see you come in.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65172,65172,65172,65172,17,WORF,I was just leaving.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65173,65173,65173,65173,18,DAX,Why don't you join us? I'll introduce you to Kor.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65174,65174,65174,65174,19,WORF,No. It might make the Dahar Master... uncomfortable. I am considered an outcast by most Klingons.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65175,65175,65175,65175,20,DAX,Kor is not like most Klingons. Kor!,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65176,65176,65176,65176,21,DAX,"I'd like you to meet our strategic operations officer, Commander Worf.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65177,65177,65177,65177,22,KOR,"Ah, Worf the traitor. The pariah. The lowest of the low...",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65178,65178,65178,65178,23,KOR,Pleasure to meet you. Any enemy of Gowron and the High Council is a friend of mine.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.5267
+65179,65179,65179,65179,24,WORF,This is a great honor.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.8074
+65180,65180,65180,65180,25,KOR,No doubt.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,-0.5719
+65181,65181,65181,65181,26,DAX,Worf is a great admirer of yours.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65182,65182,65182,65182,27,WORF,"I've heard stories about you since I was a child. Your confrontation with Kirk on Organia, your attack on Romulus, your defense of the Korma Pass --",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65183,65183,65183,65183,28,KOR,Everything I've done pales in comparison to what I'm about to achieve.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65184,65184,65184,65184,29,KOR,I'm on a quest... a quest for the most revered icon in Klingon history.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65185,65185,65185,65185,30,DAX,Kor...,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65186,65186,65186,65186,31,KOR,"(caught up in the moment) An icon that predates the Klingon Empire, an icon more sacred than the Torch of G'boj --",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65187,65187,65187,65187,32,DAX,Kor...,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65188,65188,65188,65188,33,KOR,"More revered than Sabak's armor, and more coveted than the Emperor's crown!",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.5974
+65189,65189,65189,65189,34,WORF,The Sword of Kahless.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65190,65190,65190,65190,35,DAX,You told me not to tell anybody.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65191,65191,65191,65191,36,KOR,He guessed! I know where the Sword rests. Imagine the glory!,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.6229
+65192,65192,65192,65192,37,KOR ,The honor of finding the Bat'leth of the first Warrior King...,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.4939
+65193,65193,65193,65193,38,WORF,Lost for a millennium... It's return would change Klingon history. If you know where it is we must bring it back to the Emperor.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,-0.3182
+65194,65194,65194,65194,39,KOR,We?,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65195,65195,65195,65195,40,WORF,It would be an honor to accompany you. If you'll have me.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65196,65196,65196,65196,41,DAX,We could use another strong arm...,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65197,65197,65197,65197,42,KOR,"(slapping him on the back) And a stout heart. Besides, it will annoy Gowron.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65198,65198,65198,65198,43,WORF,Returning the Sword to our people... I would give my life to do that.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65199,65199,65199,65199,44,KOR,Children will sing our names for a thousand years! They'll erect statues of us in the Hall of Heroes.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65200,65200,65200,65200,45,DAX,Before you decide on a pose for that statue -- we have to find the Sword. What makes you so sure you know where it is?,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65201,65201,65201,65201,46,KOR,This.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65202,65202,65202,65202,47,KOR,You see?,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65203,65203,65203,65203,48,DAX,See what?,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65204,65204,65204,65204,49,KOR,The imprint on the cloth --,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65205,65205,65205,65205,50,WORF,Yes! (touching it reverentially) This held the Sword of Kahless.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65206,65206,65206,65206,51,DAX,"Don't be so sure... you could carpet this station with all the ""authentic"" Shrouds of the Sword people have tried to peddle.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65207,65207,65207,65207,52,KOR,No one tried to peddle this -- it was given to me.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65208,65208,65208,65208,53,DAX,By whom?,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65209,65209,65209,65209,54,KOR,"I'll tell you everything, later. Now, I need you to confirm its authenticity.",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65210,65210,65210,65210,55,DAX,I'll look this over in the lab -- first thing in the morning.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65211,65211,65211,65211,56,WORF,Why not right now?,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65212,65212,65212,65212,57,DAX,My head is swimming in bloodwine. Right now --,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65213,65213,65213,65213,58,DAX,I'm going to bed. And so should you.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65214,65214,65214,65214,59,KOR,Absolutely. After I finish what's left in my cup.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65215,65215,65215,65215,60,KOR,"Maj ram, blood brother. (Good Night)",1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65216,65216,65216,65216,61,DAX,Maj ram.,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65217,65217,65217,65217,62,KOR,Imagine Gowron's face when we present the sword to the Emperor...,1    INT. QUARK'S,QUARK'S,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65218,65218,65218,65218,63,,Kor,9    INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65219,65219,65219,65219,64,LETHEAN,Open your mind...,9    INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65220,65220,65220,65220,65,KOR,What?,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65221,65221,65221,65221,66,DAX,Couldn't find the bed?,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65222,65222,65222,65222,67,KOR,Damn that Ferengi and his replicated bloodwine.,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65223,65223,65223,65223,68,DAX,Worf looked a little bleary-eyed this morning in Ops... how late did you keep him up?,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65224,65224,65224,65224,69,KOR,Until that toad-faced Ferengi threw us out of his bar.,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65225,65225,65225,65225,70,DAX,And then where did you go?,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65226,65226,65226,65226,71,KOR,"Worf's quarters, I think... That's right -- he had a bottle of Yridian brandy he was saving for a special occasion.",12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65227,65227,65227,65227,72,DAX,Like meeting you.,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65228,65228,65228,65228,73,KOR,He was honored to join our quest.,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65229,65229,65229,65229,74,KOR,That is... if there's going to be a quest. What did you find?,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65230,65230,65230,65230,75,DAX,I found both Klingon and Hur'q DNA on the cloth... And traces of metallic compounds that could only have been left... by a Klingon Bat'leth... a Bat'leth fourteen hundred years old.,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65231,65231,65231,65231,76,KOR,The time of Kahless! I never doubted it. When do we leave?,12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.2278
+65232,65232,65232,65232,77,DAX,"After I talk to Captain Sisko, and after you answer a few questions. Now, where did you get this?",12   INT. KOR'S QUARTERS,KOR'S QUARTERS,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65233,65233,65233,65233,78,SISKO,The Gamma Quadrant.,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65234,65234,65234,65234,79,DAX,"A Vulcan geological survey team was mining bakrinium on an uncharted planet when they accidentally unearthed some ancient ruins. They brought back several artifacts to study, including the cloth.",13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65235,65235,65235,65235,80,WORF,Kor was the Klingon ambassador to Vulcan.,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65236,65236,65236,65236,81,DAX,"When he saw the cloth, Kor recognized the markings and got them to give it to him as a gift. They didn't realize it, but the markings were Hur'q.",13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65237,65237,65237,65237,82,SISKO,"Hur'q... that's the Klingon word for ""outsiders,"" isn't it?",13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65238,65238,65238,65238,83,WORF,"The Hur'q invaded our homeworld over a thousand years ago. What they could not pillage, they destroyed. They took the Sword and my people have been looking for it ever since. It is said that the recovery of the Sword will bring a new era of glory to the Klingon Empire. With the Sword, the Emperor will be able to unite our people again.",13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65239,65239,65239,65239,84,SISKO,And if two Starfleet officers were involved in recovering the Sword... that might go a long way toward patching things up between us and the Klingons.,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65240,65240,65240,65240,85,WORF,"That is my hope as well, Captain.",13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65241,65241,65241,65241,86,SISKO,"What about you, old man? Going along for the adventure?",13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65242,65242,65242,65242,87,DAX,Hard to resist a good quest.,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65243,65243,65243,65243,88,SISKO,I suppose you'll want a runabout?,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65244,65244,65244,65244,89,WORF,The Mekong's available...,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65245,65245,65245,65245,90,SISKO,Try to bring it back in one piece.,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65246,65246,65246,65246,91,DAX,We'll do our best.,13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65247,65247,65247,65247,92,DAX,"Thanks, Benjamin.",13   INT. SISKO'S QUARTERS ,SISKO'S QUARTERS ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65248,65248,65248,65248,93,WORF,Final systems check is complete. Where's Kor?,15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65249,65249,65249,65249,94,DAX,Something tells me he made an unscheduled stop at Quark's.,15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65250,65250,65250,65250,95,KOR ,To get supplies.,15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65251,65251,65251,65251,96,DAX,Bloodwine.,15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65252,65252,65252,65252,97,KOR,And it's not replicated.,15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65253,65253,65253,65253,98,DAX,"Mister Worf, stand by to get underway.",15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65254,65254,65254,65254,99,WORF,"Thrusters, on-line.",15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65255,65255,65255,65255,100,KOR,"A fast ship, good company, and great purpose... feels like old times.",15   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65256,65256,65256,65256,101,DAX,"Mister Worf, set a course for the wormhole.",18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65257,65257,65257,65257,102,WORF,Course laid in.,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65258,65258,65258,65258,103,DAX,Ahead half --,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65259,65259,65259,65259,104,KOR,Wait.,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65260,65260,65260,65260,105,KOR,"Let this moment be remembered. For on this day, we three --",18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65261,65261,65261,65261,106,KOR,"-- Kor, Dahar Master of the Klingons, Jadzia Dax, a joined Trill of seven lives, and Worf, son of Mogh and thorn in Gowron's side --",18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65262,65262,65262,65262,107,KOR,-- together stepped forth into the eye of destiny.,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65263,65263,65263,65263,108,DAX,Now?,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65264,65264,65264,65264,109,KOR,Now.,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65265,65265,65265,65265,110,DAX,Ahead half thrusters.,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65266,65266,65266,65266,111,KOR,Glorious.,18   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65267,65267,65267,65267,112,WORF,"Forgive me, commander.",21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65268,65268,65268,65268,113,DAX,It's a little crowded in here...,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65269,65269,65269,65269,114,WORF,I would use the aft quarters for my exercises but the Dahar Master is resting.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65270,65270,65270,65270,115,DAX,I know -- I heard him snoring through the bulkhead.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65271,65271,65271,65271,116,WORF,"Commander, I want to thank you for introducing me to Kor. I'm honored to be here.",21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65272,65272,65272,65272,117,DAX,And I'm glad he invited you. Even if it does make things a little crowded.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65273,65273,65273,65273,118,KOR,"Ahh. Slept like an Alvanian cave sloth. I had a magnificent dream. I dreamt the three of us were in the Hall of Heroes presenting the Bat'leth to the Emperor. We stood near the statues of Kang and Koloth... and as the crowd sang our names, the most astonishing thing happened... their statues came to life! Kang and Koloth were flesh and blood again, and we held the Sword high... the crowd's song was so vibrant and thunderous it ripped open the great dome and the heavens poured in their light, and then...",21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65274,65274,65274,65274,119,DAX,You woke up.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65275,65275,65275,65275,120,KOR,"No... a ship uncloaked above -- Kang's ship, the K'tanco... and a swirl of song lifted Kang, Koloth and me up into its warm embrace... and then the ship streaked away into the golden light.",21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65276,65276,65276,65276,121,WORF,And Dax and I stayed behind?,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65277,65277,65277,65277,122,KOR,Don't you see? It was taking me to Sto-Vo-Kor -- to join Kang and Koloth in the afterlife.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65278,65278,65278,65278,123,DAX,Then it's a good thing we didn't come.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65279,65279,65279,65279,124,KOR,You and Worf have many great deeds still ahead of you. But this will be my final quest.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65280,65280,65280,65280,125,DAX,You said that last time.,21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65281,65281,65281,65281,126,KOR,"So I did. But this deed will assure me a place in the Hall of Heroes. And then, I will stand where I belong... Kang, Koloth and Kor, together again...",21   INT. RUNABOUT ,RUNABOUT ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65282,65282,65282,65282,127,WORF,We have assumed a standard orbit.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65283,65283,65283,65283,128,DAX,I'm reading a series of interconnected structures and tunnels several kilometers below the surface.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65284,65284,65284,65284,129,KOR,"All that remains of the Hur'q... the great plunderers of the galaxy. And now, it is time for us to reclaim what is ours...",23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65285,65285,65285,65285,130,DAX,Assuming we can find where to look. It's a big planet.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65286,65286,65286,65286,131,KOR,The Vulcan survey team was meticulous -- they mapped the entire area during their mining operation.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65287,65287,65287,65287,132,KOR ,The Sword should be in the chamber that was once their Central Museum -- along with all the other great treasures the Hur'q looted. It's the structure furthest north.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65288,65288,65288,65288,133,WORF,There's a forcefield around that chamber.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65289,65289,65289,65289,134,KOR,I know -- the Vulcans told me they couldn't get through it. We'll be the first ones inside.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65290,65290,65290,65290,135,DAX,Why didn't you mention this forcefield before?,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65291,65291,65291,65291,136,KOR,It's not important. I know you'll find a way past it.,23   INT. RUNABOUT,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65292,65292,65292,65292,137,DAX,We should be just outside the forcefield.,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65293,65293,65293,65293,138,WORF,Then the Central Chamber is somewhere back there.,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65294,65294,65294,65294,139,DAX,Let's get to work.,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65295,65295,65295,65295,140,DAX,First we have to modulate the field destabilizers to create an interference pattern.,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65296,65296,65296,65296,141,DAX,It's not working...,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65297,65297,65297,65297,142,WORF,Try reversing the polarity.,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65298,65298,65298,65298,143,DAX,That helped... Now if we just increase the amplitude of the interference field...,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65299,65299,65299,65299,144,KOR,"Well done, my friends.",24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65300,65300,65300,65300,145,WORF,The air --,24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65301,65301,65301,65301,146,KOR,"Foul, isn't it? This place has been undisturbed for hundreds of years.",24   INT. CAVE ALCOVE (OPTICAL),CAVE ALCOVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65302,65302,65302,65302,147,WORF,The Vulcans may not have gotten in here -- but someone did.,25   INT. HUR'Q CHAMBER - CONTINUOUS ,HUR'Q CHAMBE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65303,65303,65303,65303,148,DAX,"I'm sorry, Kor.",26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65304,65304,65304,65304,149,KOR,Don't be sorry for me -- be sorry for the Empire.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65305,65305,65305,65305,150,WORF,If we can determine who did this -- perhaps we can track them down.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65306,65306,65306,65306,151,KOR,"For all we know, the Sword is halfway across the galaxy by now.",26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65307,65307,65307,65307,152,DAX,Sounds like a worthy quest.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65308,65308,65308,65308,153,KOR,"For you and Worf, perhaps. But not for me.",26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65309,65309,65309,65309,154,KOR,My last chance for glory dies here.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65310,65310,65310,65310,155,WORF ,Commander --,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65311,65311,65311,65311,156,WORF ,The dust does not reach the wall.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65312,65312,65312,65312,157,DAX.,Something must be repelling it. I'm getting a faint electrostatic charge along this section.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65313,65313,65313,65313,158,KOR,Another forcefield?,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65314,65314,65314,65314,159,WORF,Disguised by a holographic projection.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65315,65315,65315,65315,160,KOR,Are you saying there may be another chamber behind it?,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65316,65316,65316,65316,161,DAX,"If there is, I'm not sure how we can get to it. This shield has completely different harmonics than the one at the entrance.",26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65317,65317,65317,65317,162,WORF,Over here. It's some kind of sensor... focused on the area just in front of the forcefield.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65318,65318,65318,65318,163,DAX,It must be keyed to read lifesigns.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65319,65319,65319,65319,164,KOR,Why?,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65320,65320,65320,65320,165,WORF,So that only Hur'q could enter.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65321,65321,65321,65321,166,DAX,If you're right... we'll need a Hur'q tour guide to get us through.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65322,65322,65322,65322,167,WORF,It may be possible to fool the sensor into thinking we're Hur'q.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65323,65323,65323,65323,168,DAX,We could reconfigure the tricorder to emit Hur'q lifesigns.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65324,65324,65324,65324,169,WORF,Exactly.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65325,65325,65325,65325,170,DAX,I still have the DNA readings we got from the cloth.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65326,65326,65326,65326,171,DAX,I feel like a Hur'q already.,26   INT. HUR'Q CHAMBER ,HUR'Q CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65327,65327,65327,65327,172,KOR,"For a thousand years, our people have waited for this moment...",32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65328,65328,65328,65328,173,DAX,The age... the composition... the design... everything's right.,32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65329,65329,65329,65329,174,KOR,How could you doubt it? Look at it!,32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65330,65330,65330,65330,175,WORF,It is more beautiful than I ever imagined. You should be the first to hold it.,32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65331,65331,65331,65331,176,DAX,How does it feel?,32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65332,65332,65332,65332,177,KOR,"Good. Very, very good. To think... Kahless himself held this Bat'leth...",32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.7485
+65333,65333,65333,65333,178,WORF,And with it he slew Molor... conquered the Fek'Ihri and forged the first Empire. And now... I hold it in my hands...,32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65334,65334,65334,65334,179,DAX,We should go. The field destabilizers won't hold much longer.,32   INT. HUR'Q SECRET CHAMBER ,HUR'Q SECRET CHAMBER ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65335,65335,65335,65335,180,TORAL,"Well, Kor... it seems you were right. You did find the Sword.",35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65336,65336,65336,65336,181,KOR,Who are you?,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65337,65337,65337,65337,182,TORAL,Ask your friend.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65338,65338,65338,65338,183,WORF,"He is Toral, from the House of Duras.",35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65339,65339,65339,65339,184,TORAL,"It's good to see you too, Worf.",35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65340,65340,65340,65340,185,TORAL,Seems you were too drunk to remember me... or the tavern on Torna Four? You held us all spellbound with a tale about a Hur'q cloth and how it was going to lead you to the Sword. I was so intrigued I sent my friend here to see what else you knew.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65341,65341,65341,65341,186,DAX,What do you want?,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65342,65342,65342,65342,187,TORAL,What we all want. The Sword.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65343,65343,65343,65343,188,WORF,The Sword is for the Emperor.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65344,65344,65344,65344,189,TORAL,Who will be so grateful he'll give Kor his statue... ... and perhaps even forgive your dishonor?,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65345,65345,65345,65345,190,TORAL ,I'm afraid I have different plans for the Sword.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65346,65346,65346,65346,191,WORF,"You think that if you give it to the Emperor, he'll restore your family's seat on the High Council.",35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65347,65347,65347,65347,192,TORAL,"I'm not giving the Emperor anything. With the Sword in my hand, I'll be leading the Empire. I can see from your face that you regret having spared my life, Worf. Now give it to me.",35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65348,65348,65348,65348,193,KOR,No.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65349,65349,65349,65349,194,TORAL,Then I'm afraid we'll have to take it.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65350,65350,65350,65350,195,WORF,If he wants it. Give it to him.,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65351,65351,65351,65351,196,DAX,Let's go!,35   INT. HUR'Q CHAMBER (OPTICAL),HUR'Q CHAMBER,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65352,65352,65352,65352,197,DAX,We have to stop the bleeding. We'd better get you back to the ship. Dax to Mekong.,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65353,65353,65353,65353,198,DAX,Computer. Three to beam up.,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65354,65354,65354,65354,199,WORF,That's a Klingon jamming signal.,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65355,65355,65355,65355,200,DAX,Can we override it?,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65356,65356,65356,65356,201,WORF,Maybe from the surface.,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65357,65357,65357,65357,202,DAX,"Kor, make sure we're not being followed.",37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65358,65358,65358,65358,203,KOR,Did you see the face of the Klingon I killed? It was as if he understood the honor bestowed upon him. The first man in a thousand years to die by the Sword of Kahless.,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65359,65359,65359,65359,204,DAX,I'm sure he was very proud.,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65360,65360,65360,65360,205,WORF,We should keep moving. Toral will find a way past the forcefield.,37   INT. ANOTHER SECTION OF CAVE-TUNNEL,ANOTHER SECTION OF CAVE-TUNNEL,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65361,65361,65361,65361,206,KOR,What did Toral mean when he said you spared his life?,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65362,65362,65362,65362,207,WORF,"When it was discovered that the House of Duras had conspired to destroy my father's honor, Gowron offered me Toral's life.",39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65363,65363,65363,65363,208,KOR,Under the Right of Vengeance.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65364,65364,65364,65364,209,WORF,I declined.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65365,65365,65365,65365,210,KOR,Why?,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65366,65366,65366,65366,211,WORF,He was a boy. He had done nothing.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65367,65367,65367,65367,212,KOR,That's beside the point -- it was a matter of honor.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65368,65368,65368,65368,213,DAX,It was Worf's right to decline.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65369,65369,65369,65369,214,KOR,It was a mistake -- perhaps it's true what they say about you... you've been around humans too long.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65370,65370,65370,65370,215,DAX,Kor --,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65371,65371,65371,65371,216,KOR,"If he hadn't spared Toral's life, we'd be on our way to Kronos.",39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65372,65372,65372,65372,217,WORF,"If you hadn't gotten drunk and told a tavernful of people what you were planning, Toral wouldn't have followed us here in the first place.",39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65373,65373,65373,65373,218,KOR,I told them nothing of consequence! How could I know Toral would send a Lethean to steal my thoughts.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65374,65374,65374,65374,219,WORF,You should've been more discreet.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65375,65375,65375,65375,220,KOR,And you should've been more of a Klingon!,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65376,65376,65376,65376,221,DAX,Kor... what was that all about?,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65377,65377,65377,65377,222,KOR,What?,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65378,65378,65378,65378,223,DAX,Worf admires you. You have no idea how much it meant to him to be asked along on this journey.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65379,65379,65379,65379,224,KOR,"Tell me, Dax... how well do you know him?",39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65380,65380,65380,65380,225,DAX,Well enough. Why?,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65381,65381,65381,65381,226,KOR,I'm beginning to think I was too lenient in my judgment of him. A Klingon who denies himself the Right of Vengeance is no Klingon at all. He dishonors the Sword with his presence. I don't trust him. I should have left him on that space station where he belongs.,39   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65382,65382,65382,65382,227,DAX,Worf... over there., 41   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65383,65383,65383,65383,228,WORF,Bo'taDaH!, 41   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65384,65384,65384,65384,229,KOR,HoH!, 41   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65385,65385,65385,65385,230,KOR,Lunch!, 41   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65386,65386,65386,65386,231,KOR,"Delicious, isn't it?",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.5719
+65387,65387,65387,65387,232,WORF,A hunt builds the appetite.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65388,65388,65388,65388,233,DAX,This is disgusting.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65389,65389,65389,65389,234,KOR,But it'll make a good part of the story.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65390,65390,65390,65390,235,KOR,"How we slew the beast. Remember -- it attacked us from the dark, five meters long --",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65391,65391,65391,65391,236,DAX,"Ten, at least!",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65392,65392,65392,65392,237,KOR,"Eyes ablaze, fangs like daggers --",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65393,65393,65393,65393,238,DAX,Breathing great plumes of fire.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65394,65394,65394,65394,239,KOR,It seems the son of Mogh is not amused.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65395,65395,65395,65395,240,WORF,A true warrior has no need to exaggerate his feats.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65396,65396,65396,65396,241,KOR,"You'd better hope I exaggerate or when they sing songs about this quest, your verse will say ""And Worf came along.""",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65397,65397,65397,65397,242,WORF,This is the Sword of Kahless -- not something to shovel food into your mouth!,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65398,65398,65398,65398,243,WORF,It must be treated with honor.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65399,65399,65399,65399,244,KOR,"Look at him... he's like the Hur'q, he thinks it's a museum piece. Why, Kahless himself used it to skin the serpent of Xol, to harvest his father's field, and to carve a statue for his beloved. It's a sword. But Worf doesn't know what to do with it, except bow in front of it, and then hand it over to his precious Emperor.",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65400,65400,65400,65400,245,WORF,"When we do, you'll get your precious statue. And after they've sung songs about you and you've passed out from drink -- the Emperor will use the Sword to unite our people.",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65401,65401,65401,65401,246,KOR,If Gowron allows him to. The Emperor is nothing but his puppet.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65402,65402,65402,65402,247,WORF,The Emperor is no one's puppet -- he condemned Gowron's invasion of Cardassia..,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65403,65403,65403,65403,248,KOR,And the invasion went ahead despite his objection.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65404,65404,65404,65404,249,WORF,That is why the Emperor needs the Sword. It will allow him to unify the Houses against Gowron.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65405,65405,65405,65405,250,KOR,"The Emperor is a pretender! He's a clone of the original Kahless cooked up in a vat by ambitious clerics. And if you hadn't supported him, he'd be back in that vat where he came from!",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65406,65406,65406,65406,251,WORF,I supported him because we need him. He can unite us!,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65407,65407,65407,65407,252,KOR,"The Sword will unite us -- but only if it's in the hands of a true Klingon. Not a politician like Gowron or a toothless figurehead like the Emperor... the Sword must rest in the hands of someone hardened by battle... pure of heart... someone who understands loyalty, honor... a warrior like Kang -- or Koloth!",49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65408,65408,65408,65408,253,WORF,Someone like you?,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65409,65409,65409,65409,254,KOR,The Empire could do far worse.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65410,65410,65410,65410,255,DAX,We should get moving.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65411,65411,65411,65411,256,WORF,Are you saying that it's your intention to lead the Empire?,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65412,65412,65412,65412,257,KOR,I'm saying... it's my intention to lead us to the surface.,49   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65413,65413,65413,65413,258,DAX,We need to change your bandage.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65414,65414,65414,65414,259,WORF,We must keep moving.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65415,65415,65415,65415,260,DAX,You're hemorrhaging. We have to stop the bleeding.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65416,65416,65416,65416,261,KOR,That cave-rat was all bones. I need another one.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65417,65417,65417,65417,262,DAX,Find a nice fat one. We could all use something to eat.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65418,65418,65418,65418,263,WORF,Kor never answered my question about his plans for the sword.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65419,65419,65419,65419,264,DAX,I noticed.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65420,65420,65420,65420,265,WORF,"He is a hero to many. If he returns to Kronos with it and decides to seize power, many will follow him.",51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65421,65421,65421,65421,266,DAX,But you wouldn't?,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65422,65422,65422,65422,267,WORF,He is not all that I thought he was.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65423,65423,65423,65423,268,DAX,Maybe not. But I've known him a long time -- his heart's in the right place.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65424,65424,65424,65424,269,WORF,He drinks too much... exaggerates his feats and blames others for his own mistakes. But he could be right about one thing... the Emperor may be too weak to stand against Gowron... even with the Sword.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65425,65425,65425,65425,270,DAX,I thought you believed in the Emperor.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65426,65426,65426,65426,271,WORF,I don't know what I believe anymore...,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65427,65427,65427,65427,272,WORF,All I know is that when Kor asked me to help find the Sword -- I knew we would succeed. I knew we would find it!,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65428,65428,65428,65428,273,DAX,I can't say I felt the same way.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65429,65429,65429,65429,274,WORF,I had no doubts. I felt as if my whole life was finally coming into focus...,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65430,65430,65430,65430,275,DAX,What do you mean?,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65431,65431,65431,65431,276,WORF,"For as long as I can remember, I've been an outsider... I was raised by humans, but I was too Klingon to be one of them. I did not belong. I begged my foster parents to let me visit the Klingon homeworld... They arranged for me to stay with my cousin's family. When I first set eyes on the Great Domes of Kronos, I felt that I'd finally come home... but my own cousins wanted nothing to do with me...",51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65432,65432,65432,65432,277,DAX,You were too human to be one of them...,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65433,65433,65433,65433,278,WORF,"I ran away -- into the mountains. I had no food or water for three days... but there, in the caves of No'Mat, Kahless came to me in a vision. He told me I would do something no other Klingon had ever done. After I returned to Earth, I pondered the meaning of his words... and wondered what lay ahead for me. When I was old enough, I joined Starfleet...",51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65434,65434,65434,65434,279,DAX,Something no Klingon had ever done.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65435,65435,65435,65435,280,WORF,"And for a time, I thought I had fulfilled my destiny.",51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65436,65436,65436,65436,281,WORF ,"But I now see that Kahless had something else in mind for me... something greater... that's why I had to endure so much pain, why I was forced to choose between the Federation and my own people -- I was being tested... prepared for some greater purpose...",51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65437,65437,65437,65437,282,DAX,Like finding the Sword...,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65438,65438,65438,65438,283,WORF,More than that.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65439,65439,65439,65439,284,WORF,When I held the Sword in my hands... I knew the spirit of Kahless himself had guided me to it. Don't you see? He wants me to have it. He wants me to lead his people!,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65440,65440,65440,65440,285,DAX,You sound like Kor.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65441,65441,65441,65441,286,WORF,Kor is an old man. His greatest days are behind him -- mine are still ahead.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65442,65442,65442,65442,287,DAX,Then we have a bit of a problem... there's only one Sword and you both want it.,51   INT. ANOTHER SECTION OF CAVES,ANOTHER SECTION OF CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65443,65443,65443,65443,288,KOR,How much farther?,A56   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65444,65444,65444,65444,289,DAX,"The way these caves wind around, this could take forever.",A56   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65445,65445,65445,65445,290,DAX,Or longer.,A56   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65446,65446,65446,65446,291,KOR,We can't get across. We'll go back and find another way up.,A56   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65447,65447,65447,65447,292,WORF,Wait. There --,A56   INT. CAVES,CAVES,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65448,65448,65448,65448,293,WORF,Kor -- there's a ledge right below you.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65449,65449,65449,65449,294,KOR,I don't see it.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65450,65450,65450,65450,295,WORF,It's less than a meter down -- let go and you'll land on it.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65451,65451,65451,65451,296,KOR,Dax -- do you see it?,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65452,65452,65452,65452,297,DAX,I can't see anything.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65453,65453,65453,65453,298,WORF,I can't hold you! You have to let go.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65454,65454,65454,65454,299,KOR,There's no ledge...,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65455,65455,65455,65455,300,WORF,It's there.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65456,65456,65456,65456,301,KOR,Then you let go.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65457,65457,65457,65457,302,WORF,No! We cannot risk losing the Sword!,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65458,65458,65458,65458,303,WORF,Let go!,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65459,65459,65459,65459,304,KOR,I'll take the Sword to my grave before I give it to you.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65460,65460,65460,65460,305,DAX,Just hang on -- we'll pull you up.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65461,65461,65461,65461,306,KOR,You call that a ledge?,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65462,65462,65462,65462,307,WORF,It would've been sufficient.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65463,65463,65463,65463,308,KOR,"For a Degebian mountain goat, not a Klingon warrior.",58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65464,65464,65464,65464,309,KOR,You were going to let me fall.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65465,65465,65465,65465,310,KOR ,You wanted me to die... so you could have the Sword for yourself.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65466,65466,65466,65466,311,WORF,And you were willing to take it to your death -- and rob our people of their future.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65467,65467,65467,65467,312,KOR,Give it to me!,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65468,65468,65468,65468,313,DAX,"That's enough, both of you.",58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65469,65469,65469,65469,314,WORF,I will not give him the Sword.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65470,65470,65470,65470,315,DAX,Then give it to me. I'll carry it.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65471,65471,65471,65471,316,DAX,"Kor, put that dagger away...",58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65472,65472,65472,65472,317,KOR,Are you siding with him?,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65473,65473,65473,65473,318,DAX,Put it away so he can give me the Bat'leth.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65474,65474,65474,65474,319,KOR,You see. I was right. He's not to be trusted.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,-0.3724
+65475,65475,65475,65475,320,WORF,His mind has been poisoned by bloodwine and age.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65476,65476,65476,65476,321,DAX,He was right about one thing... You wanted him to fall. That ledge wouldn't have supported him. And you knew it.,58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65477,65477,65477,65477,322,WORF,"I did not force him off that cliff. He is old and clumsy. If he'd fallen, it would've been his own fault.",58   INT. CAVES - ROCK FACE,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65478,65478,65478,65478,323,DAX,I'm exhausted.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65479,65479,65479,65479,324,WORF,We can rest here for a few hours.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65480,65480,65480,65480,325,DAX,I'm so tired I might even be able to get some sleep.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65481,65481,65481,65481,326,WORF,I'll stand watch.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65482,65482,65482,65482,327,KOR,How generous of you. We'll just curl up like trusting children under your vigilant gaze.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65483,65483,65483,65483,328,WORF,Sleep or don't sleep -- it makes no difference to me.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65484,65484,65484,65484,329,KOR,You're wounded... I should take the first watch. You get some rest. You close your eyes...,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65485,65485,65485,65485,330,WORF,I'm not tired.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65486,65486,65486,65486,331,KOR,I understand. It's hard to sleep in the presence of something so magnificent. Someone might try to steal it.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65487,65487,65487,65487,332,WORF,You reveal your own intentions.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65488,65488,65488,65488,333,DAX,Enough! I have the Sword. And it's not going anywhere.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65489,65489,65489,65489,334,KOR,What was that?,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65490,65490,65490,65490,335,WORF,I heard nothing.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65491,65491,65491,65491,336,KOR,A voice. I hear it again. It's... the Spirit of Kahless.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65492,65492,65492,65492,337,KOR,"He's talking to you, Worf... he's telling you to bide your time... let them sleep... then slit their throats and claim your destiny.",67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65493,65493,65493,65493,338,WORF,"I've had enough of your drunken ramblings, old man.",67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65494,65494,65494,65494,339,DAX,And I've had enough of both of you. I don't care if you sleep or not -- but I'm going to. So keep quiet.,67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65495,65495,65495,65495,340,KOR,"Go ahead and sleep, Dax. I'll keep an eye on him.",67   INT. ANOTHER SECTION OF CAVES ,ANOTHER SECTION OF CAVES ,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65496,65496,65496,65496,341,WORF,Enough!,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65497,65497,65497,65497,342,DAX,What?,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65498,65498,65498,65498,343,WORF,His eyes! He's been staring at me for three hours.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65499,65499,65499,65499,344,KOR,"And what've you seen reflected in my eyes? Your own guilt, gnawing at you.",69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65500,65500,65500,65500,345,DAX,"All right, if you're not going to sleep, let's walk.",69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65501,65501,65501,65501,346,KOR,I'm not going anywhere with that traitorous p'tak.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65502,65502,65502,65502,347,WORF,This ends here.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65503,65503,65503,65503,348,KOR,Agreed.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65504,65504,65504,65504,349,DAX,I'm not going to stand here and watch you two kill each other.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65505,65505,65505,65505,350,WORF,Stay out of this!,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65506,65506,65506,65506,351,KOR,This is between us. We'll settle it our own way...,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65507,65507,65507,65507,352,KOR,MaH HIv DaH!,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65508,65508,65508,65508,353,DAX,He's going to get killed.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65509,65509,65509,65509,354,WORF,No... he has the Sword.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65510,65510,65510,65510,355,WORF,HIv DaH!,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65511,65511,65511,65511,356,WORF,Qapla'!,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65512,65512,65512,65512,357,DAX,Commander!,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65513,65513,65513,65513,358,DAX,Worf --,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65514,65514,65514,65514,359,DAX,Stop!,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65515,65515,65515,65515,360,KOR,"I knew in the end, you'd choose me. We're blood brothers, we've been through --",69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65516,65516,65516,65516,361,DAX,Be quiet.,69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65517,65517,65517,65517,362,DAX,"Now, about that jamming device you're using to block our communications...",69   INT. CAVES - CAMP ,CAVE,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65518,65518,65518,65518,363,KOR,"Are you sure about this, Worf?",82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65519,65519,65519,65519,364,WORF,Yes. It's the only way.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65520,65520,65520,65520,365,KOR,Do we have the right? The Sword belongs to all Klingons.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65521,65521,65521,65521,366,WORF,But are we ready for it? The Sword turned you and me against each other -- imagine how it would divide the Empire.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65522,65522,65522,65522,367,KOR,Just let me hold it one last time.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65523,65523,65523,65523,368,WORF,No. The Sword is not meant for us... It was never our destiny to find it.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65524,65524,65524,65524,369,KOR,You're wrong. It was our destiny to find it. It just wasn't our destiny to keep it.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65525,65525,65525,65525,370,WORF,It's done.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65526,65526,65526,65526,371,DAX,Good. It's for the best.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65527,65527,65527,65527,372,KOR,I hope you're right.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65528,65528,65528,65528,373,KOR,It could be lost for another thousand years.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65529,65529,65529,65529,374,WORF,When it's destined to be found... it will be.,82   INT. RUNABOUT (OPTICAL) ,RUNABOUT,INT.,The Sword of Kahless,1995-09-29,Deep Space Nine,481.txt,0.0
+65530,65530,65530,65530,0,QUARK,"Welcome, welcome, welcome.",1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65531,65531,65531,65531,1,DAX,A little quiet in here...,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65532,65532,65532,65532,2,QUARK,You just beat the rush. Let me get your orders before I get swamped.,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65533,65533,65533,65533,3,DAX,I'll have a Tilamin Froth.,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65534,65534,65534,65534,4,KIRA,And I'll have a --,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65535,65535,65535,65535,5,WORF,What was that?,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65536,65536,65536,65536,6,QUARK,"Oh, that? It's just my nephew and Chief O'Brien repairing some conduit. You'll get used to it.",1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65537,65537,65537,65537,7,WORF,The Klingon restaurant?,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65538,65538,65538,65538,8,DAX,It would be quieter.,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65539,65539,65539,65539,9,QUARK,When are you two going to be done in there?,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65540,65540,65540,65540,10,NOG,When the conduit is repaired and brought back up to safety specs.,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65541,65541,65541,65541,11,QUARK,"Well, hurry up.",1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65542,65542,65542,65542,12,QUARK,Before I lose all my customers.,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65543,65543,65543,65543,13,NOG,I need to get something.,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65544,65544,65544,65544,14,QUARK,What?,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65545,65545,65545,65545,15,NOG,Two root beers?,1    INT. QUARK'S,QUARK'S,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65546,65546,65546,65546,16,O'BRIEN,Hyper spanner.,2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65547,65547,65547,65547,17,O'BRIEN,Optronic coupler.,2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65548,65548,65548,65548,18,O'BRIEN,How'd you know I needed a phase decompiler?,2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65549,65549,65549,65549,19,NOG,"I've been paying attention, sir.",2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65550,65550,65550,65550,20,O'BRIEN,"That you have, cadet.",2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65551,65551,65551,65551,21,NOG,My father told me I could learn a lot from you. He says you can fix anything.,2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65552,65552,65552,65552,22,O'BRIEN,I'm an engineer... that's what we do. There. Good as new.,2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.4404
+65553,65553,65553,65553,23,NOG,Amazing.,2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.5859
+65554,65554,65554,65554,24,O'BRIEN,Damn.,2    INT. CONDUIT,CONDUIT,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65555,65555,65555,65555,25,O'BRIEN,"We repaired the leak right away, but the problem is worse than I thought. The entire plasma distribution manifold is shot.",3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65556,65556,65556,65556,26,SISKO,Can you replicate a new one?,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65557,65557,65557,65557,27,O'BRIEN,No. Cardassian manifolds use a beta-matrix compositor which can't be replicated.,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65558,65558,65558,65558,28,ODO,I suppose we could contact Gul Dukat and ask if he happens to have a spare manifold system lying around...,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65559,65559,65559,65559,29,SISKO,I'm sure he'd jump at the chance to help us. Any other ideas?,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65560,65560,65560,65560,30,O'BRIEN,We could send a salvage team to the abandoned Cardassian Station in the Trivas System.,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65561,65561,65561,65561,31,SISKO,Empok Nor?,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65562,65562,65562,65562,32,O'BRIEN,"It's the same design as this station. The Cardassians pulled out a year ago, but there's a good chance the plasma manifold system is still operable.",3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65563,65563,65563,65563,33,SISKO,What about Dominion activity in the area?,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65564,65564,65564,65564,34,ODO,"There hasn't been any in several months. Strategically, they seem to have lost interest in that sector.",3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65565,65565,65565,65565,35,ODO,But there is one problem. It's standard Cardassian procedure to booby-trap a facility before abandoning it.,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65566,65566,65566,65566,36,O'BRIEN,"And a lot of the ""surprises"" they leave behind are specifically keyed to attack non-Cardassians.",3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65567,65567,65567,65567,37,SISKO,Sounds like you should take a Cardassian along...,3    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65568,65568,65568,65568,38,O'BRIEN,So how did Captain Sisko convince you to come?,4    INT. AIRLOCK,AIRLOCK,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65569,65569,65569,65569,39,GARAK,How do you know I didn't volunteer?,4    INT. AIRLOCK,AIRLOCK,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65570,65570,65570,65570,40,O'BRIEN,"He threatened you, didn't he?",4    INT. AIRLOCK,AIRLOCK,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65571,65571,65571,65571,41,GARAK,Nothing so coarse. The captain bribed me. He offered to help me procure a larger space for my workshop. The latest dressmaking equipment is surprisingly bulky.,4    INT. AIRLOCK,AIRLOCK,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65572,65572,65572,65572,42,O'BRIEN,"Well, whatever the captain did, I'm glad you're here.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65573,65573,65573,65573,43,O'BRIEN,What's the matter?,5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65574,65574,65574,65574,44,GARAK,"It's just that lately, I've noticed that everyone seems to... trust me. It's quite unnerving. I'm still trying to get used to it. Next thing I know, people will be inviting me to their homes for dinner.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65575,65575,65575,65575,45,O'BRIEN,"If it makes you feel any better, I promise I'll never have you over.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65576,65576,65576,65576,46,"GARAK,","I appreciate that, Chief.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65577,65577,65577,65577,47,O'BRIEN,Don't mention it. Anything to return the favor. Disarming Cardassian boobytraps is not my favorite kind of engineering.,5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65578,65578,65578,65578,48,BOQ'TA,Booby-traps... I can't believe I let you talk me into volunteering for this.,5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65579,65579,65579,65579,49,PECHETTI,"Beats working on the waste extraction system. Besides, how often does an engineer get to wear a phaser?",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65580,65580,65580,65580,50,STOLZOFF,"Hate to disappoint you, Pechetti. But the only thing you'll be using that for is shooting voles. Empok Nor's been abandoned so long, they're going to be hungry.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65581,65581,65581,65581,51,AMARO,"Don't worry, you play with your wrenches, we'll watch your back.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65582,65582,65582,65582,52,AMARO,"Can I help you, cadet?",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65583,65583,65583,65583,53,NOG,I'm reporting for duty... ...sir.,5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65584,65584,65584,65584,54,O'BRIEN,"Welcome aboard, cadet.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65585,65585,65585,65585,55,NOG,"Thank you, sir. And may I say it's a privilege to be here, sir.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65586,65586,65586,65586,56,O'BRIEN,"You've earned it. But one more ""sir"" and I'm going to leave you behind.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65587,65587,65587,65587,57,NOG,"Very well, s... Chief.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65588,65588,65588,65588,58,O'BRIEN,"Let's get going. Next stop, Empok Nor.",5    INT. RUNABOUT - CONTINUOUS,RUNABOU,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65589,65589,65589,65589,59,GARAK ,What are you doing?,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65590,65590,65590,65590,60,NOG,Regrouping.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65591,65591,65591,65591,61,GARAK,But you're losing.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65592,65592,65592,65592,62,NOG,That's why I have to protect my assets.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65593,65593,65593,65593,63,GARAK,"This isn't a financial transaction. Protecting your ""assets"" is what got you into trouble in the first place. You have to go on the offensive -- you have to attack.",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65594,65594,65594,65594,64,NOG,Your move.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65595,65595,65595,65595,65,GARAK,This is maddening. Asking a Ferengi to play a Cardassian game is like asking a Klingon to chew with his mouth closed.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65596,65596,65596,65596,66,GARAK,"Kotra isn't about ""regrouping"" and hoarding ""assets"" -- it's about bold strategy and decisive action.",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65597,65597,65597,65597,67,GARAK,"Chief, care to take on the winner? I'd love to play Kotra against the hero of Setlik Three.",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65598,65598,65598,65598,68,O'BRIEN,What is that supposed to mean?,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65599,65599,65599,65599,69,GARAK,"Everyone knows your distinguished war record -- how you led two dozen men against the Barrica encampment and drove out an entire regiment of Cardassians. If you play Kotra with half that brazenness, I think we'd have quite a match.",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65600,65600,65600,65600,70,O'BRIEN,That was a long time ago.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65601,65601,65601,65601,71,GARAK,But you're still the same man.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65602,65602,65602,65602,72,O'BRIEN,I'm not a soldier anymore. I'm an engineer.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65603,65603,65603,65603,73,GARAK,I see. So when you and Doctor Bashir disappear into the holosuites for hours at a time... you're just repairing them.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,-0.2263
+65604,65604,65604,65604,74,O'BRIEN,"What's your point, Garak?",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65605,65605,65605,65605,75,GARAK,"I'm just curious, why do you and Doctor Bashir spend hours in the holosuites dressed up as fighter pilots, reliving ancient battles?",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65606,65606,65606,65606,76,O'BRIEN,We do it for fun -- it's just a game.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65607,65607,65607,65607,77,GARAK,So's Kotra. And I'd love nothing more than to play against a man like you.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65608,65608,65608,65608,78,O'BRIEN,Maybe some other time.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65609,65609,65609,65609,79,PECHETTI,"Chief, here's the wish list you wanted. Three categories: ""Must Have""... which includes the manifolds and the plasma recoilers -- ""Could Use""... things like EPS matrix converters -- and ""Would be Nice""... bypass displacers, polarity maximizers, that sort of thing.",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65610,65610,65610,65610,80,O'BRIEN,(reading an item on the list) Cardassian emblems and insignias?,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65611,65611,65611,65611,81,PECHETTI,"A low priority, but if we happen to see any...",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65612,65612,65612,65612,82,O'BRIEN,"This is a salvage operation, Pechetti. Not an opportunity to indulge your collecting obsessions.",10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65613,65613,65613,65613,83,PECHETTI,Right.,10   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65614,65614,65614,65614,84,NOG,"Approaching Empok Nor, Sir.",12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65615,65615,65615,65615,85,O'BRIEN,Take us out of warp.,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65616,65616,65616,65616,86,O'BRIEN,Run a full scan. I'll take the helm.,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65617,65617,65617,65617,87,NOG,The station's main power supply and life support systems are off- line. No lifesigns.,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65618,65618,65618,65618,88,O'BRIEN,I'm taking us into transporter range.,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65619,65619,65619,65619,89,GARAK,I don't think we can risk beaming aboard. There are probably pattern scramblers rigged to go off if they detect a non- Cardassian transporter signal.,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65620,65620,65620,65620,90,O'BRIEN,That could be messy... we'll have to dock. The landing pads are sealed. Let's try an Upper Pylon.,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65621,65621,65621,65621,91,NOG,Won't the airlock have booby-traps?,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65622,65622,65622,65622,92,GARAK,You can count on it. Someone's going to have to disarm them before we dock.,12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65623,65623,65623,65623,93,NOG,"I volunteer, sir.",12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65624,65624,65624,65624,94,GARAK,"The scanner in the airlock might mistake your enthusiasm as Cardassian, but not your DNA... I'm afraid I'm the only one who has a chance of getting through.",12   INT. RUNABOUT ,RUNABOUT ,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65625,65625,65625,65625,95,GARAK,Welcome to Empok Nor.,24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65626,65626,65626,65626,96,O'BRIEN,Thanks for having us...,24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65627,65627,65627,65627,97,GARAK,Take whatever you need... my house is your house.,24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65628,65628,65628,65628,98,PECHETTI,Why don't you call for the turbolift?,24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65629,65629,65629,65629,99,O'BRIEN,"All right, listen up. We're going to break up into three teams. Nog and Stolzoff are with me. We're going after the ""Must-Haves."" Pechetti and Amaro, you'll do ""Could-Use"". Boq'ta and Garak -- ""Would-be-Nice.""",24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65630,65630,65630,65630,100,O'BRIEN,"Garak disabled the central security net, but there could be booby-traps anywhere... don't move into an area until you've scanned it... if something doesn't seem right -- don't touch it. Call for help. Clear?",24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65631,65631,65631,65631,101,O'BRIEN,Let's go.,24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65632,65632,65632,65632,102,AMARO,"I think there's something wrong with the turbolift, Sir.",24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65633,65633,65633,65633,103,O'BRIEN,"We're on emergency power, Amaro. We have to take the stairs.",24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65634,65634,65634,65634,104,NOG,"Seventy-two decks. It's good exercise, Sir. On DS9, I run the Pylon stairs twice every morning.",24   INT. EMPOK NOR - UPPER PYLON - AIRLOCK CORRIDOR ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65635,65635,65635,65635,105,BOQ'TA,It's a biogenic compound.,28   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65636,65636,65636,65636,106,"GARAK,",I wonder where it came from...,28   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65637,65637,65637,65637,107,BOQ'TA,These look like stasis tubes...,30   INT. EMPOK NOR - SURGERY - CONTINUOUS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65638,65638,65638,65638,108,BOQ'TA,Cardassian. He's been dead for about a year...,30   INT. EMPOK NOR - SURGERY - CONTINUOUS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65639,65639,65639,65639,109,GARAK,Interesting...,30   INT. EMPOK NOR - SURGERY - CONTINUOUS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65640,65640,65640,65640,110,BOQ'TA,A regimental badge?,30   INT. EMPOK NOR - SURGERY - CONTINUOUS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65641,65641,65641,65641,111,GARAK,"Third Battalion, First Order... if I'm not mistaken.",30   INT. EMPOK NOR - SURGERY - CONTINUOUS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65642,65642,65642,65642,112,BOQ'TA,This'll make Pechetti's day.,30   INT. EMPOK NOR - SURGERY - CONTINUOUS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65643,65643,65643,65643,113,GARAK,Both these tubes have been activated recently...,30   INT. EMPOK NOR - SURGERY - CONTINUOUS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65644,65644,65644,65644,114,O'BRIEN,Coil spanner.,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65645,65645,65645,65645,115,O'BRIEN,Flux-coupler.,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65646,65646,65646,65646,116,NOG,Uh-oh.,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65647,65647,65647,65647,117,O'BRIEN,Flux-coupler.,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65648,65648,65648,65648,118,NOG,"I left it on the runabout. I'll go get it right away, sir.",31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65649,65649,65649,65649,119,NOG,"I mean, Chief.",31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65650,65650,65650,65650,120,GARAK,Garak to O'Brien.,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65651,65651,65651,65651,121,O'BRIEN,Go ahead.,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65652,65652,65652,65652,122,GARAK,Can you come down to the Infirmary? There's something you should see...,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65653,65653,65653,65653,123,O'BRIEN,On my way.,31   INT. EMPOK NOR - CORRIDOR JUNCTION,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65654,65654,65654,65654,124,NOG,That's not right...,32   INT. EMPOK NOR - AIRLOCK,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65655,65655,65655,65655,125,O'BRIEN,(looking at the chambers) A runabout doesn't disengage from its docking clamps and blow up all on its own.,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65656,65656,65656,65656,126,GARAK,Which leads me to believe that the former occupants of these chambers are up and about...,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65657,65657,65657,65657,127,PECHETTI,"If you're telling me that there are two Cardassian soldiers from the Third Battalion loose on this station... we're in trouble. ""Death to All."" That was their motto.",35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65658,65658,65658,65658,128,GARAK,"Three simple words, but they certainly sum up their credo nicely.",35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65659,65659,65659,65659,129,NOG,Why would the Cardassians abandon this station and leave behind a few soldiers in stasis tubes?,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65660,65660,65660,65660,130,STOLZOFF,Why do you think? To guard it. The tubes were probably rigged to wake them up as soon as someone came aboard.,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65661,65661,65661,65661,131,STOLZOFF,Maybe they're upset because we haven't introduced ourselves.,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65662,65662,65662,65662,132,AMARO,"We should find them and say ""hello."" (surprised, re: his tricorder) This thing's not working...",35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65663,65663,65663,65663,133,PECHETTI,Don't look at me...,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65664,65664,65664,65664,134,O'BRIEN,Mine's not working either. They must've set up a dampening field.,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65665,65665,65665,65665,135,BOQ'TA,(swallowing his rising dread) We've got to get out of here... Let's call for help.,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65666,65666,65666,65666,136,PECHETTI,How? The station's subspace transceiver was ripped out when the Cardassians evacuated.,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65667,65667,65667,65667,137,AMARO,We could always try sending smoke signals.,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65668,65668,65668,65668,138,O'BRIEN,That's not a bad idea... The deflector grid is still relatively intact. If we could modify the field coils to emit a series of covariant pulses...,35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65669,65669,65669,65669,139,PECHETTI,"We could use the station like an old-fashioned telegraph, and tap out an S-O-S.",35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65670,65670,65670,65670,140,O'BRIEN,"For the pulses to be strong enough to reach Deep Space Nine... we'd have to boost power to the induction grid. Pechetti, get down to the Habitat Ring and bring the microfusion reactor back on-line. Stolzoff -- go with him. Boq'ta -- realign the magnetic flow field in conduit G-four. Amaro will watch your back. Nog and Garak are with me. We'll set up the signal generator in Cargo Bay Four. Stay off the communicators as much as possible we don't want to give away our positions. Any questions? Let's go.",35   INT. EMPOK NOR - SURGERY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65671,65671,65671,65671,141,AMARO,You okay?,37   INT. EMPOK NOR - CONDUIT,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65672,65672,65672,65672,142,BOQ'TA,My hand's shaking...,37   INT. EMPOK NOR - CONDUIT,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65673,65673,65673,65673,143,AMARO,(letting him off the hook) Must've had too much coffee... take a break. Show me what to do.,37   INT. EMPOK NOR - CONDUIT,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65674,65674,65674,65674,144,BOQ'TA,I was just realigning the --,37   INT. EMPOK NOR - CONDUIT,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65675,65675,65675,65675,145,GARAK,I'm not convinced Stolzoff was right about our Cardassian friends... why would anyone voluntarily seal themselves into a stasis tube -- possibly for years -- just to guard an abandoned station? Even the Third Battalion isn't that fanatical... something else is going on.,43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65676,65676,65676,65676,146,O'BRIEN,Maybe so... but I don't intend to be here long enough to find out what it is.,43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65677,65677,65677,65677,147,GARAK ,That's the trouble with humans... you don't know how to appreciate a good mystery.,43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65678,65678,65678,65678,148,O'BRIEN ,I love a good mystery -- the kind I can read in bed. Not the kind that's trying to kill me.,43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65679,65679,65679,65679,149,GARAK ,"Don't get me wrong, Chief. I want to get off this station as much as you do...",43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65680,65680,65680,65680,150,GARAK ,"... but I just know that if I don't figure this out, it's going to nag at me for days.",43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65681,65681,65681,65681,151,O'BRIEN ,"Right now, let's concentrate on finishing this signal modulator so we can get out of here.",43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65682,65682,65682,65682,152,O'BRIEN ,You have the whole trip home to sort out the mystery.,43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65683,65683,65683,65683,153,O'BRIEN ,Nog!,43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65684,65684,65684,65684,154,O'BRIEN ,I need your help with the phase discriminator.,43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65685,65685,65685,65685,155,NOG,"On my way, Chief.",43   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65686,65686,65686,65686,156,PECHETTI,You mind not aiming that at me?,46   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65687,65687,65687,65687,157,STOLZOFF,"Don't worry, the safety's on.",46   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65688,65688,65688,65688,158,STOLZOFF,Tell me you did that...,46   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65689,65689,65689,65689,159,STOLZOFF,"One, two...",46   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65690,65690,65690,65690,160,PECHETTI,Maybe I did activate the turbolift without realizing it...,46   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65691,65691,65691,65691,161,STOLZOFF,Pechetti!,46   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65692,65692,65692,65692,162,STOLZOFF,Stolzoff to O'Brien. A Cardass--,46   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65693,65693,65693,65693,163,O'BRIEN,Stolzoff! Stolzoff!,49   INT. EMPOK NOR - CARGO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65694,65694,65694,65694,164,BOQ'TA,The Cardassians must've surprised them... they're probably using the internal sensors to track us --,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65695,65695,65695,65695,165,O'BRIEN,"Take it easy. We're going to get out of here, you can count on that. But we have to stay focused -- Looks like Pechetti was almost done getting the microfusion reactor on-line. I'll finish it then head back down to the cargo bay. How are you doing with the conduits?",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65696,65696,65696,65696,166,BOQ'TA,(trying to control his anxiety) I'm done...,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65697,65697,65697,65697,167,O'BRIEN,Good. Now you and Amaro get down to auxiliary control and reconfigure the pulse generator.,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65698,65698,65698,65698,168,BOQ'TA,We're going to split up?,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65699,65699,65699,65699,169,O'BRIEN,"We've got to. If we don't send out a signal, we'll never get off this station.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65700,65700,65700,65700,170,O'BRIEN,"I need you, Boq'ta. You can do this.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65701,65701,65701,65701,171,BOQ'TA,Stolzoff was supposed to be watching Pechetti's back -- look what happened to them.,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65702,65702,65702,65702,172,O'BRIEN,"What if I send Garak with you, too? Would that make you feel better?",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65703,65703,65703,65703,173,GARAK,I'm flattered. But I'm afraid I have other plans.,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65704,65704,65704,65704,174,O'BRIEN,What the hell are you talking about?,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65705,65705,65705,65705,175,GARAK,I don't intend to stand around waiting to be killed.,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65706,65706,65706,65706,176,O'BRIEN,Meaning what?,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65707,65707,65707,65707,177,GARAK,"Meaning, I'm going to find those two Cardassian soldiers... and neutralize them. (checking the setting on his phaser) Besides, all this whining is giving me a headache.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65708,65708,65708,65708,178,AMARO,You're going to have more than a headache if you don't do what the chief wants...,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65709,65709,65709,65709,179,O'BRIEN,Amaro --,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65710,65710,65710,65710,180,GARAK,"You'd like to shoot me, wouldn't you? You're just dying to kill a Cardassian. Any Cardassian...",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65711,65711,65711,65711,181,O'BRIEN,Let him go.,53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65712,65712,65712,65712,182,O'BRIEN,"If he thinks he can ""neutralize"" the Cardassians -- let him try. He'd be doing us all a favor.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65713,65713,65713,65713,183,GARAK,"That's the spirit. Why don't you come with me, Chief?",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65714,65714,65714,65714,184,GARAK,"Kill a few ""Cardies,"" it'd be like old times. Wouldn't you like to avenge their deaths?",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65715,65715,65715,65715,185,O'BRIEN,"No, I just want to get everyone home.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65716,65716,65716,65716,186,GARAK,"You're fighting your instincts, I can see it. The hero of Setlik Three is still inside there somewhere.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65717,65717,65717,65717,187,O'BRIEN,"If you're going to go, go.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65718,65718,65718,65718,188,O'BRIEN,"Nog, you go with Boq'ta and Amaro.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65719,65719,65719,65719,189,NOG,"Aye, Sir.",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65720,65720,65720,65720,190,BOQ'TA,"It's all right, Chief. He can stay with you. (looking in the direction Garak left) For some reason, knowing Garak's going after those Cardassians makes me feel better...",53   INT. EMPOK NOR - PROMENADE ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65721,65721,65721,65721,191,GARAK,Access denied. Access denied. Don't you know how to say anything else?,55   INT. EMPOK NOR - SURGERY ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65722,65722,65722,65722,192,GARAK,Apparently not...,55   INT. EMPOK NOR - SURGERY ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65723,65723,65723,65723,193,GARAK ,Access denied... access denied. How monotonous.,56   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65724,65724,65724,65724,194,GARAK,Looking for me?,58   INT. SURGERY,SURGERY,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65725,65725,65725,65725,195,GARAK,That felt... good.,58   INT. SURGERY,SURGERY,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65726,65726,65726,65726,196,NOG,"Chief, why does Garak keep bringing up Setlik Three?",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65727,65727,65727,65727,197,O'BRIEN,Because he wants to get under my skin.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65728,65728,65728,65728,198,NOG,"But you were a hero, weren't you?",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65729,65729,65729,65729,199,O'BRIEN,"That doesn't mean I like thinking about what happened there. I was a soldier, Nog, and sometimes soldiers have to kill.",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65730,65730,65730,65730,200,GARAK ,"Come now, Chief, don't be so modest.",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65731,65731,65731,65731,201,GARAK,You did a lot of killing.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65732,65732,65732,65732,202,NOG,How'd you get in here? Both doors are secure.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65733,65733,65733,65733,203,GARAK,"""Secure"" is such a relative term, wouldn't you agree?",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65734,65734,65734,65734,204,GARAK,If you don't mind... I've brought you something.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65735,65735,65735,65735,205,GARAK,"I'm sure Pechetti would've appreciated it more, but...",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65736,65736,65736,65736,206,O'BRIEN,Where'd you get this?,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65737,65737,65737,65737,207,GARAK,From its former owner.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65738,65738,65738,65738,208,NOG,You killed one of the soldiers?,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65739,65739,65739,65739,209,GARAK,"One down, one to go. By the way, I took a tissue sample from the soldier's body... the analysis was rather fascinating, in a grim sort of way. It would seem that the unfortunate soul had been given a massive dose of a psychotropic drug --",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65740,65740,65740,65740,210,O'BRIEN,Why?,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65741,65741,65741,65741,211,GARAK,"I'm not sure, but I can tell you one thing, it wasn't to make him amicable. The drug's protein structure seems designed to amplify my people's xenophobic tendencies... my guess is that the soldiers that were left here, were part of some sort of Cardassian military experiment. The High Command may have been looking for a way to further ""motivate"" their troops...",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65742,65742,65742,65742,212,O'BRIEN,So they gave them a drug to make them hate anyone who wasn't Cardassian...,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65743,65743,65743,65743,213,NOG,Then why'd they attack you?,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65744,65744,65744,65744,214,GARAK,That's a good question.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65745,65745,65745,65745,215,O'BRIEN,Something must have gone wrong with the experiment. Maybe that's why the soldiers were left in stasis... because they were uncontrollable.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65746,65746,65746,65746,216,GARAK,"I'd love to stay and hypothesize with you all afternoon... ... but once I set my mind to a task, I hate to leave it unfinished.",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65747,65747,65747,65747,217,GARAK,"What is it, Chief?",62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65748,65748,65748,65748,218,O'BRIEN,You look different.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65749,65749,65749,65749,219,GARAK,How so?,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65750,65750,65750,65750,220,O'BRIEN,That's not the face of a tailor.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65751,65751,65751,65751,221,GARAK,I'm not a tailor. Not for the moment anyway.,62   INT. EMPOK NOR - CARCO BAY,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65752,65752,65752,65752,222,BOQ'TA,"You know, I once bought a suit from Garak. Turned out the sleeves were a little long. I remember being angry when I brought it in to be fixed.",64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,-0.5106
+65753,65753,65753,65753,223,AMARO,Is there a point to this story?,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65754,65754,65754,65754,224,BOQ'TA,"If I had known he was so dangerous, I never would've complained. You think he'll get the other Cardassian?",64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65755,65755,65755,65755,225,AMARO,I hope not. I want to get him myself.,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65756,65756,65756,65756,226,AMARO ,Stolzoff was my friend.,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65757,65757,65757,65757,227,BOQ'TA,"I can't get this loose. Get me the coil spanner, would you?",64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65758,65758,65758,65758,228,AMARO,What does it look like?,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65759,65759,65759,65759,229,BOQ'TA ,It's got two pointy things on the end.,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65760,65760,65760,65760,230,AMARO,He had me.,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65761,65761,65761,65761,231,AMARO,He asked me to get a coil spanner for him... I turned my back for a second...,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65762,65762,65762,65762,232,GARAK,It's a shame. And you know what the worst part is...,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65763,65763,65763,65763,233,"GARAK,",This isn't a coil spanner.,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65764,65764,65764,65764,234,GARAK,It's a flux coupler.,64   INT. EMPOK NOR - WARDROOM (AKA. AUXILIARY CONTROL),EMPOK NOR - WARDROOM,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65765,65765,65765,65765,235,O'BRIEN,That should do it. O'Brien to Boq'ta.,74   INT. EMPOK NOR - CARGO BAY ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65766,65766,65766,65766,236,O'BRIEN,"Boq'ta, come in.",74   INT. EMPOK NOR - CARGO BAY ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65767,65767,65767,65767,237,O'BRIEN,Amaro -- what's going on up there?,74   INT. EMPOK NOR - CARGO BAY ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65768,65768,65768,65768,238,AMARO,He's out there...,75   INT. EMPOK NOR - WARDROOM,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65769,65769,65769,65769,239,O'BRIEN,Easy now... who's out there?,75   INT. EMPOK NOR - WARDROOM,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65770,65770,65770,65770,240,AMARO,Garak...,75   INT. EMPOK NOR - WARDROOM,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65771,65771,65771,65771,241,AMARO,He... stabbed me...,75   INT. EMPOK NOR - WARDROOM,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65772,65772,65772,65772,242,NOG,Chief... why would Garak do this?,75   INT. EMPOK NOR - WARDROOM,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65773,65773,65773,65773,243,O'BRIEN,Come on. He might still be close by...,75   INT. EMPOK NOR - WARDROOM,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65774,65774,65774,65774,244,NOG,It doesn't make any sense - Garak's on our side.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65775,65775,65775,65775,245,O'BRIEN,Not anymore. (looking at the stasis tubes) The psychotropic drug... he must've been exposed to it. It's the only explanation. (pounding his hand on the side of the stasis tube) I should've seen it earlier. The way he accused Amaro of wanting to kill him... the way he insisted on going after those Cardassians.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65776,65776,65776,65776,246,NOG,"He's going to come after us, isn't he?",76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65777,65777,65777,65777,247,O'BRIEN,Yes.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65778,65778,65778,65778,248,NOG,Maybe we can reason with him - make him understand that the drug's affecting him.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65779,65779,65779,65779,249,O'BRIEN,You saw what he did to Amaro. He's not going to listen to us.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65780,65780,65780,65780,250,NOG,Then we have to finish setting up the deflector grid -- we've got to get a distress signal out.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65781,65781,65781,65781,251,O'BRIEN,Garak knows that's what we've been trying to do. He'll stop us.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65782,65782,65782,65782,252,NOG,Don't we have to try?,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65783,65783,65783,65783,253,O'BRIEN,Forget it! I've lost four crewmen trying to send out that bloody signal.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65784,65784,65784,65784,254,O'BRIEN,Garak was right. We should've gone after those Cardassians as soon as they attacked us. You don't wait for the enemy to come to you -- you go to him.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65785,65785,65785,65785,255,O'BRIEN,We're going after Garak.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65786,65786,65786,65786,256,NOG,You mean... to kill him?,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65787,65787,65787,65787,257,O'BRIEN,If that's what it takes to stop him... yes.,76   INT. EMPOK NOR - QUARTERS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65788,65788,65788,65788,258,GARAK,I know you're hiding somewhere.,79   INT. EMPOK NOR - STATION COMMANDER'S OFFICE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65789,65789,65789,65789,259,GARAK,"Ah, there you are.",79   INT. EMPOK NOR - STATION COMMANDER'S OFFICE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65790,65790,65790,65790,260,GARAK,Garak to Chief O'Brien. You'll never guess what I found...,79   INT. EMPOK NOR - STATION COMMANDER'S OFFICE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65791,65791,65791,65791,261,GARAK,"A Kotra board. The Station Commander left one in his office... the pieces were scattered all over... but I found the last one, hiding under his desk.",80   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65792,65792,65792,65792,262,GARAK,I can't help thinking what a perfect metaphor this game is for our present situation. Two players. Two minds. Two strategies...,81   INT. EMPOK NOR - STATION COMMANDER'S OFFICE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65793,65793,65793,65793,263,GARAK,Each trying to outmaneuver the other... testing the enemy's defenses... advancing... retreating...,82   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65794,65794,65794,65794,264,GARAK,"The only difference is that in the game we're playing, the stakes are life and death... which makes it much more interesting.",83   INT. EMPOK NOR - STATION COMMANDER'S OFFICE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65795,65795,65795,65795,265,GARAK,I haven't had this much fun in years. My heart's pounding...,84   INT. EMPOK NOR - CORRIDOR - OUTSIDE OPS,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65796,65796,65796,65796,266,GARAK,"The blood is racing through my veins... I feel so alive. And I bet you do, too.",85   INT. EMPOK NOR - CORRIDOR -,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65797,65797,65797,65797,267,GARAK,"Looks like I captured your last piece, Chief. If you want it back, you're going to have to take it from me...",91   INT. EMPOK NOR - STATION COMMANDER'S OFFICE (OPTICAL),EMPOK NOR - STATION COMMANDER'S OFFICE,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65798,65798,65798,65798,268,GARAK,"It's your move, Chief. What are you going to do? Attack? Retreat? Surrender?",96A  INT. EMPOK NOR - OPS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65799,65799,65799,65799,269,O'BRIEN,"Garak, listen to me... the drug's affecting you. You have to fight it.",96A  INT. EMPOK NOR - OPS ,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65800,65800,65800,65800,270,GARAK,Fight it? But I'm enjoying myself. This is the most exciting game I've played in years.,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65801,65801,65801,65801,271,O'BRIEN,It's not a game!,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65802,65802,65802,65802,272,GARAK,"Oh, but it is. And the best thing about it is that it brings out the player's true nature.",97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65803,65803,65803,65803,273,O'BRIEN,"Where are you, Garak?",97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65804,65804,65804,65804,274,GARAK,(continuing on his own train of thought) I saw the look in your eyes when I took the Ferengi from you. You wanted to kill me... you wanted to squeeze the life out of me with your bare hands.,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65805,65805,65805,65805,275,O'BRIEN,I just want my crewman back - that's all.,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65806,65806,65806,65806,276,GARAK,"Admit it -- you're a killer. We both are. Behind your Federation mask of decency and benevolence, you're a predator -- just like me.",97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65807,65807,65807,65807,277,O'BRIEN,I'm nothing like you.,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65808,65808,65808,65808,278,GARAK,"Oh, but you are -- you proved that at Setlik Three. How many Cardassians did you kill? Ten? Twenty? A hundred?",97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65809,65809,65809,65809,279,O'BRIEN,I don't remember...,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65810,65810,65810,65810,280,GARAK,"But you remember how it felt. The Cardassians were killing your men, and you had to stop them -- you had to make them pay. Blood for blood. You enjoyed killing them, didn't you? You enjoyed watching the life drain from their eyes.",97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65811,65811,65811,65811,281,O'BRIEN,"You want to finish this game, Garak? Fine. Let's finish it. You and me. Face to face.",97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65812,65812,65812,65812,282,GARAK,I'd like nothing better. We'll meet on the Promenade.,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65813,65813,65813,65813,283,O'BRIEN,No weapons.,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65814,65814,65814,65814,284,GARAK,No weapons.,97   INT. EMPOK NOR - CORRIDOR,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65815,65815,65815,65815,285,GARAK,You have no idea how hard it is to keep myself from pulling the trigger. But I need you alive...,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65816,65816,65816,65816,286,GARAK ,"They've come to cheer you on, Chief.",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65817,65817,65817,65817,287,GARAK,Your loyal team... apparently they've forgiven you for getting them killed.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65818,65818,65818,65818,288,GARAK,"My supporters may be fewer in number, but they're no less loyal.",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65819,65819,65819,65819,289,GARAK,I thought we agreed -- no weapons.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65820,65820,65820,65820,290,O'BRIEN,What's that in your hand?,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65821,65821,65821,65821,291,GARAK,How did this get here? We won't need these. Put yours down.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65822,65822,65822,65822,292,O'BRIEN,You first.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65823,65823,65823,65823,293,GARAK,"Put it down, or say good-bye to the Ferengi.",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65824,65824,65824,65824,294,NOG,"Don't do it, Chief.",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65825,65825,65825,65825,295,GARAK,He has nothing to worry about -- I'm not going to shoot an unarmed man. What fun would that be?,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65826,65826,65826,65826,296,GARAK,"You wouldn't happen to have another one, would you?",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65827,65827,65827,65827,297,GARAK,"Naughty, naughty.",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65828,65828,65828,65828,298,O'BRIEN,Your turn.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65829,65829,65829,65829,299,GARAK,I admit I'm tempted to finish this right now... (tossing the rifle aside) But I'd be depriving myself of too much enjoyment.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65830,65830,65830,65830,300,GARAK,"I'm disappointed, Chief. I was hoping to see bloodlust in your eyes, but all I see is fear.",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65831,65831,65831,65831,301,GARAK,Maybe it's true... maybe you're not a soldier anymore.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65832,65832,65832,65832,302,O'BRIEN,You're right. I'm an engineer.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65833,65833,65833,65833,303,O'BRIEN,"Nog, are you okay?",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.2263
+65834,65834,65834,65834,304,NOG,"I'm all right, sir.",98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65835,65835,65835,65835,305,NOG,Is he dead? Did you kill him?,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65836,65836,65836,65836,306,O'BRIEN,No...,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65837,65837,65837,65837,307,O'BRIEN,I didn't.,98   INT. EMPOK NOR - PROMENADE,EMPOK NO,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65838,65838,65838,65838,308,BASHIR,He should be all right in a few days. I've neutralized the psychotropic compound that was affecting his nervous system.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65839,65839,65839,65839,309,O'BRIEN,He looks so peaceful... it's hard to believe he's the same man who attacked us.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65840,65840,65840,65840,310,BASHIR,"In a way, he's not. The drug brought out the worst parts of him and allowed them to take over. He wasn't in control of his actions.",107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65841,65841,65841,65841,311,O'BRIEN,Can I talk to him?,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65842,65842,65842,65842,312,BASHIR,For a minute.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65843,65843,65843,65843,313,O'BRIEN,I thought you might want to know that we salvaged the plasma manifold. It's being installed right now.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65844,65844,65844,65844,314,GARAK,Mission accomplished.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65845,65845,65845,65845,315,O'BRIEN,I guess it didn't exactly go the way any of us expected.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65846,65846,65846,65846,316,O'BRIEN,You know there's going to be an inquest.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65847,65847,65847,65847,317,GARAK,So I've been told.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65848,65848,65848,65848,318,GARAK,"Chief, I was hoping I could ask a favor.",107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65849,65849,65849,65849,319,O'BRIEN,Don't worry. Once they hear the facts--,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65850,65850,65850,65850,320,GARAK,"It's not about that. I'd like you to express my deepest regrets to Amaro's wife. I'd talk to her myself, but I'm not sure she'd welcome that.",107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65851,65851,65851,65851,321,O'BRIEN,I'll tell her.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65852,65852,65852,65852,322,GARAK,I'd appreciate that.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65853,65853,65853,65853,323,O'BRIEN,Julian says the blast broke a few of your ribs.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65854,65854,65854,65854,324,GARAK,"It could've been worse. If I'd been any closer to that phaser, I would've been killed...",107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65855,65855,65855,65855,325,O'BRIEN,Don't take this the wrong way... but that was the plan.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65856,65856,65856,65856,326,GARAK,I understand.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65857,65857,65857,65857,327,O'BRIEN,I'll see you around.,107  INT. DEEP SPACE-NINE - INFIRMARY,DEEP SPACE-NIN,INT.,Empok Nor,1997-03-20,Deep Space Nine,522.txt,0.0
+65858,65858,65858,65858,0,ODO,"If you're not too busy, I'd appreciate it if you did something about that shipment of Livanian beets you have sitting in Cargo Bay Three.",1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65859,65859,65859,65859,1,ODO,It's been there for over two weeks. It's starting to rot. Morn.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65860,65860,65860,65860,2,QUARK,It's a hologram. Morn's been away on business for the last two weeks.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65861,65861,65861,65861,3,QUARK,"You're slipping, Odo. You should've caught on a lot sooner.",1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65862,65862,65862,65862,4,ODO,You replaced Morn with a hologram? Why?,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65863,65863,65863,65863,5,BASHIR,Hello.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65864,65864,65864,65864,6,O'BRIEN,Evening.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65865,65865,65865,65865,7,QUARK,"That's why. People love him. He's like a mascot. Everyone expects to see him when they come in here. If they don't, it doesn't feel like home to them.",1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65866,65866,65866,65866,8,ODO,And that's not good for business.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65867,65867,65867,65867,9,QUARK,The last time he went away sales dropped almost five percent.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65868,65868,65868,65868,10,ODO,Why doesn't it talk?,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65869,65869,65869,65869,11,QUARK,"Do you have any idea how much an interactive holo-projector costs? (sotto, so Bashir and O'Brien can't hear) Besides, it's a relief not to have to listen to him go on. You know Morn, he never shuts up. I'd trade this for the real thing any day.",1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65870,65870,65870,65870,12,ODO,I'm sure Morn would be touched to hear you say that.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.3182
+65871,65871,65871,65871,13,DAX ,Morn?,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65872,65872,65872,65872,14,ODO,It's just a hologram.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65873,65873,65873,65873,15,QUARK,You look like you've seen a ghost.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65874,65874,65874,65874,16,SISKO,Turn it off.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65875,65875,65875,65875,17,QUARK,Why?,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65876,65876,65876,65876,18,SISKO,We just got word. Morn's cargo ship was caught in an ion storm.,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65877,65877,65877,65877,19,BASHIR,Is he all right?,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65878,65878,65878,65878,20,O'BRIEN,Was he rescued?,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65879,65879,65879,65879,21,DAX,He's dead...,1    INT. QUARK'S BAR (OPTICAL),QUARK'S BAR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65880,65880,65880,65880,22,BASHIR,Didn't you bring anything? (off O'Brien's blank look) For the memorial service.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65881,65881,65881,65881,23,O'BRIEN,I didn't know I was supposed to.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65882,65882,65882,65882,24,BASHIR,It's Lurian custom to bring gifts of food and drink for the deceased -- so they'll have something to sustain them in the afterlife.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65883,65883,65883,65883,25,O'BRIEN,Maybe I can get something in Quark's. I hate to think of the big fella going without.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65884,65884,65884,65884,26,WORF,Morn was an excellent sparring partner. I will miss our weekly combat in the holosuites.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65885,65885,65885,65885,27,DAX,I can't believe he's really gone.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65886,65886,65886,65886,28,WORF,I didn't realize he was such a close friend.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65887,65887,65887,65887,29,DAX,I used to have a little crush on him.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,-0.079
+65888,65888,65888,65888,30,WORF,Morn?,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65889,65889,65889,65889,31,DAX,"It was before we met. Besides, he wasn't interested.",OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,-0.3089
+65890,65890,65890,65890,32,WORF,What do you mean he wasn't interested?,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65891,65891,65891,65891,33,DAX,Forget I said anything.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65892,65892,65892,65892,34,KIRA,Is that a bottle opener?,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65893,65893,65893,65893,35,ODO,For Morn. I thought it might come in handy.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65894,65894,65894,65894,36,KIRA,Very thoughtful.,OA   INT. PROMENADE,PROMENADE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65895,65895,65895,65895,37,QUARK,This is unbelievable. Look at all these people. If you see anyone emptyhanded sell them a bottle of Yridian Ale.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65896,65896,65896,65896,38,QUARK,Tell them it was Morn's favorite.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65897,65897,65897,65897,39,BASHIR,"It was kind of you to do this, Quark.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65898,65898,65898,65898,40,O'BRIEN,Morn would've appreciated it.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65899,65899,65899,65899,41,QUARK,It's the least I could do.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65900,65900,65900,65900,42,QUARK,I'll miss him.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65901,65901,65901,65901,43,QUARK,I'm sorry.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65902,65902,65902,65902,44,O'BRIEN,Can I get you something?,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65903,65903,65903,65903,45,QUARK,"I don't ordinarily imbibe on the job. But maybe a Yridian Ale. It was Morn's favorite, you know.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65904,65904,65904,65904,46,O'BRIEN,Perfect.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65905,65905,65905,65905,47,QUARK,What are you looking at?,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65906,65906,65906,65906,48,ODO,Your respect for the dead is heartwarming.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65907,65907,65907,65907,49,QUARK,I'll have you know that Morn died without paying this month's tab.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65908,65908,65908,65908,50,ODO,How inconsiderate of him.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65909,65909,65909,65909,51,QUARK,"We're talking about a lot of money. The man had quite an appetite -- he had two stomachs to fill, you know. Did you ever watch him eat? It was a beautiful thing.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65910,65910,65910,65910,52,ODO,Sometimes you don't truly appreciate what you have until it's gone.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65911,65911,65911,65911,53,QUARK,It's not funny. This service is my only chance to cover my losses.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65912,65912,65912,65912,54,ODO,Morn seemed to be a fairly successful businessman.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65913,65913,65913,65913,55,ODO ,"If you come up short, you can always make a claim against his estate.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65914,65914,65914,65914,56,QUARK,I hadn't thought of that.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65915,65915,65915,65915,57,ODO,"Of course, he did have seventeen brothers and sisters. By the time they divvy everything up, I doubt there'll be much left.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65916,65916,65916,65916,58,QUARK,It's nice to know you're so worried about my welfare.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65917,65917,65917,65917,59,ODO,"You should be worried, too. Now that your mascot is gone, business is going to suffer.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65918,65918,65918,65918,60,QUARK,We'll see. You might be surprised.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.2263
+65919,65919,65919,65919,61,WORF,Jadzia --,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65920,65920,65920,65920,62,DAX,Can we please drop this?,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0516
+65921,65921,65921,65921,63,QUARK,Thank you all for coming.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65922,65922,65922,65922,64,QUARK,"It means a great deal to me to see that so many people cared about Morn as much as I did. I'll never forget the first time he walked in here and sat down on this very stool. It must've been almost ten years ago -- he still had his hair then. I thought he was just another customer passing through. Little did I know that he'd become such an important figure in my life, in all our lives. Someone we could count on for a cheerful smile and an entertaining story. Some of you might be thinking that this place won't be the same without him. And it won't. But this was his home.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65923,65923,65923,65923,65,QUARK ,"And wherever he is, I'm sure he'd want to know that his favorite bar still echoed with the laughter of his dear friends. This was his chair... and I think the greatest tribute we could ever pay him would be to make sure that it's never empty.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.9647
+65924,65924,65924,65924,66,QUARK,Keep it warm. For Morn.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.2263
+65925,65925,65925,65925,67,KIRA,"Every now and then, Quark really surprises me...",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.2944
+65926,65926,65926,65926,68,ODO,"Me, too.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65927,65927,65927,65927,69,SISKO,"Excuse me, Quark.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65928,65928,65928,65928,70,QUARK,Not now.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65929,65929,65929,65929,71,SISKO,"I'm sorry to intrude, but I thought you should know.",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65930,65930,65930,65930,72,SISKO ,I unsealed Morn's will. He left everything to you.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65931,65931,65931,65931,73,QUARK,Me? He left everything to me?,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65932,65932,65932,65932,74,SISKO,That's right.,2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65933,65933,65933,65933,75,QUARK,"Morn... dear sweet, Morn...",2    INT. QUARK'S,QUARK'S,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.6808
+65934,65934,65934,65934,76,ODO,Poor fool. He actually believed you cared about him.,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,-0.4939
+65935,65935,65935,65935,77,QUARK,I did. (almost convinced of it himself) I was up for hours last night thinking about him.,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65936,65936,65936,65936,78,ODO,"Calculating his net worth, no doubt.",8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65937,65937,65937,65937,79,QUARK,We spent a lot of time together. We were obviously much closer than I ever realized.,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65938,65938,65938,65938,80,ODO,His financial records.,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65939,65939,65939,65939,81,QUARK,Is this some kind of joke?,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65940,65940,65940,65940,82,ODO,What do you mean?,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65941,65941,65941,65941,83,QUARK,"According to this, he was broke.",8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65942,65942,65942,65942,84,ODO,No.,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65943,65943,65943,65943,85,QUARK,How can that be? He paid his bar bill at the end of every month -- that kind of money must've come from somewhere.,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65944,65944,65944,65944,86,ODO,He did have his shipping business. Maybe all his assets are tied up in inventory?,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65945,65945,65945,65945,87,QUARK,Of course! Inventory.,8    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65946,65946,65946,65946,88,QUARK,I'll unload everything and use the profits to -- What is that smell?,9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65947,65947,65947,65947,89,ODO,Your inheritance. Livanian beets. Very ripe.,9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65948,65948,65948,65948,90,QUARK,What's in the rest of these?,9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65949,65949,65949,65949,91,ODO,More beets.,9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65950,65950,65950,65950,92,QUARK,"Is that it, is that all he had?",9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65951,65951,65951,65951,93,ODO,I'm afraid so.,9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65952,65952,65952,65952,94,ODO,(as if it were just occurring to him) Except for the contents of his quarters. Maybe he spent all his money on furnishings and art work.,9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65953,65953,65953,65953,95,QUARK,Objets d'art. Of course!,9    INT. CARGO BAY,CARGO BAY,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65954,65954,65954,65954,96,QUARK.,I'll hold an auction... people will pay a premium to own something that used to be Morn's.,10   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65955,65955,65955,65955,97,QUARK,You sure these are the right quarters?,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65956,65956,65956,65956,98,ODO,I'm sure.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65957,65957,65957,65957,99,QUARK,"Figures. (looking around, sees painting) What's that?",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65958,65958,65958,65958,100,ODO,"A matador, I think.",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65959,65959,65959,65959,101,QUARK,That.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65960,65960,65960,65960,102,ODO,His bed.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65961,65961,65961,65961,103,QUARK,Morn slept in mud?,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65962,65962,65962,65962,104,ODO,I'm told it's good for the skin...,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.4404
+65963,65963,65963,65963,105,QUARK,"Thanks, Morn... just what I always wanted...",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65964,65964,65964,65964,106,QUARK,What are you doing in my mud?,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65965,65965,65965,65965,107,LARELL,"I couldn't resist. Morny and I spent so many happy hours here, I just had to slip in. I'm sorry if I startled you, but when I heard you come in I thought I'd better hide.",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65966,65966,65966,65966,108,QUARK,Who are you?,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65967,65967,65967,65967,109,LARELL,(as if he should recognize the name) Larell. Morn's wife. Ex-wife.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65968,65968,65968,65968,110,QUARK,Morn was married? To you?,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65969,65969,65969,65969,111,LARELL,For two wonderful years.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.5719
+65970,65970,65970,65970,112,LARELL,You must be Quark. Morny and I kept in touch after we separated. He talked about you all the time.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65971,65971,65971,65971,113,QUARK,That's nice.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65972,65972,65972,65972,114,LARELL,"He told me that if anything ever happened to him, he wanted you to have everything that was ever his.",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65973,65973,65973,65973,115,QUARK,Everything?,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65974,65974,65974,65974,116,LARELL,Everything.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65975,65975,65975,65975,117,QUARK,"I'm glad you came by, because ""Morny"" didn't leave me much of anything else.",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65976,65976,65976,65976,118,LARELL,I find that hard to believe...,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65977,65977,65977,65977,119,QUARK,I'm as disappointed as you are.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65978,65978,65978,65978,120,LARELL,I happen to know he had a very substantial retirement fund. One that could make two people very comfortable.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65979,65979,65979,65979,121,QUARK,"If you're partial to mud, it's comfortable all right.",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65980,65980,65980,65980,122,LARELL,I'm talking about the thousand bricks of gold-pressed latinum he won in the Lissepian Lottery.,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65981,65981,65981,65981,123,QUARK,A thousand bricks...,11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65982,65982,65982,65982,124,LARELL,"Now that he's gone, it's all ours...",11   INT. MORN'S QUARTERS ,MORN'S QUARTERS ,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65983,65983,65983,65983,125,LARELL,(sliding her hand around his waist) What are you doing... ?,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65984,65984,65984,65984,126,QUARK,(sloshing the mud around so he can see) What do you think -- I'm looking for the latinum.,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65985,65985,65985,65985,127,LARELL,You must know where he kept it.,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65986,65986,65986,65986,128,QUARK,I didn't even know it existed until you told me.,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65987,65987,65987,65987,129,LARELL,"Well, I'm sure it's somewhere on the station.",14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65988,65988,65988,65988,130,QUARK,How do you know he didn't spend it already?,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65989,65989,65989,65989,131,LARELL,"I told you, it was for his retirement. Poor Morn. He never got to enjoy it.",14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65990,65990,65990,65990,132,LARELL,But that doesn't mean we can't.,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65991,65991,65991,65991,133,QUARK,I know what you're doing...,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65992,65992,65992,65992,134,LARELL,What am I doing?,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65993,65993,65993,65993,135,QUARK,"Just so we're clear, the latinum's mine.",14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65994,65994,65994,65994,136,LARELL,"(through a cobra's smile) He may have left everything to you, but I was his wife -- I could contest the will and tie you up in court for years...",14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65995,65995,65995,65995,137,QUARK,Maybe.,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65996,65996,65996,65996,138,LARELL,"But there's no reason it should come to that... after all, a thousand bricks is plenty for both of us.",14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65997,65997,65997,65997,139,QUARK,It is a lot of money...,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65998,65998,65998,65998,140,LARELL,"And as soon as we find it, we'll take a nice long vacation together.",14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0
+65999,65999,65999,65999,141,QUARK,Morn would've wanted it that way.,14   INT. MORN'S QUARTERS - LATER,MORN'S QUARTER,INT.,Who Mourns for Morn?,1997-10-28,Deep Space Nine,536.txt,0.0

@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+64000,64000,64000,64000,62,O'BRIEN,Keiko... (doesn't know what to say) I'm... so glad to see you.,4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.5949
+64001,64001,64001,64001,63,KEIKO,"I'm glad to see you, too. I've just had the worst trip.",4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64002,64002,64002,64002,64,O'BRIEN,"Oh... I'm sorry to hear that. But now that you're here, everything's going to be great.",4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64003,64003,64003,64003,65,MOLLY,Hi.,4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64004,64004,64004,64004,66,O'BRIEN,"Hello, sweetie. You ready to have a good time with Daddy?",4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64005,64005,64005,64005,67,MOLLY,No.,4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64006,64006,64006,64006,68,O'BRIEN,Why not?,4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64007,64007,64007,64007,69,MOLLY,I don't feel so good.,4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64008,64008,64008,64008,70,O'BRIEN,Tell Daddy what's wrong.,4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64009,64009,64009,64009,71,LWAXANA ,"Oh, you poor dear.",4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64010,64010,64010,64010,72,LWAXANA,I never should've given you all that candy.,4    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64011,64011,64011,64011,73,ODO,"I usually make it a point to stop by Quark's three or four times a day at random intervals... just to let him know that I'm thinking about him. But seeing that today's a holiday, and he'll be busier than usual... I suggest you station a man there full time.",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64012,64012,64012,64012,74,ODO,"I think that about covers it. If you need me, I'll be on the Promenade...",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64013,64013,64013,64013,75,LWAXANA ,But don't call unless it's an emergency.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64014,64014,64014,64014,76,LWAXANA,The constable will be... occupied.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64015,64015,64015,64015,77,ODO,Madame Ambassador...,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64016,64016,64016,64016,78,LWAXANA,Do we have to be so formal?,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64017,64017,64017,64017,79,LWAXANA,Didn't they teach you any manners at Starfleet Academy?,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64018,64018,64018,64018,80,ODO,Come back in five minutes.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64019,64019,64019,64019,81,LWAXANA,Make that half an hour.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64020,64020,64020,64020,82,ODO,So... what brings you to the station.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64021,64021,64021,64021,83,LWAXANA,"Officially I'm here as the Betazoid representative to the Gratitude Festival. But the truth is, I came to see you. You poor sweet tortured man.",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64022,64022,64022,64022,84,ODO,Excuse me?,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64023,64023,64023,64023,85,LWAXANA,I know the torment you must be going through.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64024,64024,64024,64024,86,LWAXANA,To spend your whole life searching for your people only to discover that they're the leaders of that awful Dominion.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64025,64025,64025,64025,87,ODO,You heard about that?,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64026,64026,64026,64026,88,LWAXANA,"When you travel as much as I do, you make friends everywhere. I like to think of Admiral Necheyev as the sister I never had. Don't worry, Odo. I'm here to help you.",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64027,64027,64027,64027,89,ODO,What kind of help do you mean?,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64028,64028,64028,64028,90,LWAXANA,A sympathetic ear. A shoulder to cry on. A lap to melt in.,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64029,64029,64029,64029,91,ODO,"That's very considerate of you, but unnecessary. My people are who they are, and I am who I am... And I've learned to accept that.",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64030,64030,64030,64030,92,LWAXANA,You brave soul. Why don't we go someplace quiet so you can tell me all about it?,11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64031,64031,64031,64031,93,ODO,"Actually, I was planning to go to the opening of the Gratitude Festival this afternoon.",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64032,64032,64032,64032,94,LWAXANA,"Even better. First, a little fun and relaxation, and then we can delve into the depths of your pain. I'll freshen up, then I'll meet you outside the Bajoran Temple for the Presider's opening address.",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64033,64033,64033,64033,95,LWAXANA,"I promise you, Odo, it's going to be all right. You're not alone anymore.",11   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64034,64034,64034,64034,96,LWAXANA,"Level Twenty-three, Section Eight.",13   INT. TURBOLIFT,TURBOLIFT,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64035,64035,64035,64035,97,KIRA,We need to see each other more often.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64036,64036,64036,64036,98,BAREIL,I know. I wish we both weren't so busy. I never expected Kai Winn to make me one of her principal advisors.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64037,64037,64037,64037,99,KIRA,I think she just asks your advice so she can do the opposite of whatever you recommend.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64038,64038,64038,64038,100,BAREIL,"I know you don't like Winn, Nerys... but the office has changed her. The Prophets chose well.",14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64039,64039,64039,64039,101,BAREIL,So why not leave spiritual matters in their capable hands and concentrate on enjoying ourselves?,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64040,64040,64040,64040,102,KIRA,I have to go.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64041,64041,64041,64041,103,BAREIL,But the festival won't be starting for another hour.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64042,64042,64042,64042,104,KIRA,I have to set up the Renewal scrolls along the Promenade. It won't take long. Jadzia's promised to help.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64043,64043,64043,64043,105,BAREIL,"Of course... Jadzia. You know, I've never understood how the two of you could be such good friends. She's... so unpredictable and you're so...",14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64044,64044,64044,64044,106,KIRA,Predictable?,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64045,64045,64045,64045,107,BAREIL,I didn't mean it like that. It's just that she gets to spend so much more time with you than I do.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64046,64046,64046,64046,108,KIRA,Jadzia and I have done this for the past two years. It's becoming kind of a tradition.,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64047,64047,64047,64047,109,BAREIL,I was hoping we could start some traditions of our own...,14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64048,64048,64048,64048,110,KIRA,"And we will... (she kisses him, then breaks away) Later tonight.",14   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64049,64049,64049,64049,111,O'BRIEN,She asleep?,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64050,64050,64050,64050,112,KEIKO,It looks like the medicine Doctor Bashir prescribed is working...,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64051,64051,64051,64051,113,O'BRIEN,That's a relief.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64052,64052,64052,64052,114,O'BRIEN,"Rough trip, huh?",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64053,64053,64053,64053,115,KEIKO,It was a disaster.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64054,64054,64054,64054,116,O'BRIEN,I'm glad you're home.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64055,64055,64055,64055,117,KEIKO,"Me, too.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64056,64056,64056,64056,118,O'BRIEN,We should get ready for the festival. The babysitter will be here any minute.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64057,64057,64057,64057,119,KEIKO,The festival.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64058,64058,64058,64058,120,O'BRIEN,"On the other hand, we could spend the day locked away in our quarters.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64059,64059,64059,64059,121,KEIKO,What I really want to do is sleep.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64060,64060,64060,64060,122,O'BRIEN,Then maybe you should.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64061,64061,64061,64061,123,KEIKO,"Miles, I didn't say I was going to sleep; I just meant I could use some.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64062,64062,64062,64062,124,O'BRIEN,"That's okay. I mean... if you need to sleep, go ahead. I'll understand.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64063,64063,64063,64063,125,KEIKO,"No, you won't. You'll be disappointed and you'll start brooding and stomping around like an Andorian Bull.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64064,64064,64064,64064,126,O'BRIEN,"Look, stay or go, it's all the same to me... just tell me what you want to do and we'll do it.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64065,64065,64065,64065,127,KEIKO,"Miles, I've been making decisions all day. You decide.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64066,64066,64066,64066,128,O'BRIEN,"Okay, we'll go to the festival. But we don't have to go right away. You can take some time to relax, and change into something nice.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64067,64067,64067,64067,129,KEIKO,Nice?,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64068,64068,64068,64068,130,O'BRIEN,You know... like your red dress.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64069,64069,64069,64069,131,KEIKO,My red dress? Really?,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64070,64070,64070,64070,132,O'BRIEN,Something wrong with the red dress?,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64071,64071,64071,64071,133,KEIKO,"If it'll make you happy, I'll wear the red dress.",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64072,64072,64072,64072,134,O'BRIEN,Forget the red dress. Wear whatever you want.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64073,64073,64073,64073,135,KEIKO,"Look, let's just try to enjoy the next two days. I'll change into something nice and we'll go to the festival. Okay?",15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64074,64074,64074,64074,136,O'BRIEN,Fine.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64075,64075,64075,64075,137,O'BRIEN,I can hardly wait.,15   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64076,64076,64076,64076,138,KIRA,Tesra Peldor impatri bren. Bentel vetan ullon sten.,16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64077,64077,64077,64077,139,KIRA,"And now, I have the honor of placing the first Renewal Scroll into the fire. As the scrolls burn, may all our troubles turn to ashes with them.",16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64078,64078,64078,64078,140,KIRA,"Now, for the next twenty-six hours, I expect you all to enjoy yourselves. I know I will.",16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.4939
+64079,64079,64079,64079,141,KIRA,May the Prophets walk with us.,16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64080,64080,64080,64080,142,SISKO,"Jake, you okay?",16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.2263
+64081,64081,64081,64081,143,JAKE,Just felt a little funny there for a second.,16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64082,64082,64082,64082,144,SISKO,You sure you're all right?,16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64083,64083,64083,64083,145,JAKE,"Yeah, Dad. Never felt better.",16   INT. PROMENADE - OUTSIDE THE BAJORAN SHRINE,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64084,64084,64084,64084,146,KIRA,Bareil?,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64085,64085,64085,64085,147,KIRA,What are you looking for?,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64086,64086,64086,64086,148,BAREIL,Nothing. Just looking.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64087,64087,64087,64087,149,JAKE,Peldor Joi.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64088,64088,64088,64088,150,KIRA,"Jake, how thoughtful. Thank you.",20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64089,64089,64089,64089,151,JAKE,"Uh... I know you're busy, but can I... talk to you for a second?",20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64090,64090,64090,64090,152,KIRA,Sure.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64091,64091,64091,64091,153,JAKE,In private? It's kind of personal.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64092,64092,64092,64092,154,KIRA,I'll be right back.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64093,64093,64093,64093,155,KIRA,"So what can I do for you, Jake?",20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64094,64094,64094,64094,156,JAKE,"I need some advice. You see, there's this older woman... and I think we're perfect for each other. But...",20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64095,64095,64095,64095,157,KIRA,But she doesn't.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64096,64096,64096,64096,158,JAKE,I'm not sure what she thinks.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64097,64097,64097,64097,159,KIRA,"Well, my advice is to tell Mardah how you feel. That way you'll know--",20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64098,64098,64098,64098,160,JAKE,Mardah and I broke up.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64099,64099,64099,64099,161,KIRA,You broke up? Then who... ?,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64100,64100,64100,64100,162,JAKE,You.,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64101,64101,64101,64101,163,KIRA,Me?,20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64102,64102,64102,64102,164,JAKE,"I love you, Nerys. Want to go out with me?",20   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64103,64103,64103,64103,165,DAX,"Morn, I can't believe a handsome, fun-loving guy like you could have so many problems.",22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64104,64104,64104,64104,166,DAX,My advice is to burn this as quickly as possible and don't look back.,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64105,64105,64105,64105,167,BAREIL ,Sage advice.,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64106,64106,64106,64106,168,DAX,"Vedek Bareil, it's good to see you. If you're looking for Nerys, she's not here.",22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64107,64107,64107,64107,169,BAREIL,"Actually, I was looking for you. I owe you an apology.",22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64108,64108,64108,64108,170,DAX,For what?,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64109,64109,64109,64109,171,BAREIL,"I have to confess, I've always been a little jealous of your friendship with Nerys.",22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64110,64110,64110,64110,172,DAX,"That's understandable. When you come to the station, you want her all to yourself.",22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64111,64111,64111,64111,173,BAREIL,"You have such a wise, generous spirit. I only wish I had a friend like you.",22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64112,64112,64112,64112,174,DAX,I think of you as a friend.,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64113,64113,64113,64113,175,BAREIL,Do you mean that?,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64114,64114,64114,64114,176,DAX,Of course.,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64115,64115,64115,64115,177,BAREIL,I'm glad. Because I was hoping that you and I could get to know each other better.,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64116,64116,64116,64116,178,BAREIL,A lot better.,22   INT. ANOTHER PART OF THE PROMENADE,ANOTHER PART OF THE PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64117,64117,64117,64117,179,LWAXANA,"I love Bajoran music. It's so intelligent, so vital... It reminds me of you.",23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64118,64118,64118,64118,180,LWAXANA,Dance with me.,23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64119,64119,64119,64119,181,ODO,I'm sorry. I don't dance.,23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64120,64120,64120,64120,182,LWAXANA,Nonsense. I saw you moving to the music.,23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64121,64121,64121,64121,183,ODO,That wasn't dancing. That was... swaying.,23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64122,64122,64122,64122,184,LWAXANA,"Then sway with me, Odo.",23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64123,64123,64123,64123,185,ODO,"I just remembered, I'm needed in Security.",23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64124,64124,64124,64124,186,LWAXANA,I'll come with you.,23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64125,64125,64125,64125,187,ODO,"Hello, Lieutenant. Having a good time?",23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64126,64126,64126,64126,188,DAX,No.,23   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64127,64127,64127,64127,189,QUARK,"That's right... genuine latinum-plated Renewal Scroll inscription pens. Blessed by Vedek Redab himself... shortly before he passed away. Each pen is engraved with the words ""Deep Space Nine's Third Annual Gratitude Festival,"" today's date, and a lovely portrait of the station by Ermat Zimm. So get them while you can, they're sure to become collector's items.",25   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64128,64128,64128,64128,190,O'BRIEN,So what do you say we go walk around the Promenade for a little while?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64129,64129,64129,64129,191,KEIKO,"I'd rather stay here. I never thought I'd say this, but I kind of miss Quark's... the noise, the excitement... our table.",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64130,64130,64130,64130,192,O'BRIEN,"You know, I haven't sat here since you've been gone.",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64131,64131,64131,64131,193,KEIKO,That's so sweet.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64132,64132,64132,64132,194,O'BRIEN,So how's the survey going?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64133,64133,64133,64133,195,KEIKO,"The terrain's rougher than we expected, and the ecosystem's a lot more diverse than it looked from the orbital scans. All in all, it's been pretty grueling.",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64134,64134,64134,64134,196,O'BRIEN,Really?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64135,64135,64135,64135,197,KEIKO,"Don't get me wrong, I'm having a wonderful time.",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64136,64136,64136,64136,198,O'BRIEN,Oh... that's good.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64137,64137,64137,64137,199,KEIKO,There is one problem I have to talk to you about. The project's taking longer than we hoped.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64138,64138,64138,64138,200,O'BRIEN,What do you mean... longer?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64139,64139,64139,64139,201,KEIKO,"You have to understand, Miles, every valley has an entirely different ecosystem. There's a lot of work to be done.",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64140,64140,64140,64140,202,O'BRIEN,(wants the bottom line) How much longer is it going to take?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64141,64141,64141,64141,203,KEIKO,I'm not sure.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64142,64142,64142,64142,204,O'BRIEN,Take a guess. An extra couple of days... a week or two?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64143,64143,64143,64143,205,KEIKO,More like two or three months.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64144,64144,64144,64144,206,O'BRIEN,You're telling me you're going to be on Bajor for another seven months.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64145,64145,64145,64145,207,KEIKO,It's either that or tell them to find another botanist.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64146,64146,64146,64146,208,O'BRIEN,Maybe that's something worth considering.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64147,64147,64147,64147,209,KEIKO,Are you asking me to resign?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64148,64148,64148,64148,210,O'BRIEN,No... But another seven months?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64149,64149,64149,64149,211,KEIKO,I don't like this any more than you do.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64150,64150,64150,64150,212,O'BRIEN,You just said you're enjoying yourself.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64151,64151,64151,64151,213,KEIKO,"Oh, I'm sorry. I suppose you'd be happier if I was miserable?",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64152,64152,64152,64152,214,O'BRIEN,I didn't say that.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64153,64153,64153,64153,215,KEIKO,Sebarr was right. I never should've mentioned it.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64154,64154,64154,64154,216,O'BRIEN,And who's Sebarr?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64155,64155,64155,64155,217,KEIKO,He's one of the zoologists I'm working with. He warned me not to talk to you about this until after the Gratitude Festival..,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64156,64156,64156,64156,218,O'BRIEN,Who's he to be giving you advice?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64157,64157,64157,64157,219,KEIKO,He's a friend.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64158,64158,64158,64158,220,O'BRIEN,A friend? I thought you were down there working.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64159,64159,64159,64159,221,KEIKO,We are working.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64160,64160,64160,64160,222,O'BRIEN,With time out for intimate little chats about our relationship? What else have you told him about us?,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64161,64161,64161,64161,223,KEIKO,"Miles, you're acting like a child. What do you want me to say?",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64162,64162,64162,64162,224,O'BRIEN,I want you to say you're not going back... that you're going to stay here with me.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64163,64163,64163,64163,225,KEIKO,"Right now, Miles, I don't even want to sit at the same table with you.",26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64164,64164,64164,64164,226,O'BRIEN,Fine. Leave. Go on back to Bajor... and your plants... and Sebarr.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64165,64165,64165,64165,227,O'BRIEN,See if I care.,26   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64166,64166,64166,64166,228,SISKO,"Whoa, slow down.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64167,64167,64167,64167,229,JAKE,"Hi, Dad.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64168,64168,64168,64168,230,SISKO,"I've been looking all over for you. In case you've forgotten, we're hosting a Gratitude Dinner tonight in the wardroom, and I could use your help getting ready.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64169,64169,64169,64169,231,JAKE,"I'm kind of busy right now, Dad. I have to find someone.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64170,64170,64170,64170,232,SISKO,(that's what he was afraid of) Major Kira?,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64171,64171,64171,64171,233,JAKE,How did you know?,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64172,64172,64172,64172,234,SISKO,I just spoke to her.,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64173,64173,64173,64173,235,JAKE,Really? Where is she?,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64174,64174,64174,64174,236,SISKO,Just hold on.,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64175,64175,64175,64175,237,JAKE,"But I need to talk to her. You know, you were right about me meeting someone at the Festival.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64176,64176,64176,64176,238,SISKO,I didn't mean Major Kira.,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64177,64177,64177,64177,239,JAKE,"You like her, don't you?",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64178,64178,64178,64178,240,SISKO,Of course I like her.,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64179,64179,64179,64179,241,JAKE,So do I.,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64180,64180,64180,64180,242,SISKO,"Jake, what you're feeling... it's just a crush.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64181,64181,64181,64181,243,SISKO,"Look, right now... you're confused, hurt, vulnerable. You miss Mardah...",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64182,64182,64182,64182,244,JAKE,"Mardah was a mistake, Dad. She was too young, too immature for me. Major Kira is a woman.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64183,64183,64183,64183,245,SISKO,Major Kira is in love with Vedek Bareil.,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64184,64184,64184,64184,246,JAKE,It won't last. He's always on Bajor. She needs someone who can be with her all the time. Like me.,27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64185,64185,64185,64185,247,SISKO,"Jake, I don't want to see you hurt again.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64186,64186,64186,64186,248,JAKE,"I appreciate that, Dad... but this is between Nerys and me. Don't worry. Everything's going to be fine.",27   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64187,64187,64187,64187,249,ODO,I really can't accept this.,28   INT. PROMENADE - OUTSIDE QUARK'S,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64188,64188,64188,64188,250,LWAXANA,But I want you to have it. It's my gift to you.,28   INT. PROMENADE - OUTSIDE QUARK'S,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64189,64189,64189,64189,251,ODO,That's very thoughtful... but I have nothing to give you in return.,28   INT. PROMENADE - OUTSIDE QUARK'S,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64190,64190,64190,64190,252,LWAXANA,Being with you is the only present I need. Now let's go write our Renewal Scrolls.,28   INT. PROMENADE - OUTSIDE QUARK'S,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64191,64191,64191,64191,253,QUARK,"Peldor Joi, Chief. You look terrible.",29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64192,64192,64192,64192,254,O'BRIEN,"Just a little headache, that's all.",29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64193,64193,64193,64193,255,QUARK,Here... have a free pen.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64194,64194,64194,64194,256,O'BRIEN,What for?,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64195,64195,64195,64195,257,QUARK,To write down your problems on a Renewal Scroll.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64196,64196,64196,64196,258,O'BRIEN,There isn't a scroll long enough to hold all my problems.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64197,64197,64197,64197,259,QUARK,Really? I thought you could sum them up with one word. Keiko.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64198,64198,64198,64198,260,QUARK,"Tell me I'm wrong. If you ask me, it's your own fault. You never should've let her go to Bajor in the first place.",29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64199,64199,64199,64199,261,O'BRIEN,And what was I supposed to do? Force her to stay here with me?,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64200,64200,64200,64200,262,QUARK,"That would've been a good start. You humans never learn. You let your women go out in public, hold jobs, wear clothing, and you wonder why your marriages fall apart.",29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64201,64201,64201,64201,263,O'BRIEN,"That's your solution, Quark? Treat women like property?",29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64202,64202,64202,64202,264,QUARK,"Criticize it all you want. But on the Ferengi homeworld, husbands and wives never argue. There's no divorce, no broken homes... nothing but peaceful conjugal bliss.",29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64203,64203,64203,64203,265,O'BRIEN,"If Ferengi marriages are so wonderful, how come you're still single?",29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64204,64204,64204,64204,266,QUARK,I haven't met the right woman yet.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64205,64205,64205,64205,267,O'BRIEN,Well I have. And she just walked out that door.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64206,64206,64206,64206,268,QUARK,And out of your life.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64207,64207,64207,64207,269,O'BRIEN,Not if I can help it.,29   INT. QUARK'S,QUARK'S,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64208,64208,64208,64208,270,KIRA,Bareil. I was wondering where you disappeared to.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64209,64209,64209,64209,271,KIRA,Come on. You can do better than that.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64210,64210,64210,64210,272,BAREIL,(trying to hide his discomfort) Someone might see us.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64211,64211,64211,64211,273,KIRA,We're the only people here. Everyone else is on the Promenade.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64212,64212,64212,64212,274,KIRA,We have two hours until we're supposed to join Commander Sisko for dinner. That gives us some time to be alone together.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64213,64213,64213,64213,275,BAREIL,I can't.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64214,64214,64214,64214,276,KIRA,Why?,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64215,64215,64215,64215,277,BAREIL,I have to find Jadzia.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64216,64216,64216,64216,278,KIRA,Jadzia? Is something wrong?,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64217,64217,64217,64217,279,BAREIL,Not at all. Have you seen her?,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64218,64218,64218,64218,280,KIRA,She's probably on the Promenade.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64219,64219,64219,64219,281,BAREIL,She wasn't there the last time I looked.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64220,64220,64220,64220,282,KIRA,Why is it so important for you to talk to Jadzia?,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64221,64221,64221,64221,283,BAREIL,I'll explain everything later.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64222,64222,64222,64222,284,BAREIL,"Thank you, Nerys.",30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64223,64223,64223,64223,285,KIRA,For what?,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64224,64224,64224,64224,286,BAREIL,For being such a good friend.,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64225,64225,64225,64225,287,KIRA,Friend?,30   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64226,64226,64226,64226,288,SISKO,"Dax, what are you doing here?",31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64227,64227,64227,64227,289,DAX,I thought you might need some help getting ready for the party.,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64228,64228,64228,64228,290,SISKO,"Thanks, but that's really not necessary. Wouldn't you rather be celebrating on the Promenade?",31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64229,64229,64229,64229,291,DAX,No thank you. I don't want to run into Vedek Bareil.,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64230,64230,64230,64230,292,SISKO,Is there a problem between you two?,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64231,64231,64231,64231,293,DAX,He can't keep his hands off me.,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64232,64232,64232,64232,294,SISKO,That doesn't sound like Vedek Bareil.,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64233,64233,64233,64233,295,DAX,"I couldn't believe it either, but the man wouldn't leave me alone. He's probably still out there looking for me.",31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64234,64234,64234,64234,296,SISKO,Have you told Kira?,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64235,64235,64235,64235,297,DAX,I don't know how. It's going to break her heart.,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64236,64236,64236,64236,298,SISKO,Someone has to tell her. You want me to do it?,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64237,64237,64237,64237,299,DAX,Would you?,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64238,64238,64238,64238,300,SISKO,If you think that's the best way to handle it.,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64239,64239,64239,64239,301,DAX,"I really appreciate this, Benjamin. I mean, the whole thing's ridiculous. How could I be interested in Bareil?",31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64240,64240,64240,64240,302,DAX,We both know it's always been you.,31   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64241,64241,64241,64241,303,SISKO,Dax?,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64242,64242,64242,64242,304,DAX,Mmm?,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64243,64243,64243,64243,305,SISKO,What are you doing?,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64244,64244,64244,64244,306,DAX,Making myself comfortable.,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64245,64245,64245,64245,307,DAX,Have I ever told you that you smell wonderful?,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64246,64246,64246,64246,308,SISKO,"I have to admit, old man, you had me going there for a minute.",32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64247,64247,64247,64247,309,DAX,"Benjamin, you can stop acting so coy. No one's around.",32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64248,64248,64248,64248,310,DAX,I've got an idea. Why don't you cancel the party? That way we can spend the evening alone together.,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64249,64249,64249,64249,311,DAX,What do you say?,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64250,64250,64250,64250,312,SISKO,Sisko to Bashir.,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64251,64251,64251,64251,313,BASHIR,"Go ahead, Commander.",32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64252,64252,64252,64252,314,SISKO,Meet me in the Infirmary immediately.,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64253,64253,64253,64253,315,BASHIR,I'll be right there.,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64254,64254,64254,64254,316,DAX,"Can I come, too?",32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64255,64255,64255,64255,317,SISKO,Absolutely.,32   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64256,64256,64256,64256,318,BASHIR,Her vital signs are normal... Brain activity's normal... no sign of infection or intoxication of any kind... She's the picture of health.,33   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64257,64257,64257,64257,319,DAX,I told you.,33   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64258,64258,64258,64258,320,SISKO,Then why did you put your head in my lap?,33   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64259,64259,64259,64259,321,DAX,"Julian, you should've seen his face.",33   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64260,64260,64260,64260,322,DAX,"Admit it, you were this far from total panic.",33   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64261,64261,64261,64261,323,BASHIR,I think we've both been victims of a practical joke.,33   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64262,64262,64262,64262,324,DAX,"At least someone around here has a sense of humor. Remember the time Curzon convinced you that the Romulan ambassador's wife was in love with you? This was even better. See you at the party, Julian.",33   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64263,64263,64263,64263,325,DAX,I've never been so embarrassed in my life... making me sit through all those tests...,34   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64264,64264,64264,64264,326,SISKO,"It's your own fault, Dax. You took this one too far.",34   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64265,64265,64265,64265,327,DAX,"You know, if I didn't love you so much, I'd be very angry with you right now.",34   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64266,64266,64266,64266,328,DAX,I'll see you at the party.,34   INT. PROMENADE,PROMENADE,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64267,64267,64267,64267,329,JAKE,You look like you could use some cheering up.,37   INT. REPLIMAT,REPLIMAT,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64268,64268,64268,64268,330,KIRA,"Do me a favor, Jake.",37   INT. REPLIMAT,REPLIMAT,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64269,64269,64269,64269,331,JAKE,Anything.,37   INT. REPLIMAT,REPLIMAT,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64270,64270,64270,64270,332,KIRA,Leave me alone.,37   INT. REPLIMAT,REPLIMAT,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64271,64271,64271,64271,333,JAKE,Isn't she beautiful?,37   INT. REPLIMAT,REPLIMAT,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64272,64272,64272,64272,334,O'BRIEN,"Hi, sweetie. Feeling better?",38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64273,64273,64273,64273,335,MOLLY,Lots better.,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64274,64274,64274,64274,336,O'BRIEN,"Ah, that's what I wanted to hear.",38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64275,64275,64275,64275,337,O'BRIEN,Where's Mommy?,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64276,64276,64276,64276,338,MOLLY,In her room. She's sad.,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64277,64277,64277,64277,339,O'BRIEN,Well why don't you play with Piggy in your room for a while and we'll see if Daddy can cheer Mommy up?,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64278,64278,64278,64278,340,MOLLY,Okay.,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64279,64279,64279,64279,341,O'BRIEN,Keiko? It's me. Can I come in?,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64280,64280,64280,64280,342,KEIKO ,"Not now, Miles.",38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64281,64281,64281,64281,343,O'BRIEN,"Look, you're right. I'm an idiot, sometimes. When I don't get my way, I can be selfish and childish and pigheaded. I know I've said some pretty stupid things today. I wish I could take them back. But even if it's too late for that, there's one thing you should know... I love you, Keiko. I always have, and I always will. Anyway, I just want you to know I've left a letter of resignation on Commander Sisko's desk. I'm ready to move down to Bajor tomorrow, if you'll have me. And after that if you want us to move back to Earth that's okay too. I'll do whatever it takes... I just don't want to lose you. Honey, did you hear what I said?",38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64282,64282,64282,64282,344,KEIKO ,Yes.,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64283,64283,64283,64283,345,O'BRIEN,And... ?,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64284,64284,64284,64284,346,KEIKO ,And I need time to think. Why don't you go to Commander Sisko's party? We can talk when you get back.,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64285,64285,64285,64285,347,O'BRIEN,If that's what you want.,38   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64286,64286,64286,64286,348,ODO,Major. Aren't you headed in the wrong direction?,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64287,64287,64287,64287,349,BASHIR,Commander Sisko's party?,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64288,64288,64288,64288,350,KIRA,I'm not going.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64289,64289,64289,64289,351,LWAXANA,Why ever not?,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64290,64290,64290,64290,352,KIRA,Because Bareil will be there.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64291,64291,64291,64291,353,ODO,I thought the two of you were very happy together.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64292,64292,64292,64292,354,KIRA,"So did I. But it turns out he'd rather be with Dax than me. And to make things worse, Jake Sisko's chasing me all over the station, professing his undying love.",41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64293,64293,64293,64293,355,BASHIR,"That's strange. A little while ago, Jadzia had Commander Sisko convinced that she was in love with him. He even had me examine her to make sure she was all right. Apparently it was only a joke.",41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64294,64294,64294,64294,356,KIRA,Are you sure? A lot of people are acting strange today.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64295,64295,64295,64295,357,BASHIR,"Maybe I'd better take another look at Jadzia's test results. Constable, could you tell Commander Sisko I'll be a little late?",41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64296,64296,64296,64296,358,BASHIR,I should get to the Infirmary.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64297,64297,64297,64297,359,KIRA,I'll join you.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64298,64298,64298,64298,360,KIRA,Maybe you should examine Bareil and Jake while you're at it.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64299,64299,64299,64299,361,BASHIR,That's not a bad idea.,41   INT. CORRIDOR,CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64300,64300,64300,64300,362,BASHIR,This won't take long.,43   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64301,64301,64301,64301,363,LWAXANA,"What is it, Odo? I may not be able to read your emotions, but I can read your expression. Something's wrong.",44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64302,64302,64302,64302,364,ODO,I'm fine.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64303,64303,64303,64303,365,LWAXANA,I wish you'd tell me what's bothering you. It might make you feel better.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64304,64304,64304,64304,366,ODO,"As soon as something bothers me, I'll let you know. (gives her a small smile) I promise.",44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64305,64305,64305,64305,367,LWAXANA,Why is it I find stubborn men so attractive?,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64306,64306,64306,64306,368,DAX,Would you please stop following me?,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64307,64307,64307,64307,369,BAREIL,Gladly... if you'll stop running away. I have something important to discuss with you.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64308,64308,64308,64308,370,DAX,Discuss it with Kira. I'm not interested.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64309,64309,64309,64309,371,BAREIL,But I don't want to talk to Kira.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64310,64310,64310,64310,372,JAKE,"But Dad, you promised that Nerys would be here.",44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64311,64311,64311,64311,373,SISKO,She will be. And stop calling her Nerys.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64312,64312,64312,64312,374,DAX,Peldor Joi.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64313,64313,64313,64313,375,LWAXANA,"Commander, I didn't know you and Lieutenant Dax were so close.",44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64314,64314,64314,64314,376,SISKO,We're not. Sisko to Bashir.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64315,64315,64315,64315,377,SISKO,"Computer, locate Doctor Bashir.",44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64316,64316,64316,64316,378,COMPUTER,Doctor Bashir is in the Infirmary.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64317,64317,64317,64317,379,SISKO,"Constable, I want you to get him and bring him here immediately.",44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64318,64318,64318,64318,380,ODO,I'll be right back.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64319,64319,64319,64319,381,LWAXANA,I'll come with you.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64320,64320,64320,64320,382,ODO,(that's what he expected) Of course you will.,44   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64321,64321,64321,64321,383,BASHIR,I wonder what Commander Sisko wanted?,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64322,64322,64322,64322,384,KIRA,It can wait.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64323,64323,64323,64323,385,BASHIR,This is very embarrassing.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64324,64324,64324,64324,386,KIRA,I agree. We have to stop.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64325,64325,64325,64325,387,BASHIR,Definitely.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64326,64326,64326,64326,388,ODO,Doctor...,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64327,64327,64327,64327,389,ODO,Commander Sisko needs to see you in the Wardroom.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64328,64328,64328,64328,390,BASHIR,Tell him... I'll be along shortly.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64329,64329,64329,64329,391,ODO,"Now, Doctor.",48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64330,64330,64330,64330,392,KIRA,You'd better go.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64331,64331,64331,64331,393,BASHIR,Right.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64332,64332,64332,64332,394,KIRA,Peldor Joi.,48   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64333,64333,64333,64333,395,BAREIL,"Please step aside, Commander. I need to talk to Jadzia in private.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64334,64334,64334,64334,396,SISKO,I'm afraid she doesn't want to talk to you.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64335,64335,64335,64335,397,DAX,"You tell him, Benjamin.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64336,64336,64336,64336,398,BAREIL,But I only want to give her this.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64337,64337,64337,64337,399,SISKO,A Bajoran betrothal bracelet?,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64338,64338,64338,64338,400,DAX,Can I see that?,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64339,64339,64339,64339,401,JAKE,"Nerys, am I glad to see you.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64340,64340,64340,64340,402,SISKO,"Doctor, I need your help.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64341,64341,64341,64341,403,BASHIR,I need yours too.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64342,64342,64342,64342,404,BASHIR,You've got to get me away from Kira. I can't keep my hands off her.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64343,64343,64343,64343,405,KIRA,"And what's worse, I can't keep my hands off him.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64344,64344,64344,64344,406,ODO,I can't explain it either.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64345,64345,64345,64345,407,JAKE,She doesn't love me.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64346,64346,64346,64346,408,O'BRIEN,Who?,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64347,64347,64347,64347,409,JAKE,Nerys.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64348,64348,64348,64348,410,O'BRIEN,"You're better off. In the end, they only break your heart.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64349,64349,64349,64349,411,O'BRIEN,Although sometimes it's worth it.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64350,64350,64350,64350,412,KEIKO,What do you think?,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64351,64351,64351,64351,413,O'BRIEN,You look beautiful.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64352,64352,64352,64352,414,KEIKO,"Miles, did you really hand in your resignation?",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64353,64353,64353,64353,415,KEIKO,You'd better get it back before Commander Sisko sees it. But it was nice of you to offer.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64354,64354,64354,64354,416,KEIKO,I love you so much.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64355,64355,64355,64355,417,QUARK,"Commander, here's that Idanian spice pudding you ordered...",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64356,64356,64356,64356,418,DAX,I want you to have this... (she gives him the betrothal bracelet) As a token of my affection.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64357,64357,64357,64357,419,BAREIL,"Oh, no you don't.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64358,64358,64358,64358,420,SISKO,"Bareil, listen to me...",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64359,64359,64359,64359,421,BAREIL,If I have to fight for her I will.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64360,64360,64360,64360,422,DAX,"I'm sorry, Benjamin, but he was really starting to annoy me.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64361,64361,64361,64361,423,QUARK,Commander... You throw one hell of a party.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64362,64362,64362,64362,424,QUARK,"Pudding, anyone?",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64363,64363,64363,64363,425,LWAXANA,No thank you.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64364,64364,64364,64364,426,DAX,I'll take one.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64365,64365,64365,64365,427,QUARK,Help yourself.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64366,64366,64366,64366,428,KEIKO,Are you okay?,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64367,64367,64367,64367,429,QUARK,Forget about him. What about me? I need you Keiko. My lobes tingle at the sight of you... Marry me.,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64368,64368,64368,64368,430,O'BRIEN,"She's taken, Quark...",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64369,64369,64369,64369,431,SISKO,"Easy, Chief. He doesn't know what he's doing.",50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64370,64370,64370,64370,432,LWAXANA,What are you looking at me for?,50   INT. WARDROOM,WARDROOM,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64371,64371,64371,64371,433,LWAXANA,Zanthi Fever? But that's impossible. It only effects... older Betazoids.,53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64372,64372,64372,64372,434,BASHIR,"That may be, but according to my tests, you're showing all the symptoms. Zanthi Fever is a virus that effects the empathic abilities of... mature Betazoids. It causes them to project their own emotions onto others.",53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64373,64373,64373,64373,435,SISKO,So then Mrs. Troi's amorous feelings for... ... someone on the station were being passed along to the people around her.,53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64374,64374,64374,64374,436,BASHIR,Not everyone. Only people who were in close proximity to her when she had an attack. And even then there would have to have been a pre-existing latent attraction.,53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64375,64375,64375,64375,437,SISKO,You're saying Dax... ?,53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64376,64376,64376,64376,438,BASHIR,"Only on a subconscious level. Best not to think about it too much, if you ask me.",53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64377,64377,64377,64377,439,LWAXANA,"Commander, I'm so sorry. I hope I haven't caused you too much trouble.",53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64378,64378,64378,64378,440,SISKO,"I doubt there was any permanent harm done. Right, Doctor?",53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64379,64379,64379,64379,441,BASHIR,"A simple wide spectrum antiviral agent should cure Mrs. Troi, and as for everyone else... they should return to normal in a day or two.",53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64380,64380,64380,64380,442,BASHIR,"Now if you'll excuse me, I promised I'd meet Nerys in her quarters.",53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64381,64381,64381,64381,443,SISKO,I think you ought to postpone that visit. For a day or two.,53   INT. SURGERY,SURGERY,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64382,64382,64382,64382,444,SISKO ,"Commander's log, supplemental. I'm happy to report that Doctor Bashir's diagnosis has been proven correct. My son and all the other's affected by Mrs. Troi's condition have made full recoveries.",54   EXT. SPACE - DEEP SPACE NINE -  STOCK (OPTICAL),SPACE - DEEP SPACE NINE -  STOCK,EXT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64383,64383,64383,64383,445,LWAXANA,"Well, this is one Gratitude Festival they'll be talking about for a long time.",55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64384,64384,64384,64384,446,ODO,I know I'll never forget it.,55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64385,64385,64385,64385,447,LWAXANA,"I hope everything works out for you, Odo. With Major Kira.",55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64386,64386,64386,64386,448,ODO,I don't know what you mean.,55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64387,64387,64387,64387,449,LWAXANA,"Don't worry. Your secret is safe with me. After all, I know what it's like to be attracted to someone who doesn't necessarily feel the same way.",55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64388,64388,64388,64388,450,LWAXANA,But if you ever get tired of waiting for her...,55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64389,64389,64389,64389,451,LWAXANA,You know where to find me.,55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64390,64390,64390,64390,452,ODO,I'll keep that in mind.,55   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64391,64391,64391,64391,453,KEIKO,"So, you're sure Doctor Bashir said your test results were negative?",56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64392,64392,64392,64392,454,O'BRIEN,That's right. My headache was just a headache. I never was affected by Mrs. Troi.,56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64393,64393,64393,64393,455,KEIKO,I guess that means you don't have a latent attraction to me after all.,56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64394,64394,64394,64394,456,O'BRIEN,There's nothing latent about it. Or weren't you paying attention last night?,56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64395,64395,64395,64395,457,KEIKO,"I was paying attention all right. You've still got the touch, O'Brien.",56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64396,64396,64396,64396,458,O'BRIEN,"So do you... , O'Brien.",56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64397,64397,64397,64397,459,O'BRIEN,"Take good care of Mommy, honey.",56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64398,64398,64398,64398,460,MOLLY,I will.,56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64399,64399,64399,64399,461,KEIKO,See you in a few months.,56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64400,64400,64400,64400,462,O'BRIEN,I can hardly wait.,56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64401,64401,64401,64401,463,BASHIR ,Chief?,56   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Fascination,1994-10-10,Deep Space Nine,456.txt,0.0
+64402,64402,64402,64402,0,GARAK,"What a waste of a morning. That Galipotan freighter was scheduled to be here at oh-seven hundred and it still hasn't arrived yet. Well, I suppose that's the price of doing business with a culture that refuses to even acknowledge the concept of time... And I have to admit, they make magnificent sweaters.",1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64403,64403,64403,64403,1,GARAK,"I hope I'm not boring you, Doctor.",1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64404,64404,64404,64404,2,BASHIR,"Not at all, I was just up late last night.",1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64405,64405,64405,64405,3,GARAK,Entertaining one of your lady friends?,1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64406,64406,64406,64406,4,BASHIR,"Unfortunately, no. Actually, I was reading the last few chapters of The Never-Ending Sacrifice.",1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64407,64407,64407,64407,5,GARAK,Isn't it superb... without a doubt the finest Cardassian novel ever written.,1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64408,64408,64408,64408,6,BASHIR,I'll take your word for it.,1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64409,64409,64409,64409,7,GARAK,You didn't enjoy it?,1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64410,64410,64410,64410,8,BASHIR,I thought it was... interesting. Though maybe a little dull. In spots.,1    INT. PROMENADE,PROMENADE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64411,64411,64411,64411,9,GARAK,"Wonderful. At this rate, we should be done eating lunch just in time for dinner.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64412,64412,64412,64412,10,BASHIR,There's always Quark's.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64413,64413,64413,64413,11,GARAK,"True, but I'm really not in the mood for noisy, crowded and vulgar today.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64414,64414,64414,64414,12,BASHIR,Then I suppose the Klingon restaurant is out of the question?,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64415,64415,64415,64415,13,GARAK,I can't believe I'm eating lunch with a man who thinks The Never- Ending Sacrifice is dull.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64416,64416,64416,64416,14,BASHIR,I just thought it got a little redundant after a while.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64417,64417,64417,64417,15,BASHIR ,I mean... the author is supposed to be chronicling seven generations of a single family... but he tells the same story over and over again... All the characters live lives of selfless duty to the state... get old... and die. And then the next generation comes along and does it all over again.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64418,64418,64418,64418,16,GARAK,"That's the whole point, Doctor. The repetitive epic is the most elegant form of Cardassian literature, and The Never-Ending Sacrifice is it's greatest achievement.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64419,64419,64419,64419,17,BASHIR,"But the characters never really come alive. I mean, there's more to life than serving the state.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64420,64420,64420,64420,18,GARAK,A Federation viewpoint if ever I heard one.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64421,64421,64421,64421,19,GARAK,This is ridiculous. Can't you just move to the front of the line? Tell them it's a medical emergency or something.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64422,64422,64422,64422,20,BASHIR,"We're almost there. (picking up where Garak left off) Look, maybe if you lent me another book... by a different writer...",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64423,64423,64423,64423,21,GARAK,"It would only be a waste of time. When it comes to art, you're obviously a prisoner of Federation dogma and human prejudice.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64424,64424,64424,64424,22,BASHIR,Sorry you feel that way... but I am trying my best to...,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64425,64425,64425,64425,23,BASHIR,Are you all right?,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64426,64426,64426,64426,24,GARAK,I'm fine.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64427,64427,64427,64427,25,BASHIR,You don't look fine. Your skin is clammy and your pupils are contracted.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64428,64428,64428,64428,26,GARAK,"I assure you, I'm in perfect health. Now, you were asking about other Cardassian novels... Something maybe a little more accessible...",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64429,64429,64429,64429,27,BASHIR,"""Perfect health"" you say? Then Cardassian standards must be a little lower than mine. Come on.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64430,64430,64430,64430,28,GARAK,"Doctor, what do you think you're doing?",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64431,64431,64431,64431,29,BASHIR,Taking you to the Infirmary.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64432,64432,64432,64432,30,GARAK,That won't be necessary.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64433,64433,64433,64433,31,BASHIR,"Maybe not, but humor me.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64434,64434,64434,64434,32,GARAK,"Frankly Doctor, I'm getting a little tired of humoring you. There's nothing wrong with me that a little peace and privacy wouldn't cure. Now if you'll excuse me. I seem to have lost my appetite.",2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64435,64435,64435,64435,33,KIRA,What was that all about?,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64436,64436,64436,64436,34,BASHIR,I have no idea.,2    INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64437,64437,64437,64437,35,DAX,Can you tell what's wrong with it?,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64438,64438,64438,64438,36,BASHIR,"In my expert medical opinion, I'd say... It's sick.",4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64439,64439,64439,64439,37,DAX,I know that... but why is it sick?,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64440,64440,64440,64440,38,BASHIR,"I'm a doctor, not a botanist. Why don't you ask Professor O'Brien?",4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64441,64441,64441,64441,39,DAX,Keiko's at a hydroponics conference on Rigel Four. She won't be back for a week.,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64442,64442,64442,64442,40,BASHIR,And none of your past hosts had any experience with plants?,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64443,64443,64443,64443,41,DAX,"Daxes have never been much on gardening. Tobin was the only one who ever tried his hand at it, but he had even less luck with plants than he did with women...",4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64444,64444,64444,64444,42,BASHIR,Do you even know where it's from?,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64445,64445,64445,64445,43,DAX,I picked it up on Ledonia Three.,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64446,64446,64446,64446,44,BASHIR,Hmmm. (indicates her desk computer) May I?,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64447,64447,64447,64447,45,DAX,Be my guest.,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64448,64448,64448,64448,46,BASHIR,"That explains it. Ledonian soil contains a benevolent mycorrhizal fungus that helps the native plants retain water. But the fungus in this potting soil's almost completely died out. If we can salvage what's left and cultivate a new batch in the lab, that should do the trick.",4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64449,64449,64449,64449,47,DAX,Keiko would be proud of you.,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64450,64450,64450,64450,48,BASHIR,It's all right here on the screen. I only wish my humanoid patients were as easy to treat.,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64451,64451,64451,64451,49,DAX,Chief O'Brien dislocate his shoulder again?,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64452,64452,64452,64452,50,BASHIR,"It's Garak. At lunch today, he seemed like he was about to have some kind of seizure. He was having trouble breathing and he appeared to be in a great deal of pain. But when I tried to get him to go to the Infirmary, he outright refused.",4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64453,64453,64453,64453,51,DAX,Maybe he just doesn't like going to the doctor.,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64454,64454,64454,64454,52,BASHIR,"It's not that... it's that damn Cardassian evasiveness of his. I mean making me guess about his past is one thing, but when it comes to his health... why can't he just tell me what's going on?",4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64455,64455,64455,64455,53,DAX,It sounds like you're taking this personally.,4    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64456,64456,64456,64456,54,BASHIR,"I suppose I am. After all, Garak and I've been having lunch together once a week for more than a year now. You'd think he'd trust me a little.",4A   INT. HABITAT RING CORRIDOR (CONTINUOUS),HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64457,64457,64457,64457,55,DAX,Why should he? It's not like you two are really friends.,4A   INT. HABITAT RING CORRIDOR (CONTINUOUS),HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64458,64458,64458,64458,56,BASHIR,"No... of course not. I suppose when it comes right down to it, I don't trust him either. I mean, for all I know, the man is a Cardassian spy.",4A   INT. HABITAT RING CORRIDOR (CONTINUOUS),HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64459,64459,64459,64459,57,DAX,Exactly.,4A   INT. HABITAT RING CORRIDOR (CONTINUOUS),HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64460,64460,64460,64460,58,BASHIR,"Fine. If he doesn't want my help, that's his prerogative.",4A   INT. HABITAT RING CORRIDOR (CONTINUOUS),HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64461,64461,64461,64461,59,GARAK,So then I take it we understand each other?,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64462,64462,64462,64462,60,QUARK,"Garak, how long have you been living on this station?",6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64463,64463,64463,64463,61,GARAK,Too long.,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64464,64464,64464,64464,62,QUARK,"And in all that time, have I ever let you down?",6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64465,64465,64465,64465,63,GARAK,I've never done business with you... until now.,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64466,64466,64466,64466,64,QUARK,"Which is why this deal is so important to me. I want our business relationship to get off on the right foot. Now relax, you'll get your merchandise.",6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64467,64467,64467,64467,65,GARAK,"Soon, Quark... I can't wait much longer.",6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64468,64468,64468,64468,66,BASHIR ,You and Garak going into business?,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64469,64469,64469,64469,67,BASHIR,I couldn't help but overhear your conversation.,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64470,64470,64470,64470,68,QUARK,"Oh, that. I'm helping Garak get a new sizing scanner for his shop.",6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64471,64471,64471,64471,69,BASHIR,A sizing scanner?,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64472,64472,64472,64472,70,QUARK,"Not just any sizing scanner. The best. Straight from Merak Two. Calibrated to be accurate down to the micrometer. And, I might add, at a very reasonable price.",6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64473,64473,64473,64473,71,BASHIR,Really? I thought Garak sounded a bit... upset.,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64474,64474,64474,64474,72,QUARK,"Upset? Garak? I hadn't noticed. Now, is there anything I can do for you? A little Saurian brandy to go? Or maybe a late night session in a holosuite?",6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64475,64475,64475,64475,73,BASHIR,No. Thank you. I think I'll call it a night.,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64476,64476,64476,64476,74,QUARK,Suit yourself.,6    INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64477,64477,64477,64477,75,BASHIR,There. How's that feel?,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64478,64478,64478,64478,76,SISKO,Much better.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64479,64479,64479,64479,77,BASHIR,Try not to yell at any more admirals for a while.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64480,64480,64480,64480,78,SISKO,I wasn't yelling. I was expressing my feelings... Loudly.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64481,64481,64481,64481,79,SISKO,Chief.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64482,64482,64482,64482,80,O'BRIEN,You wanted to see me?,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64483,64483,64483,64483,81,BASHIR,Yes. I was hoping you could give me a hand.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64484,64484,64484,64484,82,BASHIR,"I've been trying to access the old Cardassian medical files... but so far, I haven't had much luck.",9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64485,64485,64485,64485,83,O'BRIEN,(while running a diagnostic) I'm not surprised. The Cardassians did a general systems purge before they pulled out. The Medical Files would've been deleted along with everything else.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64486,64486,64486,64486,84,BASHIR,Is there any way you can recover them?,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64487,64487,64487,64487,85,O'BRIEN,Maybe. These subroutines don't look anywhere near as bad as the engineering systems did. I might be able to reconstruct the data by microscanning the purge trace.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64488,64488,64488,64488,86,BASHIR,How long would that take?,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64489,64489,64489,64489,87,O'BRIEN,"Two, maybe three weeks.",9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64490,64490,64490,64490,88,BASHIR,"Well... that settles that. Thanks anyway, Chief.",9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64491,64491,64491,64491,89,O'BRIEN,Sorry I couldn't be more help.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64492,64492,64492,64492,90,QUARK,Quark to Bashir...,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64493,64493,64493,64493,91,BASHIR,This is Bashir.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64494,64494,64494,64494,92,QUARK,Doctor... I need you in my bar right away.,9    INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64495,64495,64495,64495,93,QUARK,"Come on, Garak... Don't you think you've had enough?",10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64496,64496,64496,64496,94,GARAK,On the contrary. Anyone who talks about the numbing effects of liquor is severely overstating the case.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64497,64497,64497,64497,95,BASHIR,What's all this?,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64498,64498,64498,64498,96,QUARK,He came in complaining about a headache. The next thing I knew he drank up half my stock of Kanar.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64499,64499,64499,64499,97,GARAK,"Doctor... What a pleasant surprise... I'm sorry about my little outburst at lunch, but I'll make it up to you. Please, join me.",10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64500,64500,64500,64500,98,BASHIR,I think I will.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64501,64501,64501,64501,99,BASHIR,May I?,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64502,64502,64502,64502,100,GARAK,By all means.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64503,64503,64503,64503,101,GARAK,What are you doing?,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64504,64504,64504,64504,102,BASHIR,It's too noisy in here. I prefer to drink somewhere quiet.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64505,64505,64505,64505,103,GARAK,An excellent idea. We'll go to my quarters.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64506,64506,64506,64506,104,BASHIR,Whatever you want. But first I have to stop at the Infirmary.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64507,64507,64507,64507,105,GARAK,The Infirmary. My dear Doctor... what kind of fool do you take me for. Give me back my bottle.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64508,64508,64508,64508,106,BASHIR,I will. In the Infirmary.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64509,64509,64509,64509,107,GARAK,I'm not going to the Infirmary and I refuse to play this ridiculous game. Now give me...,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64510,64510,64510,64510,108,GARAK,Make it stop... make it stop.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64511,64511,64511,64511,109,BASHIR,Bashir to Ops... Medical emergency... Two to beam to the Infirmary. Energize.,10   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64512,64512,64512,64512,110,ODO ,Some kind of implant?,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64513,64513,64513,64513,111,BASHIR,Apparently.,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64514,64514,64514,64514,112,ODO,What's it for?,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64515,64515,64515,64515,113,BASHIR,"I was hoping you could tell me. After working for the Cardassians for five years, I'd guess you know them as well as anyone.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64516,64516,64516,64516,114,ODO,"Maybe so, but I never bothered to look inside their skulls.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64517,64517,64517,64517,115,BASHIR,"(knew it was a long shot) No, I don't suppose you did.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64518,64518,64518,64518,116,ODO,Do you think this is the cause of Garak's condition?,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64519,64519,64519,64519,117,BASHIR,"It's possible. Whatever this thing is, it's situated in his postcentral gyrus and has filaments that connect it to his entire central nervous system.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64520,64520,64520,64520,118,ODO,Maybe it's some kind of punishment device. A parting gift from the Cardassian government.,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64521,64521,64521,64521,119,BASHIR,"I thought of that. But based on the amount of scarring in the surrounding tissue, this implant's been in there for years, and as far as I can tell, Garak's only been in pain for the past few days.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64522,64522,64522,64522,120,ODO,"Interesting. I wish I had an answer for you, Doctor.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64523,64523,64523,64523,121,BASHIR,"Well, you might be able to help me get one. I think Quark may know what this thing is.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64524,64524,64524,64524,122,ODO,What makes you say that?,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64525,64525,64525,64525,123,BASHIR,"I overheard them talking the other night. Garak was negotiating to buy some merchandise from Quark. He sounded pretty desperate. I tried to ask Quark about it, but...",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64526,64526,64526,64526,124,ODO,"No need to explain, Doctor. The direct approach seldom works with people like him. This could answer some of my own questions. Quark's sent several coded messages to Cardassia Prime in the past few days. I routinely monitor all of Quark's subspace communications.",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64527,64527,64527,64527,125,BASHIR,Is that... legal?,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64528,64528,64528,64528,126,ODO,"It's in the best interests of station security. (cutting to the heart of the matter) Doctor, do you want to know what Quark knows or not?",14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64529,64529,64529,64529,127,BASHIR,I see your point.,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64530,64530,64530,64530,128,ODO,Then meet me in Security at oh-two hundred hours. Quark always makes his clandestine call after the bar closes.,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64531,64531,64531,64531,129,BASHIR,I wouldn't miss it.,14   INT. SURGERY - CLOSE ON A MONITOR (VPB),SURGERY - CLOSE ON A MONITOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64532,64532,64532,64532,130,BOHEEKA,"Quark, you parasite. It's been too long.",16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64533,64533,64533,64533,131,BOHEEKA,Is Hartla still working for you?,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64534,64534,64534,64534,132,QUARK,The dabo tables wouldn't be the same without her.,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64535,64535,64535,64535,133,BOHEEKA,What I wouldn't give to see her again.,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64536,64536,64536,64536,134,QUARK,"I'm sure she misses you, too.",16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64537,64537,64537,64537,135,BOHEEKA,"I'll bet she does. She would've bankrupted me if the occupation had lasted much longer. But I'm sure you didn't contact me just to reminisce. What can I do for you, Quark?",16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64538,64538,64538,64538,136,QUARK,How'd you like to earn a little extra latinum? Maybe enough to buy yourself a promotion?,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64539,64539,64539,64539,137,BOHEEKA,You have my undivided attention.,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64540,64540,64540,64540,138,QUARK,I need a piece of Cardassian bio- technology and the schematics relating to its installation.,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64541,64541,64541,64541,139,BOHEEKA,"Bio-technology, huh? That shouldn't be too hard. What is it?",16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64542,64542,64542,64542,140,QUARK,"You know I never ask those kinds of questions, but I've got the requisition code number.",16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64543,64543,64543,64543,141,BOHEEKA,Give it to me... I'll look it up.,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64544,64544,64544,64544,142,QUARK,I knew I could count on you. Here it is.,16   INT. QUARK'S,QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64545,64545,64545,64545,143,BASHIR,I hope you don't have one of those little bugs hidden in my quarters.,19   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64546,64546,64546,64546,144,ODO,Should I?,19   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64547,64547,64547,64547,145,QUARK,Transfer complete.,19   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64548,64548,64548,64548,146,BOHEEKA,Hold on... this won't take long.,19   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64549,64549,64549,64549,147,QUARK,(everything's going perfectly) Take your time.,19   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64550,64550,64550,64550,148,BOHEEKA,"Quark, you idiot!",20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64551,64551,64551,64551,149,QUARK,Is something wrong?,20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64552,64552,64552,64552,150,BOHEEKA,Is something wrong? I'm ruined. My career is over.,20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64553,64553,64553,64553,151,QUARK,What did I do?,20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64554,64554,64554,64554,152,BOHEEKA,"You and your requisition code. It's for classified bio-technology. Even the cursed number is classified. Where did you get it? (before Quark can answer) No. Don't tell me. I don't want to know. If I'm lucky, I can still get through this with my skin intact. (trying to convince himself) Maybe they won't trace the request back to me.",20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64555,64555,64555,64555,153,QUARK,Who won't?,20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64556,64556,64556,64556,154,BOHEEKA,The Obsidian Order.,20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64557,64557,64557,64557,155,QUARK,"Nice talking to you, Boheeka. We'll have to do it again sometime.",20   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64558,64558,64558,64558,156,ODO,The Obsidian Order. That certainly complicates things.,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64559,64559,64559,64559,157,BASHIR,Who are they?,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64560,64560,64560,64560,158,ODO,They're the ever-vigilant eyes and ears of the Cardassian Empire. It's said that a Cardassian citizen can't sit down to a meal without each dish being duly noted and recorded by the Order.,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64561,64561,64561,64561,159,BASHIR,What happens if you eat something that doesn't meet with their approval?,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64562,64562,64562,64562,160,ODO,"People have been known to disappear for less. Whether you agree with their goals or not, you can't help but admire their efficiency. Even the Romulan Tal Shiar can't compete with them when it comes to intelligence gathering and covert operations.",21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64563,64563,64563,64563,161,BASHIR,So what does all this have to do with Garak?,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64564,64564,64564,64564,162,ODO,I wish I knew.,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64565,64565,64565,64565,163,BASHIR,(as if this explains everything) Do you think the order put that implant in Garak's head?,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64566,64566,64566,64566,164,ODO,"I have a better question. If the implant is a punishment device, then why is Garak trying to get his hands on another one?",21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64567,64567,64567,64567,165,BASHIR,He did ask for the specifications. Maybe he's trying to find a way to take it out.,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64568,64568,64568,64568,166,ODO,"Either way, I think I'd like to have a talk with him when he wakes up.",21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64569,64569,64569,64569,167,BASHIR,You'll have to get in line.,21   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64570,64570,64570,64570,168,BASHIR,"Computer, report on the status of patient Garak.",22   INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64571,64571,64571,64571,169,COMPUTER,Patient Garak is no longer in the Infirmary.,22   INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64572,64572,64572,64572,170,BASHIR,What?,22   INT. INFIRMARY,INFIRMARY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64573,64573,64573,64573,171,BASHIR,Garak? Are you in there?,25   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64574,64574,64574,64574,172,BASHIR,"Computer, open the door to Chamber nine-oh-one, Habitat Level H-three. Emergency Medical Override Bashir One Alpha.",25   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64575,64575,64575,64575,173,GARAK,"Doctor, what a pleasant surprise. I'm sorry... I must've missed the door chime.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64576,64576,64576,64576,174,BASHIR,What the hell do you think you're doing?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64577,64577,64577,64577,175,BASHIR,Triptacederine. How much of this did you take?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64578,64578,64578,64578,176,GARAK,"A mere thirty cc's. Not nearly enough, I'm afraid.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64579,64579,64579,64579,177,BASHIR,Thirty cc's would anesthetize an Algorian Mammoth.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64580,64580,64580,64580,178,GARAK,Cardassians must be made of sterner stuff. I barely feel it.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64581,64581,64581,64581,179,BASHIR,"Listen to me, Garak. I've had enough of your nonsense. Now I want you to come back to the Infirmary with me.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64582,64582,64582,64582,180,GARAK,I don't think so. Believe me when I tell you there's nothing you can do for me.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64583,64583,64583,64583,181,BASHIR,"Oh, and Quark can, is that it?",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64584,64584,64584,64584,182,GARAK,"I thought I was supposed to be the spy, Doctor.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64585,64585,64585,64585,183,BASHIR,"Quark's not coming, Garak.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64586,64586,64586,64586,184,GARAK,How do you know?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64587,64587,64587,64587,185,BASHIR,I heard him talking to his Cardassian contact. He couldn't get the item you requested.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64588,64588,64588,64588,186,GARAK,"Really? That's... most distressing. (reacts to another wave of pain) But I suppose, not all that surprising. Ah, well. Maybe it's for the best.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64589,64589,64589,64589,187,GARAK,"My hypospray, if you please?",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64590,64590,64590,64590,188,BASHIR,Another dose of Triptacederine might kill you.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64591,64591,64591,64591,189,GARAK,"Thank you for your concern, Doctor. But I'd rather have the hypospray.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.1901
+64592,64592,64592,64592,190,BASHIR,I'm not going to let you commit suicide. I'm here to help you.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,-0.1531
+64593,64593,64593,64593,191,GARAK,I doubt you can.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,-0.3612
+64594,64594,64594,64594,192,GARAK,I think you'll find that I'm experiencing some slight deterioration of my cranial nerve cluster.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64595,64595,64595,64595,193,BASHIR,"Not so slight, I'm afraid. We've got to get you to the Infirmary.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64596,64596,64596,64596,194,GARAK,"My dear Doctor, I have no intention of putting myself on display, for the amusement of the Bajoran inhabitants of this station.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64597,64597,64597,64597,195,BASHIR,It's not your pride I'm worried about. It's that implant you're carrying around inside your head.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64598,64598,64598,64598,196,GARAK,"You know about that, do you?",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64599,64599,64599,64599,197,BASHIR,"It's some kind of punishment device, isn't it?",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64600,64600,64600,64600,198,GARAK,Punishment device?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64601,64601,64601,64601,199,GARAK,I suppose in a way that's what it's become.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64602,64602,64602,64602,200,BASHIR,"If it wasn't put there to punish you, then what's it for?",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64603,64603,64603,64603,201,BASHIR,"Garak, I have to know what we're up against. If you tell me what it was meant for, maybe I can figure out a way to remove it.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64604,64604,64604,64604,202,GARAK,"(struggling against the pain) It's hopeless, Doctor. Believe me, it can't be removed.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64605,64605,64605,64605,203,BASHIR,How do you know?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64606,64606,64606,64606,204,GARAK,"That's the whole point. If it could be easily removed, it would be useless. You see on Cardassia, I was entrusted with certain... information. Information that needed to be kept safe... regardless of the situation.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64607,64607,64607,64607,205,GARAK,"My implant was given to me by Enabran Tain, the head of the Obsidian Order. If I was ever tortured, it was designed to stimulate the pleasure centers of my brain... to trigger the production of vast amounts of natural endorphins. I hope you appreciate the irony, Doctor. The sole purpose of the implant was to make me immune to pain.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64608,64608,64608,64608,206,BASHIR,What caused it to malfunction?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64609,64609,64609,64609,207,GARAK,It was never meant for continuous use.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64610,64610,64610,64610,208,BASHIR,Continuous use? What do you mean?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64611,64611,64611,64611,209,GARAK,"Living on this station is torture for me, Doctor. The temperature is always too cold, the lights are always too bright. Every Bajoran on the station looks at me with loathing and contempt. One day I decided I couldn't live with it anymore. So I... took the pain away.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64612,64612,64612,64612,210,BASHIR,You activated the implant.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64613,64613,64613,64613,211,GARAK,"I created a device which allowed me to trigger the implant whenever I wanted. At first, I only used it a few minutes a day. But I began relying on it more and more... Until finally, I just turned it on and never shut it off again.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64614,64614,64614,64614,212,BASHIR,How long's it been on?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64615,64615,64615,64615,213,GARAK,Two years.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64616,64616,64616,64616,214,BASHIR,(putting the pieces together) And now the implant is breaking down...,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64617,64617,64617,64617,215,GARAK,That's correct.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64618,64618,64618,64618,216,BASHIR,Then why not just shut the damn thing off?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64619,64619,64619,64619,217,GARAK,"It's too late, now. My body's become dependent on the higher endorphin levels generated by the implant.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64620,64620,64620,64620,218,BASHIR,That's it then? You're going to just give up and let them win.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64621,64621,64621,64621,219,GARAK,"""Them,"" Doctor?",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64622,64622,64622,64622,220,BASHIR,The Central Command... the Obsidian Order... Whoever it was that exiled you here. You're just going to roll over and die... let them destroy you... give up any hope of ever seeing Cardassia again.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64623,64623,64623,64623,221,GARAK,"Doctor, did anyone ever tell you that you are an infuriating pest?",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64624,64624,64624,64624,222,BASHIR,Chief O'Brien... all the time. But I don't pay any attention to him either.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64625,64625,64625,64625,223,GARAK,Has it ever occurred to you that I might be getting what I deserve?,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64626,64626,64626,64626,224,BASHIR,No one deserves this.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64627,64627,64627,64627,225,GARAK,"Doctor, please. I'm suffering enough without having to listen to your smug Federation sympathy. You think because we have lunch together once a week, you know me? You couldn't even begin to fathom what I'm capable of.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64628,64628,64628,64628,226,BASHIR,I'm a doctor. You're my patient. That's all I need to know.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64629,64629,64629,64629,227,GARAK,Wrong again. You need to know who you're trying to save.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64630,64630,64630,64630,228,GARAK ,"During the Occupation, I was a Gul in the Cardassian Mechanized Infantry. We were stationed just outside the Bajoran Capital. Shortly before the withdrawal, a handful of Bajoran prisoners escaped from my custody. My aide, a man named Elim, tracked them to a Cardassian shuttle about to depart for Terok Nor. Elim got aboard, but the captain refused to let him search the ship, claiming he was under strict orders from Gul Dukat to depart immediately. So I had the shuttle destroyed. Killing the escapees... Elim... and ninety-seven Cardassian civilians.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64631,64631,64631,64631,229,BASHIR,You can't be serious.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64632,64632,64632,64632,230,GARAK,"I followed my orders. None of those prisoners got off of Bajor alive. Unfortunately, it turned out one of the passengers on the shuttle was the daughter of a prominent military official. I was stripped of my rank and commission, and exiled from Cardassia. So now you know, Doctor. I hope I haven't shattered too many of your illusions.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64633,64633,64633,64633,231,BASHIR,"Garak, listen to me. Right now I'm not concerned with what you did in the past. I'm not going to walk out of here and let you die. We have to turn off that implant. And whatever side effects or withdrawal symptoms you experience, I promise you, I'll help you through them. Now I need that triggering device... Tell me where it is.",26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64634,64634,64634,64634,232,GARAK,Desk... Second drawer.,26   INT. GARAK'S QUARTERS,GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64635,64635,64635,64635,233,JABARA,"Anything else, Doctor?",36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64636,64636,64636,64636,234,BASHIR,"That's all for now. If you need to reach me, I'll be here for at least the next twenty-six hours.",36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64637,64637,64637,64637,235,BASHIR,Computer... I'm reading an ongoing erosion of tissue in the patient's lymphatic system. Explain.,36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64638,64638,64638,64638,236,COMPUTER,Unable to determine a cause due to insufficient data on Cardassian physiology.,36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64639,64639,64639,64639,237,BASHIR,All right. Continue to monitor the status of the patient's cranial implant. Inform me if it shows any sign of reactivation.,36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64640,64640,64640,64640,238,COMPUTER,Affirmative.,36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64641,64641,64641,64641,239,BASHIR,Yes?,36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64642,64642,64642,64642,240,ODO,"Doctor, I was hoping to ask Garak some questions.",36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64643,64643,64643,64643,241,BASHIR,He's asleep. He has been ever since I turned off his implant. Come on. We can talk outside.,36   INT. GARAK'S QUARTERS (VPB),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64644,64644,64644,64644,242,ODO,"Doctor, I need to talk to him as soon as possible. I have four homicide cases left in my files that I'm almost certain were committed by the Obsidian Order. If Garak was a member... he may be able to shed some light on them.",39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64645,64645,64645,64645,243,BASHIR,I'm afraid your questions will have to wait.,39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64646,64646,64646,64646,244,ODO,How long?,39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64647,64647,64647,64647,245,BASHIR,I don't know yet.,39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64648,64648,64648,64648,246,BASHIR,"Constable, Garak's body has undergone a severe shock. I don't know when he'll recover. I'm not even sure if he'll recover.",39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64649,64649,64649,64649,247,ODO,"In that case, I want to talk to him now. Wake him up.",39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64650,64650,64650,64650,248,BASHIR,I'll do no such thing.,39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64651,64651,64651,64651,249,ODO,"Doctor, these are murder cases. And he could be a suspect.",39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64652,64652,64652,64652,250,BASHIR,"Maybe so, but he's also my patient. And I won't have him disturbed. So until further notice, his quarters are off limits to everyone but emergency medical personnel. Now, if you'll excuse me, I have a patient to attend to.",39   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,-0.0449
+64653,64653,64653,64653,251,BASHIR,Tarkalean Tea.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64654,64654,64654,64654,252,BASHIR,Garak?,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64655,64655,64655,64655,253,GARAK,Leave me alone.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64656,64656,64656,64656,254,BASHIR,I don't think that would be a good idea right now. Your blood chemistry is severely imbalanced. You need to rest.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64657,64657,64657,64657,255,GARAK,"I said, don't touch me.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64658,64658,64658,64658,256,BASHIR,Just calm down.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64659,64659,64659,64659,257,GARAK,"I don't want to be calm, Doctor. I've been calm long enough.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64660,64660,64660,64660,258,GARAK,Look at this place. It's pathetic... to think that this is what my life has been reduced to.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64661,64661,64661,64661,259,GARAK,"This sterile shell... this... (casually drops the vase to the ground, it shatters) Prison...",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64662,64662,64662,64662,260,BASHIR,"Take it easy, Garak. You're obviously experiencing some side effects from the deactivation of the implant.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64663,64663,64663,64663,261,GARAK,Ridiculous. I feel more clear headed than I have in the past two years. What a waste those two years have been.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64664,64664,64664,64664,262,GARAK,"But there was a time, Doctor... there was a time when I was a power. The protege of Enabran Tain himself. Do you have any idea what that means?",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64665,64665,64665,64665,263,BASHIR,I'm afraid not.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64666,64666,64666,64666,264,GARAK,"No... of course you don't. You don't know anything, do you? Tain was the Obsidian Order. Not even the Central Command itself dared challenge him. And I was his right hand. My future was limitless. (with deep self- loathing) Until I threw it away.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64667,64667,64667,64667,265,BASHIR,You mean when you had that shuttle shot down to stop those prisoners from escaping.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64668,64668,64668,64668,266,GARAK,Stop them... I only wish I had stopped them.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64669,64669,64669,64669,267,BASHIR,You didn't?,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64670,64670,64670,64670,268,GARAK,"No, Doctor, my disgrace was worse than that... unimaginably worse.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64671,64671,64671,64671,269,BASHIR,What could you have possibly done worse than that?,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64672,64672,64672,64672,270,GARAK,(still can't believe he did it) I let them go.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64673,64673,64673,64673,271,GARAK,"It was the eve of the Cardassian withdrawal. Elim and I were interrogating five Bajorans. Not one of them was older than fourteen. They were children, Doctor... They knew nothing. They lived in bombed- out rooms and scrounged for food on the streets. They were filthy and they stank. The room was freezing cold... the air was like ice... and suddenly, the whole exercise seemed utterly meaningless. All I wanted was a hot bath and a good meal. So I let them go. I gave them whatever latinum I had in my pockets, opened the door, and flung them back into the street. Elim couldn't believe his eyes. He thought I'd gone insane.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64674,64674,64674,64674,272,BASHIR,You took pity on those children. There's nothing wrong with that.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64675,64675,64675,64675,273,GARAK,No!,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64676,64676,64676,64676,274,GARAK,"I was a fool. I should've finished the interrogation and turned them over to the troops for execution. But because I was chilly and my stomach was growling, I failed in my duty, and destroyed everything I had worked for.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64677,64677,64677,64677,275,BASHIR,And so they exiled you.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64678,64678,64678,64678,276,GARAK,That's right. Elim was executed and I was left to live out my days with nothing to look forward to but having lunch with you.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64679,64679,64679,64679,277,BASHIR,I'm sorry you feel that way. I thought you enjoyed my company.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64680,64680,64680,64680,278,GARAK,"I did. That's the worst part. To think that I actually enjoyed eating mediocre food while staring at your smug, sanctimonious face. I hate this place and I hate you.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64681,64681,64681,64681,279,BASHIR,"All right, Garak. That's your prerogative. But I really think you should lie down.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64682,64682,64682,64682,280,GARAK,"No, get away from me.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64683,64683,64683,64683,281,BASHIR,"Garak, stop this. I don't want to hurt you.",41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64684,64684,64684,64684,282,BASHIR,Bashir to Infirmary. I need an emergency medical team in Garak's quarters. Now.,41   INT. GARAK'S QUARTERS (OPTICAL),GARAK'S QUARTERS,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64685,64685,64685,64685,283,BASHIR,Administer another twenty cc's of hyperzine.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64686,64686,64686,64686,284,JABARA,He's not responding.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64687,64687,64687,64687,285,BASHIR,Give it a second.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64688,64688,64688,64688,286,BASHIR,Begin cardio-stimulation.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64689,64689,64689,64689,287,JABARA,His heartbeat is stabilizing.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64690,64690,64690,64690,288,BASHIR,But his lymphatic system is critical.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64691,64691,64691,64691,289,BASHIR,"I don't understand it. I shut down the implant. It can't be affecting his blood chemistry anymore, but toxins are accumulating in his lymphatic tissues. Computer, display analyses of all biochemical samples taken from the patient in the past thirty-nine hours.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64692,64692,64692,64692,290,BASHIR,Display them by chemical composition.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64693,64693,64693,64693,291,BASHIR,"(continuing, taking a stab) Isolate and display sample number seventeen.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64694,64694,64694,64694,292,BASHIR,"(continuing, shakes his head) Bring up... Sample Twenty-Three.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64695,64695,64695,64695,293,BASHIR,Sample twenty-seven... sample thirty- two... sample thirty-five... sample forty... Stop. Bring back sample thirty-five.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64696,64696,64696,64696,294,BASHIR,Superimpose the molecular structure of this leukocyte with an analogous sample from yesterday.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64697,64697,64697,64697,295,BASHIR,That's it. The molecular structure of Garak's leukocytes has been altered. That must be what's causing the accumulation of toxins in his system.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64698,64698,64698,64698,296,JABARA,Can we synthesize Cardassian leukocytes?,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64699,64699,64699,64699,297,BASHIR,Probably. But it could take weeks... And we don't have that kind of time. We have three or fours days at the most.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64700,64700,64700,64700,298,JABARA,"If we turn the implant back on, we might be able to keep him alive for another week or two.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64701,64701,64701,64701,299,GARAK ,No.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64702,64702,64702,64702,300,GARAK,I won't allow it. I never want that thing turned on again.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64703,64703,64703,64703,301,BASHIR,I understand how you feel. But I'm not sure what else I can do for you.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64704,64704,64704,64704,302,GARAK,"You've done enough, doctor. More than I deserve. There's something you have to know.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64705,64705,64705,64705,303,BASHIR,What's that?,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64706,64706,64706,64706,304,GARAK,The truth.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.3182
+64707,64707,64707,64707,305,BASHIR,"I've about given up on learning the truth from you, Garak.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.3182
+64708,64708,64708,64708,306,GARAK,"Don't give up now, Doctor. Patience has its rewards. Now listen carefully.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64709,64709,64709,64709,307,GARAK,"Elim wasn't my aide. He was... my friend. We grew up together... We were closer than brothers. For some reason, Enabran Tain took a liking to us... Before long, Elim and I were both powerful men in the Obsidian Order... They called us the ""Sons of Tain."" Even the Guls feared us. And then... (tries to summon the energy to continue) There was a scandal. Someone in the order was accused of letting some Bajoran prisoners escape. There were constant rumors of who was going to be implicated... fingers were being pointed at me...",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64710,64710,64710,64710,308,GARAK,By then Tain had retired to the Arawath Colony. He couldn't protect me. So I panicked. I did everything in my power to make sure Elim would be blamed instead of me. I planted evidence... altered records... only to discover that he'd beaten me to it.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64711,64711,64711,64711,309,BASHIR,He betrayed you first?,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64712,64712,64712,64712,310,GARAK,"Elim destroyed me. Before I'd realized what was going on, I'd been sentenced to exile. And the irony is... I deserved it. Not for the reasons they claimed, but because of what I'd tried to do to Elim. My best friend.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64713,64713,64713,64713,311,BASHIR,"Garak, why are you telling me this?",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64714,64714,64714,64714,312,GARAK,"So you can forgive me, Doctor... Why else? I need to know someone forgives me.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64715,64715,64715,64715,313,BASHIR,"I forgive you, Garak. For whatever you did.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64716,64716,64716,64716,314,GARAK,"Thank you, Doctor. That's most kind.",59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64717,64717,64717,64717,315,BASHIR,See that he rests comfortably. I'll be back within fifty-two hours.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64718,64718,64718,64718,316,JABARA,Where are you going?,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64719,64719,64719,64719,317,BASHIR,To the Arawath Colony. To find the man responsible for this.,59   INT. SURGERY,SURGERY,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64720,64720,64720,64720,318,BASHIR,Commander.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64721,64721,64721,64721,319,SISKO,"Hello, Doctor. Major Kira tells me you intend to take a runabout to the Arawath Colony.",66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64722,64722,64722,64722,320,BASHIR,Yes sir. It's a medical emergency.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64723,64723,64723,64723,321,SISKO,I assume you mean Mister Garak's emergency.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64724,64724,64724,64724,322,SISKO,"Julian, I want to be sure you know what you're getting yourself into. You'll be entering Cardassian territory alone, in a Federation runabout. If anything happens to you, if they decide to detain you, I'm not sure I'll be able to get you back. The Central Command could manufacture a dozen different reasons to hold onto you and we'd have a hell of a time proving them wrong.",66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64725,64725,64725,64725,323,BASHIR,I realize that. But I have to go. Garak's life is at stake.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64726,64726,64726,64726,324,SISKO,"I'm not questioning your medical judgement. Or your courage. When I was your age, I was assigned to the Federation embassy on Romulus. One of our Romulan kitchen staff, a man named Stolpan, got arrested by the Tal Shiar for political improprieties. Somehow I got the foolish idea that I could go into Tal Shiar Headquarters and convince them to set him free. (shakes his head at his own foolishness) Curzon took me aside and said the same thing I'm about to say to you... You won't do Garak or yourself any good if you're rotting in some Cardassian prison. Now I want you to promise me, that at the first sign of trouble, you'll forget about Garak and get the hell out of there.",66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64727,64727,64727,64727,325,BASHIR,I'll do my best.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64728,64728,64728,64728,326,SISKO,No you won't. You'll think you're invulnerable and keep going despite the danger. I know I did at your age. But at least try and be careful. I can't afford to lose a good officer.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64729,64729,64729,64729,327,BASHIR,"I... appreciate that, sir. I won't let you down.",66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64730,64730,64730,64730,328,SISKO,You'd better not. I don't have the time to break in a new doctor.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64731,64731,64731,64731,329,BASHIR,Sir... What happened to Stolpan? Did you free him?,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64732,64732,64732,64732,330,SISKO,I'll tell you when you get back. Good luck.,66   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64733,64733,64733,64733,331,TAIN,Doctor Bashir. Welcome. Please... make yourself at home.,69   INT. TAIN'S HOME (OPTICAL),TAIN'S HOME,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64734,64734,64734,64734,332,TAIN,"Well, Doctor, you've come all this way to see me... aren't you going to say something?",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64735,64735,64735,64735,333,BASHIR,How'd you know my name?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64736,64736,64736,64736,334,TAIN,Information is my business.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64737,64737,64737,64737,335,BASHIR,You're Enabran Tain.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64738,64738,64738,64738,336,TAIN,And you're Doctor Julian Subatoi Bashir. I hope you weren't greeted too rudely upon entering Cardassian space.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64739,64739,64739,64739,337,BASHIR,Not nearly as rudely as I expected.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64740,64740,64740,64740,338,TAIN,"Good. I alerted them that you were coming. The military hates surprises. Still, what you did was very brave. I'm impressed.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64741,64741,64741,64741,339,TAIN,Can I get you something to drink? Tarkalean tea perhaps?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64742,64742,64742,64742,340,BASHIR,I always drink Tarkalean tea.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64743,64743,64743,64743,341,TAIN,A good host knows the needs of his guests.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64744,64744,64744,64744,342,TAIN,"One Tarkalean tea, extra sweet. And a glass of Kanar.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64745,64745,64745,64745,343,TAIN,"So, Lieutenant... how's Garak? Has his condition improved at all?",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64746,64746,64746,64746,344,BASHIR,How'd you know he was sick?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64747,64747,64747,64747,345,BASHIR,That Cardassian Quark spoke to... Boheeka. I guess he did have reason to fear the Obsidian Order.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64748,64748,64748,64748,346,TAIN,Everyone has reason to fear the Order.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64749,64749,64749,64749,347,BASHIR,But I don't understand... Garak told me you were retired.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64750,64750,64750,64750,348,TAIN,"Oh, I am. Have been for years. But I try to keep informed on current events. I bet you could tell me all kinds of things I'd like to know, Doctor.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64751,64751,64751,64751,349,BASHIR,"I'm sure I could. Ask me anything you want to know about medicine, biology... or tennis?. Would you like to hear my opinion on the new nillimite alloy rackets?",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64752,64752,64752,64752,350,TAIN,That won't be necessary.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64753,64753,64753,64753,351,BASHIR,Have it your way.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64754,64754,64754,64754,352,TAIN,Are all Starfleet Lieutenants as brash as you?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64755,64755,64755,64755,353,BASHIR,I couldn't say. Though I doubt it.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64756,64756,64756,64756,354,TAIN,"So do I. Tell me, Doctor, how sick is Garak?",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64757,64757,64757,64757,355,BASHIR,He's dying.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64758,64758,64758,64758,356,TAIN,And you're trying to save him?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64759,64759,64759,64759,357,BASHIR,That's right.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64760,64760,64760,64760,358,TAIN,Strange. I thought you were his friend.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64761,64761,64761,64761,359,BASHIR,I suppose I am.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64762,64762,64762,64762,360,TAIN,"Then you should let him die. After all, for Garak, a life in exile is no life at all.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64763,64763,64763,64763,361,BASHIR,Say what you want... it's my job to keep him alive. And I need your help.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64764,64764,64764,64764,362,TAIN,My help? What can I do?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64765,64765,64765,64765,363,BASHIR,"The molecular structure of Garak's leukocytes has been disrupted. I need to synthesize replacements in order to stabilize his condition. Unfortunately, my knowledge of Cardassian biochemistry is severely limited.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64766,64766,64766,64766,364,TAIN,And you think I'd have access to that kind of information?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64767,64767,64767,64767,365,BASHIR,"Information is your business. Besides, you're the one who ordered him to have that implant put in his head, aren't you?",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64768,64768,64768,64768,366,TAIN,"I never had to order Garak to do anything. That's what made him special. So, you're saying if you don't get this information... Garak dies?",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64769,64769,64769,64769,367,BASHIR,That's right.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64770,64770,64770,64770,368,TAIN,Well we can't allow that... can we? I'll see to it that the necessary data is transferred to your station's computer.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64771,64771,64771,64771,369,BASHIR,Thank you.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64772,64772,64772,64772,370,TAIN,"Don't thank me, Doctor. I'm not doing Garak any favors. He doesn't deserve a quick death. On the contrary, I want him to live a long, miserable life. I want him to grow old on that station, surrounded by people who hate him, knowing he can never come home again.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64773,64773,64773,64773,371,BASHIR,What a lovely sentiment.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64774,64774,64774,64774,372,TAIN,"It's from the heart, I assure you. And now, Doctor, I really think you should be going.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64775,64775,64775,64775,373,BASHIR,One last thing...,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64776,64776,64776,64776,374,TAIN,Make it brief.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64777,64777,64777,64777,375,BASHIR,Garak mentioned an old friend of his the other day... a member of the Obsidian Order. I was wondering what happened to him.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64778,64778,64778,64778,376,TAIN,Did he give you his friend's name?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64779,64779,64779,64779,377,BASHIR,He said it was Elim.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64780,64780,64780,64780,378,BASHIR,Mind letting me in on the joke?,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64781,64781,64781,64781,379,TAIN,I see Garak hasn't changed a bit. Never tells the truth when a lie will do. The man has a rare gift for obfuscation. Doctor... Elim is Garak's first name.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64782,64782,64782,64782,380,TAIN,"Now run along home. And please, tell Garak that I miss him.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64783,64783,64783,64783,381,BASHIR,I'll be sure he gets the message.,70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64784,64784,64784,64784,382,BASHIR,"Computer, one to beam up. Energize.",70   INT. TAIN'S HOME - CONTINUOUS,TAIN'S HOM,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64785,64785,64785,64785,383,GARAK ,May I join you?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64786,64786,64786,64786,384,GARAK,"(continuing, as he sits) Thank you.",74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64787,64787,64787,64787,385,BASHIR,What are you doing up? You're supposed to be in bed.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64788,64788,64788,64788,386,GARAK,Out of the question. I couldn't stand to be cooped up in that dreadful Infirmary for another second. Besides I feel perfectly fine. How's the I'danian spice pudding today?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64789,64789,64789,64789,387,BASHIR,"""How's the spice pudding?"" Is that all you have to say for yourself? You're just going to sit there and pretend that the last ten days never happened?",74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64790,64790,64790,64790,388,GARAK,"I for one, Doctor, am perfectly satisfied with the way things turned out. And I see no need to dwell on what was doubtlessly a difficult time for both of us. By the way, I just had the most interesting conversation with Constable Odo. It seems he was under the impression that I was a member of the Obsidian Order.",74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64791,64791,64791,64791,389,BASHIR,And what did you tell him?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64792,64792,64792,64792,390,GARAK,"That he was mistaken, of course.",74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64793,64793,64793,64793,391,BASHIR,And he believed you?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64794,64794,64794,64794,392,GARAK,He said something about keeping a closer eye on me in the future. I told him to be my guest... I have nothing to hide.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64795,64795,64795,64795,393,GARAK,Here... I brought you something.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64796,64796,64796,64796,394,BASHIR,What is it?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64797,64797,64797,64797,395,GARAK,It's Meditations on a Crimson Shadow by Preloc.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64798,64798,64798,64798,396,BASHIR,More Cardassian literature.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64799,64799,64799,64799,397,GARAK,I think you'll find this one more to your taste. It takes place in the future. During a time when Cardassia and the Klingon Empire are at war.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64800,64800,64800,64800,398,BASHIR,Who wins?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64801,64801,64801,64801,399,GARAK,Who do you think?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64802,64802,64802,64802,400,BASHIR,"Never mind. Don't tell me. I wouldn't want you to spoil the ending. You know, I still have a lot of questions I want to ask you about your past.",74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64803,64803,64803,64803,401,GARAK,I've given you all the answers I'm capable of.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64804,64804,64804,64804,402,BASHIR,"You gave me answers, all right. But they were all different. What I want to know is... of all the stories you told me, which ones were true and which ones weren't?",74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64805,64805,64805,64805,403,GARAK,"My dear Doctor, they're all true...",74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64806,64806,64806,64806,404,BASHIR,Even the lies?,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64807,64807,64807,64807,405,GARAK,Especially the lies.,74   INT. REPLIMAT,REPLIMAT,INT.,The Wire,1994-03-01,Deep Space Nine,442.txt,0.0
+64808,64808,64808,64808,0,O'BRIEN,Looks like he used some sort of encryption program to bypass the access protocols.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64809,64809,64809,64809,1,KIRA,Unbelievable... the nerve.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64810,64810,64810,64810,2,QUARK,"You wanted to see me, Major?",2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64811,64811,64811,64811,3,ODO,Don't pretend you don't know what this is about.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64812,64812,64812,64812,4,KIRA,Maybe this'll jog your memory. Engage monitor.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64813,64813,64813,64813,5,QUARK,"Come to Quark's, Quark's is fun, come right now, don't walk, run!",2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64814,64814,64814,64814,6,QUARK,I love the part where my name rotates around...,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64815,64815,64815,64815,7,ODO,Tampering with the station's com- system is a class-three offense.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64816,64816,64816,64816,8,QUARK,It's just a little advertisement. (when this doesn't sway them) I didn't put one up in Ops.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64817,64817,64817,64817,9,ODO,I'm sure the magistrate will take that into consideration when he calculates your fine.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64818,64818,64818,64818,10,WORF,You.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64819,64819,64819,64819,11,QUARK,"As you can see, we're very busy here. Station business.",2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64820,64820,64820,64820,12,WORF,How did you do it?,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64821,64821,64821,64821,13,O'BRIEN,How'd he do what?,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64822,64822,64822,64822,14,WORF,I ordered a glass of prune juice from a Replicator in the Defiant's Mess Hall. This is what it came in.,2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,-0.3612
+64823,64823,64823,64823,15,KIRA,"If all your little ""advertisements"" aren't purged from our systems by the time I get back from the Gamma Quadrant... I will come to Quark's, and believe me, I will have fun.",2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.5106
+64824,64824,64824,64824,16,QUARK,"Let me help you with that, Chief...",2    INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64825,64825,64825,64825,17,BASHIR,According to Chief O'Brien the scan resolution on the new sensors is amazing. We could practically do the entire bio-survey from orbit.,6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64826,64826,64826,64826,18,KIRA,Suits me. The sooner we get out of the Gamma Quadrant the better.,6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64827,64827,64827,64827,19,BASHIR,(moving to stand between them) How can you say that?,6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64828,64828,64828,64828,20,BASHIR,"Those little points of light out there are the great unknown, beckoning to us. I wish I could visit every one.",6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64829,64829,64829,64829,21,KIRA,You might want to skip the ones with Jem'Hadar bases on them.,6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64830,64830,64830,64830,22,BASHIR,Is it my imagination... or are the stars a little brighter in the Gamma Quadrant?,6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.3197
+64831,64831,64831,64831,23,DAX,"Is it my imagination, or has Julian lost his mind?",6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,-0.3182
+64832,64832,64832,64832,24,KIRA,Setting course for the Gavara system...,6    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64833,64833,64833,64833,25,KIRA,I'm picking up some kind of emergency signal. It's fragmented. They say their homeworld's been attacked... Massive destruction... heavy casualties... They're asking any passing vessel for assistance...,9    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64834,64834,64834,64834,26,DAX,Looks like the signal's coming f rom somewhere in the Teplan system.,9    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64835,64835,64835,64835,27,BASHIR,That's just outside Dominion space.,9    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64836,64836,64836,64836,28,KIRA,Let's hope the Jem'Hadar know that... Setting new course...,9    INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64837,64837,64837,64837,29,KIRA,"Let's stay in close contact. If the Jem'Hadar come this way, we're going to have to get out of here fast.",11   EXT. PLANET'S SURFACE - DAY (OPTICAL),PLANET'S SURFACE - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64838,64838,64838,64838,30,BASHIR,Acknowledged.,11   EXT. PLANET'S SURFACE - DAY (OPTICAL),PLANET'S SURFACE - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64839,64839,64839,64839,31,BASHIR,What happened here?,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64840,64840,64840,64840,32,NORVA,Help me...,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64841,64841,64841,64841,33,NORVA,Please... don't let me die here... take me to Trevean...,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64842,64842,64842,64842,34,BASHIR,Trevean?,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64843,64843,64843,64843,35,NORVA,Hospital...,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64844,64844,64844,64844,36,DAX,I'll try to find out where it is...,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64845,64845,64845,64845,37,BASHIR,I'm going to give you something for the pain...,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64846,64846,64846,64846,38,EPRAN,You're not from this world.,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64847,64847,64847,64847,39,BASHIR,No...,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64848,64848,64848,64848,40,EPRAN,The Blight's quickened in her. There's nothing you can do.,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64849,64849,64849,64849,41,EPRAN,You should leave here. Now. Go back to where you came from and forget about this place.,12   EXT. RUINED CITY - DAY (OPTICAL/MATTE),RUINED CITY - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64850,64850,64850,64850,42,BASHIR,"The painkiller I gave her isn't having much effect. (giving her another hypo) These people's neurophysiology is so different from ours, I doubt this ""blight"" is any danger to us.",13   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64851,64851,64851,64851,43,DAX,I got us transportation to the hospital.,13   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64852,64852,64852,64852,44,BASHIR,How'd you manage that? These aren't the friendliest people I've ever met.,13   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64853,64853,64853,64853,45,DAX,This is a hospital... ?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64854,64854,64854,64854,46,ATTENDANT,She's quickened...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64855,64855,64855,64855,47,ATTENDANT,Take her to Trevean.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64856,64856,64856,64856,48,ATTENDANT,You're offworlders.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64857,64857,64857,64857,49,DAX,Yes.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64858,64858,64858,64858,50,ATTENDANT,"Don't worry, we'll take care of her now.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64859,64859,64859,64859,51,DAX,I haven't seen a single person who doesn't have lesions on their face...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64860,64860,64860,64860,52,BASHIR,His look inflamed... so do that girl's over there --,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64861,64861,64861,64861,53,PATIENT,Trevean...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64862,64862,64862,64862,54,PATIENT,Thank you... For this.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64863,64863,64863,64863,55,TREVEAN,You deserve nothing less...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64864,64864,64864,64864,56,PATIENT,"Yesterday morning when I awoke, I saw that it had finally happened... I'd quickened. I always thought I'd be afraid... But I wasn't. Because I knew I could come here. Last night I slept in a bed for the first time in my life.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64865,64865,64865,64865,57,PATIENT,"This morning I bathed in hot water... I put on clean clothes. And now I'm here, with my family and friends...",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64866,64866,64866,64866,58,TREVEAN,You're the strangers who brought Norva here...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64867,64867,64867,64867,59,DAX,How is she?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64868,64868,64868,64868,60,TREVEAN,It was too late for her.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64869,64869,64869,64869,61,TREVEAN,"If only she'd come sooner, I could've helped her.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64870,64870,64870,64870,62,BASHIR,Then there is a treatment for the Blight?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64871,64871,64871,64871,63,TREVEAN,There is no cure. It's always fatal.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64872,64872,64872,64872,64,BASHIR,I don't understand -- you just said you could've helped her.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64873,64873,64873,64873,65,TREVEAN,Why are you here?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64874,64874,64874,64874,66,DAX,"We received a distress call, we're here to help in any way we can.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64875,64875,64875,64875,67,BASHIR,I'm a doctor.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64876,64876,64876,64876,68,BASHIR,I have access to sophisticated diagnostic equipment.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64877,64877,64877,64877,69,TREVEAN,"We had sophisticated equipment once. Do you think our world was always like this? Two centuries ago, we were much like you. We built great cities, traveled to neighboring worlds...",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64878,64878,64878,64878,70,TREVEAN ,We believed nothing was beyond our ability. We even thought we could resist the Dominion.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64879,64879,64879,64879,71,TREVEAN,"I see you've heard of them. Then take care not to defy them... or your people will pay the same price we did. The Jem'Hadar came... and left our world crushed, as an example to others.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64880,64880,64880,64880,72,TREVEAN,"Bring Milani's child to me. More than anything, the Dominion wanted my people to bear the mark of their defiance. And so they gave us the Blight.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64881,64881,64881,64881,73,TREVEAN,We're all born with it... and we all die from it. The Blight quickens... the lesions turn red... and death comes soon after... Some die in childhood... most before they can have children of their own... only a few live to be my age.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64882,64882,64882,64882,74,BASHIR,"Trevean... if you're willing to tell us what you know about the Blight, we might be able to help.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64883,64883,64883,64883,75,TREVEAN,You should go. If the Jem'Hadar find you here...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64884,64884,64884,64884,76,DAX,We're willing to take that risk.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64885,64885,64885,64885,77,TREVEAN,Don't --,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64886,64886,64886,64886,78,BASHIR,Give him some room...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64887,64887,64887,64887,79,BASHIR,I'm a doctor.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64888,64888,64888,64888,80,ATTENDANT,"Leave him alone, you're ruining everything.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64889,64889,64889,64889,81,BASHIR,Can't you see he's dying?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64890,64890,64890,64890,82,TREVEAN,Of course he is. He came here to die.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64891,64891,64891,64891,83,TREVEAN,"People come to me when they quicken. I help them leave this world peacefully, surrounded by their family and friends.",14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64892,64892,64892,64892,84,BASHIR,What are you saying?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64893,64893,64893,64893,85,TREVEAN,The herbs I give them cause death within minutes...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64894,64894,64894,64894,86,DAX,You poison them?,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64895,64895,64895,64895,87,TREVEAN,The Blight kills slowly. No one wants to suffer needlessly. Like the woman you brought to me.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64896,64896,64896,64896,88,BASHIR,You... killed her...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64897,64897,64897,64897,89,TREVEAN,I did what she asked of me.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64898,64898,64898,64898,90,BASHIR,I thought this was a hospital... that you were a healer...,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64899,64899,64899,64899,91,TREVEAN,I am. I take away pain.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64900,64900,64900,64900,92,TREVEAN,You disrupted Tamar's death; it was supposed to be a very special moment for his family. I'm going to have to ask you to leave.,14   INT. HOSPITAL,HOSPITAL,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64901,64901,64901,64901,93,DAX,I found the distress beacon in an abandoned building not far from here. It has its own power source. My guess is that it's been repeating the same message for the last two hundred years.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64902,64902,64902,64902,94,BASHIR,There's nothing for us to do here... we should go...,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64903,64903,64903,64903,95,A small voice from off-screen interrupts.EKORIA ,Are you really a doctor?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64904,64904,64904,64904,96,BASHIR,Yes.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64905,64905,64905,64905,97,EKORIA,I've never met a doctor before.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64906,64906,64906,64906,98,DAX,Now you have. What do you think?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64907,64907,64907,64907,99,EKORIA,They say there's a woman in Nykalia who makes a potion that numbs the nerves. She gives it to people so they can withstand the pain of quickening and live a little longer. But Nykalia is so far away.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64908,64908,64908,64908,100,BASHIR,When are you due?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64909,64909,64909,64909,101,EKORIA,Not for another two months.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64910,64910,64910,64910,102,DAX,That's not so long...,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64911,64911,64911,64911,103,EKORIA,You never know when the quickening will come to you.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64912,64912,64912,64912,104,BASHIR,I'm Julian. What's your name?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64913,64913,64913,64913,105,EKORIA,Ekoria...,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64914,64914,64914,64914,106,DAX,I'm Jadzia....,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64915,64915,64915,64915,107,EKORIA,Did you come here to help us?,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64916,64916,64916,64916,108,BASHIR,No one here seems to want our help.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64917,64917,64917,64917,109,EKORIA,"I do. And I know others who'd welcome it, too.",15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64918,64918,64918,64918,110,KIRA,Kira to Away Team.,15   EXT. RUINED CITY - DAY,RUINED CIT,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64919,64919,64919,64919,111,DAX,Go ahead.,15A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64920,64920,64920,64920,112,KIRA,Sensors just picked up two Jem'Hadar ships headed this way...,15A  INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64921,64921,64921,64921,113,KIRA,The Jem'Hadar are leaving the Kendi system... looks like they're heading for the Obatta cluster.,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64922,64922,64922,64922,114,DAX,Sounds like they're on a patrol route -- which means this system is probably next.,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64923,64923,64923,64923,115,KIRA,We'd better go. Stand by to get underway.,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64924,64924,64924,64924,116,BASHIR,"Hold on, Major... we can't just leave these people. They need our help.",16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64925,64925,64925,64925,117,KIRA,And they'll get it. As soon as we get back we'll notify Starfleet so they can put together a relief mission.,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64926,64926,64926,64926,118,BASHIR,"That could take weeks, maybe even months. We're here now.",16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64927,64927,64927,64927,119,BASHIR,"Do you remember the plague on Boranis Three? People were dying by the thousands and no one there knew why. It took us an hour to identify the pathogen, and three days to dose the watertable and inoculate the entire population.",16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64928,64928,64928,64928,120,DAX,We might be able to do the same thing here.,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64929,64929,64929,64929,121,KIRA,All right... it's worth a try. But we can't risk the Jem'Hadar detecting the runabout. I'll take it to the Jenkata Nebula...,16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64930,64930,64930,64930,122,BASHIR,"Come back for us in a week. With any luck, we'll have a cure by then.",16   INT. RUNABOUT,RUNABOUT,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64931,64931,64931,64931,123,EKORIA,I'm sorry I don't have more space to offer you.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64932,64932,64932,64932,124,BASHIR,Don't be. This is fine. Can I use this table for my equipment?,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64933,64933,64933,64933,125,EKORIA,Whatever you need.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64934,64934,64934,64934,126,DAX,Did you do this?,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64935,64935,64935,64935,127,EKORIA,My husband did. He died last winter.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64936,64936,64936,64936,128,EKORIA,"It's what he imagined our world used to be like. He painted a mural similar to it on the side of a building near here. He traded a good pair of boots for the paint he needed. He wanted to show people how things were, he thought it might give them something to work toward...",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64937,64937,64937,64937,129,DAX,Maybe later you could take us to see it...,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64938,64938,64938,64938,130,EKORIA,All right.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64939,64939,64939,64939,131,DAX,Well... looks like we have ourselves a clinic.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64940,64940,64940,64940,132,BASHIR,The first thing I need to do is run a complete biospectral analysis on an asymptomatic individual.,17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64941,64941,64941,64941,133,DAX,"Loosely translated, that means he needs a volunteer.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64942,64942,64942,64942,134,DAX,"Great. If you'll just have a seat, the doctor will be with you in a moment.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64943,64943,64943,64943,135,DAX,"They love to keep you waiting, it makes them feel important.",17   INT. TENEMENT HOUSE - DAY,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64944,64944,64944,64944,136,BASHIR,There it is.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64945,64945,64945,64945,137,DAX,Let me see.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64946,64946,64946,64946,138,EKORIA,What's happened?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64947,64947,64947,64947,139,DAX,We've isolated the virus.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64948,64948,64948,64948,140,EKORIA,Is that a good thing?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64949,64949,64949,64949,141,BASHIR,"It means we can start analyzing its molecular structure, look for binding sites so we can tailor an antigen.",18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64950,64950,64950,64950,142,DAX,(translating for Ekoria with a smile) It's a very good thing.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64951,64951,64951,64951,143,BASHIR,I'm going to start mapping the nucleotides. Do you know how to run a protein sequencer?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64952,64952,64952,64952,144,DAX,I think so.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64953,64953,64953,64953,145,EKORIA,I hope you two are hungry.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64954,64954,64954,64954,146,BASHIR,Starving.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64955,64955,64955,64955,147,EKORIA,Good.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64956,64956,64956,64956,148,DAX,Looks like a feast.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64957,64957,64957,64957,149,EKORIA,It was supposed to be.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64958,64958,64958,64958,150,DAX,What do you mean?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64959,64959,64959,64959,151,EKORIA,Nothing. Do you like Takana root tea?,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64960,64960,64960,64960,152,DAX,"Ekoria, where did you get all this food?",18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64961,64961,64961,64961,153,EKORIA,I've been saving it for the hospital... for my death.,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64962,64962,64962,64962,154,EKORIA,Something tells me I'm not going to need it anymore...,18   INT. TENEMENT HOUSE - LATER,TENEMENT HOUS,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64963,64963,64963,64963,155,BASHIR,She's not interested either.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64964,64964,64964,64964,156,EKORIA,I don't understand why you need people who've quickened to make your cure.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64965,64965,64965,64965,157,BASHIR,I need to study the progression of the--,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64966,64966,64966,64966,158,BASHIR,Sorry...,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64967,64967,64967,64967,159,EPRAN,You're still here.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64968,64968,64968,64968,160,BASHIR,Yes.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64969,64969,64969,64969,161,EPRAN,I see the Blight has spared you. Maybe it doesn't like the taste of your blood.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64970,64970,64970,64970,162,BASHIR,It seems to like yours.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64971,64971,64971,64971,163,EPRAN,"I'd invite you to my death, but we don't know each other that well.",19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64972,64972,64972,64972,164,BASHIR,What if I told you there was a chance you didn't have to die?,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64973,64973,64973,64973,165,BASHIR,I'm a doctor.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64974,64974,64974,64974,166,EPRAN,Don't tell me... you have a cure.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64975,64975,64975,64975,167,BASHIR,I'm working on one.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64976,64976,64976,64976,168,EPRAN,What will it cost me? A good coat? A tilo of oil?,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64977,64977,64977,64977,169,BASHIR,It won't cost you anything.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64978,64978,64978,64978,170,EKORIA,He can help us. Listen to him.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64979,64979,64979,64979,171,BASHIR,"I need volunteers, people who've quickened.",19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64980,64980,64980,64980,172,EPRAN,What will you do? See how loud we scream as the Blight burns through us?,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64981,64981,64981,64981,173,BASHIR,I have medicines that dull pain; I have equipment unlike anything on your world.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64982,64982,64982,64982,174,BASHIR,How'd you like me to fix that arm so you can go play with your friends?,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64983,64983,64983,64983,175,BASHIR,I'm not going to hurt you...,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64984,64984,64984,64984,176,BASHIR,You've got a fracture right here. I'll bet it hurts.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64985,64985,64985,64985,177,BASHIR,How's it feel now?,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64986,64986,64986,64986,178,EPRAN,It isn't possible...,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64987,64987,64987,64987,179,EKORIA,It is. You saw it. He can find a cure for us. But he needs our help.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64988,64988,64988,64988,180,TREVEAN,Fixing a broken bone and curing the Blight are two different things.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64989,64989,64989,64989,181,BASHIR,I know that.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64990,64990,64990,64990,182,TREVEAN,"Others have come to our city with promises of a cure. They stirred up hope... took food and clothes in exchange for their elixirs, then moved on. But their promises were always lies.",19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64991,64991,64991,64991,183,TREVEAN,"And the poor wretches who believed in them always came to me in the end, begging for release...",19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64992,64992,64992,64992,184,BASHIR,I just want to do what I can to help. I'm not making any promises.,19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64993,64993,64993,64993,185,TREVEAN,"Take care that you don't. Because we've dealt with those who give false hope before. Wherever they'd moved on to, we found them... And believe me, their deaths made the Blight look like a blessing...",19   EXT. CITY STREET - DAY (OPTICAL),CITY STREET - DAY,EXT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64994,64994,64994,64994,186,EKORIA,What's wrong?,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64995,64995,64995,64995,187,BASHIR,I'm trying to chart the life-cycle of the virus. It would be a lot easier if I'd gotten more tissue samples...,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64996,64996,64996,64996,188,EKORIA,Maybe you should go home. Maybe my people don't deserve your help.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64997,64997,64997,64997,189,BASHIR,They've just been suffering so long they've lost hope that things can be better.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64998,64998,64998,64998,190,EKORIA,It's more than that. We've come to... worship death.,20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
+64999,64999,64999,64999,191,EKORIA,"I used to wake up -- -- look at myself in that mirror, and be disappointed that I hadn't quickened in my sleep.",20   INT. TENEMENT HOUSE,TENEMENT HOUSE,INT.,The Quickening,1996-03-06,Deep Space Nine,495.txt,0.0
