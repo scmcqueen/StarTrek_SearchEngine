@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+39000,39000,39000,39000,313,SISKO,"Yes, Odo. What is it?",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39001,39001,39001,39001,314,ODO,I thought you might be interested to know... Gul Dukat has just arrived on the station...,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39002,39002,39002,39002,315,SISKO ,"Station log, Stardate 47177.2. The arrival of Gul Dukat only powers my suspicion that we are being manipulated in some unseen manner. But how. And for what purpose?",48   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39003,39003,39003,39003,316,SISKO ,"Doctor Bashir and Garak continue to search for anything of relevance in the adoption files. So far, they've found nothing.",49   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39004,39004,39004,39004,317,SISKO ,The decision on custody for Rugal cannot wait much longer...,50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39005,39005,39005,39005,318,SISKO,You've come a long way just to view a custody hearing.,50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39006,39006,39006,39006,319,GUL DUKAT,Pa'Dar is an eminent member of the civilian assembly. This matter has generated a great deal of interest at the highest levels of our government.,50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39007,39007,39007,39007,320,SISKO,"So, you're here representing your government?",50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39008,39008,39008,39008,321,GUL DUKAT,Not exactly. I'd like to think that I'm here representing the children. All of the children abandoned on Bajor. I want to see Rugal reunited with his father.,50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39009,39009,39009,39009,322,SISKO,I'm sure Pa'Dar is grateful for your support.,50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39010,39010,39010,39010,323,SISKO,"Because I was under the impression that you were political adversaries... isn't that so, Pa'Dar... ?",50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39011,39011,39011,39011,324,PA'DAR,"We have disagreed in the past, but Commander, I don't see what you...",50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39012,39012,39012,39012,325,GUL DUKAT,"And I must object as well, Commander. What's past is past. It has no relevance here. All that is relevant is the children. What are we to do about the children?",50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39013,39013,39013,39013,326,SISKO,"If you don't mind, I'd like you to go over the events leading to the disappearance of Rugal eight years ago...",50   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39014,39014,39014,39014,327,GARAK,How perfectly foolish of me.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39015,39015,39015,39015,328,BASHIR,"Don't tell me you've decided you're wrong... not after scanning seven thousand, four hundred and twenty files for a misspelling...",51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39016,39016,39016,39016,329,GARAK,Dukat is smarter than that.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39017,39017,39017,39017,330,BASHIR,Than what?,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39018,39018,39018,39018,331,GARAK,He would never leave a file to be found.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39019,39019,39019,39019,332,BASHIR,You really think he purged the file on Rugal?,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39020,39020,39020,39020,333,GARAK,I would have.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39021,39021,39021,39021,334,BASHIR,There was something in that file he didn't want anyone to see.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39022,39022,39022,39022,335,GARAK,Exactly.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39023,39023,39023,39023,336,GARAK,We have one last chance... if we can find the person who wrote that file in the first place...,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39024,39024,39024,39024,337,BASHIR,How can you ever hope to find him?,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39025,39025,39025,39025,338,GARAK,Her.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39026,39026,39026,39026,339,BASHIR,Her? How do you know?,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39027,39027,39027,39027,340,GARAK,Because I've already found her name. Jomat Luson.,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39028,39028,39028,39028,341,BASHIR,But how...,51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39029,39029,39029,39029,342,GARAK,"Really, Doctor. You're not paying attention to detail. There's one name we keep seeing... on all of the files from the Tozhat Resettlement Center during the time period Rugal would have been there... a Bajoran official named Jomat Luson. Now, all we have to hope for is that she's still alive...",51   INT. SURGERY ROOM (VPB),SURGERY ROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39030,39030,39030,39030,343,SISKO,"Do you remember anything from back then, Rugal?",52   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39031,39031,39031,39031,344,RUGAL,No.,52   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39032,39032,39032,39032,345,SISKO,Do you remember being adopted?,52   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39033,39033,39033,39033,346,RUGAL,No.,52   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39034,39034,39034,39034,347,SISKO,What's the first thing you do remember?,52   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39035,39035,39035,39035,348,RUGAL,My father... teaching me how to swim.,52   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39036,39036,39036,39036,349,JOMAT,I know exactly the one you're talking about.,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39037,39037,39037,39037,350,BASHIR,You do?,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39038,39038,39038,39038,351,JOMAT,He was the only Cardassian boy we had at the time... we had several girls...,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39039,39039,39039,39039,352,BASHIR,You're sure his name was Rugal...,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39040,39040,39040,39040,353,JOMAT,That's what we were told...,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39041,39041,39041,39041,354,BASHIR,Somebody told you his name?,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39042,39042,39042,39042,355,JOMAT,"Yes, that was the most unusual thing about his arrival. Virtually all of the other Cardassian children turned in to us were found on the streets by Bajorans... Rugal was brought in by a Cardassian.",53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39043,39043,39043,39043,356,BASHIR,"A Cardassian military officer, by chance?",53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39044,39044,39044,39044,357,JOMAT,"Yes, as a matter of fact, she was.",53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39045,39045,39045,39045,358,BASHIR,A woman...,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39046,39046,39046,39046,359,JOMAT,I don't remember her name... but she was attached to the command post at Terok Nor.,53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39047,39047,39047,39047,360,JOMAT,"Is there anything else, Doctor?",53   INT. SURGERY ROOM - ON MONITOR (OPTICAL),SURGERY ROOM - ON MONITOR,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39048,39048,39048,39048,361,O'BRIEN,"The boy accused him of being a butcher. He just hates Cardassians, sir. Pa'Dar was heartbroken. I could only imagine how I'd feel in his shoes.",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39049,39049,39049,39049,362,BASHIR,"Commander, may I ask Chief O'Brien a few questions?",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39050,39050,39050,39050,363,BASHIR,"Chief, didn't Pa'Dar tell you about the humiliation he feels right now?",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39051,39051,39051,39051,364,O'BRIEN,He said he'd disgraced everything a Cardassian believes in.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39052,39052,39052,39052,365,BASHIR,Has the news of your son's discovery become public knowledge on Cardassia?,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39053,39053,39053,39053,366,PA'DAR,The government has not chosen to reveal it to the people yet.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39054,39054,39054,39054,367,BASHIR,What happens when it is revealed?,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39055,39055,39055,39055,368,PA'DAR,It will be the end of my political career.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39056,39056,39056,39056,369,BASHIR,That's a shame. Especially considering the timing.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39057,39057,39057,39057,370,PA'DAR,The timing?,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39058,39058,39058,39058,371,BASHIR,"Isn't there an inquiry about to begin concerning the Cardassians who supported the recent, attempted coup on Bajor?",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39059,39059,39059,39059,372,PA'DAR,Yes.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39060,39060,39060,39060,373,BASHIR,And isn't Gul Dukat a key witness in that inquiry...,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39061,39061,39061,39061,374,GUL DUKAT,"This is irrelevant and an insult. You've lost control here, Commander.",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39062,39062,39062,39062,375,SISKO,"(you have my support, Doctor) Yes, it seems that I have. Again.",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39063,39063,39063,39063,376,GUL DUKAT,I suggest we get back to the issue of the children.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39064,39064,39064,39064,377,BASHIR,"All right, let's talk about children. Have you ever been to the Tozhat Resettlement Center on Bajor where Rugal was adopted?",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39065,39065,39065,39065,378,GUL DUKAT,Never.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39066,39066,39066,39066,379,BASHIR,And of course Tozhat is the province where Pa'Dar was stationed eight years ago.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39067,39067,39067,39067,380,GUL DUKAT,I'm aware of that.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39068,39068,39068,39068,381,BASHIR,I've been trying to find the records of Rugal's adoption but they're missing from the files.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39069,39069,39069,39069,382,GUL DUKAT,How unfortunate.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39070,39070,39070,39070,383,BASHIR,But we have found someone who was working at the center at the time Rugal was brought in. Do you know of a Bajoran social volunteer named Jomat Luson?,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39071,39071,39071,39071,384,GUL DUKAT,No.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39072,39072,39072,39072,385,BASHIR,Jomat Luson remembers Rugal being brought in by a Cardassian military officer. A woman who seemed familiar with him... even knew his name.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39073,39073,39073,39073,386,GUL DUKAT,Is there a question?,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39074,39074,39074,39074,387,BASHIR,The question is whether or not this officer might have deliberately left the son of Kotan Pa'Dar at the relocation center... with full knowledge that he was not an orphan. Perhaps with the hopes of humiliating Pa'Dar someday.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39075,39075,39075,39075,388,GUL DUKAT,I wouldn't know.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39076,39076,39076,39076,389,BASHIR,Would you happen to know of a base known during the occupation as Terok Nor?,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39077,39077,39077,39077,390,GUL DUKAT,Terok Nor? It was here. This space station.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39078,39078,39078,39078,391,BASHIR,Jomat Luson clearly recalls the officer who brought in Rugal was attached to Terok Nor.,54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39079,39079,39079,39079,392,BASHIR,"Gul Dukat, who was the commander of Terok Nor eight years ago?",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39080,39080,39080,39080,393,BASHIR,"For the record, the commander of Terok Nor eight years ago was Gul Dukat.",54   INT. SCHOOLROOM,SCHOOLROOM,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39081,39081,39081,39081,394,SISKO ,"Station log, Stardate 47178.3. After long and difficult deliberations, I have decided to allow Pa'Dar to take his son back to Cardassia. Although I am convinced his Bajoran foster parents treated him with love, Rugal has been the clear victim in this conspiracy. I believe it's time for his healing to begin.",55   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39082,39082,39082,39082,395,PA'DAR,"Your doctor has given me the leverage I need, Commander...",56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39083,39083,39083,39083,396,SISKO,Leverage?,56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39084,39084,39084,39084,397,PA'DAR,Dukat will never allow these events to be made public now. And I certainly won't choose to discuss them.,56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39085,39085,39085,39085,398,SISKO,A stalemate.,56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39086,39086,39086,39086,399,PA'DAR,A stalemate. You've helped me salvage my political career. I won't forget that.,56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39087,39087,39087,39087,400,SISKO,Perhaps you'll use your influence to help the other Cardassian orphans on Bajor.,56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39088,39088,39088,39088,401,PA'DAR,"Yes, well... we'll see.",56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39089,39089,39089,39089,402,O'BRIEN,"Remember what I said. If you ever want to come back and visit them -- let me know, and I'll arrange it...",56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39090,39090,39090,39090,403,PA'DAR,"Hello, Rugal -- are you ready to go?",56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39091,39091,39091,39091,404,PA'DAR,I suppose it will take time...,56   INT. PROMENADE - NEAR AIRLOCK,PROMENAD,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39092,39092,39092,39092,405,BASHIR,"But there's still one more question I haven't been able to figure out, Garak... Why did you want to expose Dukat? What's the truth about you and him?",58   INT. REPLIMAT,REPLIMAT,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39093,39093,39093,39093,406,GARAK,"Truth is in the eye of the beholder, Doctor. I never tell the truth because I don't believe there is such a thing. That is why I prefer the simple straight line simplicity of cutting cloth.",58   INT. REPLIMAT,REPLIMAT,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39094,39094,39094,39094,407,BASHIR,You're not going to tell me.,58   INT. REPLIMAT,REPLIMAT,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39095,39095,39095,39095,408,GARAK,"But you don't need me to tell you, Doctor... if you'll just notice the details. They're scattered like crumbs all over the table we regularly share. Until next time.",58   INT. REPLIMAT,REPLIMAT,INT.,Cardassians,1993-08-16,Deep Space Nine,425.txt,0.0
+39096,39096,39096,39096,0,ALSIA,"When my husband was alive we ran the business together. And I managed to put away a bit of latinum every year, just for myself. Now that he's gone... Well, I've got quite a little sum...",2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39097,39097,39097,39097,1,MARTUS,That's important...,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39098,39098,39098,39098,2,ALSIA,To be honest... It's not really enough. Not for the future. Not for the way I want to live out my retirement... So I've decided to invest it all --,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39099,39099,39099,39099,3,ALSIA,I can't believe I'm telling you this... We just met.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39100,39100,39100,39100,4,ALSIA ,But I think I can really trust you. I feel like we've known each other forever.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39101,39101,39101,39101,5,MARTUS,When hearts are in sympathy... time collapses...,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39102,39102,39102,39102,6,ALSIA,"I'm taking everything I've saved, and I'm purchasing the mining concession for the entire Vlugta asteroid belt.",2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39103,39103,39103,39103,7,MARTUS,Asteroid mining? How adventurous. But are you sure that's wise? Prospecting can be risky.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39104,39104,39104,39104,8,ALSIA,"Not this time. My father was a stellar cartographer. Thirty years ago, he conducted a full spectrum mineralogical analysis of those asteroids. But he never had the means to follow up on what he found.",2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39105,39105,39105,39105,9,MARTUS,And now you plan to carry out your father's dream.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39106,39106,39106,39106,10,ALSIA,"When his survey results become public, I'll get seven times my investment back... overnight. I still can't believe I'm telling you all this. My ""secret plan."" I've been thinking about it for years. I never even told my husband... it must be all this Gamzian wine.",2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39107,39107,39107,39107,11,MARTUS,How brave of you... handling everything on your own...,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39108,39108,39108,39108,12,ALSIA,It hasn't been easy. There's so much to keep track of... so much to do.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39109,39109,39109,39109,13,MARTUS,Maybe I can help. Would you consider... Some kind of... partnership?,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39110,39110,39110,39110,14,ODO,Let's go.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39111,39111,39111,39111,15,MARTUS,Exactly where are we going?,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39112,39112,39112,39112,16,ODO,To Security.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39113,39113,39113,39113,17,MARTUS,But I've done nothing wrong.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39114,39114,39114,39114,18,ALSIA,It's true. We were just talking.,2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39115,39115,39115,39115,19,ODO,"You were talking, Madam. He was listening.",2    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39116,39116,39116,39116,20,MARTUS,"Security Chief Odo, isn't it?",7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39117,39117,39117,39117,21,ODO,I've been watching you since you arrived.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39118,39118,39118,39118,22,MARTUS,Should I be flattered?,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39119,39119,39119,39119,23,ODO,Martus Mazur... A refuge from the El-Aurian system...,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39120,39120,39120,39120,24,MARTUS,"Everyone has to be from somewhere. Where are you from, Odo?",7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39121,39121,39121,39121,25,ODO,Don't try to pull that routine on me.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39122,39122,39122,39122,26,MARTUS,What routine?,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39123,39123,39123,39123,27,ODO,"I know all about you El-Aurians. You're ""listeners."" People like to talk to you.",7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39124,39124,39124,39124,28,MARTUS,Everyone needs someone to confide in... Someone to hear their stories... I offer a sympathetic ear. And if they request my help -- I give it to them.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39125,39125,39125,39125,29,ODO,That couple from Pythro Five told me you asked for their financial access codes.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39126,39126,39126,39126,30,MARTUS,Some might call helping an elderly couple invest their savings a compassionate act.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39127,39127,39127,39127,31,ODO,Not when you invest it in your own business. A business that promptly folds.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39128,39128,39128,39128,32,MARTUS,I had a run of bad luck. No one regrets it more than I do.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39129,39129,39129,39129,33,ODO,You're a con man. And they've signed a complaint.,7    INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39130,39130,39130,39130,34,MARTUS,This isn't necessary. I'm not going anywhere. Let's have a drink. Talk a bit...,7A   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39131,39131,39131,39131,35,BASHIR,Chief.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39132,39132,39132,39132,36,O'BRIEN,"Oh. Hello, Doctor...",10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39133,39133,39133,39133,37,BASHIR,"Great job. You built it yourself, didn't you?",10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39134,39134,39134,39134,38,O'BRIEN,Yeah. Just finished. I missed playing. And I figured there'd be at least a couple of players on board.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39135,39135,39135,39135,39,O'BRIEN,I didn't think you'd be one of them.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39136,39136,39136,39136,40,BASHIR,Captain of the team at Starfleet Medical School. We took the sector championship my last year.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39137,39137,39137,39137,41,O'BRIEN,Against other medical students.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39138,39138,39138,39138,42,BASHIR,Against everybody. I played a Vulcan in the finals. Talk about stamina -- I don't think he ever actually broke a sweat.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39139,39139,39139,39139,43,O'BRIEN,And you won?,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39140,39140,39140,39140,44,BASHIR,Took him on a back wall riser shot.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39141,39141,39141,39141,45,O'BRIEN,"Well, I can't say I've had much in the way of... (a look at the weird exercise) ... formal training.",10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39142,39142,39142,39142,46,O'BRIEN,But it's been a serious pastime for a lot of years.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39143,39143,39143,39143,47,BASHIR,Some of the toughest players I've run into didn't know what they were doing --,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39144,39144,39144,39144,48,BASHIR,"-- formally I mean. Hey, whatever works, works. This exercise for example. I picked it up at a tournament from a top player. It's a four thousand year old battle warmup. According to legend, it ""makes the heart a friend to the hand.""",10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39145,39145,39145,39145,49,BASHIR,"Medically, I don't know what that means. All I know is it gives me more energy.",10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39146,39146,39146,39146,50,BASHIR,Feel like playing?,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39147,39147,39147,39147,51,O'BRIEN,Serve.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39148,39148,39148,39148,52,BASHIR,I'd guess from the lines you prefer Old Style rules.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39149,39149,39149,39149,53,O'BRIEN,I can play any style you want.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39150,39150,39150,39150,54,BASHIR,Traditional it is. Always been my personal favorite anyway --,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39151,39151,39151,39151,55,O'BRIEN,-- Serve.,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39152,39152,39152,39152,56,BASHIR,One...,10   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39153,39153,39153,39153,57,MARTUS,"Pardon me, Friend.",11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39154,39154,39154,39154,58,MARTUS,Pardon me.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39155,39155,39155,39155,59,MARTUS,Ugh...,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39156,39156,39156,39156,60,MARTUS,Friend? Are you all right... ?,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39157,39157,39157,39157,61,MARTUS,I thought you had died.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39158,39158,39158,39158,62,COS,If only...,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39159,39159,39159,39159,63,COS,If only I could be so fortunate.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39160,39160,39160,39160,64,MARTUS,You were snoring.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39161,39161,39161,39161,65,COS,"Forgive me. But as you can see, my health is not good.",11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39162,39162,39162,39162,66,MARTUS,"Yes. Well, sorry I had to wake you.",11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39163,39163,39163,39163,67,COS,I wasn't always like this.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39164,39164,39164,39164,68,MARTUS,Of course not.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39165,39165,39165,39165,69,COS,I had youth. Vigor. Fame. Wealth beyond measure. All gone...,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39166,39166,39166,39166,70,MARTUS,I'm not listening...,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39167,39167,39167,39167,71,COS,All because of this.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39168,39168,39168,39168,72,MARTUS,A gambling device.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39169,39169,39169,39169,73,MARTUS,Did you win?,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39170,39170,39170,39170,74,COS,Of course not.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39171,39171,39171,39171,75,MARTUS,You gambled away everything you had?,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39172,39172,39172,39172,76,COS,In a manner of speaking. Every trade deal I struck was a disaster. Every alliance I formed fell apart. Every endeavor backed -- a failure.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39173,39173,39173,39173,77,MARTUS,What does that have to do with a toy? Sounds like you just had a lot of rotten luck.,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39174,39174,39174,39174,78,COS,"Yes. ""Rotten luck."" In the end... It all comes down to luck.",11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39175,39175,39175,39175,79,COS,I... won...,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39176,39176,39176,39176,80,MARTUS,That's nice... What did you win... ?,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39177,39177,39177,39177,81,MARTUS,You dropped it...,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39178,39178,39178,39178,82,MARTUS,Officer! You've got a dead prisoner in here! Officer...,11   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39179,39179,39179,39179,83,KEIKO,How'd it go?,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39180,39180,39180,39180,84,KEIKO,Good workout?,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39181,39181,39181,39181,85,O'BRIEN,Medical school. Captain of the team -- at Medical school.,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39182,39182,39182,39182,86,KEIKO,Who are you talking about?,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39183,39183,39183,39183,87,O'BRIEN,Bashir.,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39184,39184,39184,39184,88,KEIKO,You had a game?,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39185,39185,39185,39185,89,O'BRIEN,No. He had a game. I just kind of stumbled around the court for ninety minutes and made a complete ass of myself.,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39186,39186,39186,39186,90,KEIKO,I'm sure he didn't see it that way.,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39187,39187,39187,39187,91,O'BRIEN,"The hell he didn't. That smug look on his face. ""I guess you prefer Old Style rules."" Like I'm some kind of a fossil. In my day, I would've wiped the court with him.",19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39188,39188,39188,39188,92,KEIKO,That's the point. You're not a kid anymore. It's nothing to be ashamed of. People just naturally... slow down.,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39189,39189,39189,39189,93,O'BRIEN,Like molasses in winter. Thanks.,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39190,39190,39190,39190,94,KEIKO,Miles... You're taking this way too seriously.,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39191,39191,39191,39191,95,O'BRIEN,"I'm out of shape, that's all. I need to get my wind back. ""Sector Champion"" my eye. He's vulnerable to every one of my best shots. I just couldn't get them there.",19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39192,39192,39192,39192,96,O'BRIEN,(continuing; with intent) This time...,19   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39193,39193,39193,39193,97,BASHIR,I thought he was going to have a heart attack.,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39194,39194,39194,39194,98,DAX,"Come on, Julian. It couldn't have been that bad.",20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39195,39195,39195,39195,99,BASHIR,"No, really. His face was flushed. I could've taken his pulse just by watching the side of his neck.",20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39196,39196,39196,39196,100,DAX,Then why didn't you stop?,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39197,39197,39197,39197,101,BASHIR,"Don't think I didn't try. After the first game, I said I had an appointment. He ignored me. Then after the second, I said I was getting tired. He didn't believe me.",20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39198,39198,39198,39198,102,BASHIR,Then he broke his racquet and I figured finally. But no. He made me stay there while he went and replicated another one.,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39199,39199,39199,39199,103,DAX,So what finally happened?,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39200,39200,39200,39200,104,BASHIR,"While he was gone, I called my assistant. Told her to call me back after five minutes and say there was an emergency in the Infirmary.",20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39201,39201,39201,39201,105,DAX,That's terrible.,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39202,39202,39202,39202,106,BASHIR,I had no other way out! Otherwise there would have been an emergency -- Chief O'Brien's coronary!,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39203,39203,39203,39203,107,DAX,At least it's all over.,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39204,39204,39204,39204,108,BASHIR,That's just it. This is only the beginning.,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39205,39205,39205,39205,109,BASHIR,The Chief wants a rematch. I'm telling you... it's going to kill him.,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39206,39206,39206,39206,110,DAX,"Honestly, Julian. You're exaggerating. O'Brien's not a day over thirty-eight...",20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39207,39207,39207,39207,111,BASHIR,Too young to die...,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39208,39208,39208,39208,112,BASHIR,"I guess I am overstating the health risk. But that's not the point. The Chief has a lot of pride. And for good reason. I really respect him -- the things he's done, the kind of man he is.",20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39209,39209,39209,39209,113,BASHIR,I don't want to humiliate him...,20   INT. REPLIMAT,REPLIMAT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39210,39210,39210,39210,114,MARTUS,Another winner. What luck...,21   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39211,39211,39211,39211,115,ODO,The Pythron couple has refused to press charges.,21   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39212,39212,39212,39212,116,MARTUS,Of course. Didn't I tell you? They're my friends.,21   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39213,39213,39213,39213,117,ODO,You can go.,21   INT. HOLDING CELL,HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39214,39214,39214,39214,118,QUARK,All right. Double or nothing.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39215,39215,39215,39215,119,ROM,House always takes blue.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39216,39216,39216,39216,120,QUARK,Sorry. The drink's on you.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39217,39217,39217,39217,121,MARTUS,Prosecco.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39218,39218,39218,39218,122,QUARK,"And how do you plan on paying for that? With ""charm?"" perhaps?",23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39219,39219,39219,39219,123,MARTUS,Double or nothing?,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39220,39220,39220,39220,124,QUARK,Double nothing is still nothing.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39221,39221,39221,39221,125,MARTUS,"If I lose, I'll give you this.",23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39222,39222,39222,39222,126,QUARK,House always takes blue.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39223,39223,39223,39223,127,QUARK,Lucky.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39224,39224,39224,39224,128,MARTUS,My luck's running good today.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39225,39225,39225,39225,129,QUARK,"So I heard. Decided not to testify, did they?",23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39226,39226,39226,39226,130,MARTUS,I don't know what you mean.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39227,39227,39227,39227,131,QUARK,No?,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39228,39228,39228,39228,132,QUARK,"The forty-seventh Rule of Acquisition says ""Don't trust a man wearing a better suit than your own."" Either you're a con artist or you're covering up an empty coin purse. I happen to know it's both.",23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39229,39229,39229,39229,133,MARTUS,I suppose we can't all be as successful as you.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39230,39230,39230,39230,134,QUARK,Too true.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39231,39231,39231,39231,135,QUARK,Some kind of game? I've never seen that one before. How do you play?,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39232,39232,39232,39232,136,MARTUS,Just push that key.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39233,39233,39233,39233,137,MARTUS,Too bad.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39234,39234,39234,39234,138,MARTUS,As I said. My luck's running good today.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39235,39235,39235,39235,139,QUARK,Am I supposed to be impressed?,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39236,39236,39236,39236,140,MARTUS,"A little tinkering, some replication and expansion. It might make a nice addition to your casino.",23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39237,39237,39237,39237,141,QUARK,Who would play this? It's a child's toy. (as if getting an idea) My nephew. It might keep him out of my ears for a couple of days.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39238,39238,39238,39238,142,QUARK,I'll take it.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39239,39239,39239,39239,143,MARTUS,That's a tidy sum.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39240,39240,39240,39240,144,QUARK,I'm feeling benevolent today. Have another.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39241,39241,39241,39241,145,MARTUS,I might have accepted. But the offer of the drink... That tells me you're very interested.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39242,39242,39242,39242,146,QUARK,Nonsense. You read too much into nothing. My benevolence is known far and wide.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39243,39243,39243,39243,147,MARTUS,"Oh, it's legendary, I'm sure. I'll take one hundred times what you've got here.",23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39244,39244,39244,39244,148,QUARK,Not in this space-time continuum you won't. Go try to peddle this little triviality down on Bajor. You might be able to trade it for a meal. But it won't be a hot one.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39245,39245,39245,39245,149,MARTUS,You'd be in profit by the end of the week.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39246,39246,39246,39246,150,QUARK,Final offer. Take it before my magnanimity fades.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39247,39247,39247,39247,151,MARTUS,Perhaps I'll hang onto it a bit longer...,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39248,39248,39248,39248,152,QUARK,Suit yourself. But be under no illusions. If I had been serious about acquiring this -- it would be mine. And for substantially less than what you'd hoped for.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39249,39249,39249,39249,153,MARTUS,It seems overconfidence comes in small packages around here.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39250,39250,39250,39250,154,QUARK,My track record speaks for itself. Just like your security file.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39251,39251,39251,39251,155,MARTUS,Thanks for the drink.,23   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39252,39252,39252,39252,156,MARTUS,Times are difficult...,25   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39253,39253,39253,39253,157,ROANA,"Oh, it's not that. Business is good...",25   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39254,39254,39254,39254,158,MARTUS,Then why are you shutting down?,25   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39255,39255,39255,39255,159,ROANA,My husband and I ran this place for nine years. Before that we had a shop on Bajor for seventeen. But he passed away a few months ago. And my heart just isn't in it anymore.,25   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39256,39256,39256,39256,160,MARTUS,"Not the same, is it? Working by yourself...",25   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39257,39257,39257,39257,161,ROANA,No. It's so much nicer to work next to someone else. You understand.,25   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39258,39258,39258,39258,162,BASHIR,Nice shot!,26   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39259,39259,39259,39259,163,BASHIR,Damn.,26   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39260,39260,39260,39260,164,O'BRIEN,"You think I'm stupid, too?",26   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39261,39261,39261,39261,165,BASHIR,What are you talking about?,26   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39262,39262,39262,39262,166,O'BRIEN,"I don't need your charity. Next time, you play your best game or you don't play.",26   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39263,39263,39263,39263,167,QUARK,He can't do this! I have an exclusive contract! I want him arrested!,27   INT. PROMENADE,PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39264,39264,39264,39264,168,ODO,Who are you talking about?,27   INT. PROMENADE,PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39265,39265,39265,39265,169,QUARK,Martus! That... listener.,27   INT. PROMENADE,PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39266,39266,39266,39266,170,ODO,What's he done?,27   INT. PROMENADE,PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39267,39267,39267,39267,171,QUARK,Just look.,27   INT. PROMENADE,PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39268,39268,39268,39268,172,MARTUS,Welcome my friends. Welcome... to Club Martus.,27   INT. PROMENADE,PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39269,39269,39269,39269,173,QUARK,I have a contract! For which I paid considerably. All gambling on DS Nine happens at Quark's -- or it doesn't happen.,31   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39270,39270,39270,39270,174,SISKO,A few bribes to the Cardassians when they ran this place doesn't constitute a contract. Not in the eyes of the Federation.,31   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39271,39271,39271,39271,175,QUARK,He's a con-artist! A crook!,31   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39272,39272,39272,39272,176,SISKO,One more won't make much difference.,31   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39273,39273,39273,39273,177,QUARK,You owe me. You begged me to stay here when you came on board and I did -- against my better judgement.,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39274,39274,39274,39274,178,SISKO,I didn't beg. I blackmailed you. And don't pretend it hasn't paid off for you.,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39275,39275,39275,39275,179,QUARK,It's paid off fine until now! Martus is cutting into my profits. I want him stopped before it gets any worse.,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39276,39276,39276,39276,180,ROM ,"Too late for that, my Brother.",31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39277,39277,39277,39277,181,QUARK,What is the meaning of this?,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39278,39278,39278,39278,182,MARTUS,I've promised your underpaid sibling a quarter partnership in my establishment.,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39279,39279,39279,39279,183,ROM,Make me a better offer.,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39280,39280,39280,39280,184,QUARK,A bidding war? Over you? Don't make me laugh.,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39281,39281,39281,39281,185,QUARK,"Careful, Martus. He shaves the latinum!",31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39282,39282,39282,39282,186,ROM,I do not. Not much...,31A  INT. PROMENADE - MAIN LEVEL,PROMENAD,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39283,39283,39283,39283,187,ALSIA,"Martus, I just got word that the Vlugta government accepted my bid.",34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39284,39284,39284,39284,188,MARTUS,That's wonderful. What's wrong?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39285,39285,39285,39285,189,ALSIA,They won't finalize the transaction unless I commission a study on the effects the asteroid mining will have on intersystem navigation. All my money is committed to the bid. I can't afford the study. And I only have a week to get it done.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39286,39286,39286,39286,190,MARTUS,How much do you need?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39287,39287,39287,39287,191,ALSIA,Ten thousand Vlugtan Isiks.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39288,39288,39288,39288,192,MARTUS,Ten thousand Isiks... It won't be easy to raise that kind of money.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39289,39289,39289,39289,193,ALSIA,I know. I hope I can find an investor in time.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39290,39290,39290,39290,194,MARTUS,I might know someone. But what kind of return could they expect on their investment?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39291,39291,39291,39291,195,ALSIA,"Once I begin mining, I'll pay them ten times ten thousand.",34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39292,39292,39292,39292,196,MARTUS,"Don't worry, Alsia. I'll do everything in my power to keep your dream alive.",34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39293,39293,39293,39293,197,ALSIA,"Martus, I don't know how to thank you.",34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39294,39294,39294,39294,198,MARTUS,"Is there a problem, Rom?",34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39295,39295,39295,39295,199,ROM,Not with this batch... but with my brother around... you can never be too careful.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39296,39296,39296,39296,200,MARTUS,You mean to say he would poison the canapes?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39297,39297,39297,39297,201,ROM,Maybe not poison. But a small intestinal bug... I wouldn't put it past him.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39298,39298,39298,39298,202,MARTUS,Don't worry about Quark. I've been having the most astonishing run of luck lately. I'm beginning to think I can do no wrong...,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39299,39299,39299,39299,203,MARTUS,Neatness counts. Never think it doesn't...,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39300,39300,39300,39300,204,MARTUS,A toast! To the Queen of the Promenade!,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39301,39301,39301,39301,205,MARTUS,A woman whose business acumen is matched only by her beauty and charm. Have I left anything out?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39302,39302,39302,39302,206,MARTUS,"To you, My Treasure...",34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39303,39303,39303,39303,207,MARTUS,Are you as pleased as I am?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39304,39304,39304,39304,208,ROANA,What do you think?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39305,39305,39305,39305,209,MARTUS,I think we make quite a good team. Perhaps we might consider...,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39306,39306,39306,39306,210,MARTUS,... formalizing our relationship...,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39307,39307,39307,39307,211,ROANA,Are you proposing to me?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39308,39308,39308,39308,212,MARTUS,What do you think?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39309,39309,39309,39309,213,ROANA,It's beautiful...,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39310,39310,39310,39310,214,MARTUS,You deserve nothing less...,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39311,39311,39311,39311,215,ROANA,What's that?,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39312,39312,39312,39312,216,MARTUS,Come take a look...,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39313,39313,39313,39313,217,MARTUS,I replicated them from a handheld version a friend gave me.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39314,39314,39314,39314,218,ROANA,I've never seen anything like them.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39315,39315,39315,39315,219,MARTUS,No one has.,34   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39316,39316,39316,39316,220,QUARK,House always takes blue...,39   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39317,39317,39317,39317,221,QUARK,What a surprise.,39   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39318,39318,39318,39318,222,QUARK,House always takes blue.,39   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39319,39319,39319,39319,223,DAX,I don't believe it.,41   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39320,39320,39320,39320,224,KIRA,Believe what?,41   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39321,39321,39321,39321,225,DAX,I've had the computer looking for this program for weeks. It was buried somewhere in the deep code level right before the Cardassians left.,41   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39322,39322,39322,39322,226,KIRA,How'd you find it?,41   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39323,39323,39323,39323,227,DAX,"I'm not sure. It's more like it found me. Just lucky, I guess.",41   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39324,39324,39324,39324,228,BASHIR,I'm so sorry!,42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39325,39325,39325,39325,229,O'BRIEN,What... happened...,42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39326,39326,39326,39326,230,BASHIR,"You served, I returned low, you slipped on the ball...",42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39327,39327,39327,39327,231,O'BRIEN,I slipped on the ball?,42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39328,39328,39328,39328,232,BASHIR,Stepped right on it in mid-flight. Never seen anything like it.,42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39329,39329,39329,39329,233,BASHIR,Easy. I want to check you out...,42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39330,39330,39330,39330,234,O'BRIEN,I'm fine. Serve.,42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39331,39331,39331,39331,235,COM,"Doctor Bashir, report to the Infirmary.",42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39332,39332,39332,39332,236,BASHIR,"Sorry, Chief. Have to go.",42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39333,39333,39333,39333,237,O'BRIEN,I'll get you next time.,42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39334,39334,39334,39334,238,BASHIR,"Look, about that... It's just that... I guess I don't enjoy the game as much as I used to. I hope you don't mind... but I'm sure you can find another opponent.",42   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39335,39335,39335,39335,239,O'BRIEN,Where is everybody?,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39336,39336,39336,39336,240,QUARK,My friendly competitor's place. (serves O'Brien a drink) A Listener. So what? So he listens. I can listen. I can listen as well as anyone.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39337,39337,39337,39337,241,QUARK,What happened?,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39338,39338,39338,39338,242,O'BRIEN,I fell down.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39339,39339,39339,39339,243,QUARK,See. I'm listening. Nothing to it. How did you fall down?,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39340,39340,39340,39340,244,O'BRIEN,Playing racquetball with Bashir.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39341,39341,39341,39341,245,QUARK,Where?,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39342,39342,39342,39342,246,O'BRIEN,On the court -- where do you think?,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39343,39343,39343,39343,247,QUARK,What was the score?,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39344,39344,39344,39344,248,O'BRIEN,Who cares?,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39345,39345,39345,39345,249,QUARK,I care. I'm listening. Tell me your problems. All of them.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39346,39346,39346,39346,250,O'BRIEN,I've got no problems a good drop shot wouldn't cure.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39347,39347,39347,39347,251,QUARK,He beat you.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39348,39348,39348,39348,252,O'BRIEN,By half a step! That's all. He's got a few years on me -- so what? I've got more experience...,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39349,39349,39349,39349,253,QUARK,The aging champion...,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39350,39350,39350,39350,254,O'BRIEN,I've got spin shots he's never even seen...,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39351,39351,39351,39351,255,QUARK,Versus the daring challenger...,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39352,39352,39352,39352,256,O'BRIEN,So I had some bad breaks. One more game. That's all I needed.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39353,39353,39353,39353,257,QUARK,"Come one, come all...",44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39354,39354,39354,39354,258,O'BRIEN,I'd've kicked him all over the court.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39355,39355,39355,39355,259,QUARK,Welcome to Quark's...,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39356,39356,39356,39356,260,O'BRIEN,Thanks.,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39357,39357,39357,39357,261,QUARK,Quark's House of Champions...,44   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39358,39358,39358,39358,262,KIRA,Damn.,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39359,39359,39359,39359,263,SISKO,"Something wrong, Major.",45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39360,39360,39360,39360,264,KIRA,My terminal just... self-destructed.,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39361,39361,39361,39361,265,DAX,What?,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39362,39362,39362,39362,266,KIRA,I lost an evaluation report I've been working on for weeks.,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39363,39363,39363,39363,267,DAX,Even the backups?,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39364,39364,39364,39364,268,KIRA,Even the backups.,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39365,39365,39365,39365,269,SISKO,"Funny, I've been hearing a lot of bad luck stories in the last few hours. Doctor Bashir tells me the Infirmary is full of minor accidents. People slipping and falling, walking into turbolift doors before they open, that kind of thing.",45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39366,39366,39366,39366,270,DAX,Well I've had a great day. So don't try to send your misfortunes over here.,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39367,39367,39367,39367,271,KIRA,Come on. We make our own luck. We all know that.,45   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39368,39368,39368,39368,272,MARTUS,They all hit jackpots at once? Is there any way I can blame this on you?,46   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39369,39369,39369,39369,273,ROM,I don't think so.,46   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39370,39370,39370,39370,274,MARTUS,No. I suppose not. Pay them off.,46   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39371,39371,39371,39371,275,QUARK,"""Challenge of the Galaxy."" ""Match of the Century."" ""Wonder of the Wormhole.""",48   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39372,39372,39372,39372,276,QUARK,House always takes blue...,48   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39373,39373,39373,39373,277,QUARK,"If it's action you want, you've come to the right place. Excitement... we have it here! Thrills and spills. Victory and defeat. Look no further. We've got it all...",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39374,39374,39374,39374,278,QUARK,"Here he is. The reigning champion of Starfleet... A legend on both sides of the wormhole... Ladies and Gentlemen... Miles ""The Mechanic"" O'Brien!",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39375,39375,39375,39375,279,O'BRIEN,What's this all about? I got an emergency call.,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39376,39376,39376,39376,280,BASHIR,So did I. But I don't see any emergency.,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39377,39377,39377,39377,281,QUARK,"And the challenger... He's fast, he's deadly. He's Julian Bashir. They call him The Doctor! The grudge match of the galaxy...",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39378,39378,39378,39378,282,O'BRIEN,Get down from there!,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39379,39379,39379,39379,283,QUARK,And all... For a worthy cause.,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39380,39380,39380,39380,284,QUARK,"Yes, these noble competitors have insisted I donate half the house's winnings to the Bajoran Fund for Orphans.",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39381,39381,39381,39381,285,O'BRIEN,Orphans?,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39382,39382,39382,39382,286,QUARK,The Mechanic versus the Doctor. Tomorrow. Twelve hundred hours. And only one will emerge victorious. So place your bets. And in the meantime... (indicates gambling tables) The tables are open...,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39383,39383,39383,39383,287,BASHIR,"Quark, this is outrageous. We haven't agreed to anything.",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39384,39384,39384,39384,288,QUARK,"As your exclusive promoter, I have the right to arrange matches as I see fit.",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39385,39385,39385,39385,289,BASHIR,Exclusive Promoter?,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39386,39386,39386,39386,290,QUARK,Just sign here.,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39387,39387,39387,39387,291,BASHIR,"Forget it, Quark.",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39388,39388,39388,39388,292,QUARK,"I understand how you feel, but... think of the children. The monks have already made a down payment on new blankets for the winter. Ah well, I'm sure the little ones can huddle together for warmth...",51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39389,39389,39389,39389,293,BASHIR,Looks like you're going to get that rematch after all.,51   INT. QUARK'S,QUARK'S,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39390,39390,39390,39390,294,DAX,I don't believe it. The program I found... It... disappeared.,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39391,39391,39391,39391,295,SISKO,Have you checked the deep code level?,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39392,39392,39392,39392,296,DAX,"No luck. It's funny, it's almost like the computer brought that program up at random... then just swallowed it again.",57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39393,39393,39393,39393,297,SISKO,Major -- you're all right.,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39394,39394,39394,39394,298,KIRA,Not even a sprain. But that's more than I can say for everybody else in the Infirmary.,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39395,39395,39395,39395,299,SISKO,Still crowded?,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39396,39396,39396,39396,300,KIRA,Yeah. But Doctor Bashir tells me it's a whole new batch.,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39397,39397,39397,39397,301,SISKO,More minor accidents?,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39398,39398,39398,39398,302,DAX,Could there be a connection between the accidents and the increase in system failures?,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39399,39399,39399,39399,303,KIRA,"I wasn't hurt by a system failure. I tripped and fell. Just coincidence, that's all.",57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39400,39400,39400,39400,304,SISKO,There must be a logical explanation for all this... maybe a virus... or some kind of spatial disruption?,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39401,39401,39401,39401,305,DAX,It would have to be something that effects both people and machinery.,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39402,39402,39402,39402,306,SISKO,Get on it.,57   INT. OPS,OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39403,39403,39403,39403,307,ROM,I always had smaller lobes than the rest of the boys. They used to tease me about it. Quark was the worst. He told everyone I was adopted...,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39404,39404,39404,39404,308,MARTUS,I just don't understand. Things were going so well...,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39405,39405,39405,39405,309,ROM,"On my naming day, Quark substituted old vegetables for my presents. Then he sold the presents for more than our father had paid for them.",59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39406,39406,39406,39406,310,MARTUS,I couldn't care less about your trivial childhood. We've been virtually abandoned. I want to know why.,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39407,39407,39407,39407,311,ROM,A bad streak. It happens.,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39408,39408,39408,39408,312,MARTUS,Not to me it doesn't.,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39409,39409,39409,39409,313,MARTUS,I require the comfort of a compassionate soul.,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39410,39410,39410,39410,314,ROANA,Don't think I didn't see through you from the very start.,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39411,39411,39411,39411,315,MARTUS,A joke! Really.,59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39412,39412,39412,39412,316,ROANA,"In case you've forgotten, I still hold the lease on this place. I want you out of here by tomorrow.",59   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39413,39413,39413,39413,317,MARTUS,But Treasure...,59A  INT. PROMENADE (OUTSIDE CLUB MARTUS),PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39414,39414,39414,39414,318,ROM,"Oh, I knew no good would come of this. I never should've left Quark. What's going to happen now?",59A  INT. PROMENADE (OUTSIDE CLUB MARTUS),PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39415,39415,39415,39415,319,MARTUS,I'm not sure. But I have an idea.,59A  INT. PROMENADE (OUTSIDE CLUB MARTUS),PROMENADE,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39416,39416,39416,39416,320,MARTUS,The profits from the club... I believe it comes to just about ten thousand Isiks.,60C  INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39417,39417,39417,39417,321,ALSIA,"Oh, Martus!",60C  INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39418,39418,39418,39418,322,ALSIA,You don't know how much this means to me.,60C  INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39419,39419,39419,39419,323,MARTUS,I know what it means to me... ten times as much in return.,60C  INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39420,39420,39420,39420,324,ALSIA,You won't regret this. You'll see. We'll both be rich.,60C  INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39421,39421,39421,39421,325,O'BRIEN,You can beat his backhand. Keep the ball low and to his left.,62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39422,39422,39422,39422,326,O'BRIEN,"Corner return on the serve, then kill shot left.",62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39423,39423,39423,39423,327,O'BRIEN,If he returns again... high back wall...,62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39424,39424,39424,39424,328,O'BRIEN,And remember --,62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39425,39425,39425,39425,329,KEIKO,-- Win or lose... Tonight we celebrate.,62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.8176
+39426,39426,39426,39426,330,KEIKO,"Miles, wait.",62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39427,39427,39427,39427,331,KEIKO,A silk handkerchief... medieval Japanese design. Scented with my perfume.,62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39428,39428,39428,39428,332,KEIKO,Kick his butt.,62   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39429,39429,39429,39429,333,QUARK,"Doctor... I brought you something, a token of thanks from the monks... to show how much they appreciate your participation in their little fundraiser.",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39430,39430,39430,39430,334,BASHIR,Thanks. Put it over there.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39431,39431,39431,39431,335,QUARK,Aren't you going to try some?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39432,39432,39432,39432,336,BASHIR,What is it?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39433,39433,39433,39433,337,QUARK,The monks tell me it's a medicinal brew... an ancient secret of their order. It's supposed to impart great energy and vigor... Just the kind of thing to have before an athletic competition.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39434,39434,39434,39434,338,QUARK,But you're a man of science. You probably don't believe in folk medicine.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39435,39435,39435,39435,339,BASHIR,"Actually, you'd be surprised how often traditional medicine turns out to have genuine value.",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39436,39436,39436,39436,340,BASHIR,What did they say was in this stuff?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39437,39437,39437,39437,341,QUARK,"They didn't, exactly. But I'm sure it's all completely natural.",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39438,39438,39438,39438,342,QUARK,The monks said you should drink the whole thing in one gulp in order to get the proper effect.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39439,39439,39439,39439,343,BASHIR,Did they?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39440,39440,39440,39440,344,QUARK,What are you doing?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39441,39441,39441,39441,345,BASHIR,Just curious about its contents.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39442,39442,39442,39442,346,QUARK,But what about your exercises?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39443,39443,39443,39443,347,BASHIR,This will only take a second.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39444,39444,39444,39444,348,QUARK,Why bother? Don't you trust the monks?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39445,39445,39445,39445,349,BASHIR,Water... Sucrose... Dextrose... tribnel root extract... grain particulates... Yeast... synthahol... And almost seventeen milligrams of hyvroxilated quint-ethyl metacetamin.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39446,39446,39446,39446,350,QUARK,Like I said... all natural.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39447,39447,39447,39447,351,BASHIR,"It's an anesthetic. If I drank this, I'd barely be able to stand, let alone play racquetball. You were trying to fix the match.",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39448,39448,39448,39448,352,QUARK,Would I do that?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39449,39449,39449,39449,353,BASHIR,You would if you had enough latinum bet on Chief O'Brien...,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39450,39450,39450,39450,354,QUARK,"No one's betting on Chief O'Brien. All the money's on you. If you win, there won't be any profits. And if there aren't any profits, I can't donate anything to the monks. No donations... no winter blankets for the children. But if you lose, then the house would win, and the monks would get their blankets.",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39451,39451,39451,39451,355,BASHIR,Are you suggesting that I throw the match?,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39452,39452,39452,39452,356,QUARK,For the children.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39453,39453,39453,39453,357,BASHIR,"Forget it, Quark.",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39454,39454,39454,39454,358,QUARK,But the blankets...,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39455,39455,39455,39455,359,BASHIR,"Will be provided by you one way or another. Because if the monks don't get their blankets, Chief O'Brien and I will be very upset. Is that clear?",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39456,39456,39456,39456,360,QUARK,Perfectly.,64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39457,39457,39457,39457,361,BASHIR,"Now, if you'll excuse me... I have a match to play.",64A  INT. INFIRMARY,INFIRMARY,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39458,39458,39458,39458,362,SISKO,Kira said you'd found something.,65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39459,39459,39459,39459,363,DAX,"Oh, I found something all right. I just don't know what it means. Look at this.",65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39460,39460,39460,39460,364,SISKO,Solar neutrinos.,65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39461,39461,39461,39461,365,DAX,Notice anything unusual?,65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39462,39462,39462,39462,366,KIRA,There're a lot of them?,65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39463,39463,39463,39463,367,DAX,"The spin. Given the laws of probability, from any given point of view, about half of them should be spinning clockwise and half of them counterclockwise. (brings up more information) But over eighty percent of them are spinning clockwise.",65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39464,39464,39464,39464,368,KIRA,You think people are having accidents because of the way the neutrinos are spinning?,65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39465,39465,39465,39465,369,DAX,"No, but I think it may be a symptom of the same problem. The neutrinos outside the station are normal, but inside... Something very strange is going on here.",65   INT. OPS (VPB),OPS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39466,39466,39466,39466,370,O'BRIEN,"Have a good game, Julian.",68   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39467,39467,39467,39467,371,BASHIR,You too.,68   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39468,39468,39468,39468,372,QUARK,"First point, O'Brien, breaking the serve... So it begins...",69   INT. QUARK'S - CONTINUOUS (OPTICAL),QUARK'S - CONTINUOUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39469,39469,39469,39469,373,QUARK,"Two-zero, O'Brien. Not a rousing start for The Doctor...",71   INT. QUARK'S - CONTINUOUS,QUARK',INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39470,39470,39470,39470,374,MARTUS,Where is she?,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39471,39471,39471,39471,375,ROM,Who?,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39472,39472,39472,39472,376,MARTUS,Alsia. She was supposed to meet me here and tell me how the bid went.,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39473,39473,39473,39473,377,ROM,I still don't think it's fair. You investing my money without asking.,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39474,39474,39474,39474,378,MARTUS,Your money?,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39475,39475,39475,39475,379,ROM,You promised me one quarter of the profits. But then you gave her everything we earned.,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39476,39476,39476,39476,380,MARTUS,I promised you a quarter of the profits after expenses.,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39477,39477,39477,39477,381,ROM,Expenses? What expenses?,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39478,39478,39478,39478,382,MARTUS,"Operating costs, overhead, recapitalization...",72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39479,39479,39479,39479,383,ROM,That does it.,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39480,39480,39480,39480,384,MARTUS,Where are you going?,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39481,39481,39481,39481,385,ROM,Back to Quark. At least that way I'll get cheated by family.,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39482,39482,39482,39482,386,ROM,Let's get out of here.,72   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39483,39483,39483,39483,387,QUARK,"Another bad break for Bashir. Nine- three, O'Brien.",74   INT. QUARK'S - CONTINUOUS (OPTICAL),QUARK'S - CONTINUOUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39484,39484,39484,39484,388,O'BRIEN,Quark. I'm cutting the transmission.,75   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39485,39485,39485,39485,389,QUARK,What? You can't.,76   INT. QUARK'S - CONTINUOUS (OPTICAL),QUARK'S - CONTINUOUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39486,39486,39486,39486,390,O'BRIEN,Watch me.,76   INT. QUARK'S - CONTINUOUS (OPTICAL),QUARK'S - CONTINUOUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39487,39487,39487,39487,391,QUARK,The players have called a three minute break! Betting is reopened! Three minutes only! Three minutes only!,76   INT. QUARK'S - CONTINUOUS (OPTICAL),QUARK'S - CONTINUOUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39488,39488,39488,39488,392,BASHIR,Why did you do that?,77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39489,39489,39489,39489,393,O'BRIEN,Something's wrong here.,77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39490,39490,39490,39490,394,BASHIR,With me maybe. But you're playing a great game.,77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39491,39491,39491,39491,395,O'BRIEN,"The best I've played in my entire life. I'm making shots I couldn't make fifteen years ago. When I was playing five hours a day, every day. I can't miss.",77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39492,39492,39492,39492,396,BASHIR,And I can't hit the broad side of a Plygorian Mammoth.,77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39493,39493,39493,39493,397,O'BRIEN,Try throwing it against the wall.,77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39494,39494,39494,39494,398,BASHIR,It should have come straight back to me. (O'Brien picks up the ball) You try.,77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39495,39495,39495,39495,399,O'BRIEN,O'Brien to Ops.,77   INT. RACQUETBALL COURT - CONTINUOUS,RACQUETBALL COUR,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39496,39496,39496,39496,400,BASHIR,It goes right to his hand. Every single time.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39497,39497,39497,39497,401,O'BRIEN,I must've done it a dozen times by now. And I haven't missed once yet.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39498,39498,39498,39498,402,BASHIR,Nobody can be that lucky. It's impossible.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39499,39499,39499,39499,403,DAX,Not impossible. Just extremely improbable.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39500,39500,39500,39500,404,O'BRIEN,Improbable?,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39501,39501,39501,39501,405,SISKO,Like the neutrinos on the station spinning the same way. Or a few dozen people having minor accidents at the same instant. Or a system failing at just the wrong time.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39502,39502,39502,39502,406,DAX,Exactly. Someone or something on this station is distorting the laws of probability.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39503,39503,39503,39503,407,SISKO,Changing them so that incredibly unlikely things can happen on a regular basis.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39504,39504,39504,39504,408,O'BRIEN,How can we find out what's causing it?,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39505,39505,39505,39505,409,DAX,I think I know a way.,82   INT. RACQUETBALL COURT,RACQUETBALL COURT,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39506,39506,39506,39506,410,DAX,Ninety-eight percent of the neutrinos in this room are rotating clockwise.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39507,39507,39507,39507,411,MARTUS,The games are open...,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39508,39508,39508,39508,412,SISKO,We're not here to play. Dax?,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39509,39509,39509,39509,413,DAX,One hundred percent clockwise. (puts away her tricorder) It's these machines.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39510,39510,39510,39510,414,MARTUS,My gambling machines? What's wrong with them.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39511,39511,39511,39511,415,DAX,Somehow these machines are altering the laws of probability all over the station.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39512,39512,39512,39512,416,MARTUS,So that's what he meant.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39513,39513,39513,39513,417,SISKO,Who?,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39514,39514,39514,39514,418,MARTUS,"The alien who gave me the original... He said that it all came down to luck. That must be how it works. When you win, it makes you lucky, and when you lose...",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39515,39515,39515,39515,419,DAX,"But these machines are effecting everyone on the station, whether they play them or not.",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39516,39516,39516,39516,420,MARTUS,(trying to dodge responsibility) Impossible. You must be mistaken.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39517,39517,39517,39517,421,SISKO,Wait a minute. You said there was an original machine?,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39518,39518,39518,39518,422,MARTUS,"Yes, a smaller one. When I opened the club I replicated these larger versions...",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39519,39519,39519,39519,423,SISKO,Larger versions.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39520,39520,39520,39520,424,SISKO,How do you turn them off?,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39521,39521,39521,39521,425,MARTUS,I'm not completely sure.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39522,39522,39522,39522,426,SISKO,Then how did you turn them on in the first place?,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39523,39523,39523,39523,427,MARTUS,"(realizing he's blown it bad) I didn't, exactly. I just... told the replicator to scan the original and make copies. I think they have some kind of internal power source.",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39524,39524,39524,39524,428,SISKO,Lieutenant.,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39525,39525,39525,39525,429,MARTUS,Wait... what are you doing?,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39526,39526,39526,39526,430,SISKO,Now... as for you...,83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39527,39527,39527,39527,431,MARTUS,"You can't possibly blame me for this, Commander.",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39528,39528,39528,39528,432,SISKO,"I'd like to. Unfortunately, I don't have anything I can charge you with.",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39529,39529,39529,39529,433,ODO ,"Fortunately, I do.",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39530,39530,39530,39530,434,ODO,"That elderly Pythron couple you ""assisted"" has had a change of heart. They've decided to press charges after all.",83   INT. CLUB MARTUS,CLUB MARTUS,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39531,39531,39531,39531,435,MARTUS,Alsia. I knew you'd come to get me out.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39532,39532,39532,39532,436,ODO,Inside.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39533,39533,39533,39533,437,MARTUS,What's the meaning of this.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39534,39534,39534,39534,438,ODO,Ask him.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39535,39535,39535,39535,439,QUARK,Your lady friend over there just tried to scam me.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39536,39536,39536,39536,440,MARTUS,Scam?,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39537,39537,39537,39537,441,QUARK,"Asteroid mining. To think anyone would be foolish enough to be taken in by that old trick. But don't worry, Martus, I've come to get you out.",86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39538,39538,39538,39538,442,MARTUS,In return for what?,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39539,39539,39539,39539,443,QUARK,Nothing. Pure generosity.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39540,39540,39540,39540,444,MARTUS,"You're enjoying this, aren't you?",86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39541,39541,39541,39541,445,QUARK,Taken in by one of your own victims. And no one to turn to but me. I can't remember when I've been so... entertained.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39542,39542,39542,39542,446,MARTUS,I'm glad you're enjoying yourself. Now how about giving me two thousand Isiks so I can book passage off the station.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39543,39543,39543,39543,447,QUARK,-- You want me to give you money? Ridiculous. Of all the ungrateful arrogance.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39544,39544,39544,39544,448,MARTUS,Unless you want me to stay here on the station.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39545,39545,39545,39545,449,QUARK,All right. I'll loan you five hundred Isiks. You can book passage on a cargo ship.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39546,39546,39546,39546,450,MARTUS,"Fifteen hundred. After all, I do have expenses.",86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39547,39547,39547,39547,451,QUARK,Six hundred.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39548,39548,39548,39548,452,MARTUS,Twelve hundred. I still have my dignity.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39549,39549,39549,39549,453,QUARK,"""Dignity and an empty sack is worth the sack."" Rule of Acquisition number one hundred nine.",86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39550,39550,39550,39550,454,MARTUS,All right. Eight hundred.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39551,39551,39551,39551,455,QUARK,Go on... I'm listening.,86   INT. HOLDING CELL (OPTICAL),HOLDING CELL,INT.,Rivals,1993-10-18,Deep Space Nine,431.txt,0.0
+39552,39552,39552,39552,0,KIRA,"We never cared what we did, as long as it annoyed the grown-ups... ... All inner deflector shield sub- systems are showing equal intensity.",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39553,39553,39553,39553,1,DAX,"Power balance levels are reading normal... ... I was a champion window breaker. On a dark night with a few rocks, I was deadly.",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39554,39554,39554,39554,2,KIRA,"Uh... which ""you"" are you talking about?",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39555,39555,39555,39555,3,DAX,We're being hailed by an incoming freighter.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39556,39556,39556,39556,4,KIRA,Open a channel. On screen.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39557,39557,39557,39557,5,KIRA,Welcome to DS Nine; I'm Major Kira Nerys.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39558,39558,39558,39558,6,CAPTAIN,"This is the Kobheerian freighter Rak- Miunis, requesting permission to dock.",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39559,39559,39559,39559,7,KIRA,Docking Port Six is clear for approach.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39560,39560,39560,39560,8,CAPTAIN,Thank you. We have a passenger on board requiring medical assistance.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39561,39561,39561,39561,9,SISKO,Can you tell us what's wrong with your passenger?,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39562,39562,39562,39562,10,CAPTAIN,"He says it's a condition called Kalla- Nohra. It's apparently chronic, but he doesn't have his medication.",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39563,39563,39563,39563,11,SISKO,Beam him directly to our Infirmary.. we'll have our doctor standing by.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39564,39564,39564,39564,12,CAPTAIN,"Thank you, Commander. Rak-Miunis out.",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39565,39565,39565,39565,13,DAX ,Dax to Infirmary.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39566,39566,39566,39566,14,BASHIR,This is Bashir; go ahead.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39567,39567,39567,39567,15,DAX,A Kobheerian transport's about to beam a patient to you. He's suffering from something called Kalla-Nohra.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39568,39568,39568,39568,16,BASHIR,I'm not aware of it... I'll check the computer.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39569,39569,39569,39569,17,KIRA,"Commander, I'd like to go down to the Infirmary and meet that patient.",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39570,39570,39570,39570,18,SISKO,Of course... Why?,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39571,39571,39571,39571,19,KIRA,The only cases of Kalla-Nohra I know of were the result of a mining accident at a Bajoran forced labor camp I helped liberate. The survivors of Gallitep have always been a symbol to us of strength and courage.,2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39572,39572,39572,39572,20,SISKO,"By all means, Major, take as long as you want.",2    INT. OPS - FAVORING KIRA & DAX,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39573,39573,39573,39573,21,BASHIR,"Ah, Major. I'll be right with you.",10   INT. INFIRMARY (CONTINUOUS),INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39574,39574,39574,39574,22,KIRA,Kira to Odo... I'm in the Infirmary. I need security here on the double.,10   INT. INFIRMARY (CONTINUOUS),INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39575,39575,39575,39575,23,BASHIR,"What's the matter, Major.",13   INT. INFIRMARY (CONTINUOUS),INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39576,39576,39576,39576,24,KIRA,Your patient is a criminal.,13   INT. INFIRMARY (CONTINUOUS),INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39577,39577,39577,39577,25,ODO,Good afternoon.,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39578,39578,39578,39578,26,ODO,I assume this is the problem?,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39579,39579,39579,39579,27,KIRA,Lock him up.,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39580,39580,39580,39580,28,MARRITZA,This is outrageous! On what charge!,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39581,39581,39581,39581,29,BASHIR,Will someone tell me what's going on? This man needs medical care!,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39582,39582,39582,39582,30,KIRA,Then give it to him.,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39583,39583,39583,39583,31,KIRA,In his cell.,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39584,39584,39584,39584,32,MARRITZA,But I haven't done anything!,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39585,39585,39585,39585,33,ODO,Then why did you run?,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39586,39586,39586,39586,34,MARRITZA,I was trying to get away from this Bajoran fanatic. Look at the hate in her eyes. She'd like to kill me.,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39587,39587,39587,39587,35,ODO,Oh? And why would that be?,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39588,39588,39588,39588,36,MARRITZA,It's obvious. I'm a Cardassian.,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39589,39589,39589,39589,37,KIRA,This one's not just any Cardassian. He's a war criminal.,14   INT. PROMENADE OUTSIDE INFIRMARY (CONTINUOUS),PROMENADE OUTSIDE INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39590,39590,39590,39590,38,ODO,Marritza. Aamin Marritza.,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39591,39591,39591,39591,39,SISKO,You're saying Marritza's on the Bajoran's list of Cardassians wanted for war crimes?,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39592,39592,39592,39592,40,ODO,"He's not on any list I've seen, Commander; and I've got them all.",17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39593,39593,39593,39593,41,KIRA,I don't care if he's listed or not...,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39594,39594,39594,39594,42,SISKO,"Now hold it, Major. Marritza's traveling on a Federation ship. He comes here for a medical emergency, and we throw him into a security cell. I, for one, hope he's listed.",17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39595,39595,39595,39595,43,KIRA,"Commander, I know what I've done isn't exactly policy. It may not even be legal. But it's right.",17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39596,39596,39596,39596,44,SISKO,"Okay, Major; what do we charge him with?",17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39597,39597,39597,39597,45,KIRA,I'm charging him with having contracted Kalla-Nohra.,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39598,39598,39598,39598,46,SISKO,Do you want to explain that to me?,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39599,39599,39599,39599,47,KIRA,The only way he could have contracted that condition was to have served at the Gallitep labor camp at the time of the mining accident.,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39600,39600,39600,39600,48,SISKO,And that makes him a war criminal. Just being there?,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39601,39601,39601,39601,49,KIRA,"Commander, if you had been there twelve years ago when we liberated the camp... If you had seen the things I saw... All those Bajoran bodies... starved, brutalized. D'you know what Cardassian policy was? I don't mean just the murder. Murder was only the end of the fun for them. First came the humiliation... the rape of mothers in front of their children... Husbands beaten till their wives couldn't recognize them... Old people buried alive because they couldn't work anymore...",17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39602,39602,39602,39602,50,SISKO,I think I'll have a talk with our guest.,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39603,39603,39603,39603,51,KIRA,I'll come with you.,17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39604,39604,39604,39604,52,SISKO,"No, Major. It'd be better if I spoke to him alone.",17   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39605,39605,39605,39605,53,SISKO,How do you feel?,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39606,39606,39606,39606,54,MARRITZA,"Better, thank you.",18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39607,39607,39607,39607,55,SISKO,I'm Benjamin Sisko; I'm in charge of this station.,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39608,39608,39608,39608,56,MARRITZA,Ah; finally. The Federation to the rescue. You are going to let me out of here...,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39609,39609,39609,39609,57,SISKO,I hope so. Tell me. How did you contract Kalla-Nohra syndrome?,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39610,39610,39610,39610,58,MARRITZA,I don't have Kalla-Nohra. I have Pottrik Syndrome.,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39611,39611,39611,39611,59,SISKO,The freighter captain told us it was Kalla-Nohra.,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39612,39612,39612,39612,60,MARRITZA,"Ah. The two conditions are very similar; same medication, as a matter of fact.",18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39613,39613,39613,39613,61,SISKO,Then you didn't serve at the Gallitep labor camp?,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39614,39614,39614,39614,62,MARRITZA,Labor camp. I've never even been to Bajor. I served as a military file clerk.,18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39615,39615,39615,39615,63,MARRITZA,"I now reside on Kora Two, where I boarded the freighter which, unfortunately for me, came here. Now, Commander, if you have no further questions, I'd like to be on my way.",18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39616,39616,39616,39616,64,KAINON,"Am I still drunk, or am I in jail with a Cardassian? Odo! You're not keeping me in here with... ... one of those! Odo!",18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39617,39617,39617,39617,65,MARRITZA,"I put myself in your hands, Commander.",18   INT. HOLDING CELL AREA (CELLS #1 & #2) (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39618,39618,39618,39618,66,SISKO,Let me get this straight. You're saying that Marritza does have Kalla- Norha?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39619,39619,39619,39619,67,BASHIR,"There's no doubt about it. He has all the symptoms. And when I ran a lower pulmonary bio-probe, it read positive.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39620,39620,39620,39620,68,SISKO,And you're sure he doesn't have Pottrik Syndrome.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39621,39621,39621,39621,69,BASHIR,"Absolutely. If he had Pottrik's, the bio-probe would've been negative.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39622,39622,39622,39622,70,SISKO,Then he was at the Gallitep labor camp.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39623,39623,39623,39623,71,BASHIR,"Definitely. I've cross-checked all Bajoran and Federation medical records, and there's simply no other way he could've gotten that condition.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39624,39624,39624,39624,72,KIRA,Kira to Sisko.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39625,39625,39625,39625,73,SISKO,"Yes, Major.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39626,39626,39626,39626,74,KIRA,"Commander, there's an incoming transmission for you from Bajor. It's the Minister of State.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39627,39627,39627,39627,75,SISKO,"Thank you. If you'll excuse me, Doctor.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39628,39628,39628,39628,76,SISKO,"Minister Kaval. Good day, Sir.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39629,39629,39629,39629,77,KAVAL,"And to you, Commander. I trust you're in good health; things are going well on the station... ?",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39630,39630,39630,39630,78,SISKO,"Quite well, thank you.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39631,39631,39631,39631,79,KAVAL,That's wonderful. I'm told you've performed a special service for Bajor today. Congratulations to you.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39632,39632,39632,39632,80,SISKO,I don't quite follow.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39633,39633,39633,39633,81,SISKO,We are holding a Cardassian... temporarily.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39634,39634,39634,39634,82,KAVAL,"By ""temporarily,"" you mean until you're satisfied that a verified identification has been made.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39635,39635,39635,39635,83,SISKO,"Minister, I'm not sure we have the grounds to hold him that long.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39636,39636,39636,39636,84,KAVAL,"I fully understand your concerns, Commander, but... ... since our Major Kira's accepted responsibility in this matter, the burden is off your shoulders.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39637,39637,39637,39637,85,SISKO,I don't agree.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39638,39638,39638,39638,86,KAVAL,"Commander, if this Marritza was at Gallitep, we want him, and we will have him. Is that clear?",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39639,39639,39639,39639,87,SISKO,It is.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39640,39640,39640,39640,88,KAVAL,"Good. We'll chat again soon. Good day, Commander.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39641,39641,39641,39641,89,SISKO,May I join you?,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39642,39642,39642,39642,90,KIRA,"Actually, I was just about to pay a visit to our friend Marritza.",22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39643,39643,39643,39643,91,SISKO,"That's what I wanted to talk to you about, Major. I'd like Odo to handle this investigation.",22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39644,39644,39644,39644,92,KIRA,Why?,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39645,39645,39645,39645,93,SISKO,He's our Chief of Security.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39646,39646,39646,39646,94,KIRA,Minister Kaval put me in charge.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39647,39647,39647,39647,95,SISKO,Minister Kaval doesn't run this station.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39648,39648,39648,39648,96,KIRA,And the Federation's got no right telling us how to deal with our criminals.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.7096
+39649,39649,39649,39649,97,SISKO,"If it turns out he is a criminal, he'll be yours and you're welcome to him. Until then, he's just a traveler under suspicion.",22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.4588
+39650,39650,39650,39650,98,KIRA,"You think this is all some personal vendetta on my part, don't you?",22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39651,39651,39651,39651,99,SISKO,"I think you're too close to be objective, yes.",22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39652,39652,39652,39652,100,KIRA,"You're right; I'm not objective. But I'm your first officer, and I give you my word that I'll conduct myself accordingly.",22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39653,39653,39653,39653,101,KIRA,You once said we were friends. I'm asking you now as a friend. Please let me conduct this investigation. I owe it to them.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39654,39654,39654,39654,102,SISKO,You mean the victims.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39655,39655,39655,39655,103,KIRA,That's right; the ones who moved too slowly and never moved again... I'm asking for all the Bajorans who can't ask... Let a Bajoran do this.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39656,39656,39656,39656,104,SISKO,Sisko to Odo.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39657,39657,39657,39657,105,ODO,Go ahead.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39658,39658,39658,39658,106,SISKO,Constable; Major Kira will be in charge of the Marritza investigation.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39659,39659,39659,39659,107,ODO,I understand.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39660,39660,39660,39660,108,SISKO,Sisko out.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39661,39661,39661,39661,109,KIRA,Thank you.,22   INT. REPLIMAT - SISKO & KIRA,REPLIMA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39662,39662,39662,39662,110,KIRA,Constable...,23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39663,39663,39663,39663,111,KAINON,It's about time you let me out.,23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39664,39664,39664,39664,112,ODO,"Try to stay out of trouble for a day or two, will you?",23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39665,39665,39665,39665,113,KAINON,"I'll do my best. Oh, and Odo... let me know when you hang the Cardassian.",23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39666,39666,39666,39666,114,ODO,"I've begun a background check on Marritza. So far he is what he says he is. He boarded that Kobheerian freighter at Kora Two, where he's worked as an instructor at a military academy for the past five years.",23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39667,39667,39667,39667,115,KIRA,Keep looking.,23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39668,39668,39668,39668,116,ODO,"Don't worry, Major; I intend to.",23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39669,39669,39669,39669,117,KIRA,I'll be with the prisoner if you need me.,23   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39670,39670,39670,39670,118,MARRITZA,"My compliments on your replicators, Major; though this sem'hal stew could use some yamok sauce.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39671,39671,39671,39671,119,KIRA,I'm glad you're enjoying it.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39672,39672,39672,39672,120,MARRITZA,"Oh, I doubt that, Major; I doubt that very much.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39673,39673,39673,39673,121,KIRA,I hope it won't disturb your dinner if I ask you a few questions.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39674,39674,39674,39674,122,MARRITZA,And if I refuse?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39675,39675,39675,39675,123,KIRA,I'll ask them anyway.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39676,39676,39676,39676,124,MARRITZA,"Yes, of course.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39677,39677,39677,39677,125,KIRA,It is my job.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39678,39678,39678,39678,126,MARRITZA,"Persecuting Cardassians? Oh, that goes beyond your job, Major... That's your passion.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39679,39679,39679,39679,127,KIRA,You claim you weren't at Gallitep.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39680,39680,39680,39680,128,MARRITZA,"Yes, I missed that honor.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.5719
+39681,39681,39681,39681,129,KIRA,And that your illness is not Kalla- Nohra.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.4019
+39682,39682,39682,39682,130,MARRITZA,"Again, true.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39683,39683,39683,39683,131,KIRA,"Again false. Our doctor verified that you do have Kalla-Nohra, which means you were at Gallitep.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39684,39684,39684,39684,132,KIRA,"If your lies are going to be that transparent, this will be a short interrogation.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39685,39685,39685,39685,133,MARRITZA,"In that case, I'll try to make my lies more opaque.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39686,39686,39686,39686,134,KIRA,What was your rank at Gallitep? What were your duties?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39687,39687,39687,39687,135,MARRITZA,You really don't want to know.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39688,39688,39688,39688,136,KIRA,Just answer the question.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39689,39689,39689,39689,137,MARRITZA,You're going to be very disappointed.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39690,39690,39690,39690,138,KIRA,I'll risk it.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39691,39691,39691,39691,139,MARRITZA,I had the distinction of serving in the exalted position of... (beat; leans forward to confide) ... Filing clerk.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39692,39692,39692,39692,140,KIRA,Filing clerk?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39693,39693,39693,39693,141,MARRITZA,"You see? I told you you'd be disappointed. (rises; conversational pacing) Actually, I would've been just as happy to avoid military service altogether. Fortunately, I was lucky enough to draw duty in the records office at Gallitep. As it turned out, I proved an exemplary file clerk. During my fourteen units of service, not one report was lost or misfiled. I was awarded numerous commendations. Gul Darhe'el himself told me my computer filing system was a ""masterpiece of meticulous exactitude."" So now you know. My secret is out; my crime laid bare. I await execution.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39694,39694,39694,39694,142,KIRA,I hope we don't keep you waiting long. I've never heard of a filing clerk becoming an instructor at a military academy.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39695,39695,39695,39695,143,MARRITZA,Until now.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39696,39696,39696,39696,144,KIRA,And what did you teach?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39697,39697,39697,39697,145,MARRITZA,Believe it or not... Filing.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39698,39698,39698,39698,146,KIRA,I can verify that.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39699,39699,39699,39699,147,MARRITZA,Be my guest.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39700,39700,39700,39700,148,KIRA,I still think you're a liar.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39701,39701,39701,39701,149,MARRITZA,Ah. So much for our search for the truth. Now we exchange insults.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39702,39702,39702,39702,150,KIRA,You admit you worked under Gul Darhe'el.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39703,39703,39703,39703,151,MARRITZA,We all did.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39704,39704,39704,39704,152,KIRA,"I take it, then... you witnessed the atrocities.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39705,39705,39705,39705,153,MARRITZA,Atrocities? What atrocities?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39706,39706,39706,39706,154,MARRITZA,"Oh, I do vaguely recall hearing a scream now and then, but... Atrocities?",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39707,39707,39707,39707,155,KIRA,Do you expect me to believe you knew nothing about the murders... the torture... You never saw the bodies?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39708,39708,39708,39708,156,MARRITZA,Well of course I saw bodies. People died at Gallitep all the time. Mining accidents; illnesses; feuds among the workers...,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39709,39709,39709,39709,157,KIRA,You're saying Bajorans killed each other?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39710,39710,39710,39710,158,MARRITZA,"At times. Over food; a blanket; a woman... Conditions were harsh, after all. It was a labor camp, Major.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39711,39711,39711,39711,159,KIRA,I helped liberate that camp. I saw those bodies. I saw how they died.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39712,39712,39712,39712,160,MARRITZA,"You saw what we wanted you to see. Do you know who started the rumors about brutality at Gallitep? Gul Darhe'el himself. Now there was a leader. A brilliant, extraordinary man. He knew that to rule by fear was to rule completely. Why bother with actual mass murder, when the mere reports of such incidents achieved the same effect.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39713,39713,39713,39713,161,KIRA,Which was?,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39714,39714,39714,39714,162,MARRITZA,"Major, you know that as well as I do. To keep you Bajorans thinking of yourselves as victims. To keep you scared... and helpless.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39715,39715,39715,39715,163,KIRA,It turned out we weren't so helpless. We did get rid of you.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39716,39716,39716,39716,164,MARRITZA,"Leaving was a political decision. Now I've enjoyed reminiscing with you, Major; but I really do think it's time you let me out of here.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39717,39717,39717,39717,165,KIRA,I can't do that.,24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39718,39718,39718,39718,166,MARRITZA,"No, of course not. You see, Major, you're the one who's lying now, not me. You're not interested in truth. All you want is vengeance.",24   INT. HOLDING CELL AREA (CONTINUOUS),HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39719,39719,39719,39719,167,DUKAT,"Commander, I was led to believe that the Federation guaranteed safe and unrestricted passage to all travelers visiting your station.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39720,39720,39720,39720,168,SISKO,That's correct.,27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39721,39721,39721,39721,169,DUKAT,Then how do you explain your detention of a Cardassian citizen?,27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39722,39722,39722,39722,170,SISKO,"Marritza came here seeking medical attention. Right now, he's under our doctor's care. All we're trying to do is verify his identity. A simple matter, if you'll give us some assistance.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39723,39723,39723,39723,171,DUKAT,"I assure you, Commander, you don't require our assistance. If your patient says his name is Marritza, then that's who he is. I hope you're not suggesting you don't trust him simply because he's Cardassian.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39724,39724,39724,39724,172,SISKO,I don't trust him because he's already lied to us about his being at Gallitep.,27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39725,39725,39725,39725,173,DUKAT,"Is that what you're charging him with, Commander? Lying?",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39726,39726,39726,39726,174,SISKO,"So far, we haven't charged him with anything.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39727,39727,39727,39727,175,DUKAT,Then let him go.,27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39728,39728,39728,39728,176,SISKO,I'd like nothing better. But first I need to know who it is I'm letting go.,27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39729,39729,39729,39729,177,DUKAT,"I appreciate the awkwardness of your position, Commander. This Bajoran obsession with alleged Cardassian improprieties during the occupation, is really quite distasteful.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.1027
+39730,39730,39730,39730,178,SISKO,"I suppose if you're a Bajoran, so was the occupation.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39731,39731,39731,39731,179,DUKAT,I remind you that neither one of us is Bajoran. I'd hate their bitterness to cause conflict between Cardassia and the Federation.,27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.8271
+39732,39732,39732,39732,180,SISKO,"I hope to avoid that, too... with your help.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39733,39733,39733,39733,181,DUKAT,"Commander, you don't need my help to safeguard one Cardassian on your own station. If those Bajoran hate- mongers get their hands on him, I'm holding you responsible.",27   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39734,39734,39734,39734,182,DAX,What're you looking for?,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39735,39735,39735,39735,183,KIRA,Answers.,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39736,39736,39736,39736,184,DAX,Found any yet?,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39737,39737,39737,39737,185,KIRA,Marritza says I don't care about the truth. That all I want is vengeance.,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39738,39738,39738,39738,186,DAX,Are you worried he might be right... ?,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39739,39739,39739,39739,187,KIRA,All I want is to see him punished.,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39740,39740,39740,39740,188,DAX,Even if he is just a file clerk?,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39741,39741,39741,39741,189,KIRA,That's just it... I don't want him to be a file clerk. I want him to be... I don't know... worse than that...,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39742,39742,39742,39742,190,DAX,You want him to be guilty.,27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39743,39743,39743,39743,191,KIRA,"As far as I'm concerned, if he was at Gallitep, he is guilty. They were all guilty. Don't you see, his punishment will make all of Bajor feel... some... ...satisfaction.",27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39744,39744,39744,39744,192,DAX,"It sounds like you're trying too hard to believe what you're saying. You already know if you punish him without reason, it won't mean anything. And you already know vengeance isn't enough.",27AA   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39745,39745,39745,39745,193,O'BRIEN,Re-route the signal enhancement module to the main sensor array.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39746,39746,39746,39746,194,NEELA,"Aye, Sir.",28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39747,39747,39747,39747,195,O'BRIEN,How's it look?,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39748,39748,39748,39748,196,NEELA,Give me a second; I'll run a diagnostic. It's ready.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39749,39749,39749,39749,197,ODO,"I've checked with the Bajoran Archives, and they do have a Marritza on record as being a file clerk at Gallitep. I also checked with the military academy on Kora Two. Marritza has been teaching filing there just as he claims.",28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39750,39750,39750,39750,198,O'BRIEN,"All set, Commander.",28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39751,39751,39751,39751,199,SISKO,Major? How many images were sent from the Bajoran archives?,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39752,39752,39752,39752,200,KIRA,Only one. It's the only picture they could find of Gallitep that had Marritza in it. The Cardassians destroyed almost all records of the occupation.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39753,39753,39753,39753,201,O'BRIEN,The image enhancement and transformation functions are patched directly into your console.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39754,39754,39754,39754,202,SISKO,"Major, what if this image confirms that Marritza was a file clerk? What do you expect us to do, then?",28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39755,39755,39755,39755,203,KIRA,I suppose you'll let him go.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39756,39756,39756,39756,204,SISKO,I'm glad we understand each other.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39757,39757,39757,39757,205,DAX,I've got it.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39758,39758,39758,39758,206,SISKO,On screen.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39759,39759,39759,39759,207,SISKO,Which one is Marritza?,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39760,39760,39760,39760,208,DAX,"Let's see... According to the caption, he's the one in the background; on the far right.",28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39761,39761,39761,39761,209,SISKO,Isolate and magnify.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39762,39762,39762,39762,210,SISKO,We're going to have to do better than that.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39763,39763,39763,39763,211,DAX,Give me a minute; I'm running an image enhancement sequence.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39764,39764,39764,39764,212,KIRA,It's not him.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39765,39765,39765,39765,213,SISKO,Are you sure we're looking at the right man?,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39766,39766,39766,39766,214,DAX,(double-checking console) Background... far right... Aamin Marritza.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39767,39767,39767,39767,215,KIRA,It can't be.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39768,39768,39768,39768,216,SISKO,"If that's Marritza, then who are we holding?",28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39769,39769,39769,39769,217,SISKO,Lieutenant... Isolate the Cardassians in the foreground.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39770,39770,39770,39770,218,SISKO,"The one in profile on the left... What can you give us, Dax?",28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39771,39771,39771,39771,219,KIRA,That's him... That's Marritza.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39772,39772,39772,39772,220,DAX,Not according to the caption.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39773,39773,39773,39773,221,KIRA,What d'you mean?,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39774,39774,39774,39774,222,DAX,According to this... It's Gul Darhe'el.,28   INT. OPS - CLOSE ON O'BRIEN,OP,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39775,39775,39775,39775,223,MARRITZA,Ah. Let me guess. You've come back to learn the secret of my filing system.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39776,39776,39776,39776,224,KIRA,I know all your secrets now.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39777,39777,39777,39777,225,MARRITZA,Is that so.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39778,39778,39778,39778,226,KIRA,"What did you do? Kill the real Marritza, so you could take his place? Well, you'll pay for that death; and all the others you're responsible for.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39779,39779,39779,39779,227,MARRITZA,"I'm afraid I couldn't possibly pay for all of them, Major. After all, there were so many... and you can only execute me once.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39780,39780,39780,39780,228,KIRA,"That's my only regret. But I'll settle for knowing that Bajor will finally have the satisfaction of punishing ""The Butcher of Gallitep.""",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39781,39781,39781,39781,229,MARRITZA,"Tell me, Major; did you figure it all out by yourself, or did you need help from your Federation masters?",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.4019
+39782,39782,39782,39782,230,KIRA,I'll let you wonder about that. It'll keep you occupied while we're waiting for the provisional government to prepare your war crimes tribunal.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.5994
+39783,39783,39783,39783,231,MARRITZA,"War crimes? How could there be war crimes, when there wasn't any war? Of course, I can understand how you might wish there had been a war... Your need to indulge some pathetic fantasy of brave Bajoran soldiers marching to an honorable defeat. But in fact, Major, you and I both know there was no war; no glory; Bajor didn't resist. It just surrendered.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.8992
+39784,39784,39784,39784,232,KIRA,The Bajorans were a peaceful people before you came. We were no threat to you. We could never understand why you had to be so brutal.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39785,39785,39785,39785,233,MARRITZA,"Well we can't have that. You see, Major, I don't want there to be any more secrets between us. So whatever you don't understand, I'll explain.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39786,39786,39786,39786,234,KIRA,"Thank you, but I think I've heard enough of your lies.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39787,39787,39787,39787,235,MARRITZA,"What lies? You mean my failure to divulge my true identity? Believe me, I yearned to tell you. But I knew how much more satisfying it would be for you to find out for yourself. And believe me, Major; that was my only deception. Marritza? He was a magnificent file clerk. And I, Gul Darhe'el? I hope you won't think it immodest of me when I say that I was a magnificent leader. You never saw Gallitep at its height. As a labor camp, it was the very model of order and efficiency. And why? For that, you must look to the top. To me!",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39788,39788,39788,39788,236,MARRITZA,"My word, my merest glance, was law. And my verdict was always the same: Guilty.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39789,39789,39789,39789,237,KIRA,You're insane.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39790,39790,39790,39790,238,MARRITZA,"No, no, no, Major... I'm sorry, but you can't dismiss me that easily. I did what needed to be done.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39791,39791,39791,39791,239,MARRITZA,"My men understood that... which is why they loved me. I'd order them to go out and murder Bajoran scum, and they would do it... They'd come back covered in blood... and still feel clean. Yes, Major... clean. And why did they feel that way?... Because they were clean!",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39792,39792,39792,39792,240,KIRA,So then you admit your atrocities.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39793,39793,39793,39793,241,MARRITZA,"I admit everything. Why not? I was the best at what I did. My accomplishments speak for themselves. Can you say the same? You and that little Shakaar resistance cell you belonged to. You did nothing but annoy Cardassians, while I was busy exterminating Bajorans.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.3989
+39794,39794,39794,39794,242,KIRA,Make sure you tell that to the tribunal.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.3182
+39795,39795,39795,39795,243,MARRITZA,"Oh, I will.",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39796,39796,39796,39796,244,KIRA,And they'll sentence you to death.,35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39797,39797,39797,39797,245,MARRITZA,"Let them. Don't you see; it'll change nothing! Kill me. Torture me... it doesn't matter. You've already lost, Major. You can never undo what I've accomplished. The dead will still be dead!",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39798,39798,39798,39798,246,MARRITZA,"(laughs; calls after her) What're you going to do now, Major? Withhold my medicine?",35   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39799,39799,39799,39799,247,KIRA,What is it?,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39800,39800,39800,39800,248,ODO,Maraltian Seev-ale; from Quark's private stock.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39801,39801,39801,39801,249,ODO,Better?,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39802,39802,39802,39802,250,KIRA,"You know, Odo... I wonder how many others like Darhe'el are still out there... Still free... unpunished...",36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39803,39803,39803,39803,251,ODO,"Quite a few, no doubt. But thanks to you, there's one less out there now.",36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39804,39804,39804,39804,252,KIRA,You should've heard him... He bragged about what happened at Gallitep. The torture... the rape... the humiliation. He's proud of what he did to us.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39805,39805,39805,39805,253,ODO,"Why don't you go to your quarters, and lie down for a while. We'll leave him alone with his Cardassian pride.",36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39806,39806,39806,39806,254,KIRA,I don't want to lie down. That's what he'd like. Another Bajoran hiding in a corner. He's probably in there laughing at me now.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39807,39807,39807,39807,255,ODO,He won't be laughing very long.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39808,39808,39808,39808,256,KIRA,"I hate him, Odo. I hate that smirking, superior Cardassian face. When I was fighting with the resistance, we used to lie awake at night plotting the assassination of men like him. And now I have to stand there and listen to him belittle the Shakaar and everything it stood for.",36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39809,39809,39809,39809,257,ODO,Perhaps you should avoid discussing your personal history with a creature like that.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39810,39810,39810,39810,258,KIRA,I didn't.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39811,39811,39811,39811,259,ODO,Then how did he know you were with the Shakaar?,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39812,39812,39812,39812,260,KIRA,I don't know... He was an important military leader...,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39813,39813,39813,39813,261,ODO,"That doesn't explain it. If he'd been in charge of quelling Bajoran resistance, then he might've had your name on file. But he commanded a forced labor camp. Something's not right here.",36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39814,39814,39814,39814,262,ODO,Where are you going?,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39815,39815,39815,39815,263,KIRA,To have another little chat with Gul Darhe'el.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39816,39816,39816,39816,264,ODO,Computer... Review all off-station requests for information regarding Major Kira Nerys within the last eight months.,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39817,39817,39817,39817,265,COMPUTER,...Working...,36   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39818,39818,39818,39818,266,MARRITZA,"Back again to see ""the butcher""... Am I really that fascinating?",36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39819,39819,39819,39819,267,KIRA,How did you know I was with the Shakaar?,36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39820,39820,39820,39820,268,MARRITZA,That provisional government of yours certainly moves slowly. They should've dragged me away in chains by now.,36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39821,39821,39821,39821,269,KIRA,Answer the question.,36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39822,39822,39822,39822,270,MARRITZA,"My, my, you are a strutting little egotist. You forget the brilliance of Marritza's filing system. He saw to it that I was provided with information on all your little terrorist bands. I especially enjoyed the termination reports. You see, life at a forced labor camp can be so isolating. At times I felt that only I bore the burden of cleansing Bajor of its rabble. Those reports reassured me that I was not alone.",36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39823,39823,39823,39823,271,KIRA,And I'm supposed to believe that you remember my name from some report you read years ago?,36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39824,39824,39824,39824,272,MARRITZA,"At the risk of bruising your vanity even further, Major... I didn't remember your name at all until I heard it here. I can see that disturbs you.",36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39825,39825,39825,39825,273,KIRA,Hardly.,36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39826,39826,39826,39826,274,MARRITZA,"You know, Major, they will be coming for me soon, so... Before we say goodbye, there are a few little questions I'd like to ask you.",36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39827,39827,39827,39827,275,KIRA,Your questions don't interest me.,36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39828,39828,39828,39828,276,MARRITZA,What makes you so sure? Or are you just afraid to hear them?,36B  INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39829,39829,39829,39829,277,QUARK,Who're they?,36D  INT. PROMENADE OUTSIDE SECURITY OFFICE,PROMENADE OUTSIDE SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39830,39830,39830,39830,278,ODO,Survivors of Gallitep. They arrived early this morning. I suppose they're waiting for justice.,36D  INT. PROMENADE OUTSIDE SECURITY OFFICE,PROMENADE OUTSIDE SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39831,39831,39831,39831,279,QUARK,Gallitep. Imagine living through that hellhole. The pain... the sorrow... D'you think they like to gamble?,36D  INT. PROMENADE OUTSIDE SECURITY OFFICE,PROMENADE OUTSIDE SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39832,39832,39832,39832,280,ODO,"Doctor, I need your help.",39   INT. INFIRMARY,INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39833,39833,39833,39833,281,BASHIR,Of course.,39   INT. INFIRMARY,INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39834,39834,39834,39834,282,ODO,"Three months ago, a request came from Kora Two for information concerning Kira Nerys.",39   INT. INFIRMARY,INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39835,39835,39835,39835,283,BASHIR,To what purpose?,39   INT. INFIRMARY,INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39836,39836,39836,39836,284,ODO,I'm not sure. But the name on the request was Aamin Marritza. I've established a subspace link with Kora Two. I'd like you to access his medical history there.,39   INT. INFIRMARY,INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39837,39837,39837,39837,285,DAX,Dax to Odo... Gul Dukat is responding to your subspace transmission.,39   INT. INFIRMARY,INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39838,39838,39838,39838,286,ODO,Could you route it to my office.,39   INT. INFIRMARY,INFIRMARY,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39839,39839,39839,39839,287,DUKAT,"I've missed working with you, Odo. I've missed our games of kalevian montar.",42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39840,39840,39840,39840,288,ODO,"As I recall, Gul Dukat, we played one game, and you cheated.",42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39841,39841,39841,39841,289,DUKAT,"Same old Odo; like a blunt instrument. Now; to answer your question... I regret that I cannot give you access to any files on Gul Darhe'el. However, I assure you that the files would only tell you what I'm telling you... Gul Darhe'el is dead.",42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.4939
+39842,39842,39842,39842,290,ODO,That's impossible.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39843,39843,39843,39843,291,DUKAT,"I attended the funeral myself. As a matter of fact, he's buried under one of the largest military monuments on Cardassia.",42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.34
+39844,39844,39844,39844,292,ODO,Then who are we holding here?,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39845,39845,39845,39845,293,DUKAT,"An innocent Cardassian citizen, just as I explained to your Commander Sisko. And we want him released.",42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39846,39846,39846,39846,294,ODO,That innocent citizen has admitted he is Gul Darhe'el.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39847,39847,39847,39847,295,DUKAT,What? What are you talking about!,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39848,39848,39848,39848,296,ODO,He says his name is Gul Darhe'el.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39849,39849,39849,39849,297,DUKAT,Then he's lying!,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39850,39850,39850,39850,298,ODO,"If he is, it's the most foolish lie he could've invented. It's likely to get him executed. Why would anyone do such a thing?",42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39851,39851,39851,39851,299,DUKAT,I don't know. But I tell you I was at Darhe'el's funeral.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39852,39852,39852,39852,300,ODO,You're sure the man you saw buried was Gul Darhe'el?,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.3182
+39853,39853,39853,39853,301,DUKAT,Half of Cardassia viewed his body!,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39854,39854,39854,39854,302,ODO,I saw a photograph of Darhe'el taken at the Gallitep labor camp. It certainly appears to be the man we're holding.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.34
+39855,39855,39855,39855,303,DUKAT,You are mistaken! This is obviously a plot to embarrass the Cardassian Empire.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39856,39856,39856,39856,304,ODO,It's possible. Give me access to your files and perhaps I can find some proof to support your claim that Gul Darhe'el is dead.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39857,39857,39857,39857,305,DUKAT,I suppose I could grant you limited access to the files...,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39858,39858,39858,39858,306,ODO,I think that's wise.,42   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39859,39859,39859,39859,307,KIRA,... I was twelve when I started fighting... but I know of some who started even younger than that.,43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39860,39860,39860,39860,308,MARRITZA,"Yes, yes, but let's get to the real issue... How many Cardassians did you kill? I mean personally.",43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39861,39861,39861,39861,309,KIRA,,43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39862,39862,39862,39862,310,MARRITZA,"Oh, I think you did. And I'm sure your total wasn't limited to military personnel. After all, one of the most effective terrorist weapons was random violence.",43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39863,39863,39863,39863,311,MARRITZA,"Don't leave now, Major... Not when it's finally getting good. How many Cardassian civilians did you kill?",43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39864,39864,39864,39864,312,KIRA,Look... I regret a lot of what I had to do.,43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39865,39865,39865,39865,313,MARRITZA,How convenient of you.,43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39866,39866,39866,39866,314,KIRA,We had no choice! We were fighting for survival!,43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39867,39867,39867,39867,315,MARRITZA,"So were we! We had an empire to protect. We needed your resources! Everything I did was for the greater glory of Cardassia! And if you spineless scum had to be ground under, so much the better! All that mattered was Cardassia! I loved my homeland! That's what justified my actions; that's what gave me my strength.",43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39868,39868,39868,39868,316,KIRA,Nothing justifies genocide.,43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39869,39869,39869,39869,317,MARRITZA,What you call genocide... I called a day's work!,43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39870,39870,39870,39870,318,ODO,"Major? May we talk outside, please?",43   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39871,39871,39871,39871,319,ODO,Doctor Bashir and I have done some checking. I don't know why yet... but the man in that cell... wanted to be caught.,44   INT. SECURITY OFFICE (CONTINUOUS),SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39872,39872,39872,39872,320,ODO,This certificate of death was in the file sent to me by Gul Dukat.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39873,39873,39873,39873,321,SISKO,"According to this, Gul Darhe'el died in his sleep six years ago. ""Cause of death: Massive Coleibric hemorrhage.""",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39874,39874,39874,39874,322,KIRA,"Commander, I guarantee you that's a forged document. I think it's pretty clear what's going on here. The Cardassians want to trick us into letting him go.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39875,39875,39875,39875,323,SISKO,I wouldn't put it past our friend Gul Dukat.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39876,39876,39876,39876,324,ODO,Nor would I. However...,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39877,39877,39877,39877,325,KIRA,The man in there confessed that he's Gul Darhe'el.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39878,39878,39878,39878,326,ODO,"Major, the man in there has Kalla- Nohra Syndrome.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39879,39879,39879,39879,327,KIRA,Of course he does.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39880,39880,39880,39880,328,ODO,"According to the evidence I've been sent, Gul Darhe'el never contracted that condition.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39881,39881,39881,39881,329,KIRA,More evidence from the trustworthy Gul Dukat.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39882,39882,39882,39882,330,SISKO,"What've you got, Constable?",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39883,39883,39883,39883,331,ODO,"Darhe'el's progress reports from Gallitep show that, when the mining accident occurred, he was back on Cardassia being awarded the Proficient Service Medallion.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39884,39884,39884,39884,332,SISKO,"If he wasn't at Gallitep on the day of the accident, he couldn't have contracted Kalla-Nohra.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39885,39885,39885,39885,333,ODO,Correct. But the man we're holding does have it.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39886,39886,39886,39886,334,KIRA,I don't believe I'm listening to this.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39887,39887,39887,39887,335,ODO,"I'm afraid there's more, Major. I inquired about his last two weeks on Kora Two. He resigned his position at the military academy; put all his affairs in order... even provided handsomely for his housekeeper, I understand...",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39888,39888,39888,39888,336,KIRA,"All right; so like most criminals, he wanted to move on before somebody traced his whereabouts.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39889,39889,39889,39889,337,ODO,He specifically requested passage on a vessel scheduled to stop here... at a Bajoran station. A rather unusual request for a Cardassian war criminal...,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39890,39890,39890,39890,338,SISKO,Unless he wanted to be captured.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39891,39891,39891,39891,339,KIRA,"Wait a minute. Let's be clear about one thing: This ""evidence"" may raise some interesting questions. Nevertheless, Darhe'el is going to be sent to Bajor to stand trial for the atrocities he committed.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39892,39892,39892,39892,340,SISKO,"Major, that's still to be decided.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39893,39893,39893,39893,341,KIRA,"Then go talk to him! If you still have any doubts, just listen to what he has to say... He was there; he did it; he'll tell you about it!",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39894,39894,39894,39894,342,BASHIR,"Constable, I've checked Marritza's medical records.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39895,39895,39895,39895,343,SISKO,What've we got?,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39896,39896,39896,39896,344,BASHIR,"He's been under treatment for Kalla- Nohra Syndrome, of course... and a few other minor ailments, most relating to his age... It's all fairly standard, actually... Except for one thing.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39897,39897,39897,39897,345,ODO,Which is?,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39898,39898,39898,39898,346,BASHIR,"Five years ago, when he arrived on Kora Two, he was taking massive doses of a dermatiraelian plastiscine.",46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39899,39899,39899,39899,347,BASHIR,It's a dermal regenerative agent. It maintains skin resilience following cosmetic alteration.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39900,39900,39900,39900,348,KIRA,(beaten; not even a question now) You're saying he's had his face changed to look like Gul Darhe'el.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39901,39901,39901,39901,349,BASHIR,It certainly appears that way.,46   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39902,39902,39902,39902,350,KIRA,How're you feeling?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39903,39903,39903,39903,351,MARRITZA,"I was starting to get bored, but seeing you again brightens my day. Or is it night? It doesn't matter. What's important is that it's time for another one of our chats. What shall it be this time? Why don't I lecture you on various Cardassian torture techniques.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39904,39904,39904,39904,352,KIRA,I was referring to your Kalla-Nohra Syndrome. Do you want to see Doctor Bashir?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39905,39905,39905,39905,353,MARRITZA,"Ah, so that's it. You were hoping to see me writhe around on the floor in pain. Do you really think a Cardassian would put on such a deplorable display in front of a Bajoran? You don't understand us at all, do you?",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39906,39906,39906,39906,354,KIRA,I'm beginning to understand a great deal about you. But one thing does puzzle me.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39907,39907,39907,39907,355,MARRITZA,And what would that be?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39908,39908,39908,39908,356,KIRA,How you contracted Kalla-Nohra syndrome.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39909,39909,39909,39909,357,MARRITZA,"Did you think that mining accident only affected the Bajoran laborers, and not their Cardassian masters? That would've been very nice.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39910,39910,39910,39910,358,KIRA,So you're saying you were at Gallitep when that mining accident occurred?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39911,39911,39911,39911,359,MARRITZA,Of course. Why are we going over this again?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39912,39912,39912,39912,360,KIRA,Because your own progress reports show that you were back on Cardassia at the time of the accident...,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39913,39913,39913,39913,361,MARRITZA,Ridiculous!,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39914,39914,39914,39914,362,KIRA,... Receiving your Proficient Service Medallion.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39915,39915,39915,39915,363,MARRITZA,Then the reports are wrong.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39916,39916,39916,39916,364,KIRA,I can show them to you.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39917,39917,39917,39917,365,MARRITZA,That won't be necessary; I know where I was.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39918,39918,39918,39918,366,KIRA,Why were you taking a dermal regenerative?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39919,39919,39919,39919,367,MARRITZA,I don't know what you're talking about.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39920,39920,39920,39920,368,KIRA,Then let me help you. Five years ago... when you first got to Kora Two...,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39921,39921,39921,39921,369,MARRITZA,That's enough; your presence no longer amuses me... Get out.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39922,39922,39922,39922,370,KIRA,Why did you have your face altered?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39923,39923,39923,39923,371,MARRITZA,Security guard! Security! I want this woman out of here! Security!,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39924,39924,39924,39924,372,KIRA,Why are you pretending to be Gul Darhe'el?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39925,39925,39925,39925,373,MARRITZA,"Why don't you ask me something intelligent, such as how I felt when I heard we were withdrawing from Bajor? My answer is, I was furious! The thought of leaving behind any survivors was repulsive to me.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39926,39926,39926,39926,374,MARRITZA,"So while the useless office clerks were busy packing their precious files, I ordered my overseers to begin slaughtering the laborers.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39927,39927,39927,39927,375,KIRA,"If you felt that way about your office clerks, why did you take Marritza's name?",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39928,39928,39928,39928,376,MARRITZA,"My plan was to do nothing less than kill every Bajoran in the camp! To this day, I regret that we were unable to achieve that honorable goal.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39929,39929,39929,39929,377,KIRA,"You're Marritza, aren't you?",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39930,39930,39930,39930,378,MARRITZA,"You mistake me for that bug? That wimpering nothing? You stupid Bajoran girl, don't you know who I am? I am your nemesis; I am you're nightmare; I am the ""Butcher of Gallitep!""",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39931,39931,39931,39931,379,KIRA,"""The Butcher of Gallitep"" died six years ago. You're Aamin Marritza, his file clerk.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39932,39932,39932,39932,380,MARRITZA,That's not true! I'm alive! I'll always be alive! It's Marritza who's dead! Marritza; who was only good for cowering under his bunk and weeping like a woman.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39933,39933,39933,39933,381,MARRITZA ,"Every night, covering his ears so he wouldn't have to hear the Bajorans screaming for mercy while we killed them... covering my ears... so I wouldn't have to hear those terrible screams! You don't know what it's like to be a coward. To stand by and let such horrors take place, and do nothing. No; Marritza's dead. He deserves to be dead.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39934,39934,39934,39934,382,MARRITZA,What are you doing!,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39935,39935,39935,39935,383,KIRA,I'm letting you go.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39936,39936,39936,39936,384,MARRITZA,Security! Security guard! Get in here! Help me! Security!,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.877
+39937,39937,39937,39937,385,KIRA,You didn't commit those crimes; and you couldn't stop them. You were only one man.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39938,39938,39938,39938,386,MARRITZA,"No; don't you see? I have to be punished. We all have to be punished. Major, you have to go out there and tell them; tell them I'm Gul Darhe'el. It's the only way; don't you see that?",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,-0.8205
+39939,39939,39939,39939,387,KIRA,Why are you doing this?,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39940,39940,39940,39940,388,MARRITZA,"For Cardassia. Cardassia will never survive unless it stands in front of Bajor and admits the truth. My trial will force Cardassia to acknowledge its guilt. And we are guilty... all of us. Don't you see, my death is necessary.",48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39941,39941,39941,39941,389,KIRA,What you're asking for is another murder. Enough good people have already died. I won't help kill another.,48   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39942,39942,39942,39942,390,KIRA,You should be back on Kora Two in three days.,51A  INT. PROMENADE OUTSIDE SECURITY OFFICE,PROMENADE OUTSIDE SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39943,39943,39943,39943,391,MARRITZA,There's nothing for me to go back to.,51A  INT. PROMENADE OUTSIDE SECURITY OFFICE,PROMENADE OUTSIDE SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39944,39944,39944,39944,392,KIRA,We've contacted officials there; they'll be waiting to help you.,51A  INT. PROMENADE OUTSIDE SECURITY OFFICE,PROMENADE OUTSIDE SECURITY OFFICE,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39945,39945,39945,39945,393,MARRITZA,"If they had believed I was Gul Darhe'el, my trial might have helped bring about a new Cardassia. But, now you've told them I was only a file clerk...",52   INT. PROMENADE NEAR AIRLOCK,PROMENADE NEAR AIRLOCK,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39946,39946,39946,39946,394,KIRA,"What you tried to do was very honorable. Maybe, one day other Cardassians will acknowledge the truth of what they did to Bajor.",52   INT. PROMENADE NEAR AIRLOCK,PROMENADE NEAR AIRLOCK,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39947,39947,39947,39947,395,KIRA,Why! He wasn't Darhe'el! Why!,52   INT. PROMENADE NEAR AIRLOCK,PROMENADE NEAR AIRLOCK,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39948,39948,39948,39948,396,KAINON,He's a Cardassian. That's reason enough.,52   INT. PROMENADE NEAR AIRLOCK,PROMENADE NEAR AIRLOCK,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39949,39949,39949,39949,397,KIRA,No... ... It's not.,52   INT. PROMENADE NEAR AIRLOCK,PROMENADE NEAR AIRLOCK,INT.,Duet,1993-03-26,Deep Space Nine,419.txt,0.0
+39950,39950,39950,39950,0,SISKO,Come in.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39951,39951,39951,39951,1,KIRA,"Commander, I just received word that a Valerian transport has requested permission to dock here at the station.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39952,39952,39952,39952,2,SISKO,Let me guess. You're here to recommend we deny their request.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39953,39953,39953,39953,3,KIRA,The Valerians ran weapons-grade dolamide to Cardassian forces during the occupation of Bajor.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39954,39954,39954,39954,4,SISKO,I'm aware of that...,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39955,39955,39955,39955,5,KIRA,I believe they're continuing to ship weapons to the Cardassians... weapons that could eventually be used to attack Bajor.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39956,39956,39956,39956,6,SISKO,"I share your concern, Major. But unless we have proof to back up those charges...",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39957,39957,39957,39957,7,KIRA,"The proof is on the ship. Let me conduct a search and if I find any dolamide, we can confiscate it.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39958,39958,39958,39958,8,SISKO,"I'm afraid it's not that simple. Dolamide is used for power generators, reactors, in short-range transports...",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39959,39959,39959,39959,9,KIRA,And for weapons.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39960,39960,39960,39960,10,SISKO,Only if it's extremely pure.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39961,39961,39961,39961,11,KIRA,So we're going to do nothing.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39962,39962,39962,39962,12,SISKO,I didn't say that. But we can't just board their ship and start tearing it apart.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39963,39963,39963,39963,13,KIRA,Then what can we do?,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39964,39964,39964,39964,14,SISKO,You bring me evidence that the Valerians are dealing in weapons- grade dolamide and I promise you the Federation will use every kind of diplomatic pressure to stop them.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39965,39965,39965,39965,15,KIRA,You think that'll work?,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39966,39966,39966,39966,16,SISKO,It will if the Valerians want to keep trading with the Federation.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39967,39967,39967,39967,17,KIRA,"(still not totally convinced) All right, we'll try it your way.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39968,39968,39968,39968,18,SISKO,Good. Then you'll see to it that the Valerian ship is cleared for docking.,2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39969,39969,39969,39969,19,KIRA,"(still doesn't relish the thought) Yes, sir.",2    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39970,39970,39970,39970,20,DAX,"Chief, I have a subspace message for you from your wife. They've arrived safely on Bajor.",3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39971,39971,39971,39971,21,O'BRIEN,"Imagine, taking eleven bored schoolkids on a visit to the grain processing center at Lasuma. I'm glad it's not me.",3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39972,39972,39972,39972,22,ODO,Here's the information you wanted on the captain of the Valerian ship.,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39973,39973,39973,39973,23,KIRA,Let me know if you find anything else.,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39974,39974,39974,39974,24,DAX,Sensors are reading elevated neutrino levels at the wormhole... Something's coming through...,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39975,39975,39975,39975,25,KIRA,On screen.,3    INT. OPS - CONTINUOUS,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39976,39976,39976,39976,26,,The wormhole opens and a KLINGON BIRD OF PREY comes blasting through.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39977,39977,39977,39977,27,DAX,It's the Klingon vessel Toh'Kaht.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39978,39978,39978,39978,28,KIRA,They're not due back for another month.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39979,39979,39979,39979,29,SISKO,Open hailing frequencies.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39980,39980,39980,39980,30,O'BRIEN,I'm reading a transporter signal. Someone must have beamed off the ship just as it exploded.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39981,39981,39981,39981,31,SISKO,Mister O'Brien -- ?,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39982,39982,39982,39982,32,O'BRIEN,Something's interfering with the rematerialization process.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39983,39983,39983,39983,33,DAX,Lock onto him with our Transporter signal. Try boosting the annular containment field.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39984,39984,39984,39984,34,O'BRIEN,I'm already there...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39985,39985,39985,39985,35,BASHIR,He's been hit by weapons fire. It's severe. We've got to get him into cryo-stasis.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39986,39986,39986,39986,36,KLINGON,Victory...,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39987,39987,39987,39987,37,BASHIR,He's dead.,6    INT. OPS - CONTINUOUS - INCLUDE VIEWSCREEN,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39988,39988,39988,39988,38,SISKO,"Station log, Stardate 46922.3. We have identified the dead Klingon -- his name was Hon-Tihl, First Officer of the Toh'Kaht. Why he died, and the cause of his ship's destruction, is still unknown.",8    EXT. SPACE - DEEP SPACE NINE,SPAC,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39989,39989,39989,39989,39,BASHIR,"I found tritanium alloy fragments in his chest and upper arms. If that was all, we could have saved him. But those weapon burns were too severe.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39990,39990,39990,39990,40,SISKO,Is there any way to identify the kind of weapon used?,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39991,39991,39991,39991,41,BASHIR,I'm running a microtissue analysis right now. We should have the results in a couple of hours.,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39992,39992,39992,39992,42,KIRA,"The Klingon said ""victory"" before he died. I wonder what he meant.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39993,39993,39993,39993,43,DAX,"According to the Klingon high command, the Toh'Kaht was in the gamma quadrant on a routine bio-survey mission...",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39994,39994,39994,39994,44,O'BRIEN,"""Victory""... during a bio-survey... ?",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39995,39995,39995,39995,45,ODO,As I recall the Toh'Kaht put in for a maintenance check.,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39996,39996,39996,39996,46,SISKO,"Ask around the station, see if you can learn anything about this bio- survey.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39997,39997,39997,39997,47,SISKO,I'd like the two of you to take a Runabout and try to find the Toh'Kaht's mission recorder. I want to know what caused that ship to explode.,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39998,39998,39998,39998,48,O'BRIEN,"Aye, Sir.",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+39999,39999,39999,39999,49,O'BRIEN,Lieutenant...,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0

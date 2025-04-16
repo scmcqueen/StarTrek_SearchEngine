@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+35000,35000,35000,35000,381,ROSS,"I told her that if she didn't remove them, I would.",121  INT. BAJORAN SHIP - BRIDGE,BAJORAN SHI,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35001,35001,35001,35001,382,KIRA,And what changed your mind?,121  INT. BAJORAN SHIP - BRIDGE,BAJORAN SHI,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35002,35002,35002,35002,383,ROSS,"You did, colonel. Remind me never to play poker with you.",121  INT. BAJORAN SHIP - BRIDGE,BAJORAN SHI,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,-0.2584
+35003,35003,35003,35003,384,MARTOK,"Well, Worf... did I not promise you a glorious battle?",126  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,-0.7032
+35004,35004,35004,35004,385,WORF,It is all that I had hoped for.,126  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35005,35005,35005,35005,386,O'BRIEN,"EM pulse ready, general.",126  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35006,35006,35006,35006,387,QUARK,Then what are you waiting for? Fire!,126  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35007,35007,35007,35007,388,MARTOK,"By all means, Chief. Fire.",126  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35008,35008,35008,35008,389,BASHIR,It's working.,128  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35009,35009,35009,35009,390,QUARK,Great. Now can we leave?,128  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.5994
+35010,35010,35010,35010,391,WORF,Full impulse.,128  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35011,35011,35011,35011,392,QUARK,I hope Jadzia appreciates all this...,131  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.7351
+35012,35012,35012,35012,393,BASHIR,I think she does.,131  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35013,35013,35013,35013,394,WORF ,"Lohm-Ict-lihj posh-Machh-lodge Sto-vo-kor... (Open your gates, Sto-vo-kor... )",131  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35014,35014,35014,35014,395,WORF,"Jadzia pay-lodge pah-dock-Lih Dun. Shoo-vwee-vahm baht-leh pay- lodge. Pay-lodge Poh-Hokh-Vahd Sto-vo-kor. (Welcome Jadzia to your halls... welcome this honored warrior... welcome her, Sto-vo-kor, for all eternity.)",131  INT. KLINGON BRIDGE,KLINGON BRIDGE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35015,35015,35015,35015,396,SARAH ALIEN,The Sisko has completed his task.,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35016,35016,35016,35016,397,SISKO,Sarah?,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35017,35017,35017,35017,398,SARAH ALIEN,The Kosst Amojan no longer threatens us. All has been restored.,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35018,35018,35018,35018,399,SISKO,You mean the Pah-wraith? It's no longer in the wormhole?,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35019,35019,35019,35019,400,SARAH ALIEN,I have cast it out.,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35020,35020,35020,35020,401,SISKO,Is that why the Prophets sent me to Tyree? To release you from the Orb?,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35021,35021,35021,35021,402,SARAH ALIEN,The Kosst Amojan tried to stop you with a false vision. But you did not waver. You fulfilled your destiny.,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35022,35022,35022,35022,403,SISKO,My destiny? You make it sound like my life's over.,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35023,35023,35023,35023,404,SARAH ALIEN,The Sisko must still face many tasks.,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35024,35024,35024,35024,405,SISKO,I don't suppose you're going to tell me what they are...,135  INT. SISKO'S RESTAURANT - NIGHT (OPTICAL),SISKO'S RESTAURANT - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35025,35025,35025,35025,406,SARAH ALIEN,The Emissary is corporeal. Linear.,137  EXT. SISKO'S RESTAURANT - ALLEY - NIGHT (OPTICAL),SISKO'S RESTAURANT - ALLEY - NIGHT,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35026,35026,35026,35026,407,SISKO,"Linear or not, I need some answers.",137  EXT. SISKO'S RESTAURANT - ALLEY - NIGHT (OPTICAL),SISKO'S RESTAURANT - ALLEY - NIGHT,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35027,35027,35027,35027,408,SARAH ALIEN,The Sisko is intrusive.,137  EXT. SISKO'S RESTAURANT - ALLEY - NIGHT (OPTICAL),SISKO'S RESTAURANT - ALLEY - NIGHT,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35028,35028,35028,35028,409,SISKO,Are you Sarah Sisko? Are you my mother?,137  EXT. SISKO'S RESTAURANT - ALLEY - NIGHT (OPTICAL),SISKO'S RESTAURANT - ALLEY - NIGHT,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35029,35029,35029,35029,410,SARAH ALIEN,"Sarah Sisko was corporeal. For a time, I shared her existence.",137  EXT. SISKO'S RESTAURANT - ALLEY - NIGHT (OPTICAL),SISKO'S RESTAURANT - ALLEY - NIGHT,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35030,35030,35030,35030,411,SISKO,You took over her body -- (putting it all together) -- made sure she married my father... so that she'd give birth to me...,138  INT. SISKO'S RESTAURANT - KITCHEN - NIGHT (OPTICAL),SISKO'S RESTAURANT - KITCHEN - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35031,35031,35031,35031,412,SARAH ALIEN,The Sisko is necessary.,138  INT. SISKO'S RESTAURANT - KITCHEN - NIGHT (OPTICAL),SISKO'S RESTAURANT - KITCHEN - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35032,35032,35032,35032,413,SISKO,"And once you didn't need her anymore, you left her... no wonder she walked out on my father. She never chose him, you did.",138  INT. SISKO'S RESTAURANT - KITCHEN - NIGHT (OPTICAL),SISKO'S RESTAURANT - KITCHEN - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35033,35033,35033,35033,414,SARAH ALIEN,The Sisko would prefer different answers.,138  INT. SISKO'S RESTAURANT - KITCHEN - NIGHT (OPTICAL),SISKO'S RESTAURANT - KITCHEN - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35034,35034,35034,35034,415,SISKO,What you're telling me isn't easy to accept... you arranged my birth. I exist because of you.,139  INT. SISKO'S RESTAURANT - PATIO - NIGHT (OPTICAL)	139,SISKO'S RESTAURANT - PATIO - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35035,35035,35035,35035,416,SARAH ALIEN,The Sisko's path is a difficult one.,139  INT. SISKO'S RESTAURANT - PATIO - NIGHT (OPTICAL)	139,SISKO'S RESTAURANT - PATIO - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35036,35036,35036,35036,417,SISKO,But why me? Why did it have to be me?,139  INT. SISKO'S RESTAURANT - PATIO - NIGHT (OPTICAL)	139,SISKO'S RESTAURANT - PATIO - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35037,35037,35037,35037,418,SARAH ALIEN,Because it could be no one else.,139  INT. SISKO'S RESTAURANT - PATIO - NIGHT (OPTICAL)	139,SISKO'S RESTAURANT - PATIO - NIGHT,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35038,35038,35038,35038,419,EZRI,Benjamin?,140  EXT. TYREE - DESERT - DAY (OPTICAL),TYREE - DESERT - DAY,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35039,35039,35039,35039,420,EZRI,That must've been some Orb experience.,140  EXT. TYREE - DESERT - DAY (OPTICAL),TYREE - DESERT - DAY,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35040,35040,35040,35040,421,SISKO,I'll tell you about it... someday.,140  EXT. TYREE - DESERT - DAY (OPTICAL),TYREE - DESERT - DAY,EXT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35041,35041,35041,35041,422,WORF,"Welcome back, captain.",144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35042,35042,35042,35042,423,O'BRIEN,"We've missed you, sir.",144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35043,35043,35043,35043,424,KIRA,Thank you -- I knew you'd bring the Prophets back to us.,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35044,35044,35044,35044,425,SISKO,I hear you've all been pretty busy yourselves.,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35045,35045,35045,35045,426,EZRI,Nerys! Julian! Odo! It's so good to see you. Worf -- we need to talk --!,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35046,35046,35046,35046,427,BASHIR,Who's that?,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35047,35047,35047,35047,428,JAKE,That's Dax.,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35048,35048,35048,35048,429,WORF,Dax?,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35049,35049,35049,35049,430,JAKE,"That's right, Ezri Dax. Incredible, isn't it?",144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35050,35050,35050,35050,431,WORF,It cannot be...,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35051,35051,35051,35051,432,QUARK,She's so much... shorter.,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35052,35052,35052,35052,433,ODO,Just when you thought things couldn't get more interesting...,144A INT. PROMENADE,PROMENADE,INT.,Shadows and Symbols,1998-07-15,Deep Space Nine,552.txt,0.0
+35053,35053,35053,35053,0,QUARK ,"I am merely a businessman. It would take an orator with the skills of the late, great Plegg himself, to sing the praises of the late, great Plegg.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35054,35054,35054,35054,1,QUARK,"What Ferengi could resist the honor of owning a small piece of the man who took a computer chip and turned it into the modular holosuite industry... a small piece of the man who brought holographic entertainment to the most remote parts of this quadrant, creating profit centers from societies that could barely afford to feed their own people...",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35055,35055,35055,35055,2,ODO,How much are you asking?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35056,35056,35056,35056,3,QUARK,"As I was about to tell my good friend here, a mere three strips of latinum...",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35057,35057,35057,35057,4,QUARK,"And I'd be taking a loss at that price... okay, for you, two strips... (sighs, he's lost him, to odo) Thank you very much.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35058,35058,35058,35058,5,ODO,Three strips? That's a fair price for Plegg.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35059,35059,35059,35059,6,QUARK,I suppose you're interested.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35060,35060,35060,35060,7,ODO,Humanoid death rituals are an interest of mine.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35061,35061,35061,35061,8,QUARK,Death rituals.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35062,35062,35062,35062,9,ODO,Everybody needs a hobby.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35063,35063,35063,35063,10,QUARK,Uh huh...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35064,35064,35064,35064,11,ODO,"Some species burn their dead, others pack them in blocks of ice... some even surround themselves with the company of family corpses. But the Ferengi ritual of chopping up their loved ones and selling them... I find that... irresistible.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35065,35065,35065,35065,12,QUARK,I'm very busy here.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35066,35066,35066,35066,13,ODO,What a fitting and dignified way to honor the memory of great Ferengi entrepreneurs. I'm thinking of starting a collection.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35067,35067,35067,35067,14,ODO,"Putting up a display case in my office. There'll be a special space reserved for you in there, Quark.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35068,35068,35068,35068,15,QUARK,I'm sure.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35069,35069,35069,35069,16,QUARK,You're serious?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35070,35070,35070,35070,17,ODO,Have you ever known me not to be?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35071,35071,35071,35071,18,ODO,"Oh, there is one thing I was curious about...",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35072,35072,35072,35072,19,QUARK,(knows something's coming) And what's that...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35073,35073,35073,35073,20,ODO,How do I know it's Plegg?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35074,35074,35074,35074,21,QUARK,It says so on the label.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35075,35075,35075,35075,22,ODO,Isn't there some sort of letter of authenticity?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35076,35076,35076,35076,23,QUARK,The Ferengi Seal of Dismemberment is right there. What more do you want?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35077,35077,35077,35077,24,ODO,I want Plegg.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35078,35078,35078,35078,25,QUARK,You've got him!,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35079,35079,35079,35079,26,ODO,Not if he's still alive...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35080,35080,35080,35080,27,QUARK,Still alive?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35081,35081,35081,35081,28,ODO,Still alive.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35082,35082,35082,35082,29,QUARK,Plegg?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35083,35083,35083,35083,30,ODO,"When I tracked him down on Khosla Two and told him about your little scheme, he was quite amused. I'm not.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35084,35084,35084,35084,31,QUARK,"Odo, I'm a victim here. I bought these discs in good faith. I have five thousand pieces of Plegg in my storeroom.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35085,35085,35085,35085,32,ODO,Not Plegg.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35086,35086,35086,35086,33,QUARK,Then who?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35087,35087,35087,35087,34,ODO,Good question.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35088,35088,35088,35088,35,QUARK,I demand an investigation...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35089,35089,35089,35089,36,ODO,You'll get one. I promise you.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35090,35090,35090,35090,37,MORA ,Odo...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35091,35091,35091,35091,38,ODO,Doctor Mora...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35092,35092,35092,35092,39,MORA,It's been too long.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35093,35093,35093,35093,40,MORA,"You're looking well. Yes, coming along nicely.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35094,35094,35094,35094,41,ODO,Why didn't you let me know you were coming?,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35095,35095,35095,35095,42,MORA,It was a last minute arrangement.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35096,35096,35096,35096,43,ODO,The trip from Bajor takes five hours.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35097,35097,35097,35097,44,QUARK,"Ah, can I get you something... Doctor ""Mora"" was it?",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35098,35098,35098,35098,45,MORA,Yes. Some Deka tea would be nice...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35099,35099,35099,35099,46,MORA,"You haven't quite managed the ears, yet, have you? But, they're difficult. Is the suit a suit, or part of you? And what about the boots?",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35100,35100,35100,35100,47,QUARK,There we are... nice and hot...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35101,35101,35101,35101,48,MORA,Thank you...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35102,35102,35102,35102,49,QUARK,So... You two seem to be old friends...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35103,35103,35103,35103,50,ODO,Doctor Mora is the Bajoran scientist who was assigned to me after I was found.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35104,35104,35104,35104,51,MORA,I was personally responsible for his development during his formative years.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35105,35105,35105,35105,52,QUARK,"Then, this is a family reunion! I had a hunch... well, Odo's dad is always welcome in Quark's... the tea is on the house...",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35106,35106,35106,35106,53,QUARK,I know he wouldn't tell you himself. But Odo is doing a wonderful job here on the station if I may say so...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35107,35107,35107,35107,54,MORA,Is he...,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35108,35108,35108,35108,55,QUARK,"Absolutely. As a matter of fact, when you came in, he was just beginning a fraud investiga...",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35109,35109,35109,35109,56,ODO,Quark! Excuse us.,1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35110,35110,35110,35110,57,QUARK,"Of course. You two have a lot of catching up to do. If there's anything I can help you with, Doctor, don't hesitate to call on me.",1    INT. QUARK'S,QUARK'S,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35111,35111,35111,35111,58,MORA,That was uncalled for.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35112,35112,35112,35112,59,ODO,You don't know Quark.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35113,35113,35113,35113,60,MORA,I know he was trying very hard to present you in a positive light to someone he thought was important to you and you responded with...,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35114,35114,35114,35114,61,ODO,"(""don't lecture me"" implied) Please...",2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35115,35115,35115,35115,62,MORA,Still having trouble with social integration... ?,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35116,35116,35116,35116,63,ODO,I integrate as much as I want to.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35117,35117,35117,35117,64,MORA,"Define ""as much as I want to.""",2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35118,35118,35118,35118,65,ODO,"""As much as I want to"" means as much as I want to. (already tired of this, a last defense)",2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35119,35119,35119,35119,66,MORA,So how is this police thing you got yourself into working out?,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35120,35120,35120,35120,67,ODO,I enjoy my work as chief of security.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35121,35121,35121,35121,68,MORA,"(casual, not realizing the pain this causes) ""Chief of security."" At a weigh station in space.",2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35122,35122,35122,35122,69,MORA,"Don't you miss it, Odo?",2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35123,35123,35123,35123,70,ODO,What.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35124,35124,35124,35124,71,MORA,Our work.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35125,35125,35125,35125,72,ODO,Never.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35126,35126,35126,35126,73,MORA,"I don't believe it. I know you too well. You were unhappy in the lab. I couldn't blame you for that. But the work, Odo. The exploration of you. What you are. Where you came from. That's never far from your mind, is it. Tell me the truth.",2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35127,35127,35127,35127,74,ODO,That part of it... is true.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35128,35128,35128,35128,75,MORA,Good. Because I came here counting on that.,2A   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35129,35129,35129,35129,76,JAKE,"See you later, Dad...",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35130,35130,35130,35130,77,SISKO,Hey... hey... hold on...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35131,35131,35131,35131,78,JAKE,I'm late...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35132,35132,35132,35132,79,SISKO,For what?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35133,35133,35133,35133,80,JAKE,For Nog.,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35134,35134,35134,35134,81,SISKO,Your homework...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35135,35135,35135,35135,82,JAKE,It's done...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35136,35136,35136,35136,83,SISKO,You've studied that whole Klingon opera for your music test Friday?...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35137,35137,35137,35137,84,JAKE,"I'm gonna ace the test, Dad, I promise...",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35138,35138,35138,35138,85,SISKO,That isn't what I asked...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35139,35139,35139,35139,86,JAKE,It's not until Friday...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35140,35140,35140,35140,87,SISKO,"This isn't about tests, Jake. This is about learning.",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35141,35141,35141,35141,88,SISKO,You can't learn to appreciate Klingon opera by just cramming the night before an exam.,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35142,35142,35142,35142,89,JAKE,I'm never gonna learn to appreciate Klingon opera. It's a waste of time.,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35143,35143,35143,35143,90,SISKO,Being with Nog is not a waste of time but Klingon opera is?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35144,35144,35144,35144,91,JAKE,Yeah! What am I ever going to use Klingon opera for?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35145,35145,35145,35145,92,SISKO,"First of all, you don't know what you'll be when you grow up... you may discover along the way you want to be a musician or you may wind up around Klingons in some job somewhere...",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35146,35146,35146,35146,93,JAKE,"Dad, even if I do, they won't be going around singing operas...",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35147,35147,35147,35147,94,SISKO,It helps to understand their culture...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35148,35148,35148,35148,95,JAKE,When was the last time you listened to a Klingon opera?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35149,35149,35149,35149,96,SISKO,"(beat, knowing that he's getting sucked in) When I was your age.",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35150,35150,35150,35150,97,JAKE,"There, you see?",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35151,35151,35151,35151,98,SISKO,Yes. Do you?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35152,35152,35152,35152,99,JAKE,"Dad, just because you had to suffer through all that doesn't mean I have to.",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35153,35153,35153,35153,100,SISKO,Yes. It does.,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35154,35154,35154,35154,101,SISKO,Come in...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35155,35155,35155,35155,102,JAKE,Dad...,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35156,35156,35156,35156,103,SISKO,Nog has the same test. Why don't you invite him over to listen to the Klingon opera together?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35157,35157,35157,35157,104,SISKO,"Sit down, Odo.",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35158,35158,35158,35158,105,ODO,"Commander, I'd like to request the use of a runabout.",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35159,35159,35159,35159,106,SISKO,Of course. What's up?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35160,35160,35160,35160,107,ODO,Doctor Mora Pol from the Bajoran Institute of Science asked me to help him secure one from the Federation.,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35161,35161,35161,35161,108,SISKO,Why did he come to you?,3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35162,35162,35162,35162,109,ODO,"Doctor Mora was the scientist who was assigned to me in my first years here... if he went to the Board of Ministers to request permission to approach you, it would take months. And he's very anxious to investigate something in the Gamma Quadrant. And may I say, Commander, so am I.",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35163,35163,35163,35163,110,SISKO,"You've got me curious, Constable. Is it a secret?",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35164,35164,35164,35164,111,ODO,"No, but there isn't much to tell. One of the Bajoran science probes recently scanned a planet about six light years from the wormhole. It picked up some very unique and familiar DNA patterns. Patterns very much like my own, Commander. Doctor Mora thinks he may have found the origin of my people... of... me...",3    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35165,35165,35165,35165,112,MORA,"As a scientist yourself, Lieutenant, you can appreciate the difficulty of our dilemma, and the elegance of the solution. When Odo was first found, no one knew who, or indeed, what we were dealing with.",5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35166,35166,35166,35166,113,MORA,"A shapeless, viscous mass of fluid, a veritable organic broth. That was our Odo in the beginning.",5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35167,35167,35167,35167,114,DAX,When did you realize you were dealing with a sentient lifeform?,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35168,35168,35168,35168,115,ODO,He didn't. I had to teach him that myself.,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35169,35169,35169,35169,116,MORA,That's true. That's very true. Tell her.,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35170,35170,35170,35170,117,ODO,It was a dilemma for me. I'd never seen anything like these creatures either.,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35171,35171,35171,35171,118,MORA,"""Seen"" isn't really an appropriate description. He had no eyes per se...",5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35172,35172,35172,35172,119,ODO,I was only trying to describe it in simple terms...,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35173,35173,35173,35173,120,MORA,He had never perceived anything like us before... go on...,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35174,35174,35174,35174,121,ODO,And I knew I had to find some way to communicate with them. So I transformed myself into...,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35175,35175,35175,35175,122,MORA,"(taking the story away) It was remarkable. I'd been coming into the lab every morning, and every morning Odo was still in his liquid form, resting in a Krokan petri beaker. Well... one morning, Odo wasn't there. The beaker was empty, and beside it: an identical beaker that had not been there before.",5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35176,35176,35176,35176,123,MORA,"A perfect replica in every way. It was amazing. It hasn't been the same since you left, Odo. Working with you was the most rewarding part of my career.",5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35177,35177,35177,35177,124,DAX,We're approaching the planet.,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35178,35178,35178,35178,125,DAX,Preparing to enter standard orbit... planet designated L-S-Six.,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35179,35179,35179,35179,126,WELD,Initiating scans.,5    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35180,35180,35180,35180,127,DAX,There's a lot of seismic activity down there... possibly volcanic in origin...,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35181,35181,35181,35181,128,MORA,That's consistent with the probe's analysis of the area...,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35182,35182,35182,35182,129,ODO,Perhaps that's why the changelings had to leave this world...,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35183,35183,35183,35183,130,MORA,"""Changelings?"" That's a new one.",7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35184,35184,35184,35184,131,ODO,I've met people from the Gamma quadrant who've heard stories of a lifeform...,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35185,35185,35185,35185,132,MORA,"(laughs, interrupting, victorious) And you said you weren't interested in our work anymore...",7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35186,35186,35186,35186,133,ODO,That's not what I said...,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35187,35187,35187,35187,134,WELD,I think I've located the area where the probe identified the trace elements... I'm picking up the same DNA traces... entering coordinates...,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35188,35188,35188,35188,135,DAX,Moving into synchronous orbit.,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35189,35189,35189,35189,136,WELD,"Look at these readings, Doctor... I believe there's some kind of artificial structure on the surface...",7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35190,35190,35190,35190,137,MORA,"(smiles, in anticipation) Is it safe to go down, Lieutenant?",7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35191,35191,35191,35191,138,DAX,Surface disturbances are minor... for the moment anyway...,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35192,35192,35192,35192,139,MORA,Let's do it.,7    INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35193,35193,35193,35193,140,MORA,Do the letters mean anything to you?,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35194,35194,35194,35194,141,ODO,No. I don't think so.,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35195,35195,35195,35195,142,MORA,"Well, judging by its position in the ruins, I think it's fair to say this pillar represented something important to the people who lived here.",8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35196,35196,35196,35196,143,DAX,Why don't we take it with us... our computer back on the station might be able to decipher the inscription...,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35197,35197,35197,35197,144,MORA,Where's Doctor Weld gone to? Weld?,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35198,35198,35198,35198,145,WELD ,Over here.,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35199,35199,35199,35199,146,WELD,I may have found what we're looking for.,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35200,35200,35200,35200,147,MORA,Is it carbon based?,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35201,35201,35201,35201,148,WELD,"No. Silicate, but vegetative, and very much alive.",8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35202,35202,35202,35202,149,MORA,"Odo Junior, perhaps?",8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35203,35203,35203,35203,150,DAX,"Computer, begin transport.",8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35204,35204,35204,35204,151,DAX,"Computer, realign transporter... lock on to our combadges...",8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35205,35205,35205,35205,152,COMPUTER,Stand by...,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35206,35206,35206,35206,153,COMPUTER,Ready for transport...,8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35207,35207,35207,35207,154,ODO,"Computer, energize!",8    EXT. PLANET SURFACE - AMID THE RUINS (OPTICAL),PLANET SURFACE - AMID THE RUINS,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35208,35208,35208,35208,155,ODO,Deep Space Nine... this is the Rio Grande. I have seriously injured personnel on board. Request emergency action.,	INT. RUNABOUT,RUNABOUT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35209,35209,35209,35209,156,KIRA,"(on communicator to Odo) We read you, Odo. Who's injured?",20   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35210,35210,35210,35210,157,ODO,"Dax, Doctor Mora, and Doctor Weld. There was some kind of volcanic gas...",20   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35211,35211,35211,35211,158,O'BRIEN,"When you get within transporter range, I'll beam them directly to the Infirmary.",20   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35212,35212,35212,35212,159,SISKO,Alert Doctor Bashir.,20   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35213,35213,35213,35213,160,BASHIR,"They're stable for now. Dax is in fair condition, the Bajorans seem to be more seriously affected. Perhaps they were exposed to more of the gas, or there may be something about Trill physiology... I'm not sure yet...",22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35214,35214,35214,35214,161,SISKO,And Odo?,22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35215,35215,35215,35215,162,ODO,I'm fine.,22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35216,35216,35216,35216,163,BASHIR,"The paralyzing action occurred when the gas was taken into the respiratory system. Since Odo doesn't have a respiratory system as we know it, he apparently wasn't affected at all.",22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35217,35217,35217,35217,164,SISKO,O'Brien's off-loaded the cargo they brought back. He's set up everything in the Science Lab. I understand there are some organic specimens from that planet. Maybe there's something that can help you figure this out.,22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35218,35218,35218,35218,165,BASHIR,Good idea.,22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35219,35219,35219,35219,166,ODO,Will he be all right?,22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35220,35220,35220,35220,167,BASHIR,The molecule appears to have quite an unstable structure. That might mean the effect is temporary.,22   INT. SURGERY - LATER,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35221,35221,35221,35221,168,SISKO,"I know how you feel, Constable.",24   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35222,35222,35222,35222,169,ODO,Feel? About what?,24   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35223,35223,35223,35223,170,SISKO,"When my father got ill... I remember thinking how small and weak he looked lying there in the bed. He'd been so strong... independent... to me it always seemed there was nothing he couldn't do. In the end, I realized that there was nothing he could do. And nothing I could do to help him.",24   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35224,35224,35224,35224,171,ODO,"I appreciate your thoughts, Commander. But Doctor Mora is not my father.",24   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35225,35225,35225,35225,172,KLINGON TENOR,Kak-lah... Kak-lah... Kah-pool-AYYY- do-la-kak-lah... Yoh boo la to dah... Yoh boo la to da...,25   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35226,35226,35226,35226,173,O'BRIEN,The computer's having a hard time classifying your new lifeform.,27   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35227,35227,35227,35227,174,ODO,Why?,27   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35228,35228,35228,35228,175,O'BRIEN,Whatever it is keeps changing... somehow it goes through a metamorphosis every time it reproduces... and it reproduces like crazy. Look at this...,27   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35229,35229,35229,35229,176,O'BRIEN,"It's multiplied so much, I had to change containers... I'll put it in a level-five security field overnight. I wish Dax were here to take a look at it... how's she doing... ?",27   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35230,35230,35230,35230,177,ODO,Doctor Bashir thinks she'll be fine...,27   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35231,35231,35231,35231,178,O'BRIEN,Have any idea what it is?,27   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35232,35232,35232,35232,179,ODO,"I'm hoping it's a key, Mister O'Brien. A key to my past.",27   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35233,35233,35233,35233,180,KIRA,Kira to Sisko.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35234,35234,35234,35234,181,SISKO,"Go ahead, Major...",30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35235,35235,35235,35235,182,KIRA,"Sorry to bother you, Commander. But we need you up here in the Science Lab.",30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35236,35236,35236,35236,183,SISKO,I'm on my way.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35237,35237,35237,35237,184,SISKO,Any signs of a break-in?,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35238,35238,35238,35238,185,KIRA,Not that we've been able to find... the security seal on the lab was still in place when we got here...,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35239,35239,35239,35239,186,O'BRIEN,I can't imagine why anyone would want to steal that thing anyway...,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35240,35240,35240,35240,187,SISKO,You're suggesting the lifeform itself did this...,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35241,35241,35241,35241,188,O'BRIEN,I don't know what did this. Commander. Unless a tornado passed this way without us hearing it. The room was locked. It's gone... that's all I know for now.,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35242,35242,35242,35242,189,SISKO,Let's go to yellow alert. Get a Level Three Security Scan of the entire station underway.,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35243,35243,35243,35243,190,O'BRIEN,Our scanners are probably gonna have trouble finding this lifeform.,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35244,35244,35244,35244,191,O'BRIEN,It has metamorphic qualities that were confusing the computer. You better run the sweep two or three times.,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35245,35245,35245,35245,192,ODO,"Major, you could help me by reviewing the security camera records and the heat sensor readouts for the Lab and the surrounding areas.",33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35246,35246,35246,35246,193,O'BRIEN,"Commander, I'm picking up slight trace elements near the ventilation intake duct. It looks as though the lifeform may have taken this way out.",33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35247,35247,35247,35247,194,SISKO,Doctor Bashir give you permission to be up and about?,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35248,35248,35248,35248,195,DAX,"(as she moves, examining the damage) ""Doctor Bashir"" wouldn't listen to me and hid my clothes so I wouldn't leave.",33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35249,35249,35249,35249,196,DAX,I had to sneak out to my quarters in a hospital gown that wouldn't close in the back... but I met a nice ensign on the way. What did this...,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35250,35250,35250,35250,197,SISKO,The working theory is that the lifeform you brought back is somehow responsible...,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35251,35251,35251,35251,198,DAX,I don't believe it.,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35252,35252,35252,35252,199,SISKO,Good. Find me a better theory.,33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35253,35253,35253,35253,200,DAX,"Odo, Doctor Mora is awake and wants to see you.",33   INT. SCIENCE LAB - MOMENTS AFTER PREVIOUS SCENE,SCIENCE LA,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35254,35254,35254,35254,201,MORA,I heard them say something had happened in the lab.,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35255,35255,35255,35255,202,ODO,The lifeform sample is gone.,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35256,35256,35256,35256,203,MORA,Gone?,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35257,35257,35257,35257,204,ODO,We're not sure why or how yet...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35258,35258,35258,35258,205,MORA,I want to help...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35259,35259,35259,35259,206,ODO,Everything is under control...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35260,35260,35260,35260,207,MORA,I know more about shape-shifters than anyone in this sector...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35261,35261,35261,35261,208,ODO,"Anyone except me, and I'll be running the investigation.",34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35262,35262,35262,35262,209,ODO,Besides we're not even sure it is a shape-shifting lifeform...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35263,35263,35263,35263,210,MORA,Any metamorphic characteristics?,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35264,35264,35264,35264,211,ODO,It was changing faster than the computer could analyze.,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35265,35265,35265,35265,212,MORA,Any indication of intelligence...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35266,35266,35266,35266,213,ODO,Not unless you consider wanton destruction of the lab an indication of intelligence...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35267,35267,35267,35267,214,MORA,It might be... It might be... Don't dismiss any possibility...,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35268,35268,35268,35268,215,MORA,Doctor Weld hasn't regained consciousness. I feel... responsible.,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35269,35269,35269,35269,216,ODO,I know Doctor Bashir is doing everything possible.,34   INT. SURGERY - DARK,SURGER,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35270,35270,35270,35270,217,O'BRIEN,The same trace elements are inside the duct...,36   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35271,35271,35271,35271,218,O'BRIEN,"I'm following the trail, moving toward Corridor Two-H...",37   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35272,35272,35272,35272,219,SISKO,"Nothing's showing up anywhere on the scanners, Chief.",37   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35273,35273,35273,35273,220,O'BRIEN,"Yeah, I figured as much. Did the security cameras in the lab give you anything?",38   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35274,35274,35274,35274,221,ODO,"The security cameras stopped operating for forty-three seconds at zero-three hundred hours, five minutes... right when the alarm sounded...",38   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35275,35275,35275,35275,222,O'BRIEN,Stopped... you mean somebody turned them off?,38   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35276,35276,35276,35276,223,SISKO,More likely some kind of power interruption... It might have affected the security field around the lifeform too... We're trying to analyze it now...,39   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35277,35277,35277,35277,224,O'BRIEN,Do the heat sensors in the lab show any thermal deviation at the same time?,40   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35278,35278,35278,35278,225,SISKO,Almost a six degree increase during the forty-three seconds...,40   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35279,35279,35279,35279,226,O'BRIEN,But then back to normal after that.,40   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35280,35280,35280,35280,227,SISKO,Affirmative.,40   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35281,35281,35281,35281,228,O'BRIEN,We might be dealing with an entity that absorbs low frequency R-F energy... it might be feeding off our power...,41   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35282,35282,35282,35282,229,ODO,But an energy drain should be showing up on our scans...,41   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35283,35283,35283,35283,230,O'BRIEN,"Yeah, that's true, Constable. I don't get it. Maybe this thermal deviation was the result of...",42   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35284,35284,35284,35284,231,SISKO,Chief?,42   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35285,35285,35285,35285,232,O'BRIEN,"Hold on, I hear something.",42   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35286,35286,35286,35286,233,SISKO,We've got your position. Nothing else is showing up anywhere near you...,43   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35287,35287,35287,35287,234,O'BRIEN,"Well, I definitely hear something ahead... can you hear it on the comm line... ?",44   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35288,35288,35288,35288,235,SISKO,No...,44   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35289,35289,35289,35289,236,O'BRIEN,"It almost sounds like... I don't know how to describe it... I'm moving in closer... If you run into my wife, don't mention I did this...",44   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35290,35290,35290,35290,237,SISKO,Move some backup to the nearest corridor...,45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35291,35291,35291,35291,238,ODO,"(acknowledges, hits combadge) Security to Core Section, Level Four, Corridor Two-H...",45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35292,35292,35292,35292,239,O'BRIEN,"I'll come home tonight and she'll ask me how my day was... and I'll say, fine, honey, how was yours?...",45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35293,35293,35293,35293,240,O'BRIEN,"Sometimes I think she really doesn't want to know the truth, so I do us both a favor and...",46   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35294,35294,35294,35294,241,O'BRIEN,Just a structural breach... we need to get a maintenance crew up here...,46   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35295,35295,35295,35295,242,O'BRIEN,Shouldn't be any problem to...,46   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35296,35296,35296,35296,243,O'BRIEN,Ahhh!,46   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35297,35297,35297,35297,244,SISKO,O'Brien report!,46   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35298,35298,35298,35298,245,O'BRIEN,I'm okay... I'm fine... I found our missing lifeform...,46   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35299,35299,35299,35299,246,O'BRIEN,Except it's not a lifeform anymore. It's dead.,46   INT. DARK CONDUIT,DARK CONDUIT,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35300,35300,35300,35300,247,SISKO ,"Station log, Stardate 47391.7. Engineering crews have been working for over fifteen hours searching conduits throughout the core section. There have been no additional incidents and no further evidence of the alien lifeform has been found. Yellow alert has been canceled.",47   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35301,35301,35301,35301,248,BASHIR,"With this kind of cellular structure, the lifeform would have needed a higher concentration of carbon dioxide than our atmosphere provides...",48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35302,35302,35302,35302,249,DAX,It just couldn't survive out of its own environment.,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35303,35303,35303,35303,250,BASHIR,That'd be my analysis...,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35304,35304,35304,35304,251,DAX,"But with that in mind, do you still think this lifeform was capable of destroying the lab?",48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35305,35305,35305,35305,252,BASHIR,It's not impossible. The environmental impact might have taken some time to set in.,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35306,35306,35306,35306,253,DAX,I really would like Doctor Mora's opinion on all this...,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35307,35307,35307,35307,254,BASHIR,He's a lot better. He should be up and around in the morning.,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35308,35308,35308,35308,255,DAX,Feel like a Raktajino before we call it a night?,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35309,35309,35309,35309,256,BASHIR,My replicator or yours...,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35310,35310,35310,35310,257,DAX,I was thinking of the Promenade.,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35311,35311,35311,35311,258,BASHIR,I knew that. Thanks anyway. I have a few things to wrap up here.,48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35312,35312,35312,35312,259,DAX,"Sleep tight, Julian.",48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35313,35313,35313,35313,260,BASHIR,"She enjoys it... it gives her some perverse kind of pleasure. One of these days, I'll stop chasing her and then we'll see...",48   INT. INFIRMARY (VPB),INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35314,35314,35314,35314,261,,"as he wonders to himself what the noise might have been, we see a vague figure drop silently from the ceiling behind him... Bashir doesn't react...",49   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35315,35315,35315,35315,262,BASHIR,Emergency! Emergency! Intruder alert.,49   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35316,35316,35316,35316,263,BASHIR,"It happened so quickly. I'm sorry I can't tell you more about it. It was behind me, then it was gone. But it was big. Very big.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35317,35317,35317,35317,264,SISKO,How badly did you injure it?,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35318,35318,35318,35318,265,BASHIR,"I don't know. I don't know if I injured it at all. I just hit it once with a laser scalpel on its arm, or leg, or tentacle... whatever it was, and it moved up the wall and... was gone.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35319,35319,35319,35319,266,MORA,(with scientific distance) It appears our lifeform has survived and grown into something interesting.,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35320,35320,35320,35320,267,ODO,"Did you notice anything else about the room when you entered, Doctor... anything out of place, anything unusual... (Bashir shakes his head, doesn't think so) Was it unusually warm, perhaps?",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35321,35321,35321,35321,268,BASHIR,"Now that you mention it, it was a bit warm in here...",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35322,35322,35322,35322,269,ODO,"Another thermal distortion... Did you try the lights, Doctor?",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35323,35323,35323,35323,270,BASHIR,"No, I didn't want to disturb the patients.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35324,35324,35324,35324,271,ODO,"Commander, I suggest we check the R- F energy flow to the Infirmary... we might find a power interruption just as we did in the lab.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35325,35325,35325,35325,272,DAX,"No blood, or any fluid traces. But I am picking up a very slight trail of something we didn't see last time. An organic residue.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35326,35326,35326,35326,273,SISKO,Enough to test?,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35327,35327,35327,35327,274,DAX,We'll see.,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35328,35328,35328,35328,275,SISKO,Sisko to Ops.KIRA'S COM VOICE Go ahead.,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35329,35329,35329,35329,276,SISKO,"Restrict all nonessential personnel to their quarters and go to red alert, Major.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35330,35330,35330,35330,277,KIRA,Understood.,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35331,35331,35331,35331,278,SISKO,Keep in touch with Dax's progress... she might give us a way to track this thing...,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35332,35332,35332,35332,279,ODO,"Until we can, I suggest we close down the Promenade.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35333,35333,35333,35333,280,SISKO,"I'll give the order, Constable.",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35334,35334,35334,35334,281,MORA,"""Constable.""",53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35335,35335,35335,35335,282,ODO,It's a nickname that I barely tolerate.,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35336,35336,35336,35336,283,MORA,It's the expression of affection that you find uncomfortable.,53   INT. SURGERY,SURGERY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35337,35337,35337,35337,284,MORA,"You know, that was really a remarkable display back there...",54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35338,35338,35338,35338,285,ODO,Display?,54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35339,35339,35339,35339,286,MORA,"You were careful, attentive...",54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35340,35340,35340,35340,287,ODO,I was just doing my job.,54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35341,35341,35341,35341,288,MORA,"Yes, well, I'm beginning to think that the scientific method and the police method have a lot in common.",54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35342,35342,35342,35342,289,ODO,I never thought of it that way. Perhaps they do.,54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35343,35343,35343,35343,290,MORA,"In science we look for the obvious. We track in straight lines. If something looks too good to be true, it probably isn't true. If there seems to be more to something than meets the eye, there usually is more. We take it step by step.",54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35344,35344,35344,35344,291,ODO,That would apply to criminal investigation also.,54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35345,35345,35345,35345,292,MORA,"You do it very well. I'm proud of you, Odo. Did you know that?",54   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35346,35346,35346,35346,293,ODO,Anything?,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35347,35347,35347,35347,294,DAX,The computer's having trouble breaking down the DNA chains.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35348,35348,35348,35348,295,MORA,What about the pillar... has the computer had any success decoding the encryption?,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35349,35349,35349,35349,296,DAX,"No luck there either. All things considered, the computer's having a bad week. We have such a limited database for the Gamma Quadrant...",55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35350,35350,35350,35350,297,ODO,I have to shut down the Promenade... call me when you have something...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35351,35351,35351,35351,298,ODO,Wasn't that pillar over there before?,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35352,35352,35352,35352,299,DAX,(without looking up from her work) I had to have it moved. It was in my way.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35353,35353,35353,35353,300,MORA,Have you compared this new organic sample to the lifeform we brought back from the planet... ?,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35354,35354,35354,35354,301,DAX,Only enough to be sure that it's not the same...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35355,35355,35355,35355,302,MORA,It might be interesting to see if there are any commonalties at all.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35356,35356,35356,35356,303,DAX,Let me run a cross-tabulation analysis... it should only take a couple of minutes...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35357,35357,35357,35357,304,MORA,"Do you know Odo well, Lieutenant?",55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35358,35358,35358,35358,305,DAX,Not as well as I'd like to. He... keeps to himself a lot.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35359,35359,35359,35359,306,MORA,I'm not surprised. I didn't realize... until I actually saw him... ... how much I missed him... we didn't part on very good terms...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35360,35360,35360,35360,307,DAX,So I've heard.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35361,35361,35361,35361,308,MORA,I didn't want him to leave. We still had so much work to do... (not entirely convinced of what he's saying) But I see him now and I wonder if he wasn't right to go after all... he's come such a long way...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35362,35362,35362,35362,309,DAX,He's an invaluable man around here.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35363,35363,35363,35363,310,MORA,"I never thought he could do it. Integrate successfully. If you could have seen him back then, how ill- prepared he was to be on his own... I was so sure he'd come back. When he left, I told him he'd come back... And all these years, I was still certain that eventually, he'd show up one day at the lab... I guess I'd better get used to the idea that he's not going to.",55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35364,35364,35364,35364,311,DAX,Here we are...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35365,35365,35365,35365,312,MORA,Which one is this?,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35366,35366,35366,35366,313,DAX,That's the new one from the Infirmary. This is the lifeform from the planet... but remember it went through several metamorphoses...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35367,35367,35367,35367,314,MORA,"No, it's not the same entity... the nucleotide sequences are entirely different...",55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35368,35368,35368,35368,315,DAX,Some metachromic similarities...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35369,35369,35369,35369,316,MORA,Yes... on the most basic level... it may be a distant cousin at best...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35370,35370,35370,35370,317,DAX,The computer's broken down the DNA chain on the new sample.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35371,35371,35371,35371,318,DAX,I can run an analysis to see if it matches up with any other lifeform in the computer...,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35372,35372,35372,35372,319,MORA,How long will that take?,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35373,35373,35373,35373,320,DAX,"Two, three hours, maybe.",55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35374,35374,35374,35374,321,MORA,Let me know.,55   INT. SCIENCE LAB (VPB),SCIENCE LAB,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35375,35375,35375,35375,322,ODO,Doctor Weld has regained consciousness. It looks like he'll be fine.,57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35376,35376,35376,35376,323,MORA,That's a relief.,57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35377,35377,35377,35377,324,ODO,You don't seem relieved.,57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35378,35378,35378,35378,325,MORA,"(appreciating him anew) You can tell that just by observing me, can't you... the tone of my voice, my eyes, my body movements...",57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35379,35379,35379,35379,326,ODO,Yes.,57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35380,35380,35380,35380,327,MORA,"You are such a remarkable lifeform, Odo. But there is so much we still don't understand about you.",57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35381,35381,35381,35381,328,ODO,"What are you getting at, Doctor... ?",57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35382,35382,35382,35382,329,MORA,"The computer has broken down the DNA chain of the organic sample we found in the Infirmary. Dax is running an analysis of it now. She'll have it identified in a couple of hours. But I already know what it is. I've seen it before. The organic sample... it's from you, Odo.",57   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35383,35383,35383,35383,330,MORA,"The destruction in the Science Lab occurred at zero-three hundred hours, five minutes. Then the attack in the Infirmary occurred at nineteen- thirty-five. Roughly sixteen hours apart. Is your rejuvenation period still sixteen hours...",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35384,35384,35384,35384,331,ODO,I was in my pail during both attacks.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35385,35385,35385,35385,332,MORA,"But were you... I don't think so. I think, Odo, that you have been in the rather ironic position of trying to track down... yourself.",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35386,35386,35386,35386,333,ODO,How could this be?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35387,35387,35387,35387,334,MORA,Has anything like this happened before?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35388,35388,35388,35388,335,ODO,Of course not.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35389,35389,35389,35389,336,MORA,Are you certain?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35390,35390,35390,35390,337,ODO,"Of course, I'm certain. There would have been incidents.",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35391,35391,35391,35391,338,MORA,No unsolved crimes on the books?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35392,35392,35392,35392,339,ODO,There are always unsolved crimes.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35393,35393,35393,35393,340,MORA,"Then, the possibility exists...",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35394,35394,35394,35394,341,ODO,It doesn't. I do not commit criminal acts. It is not in my nature.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.532
+35395,35395,35395,35395,342,MORA,(the evidence before us) Isn't it?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35396,35396,35396,35396,343,ODO,The gas. Maybe it was the gas on the planet. It must have affected me in some way.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,-0.1531
+35397,35397,35397,35397,344,MORA,A possibility.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35398,35398,35398,35398,345,ODO,That has to be it.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35399,35399,35399,35399,346,MORA,It's certainly worth investigating.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35400,35400,35400,35400,347,ODO,Doctor Bashir might be able to...,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35401,35401,35401,35401,348,MORA,"Doctor Bashir won't be able to understand anything about this... except that you turned into some kind of out-of-control thing that almost killed him. Really, Odo. What do you think they'll do with you?",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35402,35402,35402,35402,349,ODO,Do?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35403,35403,35403,35403,350,MORA,"They won't know what to do. They'll put you in some kind of high security prison, or quarantine you on a deserted asteroid in the Gamma Quadrant. Odo, they'll put you in a zoo.",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35404,35404,35404,35404,351,ODO,I don't believe that. You don't know them...,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35405,35405,35405,35405,352,MORA,What other humanoid have you ever been able to trust except me?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35406,35406,35406,35406,353,ODO,What makes you think I trust you...,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35407,35407,35407,35407,354,MORA,"I resent that. I really do. After the time I invested in you. The education I gave you. The attention I gave you. You wouldn't be here today without my guidance. I gave you more than anyone else in my life. You were my life. And you walked away. Now, you don't trust me? Fine, put yourself in their hands then. Always had to learn your lessons the hard way, didn't you...",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35408,35408,35408,35408,355,ODO,I am not going back to the center with you...,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35409,35409,35409,35409,356,MORA,Why? We'll work through this together. The two of us.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35410,35410,35410,35410,357,MORA,We'll solve it together. Just as we used to.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35411,35411,35411,35411,358,ODO,No.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35412,35412,35412,35412,359,O'BRIEN,"Commander, I've got a power failure in Security...",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35413,35413,35413,35413,360,SISKO,Sisko to Odo... Sisko to Odo.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35414,35414,35414,35414,361,KIRA,All deputies report to Security Office... possible intruder.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35415,35415,35415,35415,362,O'BRIEN,I'm tracking it...,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35416,35416,35416,35416,363,O'BRIEN,"We have a power drain in the life support conduit above the Security Office. If it's feeding off our power, we might be able to slow it down by shutting off the primary flow to the entire core section...",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35417,35417,35417,35417,364,SISKO,Do it.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35418,35418,35418,35418,365,SISKO,Where the hell did it come from?,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35419,35419,35419,35419,366,KIRA,And where's Odo...,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35420,35420,35420,35420,367,KIRA,Go ahead.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35421,35421,35421,35421,368,KIRA,No sign of Odo?,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35422,35422,35422,35422,369,SECURITY OFFICER,Nossir.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35423,35423,35423,35423,370,MORA ,"I can help you with that, Major.",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35424,35424,35424,35424,371,MORA,The creature you're after is Odo. There must have been... some kind of metamorphic reaction to the volcanic gas we encountered on the planet.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35425,35425,35425,35425,372,SISKO,Is there any way to communicate with him?,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35426,35426,35426,35426,373,MORA,"I don't know. It's not Odo really... it's separate and independent from the Odo we know... and yet... At the very least, it is aware... of me.",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35427,35427,35427,35427,374,KIRA,How can you know that?,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35428,35428,35428,35428,375,MORA,"The incident in the Science Lab... I think it was an attempt to ""rescue"" the lifeform I put into containment... the second encounter was in the Infirmary where I was sleeping... the third took place minutes ago when we were having a... heated discussion in Security. I think your... ""Constable"" himself would draw the same conclusion from the evidence... on some instinctual level, this creature is familiar with me.",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35429,35429,35429,35429,376,SISKO,He might even conclude it has hostile intentions toward you.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35430,35430,35430,35430,377,MORA,That has occurred to me.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35431,35431,35431,35431,378,O'BRIEN,"The power shutdown is complete, Commander. Odo... or whatever it is... has stopped moving for the moment.",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35432,35432,35432,35432,379,SISKO,"Chief, based on your knowledge of its behavior, if we can lure him out, is there any way to set up a forcefield that can hold him...",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35433,35433,35433,35433,380,O'BRIEN,We could reverse polarity on the energy fields and it might work... but that's only a guess.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35434,35434,35434,35434,381,SISKO,"Set it up on the Promenade... I want a lot of room to operate... Major, station security teams along the perimeter...",61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35435,35435,35435,35435,382,KIRA,How do we get him to come out of the conduits?,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35436,35436,35436,35436,383,O'BRIEN,Maybe we can use some R-F energy bursts to attract him...,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35437,35437,35437,35437,384,MORA,I think there's only one thing that's going to attract that creature into your trap. It's me he's after.,61   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35438,35438,35438,35438,385,SISKO,Mister O'Brien?,63   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35439,35439,35439,35439,386,O'BRIEN,"Our plan seems to be working, Commander. It's following my trail of energy crumbs right toward you...",64   INT. OPS,OPS,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35440,35440,35440,35440,387,SISKO,"On my signal, open the conduit and let him in...",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35441,35441,35441,35441,388,O'BRIEN,"Aye, sir...",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35442,35442,35442,35442,389,SISKO,"We can't be sure which vent he'll come through. Hopefully, it'll be the first one available to him... ... over there... but if not, there are seventeen others he might choose. We're not stationing officers near any of them... we don't want to scare him away.",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35443,35443,35443,35443,390,MORA,I understand.,65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35444,35444,35444,35444,391,SISKO,Just get him to the forcefield. We'll do the rest.,65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35445,35445,35445,35445,392,SISKO,"Pass the word that phasers are to be set on maximum stun... the moment Doctor Mora appears to be in jeopardy, I'll open fire. Their orders are to follow my lead. If maximum stun doesn't bring him down immediately, we set phasers to kill.",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35446,35446,35446,35446,393,KIRA,Commander...,65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35447,35447,35447,35447,394,SISKO,"I know, Major. Those are the orders.",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35448,35448,35448,35448,395,SISKO,"Mister O'Brien, we're ready.",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35449,35449,35449,35449,396,O'BRIEN,Releasing the conduit seal.,65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35450,35450,35450,35450,397,SISKO,"Doctor Mora, did you hear that?",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35451,35451,35451,35451,398,MORA,Ready and waiting.,65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35452,35452,35452,35452,399,MORA,What are you waiting for? I'm here. And I'm not going anywhere.,65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35453,35453,35453,35453,400,MORA,"I've done it to you again, haven't I, Odo. Made you a prisoner. Dear God, what have I done.",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35454,35454,35454,35454,401,SISKO,"Mister O'Brien, drop the field.",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35455,35455,35455,35455,402,O'BRIEN,"Aye, sir.",65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35456,35456,35456,35456,403,MORA,We have a lot to talk about.,65   INT. PROMENADE,PROMENADE,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35457,35457,35457,35457,404,BASHIR,"I'm not going to try to explain exactly what happened to you, Odo... because I haven't the vaguest idea... I can tell you with Doctor Mora's help we've managed to eliminate all traces of the gas from your cellular structure... I'll prescribe rest because it's hard for a doctor to go wrong with that one... but otherwise, there's not much more I can do for you.",80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35458,35458,35458,35458,405,ODO,"Thank you, Doctor.",80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35459,35459,35459,35459,406,MORA,I'm going home.,80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35460,35460,35460,35460,407,ODO,"Doctor Mora, I want to be sure you know that I had no idea...",80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35461,35461,35461,35461,408,MORA,You had to speak in a voice loud enough for me to hear.,80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35462,35462,35462,35462,409,ODO,I'm... sorry.,80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35463,35463,35463,35463,410,MORA,"I'm sorry it was necessary. I would like... in a small way... to be a part of your life again... your life on the station. From time to time, we could talk. About things that matter to you. To us.",80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35464,35464,35464,35464,411,ODO,I'd... like that.,80   INT. INFIRMARY,INFIRMARY,INT.,The Alternate,1993-10-27,Deep Space Nine,432.txt,0.0
+35465,35465,35465,35465,0,BASHIR ,"Medical log, Stardate 47229.1. Chief O'BRIEN and I have been working overtime to prepare for the arrival of a new cartographer. Ensign Melora Pazlar is the first Elaysian to join Starfleet and, as such, requires special accommodations.",1    EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35466,35466,35466,35466,1,O'BRIEN,"and I have been working overtime to prepare for the arrival of a new cartographer. Ensign Melora Pazlar is the first Elaysian to join Starfleet and, as such, requires special accommodations.",1    EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35467,35467,35467,35467,2,DAX ,I haven't seen one of these in three hundred years.,2    INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35468,35468,35468,35468,3,DAX,I'm surprised it was even on file in the replicator's data bank.,2    INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35469,35469,35469,35469,4,BASHIR,It wasn't. Ensign Pazlar sent me the specifications.,2    INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35470,35470,35470,35470,5,DAX,She actually uses one like this?,2    INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35471,35471,35471,35471,6,BASHIR,Her normal anti-grav unit isn't going to work here... same problem we had with the Starfleet cargo lifts... Cardassian construction just isn't compatible.,2    INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35472,35472,35472,35472,7,BASHIR,On our way.,2    INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35473,35473,35473,35473,8,BASHIR,"Think of what she's gone through to get here, Jadzia... what it must be like to adjust to our gravity after growing up on a planet with low surface gravity.",3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35474,35474,35474,35474,9,O'BRIEN,Doctor... !,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35475,35475,35475,35475,10,O'BRIEN,We've done the best we can with the ramps... the Cardassians obviously didn't have her in mind when they built the place...,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35476,35476,35476,35476,11,BASHIR,I've managed to modify the maximum vertical clearance of the chair three centimeters to a slope of fifty-six degrees.,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35477,35477,35477,35477,12,O'BRIEN,That still leaves a lot of places around here she won't have access to...,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35478,35478,35478,35478,13,DAX,Can't we just use the transporter to help her get around?,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35479,35479,35479,35479,14,O'BRIEN,"Makes sense to me, but she sent word that it wouldn't be acceptable to her.",3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35480,35480,35480,35480,15,DAX,I wonder why...,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35481,35481,35481,35481,16,BASHIR,"I know exactly why... she went through the Academy the same way. Once her basic needs were met, she refused any special attention. She's extraordinary.",3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35482,35482,35482,35482,17,DAX,You make it sound like you've known her for years...,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35483,35483,35483,35483,18,BASHIR,"I almost feel that way... I've pulled all her personnel and medical files to get ready... Her quarters... they're ready, aren't they?",3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35484,35484,35484,35484,19,O'BRIEN,I have the bumps on my head to prove it.,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35485,35485,35485,35485,20,BASHIR,"Thanks, Chief.",3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35486,35486,35486,35486,21,O'BRIEN,Let me know if there's anything else I can do.,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35487,35487,35487,35487,22,BASHIR,That'll be something to see... when we turn off the gravity and she flies around her room...,3    INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35488,35488,35488,35488,23,MELORA,Ensign Melora Pazlar reporting for duty.,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35489,35489,35489,35489,24,DAX,"Welcome to DS Nine, Ensign. I'm Chief Science Officer, Jadzia Dax... and this...",4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35490,35490,35490,35490,25,MELORA,Doctor Bashir... we spoke on subspace...,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35491,35491,35491,35491,26,BASHIR,Good to meet you in person...,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35492,35492,35492,35492,27,MELORA,I see you have my trolley car ready to go...,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35493,35493,35493,35493,28,BASHIR,As requested.,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35494,35494,35494,35494,29,DAX,"Here, let me help...",4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35495,35495,35495,35495,30,MELORA,"I'm fine, thank you.",4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35496,35496,35496,35496,31,MELORA,That's better.,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35497,35497,35497,35497,32,MELORA,You've modified it.,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35498,35498,35498,35498,33,BASHIR,I wanted to give you as much mobility as I could.,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35499,35499,35499,35499,34,MELORA,I've been practicing on the model I requested for a month...,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35500,35500,35500,35500,35,BASHIR,It's... really no problem... I can replicate the other design...,4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35501,35501,35501,35501,36,MELORA,"No, I'll just have to adapt.",4    INT. AIRLOCK - CLOSE ON MELORA,AIRLOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35502,35502,35502,35502,37,MELORA,"I really don't think that'll be necessary, Lieutenant... I'm perfectly capable of piloting a runabout...",5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35503,35503,35503,35503,38,DAX,Commander Sisko thought...,5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35504,35504,35504,35504,39,MELORA,"I'm sure he thought what every officer I've served with has thought... that I need extra help to get the job done. Please tell him, I don't.",5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35505,35505,35505,35505,40,MELORA,I'm sure the Chief Science Officer has more important things to do than to chart a sector in the Gamma Quadrant...,5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35506,35506,35506,35506,41,BASHIR,Here we are...,5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35507,35507,35507,35507,42,MELORA,"You haven't modified the specifications I gave you for my quarters, I hope...",5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35508,35508,35508,35508,43,BASHIR,Not one iota. You can control the gravity unit with this device. If you'd like to try it out...,5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35509,35509,35509,35509,44,MELORA,"Thank you, I will. It's been a pleasure meeting both of you.",5    INT. CORRIDOR TO QUARTERS,CORRIDOR TO QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35510,35510,35510,35510,45,ASHROCK,Paltriss only created eighty of them... each a work of art...,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35511,35511,35511,35511,46,QUARK,And I've come into possession of forty-two.,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35512,35512,35512,35512,47,ASHROCK,Forty-two? My world will honor your name for returning the Rings of Paltriss to his birthplace...,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35513,35513,35513,35513,48,QUARK,"(drops ring in pouch, puts pouch in pocket) Honor my name all you want... as long as your honor is accompanied by one hundred and ninety-nine bars of gold-pressed latinum...",7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35514,35514,35514,35514,49,ASHROCK,I've heard that you drive a hard bargain...,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,-0.1027
+35515,35515,35515,35515,50,QUARK,Shall we celebrate our closing the deal with another drink... ?,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.5719
+35516,35516,35516,35516,51,QUARK,"Excuse me, I'm sorry but we're not open yet... if you'll come back in...",7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35517,35517,35517,35517,52,QUARK,"(now nervous, to Ashrock) Have another drink on me.",7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35518,35518,35518,35518,53,QUARK,Fallit... Fallit Kot... is that really you? How long has it been?,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35519,35519,35519,35519,54,FALLIT KOT,Eight years. Eight long years.,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35520,35520,35520,35520,55,QUARK,"It can't be... I must say, you look terrific... tanned... toned up... all of that baby fat has disappeared from your face...",7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35521,35521,35521,35521,56,LLIT KOT,"You don't keep extra weight on, where I've been...",7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35522,35522,35522,35522,57,QUARK,"Just passing through, are you? I'll bet you have business in the Gamma Quadrant... you always had a sharp eye for fresh territory...",7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35523,35523,35523,35523,58,FALLIT KOT,I'm not going to the Gamma Quadrant. My business is right here. With you.,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35524,35524,35524,35524,59,QUARK,With me?,7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35525,35525,35525,35525,60,FALLIT KOT,"That's right. (leans in; no brag, just fact) I've come to kill you, Quark.",7    INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35526,35526,35526,35526,61,DAX,I've gone through her mission profile. She certainly knows what she's doing...,9    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35527,35527,35527,35527,62,SISKO,"Nevertheless, this is her first deep space assignment... and it doesn't make sense to me to... (rising, interrupting himself) Here she is...",9    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35528,35528,35528,35528,63,SISKO,"Ensign, I'm Commander Benjamin Sisko...",11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35529,35529,35529,35529,64,MELORA,Am I late?,11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35530,35530,35530,35530,65,SISKO,Not at all.,11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35531,35531,35531,35531,66,MELORA,It looked like the meeting had already begun.,11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35532,35532,35532,35532,67,SISKO,Dax and Bashir were just telling me about your request to pilot a runabout alone.,11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35533,35533,35533,35533,68,MELORA,Wouldn't it have been appropriate to include me in that conversation?,11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35534,35534,35534,35534,69,SISKO,"I was getting a briefing by my senior officers, Ensign. We talk about personnel matters all the time.",11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35535,35535,35535,35535,70,MELORA,"I'm sorry if I seem overly sensitive. But I'm used to being shut out of the ""Melora"" problem. The truth is there is no ""Melora"" problem. Until people create one.",11   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35536,35536,35536,35536,71,MELORA,"This may sound ungrateful, because Doctor Bashir has been wonderfully helpful in the preparations for my arrival, but frankly, I wonder why a medical opinion is necessary in this discussion.",12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35537,35537,35537,35537,72,DAX,Julian knows more about your capabilities than any of us.,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35538,35538,35538,35538,73,MELORA,I don't need a medical opinion to tell me my own capabilities...,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35539,35539,35539,35539,74,BASHIR,I also know the station and the runabouts...,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35540,35540,35540,35540,75,MELORA,I've studied the station's schematics... and I've flown runabouts...,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35541,35541,35541,35541,76,SISKO,Ensign...,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35542,35542,35542,35542,77,MELORA,I simply object to being treated like someone who is ill.,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35543,35543,35543,35543,78,SISKO,I don't see anybody doing that.,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35544,35544,35544,35544,79,MELORA,"Try sitting in the chair, Commander. No one can understand until they sit in the chair.",12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35545,35545,35545,35545,80,MELORA,"I've been in one chair or another since I left my homeworld. My family gave me this cane made from the wood of a garlanic tree. (chuckles at the naivete) ... they had no idea what it would be like to live off-world... in what you consider ""normal"" gravity. Only a handful of Elaysians have ever left home. But I always knew I had to be one of them.",12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35546,35546,35546,35546,81,MELORA ,"I dreamed about exploring the stars as a girl. And I wasn't going to allow any... ""handicap,"" not a chair, not a Cardassian station... to stop me from chasing that dream.",12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35547,35547,35547,35547,82,SISKO,You must feel a great deal of pride in what you've been able to achieve.,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35548,35548,35548,35548,83,MELORA,"And I've achieved it without being dependent on anybody. To be honest, I prefer working alone. It's simply easier for me.",12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35549,35549,35549,35549,84,SISKO,I'm not comfortable sending you alone into the Gamma Quadrant.,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35550,35550,35550,35550,85,MELORA,"Sir, I can focus on the job better, I can work at my own pace without bothering anyone else...",12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35551,35551,35551,35551,86,SISKO,Lieutenant Dax will be going with you.,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35552,35552,35552,35552,87,MELORA,"Yes sir. When do you wish to leave, Lieutenant?",12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35553,35553,35553,35553,88,DAX,Your schedule is fine with me.,12   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35554,35554,35554,35554,89,MELORA,Come in.,13   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35555,35555,35555,35555,90,BASHIR,Is it working? The low-grav field actuator... I just heard it go off.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35556,35556,35556,35556,91,MELORA,It's working fine.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35557,35557,35557,35557,92,BASHIR,So you were just...,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35558,35558,35558,35558,93,MELORA,"For me, it's like slipping into a hot tub at the end of a long day.",14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35559,35559,35559,35559,94,BASHIR,"Really. (because he can't ask what he wants to ask) I'm... a shower man, myself.",14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35560,35560,35560,35560,95,BASHIR,Look at this. Is that your husband... ? Boyfriend... ?,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35561,35561,35561,35561,96,MELORA,"If you came for an apology, Doctor, I apologize.",14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35562,35562,35562,35562,97,BASHIR,Apology?,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35563,35563,35563,35563,98,MELORA,My speech was not intended to attack you personally.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35564,35564,35564,35564,99,BASHIR,I'm sure you never set out to attack anyone personally. But you do seem... to attack a lot.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35565,35565,35565,35565,100,MELORA,"That's rather insensitive of you, Doctor.",14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35566,35566,35566,35566,101,BASHIR,Julian. I'm no longer your doctor.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35567,35567,35567,35567,102,MELORA,I see. You've decided I need a friend.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35568,35568,35568,35568,103,BASHIR,"Was that an attack? You do it so well, with such charm, it's hard to tell.",14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35569,35569,35569,35569,104,MELORA,I really don't mean to...,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35570,35570,35570,35570,105,BASHIR,Sure you do.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35571,35571,35571,35571,106,MELORA,I beg your pardon?,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35572,35572,35572,35572,107,MELORA,Always seemed to work pretty well. Until now.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35573,35573,35573,35573,108,BASHIR,That's the nicest thing you've said to me. Or anybody else for that matter. Are you hungry? I came here thinking about asking you to dinner.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35574,35574,35574,35574,109,MELORA,"Then afterward, we'll go dancing, I suppose.",14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35575,35575,35575,35575,110,BASHIR,Red alert.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35576,35576,35576,35576,111,MELORA,Sorry.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35577,35577,35577,35577,112,BASHIR,Come on... there's a new Klingon restaurant on the Promenade... if you like that sort of thing.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35578,35578,35578,35578,113,MELORA,All right.,14   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35579,35579,35579,35579,114,QUARK,Dinner is served.,17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35580,35580,35580,35580,115,FALLIT KOT,I didn't order dinner.,17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35581,35581,35581,35581,116,QUARK,"What better way to mollify -- I mean, satisfy -- a hungry traveler than with a delicious home-cooked meal... starting with a delicate Vak clover soup...",17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.8689
+35582,35582,35582,35582,117,QUARK,Why spoil your appetite with soup?,17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35583,35583,35583,35583,118,QUARK,Here's the real treat... Jumbo Vulcan mollusks.,17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35584,35584,35584,35584,119,QUARK ,"Sauteed in rhombolian butter... a taste so exquisite, it's to die for... (realizes what he's just said) ... or to live for, for that matter...",17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35585,35585,35585,35585,120,QUARK,"Do you know dabo, Fallit?",17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35586,35586,35586,35586,121,QUARK,A wonderfully entertaining game and easy to learn. I took the liberty of lining up a couple of excellent tutors I happen to know...,17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35587,35587,35587,35587,122,QUARK,"Be sure to ask them about their ""double down"" betting strategy. If I haven't made it clear, I intend to make your stay here as delightful as you could ever imagine. So allow me to propose a toast... to... Old friends.",17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35588,35588,35588,35588,123,FALLIT KOT,Old debts.,17   INT. QUARK'S,QUARK'S,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35589,35589,35589,35589,124,KLINGON CHEF,Gruffs at Bashir to order --,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35590,35590,35590,35590,125,CHEF,Gagh Tek Or!,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35591,35591,35591,35591,126,BASHIR,Shall I order for us both?,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35592,35592,35592,35592,127,MELORA,All right.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35593,35593,35593,35593,128,BASHIR,Let's see... we'll have some racht of course...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35594,35594,35594,35594,129,CHEF,Racht...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35595,35595,35595,35595,130,BASHIR,And a double order of Gladst... no sauce please...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35596,35596,35596,35596,131,CHEF,Gladst... usu bal.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35597,35597,35597,35597,132,BASHIR,"And, a side order of zilm'kach... is that too much for two people... ?",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35598,35598,35598,35598,133,CHEF,Drak doo.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35599,35599,35599,35599,134,MELORA,May I? As Bashir holds it down...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35600,35600,35600,35600,135,BASHIR,Don't be alarmed.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35601,35601,35601,35601,136,MELORA,"Excuse me, Julian, I can't eat this.",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35602,35602,35602,35602,137,BASHIR,I know how it looks but...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35603,35603,35603,35603,138,MELORA,P'kar tel Durg Le Frakn'l? (You call this live?),18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35604,35604,35604,35604,139,CHEF,"Dug a bul, rah'tar! (What's your problem, lady?)",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35605,35605,35605,35605,140,MELORA,D'tel klop a bul! (This slop you call food is the problem!,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35606,35606,35606,35606,141,CHEF,"Pak't pol! (If you don't like it, don't eat it!)",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35607,35607,35607,35607,142,MELORA,D'kar tel G'denna! (I want to see the blood running through the veins!),18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35608,35608,35608,35608,143,CHEF,I like a customer who knows what she wants...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35609,35609,35609,35609,144,CHEF,Eh?,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35610,35610,35610,35610,145,MELORA,G'denna.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35611,35611,35611,35611,146,MELORA,There's nothing worse then half dead Racht.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35612,35612,35612,35612,147,BASHIR,"I was ten. My father was a Federation diplomat on Invernia Two. One day we were out on a remote part of the planet when a massive ionic storm hit. While we were waiting it out, we found an Invernian girl about my age who was sick. As soon as the storm cleared, my father went for help but it was too late. I sat there... and watched her die. The next day when my father returned, his guide told us we could have treated her with a simple herb that was growing all around us.",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35613,35613,35613,35613,148,BASHIR,I could have saved her life.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35614,35614,35614,35614,149,MELORA,And so you started to study medicine.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35615,35615,35615,35615,150,BASHIR,"Yes... well, actually, first I started to study tennis.",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35616,35616,35616,35616,151,MELORA,Tennis?,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35617,35617,35617,35617,152,BASHIR,I really thought about making a career of it for awhile...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35618,35618,35618,35618,153,MELORA,You must be very good...,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35619,35619,35619,35619,154,BASHIR,"I used to think so, then I went to my first major competition... my opponent served first and I heard it bounce past me and the computer announced it was good and I knew I was in trouble... it turned out I had a bit more talent at medicine than tennis...",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35620,35620,35620,35620,155,MELORA,This has been delightful. Thank you.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35621,35621,35621,35621,156,BASHIR,I'll never look at a Racht the same way again.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35622,35622,35622,35622,157,MELORA,I have an early mission tomorrow. I better get some rest.,18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35623,35623,35623,35623,158,BASHIR,"Of course. Come on, I'll take you home.",18   INT. PROMENADE - KLINGON KIOSK - CLOSE ON A,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35624,35624,35624,35624,159,DAX,"Dax to Pazlar. Computer, level one security access...",23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35625,35625,35625,35625,160,DAX,Ensign Pazlar?,23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35626,35626,35626,35626,161,DAX,"Computer, locate Ensign Melora Pazlar.",23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35627,35627,35627,35627,162,COMPUTER,"Docking Level Twenty-Two, Section Fourteen.",23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35628,35628,35628,35628,163,DAX,Section Fourteen?,23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35629,35629,35629,35629,164,DAX,We've got to get you to the Infirmary...,23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35630,35630,35630,35630,165,MELORA,"(breathing heavily, agonizing) It's my own fault... I decided... I could use an extra astrometric array after going through the mission profile again... I came to the storage bay to get one... my mind was already in the Gamma Quadrant... I wasn't... paying enough attention to what I was doing... I guess my boot... didn't make the lip of the door... I fell on my controls...",23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35631,35631,35631,35631,166,DAX,Dax to Bashir. Ensign Pazlar's had a minor accident. We need to see you in the Infirmary.,23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35632,35632,35632,35632,167,BASHIR,Acknowledged. I'll be there in three minutes.,23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35633,35633,35633,35633,168,MELORA,What kind... of architect would deliberately... design a raised rim at the entrance to every door...,23   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35634,35634,35634,35634,169,MELORA,So much for the dangers of the Gamma Quadrant... I didn't even make it there...,29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35635,35635,35635,35635,170,BASHIR,You will. There's no concussion... you can reschedule your mission for tomorrow...,29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35636,35636,35636,35636,171,MELORA,"It was so... (sighs, ""humiliating"" is implied) ... flopping back and forth... like a broken toy... I didn't want anyone to find me like that... but I couldn't get up by myself...",29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35637,35637,35637,35637,172,BASHIR,Why didn't you wait for Dax before you went into an area that wasn't modified with ramps...,29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35638,35638,35638,35638,173,MELORA,I didn't need Dax... if I'd just paid attention...,29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35639,35639,35639,35639,174,BASHIR,"Melora... no one on this station is completely independent... in space, we all depend on one another to some degree...",29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35640,35640,35640,35640,175,MELORA,I just want you all to know you can depend on me...,29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35641,35641,35641,35641,176,BASHIR,"Okay, you've proven that... what do the rest of us have to do to convince you?",29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35642,35642,35642,35642,177,MELORA,Of what?,29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35643,35643,35643,35643,178,BASHIR,That you can depend on us.,29   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35644,35644,35644,35644,179,BASHIR,Have you ever heard of the work Nathaniel Teros did with low gravity species thirty years ago?,30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35645,35645,35645,35645,180,MELORA,Neuromuscular adaptation? It had no practical success at all.,30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35646,35646,35646,35646,181,BASHIR,"No, but the principles were sound... and a lot of progress has been made in neurochemistry since then...",30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35647,35647,35647,35647,182,MELORA,You think some day I could throw away the chair... ?,30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35648,35648,35648,35648,183,BASHIR,Theoretically... perhaps...,30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35649,35649,35649,35649,184,MELORA,Would you like to come in... ?,30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35650,35650,35650,35650,185,BASHIR,I know how much you look forward to turning down the gravity...,30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35651,35651,35651,35651,186,MELORA,Don't let that stop you...,30   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35652,35652,35652,35652,187,MELORA,You may want to brace yourself until you get used to it...,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35653,35653,35653,35653,188,MELORA,"Come on, Julian.",31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35654,35654,35654,35654,189,BASHIR,What do I do?,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35655,35655,35655,35655,190,MELORA,Just give a gentle push... it's easy.,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35656,35656,35656,35656,191,BASHIR,This is astonishing.,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35657,35657,35657,35657,192,BASHIR,I can't tell you how curious I was about this...,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35658,35658,35658,35658,193,MELORA,"Most people are. Sometimes they make me feel like a carnival attraction. So, usually, I prefer to keep everyone out...",31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35659,35659,35659,35659,194,BASHIR,Thank you... for letting me in.,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35660,35660,35660,35660,195,MELORA,He's my brother.,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35661,35661,35661,35661,196,BASHIR,Oh.,31   INT. MELORA'S QUARTERS (OPTICAL),MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35662,35662,35662,35662,197,MELORA,Setting course... twenty-eight mark one-forty-two.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35663,35663,35663,35663,198,MELORA,"Computer, play us something by Delvok.",34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35664,35664,35664,35664,199,DAX,Delvok never seems Vulcan to me... there's too much emotion in his music...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35665,35665,35665,35665,200,MELORA,It's pretty.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.4939
+35666,35666,35666,35666,201,MELORA,"Tell me something, Lieutenant... you think there's room for... romance... in Starfleet?",34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35667,35667,35667,35667,202,DAX,I think so.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35668,35668,35668,35668,203,MELORA,You've made it work... ?,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35669,35669,35669,35669,204,DAX,Now and then...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35670,35670,35670,35670,205,MELORA,"I mean, really work...",34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35671,35671,35671,35671,206,DAX,"Oh, really work. For that, I've got to go back... (beat, smiling at the memory) ... about a hundred and fifty years.",34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35672,35672,35672,35672,207,MELORA,That's a long time...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35673,35673,35673,35673,208,DAX,She was a hard act to follow.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35674,35674,35674,35674,209,DAX,Could it be Doctor Bashir's bedside manner has won you over... ?,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35675,35675,35675,35675,210,MELORA,Our species are just so... different.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35676,35676,35676,35676,211,DAX,Since when has that ever stopped anybody?... I knew a hydrogen-breathing Lothra who fell hopelessly in love with an Oxygene...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35677,35677,35677,35677,212,MELORA,You're kidding... how could they even stay in the same room?,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35678,35678,35678,35678,213,DAX,Forty minutes a day without their breathing apparatus... that's all. Lovely couple... fifty-seven years they were together.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35679,35679,35679,35679,214,MELORA,What about career conflicts? Two friends of mine from the Academy got engaged even though they knew they were assigned to different starships...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35680,35680,35680,35680,215,DAX,Subspace relationship?,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35681,35681,35681,35681,216,MELORA,Uh huh.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35682,35682,35682,35682,217,DAX,That's a tough one.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35683,35683,35683,35683,218,MELORA,They may not be together for a year or more... and even then only for a few weeks...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35684,35684,35684,35684,219,DAX,Love across light years is just so...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35685,35685,35685,35685,220,MELORA,... it lacks intimacy...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35686,35686,35686,35686,221,DAX,... you could say that.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35687,35687,35687,35687,222,MELORA,I finish my mission here... I move on to the next one... what kind of future is that for a romance?,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.5574
+35688,35688,35688,35688,223,DAX,Look at the alternative.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35689,35689,35689,35689,224,MELORA,I guess...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35690,35690,35690,35690,225,DAX,Maybe it's better not to look to the future... just look to tonight.,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35691,35691,35691,35691,226,MELORA,I guess...,34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35692,35692,35692,35692,227,DAX,"Smile, Ensign, you're in love.",34   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35693,35693,35693,35693,228,ODO,Oh. It's you.,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35694,35694,35694,35694,229,QUARK,Don't be so happy to see me...,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35695,35695,35695,35695,230,ODO,"All right, I won't.",37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35696,35696,35696,35696,231,QUARK,"Odo, there's a desperate criminal on board the station...",37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35697,35697,35697,35697,232,ODO,You wouldn't be talking about Fallit,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35698,35698,35698,35698,233,ODO,"... who just finished eight years in a labor camp for hijacking a shipment of Romulan ale. (stops working, turns to Quark) ... whose name was right next to yours on the original indictment... ?",37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35699,35699,35699,35699,234,QUARK,I had nothing to do with the hijacking itself. I was... only the middleman...,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35700,35700,35700,35700,235,ODO,Trafficking in stolen goods should have been enough to get you your own cell at that Romulan camp... unless you sold out your partner...,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,-0.4939
+35701,35701,35701,35701,236,QUARK,I can honestly say that justice was served.,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.7506
+35702,35702,35702,35702,237,ODO,I would imagine that Fallit Kot is looking for his own kind of justice now.,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.4779
+35703,35703,35703,35703,238,QUARK,He's threatened to kill me.,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,-0.8271
+35704,35704,35704,35704,239,QUARK,"What?! (""are you looking at"" implied) Odo resumes his usual stern expression, sighs...",37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35705,35705,35705,35705,240,ODO,Nothing. Just a passing thought...,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35706,35706,35706,35706,241,QUARK,"Odo, he means it. Nothing I do seems to change his mind. You've got to do something.",37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35707,35707,35707,35707,242,ODO,"I'll do my job, Quark.",37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35708,35708,35708,35708,243,ODO,Unfortunately...,37   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35709,35709,35709,35709,244,MELORA,"Racht, anyone?",38   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35710,35710,35710,35710,245,BASHIR,I've been waiting for you. I want to show you something.,38   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35711,35711,35711,35711,246,MELORA,(reacts to the complexity) What is it?,38   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35712,35712,35712,35712,247,MELORA,The neuromuscular adaptation theory?,38   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35713,35713,35713,35713,248,BASHIR,"(excited at the prospects) It was a theory thirty years ago, Melora... but with the development of neo-analeptic transmitters during the last decade, it's not even that complicated... it's just that no one's gone back to reexamine the ideas of Nathaniel Teros... Until now.",38   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35714,35714,35714,35714,249,MELORA,This... can actually work... ?,38   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35715,35715,35715,35715,250,BASHIR,No more servo controls. No more chair.,38   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35716,35716,35716,35716,251,FALLIT KOT,Have I done something wrong?,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35717,35717,35717,35717,252,ODO,Not that I'm aware of. (Kot studies him evenly a beat) We have something in common.,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35718,35718,35718,35718,253,FALLIT KOT,We do?,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35719,35719,35719,35719,254,ODO,"I don't like Quark either. (beat, he looks up for the first time) But I can't let you kill him.",41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35720,35720,35720,35720,255,FALLIT KOT,Kill him... did he tell you I was going to do that?,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35721,35721,35721,35721,256,ODO,I know your history together.,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35722,35722,35722,35722,257,FALLIT KOT,Let bygones be bygones I always say.,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35723,35723,35723,35723,258,ODO,I always say you can tell a man's intentions by the way he walks.,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35724,35724,35724,35724,259,FALLIT KOT,How do I walk?,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35725,35725,35725,35725,260,ODO,Like someone carrying a lot of weight on his shoulders.,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35726,35726,35726,35726,261,FALLIT KOT,Must be the memory of those Romulan bricks I carried for eight years.,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35727,35727,35727,35727,262,ODO,Must be.,41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35728,35728,35728,35728,263,FALLIT KOT,"But you can't lock a man up for the way he walks, can you?",41   INT. SECURITY,SECURITY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35729,35729,35729,35729,264,QUARK,Well?,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35730,35730,35730,35730,265,ODO,I'd say he's a man with nothing to lose.,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35731,35731,35731,35731,266,QUARK,As opposed to me.,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35732,35732,35732,35732,267,ODO,I have no reason to hold him for now and he knows it. I'll watch him the best I can.,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35733,35733,35733,35733,268,ODO,But I suggest you carry a combadge with you at all times.,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35734,35734,35734,35734,269,ODO,Call me at the first sign of trouble.,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35735,35735,35735,35735,270,QUARK,What if the first sign is the last sign?,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35736,35736,35736,35736,271,ODO,"You people sell pieces of yourself after you die, don't you?",42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35737,35737,35737,35737,272,QUARK,Yes...,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35738,35738,35738,35738,273,ODO,I'll buy one.,42   INT. PROMENADE,PROMENADE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35739,35739,35739,35739,274,MELORA,My heart is pounding...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35740,35740,35740,35740,275,BASHIR,I'd like to think that has more to do with me than the neo-analeptic infusion...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35741,35741,35741,35741,276,MELORA,Would that also explain why my backside is getting warm...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35742,35742,35742,35742,277,BASHIR,That's more likely the result of the neuromuscular tissue stimulation due to increased activity in the motor cortex...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35743,35743,35743,35743,278,BASHIR,I'd say that's enough for the first time out...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35744,35744,35744,35744,279,BASHIR,It's good that you've already been using your muscles in this gravity environment... it'll make it easier to adapt...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35745,35745,35745,35745,280,BASHIR,Feel any different?,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35746,35746,35746,35746,281,MELORA,No.,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35747,35747,35747,35747,282,BASHIR,Nothing at all?,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35748,35748,35748,35748,283,MELORA,"I'm sorry, Julian.",43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35749,35749,35749,35749,284,BASHIR,The acetylcholine absorption was precisely at fourteen percent above normal...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35750,35750,35750,35750,285,BASHIR ,... increased tensile strength would be the inevitable result...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35751,35751,35751,35751,286,MELORA,Julian...,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35752,35752,35752,35752,287,MELORA,I can lift my leg.,43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35753,35753,35753,35753,288,BASHIR,"Your neural pathways are getting used to the changes. Endurance and coordination might take awhile, but you should be walking within the hour.",43   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35754,35754,35754,35754,289,O'BRIEN,and Dax at his station as Sisko walks out of his office towards them.,48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35755,35755,35755,35755,290,SISKO,How's the upgrade coming?,48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35756,35756,35756,35756,291,O'BRIEN,"We've been able to get it to about seventy percent of what we'd get with a standard EPS, but it looks like that's as far as it's gonna...",48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35757,35757,35757,35757,292,O'BRIEN,I'll be damned.,48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35758,35758,35758,35758,293,MELORA,"I wanted to give you our first day's mission summary myself, Commander.",48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35759,35759,35759,35759,294,SISKO,"A pleasure, Ensign.",48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35760,35760,35760,35760,295,DAX,"Julian, how did you...",48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35761,35761,35761,35761,296,BASHIR,"Simply a matter of increasing the output from the brain's motor cortex... someone else's research actually... I just dotted the ""i""s and crossed the ""t""s...",48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35762,35762,35762,35762,297,O'BRIEN,You'll get your name into the medical journals for this one.,48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35763,35763,35763,35763,298,BASHIR,I know.,48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35764,35764,35764,35764,299,MELORA,"Julian, I don't know how to say this but... I'm not sure I can get back down...",48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35765,35765,35765,35765,300,BASHIR,Whups! Easy does it now. First treatment's beginning to wear off. Nothing to be concerned about...,48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35766,35766,35766,35766,301,BASHIR,Let's get you back to your quarters... I want you to get a good night's rest.,48   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35767,35767,35767,35767,302,BASHIR,"With each progressive treatment, you should get stronger and the effect should last longer...",50   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35768,35768,35768,35768,303,MELORA,What about this?,50   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35769,35769,35769,35769,304,BASHIR,A low-grav environment now would really confuse your motor cortex.,50   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35770,35770,35770,35770,305,MELORA,I understand. Julian...,50   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35771,35771,35771,35771,306,BASHIR,You let me fly for the first time... I let you walk. We're even.,50   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35772,35772,35772,35772,307,BASHIR,See you in the morning.,50   INT. MELORA'S QUARTERS,MELORA'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35773,35773,35773,35773,308,QUARK,Lights...,52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35774,35774,35774,35774,309,QUARK,"Computer, turn on the...",52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35775,35775,35775,35775,310,QUARK,Quark to mmmppph...,52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35776,35776,35776,35776,311,FALLIT KOT,"No one can hear you, Quark... it's just you and me...",52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35777,35777,35777,35777,312,QUARK,Fallit... I wasn't prepared to entertain this evening but please... make yourself at home...,52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35778,35778,35778,35778,313,FALLIT KOT,I already have...,52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35779,35779,35779,35779,314,QUARK,What's mine is yours... all you have to do is ask... !,52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35780,35780,35780,35780,315,FALLIT KOT,"I'm tired of your gifts, Quark. All I want is your miserable life.",52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35781,35781,35781,35781,316,QUARK,"Wait! Everything's negotiable... believe me, I'm worth much more to you alive... ! (grabbing the first straw he thinks of) How does one hundred and ninety-nine bars of gold-pressed latinum sound to you?",52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35782,35782,35782,35782,317,FALLIT KOT,It's a start.,52   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35783,35783,35783,35783,318,MELORA,The mattress felt like rocks... and every one of my muscles ached all night long...,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35784,35784,35784,35784,319,BASHIR,You'll adjust to that after a few treatments...,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35785,35785,35785,35785,320,BASHIR,This time you should feel the effects for several hours...,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35786,35786,35786,35786,321,MELORA,(tries to make it sound in passing) Exactly when does it become irreversible?,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35787,35787,35787,35787,322,BASHIR,"(studies her a long beat) Melora, if you're not certain...",54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35788,35788,35788,35788,323,MELORA,"Oh, I'm sure it's just some strange form of ""buyers remorse""... I'll be fine...",54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35789,35789,35789,35789,324,BASHIR,Tell me exactly what you're feeling...,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35790,35790,35790,35790,325,MELORA,"Last night, I just missed... I didn't feel like me...",54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35791,35791,35791,35791,326,BASHIR,"If you want to end your dependence on the chair and the servo controls, you have to give up the low-grav environment, Melora. You knew that was the trade-off.",54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35792,35792,35792,35792,327,MELORA,It seemed like a good trade... until I realized I couldn't do it anymore... if I could just spend...,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35793,35793,35793,35793,328,BASHIR,I'm concerned that going back and forth would ultimately lead to a loss of fine motor control.,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35794,35794,35794,35794,329,MELORA,Meaning?,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35795,35795,35795,35795,330,BASHIR,Your ability to perform complex tasks could be affected.,54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35796,35796,35796,35796,331,BASHIR,"The effect is fully reversible for a few more days. We can pull the plug anytime before then. After that, if all goes well, your motor cortex impulses will kick in on their own. Permanently.",54   INT. INFIRMARY,INFIRMARY,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35797,35797,35797,35797,332,MELORA,It's beginning to wear off again...,56   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35798,35798,35798,35798,333,MELORA,I don't understand myself... how can I possibly have second thoughts... this would mean real independence... it's everything I ever wished for... But then I start to think about home... and how I won't ever be able to go back... maybe just for a short visit... but never really go back...,56   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35799,35799,35799,35799,334,DAX,The Little Mermaid.,56   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35800,35800,35800,35800,335,MELORA,Mermaid?,56   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35801,35801,35801,35801,336,DAX,It's an Earth fable by Hans Christian Andersen. She trades her magical life under the sea for a pair of legs to walk on land.,56   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35802,35802,35802,35802,337,MELORA,What happened? Didn't she live happily ever after?,56   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35803,35803,35803,35803,338,QUARK,Ashrock... right on time... may I present my longtime business partner... Fallit Kot...,57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35804,35804,35804,35804,339,QUARK,For your inspection.,57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35805,35805,35805,35805,340,ASHROCK,Exquisite.,57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35806,35806,35806,35806,341,QUARK,"Then, our transaction is complete.",57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35807,35807,35807,35807,342,FALLIT KOT,Not quite.,57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35808,35808,35808,35808,343,FALLIT KOT,I'll be taking them too.,57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35809,35809,35809,35809,344,ASHROCK,They warned me about you...,57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35810,35810,35810,35810,345,QUARK,"Not true. A deal is a deal. Rule of Acquisition number sixteen. Kot, you got what you came for... Now, let's be reasona...",57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35811,35811,35811,35811,346,FALLIT KOT,"(to Quark, re: the satchel) Pick it up. Move!",57   INT. AIRLOCK (OPTICAL),AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35812,35812,35812,35812,347,ODO,"Priority one security to Level Twenty- two, Section Five.",58   INT. SECURITY OFFICE (VPB),SECURITY OFFICE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35813,35813,35813,35813,348,,"Alarms still sounding. Kot and Quark come out of the Turbolift into the corridor, see two N.D. Security Personnel arriving... Kot fires several times, forcing them back... one Security Officer fires back, barely missing Quark and Kot... They take off in the opposite direction...",59   INT. DOCKING RING CORRIDOR OUTSIDE AIRLOCK,DOCKING RING CORRIDOR OUTSIDE AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35814,35814,35814,35814,349,DAX,"I'm sure Julian would understand. Besides, he'd still get to publish the results of your first treatments...",60   INT. ANOTHER AIRLOCK,ANOTHER AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35815,35815,35815,35815,350,FALLIT KOT,Back into the ship.,60   INT. ANOTHER AIRLOCK,ANOTHER AIRLOCK,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35816,35816,35816,35816,351,FALLIT KOT,Get us out of here.,61   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35817,35817,35817,35817,352,QUARK,He's already shot a man. Do as he says.,61   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35818,35818,35818,35818,353,QUARK,I'll just wait in the back...,61   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35819,35819,35819,35819,354,FALLIT KOT,"In the front. Where I can see you. (to Melora, pointing out a seat) There. Hurry up.",61   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35820,35820,35820,35820,355,MELORA,I'm moving as fast as I can.,61   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35821,35821,35821,35821,356,DAX,She's an Elaysian. She's needs motor support in our gravity.,61   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35822,35822,35822,35822,357,O'BRIEN,They're in the Orinoco... the docking clamps have been released... thrusters engaged...,62   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35823,35823,35823,35823,358,SISKO,Ready a tractor beam. Open a channel.,62   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35824,35824,35824,35824,359,KIRA,Open.,62   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35825,35825,35825,35825,360,SISKO,This is Commander Benjamin Sisko. Return to the station at once.,62   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35826,35826,35826,35826,361,KIRA,No reply.,62   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35827,35827,35827,35827,362,SISKO,Engage tractor beam.,62   INT. OPS,OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35828,35828,35828,35828,363,DAX,They've locked on to us with a tractor beam.,64   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35829,35829,35829,35829,364,FALLIT KOT,Open the channel to that Commander of yours.,64   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35830,35830,35830,35830,365,FALLIT KOT,Release this ship or I'll kill a hostage.,64   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35831,35831,35831,35831,366,SISKO,I'm willing to negotiate for your freedom... but first release those...,64   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35832,35832,35832,35832,367,FALLIT KOT,Didn't you hear what I just said?,64   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35833,35833,35833,35833,368,FALLIT KOT,"No, I have something special in mind for you.",64   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35834,35834,35834,35834,369,FALLIT KOT,Do I make myself clear? Release the ship now!,65   INT. OPS (OPTICAL),OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35835,35835,35835,35835,370,SISKO,"Doctor, Chief... with me.",65   INT. OPS (OPTICAL),OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35836,35836,35836,35836,371,SISKO,Beam us to the Rio Grande. Give us ten seconds and then disengage the tractor beam.,65   INT. OPS (OPTICAL),OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35837,35837,35837,35837,372,KIRA,Understood. Energizing...,65   INT. OPS (OPTICAL),OPS,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35838,35838,35838,35838,373,DAX,They've released us.,66   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35839,35839,35839,35839,374,FALLIT KOT,Through the wormhole.,66   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35840,35840,35840,35840,375,FALLIT KOT,What was that?,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35841,35841,35841,35841,376,DAX,I'm not sure.,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35842,35842,35842,35842,377,FALLIT KOT,What was it?,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35843,35843,35843,35843,378,DAX,Another ship coming through the wormhole.,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35844,35844,35844,35844,379,FALLIT KOT,Put it on the screen.,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35845,35845,35845,35845,380,FALLIT KOT ,Take us to warp.,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35846,35846,35846,35846,381,DAX ,We haven't even set a course.,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35847,35847,35847,35847,382,FALLIT KOT ,I don't care about the course... just go to warp...,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35848,35848,35848,35848,383,DAX ,"If we don't set a course, we could warp ourselves into oblivion by crashing into a planet...",68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35849,35849,35849,35849,384,FALLIT KOT ,Fine. Set a course. Just get us out of here.,68   INT. ORINOCO,ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35850,35850,35850,35850,385,O'BRIEN,They're powering up their warp drive.,70   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35851,35851,35851,35851,386,SISKO,Stay with them.,70   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35852,35852,35852,35852,387,O'BRIEN,Engaging warp engines.,70   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35853,35853,35853,35853,388,BASHIR,Can we beam them aboard at warp... ?,70   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35854,35854,35854,35854,389,O'BRIEN,I wouldn't recommend it.,70   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35855,35855,35855,35855,390,FALLIT KOT ,Get the phasers ready.,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35856,35856,35856,35856,391,DAX,I'm not going to fire at them.,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35857,35857,35857,35857,392,FALLIT KOT,You'll do it. Or you'll die.,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35858,35858,35858,35858,393,DAX,Fine. Then I hope you can fly this ship.,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35859,35859,35859,35859,394,FALLIT KOT,Sit down!,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35860,35860,35860,35860,395,DAX,"Quark, how well do you know this man?",72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35861,35861,35861,35861,396,QUARK,We've been friends for years. Not counting today.,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35862,35862,35862,35862,397,DAX ,I suggest you explain to him that Starfleet isn't going to give up and stop chasing us...,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35863,35863,35863,35863,398,QUARK ,"It's true, Fallit. You don't know these Starfleet types...",72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35864,35864,35864,35864,399,FALLIT KOT ,Then we'll all die.,72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35865,35865,35865,35865,400,QUARK ,"Great. We escape, he's got something ""special"" planned for me. We don't escape, I just die with everyone else. Am I missing a choice, Fallit?",72   INT. ORINOCO - ANGLE ON MELORA,ORINOC,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35866,35866,35866,35866,401,O'BRIEN,They've dropped out of warp...,80   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35867,35867,35867,35867,402,SISKO,Go to impulse...,80   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35868,35868,35868,35868,403,O'BRIEN,"Sir, their gravity generators are off...",80   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35869,35869,35869,35869,404,BASHIR,Melora's alive.,80   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35870,35870,35870,35870,405,O'BRIEN,Gravity's been reinstated... all engines are down...,80   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35871,35871,35871,35871,406,SISKO,"Come on, Doctor...",80   INT. RIO GRANDE,RIO GRANDE,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35872,35872,35872,35872,407,QUARK,"I think we've got the situation in hand, Commander.",81   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35873,35873,35873,35873,408,SISKO ,Sisko to Rio Grande. Everything's under control. We're going home.,81   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35874,35874,35874,35874,409,O'BRIEN,"Aye, Commander. Setting course for the wormhole.",81   INT. ORINOCO (OPTICAL),ORINOCO,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35875,35875,35875,35875,410,MELORA,Why didn't the phaser kill me... ?,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35876,35876,35876,35876,411,BASHIR,I don't know. Maybe... all the neuro- stimulants we've been pumping into your system...,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35877,35877,35877,35877,412,MELORA,That's what I was wondering too...,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35878,35878,35878,35878,413,BASHIR,It might turn out to be an interesting side effect of the treatment. It's worth exploring...,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35879,35879,35879,35879,414,MELORA,"Julian, I'm not going ahead with the treatments.",83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35880,35880,35880,35880,415,BASHIR,You can always try it again someday if you change your mind.,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35881,35881,35881,35881,416,MELORA,"I don't think I will. I like being independent. That's no secret. But to give up everything that I am to walk... ... on land... Well, I might be more independent but I wouldn't be Elaysian anymore. I'm not sure what I'd be. Besides, maybe independence isn't all it's cracked up to be. I kind of like how it feels to depend on someone for a change.",83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35882,35882,35882,35882,417,MELORA,And I'm glad you got me to unlock the door to my quarters so I could finally let someone into my life.,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35883,35883,35883,35883,418,BASHIR,So am I.,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35884,35884,35884,35884,419,CHEF,Aler acht'jar... Aler act'jar... T'lembda boool-gah toh-gal...,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35885,35885,35885,35885,420,BASHIR,You must be exhausted... if you don't want to stay...,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35886,35886,35886,35886,421,MELORA,Let's just sit here awhile and listen... I want to remember all of this...,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35887,35887,35887,35887,422,CHEF,Aler acht'jar... Aler acht'jar... T'lembda boool-gah to lohhhh...,83   INT. PROMENADE - KLINGON KIOSK,PROMENAD,INT.,Melora,1993-08-26,Deep Space Nine,426.txt,0.0
+35888,35888,35888,35888,0,ODO,"All right, Morn. You know the rules. No sleeping on the Promenade. Go home.",1    INT. PROMENADE - NIGHT,PROMENAD,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35889,35889,35889,35889,1,QUARK,"The risk is to you, Lieutenant.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35890,35890,35890,35890,2,DAX,I could probably think better without your hand on my thigh.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35891,35891,35891,35891,3,QUARK,"Now, how did that get there?",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35892,35892,35892,35892,4,QUARK,So what's it gonna be? Confront? Evade? Acquire? Retreat?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35893,35893,35893,35893,5,DAX,Confront.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35894,35894,35894,35894,6,DAX,Yes.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35895,35895,35895,35895,7,ROM,Doesn't she ever lose?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35896,35896,35896,35896,8,QUARK,"(gazing with admiration at Dax) Tell me, Lieutenant, how did you get to be so good at tongo?",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35897,35897,35897,35897,9,DAX,"Actually, Curzon used to play it all the time.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35898,35898,35898,35898,10,ROM,"Well, that explains it. It's Curzon who's beating us, not this female.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35899,35899,35899,35899,11,DAX,This female happens to be a better player than Curzon ever was.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35900,35900,35900,35900,12,QUARK,And a prettier one too.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35901,35901,35901,35901,13,ROM,"Maybe so. But I still prefer a Ferengi female. One who never wears clothes, never talks back, and never plays tongo.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35902,35902,35902,35902,14,DAX,Is that how you really prefer your women? Naked and submissive.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35903,35903,35903,35903,15,QUARK,Do you find such a lifestyle appealing?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35904,35904,35904,35904,16,DAX,Don't you wish.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35905,35905,35905,35905,17,QUARK,Oh I do. I really do.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35906,35906,35906,35906,18,DAX,All right everyone. The opening risk is five strips of latinum. The purchase is at three. The sell at eight.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35907,35907,35907,35907,19,ROM,"No, absolutely not. This isn't the proper time.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35908,35908,35908,35908,20,QUARK,I'm trying to concentrate.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35909,35909,35909,35909,21,ROM,"I'm sorry, Brother. It's this insolent young waiter's fault.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35910,35910,35910,35910,22,PEL,"My apologies, Quark. But I really think you should try this.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35911,35911,35911,35911,23,QUARK ,What is it?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35912,35912,35912,35912,24,PEL,A way to double your beverage profits. Taste it.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35913,35913,35913,35913,25,PEL,You see. Just as I told you. He immediately reached for his drink.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35914,35914,35914,35914,26,QUARK,So I did.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35915,35915,35915,35915,27,QUARK,Amazing. You don't even realize you're thirsty. What are they?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35916,35916,35916,35916,28,PEL,Gramilian Sand Peas. They inhibit secretion of the salivary glands while drying out the tissues of the tongue. Works every time. You replace your complimentary dishes of lokar beans with sand peas and you won't be able to fill your customers' glasses fast enough.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35917,35917,35917,35917,29,QUARK,What's your name again?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35918,35918,35918,35918,30,PEL,Pel... so what do you think about my idea?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35919,35919,35919,35919,31,QUARK,"I think I agree with the fifty-ninth Rule of Acquisition, ""Free advice is seldom cheap.""",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35920,35920,35920,35920,32,PEL,"True, but the twenty-second rule says, ""A wise man can hear profit in the wind.""",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.872
+35921,35921,35921,35921,33,QUARK,I see you know your Rules.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35922,35922,35922,35922,34,PEL,All two hundred and eighty-five of them. And the various commentaries as well. I don't plan on being a waiter forever.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.2732
+35923,35923,35923,35923,35,ROM,Good. Then you're fired.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35924,35924,35924,35924,36,QUARK,"Shut up, Rom. When it comes to business, my brother has the weak little lobes of a female. So what made you take a job here at the station?",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35925,35925,35925,35925,37,PEL,I wanted to learn from the best.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.6369
+35926,35926,35926,35926,38,QUARK,Which brings to mind the thirty-third Rule of Acquisition...,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35927,35927,35927,35927,39,QUARK AND PEL,"""It never hurts to suck up to the boss.""",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.6072
+35928,35928,35928,35928,40,DAX,What's that?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35929,35929,35929,35929,41,QUARK,It's Grand Nagus Zek's personal subspace frequency.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35930,35930,35930,35930,42,ROM,I wonder what he wants.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35931,35931,35931,35931,43,ZEK,Why do you look so surprised? I told you I'd be back.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35932,35932,35932,35932,44,QUARK,"I've looked forward to your return, Nagus.",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35933,35933,35933,35933,45,ZEK,"Still the perfect little toady, eh, Quark?",2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35934,35934,35934,35934,46,QUARK,I try to be.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35935,35935,35935,35935,47,ZEK,Then listen carefully. The Ferengi expansion into the Gamma Quadrant is about to begin. I'd like you to be my chief negotiator.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35936,35936,35936,35936,48,QUARK,Me?,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35937,35937,35937,35937,49,ZEK,That's right. I'm offering you an opportunity to make more profit than you ever dreamed of. All you have to do is earn it.,2    INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35938,35938,35938,35938,50,ZEK,Can I interest anyone in some Hupyrian beetle snuff?,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35939,35939,35939,35939,51,SISKO,I don't think so.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35940,35940,35940,35940,52,ZEK,Major?,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35941,35941,35941,35941,53,KIRA,"No, thank you.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35942,35942,35942,35942,54,ZEK,Suit yourself... more for me.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35943,35943,35943,35943,55,ZEK,"(grabs it out of his hand) A little late, aren't we?",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35944,35944,35944,35944,56,ZEK,"So, you wanted to see me, Commander?",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35945,35945,35945,35945,57,SISKO,I understand that you're planning to host a business conference here at the station.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35946,35946,35946,35946,58,ZEK,"With the Dosi, a race from the Gamma Quadrant. A very profitable opportunity for all concerned, I might add.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35947,35947,35947,35947,59,KIRA,"Profitable for the Ferengi, maybe.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35948,35948,35948,35948,60,ZEK,"Are you implying something, Major?",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35949,35949,35949,35949,61,KIRA,Me? Not at all. The Ferengi's reputation speaks for itself.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35950,35950,35950,35950,62,ZEK,"A reputation of honesty, decency, and reliability. You always know what to expect when you do business with the Ferengi.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35951,35951,35951,35951,63,KIRA,"Which is why, if you're smart, you don't do business with the Ferengi...",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35952,35952,35952,35952,64,SISKO,"I think you've made your point, Major.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35953,35953,35953,35953,65,ZEK,"As misinformed and misguided as it may be. Besides, how we do business is none of your concern.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35954,35954,35954,35954,66,SISKO,Except when you conduct your business on this station.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35955,35955,35955,35955,67,KIRA,"In other words, Zek, Grand Nagus or no Grand Nagus, if we allow you to hold these negotiations here, and we find out you're cheating these Dosi, I'll see to it that you never set foot on this station again.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35956,35956,35956,35956,68,ZEK,Did anyone ever tell you your eyes shine with the brilliance of Kibberian fire diamonds.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35957,35957,35957,35957,69,KIRA,Not that I recall.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35958,35958,35958,35958,70,ZEK,Well they do.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35959,35959,35959,35959,71,ZEK,"Tell me, Major, could Bajor use fifty thousand kilos of Brizeen nitrate?",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35960,35960,35960,35960,72,KIRA,"Of course we could. With that much Brizeen, we could fertilize the entire northern peninsula.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35961,35961,35961,35961,73,ZEK,"Well I've recently come into possession of fifty thousand kilos of Brizeen nitrate. And to show you how much your cooperation means to me, I'll let you have the entire shipment.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35962,35962,35962,35962,74,SISKO,I'll still need your assurances that the Dosi will be treated fairly while they're here.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35963,35963,35963,35963,75,ZEK,"You have my word. Then it's settled. Let's see, that's fifty thousand kilos at... twenty-five percent off our usual price.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35964,35964,35964,35964,76,SISKO,Twenty-five percent? You just said you were giving it to them.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35965,35965,35965,35965,77,ZEK,"You're right, Commander. We're all friends here. I'll let you have it at cost.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35966,35966,35966,35966,78,SISKO,I have a better idea. Why not consider the nitrate a gift to the people of Bajor.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35967,35967,35967,35967,79,ZEK,A gift. That doesn't sound very profitable.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35968,35968,35968,35968,80,SISKO,That depends.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35969,35969,35969,35969,81,ZEK,On what?,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35970,35970,35970,35970,82,SISKO,On whether you want to conduct business here or not.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35971,35971,35971,35971,83,ZEK,Your negotiation skills aren't bad... for a human.,13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35972,35972,35972,35972,84,ZEK,"Your nitrate will be delivered promptly. Anything else you need, please come see me personally.",13   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35973,35973,35973,35973,85,ZEK,"You know Quark, I've been involved in some profitable opportunities in my time. But my lobes are telling me this may be the most profitable opportunity in Ferengi history.",15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35974,35974,35974,35974,86,QUARK,Imagine that. And part of those profits will be mine.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35975,35975,35975,35975,87,ZEK,Profit. Fame. Power. As much as you want.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35976,35976,35976,35976,88,QUARK,"Tell me, Nagus, what exactly is this great opportunity.",15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35977,35977,35977,35977,89,ZEK,I can sum it up in one word... tulaberries.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35978,35978,35978,35978,90,QUARK,(not what he expected to hear) Tulaberries?,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35979,35979,35979,35979,91,ZEK,Exactly.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35980,35980,35980,35980,92,QUARK,Go on.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35981,35981,35981,35981,93,ZEK,They're the main ingredient in tulaberry wine. Your job is to purchase ten thousand vats from the Dosi.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35982,35982,35982,35982,94,QUARK,We're going into the wine business?,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35983,35983,35983,35983,95,ZEK,Within a year we'll have made tulaberry wine the most popular drink in their entire sector.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.4754
+35984,35984,35984,35984,96,ZEK,That's enough.,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35985,35985,35985,35985,97,ZEK,"Yes, I like it. Very distinguished.",15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35986,35986,35986,35986,98,QUARK,"Tell me, Nagus, how are tulaberries going to be the most profitable opportunity in Ferengi history?",15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35987,35987,35987,35987,99,ZEK,Do I have to spell it out for you?,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35988,35988,35988,35988,100,QUARK,If you don't mind...,15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35989,35989,35989,35989,101,ZEK,"The tulaberries establish a Ferengi presence inside the Gamma Quadrant. And once we get our foot in the door, they'll never get it out.",15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35990,35990,35990,35990,102,QUARK,"Yes, I see...",15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35991,35991,35991,35991,103,ZEK,"(with a conspiratorial smile) Tulaberries, Quark. Tulaberries.",15   INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35992,35992,35992,35992,104,ROM,Tulaberries? I wonder what they taste like?,16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35993,35993,35993,35993,105,QUARK,Who cares what they taste like. They're an opportunity to get a Ferengi foot in the Gamma Quadrant door.,16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35994,35994,35994,35994,106,ROM,"And it'll be your foot, brother. I'm so proud.",16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35995,35995,35995,35995,107,QUARK,"I'm going to make history, Rom. And I'm going to be rich. And I have the Grand Nagus to thank for it. He must really like me.",16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35996,35996,35996,35996,108,PEL,"Just remember one thing, ""The bigger the smile, the sharper the knife.""",16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.3612
+35997,35997,35997,35997,109,QUARK,The forty-eighth Rule of Acquisition.,16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35998,35998,35998,35998,110,PEL,I'd keep it in mind if I were you.,16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0
+35999,35999,35999,35999,111,ROM,He has some nerve.,16   INT. QUARK'S,QUARK'S,INT.,Rules of Acquisition,1993-09-03,Deep Space Nine,427.txt,0.0

@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+37000,37000,37000,37000,118,SISKO,The gymnast?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37001,37001,37001,37001,119,EZRI,She found it relaxing.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37002,37002,37002,37002,120,SISKO,Do you?,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37003,37003,37003,37003,121,EZRI,"Actually, it's giving me a headache.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37004,37004,37004,37004,122,EZRI,"What about Julian, can't he work with Garak?",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37005,37005,37005,37005,123,SISKO,"Julian's a good physician, but he's not a counselor -- (before she can point it out) -- or even an assistant counselor. And besides, he doesn't have eight lifetimes of experience under his belt.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37006,37006,37006,37006,124,EZRI,"I bet he doesn't stand on his head for no reason, either.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37007,37007,37007,37007,125,SISKO,"You can do this, old man. I know you can.",16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37008,37008,37008,37008,126,EZRI,All right. I'll try. I just wish I had as much confidence in me as you do.,16   INT. GUEST QUARTERS - CLOSE - EZRI,GUEST QUARTER,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37009,37009,37009,37009,127,QUARK,So what do you think?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37010,37010,37010,37010,128,BASHIR,About what?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37011,37011,37011,37011,129,QUARK,About her.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37012,37012,37012,37012,130,BASHIR,Who?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37013,37013,37013,37013,131,QUARK,Dax.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37014,37014,37014,37014,132,BASHIR,Ezri? She seems... nice.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.4215
+37015,37015,37015,37015,133,QUARK,Meaning what?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37016,37016,37016,37016,134,BASHIR,Meaning... nice.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37017,37017,37017,37017,135,QUARK,"Come on, Doctor. I know the way you felt about Jadzia.",18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37018,37018,37018,37018,136,BASHIR,She's not Jadzia.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37019,37019,37019,37019,137,QUARK,She's the next best thing. So are you interested?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37020,37020,37020,37020,138,BASHIR,Sounds to me like you're the one who's interested.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37021,37021,37021,37021,139,QUARK,It's not every day you get a second chance with a woman.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37022,37022,37022,37022,140,BASHIR,She's not the same woman.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37023,37023,37023,37023,141,QUARK,"She's still Dax, isn't she?",18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37024,37024,37024,37024,142,BASHIR,More or less.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37025,37025,37025,37025,143,QUARK,That's good enough for me. Ready for a little competition?,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37026,37026,37026,37026,144,BASHIR,You're insane.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37027,37027,37027,37027,145,QUARK,And you... are going to lose.,18   INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37028,37028,37028,37028,146,EZRI,Am I interrupting?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37029,37029,37029,37029,147,GARAK,"You must be Ezri Dax. The captain told me you'd be dropping by to... ""counsel"" me.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37030,37030,37030,37030,148,EZRI,Is that all right?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37031,37031,37031,37031,149,GARAK,"That depends on what's involved. You see, I'm a very private person.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37032,37032,37032,37032,150,EZRI,I understand. So is it helping?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37033,37033,37033,37033,151,EZRI,The sewing. Is it making you feel better?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37034,37034,37034,37034,152,GARAK,"Thankfully, yes. In fact --",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37035,37035,37035,37035,153,EZRI,"(before he can continue) You're lucky, nothing helps me.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37036,37036,37036,37036,154,GARAK,"Are you claustrophobic, too?",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37037,37037,37037,37037,155,EZRI,What makes you say that?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37038,37038,37038,37038,156,GARAK,You just said --,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37039,37039,37039,37039,157,EZRI,"(realizing the misunderstanding) No, I get spacesick. Ever since I was joined. I'm very sensitive to motion. I can even feel the station spinning.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37040,37040,37040,37040,158,GARAK,Really?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37041,37041,37041,37041,159,EZRI,It's because of what happened to Torias. He died in a shuttle accident.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37042,37042,37042,37042,160,GARAK,Why would that make you spacesick?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37043,37043,37043,37043,161,EZRI,Because I blame myself for what happened.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37044,37044,37044,37044,162,GARAK,You were piloting?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37045,37045,37045,37045,163,EZRI,Yes. No. Depends on how you look at it. Torias was my fifth host. Didn't I say that?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37046,37046,37046,37046,164,GARAK,No.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37047,37047,37047,37047,165,EZRI,"Well, he was. And I think the reason his death has stayed with me for so long is that I just can't seem to forgive him for getting himself killed.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37048,37048,37048,37048,166,GARAK,"But you said it was an accident. If he wasn't to blame, then you're not to blame, either.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37049,37049,37049,37049,167,EZRI,I know. But somehow I can't help punishing myself for it.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37050,37050,37050,37050,168,GARAK,By getting spacesick.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37051,37051,37051,37051,169,EZRI,Exactly.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37052,37052,37052,37052,170,GARAK,"Don't take this the wrong way, but it sounds to me like you're the one that needs to see a counselor.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37053,37053,37053,37053,171,EZRI,You're probably right. But I didn't come here to talk about my problems.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37054,37054,37054,37054,172,EZRI ,Do you remember anything traumatic happening to you when you were young -- something that involved getting trapped in a confined space.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37055,37055,37055,37055,173,GARAK,"If I'd been that careless, my father would've left me there to teach me a lesson.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37056,37056,37056,37056,174,EZRI,Sounds like he was strict.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37057,37057,37057,37057,175,GARAK,He didn't get to be the head of the Obsidian Order without a sense of... discipline.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37058,37058,37058,37058,176,EZRI,Did he discipline you?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37059,37059,37059,37059,177,GARAK,He'd punish me when I misbehaved. What father wouldn't?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37060,37060,37060,37060,178,EZRI,Did your mother approve of his punishments?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37061,37061,37061,37061,179,GARAK,Not that it mattered. She didn't have a key to the closet.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37062,37062,37062,37062,180,EZRI,The closet?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37063,37063,37063,37063,181,GARAK,My father used to lock me in when I misbehaved.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37064,37064,37064,37064,182,EZRI,"(why didn't you tell me?) Garak, I asked you if you'd ever been trapped in a confined space when you were young.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37065,37065,37065,37065,183,GARAK,I wasn't trapped. I knew he'd let me out when I learned my lesson.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37066,37066,37066,37066,184,EZRI,Learned your lesson?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37067,37067,37067,37067,185,GARAK,(tugging at his collar) I could be very stubborn.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37068,37068,37068,37068,186,EZRI,That's not the point. Nothing a child could do justifies locking him in a closet.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37069,37069,37069,37069,187,EZRI,No wonder you get claustrophobic. It's just like me getting spacesick. We're both punishing ourselves for things that weren't our fault.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37070,37070,37070,37070,188,GARAK,"Are you saying that if I can stop blaming myself, my claustrophobia will just disappear?",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37071,37071,37071,37071,189,EZRI,"Not overnight, but letting go of all this misplaced guilt would be a good start.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37072,37072,37072,37072,190,GARAK,"(dabbing his forehead) Well, I'll certainly give your advice some thought.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37073,37073,37073,37073,191,EZRI,Are you all right?,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37074,37074,37074,37074,192,GARAK,"To tell you the truth, I'm starting to feel a little claustrophobic.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37075,37075,37075,37075,193,EZRI,"Probably because we've been talking about it. Actually, I'm starting to feel a little spacesick myself.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37076,37076,37076,37076,194,GARAK,"If you don't mind, I think I'll get back to my sewing.",19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37077,37077,37077,37077,195,EZRI,Good idea.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37078,37078,37078,37078,196,GARAK,(picking up his seamer) Thank you for coming by.,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37079,37079,37079,37079,197,EZRI,My pleasure...,19   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37080,37080,37080,37080,198,EZRI,"Hello, Worf.",21   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37081,37081,37081,37081,199,WORF,Ensign.,21   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37082,37082,37082,37082,200,EZRI,Ensign? That's all you have to say to me?,21   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37083,37083,37083,37083,201,WORF,What more is there to say?,21   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37084,37084,37084,37084,202,EZRI,I was your wife.,21   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37085,37085,37085,37085,203,WORF,"You are not Jadzia. She died and went to Sto-vo-kor. I do not know you, nor do I wish to.",21   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37086,37086,37086,37086,204,EZRI,Come in.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37087,37087,37087,37087,205,SISKO,Dax... ?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37088,37088,37088,37088,206,EZRI,Do you think the chief could adjust the inertial dampers so the station would spin a little slower?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37089,37089,37089,37089,207,SISKO,I don't know. Why?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37090,37090,37090,37090,208,EZRI,Never mind. To what do I owe the pleasure?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37091,37091,37091,37091,209,SISKO,"I'm not going to say I told you so, but Garak dropped by Odo's office this morning. He wanted to pick up the latest Cardassian transmissions for decoding.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37092,37092,37092,37092,210,EZRI,Really?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37093,37093,37093,37093,211,SISKO,Looks like his claustrophobia is under control.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37094,37094,37094,37094,212,EZRI,I guess our talk must've helped...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37095,37095,37095,37095,213,SISKO,Told you so.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37096,37096,37096,37096,214,EZRI,I thought you said you weren't going to say that.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37097,37097,37097,37097,215,SISKO,Couldn't resist.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37098,37098,37098,37098,216,SISKO,You all right?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37099,37099,37099,37099,217,EZRI,I talked with Worf.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37100,37100,37100,37100,218,SISKO,How'd it go?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37101,37101,37101,37101,219,EZRI,He doesn't want to have anything to do with me.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37102,37102,37102,37102,220,SISKO,Maybe I should have a talk with him.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37103,37103,37103,37103,221,EZRI,Absolutely not. You intimidate him.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37104,37104,37104,37104,222,SISKO,Me?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37105,37105,37105,37105,223,EZRI,Don't tell him I told you.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37106,37106,37106,37106,224,SISKO,(trying to get used to the idea) I intimidate Worf.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37107,37107,37107,37107,225,EZRI,"You like that, don't you?",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37108,37108,37108,37108,226,SISKO,Of course not.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37109,37109,37109,37109,227,EZRI,"Come on. I've been a man, I know.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37110,37110,37110,37110,228,SISKO,"Look, we're not talking about me and Worf, we're talking about you and Worf. Now, I sympathize with what he's going through, but as far as I'm concerned, you have as much right to be here as he does.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37111,37111,37111,37111,229,EZRI,"(sensing he's taking this somewhere) What are you getting at, Benjamin?",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37112,37112,37112,37112,230,SISKO,This war hasn't been good for morale around here. I've been thinking the station could use a counselor. I can't think of anyone better suited for the job.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37113,37113,37113,37113,231,EZRI,"Thanks for saying that. But even if Worf wasn't an issue, I'm still just an assistant counselor.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37114,37114,37114,37114,232,SISKO,I took the liberty of contacting Starfleet Medical. They're willing to waive the rest of your training and give you a commission as a full counselor with the rank of lieutenant.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37115,37115,37115,37115,233,EZRI,How'd you talk them into that?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37116,37116,37116,37116,234,SISKO,I asked them what they thought you were going to learn in the next few months --,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37117,37117,37117,37117,235,EZRI,That I haven't already learned in the last three hundred years.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37118,37118,37118,37118,236,SISKO,"They saw my point. I wish you would, too.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37119,37119,37119,37119,237,EZRI,"Benjamin, it means a lot to know that you want me to stay. But I can't.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37120,37120,37120,37120,238,SISKO,Because of Worf...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37121,37121,37121,37121,239,EZRI,Mostly.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37122,37122,37122,37122,240,SISKO,"Just say the word, and I'll go intimidate him for you.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37123,37123,37123,37123,241,EZRI,"You'd like that, wouldn't you?",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37124,37124,37124,37124,242,EZRI,"I'danian spice pudding. No, cancel that. I'll have kilm steak, rare. No, Tobin was a vegetarian. Give me...",25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37125,37125,37125,37125,243,BASHIR ,"Two Fanalian toddys, hot.",25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37126,37126,37126,37126,244,EZRI,How'd you know?,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37127,37127,37127,37127,245,BASHIR,Lucky guess.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37128,37128,37128,37128,246,BASHIR,Join me?,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37129,37129,37129,37129,247,EZRI,Sure.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37130,37130,37130,37130,248,BASHIR,So... here we are.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37131,37131,37131,37131,249,EZRI,What was that?,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37132,37132,37132,37132,250,BASHIR,What was what?,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37133,37133,37133,37133,251,EZRI,That look.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37134,37134,37134,37134,252,BASHIR,(unsure if he should tell her) This might be the last thing you want to hear right now... but you have Jadzia's eyes. I shouldn't have said anything.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37135,37135,37135,37135,253,EZRI,"Don't flirt with me, Julian. Please.",25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37136,37136,37136,37136,254,BASHIR,I'm not.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37137,37137,37137,37137,255,EZRI,I remember the way you used to flirt with Jadzia.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37138,37138,37138,37138,256,BASHIR,It was just an observation.,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37139,37139,37139,37139,257,EZRI,"Good. Because I'm not like her. She knew how to handle it. (come to think of it) In fact, she enjoyed it.",25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37140,37140,37140,37140,258,BASHIR,Really?,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37141,37141,37141,37141,259,EZRI,You didn't know?,25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37142,37142,37142,37142,260,BASHIR,"Well, I suspected...",25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37143,37143,37143,37143,261,EZRI,"You can be very charming. (knowing this will mean a lot to him) And you want to know something? If Worf hadn't come along, it would've been you...",25   INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37144,37144,37144,37144,262,EZRI,"You really miss her, don't you?",26A  INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37145,37145,37145,37145,263,BASHIR,"I suppose I always will... but somehow, talking to you seems to help.",26A  INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37146,37146,37146,37146,264,COM,Deputy Talpet to Doctor Bashir.,26A  INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37147,37147,37147,37147,265,BASHIR,Go ahead.,26A  INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37148,37148,37148,37148,266,COM,"We have a medical emergency in Airlock Seven. It's Garak, sir.",26A  INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37149,37149,37149,37149,267,BASHIR,On my way.,26A  INT. REPLIMAT,REPLIMAT,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37150,37150,37150,37150,268,GARAK,Open it! Let me out!,26B  INT. AIRLOCK CORRIDOR (OPTICAL),AIRLOCK CORRIDOR,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37151,37151,37151,37151,269,EZRI,Breathe in...,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37152,37152,37152,37152,270,EZRI,And out. (repeating the process) In... and out. Better?,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37153,37153,37153,37153,271,EZRI,"(trying to get him to take in the view) Beautiful, isn't it? Look at that sky. It just goes on and on.",30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37154,37154,37154,37154,272,GARAK,"No, it doesn't. It's an illusion. There's a holosuite wall not ten meters in front of us.",30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37155,37155,37155,37155,273,EZRI,But you can't see it.,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37156,37156,37156,37156,274,GARAK,I can feel it.,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37157,37157,37157,37157,275,EZRI,We could call up another program.,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37158,37158,37158,37158,276,GARAK,I can't believe the way I humiliated myself back there. (trying to make sense of what he did) I just wanted to... get out. I couldn't breathe.,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37159,37159,37159,37159,277,EZRI,"If you were looking for fresh air, you were knocking on the wrong door.",30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37160,37160,37160,37160,278,GARAK,"(trying to rally himself) I have to get this situation under control. If I don't, I'm going to be forced to leave the station. Where would I go? I can't go back to Cardassia... I doubt I'd be welcome on Bajor...",30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37161,37161,37161,37161,279,EZRI,You're not going to have to leave the station. I'll talk to Quark and tell him to make this holosuite available to you twenty- six hours a day.,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37162,37162,37162,37162,280,EZRI ,"Whenever you feel like walking out the nearest airlock, you can come here instead.",30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37163,37163,37163,37163,281,EZRI,It's going to be all right we're going to get this under control. I promise.,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37164,37164,37164,37164,282,GARAK,"If you don't mind, I'd like to sit here and be alone for a while.",30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37165,37165,37165,37165,283,EZRI,I'll check in on you later.,30A  EXT. HOLOSUITE CLIFF - DAY (OPTICAL),HOLOSUITE CLIFF - DAY,EXT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37166,37166,37166,37166,284,QUARK,Ow!,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37167,37167,37167,37167,285,BASHIR,Hold still. I think I've got something.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37168,37168,37168,37168,286,QUARK,I knew it. Never get a Tympanic Tickle from an amateur.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37169,37169,37169,37169,287,BASHIR,Tympanic Tickle... ? (before Quark can explain) Never mind. I don't want to know. Sit tight. I'm going to get you an antibiotic.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37170,37170,37170,37170,288,WORF,We need to talk.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37171,37171,37171,37171,289,BASHIR,About what?,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37172,37172,37172,37172,290,WORF,"Do not toy with me, Doctor. I know how you felt about Jadzia.",32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37173,37173,37173,37173,291,BASHIR,"Worf, that was a long time ago.",32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37174,37174,37174,37174,292,WORF,I saw you with her.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37175,37175,37175,37175,293,BASHIR,With Jadzia?,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37176,37176,37176,37176,294,WORF,You know who I'm talking about.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37177,37177,37177,37177,295,BASHIR,You've got it all wrong.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37178,37178,37178,37178,296,WORF,Stay away from her.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37179,37179,37179,37179,297,BASHIR,Now wait just a minute.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37180,37180,37180,37180,298,BASHIR,You have no right to tell me who I can be friends with.,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37181,37181,37181,37181,299,WORF,"If you dishonor Jadzia's memory, you will regret it.",32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37182,37182,37182,37182,300,WORF,"That goes for you too, Ferengi.",32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37183,37183,37183,37183,301,QUARK,What did I do... ?,32   INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37184,37184,37184,37184,302,QUARK,Uh-oh. Keep an eye out for Worf.,34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37185,37185,37185,37185,303,EZRI,"Hi, Quark. Can I have a cup of coffee?",34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37186,37186,37186,37186,304,QUARK,(trying to get rid of her) Why would you want to pay me for coffee when you can get it for free at the Replimat?,34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.4939
+37187,37187,37187,37187,305,QUARK,Ah. Oh.,34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37188,37188,37188,37188,306,EZRI,"Can I have a cup of coffee, please? I want to get back up to Garak.",34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37189,37189,37189,37189,307,QUARK,He's gone. He left about an hour ago.,34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37190,37190,37190,37190,308,EZRI,(surprised and concerned) Where'd he go?,34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37191,37191,37191,37191,309,QUARK,"I don't know. Well, don't just stand there. Go find him.",34A  INT. QUARK'S,QUARK'S,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37192,37192,37192,37192,310,EZRI,Garak... ?,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37193,37193,37193,37193,311,EZRI,I thought you were going to stay in the holosuite for a while.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37194,37194,37194,37194,312,GARAK,"I got tired of looking at a fake landscape and pretending I was outside. Work is the answer. My father always used to say that a person should throw themselves into their work. Do your chores, Elim. I told you to do your chores.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37195,37195,37195,37195,313,EZRI,And if you didn't? What would he do to you?,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37196,37196,37196,37196,314,GARAK,"Oh, no. Don't start. Spare me your insipid psychobabble. I'm not some quivering neurotic who feels sorry for himself because his daddy wasn't nice to him. You couldn't begin to understand me.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37197,37197,37197,37197,315,EZRI,I'd like to try.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37198,37198,37198,37198,316,GARAK,I'm sure you would. You'd like nothing more than to pry into my personal affairs.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37199,37199,37199,37199,317,GARAK ,"Well, I'm not interested in dissecting my childhood... all I want is to free my people from the Dominion. I don't need someone to come in here and hold my hand, I need someone who can help me get back to work. And you, my dear, aren't up to the task.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37200,37200,37200,37200,318,GARAK,Look at you. You're pathetic. A confused child trying to live up to the legacy left by her predecessors. You're not worthy of the name Dax. I knew Jadzia -- she was vital -- alive. She owned herself. But you -- you don't even know who you are. How dare you presume to help me? You can't even help yourself.,34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37201,37201,37201,37201,319,GARAK,"Now, get out of here. Before I say something unkind.",34C  INT. GARAK'S SHOP - CONTINUOUS,GARAK'S SHO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37202,37202,37202,37202,320,SISKO,What's this all about?,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37203,37203,37203,37203,321,EZRI,What does it look like? I'm resigning from Starfleet.,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37204,37204,37204,37204,322,SISKO,Why?,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37205,37205,37205,37205,323,EZRI,Because I can't do my job. Garak's right -- how can I help other people when I can't even help myself?,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37206,37206,37206,37206,324,SISKO,"I know this has been a hard time for you, old man --",37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37207,37207,37207,37207,325,EZRI,Don't call me that! I'm not the old man. I'm not Curzon. Or Jadzia.,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37208,37208,37208,37208,326,SISKO,"No, you're Ezri. Ezri Dax. You've been given eight lifetimes worth of experience -- I know it's confusing right now, but in time you'll see it's a wonderful gift.",37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37209,37209,37209,37209,327,EZRI,It's a gift I don't deserve.,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37210,37210,37210,37210,328,SISKO,"If that's the way you feel, then go back to Trill. Talk to the Symbiosis Commission -- maybe you can convince them to take the symbiont out of you.",37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37211,37211,37211,37211,329,EZRI,"I wish they could. But removing the symbiont would kill me, you know that.",37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37212,37212,37212,37212,330,SISKO,"If you're leaving Starfleet, you're going to have to find something to do. Maybe you could be one of those people who takes care of the symbiont pools? It's quiet in those caves. No one around, no one expecting great things from you. You could spend the rest of your life underground, in the dark, stirring mud. Eighty or ninety years of that might be just what you need. And as for Dax? That symbiont's had eight amazing lives -- so what if the ninth is a waste?",37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37213,37213,37213,37213,331,EZRI,"Stop it, Benjamin. I thought you of all people would understand--",37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37214,37214,37214,37214,332,SISKO,"I do understand. You were right. You don't deserve the Dax symbiont. And frankly, you don't deserve to wear that uniform.",37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37215,37215,37215,37215,333,SISKO,I'll pass this on to Starfleet Command. Dismissed.,37B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37216,37216,37216,37216,334,WORF,Yes.,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37217,37217,37217,37217,335,WORF,Not again.,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37218,37218,37218,37218,336,O'BRIEN,Compliments of Doctor Bashir.,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37219,37219,37219,37219,337,WORF,He sent you here?,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37220,37220,37220,37220,338,O'BRIEN,"It was my idea. Now, if you want to skip the drinking and get right down to talking, I'm game.",39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0772
+37221,37221,37221,37221,339,WORF,(getting back to his bat'leth) What do you wish to discuss?,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.4019
+37222,37222,37222,37222,340,O'BRIEN,Julian swears there's nothing going on between him and Ezri. There's no reason for you to be jealous.,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,-0.6124
+37223,37223,37223,37223,341,WORF,This has nothing to do with jealousy. I know the Doctor cared for Jadzia. But this woman is not Jadzia. And treating her as if she were dishonors her memory.,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37224,37224,37224,37224,342,O'BRIEN,"No, treating Ezri like a stranger dishonors Jadzia's memory.",39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37225,37225,37225,37225,343,WORF,"It doesn't make sense. She is not Jadzia, yet she is. How can I honor the memory of the woman I loved when she's not really dead?",39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37226,37226,37226,37226,344,O'BRIEN,"I don't have an answer for you, Worf. But let me ask you this: how do you think Jadzia would've wanted you to treat Ezri?",39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37227,37227,37227,37227,345,WORF,There is no way to know.,39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37228,37228,37228,37228,346,O'BRIEN,"Yes, there is. And the person who can tell you is the person you've been avoiding ever since she got here.",39   INT. WORF'S QUARTERS,WORF'S QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37229,37229,37229,37229,347,GARAK,I didn't think you'd darken my doorstep again.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37230,37230,37230,37230,348,EZRI,I just wanted to say I'm sorry. I wish I'd been able to help you.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37231,37231,37231,37231,349,GARAK,So do I.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37232,37232,37232,37232,350,EZRI,"Well, don't worry. I won't be bothering you anymore. I'm leaving in the morning.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37233,37233,37233,37233,351,GARAK,"Yes, I heard the Destiny was going to be arriving tomorrow.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37234,37234,37234,37234,352,EZRI,They're putting in for supplies before they head to the front. But I won't be going with them. I've decided to go back to Trill.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37235,37235,37235,37235,353,GARAK,How nice for you.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37236,37236,37236,37236,354,EZRI,"(thinking he might be interested) Actually, the Destiny's going to join the Seventh Fleet at Kalandra.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37237,37237,37237,37237,355,GARAK,Kalandra?,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37238,37238,37238,37238,356,EZRI,Those transmissions you decoded last week must've convinced Starfleet that it's a good place to launch a new offensive.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37239,37239,37239,37239,357,GARAK,Yes... the transmissions did indicate it was somewhat vulnerable.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37240,37240,37240,37240,358,EZRI,"If the offensive goes well, Starfleet will have you to thank for it.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37241,37241,37241,37241,359,GARAK,(tugging at his collar) That's very gratifying...,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37242,37242,37242,37242,360,EZRI,I just thought you should know...,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37243,37243,37243,37243,361,EZRI,Are you all right?,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37244,37244,37244,37244,362,GARAK,Of course I'm all right. That's very good news about Kalandra.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37245,37245,37245,37245,363,EZRI,Let's just hope it goes well. The Cardassians will put up a strong fight.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37246,37246,37246,37246,364,GARAK,"Indeed they will. But in the end, they'll lose.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37247,37247,37247,37247,365,EZRI,How can you be so sure?,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37248,37248,37248,37248,366,GARAK,Because they won't be expecting an attack. They have no idea I broke their code.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37249,37249,37249,37249,367,GARAK,All those Cardassians are going to die... because of me...,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37250,37250,37250,37250,368,EZRI,I suppose that's one way to look at it.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37251,37251,37251,37251,369,GARAK,What other way is there?,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37252,37252,37252,37252,370,EZRI,"That by helping to end the war, you're saving lives.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37253,37253,37253,37253,371,GARAK,"Who will I be saving -- Humans, Klingons, Romulans?",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37254,37254,37254,37254,372,EZRI,And Cardassians.,40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37255,37255,37255,37255,373,GARAK,"No, not Cardassians. They're going to fight to the end. The Dominion will see to that.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37256,37256,37256,37256,374,GARAK,"Don't you see? I wanted to believe I was helping my people, liberating them, but all I've done is pave the way for their annihilation. I'm a traitor! I've betrayed -- -- every... -- thing...",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37257,37257,37257,37257,375,EZRI,"Dax to Infirmary, I need a medical team.",40A  INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37258,37258,37258,37258,376,EZRI,How are you feeling?,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37259,37259,37259,37259,377,GARAK,Well... I'm breathing a lot better than I was.,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37260,37260,37260,37260,378,EZRI,At least we found out what's been triggering these claustrophobic attacks you've been having.,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37261,37261,37261,37261,379,GARAK,"(trying to make sense of it) When I first agreed to help Starfleet, I was convinced that it was the right thing to do. I didn't allow myself to doubt it, even for a moment. I never realized how much it was gnawing away at me. I suppose I was looking for a way out... and the claustrophobia gave me an excuse to stop fighting against my people.",40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37262,37262,37262,37262,380,EZRI,"Now that you know that, what are you going to do?",40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37263,37263,37263,37263,381,GARAK,Get back to work. What else can I do? The Dominion has to be stopped. Even if it means the destruction of Cardassia.,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37264,37264,37264,37264,382,EZRI,The captain's going to be glad to hear you're back on the job.,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37265,37265,37265,37265,383,GARAK,He has you to thank for it. And so do I.,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37266,37266,37266,37266,384,GARAK,So what about you? Are you still planning on going back to Trill?,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37267,37267,37267,37267,385,EZRI,No. I'm going to stay in Starfleet.,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37268,37268,37268,37268,386,GARAK,"I'm sure the captain will be glad to hear that, too.",40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37269,37269,37269,37269,387,EZRI,My resignation --,40C  INT. INFIRMARY,INFIRMARY,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37270,37270,37270,37270,388,SISKO,(re: the PADD in his hand) Now what?,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37271,37271,37271,37271,389,EZRI,It's my request to be reinstated into Starfleet.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37272,37272,37272,37272,390,SISKO,I can't send this to Starfleet Command.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37273,37273,37273,37273,391,EZRI,Why not?,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37274,37274,37274,37274,392,SISKO,Because I never sent in your resignation.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37275,37275,37275,37275,393,EZRI,I had a feeling you didn't mean all those things you said to me. You were just trying to rattle my cage.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37276,37276,37276,37276,394,SISKO,You've done it to me often enough. I'm glad it worked.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37277,37277,37277,37277,395,SISKO ,Garak's asked that the latest Cardassian transmissions be sent to the Infirmary. Well done.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37278,37278,37278,37278,396,EZRI,Thanks. Somehow I thought you'd be happier to hear I'm staying in Starfleet.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37279,37279,37279,37279,397,SISKO,I guess I'd be happier if you were staying here at D.S. Nine.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37280,37280,37280,37280,398,EZRI,"Me, too. But you know I can't.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37281,37281,37281,37281,399,SISKO,I hope Captain Raymer knows how lucky she is. She's getting a hell of a counselor.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37282,37282,37282,37282,400,EZRI,Yes.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37283,37283,37283,37283,401,WORF,May I come in?,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37284,37284,37284,37284,402,EZRI,Of course.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37285,37285,37285,37285,403,WORF,I understand that you are leaving in the morning.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37286,37286,37286,37286,404,EZRI,That's right.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37287,37287,37287,37287,405,WORF,I am not certain that I have treated you the way Jadzia would've wanted me to.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37288,37288,37288,37288,406,EZRI,You'll get no argument from me there.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37289,37289,37289,37289,407,WORF,I loved her with all my heart.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37290,37290,37290,37290,408,EZRI,And she loved you...,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37291,37291,37291,37291,409,WORF,"Part of me is glad to know that she is not gone forever... but even so, in some ways it would be easier if she were.",46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37292,37292,37292,37292,410,EZRI,I know.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37293,37293,37293,37293,411,WORF,I have heard that the captain has offered you a position as station counselor. I would not want you to decline on my account.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37294,37294,37294,37294,412,EZRI,"Worf, I can't stay. I couldn't do that to you.",46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37295,37295,37295,37295,413,WORF,Do you wish to stay?,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37296,37296,37296,37296,414,EZRI,Very much.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37297,37297,37297,37297,415,WORF,Then do. Jadzia would not have wanted you to leave because of me.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37298,37298,37298,37298,416,EZRI,Thank you.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37299,37299,37299,37299,417,WORF,It will be a long time before I can accept that I have lost her. Until then...,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37300,37300,37300,37300,418,EZRI,You need some breathing room. I understand.,46   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37301,37301,37301,37301,419,SISKO,"Congratulations, lieutenant.",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37302,37302,37302,37302,420,SISKO,I want you to take a good look around. Because you've just agreed to take responsibility for the mental health of everyone in this room.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37303,37303,37303,37303,421,SISKO ,You've got your work cut out for you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37304,37304,37304,37304,422,BASHIR,It's a good thing they made you a lieutenant. I can't see taking advice from an ensign.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37305,37305,37305,37305,423,O'BRIEN,Since when do you take advice from anyone?,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37306,37306,37306,37306,424,ODO,Why don't you join us for dinner tonight?,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37307,37307,37307,37307,425,EZRI,I don't want to put you out.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37308,37308,37308,37308,426,KIRA,Please come. It'll take the pressure off me. He just sits there and counts how many times I chew.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37309,37309,37309,37309,427,EZRI,I'll be there.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37310,37310,37310,37310,428,JAKE,She is cute.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37311,37311,37311,37311,429,SISKO,She's also about three hundred years too old for you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37312,37312,37312,37312,430,QUARK,I took the liberty of putting together a plate for you.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37313,37313,37313,37313,431,EZRI,"Thanks, Quark. Worf's not here, is he?",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37314,37314,37314,37314,432,QUARK,Good question.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37315,37315,37315,37315,433,GARAK,"Congratulations, quite a crowd.",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37316,37316,37316,37316,434,EZRI,I hope it's not making you uncomfortable.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37317,37317,37317,37317,435,GARAK,Not at all.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37318,37318,37318,37318,436,SISKO,I need you to explain something to someone.,47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37319,37319,37319,37319,437,EZRI,"Morn, it's me. Dax.",47   INT. WARDROOM - CLOSE - A HAND,WARDROO,INT.,Afterimage,1998-07-24,Deep Space Nine,553.txt,0.0
+37320,37320,37320,37320,0,QUARK,I'm truly impressed.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.7184
+37321,37321,37321,37321,1,QUARK,"And I'm not easily impressed. In all my years as proprietor of Quark's Bar, Grill, Gaming House and Holosuite Arcade, I have never seen such a glowing employee performance report. I mean look at this --",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37322,37322,37322,37322,2,QUARK,"-- in three months, no customer has filed a single complaint against you. You haven't spilled a drink or mixed up a food order or shortchanged a bill.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37323,37323,37323,37323,3,ALUURA,I take my job very seriously.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37324,37324,37324,37324,4,QUARK,And yet you always manage to wear a friendly smile.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37325,37325,37325,37325,5,ALUURA,That's because I like my work. I'm happy to be here.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37326,37326,37326,37326,6,QUARK,"It shows. The customers love you, your fellow dabo girls love you -- even the Ferengi waiters sing your praises. And you know why? Because you're nice.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37327,37327,37327,37327,7,ALUURA,I try to be.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37328,37328,37328,37328,8,QUARK,"You're nice to the customers, to the dabo girls, to the Ferengi waiters. You're nice to everyone. Almost everyone.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37329,37329,37329,37329,9,ALUURA,You mean I've offended someone?,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37330,37330,37330,37330,10,QUARK,"Look closely, Aluura. Can't you see the pain in my eyes?",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37331,37331,37331,37331,11,ALUURA,But I'm always nice to you.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37332,37332,37332,37332,12,QUARK,I think you could be nicer.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37333,37333,37333,37333,13,ALUURA,How much nicer?,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37334,37334,37334,37334,14,ALUURA,"""Oo-mox for Fun and Profit.""",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37335,37335,37335,37335,15,QUARK,It's a quick read.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37336,37336,37336,37336,16,ALUURA,"Oh. You want me to be ""nice.""",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37337,37337,37337,37337,17,QUARK,"Let's face it. The customers, the dabo girls, the Ferengi waiters... they didn't hire you. And they can't fire you.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37338,37338,37338,37338,18,ROM,Brother! We need to talk.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37339,37339,37339,37339,19,QUARK,Go away. I'm in the middle of a meeting.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37340,37340,37340,37340,20,ROM,But it's important.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37341,37341,37341,37341,21,QUARK,So's the meeting.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37342,37342,37342,37342,22,ROM,It's about our mother.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37343,37343,37343,37343,23,QUARK,"How many times have I told you not to mention Moogie when I'm... ... you know, working.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37344,37344,37344,37344,24,ROM,"Sorry. But I tried contacting her this morning, and I couldn't get through.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37345,37345,37345,37345,25,QUARK,"She's probably off ""visiting"" the Grand Nagus.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37346,37346,37346,37346,26,ROM,I tried the Tower of Commerce. There was no answer there either.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37347,37347,37347,37347,27,QUARK,"They're probably on vacation. Now leave me alone, I'm trying to concentrate.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37348,37348,37348,37348,28,ROM,"Brother, you don't understand. I can't get a hold of anyone on Ferenginar. Not Cousin Gaila, not Lek... I tell you, something's very wrong.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37349,37349,37349,37349,29,QUARK,"We'll continue this later. In the meantime, you've got some reading to do.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37350,37350,37350,37350,30,ROM,"Hello, Aluura. Good book.",1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.4404
+37351,37351,37351,37351,31,QUARK,Let's go.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37352,37352,37352,37352,32,ROM,She's so nice.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37353,37353,37353,37353,33,QUARK,We'll see.,1    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37354,37354,37354,37354,34,SISKO,A Dominion invasion of Ferenginar?,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37355,37355,37355,37355,35,ROM,Think of the terrible repercussions to the Alpha Quadrant.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37356,37356,37356,37356,36,WORF,I can't think of any.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37357,37357,37357,37357,37,KIRA,How could the Dominion invade Ferenginar without first conquering the systems surrounding it like Clarus and Irtok?,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37358,37358,37358,37358,38,ROM,"Brother, did you hear that? They've captured Irtok as well.",4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37359,37359,37359,37359,39,KIRA,That's not what I said.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37360,37360,37360,37360,40,WORF,There are no reports of Dominion activity anywhere near that sector.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37361,37361,37361,37361,41,QUARK,Then why can't we get through to Ferenginar?,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37362,37362,37362,37362,42,ROM,"Moogie, the Nagus, Cousin Gaila...",4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37363,37363,37363,37363,43,ROM,... they're all dead.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37364,37364,37364,37364,44,QUARK,We don't know that. But something's definitely wrong on Ferenginar.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37365,37365,37365,37365,45,SISKO,We'll see what we can find out.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37366,37366,37366,37366,46,DAX,"Captain, a Ferengi ship is approaching the station and requesting permission to dock. It's Grand Nagus Zek... ... and your mother's with him.",4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37367,37367,37367,37367,47,ROM,They're alive! Nice work.,4    INT. OPS,OPS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37368,37368,37368,37368,48,ZEK,Quark! Rom!,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37369,37369,37369,37369,49,ZEK,It's good to see you boys.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37370,37370,37370,37370,50,QUARK,"It's good to see you, too, Nagus.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37371,37371,37371,37371,51,ROM,Moogie! I was so worried...,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37372,37372,37372,37372,52,ISHKA,You're a good son.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37373,37373,37373,37373,53,QUARK,"I was worried, too.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37374,37374,37374,37374,54,ISHKA,And you're a good liar.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37375,37375,37375,37375,55,ROM,Moogie... do you think it's a good idea to be wearing clothes in public?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37376,37376,37376,37376,56,QUARK,He's right. What if one of my Ferengi waiters sees you?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37377,37377,37377,37377,57,ISHKA,"I hope they do. Tell them, Zekkie.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37378,37378,37378,37378,58,ZEK,"No, you go right ahead, my dear.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37379,37379,37379,37379,59,ISHKA,It should really come from you.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37380,37380,37380,37380,60,QUARK,Would somebody please tell me what's going on?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37381,37381,37381,37381,61,ISHKA,It's one of those good-news-bad- news type of things... Give them the good news first.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37382,37382,37382,37382,62,ZEK,"If you insist. Three days ago, I added a new amendment to the Ferengi Bill of Opportunities giving females the right to wear clothes.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37383,37383,37383,37383,63,ROM,In public?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37384,37384,37384,37384,64,ISHKA,Anywhere we want.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37385,37385,37385,37385,65,QUARK,"That can't be the good news. If Ferengi females can wear clothes in public, they can leave their homes. If they can leave their homes, they can go to work. If they can go to work, they can make profit.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37386,37386,37386,37386,66,ISHKA,"What's the matter, Quark? Afraid of a little competition?",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37387,37387,37387,37387,67,QUARK,You're sure that's the good news?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37388,37388,37388,37388,68,ROM,It sounds good to me.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37389,37389,37389,37389,69,ISHKA,Now do you see why I like him best?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37390,37390,37390,37390,70,ZEK,"Face it, Quark. It's good business. For thousands of years, Ferenginar has allowed a valuable resource to go to waste.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37391,37391,37391,37391,71,QUARK,Females? A valuable resource?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37392,37392,37392,37392,72,ZEK,They make up fifty-three point five percent of the population and contribute virtually nothing to the gross planetary income. I say it's time they started pulling their own weight.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37393,37393,37393,37393,73,QUARK,You better tell me the bad news -- it might cheer me up.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37394,37394,37394,37394,74,ISHKA,I doubt it.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37395,37395,37395,37395,75,ZEK,"The moment fully clothed females began appearing on the streets of Ferenginar, financial chaos erupted all over the planet.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37396,37396,37396,37396,76,ROM,That explains the communications blackout.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37397,37397,37397,37397,77,ZEK,There was so much buying and selling throughout the Alliance that the entire planetary communications grid shut down.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37398,37398,37398,37398,78,QUARK,"If there's trouble on Ferenginar, what are you doing here?",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37399,37399,37399,37399,79,ZEK,I've been deposed. I'm no longer Grand Nagus.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37400,37400,37400,37400,80,QUARK,Then who is?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37401,37401,37401,37401,81,ISHKA,Who do you think?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37402,37402,37402,37402,82,QUARK,Brunt.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37403,37403,37403,37403,83,ROM,Grand Nagus Brunt?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37404,37404,37404,37404,84,ZEK,Acting Grand Nagus Brunt.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37405,37405,37405,37405,85,ROM,Brother -- we're in trouble now. Brunt hates us.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37406,37406,37406,37406,86,ISHKA,Don't start panicking. The Ferengi Commerce Authority hasn't confirmed him yet.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37407,37407,37407,37407,87,ZEK,And they won't for three more days.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37408,37408,37408,37408,88,ZEK,"Boys, together we're going to reconquer an empire. Or die in the attempt.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37409,37409,37409,37409,89,ISHKA,"What lovely quarters you have, Quark. Small, but lovely.",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37410,37410,37410,37410,90,ZEK,"As of this moment, I declare this site to be the headquarters of the sole legitimate government of Ferenginar.",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37411,37411,37411,37411,91,QUARK,I still can't believe Brunt is the new Nagus.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37412,37412,37412,37412,92,ZEK,Acting Nagus.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37413,37413,37413,37413,93,QUARK,For three more days. Then it becomes official.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37414,37414,37414,37414,94,ZEK,I'm not worried. I have a secret weapon.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37415,37415,37415,37415,95,ZEK,"Your mother. Now listen closely -- one, we contact every F.C.A. Commissioner and invite them to the station for a meeting. Two, Ishka runs the meeting.",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37416,37416,37416,37416,96,QUARK,They'll love that.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37417,37417,37417,37417,97,ZEK,"Maybe not at first, but she'll win them over. Using her vast financial knowledge and keen instinct for profit, she'll prove -- once and for all -- that allowing females to wear clothing is the first step toward a healthier and more prosperous Ferengi economy. And three... What was three again, my dear?",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37418,37418,37418,37418,98,ISHKA,The F.C.A. Commissioners reinstate you as Nagus.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37419,37419,37419,37419,99,ZEK,And you can't ask for a happier ending than that.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37420,37420,37420,37420,100,ISHKA,"But that's only the beginning, lobekins. I predict that one day, a female will enter the Tower of Commerce, climb the forty flights of stairs to the Chamber of Opportunity, and take her rightful place as Grand Nagus of the Ferengi Alliance.",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37421,37421,37421,37421,101,QUARK,Don't look at me -- it was your amendment.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37422,37422,37422,37422,102,ROM,"Nagus -- you remember my son, Nog, don't you? He's the first Ferengi to join Starfleet.",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37423,37423,37423,37423,103,ZEK,I'll try not to hold that against him.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37424,37424,37424,37424,104,ROM,"And this is my wife, Leeta.",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37425,37425,37425,37425,105,LEETA,I've heard so much about you.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37426,37426,37426,37426,106,ZEK,Would you like to hear more?,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37427,37427,37427,37427,107,ISHKA,Remember -- she's Rom's wife.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37428,37428,37428,37428,108,ZEK,Meaning what?,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37429,37429,37429,37429,109,ISHKA,Meaning she's broke.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37430,37430,37430,37430,110,ZEK,She doesn't look broke to me.,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37431,37431,37431,37431,111,ISHKA,Zekkie...,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37432,37432,37432,37432,112,ZEK,"Just having a little harmless fun, my sweet. Quark, you and your brother, get rid of some of this furniture. You, get three subspace transceivers off my ship and set them up in here. And where's my beetle snuff?",7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37433,37433,37433,37433,113,ZEK,Grand Nagus Brunt... baaah!,7    INT. QUARK'S QUARTERS,QUARK'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37434,37434,37434,37434,114,QUARK,"Good afternoon, I'm calling on behalf of Grand Nagus Zek...",10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37435,37435,37435,37435,115,ROM,The Nagus summons you to a meeting here on Deep Space Nine...,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37436,37436,37436,37436,116,NOG,He's counting on your support.,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37437,37437,37437,37437,117,QUARK,You'll be presented with some very interesting financial data...,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37438,37438,37438,37438,118,ROM,... there's profit to be earned...,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37439,37439,37439,37439,119,NOG,... and the Nagus wants you to share in these lucrative opportunities...,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37440,37440,37440,37440,120,ROM,"Yes, I'm talking about the Grand Nagus --",10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37441,37441,37441,37441,121,QUARK,"No, not Brunt --",10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37442,37442,37442,37442,122,NOG,-- Grand Nagus Zek.,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37443,37443,37443,37443,123,QUARK,Who said he was dead?,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37444,37444,37444,37444,124,ROM,Wait -- don't end the transmission!,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37445,37445,37445,37445,125,NOG,Hello? Hello? Where'd he go?,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37446,37446,37446,37446,126,ROM,I'm calling on behalf of Grand Nagus Zek --,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.4588
+37447,37447,37447,37447,127,QUARK,I know all about the ninety-fourth Rule of Acquisition --,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37448,37448,37448,37448,128,NOG,"I know... ""Females and finances don't mix,"" but that can be interpreted in many different ways...",10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37449,37449,37449,37449,129,QUARK,Hello? Hello?,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37450,37450,37450,37450,130,ROM,That's not a very nice thing to say about the Nagus.,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37451,37451,37451,37451,131,QUARK,I beg your pardon!,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37452,37452,37452,37452,132,NOG,There's no need to be insulting.,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37453,37453,37453,37453,133,ROM,Hello? Hello?,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37454,37454,37454,37454,134,QUARK,That female happens to be my mother!,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37455,37455,37455,37455,135,NOG,Hello? Hello?,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37456,37456,37456,37456,136,ROM,Hello? Hello?,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37457,37457,37457,37457,137,QUARK,Hello? Hello?,10   INT. QUARK'S QUARTERS - LATER,QUARK'S QUARTER,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37458,37458,37458,37458,138,ZEK,Are you sure you contacted every Commissioner on this list?,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37459,37459,37459,37459,139,QUARK,All four hundred and thirty-two of them.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37460,37460,37460,37460,140,ZEK,And you could only convince one of them to attend the meeting?,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37461,37461,37461,37461,141,ROM,Maybe if we made some follow-up calls...,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37462,37462,37462,37462,142,ZEK,I helped every one of those people earn a fortune -- and this is how they repay me?,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37463,37463,37463,37463,143,NOG,What a bunch of ingrates.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37464,37464,37464,37464,144,ISHKA,The news isn't all bad.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37465,37465,37465,37465,145,ISHKA,The Commissioner who's agreed to come... it's Nilva.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37466,37466,37466,37466,146,QUARK,The Chairman of Slug-o-Cola?,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37467,37467,37467,37467,147,ISHKA,He's a very influential voice within the F.C.A.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37468,37468,37468,37468,148,ZEK,"Unfortunately, he's a very influential voice for the status quo.",35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37469,37469,37469,37469,149,ROM,I don't think Slug-o-Cola has changed their advertising slogan in three hundred years.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37470,37470,37470,37470,150,ZEK/ISHKA/ROM/QUARK,"""Drink Slug-o-Cola -- the slimiest cola in the galaxy.""",35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37471,37471,37471,37471,151,QUARK,Why would Nilva agree to come to the meeting?,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37472,37472,37472,37472,152,ISHKA,"I don't know. But if I can convince him to support Zek, other Commissioners might follow.",35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37473,37473,37473,37473,153,ZEK,It's a start.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37474,37474,37474,37474,154,ISHKA,See? I told you it was too early to panic.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37475,37475,37475,37475,155,BRUNT ,Care to place a wager on that?,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37476,37476,37476,37476,156,ROM,Grand Nagus Brunt...,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37477,37477,37477,37477,157,ZEK,Acting Grand Nagus Brunt.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37478,37478,37478,37478,158,ISHKA,Now you can panic.,35   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,-0.5106
+37479,37479,37479,37479,159,BRUNT,I'll take an Eelwasser. No ice.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,-0.296
+37480,37480,37480,37480,160,ZEK,"What're you doing here, Brunt?",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37481,37481,37481,37481,161,BRUNT,That's Grand Nagus Brunt.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37482,37482,37482,37482,162,ISHKA,Acting Grand Nagus.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37483,37483,37483,37483,163,BRUNT,Would someone please tell that female to take off those clothes -- it's disgusting.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,-0.2732
+37484,37484,37484,37484,164,ISHKA,"Get used to it, limp lobes. This is the future.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37485,37485,37485,37485,165,BRUNT,Over my dead body.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,-0.6486
+37486,37486,37486,37486,166,ZEK,If that's what it takes.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37487,37487,37487,37487,167,ROM,I don't suppose you're here to reminisce about the time you helped my brother and I rescue Moogie from the Dominion.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37488,37488,37488,37488,168,BRUNT,You're right. That's not why I'm here. Though I do find it ironic that helping to rescue your mother was the first step on my road to becoming Nagus.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37489,37489,37489,37489,169,ISHKA,Don't remind me.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37490,37490,37490,37490,170,ZEK,I never should've given you your job back with t'he F.C.A.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37491,37491,37491,37491,171,BRUNT,"But you did. And as a Liquidator, I was able to bribe my way back into a position of power.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37492,37492,37492,37492,172,ROM,That is ironic.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37493,37493,37493,37493,173,BRUNT,"Face it, Zek, it's over. You're finished. Bankrupt. I'm going to liquidate you.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37494,37494,37494,37494,174,BRUNT,"Cancel that Eelwasser and get me a Slug-o-Cola instead. On second thought, I'll just wait for Chairman Nilva to get here. I'm sure he'll be happy to provide his new Nagus with all the Slug-o- Cola I can drink.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37495,37495,37495,37495,175,ROM,How did you know Nilva was coming here?,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37496,37496,37496,37496,176,BRUNT,"Because it's my business to know. Go ahead, have your little ""meeting."" Whatever you offer Nilva, I'll double it.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37497,37497,37497,37497,177,QUARK,That's it. Get out of my bar.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37498,37498,37498,37498,178,BRUNT,You dare to threaten your Nagus.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37499,37499,37499,37499,179,QUARK,"Acting Nagus. You may liquidate us tomorrow, but right now, this is still my establishment. Now get out before I kick you out.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37500,37500,37500,37500,180,BRUNT,I'm going to make you a pauper.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37501,37501,37501,37501,181,QUARK,Out.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37502,37502,37502,37502,182,BRUNT,Uri'lash. We're leaving. Say good-bye to all these poor people.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37503,37503,37503,37503,183,ZEK,"My boy, I'm proud of you.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37504,37504,37504,37504,184,ISHKA,So am I.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37505,37505,37505,37505,185,ROM,"Me, too.",39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37506,37506,37506,37506,186,QUARK,I just threw the Grand Nagus out of my bar.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37507,37507,37507,37507,187,ZEK/ISHKA/ROM,Acting Grand Nagus.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37508,37508,37508,37508,188,QUARK,Whatever. I need to lie down.,39   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37509,37509,37509,37509,189,ISHKA,"You busy, Quark?",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37510,37510,37510,37510,190,QUARK,Busy? Me? Nah. I'm just lying here wondering if it's not too late for me to start a new life somewhere.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37511,37511,37511,37511,191,ISHKA,"Oh, Quark, there's nothing wrong with your life. Come on, on your feet. Zekkie's waiting for you at the bar.",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37512,37512,37512,37512,192,QUARK,. Now what?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37513,37513,37513,37513,193,ISHKA,He feels like playing a game of tongo.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37514,37514,37514,37514,194,QUARK,We're all facing banishment from Ferengi society and he wants to play tongo?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37515,37515,37515,37515,195,ISHKA,"He wants to play tongo, I want to have a late night snack, you want to lie here feeling sorry for yourself -- we all deal with stress in different ways. Any fresh tube grubs around?",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37516,37516,37516,37516,196,,Any fresh tube grubs around?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37517,37517,37517,37517,197,QUARK,How can you eat at a time like this?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37518,37518,37518,37518,198,ISHKA,"It's simple. You put one end of the tube grub between your front teeth, and suck 'em right up.",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37519,37519,37519,37519,199,QUARK,You want tube grubs? Fine.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37520,37520,37520,37520,200,QUARK,Here. Enjoy.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37521,37521,37521,37521,201,ISHKA,These are minced. I wanted fresh.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37522,37522,37522,37522,202,QUARK,You know this is all your fault.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37523,37523,37523,37523,203,ISHKA,It's my fault you don't have fresh tube grubs?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37524,37524,37524,37524,204,QUARK,I'm not talking about tube grubs. I'm talking about Ferengi females wearing clothes and earning profit. I'm talking about Grand Nagus Brunt.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37525,37525,37525,37525,205,ISHKA,Acting Grand Nagus Brunt.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37526,37526,37526,37526,206,QUARK,"You're not fooling me, Moogie. You've been plotting this all along. Ever since you met Zek, you've been working on him. Manipulating him. Whispering things in his ear... things like -- -- ""equality for females.""",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37527,37527,37527,37527,207,ISHKA,What's wrong with that?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37528,37528,37528,37528,208,QUARK,"I'll tell you what's wrong -- you've ruined Zek's life, your life, Rom's life --",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37529,37529,37529,37529,209,ISHKA,As if you cared about any of us. It's your life you're worried about.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37530,37530,37530,37530,210,QUARK,"You bet I'm worried. No one else seems to care what happens to me! You come here to my station, take over my quarters, make me a part of your subversive schemes --",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37531,37531,37531,37531,211,ISHKA,"What's the matter, Quark? Afraid you've picked the wrong side? You can always go crawling to Brunt -- beg his forgiveness.",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37532,37532,37532,37532,212,QUARK,I don't want anything to do with Brunt. I want my old Nagus back... I want Zek to be the way he used to be -- before he met you... before you twisted his thinking with your feminine wiles.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37533,37533,37533,37533,213,ISHKA,"Before he met me, Zek was a lonely, unhappy man.",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37534,37534,37534,37534,214,QUARK,"But he was rich. He was the most powerful Ferengi alive. Now what is he? A puppet. And you're the one pulling his strings. Making him dance to your evil, feminist tune. You're the worst thing that ever happened to him. You're the worst thing that ever happened to me. In fact, you're the worst thing that ever happened to the entire Ferengi Alliance.",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37535,37535,37535,37535,215,ISHKA,"Maybe I am, but at least I'm not like you. A selfish, spineless, ungrateful...",41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37536,37536,37536,37536,216,QUARK,Is that the best you can do?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37537,37537,37537,37537,217,ISHKA,You are... you are... you really are... you... you... you...,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37538,37538,37538,37538,218,QUARK,Go ahead and say it!,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37539,37539,37539,37539,219,ISHKA,You...,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37540,37540,37540,37540,220,QUARK,Moogie?,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37541,37541,37541,37541,221,QUARK,Moogie? Uh-oh.,41   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37542,37542,37542,37542,222,ROM,Moogie... please don't die.,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37543,37543,37543,37543,223,ZEK,"I hope so. For her sake, for my sake, for the sake of the entire Ferengi Alliance...",43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37544,37544,37544,37544,224,ZEK ,"... but most of all, I hope she gets better for your sake, Quark. Because if she doesn't...",43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37545,37545,37545,37545,225,QUARK,What did I do?,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37546,37546,37546,37546,226,ZEK,That's exactly the question I keep asking myself -- what did you do to her?,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37547,37547,37547,37547,227,QUARK,"I told you, she said she was hungry and I gave her some tube grubs. She thanked me then she collapsed. I wish you'd stop making me relive it.",43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37548,37548,37548,37548,228,ROM,Are you sure you didn't do or say anything that might've upset her?,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37549,37549,37549,37549,229,QUARK,I don't want to talk about it anymore.,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37550,37550,37550,37550,230,ZEK,"What's the matter, Quark? Your conscience bothering you?",43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37551,37551,37551,37551,231,QUARK,I haven't done anything wrong!,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37552,37552,37552,37552,232,BASHIR ,That's not what your mother says.,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37553,37553,37553,37553,233,ROM,"Doctor, how's Moogie?",43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37554,37554,37554,37554,234,QUARK,Will she live?,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37555,37555,37555,37555,235,BASHIR,She'll live. She needed a new heart and it's functioning normally. But she's going to need complete rest for a few days. And that means keeping her far away from him.,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37556,37556,37556,37556,236,ZEK,"And why is that, doctor?",43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37557,37557,37557,37557,237,BASHIR,"I'm not sure exactly. All I know is that Ishka keeps repeating the same phrase over and over -- ""It's all Quark's fault. It's all Quark's fault.""",43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37558,37558,37558,37558,238,QUARK,I wonder what she means by that?,43   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37559,37559,37559,37559,239,QUARK,... and then I accused her of being the worst thing that ever happened to the Ferengi Alliance and she clutched her chest and collapsed. Moogie and I argue all the time -- it's our way of showing affection.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37560,37560,37560,37560,240,ZEK,"Well, if you ask me, Quark -- the worst thing that ever happened to the Ferengi Alliance is you.",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37561,37561,37561,37561,241,QUARK,I'm sorry.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37562,37562,37562,37562,242,ROM,I suppose we should contact Nilva and tell him the meeting has to be postponed.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37563,37563,37563,37563,243,ZEK,"We can't postpone the meeting. In two days, the F.C.A. is going to confirm Brunt as the new Grand Nagus.",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37564,37564,37564,37564,244,ROM,"Boy, when things go wrong...",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37565,37565,37565,37565,245,BRUNT ,... the only thing to do is get down on your knees and beg for mercy.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37566,37566,37566,37566,246,BRUNT,Who knows? You might find me in a charitable mood.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37567,37567,37567,37567,247,ZEK,"By the time I'm through with you, you're the one who's going to need charity.",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37568,37568,37568,37568,248,BRUNT,"Such brave words, yet so empty. I was very relieved to hear that your mother is going to be all right.",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37569,37569,37569,37569,249,BRUNT ,"Of course, that's not going to do you much good. Nilva will be arriving tonight expecting to meet a ""brilliant"" Ferengi female. Do you know any -- I mean besides Ishka? I certainly don't.",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37570,37570,37570,37570,250,BRUNT,"How pitiful. One day you're the Grand Nagus of the Ferengi Alliance, the next you're nothing but a common barroom brawler. See what happens when you put your faith in a female?",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37571,37571,37571,37571,251,ROM,What about Leeta?,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37572,37572,37572,37572,252,QUARK,What about her?,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37573,37573,37573,37573,253,ROM,Maybe she can meet with Nilva. She handles my finances and she's a female.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37574,37574,37574,37574,254,ZEK,And a very beautiful one at that. But Nilva's expecting to meet with a Ferengi female.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37575,37575,37575,37575,255,QUARK,We'll never get one here in time.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37576,37576,37576,37576,256,ROM,We're doomed.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37577,37577,37577,37577,257,ZEK,"No, we're not. You think Ishka would give up if she were here?",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37578,37578,37578,37578,258,ROM,"If she were here, we wouldn't have a problem.",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37579,37579,37579,37579,259,ZEK,"That's not the point. Your mother would never accept defeat. If she couldn't find another female, she'd... she'd... she'd...",45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37580,37580,37580,37580,260,ROM,She'd what?,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37581,37581,37581,37581,261,ZEK,She'd make one!,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37582,37582,37582,37582,262,QUARK,You mean a hologram?,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37583,37583,37583,37583,263,ZEK,Better than a hologram.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37584,37584,37584,37584,264,QUARK,What could be better than a hologram?,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37585,37585,37585,37585,265,ZEK,You.,45   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37586,37586,37586,37586,266,ROM,He's been in there an awfully long time.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37587,37587,37587,37587,267,ZEK,It's a delicate procedure.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37588,37588,37588,37588,268,ROM,I'll say.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37589,37589,37589,37589,269,ROM,Doctor -- what is it? Did something go wrong?,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37590,37590,37590,37590,270,BASHIR,That depends how you look at it.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37591,37591,37591,37591,271,ZEK,The operation -- was it a success?,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37592,37592,37592,37592,272,BASHIR,I suppose you could say that.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37593,37593,37593,37593,273,ZEK,That's good.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37594,37594,37594,37594,274,BASHIR,I hope so.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37595,37595,37595,37595,275,BASHIR,You can come out now.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37596,37596,37596,37596,276,ROM,"Brother, you look... beautiful.",48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37597,37597,37597,37597,277,BASHIR,He's a little emotional... his endocrine system needs some time to adjust to its new hormonal balance.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37598,37598,37598,37598,278,BASHIR,"He'll be all right in a few minutes. Now if you'll excuse me, I have to go figure out how I'm going to enter this into my medical log.",48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37599,37599,37599,37599,279,QUARK,Does anyone have a handkerchief?,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37600,37600,37600,37600,280,QUARK,Where are my clothes? I want to go back to my quarters.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37601,37601,37601,37601,281,ZEK,Try this on.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37602,37602,37602,37602,282,ROM,Must be the wrong size.,48   INT. INFIRMARY,INFIRMARY,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37603,37603,37603,37603,283,QUARK ,Oww! That hurts.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37604,37604,37604,37604,284,LEETA,"Oh, don't be such a baby. They're just earrings.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37605,37605,37605,37605,285,QUARK ,They're heavy.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37606,37606,37606,37606,286,ROM,You'll get used to them.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37607,37607,37607,37607,287,QUARK ,I hope not.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37608,37608,37608,37608,288,LEETA,Would you stop doing that.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37609,37609,37609,37609,289,QUARK ,Doing what?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37610,37610,37610,37610,290,LEETA,"Looking down. Now hold still, I'm almost done. There.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37611,37611,37611,37611,291,QUARK,How do I look?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37612,37612,37612,37612,292,LEETA,You look... nice.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37613,37613,37613,37613,293,QUARK,Nice? That's all?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37614,37614,37614,37614,294,ROM,Very nice.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37615,37615,37615,37615,295,ZEK,You may look like a female but you've got to do something about that voice.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37616,37616,37616,37616,296,QUARK,I'm trying. I mean I'm trying.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37617,37617,37617,37617,297,ZEK,"Well, try harder.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37618,37618,37618,37618,298,LEETA,And stop looking down.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37619,37619,37619,37619,299,QUARK,I need to see what I look like. Someone get me a mirror.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37620,37620,37620,37620,300,ROM,"You see, brother? You're lovely.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37621,37621,37621,37621,301,LEETA,There go his hormones again.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37622,37622,37622,37622,302,ROM,"You mean, her hormones.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37623,37623,37623,37623,303,QUARK,"Take it away, take it away.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37624,37624,37624,37624,304,QUARK,I'm sorry. It's just that I feel so... ... different..,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37625,37625,37625,37625,305,LEETA,Would you stop staring at your chest.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37626,37626,37626,37626,306,QUARK,I wasn't staring at my chest -- I was staring at my hips. Aren't they too big?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37627,37627,37627,37627,307,ZEK,Your hips are fine. Now let's get down to business.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37628,37628,37628,37628,308,ZEK,These are your mother's notes for her meeting with Nilva. Study them carefully.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37629,37629,37629,37629,309,QUARK,"""Female apparel -- a new source of latinum for a new Ferenginar.""",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37630,37630,37630,37630,310,QUARK,"""Hypicate cream -- for smooth skin and healthier profits.""",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37631,37631,37631,37631,311,QUARK ,All these facts and figures... it's too much to remember.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37632,37632,37632,37632,312,ZEK,Nonsense. You just need a little time to practice your presentation.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37633,37633,37633,37633,313,LEETA,"And while you're at it, you need to practice your walk.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37634,37634,37634,37634,314,QUARK,What's wrong with my walk?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37635,37635,37635,37635,315,LEETA,You're lumbering.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37636,37636,37636,37636,316,QUARK,This is never going to work.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37637,37637,37637,37637,317,ROM,"Don't cry, Brother. Here, let me show you. Watch carefully.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37638,37638,37638,37638,318,ROM,You see? It's more of a glide.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37639,37639,37639,37639,319,LEETA,That's good.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37640,37640,37640,37640,320,ROM,"And when you sit -- be sure your knees are touching. And don't forget to relax your shoulders, but keep your bottom tight.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37641,37641,37641,37641,321,ROM,What?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37642,37642,37642,37642,322,QUARK,He's the one who should be wearing the dress.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37643,37643,37643,37643,323,ROM,Why me?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37644,37644,37644,37644,324,LEETA,You're so adorable... and complicated.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37645,37645,37645,37645,325,QUARK,"Maybe it's not too late. Come on, I'll take you to Doctor Bashir --",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37646,37646,37646,37646,326,ZEK,"Forget it, Quark. Rom may make a better female than you, but when it comes to business, you're the better Ferengi.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37647,37647,37647,37647,327,QUARK,Looks like your stupidity has saved you again.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37648,37648,37648,37648,328,ROM,It comes in handy sometimes.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37649,37649,37649,37649,329,QUARK,(trying to convince himself) I can do this... its only for one meeting. I can be a female for one meeting.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37650,37650,37650,37650,330,QUARK ,Can't I?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37651,37651,37651,37651,331,LEETA,Not if you're lumbering.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37652,37652,37652,37652,332,QUARK,I'll conduct the meeting sitting down.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37653,37653,37653,37653,333,ROM,Tighten your bottom.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37654,37654,37654,37654,334,ZEK,"I think you're doing wonderfully, my dear. I'm proud of you.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37655,37655,37655,37655,335,ZEK,"Sorry. You may walk like a man, but you make a very attractive female. Confusing, isn't it?",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37656,37656,37656,37656,336,QUARK,Not to me.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37657,37657,37657,37657,337,NOG,He's here -- he's on the station!,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37658,37658,37658,37658,338,ZEK,Who is?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37659,37659,37659,37659,339,NOG,Nilva.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37660,37660,37660,37660,340,QUARK,But he's not supposed to arrive until tomorrow.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37661,37661,37661,37661,341,ZEK,That Nilva. He's a tricky one. But he makes a good cola.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37662,37662,37662,37662,342,ROM,What do we do?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37663,37663,37663,37663,343,QUARK,"I can't meet Nilva now, I'm still lumbering.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37664,37664,37664,37664,344,NOG,You look very nice.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37665,37665,37665,37665,345,ZEK,"Nog, I want you to escort the chairman to his quarters. Tell him I'll meet him for dinner tonight.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37666,37666,37666,37666,346,NOG,What if he asks about Ishka?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37667,37667,37667,37667,347,ZEK,"Tell him that Ishka is sick, but that tomorrow he'll be meeting with my other female financial advisor... ...Lumba.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37668,37668,37668,37668,348,NOG,Right.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37669,37669,37669,37669,349,QUARK,Lumba?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37670,37670,37670,37670,350,ZEK,You'd better start memorizing those notes.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37671,37671,37671,37671,351,LEETA,"First, we need to practice your walking.",52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37672,37672,37672,37672,352,ROM,And your sitting.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37673,37673,37673,37673,353,ZEK,And don't forget to work on that voice.,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37674,37674,37674,37674,354,QUARK,Any other comments?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37675,37675,37675,37675,355,ZEK,Has anyone ever told you that you have lovely eyes?,52   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37676,37676,37676,37676,356,NOG,"Welcome to Deep Space Nine, Chairman Nilva.",56   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37677,37677,37677,37677,357,NILVA,Here. Have a Slug-o-Cola.,56   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37678,37678,37678,37678,358,NILVA,"You drink Slug-o-Cola, don't you?",56   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37679,37679,37679,37679,359,NOG,The slimiest cola in the galaxy? Doesn't everybody?,56   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37680,37680,37680,37680,360,NILVA,Good boy. Now take me to Zek.,56   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37681,37681,37681,37681,361,NOG,But Zek wanted me to --,56   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37682,37682,37682,37682,362,NILVA,Don't argue with me. Just drink your cola and lead the way.,56   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37683,37683,37683,37683,363,NOG,You sure you don't want to stop by your quarters and freshen up?,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37684,37684,37684,37684,364,NILVA,Not before I meet this female advisor of Zek's.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37685,37685,37685,37685,365,BRUNT,Nilva! How nice to see you again.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37686,37686,37686,37686,366,NILVA,Grand Nagus Brunt.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37687,37687,37687,37687,367,NOG,Acting Grand Nagus Brunt.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37688,37688,37688,37688,368,NILVA,I had a feeling I might find you here.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37689,37689,37689,37689,369,BRUNT,"I thought after your meeting with Zek, we could have a little chat.",57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37690,37690,37690,37690,370,NILVA,Of course. But I've really come to meet this... Ishka female.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37691,37691,37691,37691,371,BRUNT,Haven't you heard? Ishka's in the Infirmary. She's in no position to meet anyone.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37692,37692,37692,37692,372,NOG,Which is why you'll be meeting with another one of Zek's financial advisors. Her name is Lumba.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37693,37693,37693,37693,373,BRUNT,Never heard of her.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37694,37694,37694,37694,374,NILVA,Zek has two female advisors?,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37695,37695,37695,37695,375,BRUNT,I didn't know there were two Ferengi females on the station.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37696,37696,37696,37696,376,NILVA,"Well, what are we waiting for? Let's go meet this ""other"" female.",57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37697,37697,37697,37697,377,NOG,You're sure you wouldn't like me to show you around the station first?,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37698,37698,37698,37698,378,NILVA,I want to meet Lumba.,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37699,37699,37699,37699,379,BRUNT,Lumba?,57   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37700,37700,37700,37700,380,LEETA,"All right, let's try it again.",58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37701,37701,37701,37701,381,QUARK,My name is Lumba. You must be Chairman Nilva. Zek's told me so much about you...,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37702,37702,37702,37702,382,LEETA,What's wrong now?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37703,37703,37703,37703,383,QUARK,These earrings -- they're killing me. Do I have to wear them?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37704,37704,37704,37704,384,ROM,No woman is complete without earrings.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37705,37705,37705,37705,385,ROM,Why does everyone keep looking at me?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37706,37706,37706,37706,386,QUARK,I'm going to bed.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37707,37707,37707,37707,387,ZEK,Now?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37708,37708,37708,37708,388,QUARK,I'm exhausted. I've got to get some sleep or I'll never make it through tomorrow's meeting.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37709,37709,37709,37709,389,LEETA,Who could that be?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37710,37710,37710,37710,390,ROM,Come in.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37711,37711,37711,37711,391,ZEK,Nilva!,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37712,37712,37712,37712,392,NILVA,"Zek. Have a Slug-o-Cola. Don't worry, I brought enough for everyone.",58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37713,37713,37713,37713,393,NOG,He insisted on seeing you immediately.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37714,37714,37714,37714,394,NILVA,You must be Lunga.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37715,37715,37715,37715,395,QUARK,Lumba.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37716,37716,37716,37716,396,NILVA,"Of course. (looking Quark up and down) A Ferengi female wearing clothes -- -- and with your approval, no less. You've either been inhaling too much beetle snuff or you're the greatest visionary to ever sit atop the Tower of Commerce.",58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37717,37717,37717,37717,397,ZEK,"Well, why don't you and I have dinner tonight and try to figure it out. We can go to Quark's and get some nice, juicy snail steaks. You can meet with Lumba tomorrow.",58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37718,37718,37718,37718,398,NILVA,I'm afraid that's not possible. I have to leave first thing in the morning. I'm due to attend an important stockholders meeting back on Ferenginar. But snail steaks do sound tempting. Why don't I have dinner with Lumba?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37719,37719,37719,37719,399,QUARK,With me?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37720,37720,37720,37720,400,ZEK,(trying to derail this train) Won't you feel uncomfortable being seen in public with a clothed female?,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37721,37721,37721,37721,401,NILVA,Of course I will. But you and I have made a lot of latinum together over the years... I suppose that's worth a little discomfort. But Lumba better be all you claim she is or I'll liquidate you myself. Let's eat.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37722,37722,37722,37722,402,ROM,Have fun.,58   INT. ROM'S QUARTERS,ROM'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37723,37723,37723,37723,403,NILVA,(misinterpreting all the attention) See how everyone's staring? Even aliens find a clothed Ferengi female shocking.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37724,37724,37724,37724,404,NILVA,"Two snail steaks, lightly seared.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37725,37725,37725,37725,405,NILVA,"Tell me something, doesn't wearing all those clothes make you feel like a deviant?",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37726,37726,37726,37726,406,QUARK,"Not really. And you know why? Because under all these clothes, I'm totally naked.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37727,37727,37727,37727,407,NILVA,"I'll try to remember that. Now, perhaps you'd better explain to me how allowing females to wear clothing is going to make me richer than I already am.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37728,37728,37728,37728,408,QUARK,I was hoping you were going to ask me that. You see this dress I'm wearing? Have you any idea how much it would sell for on Ferenginar?,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37729,37729,37729,37729,409,LEETA,Would someone please tell me what they're saying.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37730,37730,37730,37730,410,ZEK/ROM/NOG,Shhh.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37731,37731,37731,37731,411,NILVA,"... let me see if I understand. Giving females the right to wear clothes allows them to have pockets. Once they have pockets, they're going to want to fill them with latinum.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37732,37732,37732,37732,412,QUARK,Which means they're going to need jobs.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37733,37733,37733,37733,413,NILVA,"And once they start earning latinum, they're going to want to spend it.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37734,37734,37734,37734,414,QUARK,Which means Ferenginar will be expanding its work force and its consumer base at the same time.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37735,37735,37735,37735,415,NILVA,That way there'll be profit for everyone.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37736,37736,37736,37736,416,QUARK,"When it comes to profit, I'm your girl.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37737,37737,37737,37737,417,QUARK,And I'm sure you could use some extra latinum.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37738,37738,37738,37738,418,NILVA,Meaning what?,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37739,37739,37739,37739,419,QUARK,"I read the beverage trades. Sales of Slug-o-Cola have flattened out, while Eelwasser had a very impressive third quarter.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37740,37740,37740,37740,420,NILVA,"They got lucky, that's all.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37741,37741,37741,37741,421,QUARK,I know a way you can increase Slug- o-Cola sales by fifty to sixty percent.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37742,37742,37742,37742,422,NILVA,(leaning forward; intrigued) I'm all ears.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37743,37743,37743,37743,423,QUARK,Target the new female consumer. Make Slug-o-Cola her drink.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37744,37744,37744,37744,424,NILVA,Nothing's stopping her from drinking it now.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37745,37745,37745,37745,425,QUARK,"But you're not encouraging her either. ""The slimiest cola in the galaxy."" That kind of slogan doesn't appeal to women.",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37746,37746,37746,37746,426,NILVA,And what would?,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37747,37747,37747,37747,427,QUARK,"Let me see... Slug-o-Cola contains forty-three percent live algae, right?",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37748,37748,37748,37748,428,NILVA,In every bottle.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37749,37749,37749,37749,429,QUARK,"Well, how about something like... ""Drink Slug-o-Cola and keep your teeth a sparkling shade of green.""",61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37750,37750,37750,37750,430,NILVA,Zek was right about you. You're very intelligent.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37751,37751,37751,37751,431,QUARK,You mean for a female?,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37752,37752,37752,37752,432,NILVA,I think it's time for dessert.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37753,37753,37753,37753,433,QUARK,Good idea.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37754,37754,37754,37754,434,QUARK,I thought we were going to have dessert?,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37755,37755,37755,37755,435,NILVA,We are. In my quarters.,61   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37756,37756,37756,37756,436,NILVA,"Come in, come in. It's so good not to be stared at. Although I must admit, I did find it somewhat... stimulating.",63A  INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37757,37757,37757,37757,437,QUARK,You know the Replimat has very tasty desserts.,63A  INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37758,37758,37758,37758,438,NILVA,Not as tasty as the one I have in mind. You have the most delicate little lobes. I think I'll start with them.,63A  INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37759,37759,37759,37759,439,NILVA,I never thought I'd find a clothed female so enticing.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37760,37760,37760,37760,440,QUARK,I'm not that enticing. What you need is a good night's sleep.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37761,37761,37761,37761,441,NILVA,A little oo-mox and I'll sleep like a baby.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37762,37762,37762,37762,442,QUARK,I hear the station has some very nice holosuites...,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37763,37763,37763,37763,443,NILVA,I don't like holosuites.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37764,37764,37764,37764,444,QUARK,Chairman Nilva! What's gotten into you?,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37765,37765,37765,37765,445,NILVA,It's my wife. She hasn't touched my lobes in months!,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37766,37766,37766,37766,446,QUARK,I'm sorry to hear that. Maybe she's bored -- she probably needs to get out more.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37767,37767,37767,37767,447,NILVA,"I don't want to talk about her. In fact, I don't want to talk at all.",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37768,37768,37768,37768,448,NILVA,"My lobes burn for you. If you don't believe me, touch them.",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37769,37769,37769,37769,449,QUARK,I'll take your word for it.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37770,37770,37770,37770,450,NILVA,You said you'd do anything for me!,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37771,37771,37771,37771,451,QUARK,I lied.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37772,37772,37772,37772,452,NILVA,But I need you!,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37773,37773,37773,37773,453,QUARK,"No, you don't!",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37774,37774,37774,37774,454,NILVA,"Come to me, my little love slave.",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37775,37775,37775,37775,455,BRUNT,Let go of that man!,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37776,37776,37776,37776,456,QUARK,I'm trying.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37777,37777,37777,37777,457,NILVA,Would you please leave. You're making Lumba nervous.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37778,37778,37778,37778,458,BRUNT,"His name's not Lumba, it's Quark! And he's a male.",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37779,37779,37779,37779,459,NILVA,A male?,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37780,37780,37780,37780,460,BRUNT,How pitiful. Zek must be truly desperate.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37781,37781,37781,37781,461,NILVA,"(to Quark, clearly disappointed) Is this true? You're a man?",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37782,37782,37782,37782,462,QUARK,Do I look like a man?,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37783,37783,37783,37783,463,BRUNT,"Nice try, Quark. But it's not going to work. I tell you, he's the station's bartender.",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37784,37784,37784,37784,464,QUARK,"Don't believe him, hot lobes. I'm as female as they come and I'll prove it to you.",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37785,37785,37785,37785,465,QUARK,Well?,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37786,37786,37786,37786,466,NILVA,I'm not sure...,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37787,37787,37787,37787,467,QUARK,"Oh, all right...",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37788,37788,37788,37788,468,QUARK,Now are you sure?,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37789,37789,37789,37789,469,NILVA,Completely.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37790,37790,37790,37790,470,BRUNT,I tell you -- that is not a female!,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37791,37791,37791,37791,471,NILVA,She's close enough for me.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37792,37792,37792,37792,472,NILVA,"Come, my dear, let's go tell Zek that I'm going to do everything in my power to see that he remains Grand Nagus.",66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37793,37793,37793,37793,473,BRUNT,But why?,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37794,37794,37794,37794,474,NILVA,Because that's what Lumba wants.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37795,37795,37795,37795,475,BRUNT,His name's Quark!,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37796,37796,37796,37796,476,NILVA,What's in a name?,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37797,37797,37797,37797,477,QUARK,What can I say? It was love at first sight.,66   INT. NILVA'S QUARTERS,NILVA'S QUARTERS,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37798,37798,37798,37798,478,ODO,Interesting ring.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37799,37799,37799,37799,479,QUARK,"It was a gift. Poor Nilva. He's such a lovely man, but so lonely.",70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37800,37800,37800,37800,480,ODO,Really?,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37801,37801,37801,37801,481,QUARK,There's a sweetness to him. And a strength. Sometimes he gets this little glint in his eye...,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37802,37802,37802,37802,482,QUARK,You know what I mean...,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37803,37803,37803,37803,483,ODO,"Not really, but I'm glad you had a pleasant evening.",70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37804,37804,37804,37804,484,QUARK,"You're mocking me, aren't you?",70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37805,37805,37805,37805,485,ODO,And you're being a little oversensitive.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37806,37806,37806,37806,486,QUARK,I've only been male again for six hours. My hormones must still be out of balance. My emotions are raging out of control.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37807,37807,37807,37807,487,ODO,Is there anything I can do?,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37808,37808,37808,37808,488,QUARK,Would you mind giving me a hug?,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37809,37809,37809,37809,489,ODO,A hug?,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37810,37810,37810,37810,490,QUARK,Just a small one.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37811,37811,37811,37811,491,QUARK,(his head buried in Odo's shoulder) Thank you.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37812,37812,37812,37812,492,ZEK ,I hope we're not interrupting anything.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37813,37813,37813,37813,493,ZEK,We just wanted to say good-bye before we go back to Ferenginar.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37814,37814,37814,37814,494,ISHKA,Where the rivers run with muck and the streets are swarming with happy females.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37815,37815,37815,37815,495,ZEK,"And where, if everything goes according to plan, the F.C.A. commissioners will once again proclaim me Grand Nagus.",70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37816,37816,37816,37816,496,ROM,That would be nice. But Brunt's going to fight you at every turn.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37817,37817,37817,37817,497,ZEK,I wouldn't have it any other way.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37818,37818,37818,37818,498,ISHKA,"I'm glad we have Nilva on our side. And we have you to thank for that, Quark.",70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37819,37819,37819,37819,499,QUARK,"Then you forgive me, Moogie?",70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37820,37820,37820,37820,500,ISHKA,"Of course I do. You may be a lousy son, but you made a wonderful daughter. I hope the experience taught you something.",70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37821,37821,37821,37821,501,QUARK,It's made me more compassionate... empathetic... nurturing.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37822,37822,37822,37822,502,QUARK ,I feel like I'm trapped in my worst nightmare.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37823,37823,37823,37823,503,ZEK,Don't worry. I'm sure it won't last. You'll be back to your old self in no time.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37824,37824,37824,37824,504,ROM,You're so lucky. No man ever gave me a ring.,70   INT. QUARK'S,QUARK'S,INT.,Profit and Lace,1998-03-09,Deep Space Nine,547.txt,0.0
+37825,37825,37825,37825,0,ODO ,Colonel.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37826,37826,37826,37826,1,KIRA,"(smiling in spite of herself) Odo, I wish you'd stop doing that.",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37827,37827,37827,37827,2,ODO,Doing what?,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37828,37828,37828,37828,3,KIRA,"Calling me by my rank. I was promoted two months ago. Besides, it sounds so... formal.",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37829,37829,37829,37829,4,ODO,Has Admiral Ross -- or should I say Bill -- arrived yet?,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37830,37830,37830,37830,5,KIRA,The admiral's ship is due to arrive in three hours. I wish I knew what he wants to see me about.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37831,37831,37831,37831,6,ODO,Maybe he's bringing good news. We could certainly use some.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37832,37832,37832,37832,7,KIRA,Don't get your hopes up. There was something in the tone of his voice...,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37833,37833,37833,37833,8,ODO,Something ominous?,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37834,37834,37834,37834,9,KIRA,Something... pleasant. He was going out of his way to be nice...,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37835,37835,37835,37835,10,ODO,I see...,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37836,37836,37836,37836,11,KIRA,"Whatever he's coming to tell me, he knows I'm not going to like it.",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37837,37837,37837,37837,12,ODO,How can you be so sure?,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37838,37838,37838,37838,13,KIRA,It comes with the job.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37839,37839,37839,37839,14,KIRA,"I'm serious. Sitting in the Captain's Chair, having that kind of responsibility... it focuses you...",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37840,37840,37840,37840,15,ODO,I'll take your word for it.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37841,37841,37841,37841,16,KIRA,(with growing frustration) How many days have they been sitting there?,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37842,37842,37842,37842,17,ODO,Three.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37843,37843,37843,37843,18,KIRA,I can remember when the cult of the Pah-wraiths was considered a joke... now those red armbands are appearing all over Bajor. It's like everyone's gone crazy.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37844,37844,37844,37844,19,ODO,A lot of people feel abandoned by the Prophets...,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37845,37845,37845,37845,20,KIRA,"Believe me, I know how they feel. But that's no excuse to turn to hate and fear.",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37846,37846,37846,37846,21,ODO,"In times of trouble, some people find comfort in hate and fear. (re: the supplicants)",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37847,37847,37847,37847,22,ODO ,"If you'd like, I can charge them with loitering and have them removed from the station.",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37848,37848,37848,37848,23,KIRA,"What good would that do? I keep thinking... if the Emissary were here, things might be different.",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37849,37849,37849,37849,24,ODO,I would've thought we'd have heard from Captain Sisko by now.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37850,37850,37850,37850,25,KIRA,Not a word in three months.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37851,37851,37851,37851,26,ODO,"I realize things may seem bleak at the moment, but there's always hope...",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37852,37852,37852,37852,27,KIRA,Since when did you become such an optimist?,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37853,37853,37853,37853,28,ODO,"Must have been that day, in front of Quark's, when we kissed for the first time.",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37854,37854,37854,37854,29,KIRA,"That was some kiss, wasn't it?",1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37855,37855,37855,37855,30,ODO,Changed my life.,1    INT. PROMENADE,PROMENADE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37856,37856,37856,37856,31,O'BRIEN,"Gentlemen, we are home.",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37857,37857,37857,37857,32,BASHIR,There should be a law against convoy duty lasting more than ten days.,4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37858,37858,37858,37858,33,NOG,I'll say one thing for guarding convoys -- it's usually a lot safer than being on the front lines.,4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37859,37859,37859,37859,34,WORF,"Is that why you joined Starfleet, ensign? To be safe?",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37860,37860,37860,37860,35,NOG,"I didn't mean that the way it sounded, sir...",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37861,37861,37861,37861,36,WORF,"In wartime, it's a soldier's duty to fight.",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37862,37862,37862,37862,37,NOG,"Yes, sir.",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37863,37863,37863,37863,38,WORF,The invasion of Cardassia has ground to a halt while our casualties continue to mount. It is a time for warriors to do great deeds. To triumph in glorious battle -- not waste away protecting shipments of stembolts!,4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37864,37864,37864,37864,39,NOG,I hope Commander Worf doesn't think I'm afraid to fight.,4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37865,37865,37865,37865,40,O'BRIEN,"Relax, Nog. Don't take it so personally -- Worf's just going through a hard time.",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37866,37866,37866,37866,41,BASHIR,"He needs to focus on something other than Jadzia. I hate to admit it, but combat duty just might do the trick.",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37867,37867,37867,37867,42,O'BRIEN,The Defiant will be going into battle soon enough. Then Worf can be happy and the rest of us can be miserable.,4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37868,37868,37868,37868,43,NOG,It's not that I'm afraid to fight... it's just that I don't want to die. I wish Captain Sisko were here.,4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37869,37869,37869,37869,44,O'BRIEN,"So do I, ensign. So do I.",4    INT. DEFIANT - BRIDGE,DEFIAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37870,37870,37870,37870,45,JOSEPH,"(to the first customer) If I were you, I'd order the crawfish etoufee. (to the second customer) And if it's good enough for him, it's good enough for you.",7    INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37871,37871,37871,37871,46,JOSEPH,I think table five is ready to order.,7    INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37872,37872,37872,37872,47,JAKE,He's been at that piano since seven o'clock this morning.,7    INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37873,37873,37873,37873,48,JOSEPH,Customers seem to like it.,7    INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37874,37874,37874,37874,49,JAKE,Grandpa...,7    INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37875,37875,37875,37875,50,JOSEPH,"I'm worried too, but he's got something to work out... best we leave him alone.",7    INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37876,37876,37876,37876,51,JAKE,We've left him alone for three months! He said he came here to figure out a way to contact the Prophets... to make things right. But so far he hasn't even left the restaurant.,7    INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37877,37877,37877,37877,52,JAKE ,Dad? What is it? What's wrong?,10   EXT. DESERT - DAY (OPTICAL),DESERT - DAY,EXT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37878,37878,37878,37878,53,JAKE,Dad!,13   INT. SISKO'S RESTAURANT,SISKO'S RESTAURANT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37879,37879,37879,37879,54,SISKO,"I had a vision... from the Prophets. I was on Tyree, in the desert... digging in the sand... I uncovered a face... the face of a woman.",13   INT. SISKO'S RESTAURANT,SISKO'S RESTAURANT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37880,37880,37880,37880,55,JAKE,And?,13   INT. SISKO'S RESTAURANT,SISKO'S RESTAURANT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37881,37881,37881,37881,56,SISKO,That's all...,13   INT. SISKO'S RESTAURANT,SISKO'S RESTAURANT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37882,37882,37882,37882,57,JAKE,Who was she?,13   INT. SISKO'S RESTAURANT,SISKO'S RESTAURANT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37883,37883,37883,37883,58,SISKO,"I've never seen her before... but now I know why I came back here. I have to find her, Jake... I have to.",13   INT. SISKO'S RESTAURANT,SISKO'S RESTAURANT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37884,37884,37884,37884,59,ROSS,"Colonel, I really don't think you have anything to be concerned about. I've met Senator Cretak and I found her to be... very cooperative.",15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37885,37885,37885,37885,60,KIRA,For a Romulan.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37886,37886,37886,37886,61,ROSS,Cretak's a strong supporter of the Alliance... and we need that kind of support if we're going to win this war.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37887,37887,37887,37887,62,KIRA,"I don't care if the Romulans were the only thing standing between us and total annihilation, I'd still think twice about letting them establish a military presence here on the station.",15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37888,37888,37888,37888,63,ROSS,(with some exasperation) We're just talking about a few offices for the senator and her staff.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37889,37889,37889,37889,64,KIRA,And a contingent of personal guards.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37890,37890,37890,37890,65,ROSS,"A dozen people, at most. Besides, it's only a temporary arrangement -- until the end of the war.",15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37891,37891,37891,37891,66,KIRA,And when will that be?,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37892,37892,37892,37892,67,ROSS,"Let's get one thing straight, colonel. I came here as a courtesy to you. This decision has already been made.",15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37893,37893,37893,37893,68,KIRA,And I have to live with it.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37894,37894,37894,37894,69,ROSS,That's right.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37895,37895,37895,37895,70,ROSS,"You've done a fine job, taking over for Captain Sisko.",15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37896,37896,37896,37896,71,KIRA,I'm just keeping his seat warm.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37897,37897,37897,37897,72,ROSS,You still think he'll be back?,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37898,37898,37898,37898,73,KIRA,Don't you?,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37899,37899,37899,37899,74,ROSS,I'll be in touch.,15   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37900,37900,37900,37900,75,DAMAR,"As you can see, we've halted the Klingon advance against Monac Four. We estimate their casualties at over thirty percent.",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37901,37901,37901,37901,76,WEYOUN,"They should've been higher. Nevertheless, congratulations Damar. The enemy remains bottled up within the Chin'toka system. And there they'll stay until we destroy them.",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37902,37902,37902,37902,77,DAMAR,"I'd offer you a glass, but I know how much you dislike kanar.",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37903,37903,37903,37903,78,WEYOUN,I'm beginning to think you like it too much.,18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37904,37904,37904,37904,79,DAMAR,I wouldn't trust a Cardassian who doesn't enjoy a glass of kanar every once in awhile.,18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37905,37905,37905,37905,80,WEYOUN,"Tell me, Damar -- when you're alone, do you even bother with a glass, or do you just drink that swill directly from the bottle?",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37906,37906,37906,37906,81,DAMAR,"It depends on my mood. And right now, I feel like celebrating. We owe Gul Dukat a debt of gratitude.",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37907,37907,37907,37907,82,WEYOUN,"Unfortunately, I agree. Somehow, releasing that Pah-wraith into the wormhole has shifted the momentum of the war in our favor.",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37908,37908,37908,37908,83,DAMAR,"Do you ever wonder what's going on in there... the wormhole, I mean.",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37909,37909,37909,37909,84,WEYOUN,Not really.,18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37910,37910,37910,37910,85,DAMAR,The Prophets and the Pah-wraiths locked in some kind of celestial battle... it's fascinating.,18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.5423
+37911,37911,37911,37911,86,WEYOUN,I never realized you had such a vivid imagination.,18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37912,37912,37912,37912,87,DAMAR,There's a lot about me you don't know.,18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37913,37913,37913,37913,88,WEYOUN,"Just remember, having too much imagination can be... dangerous.",18   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,-0.4767
+37914,37914,37914,37914,89,JAKE,(trying to engage him) Dad -- Grandpa and I are going over to Armstrong Park to listen to some music. Want to come?,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.4019
+37915,37915,37915,37915,90,SISKO,You two go ahead.,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37916,37916,37916,37916,91,JAKE,What's that?,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37917,37917,37917,37917,92,SISKO,The woman I saw in my vision... I don't want to forget her face.,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37918,37918,37918,37918,93,SISKO,I'll see you in the morning.,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37919,37919,37919,37919,94,JAKE,Hey... I've seen her.,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37920,37920,37920,37920,95,SISKO,Where?,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37921,37921,37921,37921,96,JAKE,In a photograph...,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37922,37922,37922,37922,97,JAKE,Here she is. I knew it.,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37923,37923,37923,37923,98,JAKE,"It's her, isn't it?",21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37924,37924,37924,37924,99,SISKO,I don't understand... who is she?,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37925,37925,37925,37925,100,JAKE,Why don't you ask Grandpa?,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37926,37926,37926,37926,101,JOSEPH ,Ask me what?,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37927,37927,37927,37927,102,SISKO,This woman --,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37928,37928,37928,37928,103,JOSEPH,Where'd you get that?,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37929,37929,37929,37929,104,JAKE,I found it last week when I was cleaning out the storage room. I meant to ask you about it.,21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37930,37930,37930,37930,105,SISKO,"Who is she, Dad?",21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37931,37931,37931,37931,106,JOSEPH,"She's no one, you hear me? No one at all.",21   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37932,37932,37932,37932,107,VIC,"Hey, pallie -- where you been keeping yourself.",30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37933,37933,37933,37933,108,WORF,Convoy duty.,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37934,37934,37934,37934,109,VIC,Doesn't sound very exciting.,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37935,37935,37935,37935,110,WORF,It wasn't.,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37936,37936,37936,37936,111,VIC,"Well, if you're looking for a little action, you've come to the right place. What do you say we hit the craps tables? Or maybe a little blackjack to get the blood pumping?",30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37937,37937,37937,37937,112,WORF,Sing the song.,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37938,37938,37938,37938,113,VIC,I don't think that's such a good idea...,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37939,37939,37939,37939,114,WORF,Sing the song.,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37940,37940,37940,37940,115,VIC,"C'mon, pallie... why rub salt on an open wound?",30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37941,37941,37941,37941,116,WORF,You're a hologram. You're programmed to do as I say. Sing the song.,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37942,37942,37942,37942,117,VIC,"It's your dime, pallie.",30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37943,37943,37943,37943,118,VIC,Park it right there.,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37944,37944,37944,37944,119,VIC,And don't say I didn't warn you. Which reminds me of a story Joey once told me --,30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37945,37945,37945,37945,120,WORF,"(interrupting, a threat) Sing!",30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37946,37946,37946,37946,121,VIC,"(to the band, a la Joey Bishop) Son of a gun, I think he means it.",30   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37947,37947,37947,37947,122,CRETAK,This monitor is still off-line. I want it operational within the hour.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37948,37948,37948,37948,123,CRETAK,I hope all the chairs on this station aren't this uncomfortable.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37949,37949,37949,37949,124,KIRA ,I'm afraid they are.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37950,37950,37950,37950,125,KIRA,"But don't worry, you'll get used to them.",33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37951,37951,37951,37951,126,CRETAK,I'm sure I will. (stands up to greet Kira) You must be Colonel Kira.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37952,37952,37952,37952,127,KIRA,I'm sorry I wasn't there to greet you at the airlock when you arrived. I was --,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37953,37953,37953,37953,128,CRETAK,"No need to explain, Colonel. I'm sure you're quite busy.",33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37954,37954,37954,37954,129,KIRA,"I hope you find your accommodations satisfactory. Other than the chairs, of course.",33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37955,37955,37955,37955,130,CRETAK,I'm sure we'll be quite comfortable here. I trust that won't be a problem for you.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37956,37956,37956,37956,131,KIRA,Meaning what?,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37957,37957,37957,37957,132,CRETAK,My people have a reputation for arrogance. I'm afraid it's well- earned.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37958,37958,37958,37958,133,KIRA,But you're different. Or so Admiral Ross tells me.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37959,37959,37959,37959,134,CRETAK,The admiral and I have a good working relationship. I hope to have a similar one with you.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37960,37960,37960,37960,135,KIRA,I'd like nothing more.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37961,37961,37961,37961,136,CRETAK,Then I look forward to working with you toward our common goal -- the destruction of the Dominion.,33   INT. ROMULAN COMMAND POST - DS9,ROMULAN COMMAND POS,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37962,37962,37962,37962,137,BASHIR ,Worf did this?,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37963,37963,37963,37963,138,VIC,"With his own two hands -- and it's not the first time he's busted up the joint. I don't care how much he threatens me, that's the last time I ever sing ""All the Way."" If he wants to hear it again, let him buy a Sinatra album.",37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37964,37964,37964,37964,139,BASHIR,(putting it all,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37965,37965,37965,37965,140,QUARK,"So am I, but you don't see me ""busting up the joint.""",37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37966,37966,37966,37966,141,BASHIR,She wasn't your wife.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37967,37967,37967,37967,142,QUARK,She should've been.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37968,37968,37968,37968,143,BASHIR,But there is something wrong here...,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37969,37969,37969,37969,144,VIC,That's what I've been telling you.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37970,37970,37970,37970,145,BASHIR,Klingons usually have a much shorter mourning period than humans. They accept death more readily than we do.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37971,37971,37971,37971,146,VIC,"Well, something's driving Worf cuckoo. Your buddy needs to get some serious help --",37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37972,37972,37972,37972,147,VIC,-- and soon. The band's threatening to quit.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37973,37973,37973,37973,148,QUARK,They can't quit -- they're holograms.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37974,37974,37974,37974,149,VIC,They don't know that.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37975,37975,37975,37975,150,BASHIR,I'll see what I can do.,37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37976,37976,37976,37976,151,VIC,"Hang in there, pallie.",37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37977,37977,37977,37977,152,BASHIR,"I'll try, but I think Jadzia's death has made us all a little cuckoo.",37   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37978,37978,37978,37978,153,SISKO,Dad?,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37979,37979,37979,37979,154,JOSEPH,You should be in bed.,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37980,37980,37980,37980,155,SISKO,Not until you tell me what I need to know.,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37981,37981,37981,37981,156,JOSEPH,I already told you. She's no one.,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37982,37982,37982,37982,157,SISKO,You're going to have to do better than that.,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37983,37983,37983,37983,158,JOSEPH,"Leave it be, Ben.",39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37984,37984,37984,37984,159,SISKO,I can't. I saw her.,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37985,37985,37985,37985,160,JOSEPH,That's impossible.,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37986,37986,37986,37986,161,SISKO,"I'm telling you, I saw her.",39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37987,37987,37987,37987,162,JOSEPH,You couldn't have...,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37988,37988,37988,37988,163,SISKO,Dad -- please! Who is she?,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37989,37989,37989,37989,164,JOSEPH,"I'm sorry, but I don't want to talk about it.",39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37990,37990,37990,37990,165,SISKO,Dad --,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37991,37991,37991,37991,166,JOSEPH,No!,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37992,37992,37992,37992,167,SISKO,You have to tell me. I have to know who she is!,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37993,37993,37993,37993,168,JOSEPH,"Her name was Sarah. I met her in June of '31. (a small smile at the memory) It was in Jackson Square... she was, without a doubt, the most beautiful woman I'd ever seen.",39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37994,37994,37994,37994,169,JOSEPH,"Two months later, we were married.",39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37995,37995,37995,37995,170,SISKO,Married? You had a wife before Mom?,39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37996,37996,37996,37996,171,JOSEPH,"It's a little more complicated than that, Ben. You see... Sarah was your mother.",39   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37997,37997,37997,37997,172,JOSEPH,"Sarah and I were married for two years. She seemed... very happy. I certainly was. Two days after your first birthday, she disappeared.",41   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37998,37998,37998,37998,173,SISKO,What do you mean she disappeared?,41   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0
+37999,37999,37999,37999,174,JOSEPH,She left me.,41   INT. SISKO'S RESTAURANT - NIGHT,SISKO'S RESTAURAN,INT.,Image in the Sand,1998-07-01,Deep Space Nine,551.txt,0.0

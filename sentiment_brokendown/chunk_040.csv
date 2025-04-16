@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+40000,40000,40000,40000,50,DAX,Yes...,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40001,40001,40001,40001,51,O'BRIEN,You coming?,9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40002,40002,40002,40002,52,DAX,"I'm sorry, I was... nevermind...",9    INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40003,40003,40003,40003,53,KIRA,Dammit. Not yet...,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40004,40004,40004,40004,54,VALERIAN,"Deep Space Nine, this is Valerian vessel Sherval Das. We are entering the Bajoran system, clear us for docking.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40005,40005,40005,40005,55,KIRA,"Negative, Sherval Das. There's going to be a slight delay.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40006,40006,40006,40006,56,VALERIAN,We are in need of maintenance. It has been a long journey.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40007,40007,40007,40007,57,KIRA,I'm sure it has. But we've got our own problems. You'll just have to wait --,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40008,40008,40008,40008,58,SISKO ,"Stand by, Sherval Das.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40009,40009,40009,40009,59,SISKO,I'd like an explanation.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40010,40010,40010,40010,60,KIRA,I'm not finished running the background check on their ship.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40011,40011,40011,40011,61,SISKO,We agreed there'd be no delays in the docking procedure --,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40012,40012,40012,40012,62,KIRA,They just visited Fahleena Three and Mariah Four -- the same two stops they used to make when they were running dolamide to the Cardassians. The last stop would be the purification plant on Ultima Thule.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40013,40013,40013,40013,63,KIRA,"If I can place them there, we'll know they're carrying weapons-grade material.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40014,40014,40014,40014,64,SISKO,Your ship is cleared for docking.,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40015,40015,40015,40015,65,VALERIAN,"Thank you, Commander. Sherval Das out.",12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40016,40016,40016,40016,66,SISKO,No delays...,12   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40017,40017,40017,40017,67,QUARK,"Isn't it always the same old story? I hear it day in, day out. She takes you for granted. She doesn't appreciate your... finer qualities.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40018,40018,40018,40018,68,QUARK,The cut of your jib... The twist of your tulamak...,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40019,40019,40019,40019,69,QUARK,The way you turn a phrase... What does she want?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40020,40020,40020,40020,70,QUARK,Two Pistres? For all my compassion? You call that a tip? No wonder she left you! You piker!,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40021,40021,40021,40021,71,ODO,"Trouble, Quark?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40022,40022,40022,40022,72,QUARK,Nothing I can't handle.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40023,40023,40023,40023,73,ODO,I heard you had some problems with the Klingons the last time they came through...,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40024,40024,40024,40024,74,QUARK,"Spare me from beings who think pain is pleasure. In small doses, perhaps. But the Klingons? They're rough on the holosuites. They break the furniture.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40025,40025,40025,40025,75,QUARK,"I'm still fixing the walls in Holosuite Six. I'm not saying they don't spend big. I'm just saying by the time you figure in the damage, I'm lucky to break even.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40026,40026,40026,40026,76,ODO,"They do tend toward bluster, don't they? Throwing their weight around. Bragging...",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40027,40027,40027,40027,77,QUARK,"This crew was worse than the last. ""Our glorious mission."" I asked them, ""what's so glorious about a gamma quadrant bio-survey?""",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40028,40028,40028,40028,78,ODO,And what did they say?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40029,40029,40029,40029,79,QUARK,"Crafty tonight, aren't we, Odo? Looking for clues about the fate of the Klingons. If I tell you what I heard, what do I get in return?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40030,40030,40030,40030,80,ODO,"Chances are, what you heard won't help. So why should I give you something for it?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40031,40031,40031,40031,81,QUARK,"Because otherwise, I heard nothing.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40032,40032,40032,40032,82,ODO,"Those damaged holosuites. Work crew seven is probably doing the repairs, am I right?",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40033,40033,40033,40033,83,QUARK,Yes...,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40034,40034,40034,40034,84,ODO,"Well, it looks as though I might have to put in a priority request for work crew seven. The bulkheads in security could use a little shoring up.",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40035,40035,40035,40035,85,QUARK,"They said they were coming back through the wormhole with something that would ""make the enemies of the Klingon Empire tremble.""",14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40036,40036,40036,40036,86,ODO,Their exact words?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40037,40037,40037,40037,87,QUARK,A direct quote.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40038,40038,40038,40038,88,ODO,You've been most helpful.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40039,40039,40039,40039,89,QUARK,Don't let it get around.,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40040,40040,40040,40040,90,QUARK,Odo?,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40041,40041,40041,40041,91,QUARK,Doctor Bashir! Doctor Bashir!,14   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40042,40042,40042,40042,92,BASHIR,"Welcome back, Constable.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.4588
+40043,40043,40043,40043,93,ODO,How am I?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40044,40044,40044,40044,94,BASHIR,How do you feel?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40045,40045,40045,40045,95,ODO,Fine.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40046,40046,40046,40046,96,BASHIR,Good. Because I've got no way to know. Your body chemistry defies analysis.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40047,40047,40047,40047,97,ODO,I don't remember anything...,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40048,40048,40048,40048,98,ODO,"But, I'm back to normal?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40049,40049,40049,40049,99,BASHIR,"Like I said -- you tell me. I don't know what caused it, and I couldn't tell you if it'll happen again. There's really nothing more I can do here.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40050,40050,40050,40050,100,ODO,"Then thank you for your time, Doctor.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40051,40051,40051,40051,101,BASHIR,"Tell me Odo, do you share my concern about this Valerian situation?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40052,40052,40052,40052,102,ODO,Concern?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40053,40053,40053,40053,103,BASHIR,I think you know what I mean.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40054,40054,40054,40054,104,ODO,Why don't you tell me and then you can be sure I know.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40055,40055,40055,40055,105,BASHIR,Just don't be surprised if the uneasy alliance on this station starts to show a few cracks...,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40056,40056,40056,40056,106,ODO,"What ""uneasy alliance""?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40057,40057,40057,40057,107,BASHIR,"Commander Sisko and Kira. Mark my words, there's going to be trouble.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40058,40058,40058,40058,108,ODO,"Exactly what are you basing all this on, Doctor?",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40059,40059,40059,40059,109,BASHIR,"Very clever, Constable. (a conspiratorial nod) You're probably right. It's still too early to commit oneself either way.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40060,40060,40060,40060,110,ODO,Are you finished with me?,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40061,40061,40061,40061,111,BASHIR,Unless you'd like to pour yourself through my phoretic analyzer -- I'd love to see the results.,18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40062,40062,40062,40062,112,ODO,"Another time, perhaps.",18   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40063,40063,40063,40063,113,KIRA,I've got them!,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40064,40064,40064,40064,114,SISKO,Who?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40065,40065,40065,40065,115,KIRA,The Valerians. Their ship was at the Ultima Thule station one week ago. That confirms it. They're definitely running dolamide.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40066,40066,40066,40066,116,SISKO,So... ?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40067,40067,40067,40067,117,KIRA,"So I've got an armed team ready to board their vessel. We confiscate the material and send them back where they came from. Frankly, I'm half tempted to take them to Bajor and press charges.",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40068,40068,40068,40068,118,SISKO,By whose authority?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40069,40069,40069,40069,119,KIRA,You're not going to do anything about this?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40070,40070,40070,40070,120,SISKO,I'm not. And neither are you.,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40071,40071,40071,40071,121,SISKO,"Commanded by a Federation officer. Commanded by me. Are you challenging that, Major?",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40072,40072,40072,40072,122,KIRA,"No, Sir...",19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40073,40073,40073,40073,123,SISKO,Good... Now is there anything else I can do for you?,19   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40074,40074,40074,40074,124,DAX,Short-range sensors are picking up some debris.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40075,40075,40075,40075,125,O'BRIEN,Looks like duranium alloy. Probably pieces of the Klingon's secondary hull.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40076,40076,40076,40076,126,DAX,It's possible their mission recorder is somewhere in the debris. The magnetic field from the duranium could be masking it.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40077,40077,40077,40077,127,O'BRIEN,Let's get a little closer...,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40078,40078,40078,40078,128,O'BRIEN,Major Kira's been awfully aggressive toward Commander Sisko lately... about station policy.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40079,40079,40079,40079,129,DAX,An honest difference of opinion.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40080,40080,40080,40080,130,O'BRIEN,"We're within a thousand meters... Secondary hull fragments, pieces of the bulkhead... Still no sign of the recorder.",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40081,40081,40081,40081,131,DAX,I'm taking us closer...,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40082,40082,40082,40082,132,O'BRIEN,What if it's more than a difference of opinion? What if Kira thinks the Bajorans don't need us on DS Nine? It is their station.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40083,40083,40083,40083,133,DAX,That would be suicidal. Without a Federation presence Bajor would be vulnerable again to the Cardassians.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40084,40084,40084,40084,134,O'BRIEN,That doesn't mean there aren't plenty of misguided Bajorans who think they can go it alone.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40085,40085,40085,40085,135,DAX,Isn't it always like that? Bitterness is the coin by which generosity is repaid. I once helped the Federation deliver rain-inducing technology to Kelton Four. The end of the drought was the end of contact. Talk about fair weather friends --,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40086,40086,40086,40086,136,O'BRIEN,"You've become quite friendly with Major Kira, haven't you?",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40087,40087,40087,40087,137,DAX,"Have I... ? Well, yes, I suppose I have... if you say so...",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40088,40088,40088,40088,138,O'BRIEN,"Well, I wouldn't get too friendly with the natives if I were you. Remember where your loyalties lie.",20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40089,40089,40089,40089,139,DAX,Of course. Benjamin and I have been close for a long time. Hand and glove. I'm on his side -- no question about it. That reminds me of the time we found ourselves --,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40090,40090,40090,40090,140,O'BRIEN,Good. Because anyone against Sisko is against me.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40091,40091,40091,40091,141,O'BRIEN,I'm picking up a weak subspace transponder signal.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40092,40092,40092,40092,142,O'BRIEN,It's the mission recorder.,20   INT. RUNABOUT,RUNABOUT,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40093,40093,40093,40093,143,KIRA,Constable...,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40094,40094,40094,40094,144,ODO,"Can I help you, Major?",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40095,40095,40095,40095,145,KIRA,"You always manage to help me, Odo. In fact, I'd say we work pretty well together -- you and I.",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40096,40096,40096,40096,146,ODO,Yes. I suppose our relationship has always been... cooperative.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40097,40097,40097,40097,147,KIRA,Exactly. And that's just what I need right now -- your cooperation.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40098,40098,40098,40098,148,KIRA,I'm convinced the Valerians have dolamide on board. But the evidence is still circumstantial. I need solid proof. I want you to slip past their security systems and into their cargo bay.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40099,40099,40099,40099,149,ODO,I heard Commander Sisko was adamant about not interfering with the Valerian ship. Has he changed his mind?,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40100,40100,40100,40100,150,KIRA,Yes.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40101,40101,40101,40101,151,ODO,How odd.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40102,40102,40102,40102,152,ODO,Very well. I'll keep the two of you informed of my progress.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40103,40103,40103,40103,153,KIRA,That's not necessary. The Commander's busy -- no sense in bothering him.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40104,40104,40104,40104,154,KIRA,"I can't fool you, Odo.",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40105,40105,40105,40105,155,ODO,"You wanted me to go behind Sisko's back, didn't you?",21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40106,40106,40106,40106,156,KIRA,Forget it. It was a bad idea.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40107,40107,40107,40107,157,KIRA,What if you had to choose sides? Just remember who your friends are.,21   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40108,40108,40108,40108,158,O'BRIEN ,"Personal log, Miles O'Brien. Stardate 46923.1. We've managed to retrieve a portion of the Klingon Officer's journal. Of course, Major Kira heard about it immediately. She must have spies everywhere.",22   EXT. SPACE - DEEP SPACE NINE,SPAC,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40109,40109,40109,40109,159,KLINGON,"I believe the Captain has gone insane. He has executed two more crew members, charging them with attempted mutiny. Medical Officer Kee-Bhor came to my quarters insisting the violence is being caused by those telepathic energy spheres we brought back from Saltah'na. Believing he's the Captain's spy, I slit his throat.",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40110,40110,40110,40110,160,SISKO,I've seen enough.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40111,40111,40111,40111,161,O'BRIEN,There's more.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40112,40112,40112,40112,162,KIRA,The Klingon's mission must have failed... and that failure caused problems on board...,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40113,40113,40113,40113,163,SISKO,I couldn't care less what happened to a Klingon ship.,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40114,40114,40114,40114,164,O'BRIEN,The Klingons might want to know. Dax and I are setting up a data interpolation to fill in what's missing -- but it'll take some time...,23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40115,40115,40115,40115,165,DAX,"The search itself is often reward enough. Benjamin, do you remember that wild goose chase back on Elanu Four... ?",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40116,40116,40116,40116,166,SISKO,"Fine. Do whatever you have to do, but don't bother me with it.",23   INT. OPS - INCLUDE VIEWSCREEN (OPTICAL),OPS - INCLUDE VIEWSCREEN,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40117,40117,40117,40117,167,QUARK,"Here we are. A Modela aperitif. It's bright and sweet. Much like yourself, Lieutenant. I'll put it on your tab.",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40118,40118,40118,40118,168,KIRA ,The bad flattery is on the house.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40119,40119,40119,40119,169,QUARK,"The two loveliest creatures on DS Nine. I must be living correctly to be so... blessed. What can I do for you, Major?",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40120,40120,40120,40120,170,KIRA,Get lost.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40121,40121,40121,40121,171,QUARK,As you wish...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40122,40122,40122,40122,172,KIRA,"How are you, Lieutenant?",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40123,40123,40123,40123,173,DAX,"You know what they say -- put the shoe on the right foot first, but put the left foot first into the bathtub.",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40124,40124,40124,40124,174,KIRA,I understand.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40125,40125,40125,40125,175,KIRA,But what I really meant was... Are you happy?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40126,40126,40126,40126,176,DAX,That's not a question I get asked too often.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40127,40127,40127,40127,177,KIRA,"Oh, but it should be. In my opinion, you're the most valuable officer on this station. May I... ?",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40128,40128,40128,40128,178,DAX,Please.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40129,40129,40129,40129,179,KIRA,Not bad. For Quark.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40130,40130,40130,40130,180,DAX,It is good...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40131,40131,40131,40131,181,KIRA,I couldn't imagine running this station without you.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40132,40132,40132,40132,182,DAX,Are you trying to tell me something?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40133,40133,40133,40133,183,KIRA,My disagreement with Sisko about the Valerians is no secret. You know how he gets once he makes a decision.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40134,40134,40134,40134,184,DAX,Like talking to a stone. I remember a time on Rochani Three... We were cornered by a party of Kaleans who were not at all happy to see us. But Benjamin --,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40135,40135,40135,40135,185,KIRA,-- You told me that story this morning.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40136,40136,40136,40136,186,DAX,Oh. I suppose I did...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40137,40137,40137,40137,187,KIRA,If you were to talk to Starfleet Command... tell them how displeased the Bajorans are with Sisko's handling of this... I'm sure they'd listen to you...,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40138,40138,40138,40138,188,DAX,I was decorated on my very first assignment. The Admiral was a Vulcan... So during the presentation ceremony --,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40139,40139,40139,40139,189,KIRA,Dax. We have to keep the Valerians here. Until we can search their ship and confiscate the dolamide. You've got to convince Starfleet -- it's for the good of Bajor and the Federation.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40140,40140,40140,40140,190,DAX,"I've been friends with Benjamin Sisko for many years... In many ways, he's like a son to me. Or at least a nephew... Some kind of close relative anyway...",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40141,40141,40141,40141,191,KIRA,"Listen to me, Jadzia...",24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40142,40142,40142,40142,192,KIRA,I'm getting rid of Sisko... one way or another. Don't force me to get rid of you as well.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40143,40143,40143,40143,193,KIRA,Would you like to join us?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40144,40144,40144,40144,194,QUARK,Let me go!,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40145,40145,40145,40145,195,KIRA,What did you hear?,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40146,40146,40146,40146,196,QUARK,Nothing! Nothing at all!,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40147,40147,40147,40147,197,KIRA,Good.,24   INT. QUARK'S,QUARK'S,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40148,40148,40148,40148,198,ODO,Is this a Ferengi fashion I'm not aware of?,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40149,40149,40149,40149,199,QUARK,Kira tried to tear my head off. I want to file charges.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40150,40150,40150,40150,200,ODO,Tell me about it.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40151,40151,40151,40151,201,QUARK,I heard her plotting --,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40152,40152,40152,40152,202,ODO,Go on.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40153,40153,40153,40153,203,QUARK,She was trying to convince Dax to take her side against Sisko.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40154,40154,40154,40154,204,ODO,Did Dax seem persuaded?,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40155,40155,40155,40155,205,QUARK,What difference does that make? I was attacked!,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40156,40156,40156,40156,206,ODO,Answer the question.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40157,40157,40157,40157,207,QUARK,I couldn't tell. She was on the fence.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40158,40158,40158,40158,208,ODO,Doesn't Kira's behavior seem a little out of the ordinary? And the others... At the staff briefing Sisko was bored -- as if he couldn't be bothered about running the station. And Bashir... since when is he so concerned with station politics.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40159,40159,40159,40159,209,QUARK,Don't look at me like that. I'm perfectly normal.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40160,40160,40160,40160,210,ODO,I suppose you are. It's time I had a talk with Sisko.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40161,40161,40161,40161,211,QUARK,Odo... wait!,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40162,40162,40162,40162,212,QUARK,Odo! I want satisfaction.,28   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40163,40163,40163,40163,213,KLINGON,"We have lost the battle for decks five through twelve. The armory remains in the hands of Captain Tel- Peh, who demands my death. But I remain confident that I can gain control of this ship.",28A  INT. OPS - OPTICAL,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40164,40164,40164,40164,214,ODO,Sisko... ?,28A  INT. OPS - OPTICAL,OP,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40165,40165,40165,40165,215,KLINGON,First officer's mission journal... day twenty-three...,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40166,40166,40166,40166,216,O'BRIEN,Come in.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40167,40167,40167,40167,217,ODO,Where's Commander Sisko?,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40168,40168,40168,40168,218,O'BRIEN,In his quarters. Where he's safe.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40169,40169,40169,40169,219,KLINGON,"I am weakened by my wounds. I sense my enemies are closing in. Still, I was able to hide the thalmerite device under a crossbeam near the reactor core on deck twenty-six. Rather than be taken prisoner, I will blow up this ship and transport to safety. Perhaps medical officer Kee-Bhor was right. All our trouble began when we opened those energy spheres. All I know is that Captain Tel-Peh must die. Journal closed.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,-0.9081
+40170,40170,40170,40170,220,ODO,It sounds like there was a power struggle on board. Some kind of attempted takeover.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0516
+40171,40171,40171,40171,221,O'BRIEN,Management by mutiny. That's standard operating procedure on a Klingon vessel.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40172,40172,40172,40172,222,ODO,But awfully unusual for a Federation- run space station...,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40173,40173,40173,40173,223,O'BRIEN,"Don't worry, if Major Kira tries anything we'll be ready.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40174,40174,40174,40174,224,ODO,When will the other log entries be available?,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40175,40175,40175,40175,225,O'BRIEN,At the current rate of processing -- at least seven more hours. But the computer's taking it one entry at a time. I'll set it up so you can access as it goes.,30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40176,40176,40176,40176,226,ODO,"Thank you, Chief.",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40177,40177,40177,40177,227,O'BRIEN,"Of course, Constable. Don't the Commander and I always try to make you happy?",30   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40178,40178,40178,40178,228,ODO,What are you doing here?,31   INT. CORRIDOR,CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40179,40179,40179,40179,229,GUARD,Chief O'Brien's orders.,31   INT. CORRIDOR,CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40180,40180,40180,40180,230,SISKO,Come in.,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40181,40181,40181,40181,231,ODO,Commander...,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40182,40182,40182,40182,232,SISKO,"Hello, Constable. How are you today?",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40183,40183,40183,40183,233,ODO,"Concerned, Sir.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40184,40184,40184,40184,234,SISKO,On such a fine afternoon? How,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40185,40185,40185,40185,235,ODO,"Commander, I think something might be wrong with -- some of us. Ever since the Klingon ship exploded, and their First Officer beamed over... certain behaviors and attitudes have been... abnormal.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40186,40186,40186,40186,236,ODO,There appears to have been a mutiny on the Klingon ship. I wouldn't go so far as to say the same thing is happening on DS Nine. But I find some disturbing parallels --,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40187,40187,40187,40187,237,SISKO,"-- If something's bothering you, Odo, tell it to Mister O'Brien. That's what he's there for.",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40188,40188,40188,40188,238,SISKO,What do you think?,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40189,40189,40189,40189,239,ODO,What is it?,32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40190,40190,40190,40190,240,SISKO,"It's a clock. Fascinating, isn't it?",32   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40191,40191,40191,40191,241,KIRA,It's not nice to keep a friend waiting.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40192,40192,40192,40192,242,ODO,Did we have an appointment?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40193,40193,40193,40193,243,KIRA,"When have I ever had to stand on ceremony with you, Odo?",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40194,40194,40194,40194,244,KIRA,I need your help. I just took care of the Valerians.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40195,40195,40195,40195,245,ODO,What do you mean?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40196,40196,40196,40196,246,KIRA,"I locked down the docking clamps. That ship isn't leaving until I say it is. O'Brien will need at least a day to do anything about it. By then, it won't matter.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40197,40197,40197,40197,247,ODO,You're going after Sisko.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40198,40198,40198,40198,248,KIRA,And O'Brien. Either we get a more reasonable commander from Starfleet -- somebody we can control -- or we go it alone.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40199,40199,40199,40199,249,KIRA,"With me running this place, you'll be able to do what needs to be done. If you want to toss Quark out on his ears -- toss him out. If you want to proclaim martial law on the Promenade -- proclaim it. This station will be yours to protect -- with no interference.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40200,40200,40200,40200,250,ODO,What's your plan?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40201,40201,40201,40201,251,KIRA,"Odo, I trust you more than anyone on this station. Because you can't be corrupted. But this is a dangerous time. I can't take any chances, even with you.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40202,40202,40202,40202,252,KIRA,"When the moment comes, you'll know it. I'll be counting on you.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40203,40203,40203,40203,253,ODO,"Computer, open a channel to Starfleet Headquarters.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40204,40204,40204,40204,254,COMPUTER,Subspace communication to Federation territories is currently unavailable.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40205,40205,40205,40205,255,ODO,Why?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40206,40206,40206,40206,256,COMPUTER,By authority of Major Kira.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40207,40207,40207,40207,257,ODO,Open a channel to the Bajoran Council.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40208,40208,40208,40208,258,COMPUTER,Communication to Bajor is currently unavailable.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40209,40209,40209,40209,259,ODO,By authority of Chief O'Brien?,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40210,40210,40210,40210,260,COMPUTER,That is correct.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40211,40211,40211,40211,261,ODO,"Computer, are you finished reconstructing the journal of the Klingon First officer.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40212,40212,40212,40212,262,COMPUTER,Data interpolation is complete.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40213,40213,40213,40213,263,ODO,On screen.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40214,40214,40214,40214,264,ODO,Computer... Scan the journal for mention of contact with any alien race.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40215,40215,40215,40215,265,COMPUTER,One entry found.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40216,40216,40216,40216,266,ODO,Play it.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40217,40217,40217,40217,267,KLINGON,"First Officer's journal, day twenty- two. Our exploration of the fifth planet has turned out to be a waste of time. This world is not worthy of a Klingon colony. All we found was a collection of energy spheres which possessed some type of telepathic archive. The spheres described an ancient power struggle that destroyed a race called the Saltah'na.",35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40218,40218,40218,40218,268,KLINGON,We will forward these results to our science divisions.,35   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40219,40219,40219,40219,269,O'BRIEN,Kira has already locked down the Valerian ship. And she's diverted half the station's systems to her control.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40220,40220,40220,40220,270,SISKO,Since when?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40221,40221,40221,40221,271,O'BRIEN,An hour ago. I've heard some disturbing rumors from our people on the Promenade. I think she's going to make an attempt on your life.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40222,40222,40222,40222,272,SISKO,I want you to arrest them. Kira and every Bajoran officer on this station. I want the names of every sympathizer --,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40223,40223,40223,40223,273,O'BRIEN,"-- That's not a good idea, sir. There are a lot more of them than there are of us. If we tip our hand, it could work against us.",36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40224,40224,40224,40224,274,SISKO,What can we do?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40225,40225,40225,40225,275,O'BRIEN,Leave the station.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40226,40226,40226,40226,276,SISKO,Never. Get me a phaser. I'll get rid of Kira.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40227,40227,40227,40227,277,O'BRIEN,"Hear me out, sir... We leave the station. Raise a Federation attack force. And return. And on that day we'll get rid of all your enemies.",36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40228,40228,40228,40228,278,SISKO,How do we proceed?,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40229,40229,40229,40229,279,O'BRIEN,I need a few more hours to free up the Valerian ship. I've already talked to their Captain. He's more than happy to take us back to Federation space.,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40230,40230,40230,40230,280,SISKO,Call me as soon as you're ready...,36   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40231,40231,40231,40231,281,BASHIR,It'll take effect in two minutes. Plenty of time for --,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40232,40232,40232,40232,282,BASHIR,-- For you to get a good night's sleep.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40233,40233,40233,40233,283,ENSIGN,"Thank you, Doctor.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40234,40234,40234,40234,284,BASHIR,Chronic insomnia. I think it's hormonal. So how are you?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40235,40235,40235,40235,285,ODO,I take it you've completed your autopsy of the Klingon.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40236,40236,40236,40236,286,BASHIR,"Of course. You know, Odo, events have been moving rapidly since our last conversation. I'd advise you to choose sides or risk finding yourself without any friends at all.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40237,40237,40237,40237,287,ODO,"The Klingon, Doctor, what did you find?",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40238,40238,40238,40238,288,BASHIR,"He's still dead, if that's what you mean.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40239,40239,40239,40239,289,ODO,I don't have time for jokes.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40240,40240,40240,40240,290,ODO,Your findings could determine who controls this station.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40241,40241,40241,40241,291,BASHIR,How?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40242,40242,40242,40242,292,ODO,"All in good time... First, tell me about the Klingon...",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40243,40243,40243,40243,293,BASHIR,I found nothing very unusual. The columnar cells in his brain stem... the membrane permeability was off...,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40244,40244,40244,40244,294,ODO,What could cause that?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40245,40245,40245,40245,295,BASHIR,Any number of things.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40246,40246,40246,40246,296,ODO,Could it have something to do with telepathy? The Klingons were studying the telepathic archives of an ancient race.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40247,40247,40247,40247,297,BASHIR,"If those archives were contained within a self-sustaining energy matrix, it could explain the changes in the Klingon's brain.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.2732
+40248,40248,40248,40248,298,ODO,Could that energy matrix have somehow caused them to re-enact the power struggle that destroyed the Saltah'nans.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,-0.5267
+40249,40249,40249,40249,299,BASHIR,Possibly. What are you getting at?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40250,40250,40250,40250,300,ODO,"Doctor, I believe the Klingon brought the matrix with him... and everyone in Ops was affected except me... without a humanoid brain, my system rejected it.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40251,40251,40251,40251,301,BASHIR,"An interesting theory, Constable... but I'm certainly not behaving out of the ordinary.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40252,40252,40252,40252,302,ODO,Of course not. But what if you and I are the only two who aren't affected.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40253,40253,40253,40253,303,BASHIR,I see... and you think we can use that to our advantage.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40254,40254,40254,40254,304,ODO,Exactly.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40255,40255,40255,40255,305,BASHIR,Tell me your plan.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40256,40256,40256,40256,306,ODO,The first thing we have to do is figure out how to remove the field from everyone affected.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40257,40257,40257,40257,307,BASHIR,But then we'd lose our advantage.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40258,40258,40258,40258,308,ODO,Would you rather someone blew up the station?,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40259,40259,40259,40259,309,BASHIR,I see your point.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40260,40260,40260,40260,310,ODO,The power to control the energy matrix is the power to control this station.,41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40261,40261,40261,40261,311,BASHIR,"If I could determine the natural resonance frequencies of the field, I might be able to generate an interference signal of some kind which could force it out.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40262,40262,40262,40262,312,ODO,"Do it. I promise, Doctor, you won't regret it.",41   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40263,40263,40263,40263,313,DAX,This reminds me of a game I used to play... It had a maze... What was it called?,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40264,40264,40264,40264,314,O'BRIEN,I'm through level two. See if you can isolate the security blocks on three.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40265,40265,40265,40265,315,DAX,The Winter Garden...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40266,40266,40266,40266,316,O'BRIEN,Lieutenant.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40267,40267,40267,40267,317,DAX,Oh. I'm sorry. I must have been drifting.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40268,40268,40268,40268,318,O'BRIEN,Try drifting over here when you get the chance.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40269,40269,40269,40269,319,SISKO,"What's taking so long, O'Brien?",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40270,40270,40270,40270,320,O'BRIEN,"Almost there, Sir. We've got one more level of security lockouts to break through and the Valerian ship will be ready to go.",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40271,40271,40271,40271,321,ENSIGN,"Commander, I have the report you asked for on those weapon scanners.",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40272,40272,40272,40272,322,SISKO,Give it to Mister O'Brien.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40273,40273,40273,40273,323,ENSIGN,"I really think you should see this, sir.",43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40274,40274,40274,40274,324,DAX,Dax to Kira!,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40275,40275,40275,40275,325,SISKO,Is it Kira?!,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40276,40276,40276,40276,326,SISKO,Did Kira put you up to this?,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40277,40277,40277,40277,327,ENSIGN,No...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40278,40278,40278,40278,328,SISKO,I want the truth.,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.3818
+40279,40279,40279,40279,329,SISKO,Is that clear?,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.3818
+40280,40280,40280,40280,330,SISKO,Let's see how this works...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40281,40281,40281,40281,331,KIRA,Put it down... Sir...,43   INT. OPS (OPTICAL),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40282,40282,40282,40282,332,KIRA,Take them.,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40283,40283,40283,40283,333,KIRA,You were supposed to deactivate the transporter!,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40284,40284,40284,40284,334,DAX,I forgot...,50   INT. OPS - CONTINUOUS (OPTICAL),OPS - CONTINUOUS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40285,40285,40285,40285,335,O'BRIEN,Damn it. Kira must have set up a force field to keep us from beaming onto the Valerian ship. The Transporter rerouted us here.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40286,40286,40286,40286,336,SISKO,We've got to get to that ship.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40287,40287,40287,40287,337,O'BRIEN,Odo's our only chance. He may be able to override the field.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40288,40288,40288,40288,338,SISKO,You're sure we can trust him?,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40289,40289,40289,40289,339,O'BRIEN,I don't see where we have any choice.,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40290,40290,40290,40290,340,SISKO,Sisko to Odo...,51   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40291,40291,40291,40291,341,ODO,Odo here.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40292,40292,40292,40292,342,SISKO,"Kira has moved against us. She has Dax on her side... We need your help, Constable. You've got to clear us a path to the Valerian ship.",52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40293,40293,40293,40293,343,ODO,Take Crossover Bridge One to the Cargo Bay entrance into Docking Port Four. I'll keep it open for you.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40294,40294,40294,40294,344,SISKO,Right. Sisko out.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40295,40295,40295,40295,345,SISKO,Leave your combadge here.,52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40296,40296,40296,40296,346,SISKO,"Don't look so worried, Chief. She hasn't beaten us yet.",52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40297,40297,40297,40297,347,O'BRIEN,"Yes, Sir.",52   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40298,40298,40298,40298,348,DAX,They're still in the Airlock Six Corridor...,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40299,40299,40299,40299,349,KIRA,What could they be doing in there?,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40300,40300,40300,40300,350,DAX,Maybe they've given up.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40301,40301,40301,40301,351,KIRA,"Sisko would rather die... which is fine with me. (a beat, then Kira smiles as she figures it out) They must have taken off their combadges. That's all right. They won't get far.",54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40302,40302,40302,40302,352,DAX,Somebody's taking out our forcefields...,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40303,40303,40303,40303,353,KIRA,Whoever it is knows how to override the security codes.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40304,40304,40304,40304,354,KIRA,Kira to Odo.,54   INT. OPS (OPTICAL) (VPB),OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40305,40305,40305,40305,355,ODO,"Go ahead, Major.",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40306,40306,40306,40306,356,KIRA,"Whose side are you on, Constable?",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40307,40307,40307,40307,357,ODO,"Yours, of course.",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40308,40308,40308,40308,358,KIRA,Really? Then why are you helping Sisko escape?,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40309,40309,40309,40309,359,ODO,On the contrary. You'll find him trapped in Cargo Bay Four. Consider it my gift to you.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40310,40310,40310,40310,360,KIRA,My apologies. We'll see you there. Kira out.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40311,40311,40311,40311,361,BASHIR,Well done... you certainly fooled her.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40312,40312,40312,40312,362,ODO,"Doctor, we're running out of time.",55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40313,40313,40313,40313,363,BASHIR,(attention focused on his console) I'm just about done. I've set up an ionic interference signal in Cargo Bay Four. It's calibrated to lock onto the resonance frequencies of the telepathic field and drive it out of those affected.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40314,40314,40314,40314,364,ODO,What will happen to it then?,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40315,40315,40315,40315,365,BASHIR,It'll remain suspended as long as the interference is in effect.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40316,40316,40316,40316,366,ODO,That's all I need to know. Let's go.,55   INT. INFIRMARY,INFIRMARY,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40317,40317,40317,40317,367,SISKO,What's wrong?,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40318,40318,40318,40318,368,O'BRIEN,It won't open.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40319,40319,40319,40319,369,O'BRIEN,It's completely locked down. Someone's activated a level five security protocol.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40320,40320,40320,40320,370,O'BRIEN,There's only one person on this station besides yourself who has that kind of access.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40321,40321,40321,40321,371,SISKO,Odo!,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40322,40322,40322,40322,372,KIRA ,"Relax, Commander...",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40323,40323,40323,40323,373,KIRA,... he'll be here any minute.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40324,40324,40324,40324,374,SISKO,So... this is where it all ends.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40325,40325,40325,40325,375,KIRA,For you.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40326,40326,40326,40326,376,SISKO,"You know what disturbs me? The ingratitude. I offered you my help... my kindness... my leadership... and how do you repay me? With betrayal... But you won't get rid of me so easily. You see, unlike you, I understand history. Time will be my greatest ally. My name will blaze like a comet across the stars long after your petty treacheries are forgotten.",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40327,40327,40327,40327,377,KIRA,But you won't be here to see it.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40328,40328,40328,40328,378,ODO ,"Major, wait...",56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40329,40329,40329,40329,379,KIRA,I'm glad you two could make it.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40330,40330,40330,40330,380,ODO,Computer! Execute Odo One!,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40331,40331,40331,40331,381,SISKO,Constable... ?,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40332,40332,40332,40332,382,ODO,Everyone grab hold of something.,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40333,40333,40333,40333,383,ODO,Welcome back...,56   INT. CARGO BAY FOUR,CARGO BAY FOUR,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40334,40334,40334,40334,384,SISKO ,"Commander's log; Stardate 46924.5. With nothing to contain it, the telepathic matrix has dispersed in space.",65   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40335,40335,40335,40335,385,SISKO ,Meanwhile I'm happy to report everything and everyone aboard DS Nine has returned to normal.,66   INT. OPS,OPS,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40336,40336,40336,40336,386,SISKO,Come in.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40337,40337,40337,40337,387,KIRA,Did you really build that thing?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40338,40338,40338,40338,388,SISKO,Apparently so.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40339,40339,40339,40339,389,KIRA,Why?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40340,40340,40340,40340,390,SISKO,I have no idea.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40341,40341,40341,40341,391,SISKO,Major?,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40342,40342,40342,40342,392,KIRA,I know that none of us were really responsible for our actions... but I still feel like I owe you an apology.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40343,40343,40343,40343,393,SISKO,For attempted mutiny.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40344,40344,40344,40344,394,KIRA,Well... yes.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40345,40345,40345,40345,395,SISKO,I think we'll let it go... this time.,66A  INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Dramatis Personae,1993-02-24,Deep Space Nine,418.txt,0.0
+40346,40346,40346,40346,0,KIRA,"You wanted to see me, Commander?",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40347,40347,40347,40347,1,SISKO,"Actually, what I'd like to see is next month's duty roster...",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40348,40348,40348,40348,2,KIRA,(holds hands up; in control) You'll have it on your desk first thing in the morning...,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40349,40349,40349,40349,3,SISKO,That's what you said yesterday.,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40350,40350,40350,40350,4,KIRA,"I know, but I spent all day yesterday...",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40351,40351,40351,40351,5,SISKO,... talking to Minister Rozahn about irrigating the Trilar Peninsula.,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40352,40352,40352,40352,6,KIRA,How did you know?,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40353,40353,40353,40353,7,SISKO,"Major, it's hard to keep a secret in Ops... especially when you've been shouting at a monitor for the last two days...",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40354,40354,40354,40354,8,KIRA,I thought I was keeping it to an angry whisper...,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40355,40355,40355,40355,9,SISKO,Let's just say your voice carries.,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40356,40356,40356,40356,10,KIRA,"Everytime I talk to one of the ministers I promise myself I won't lose control. But then they give me some stupid bureaucratic excuse why something isn't getting done, and I get so... so...",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40357,40357,40357,40357,11,SISKO,(completing her sentence) Frustrated.,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40358,40358,40358,40358,12,KIRA,"Commander, I'm way beyond frustrated... Bajor's in trouble... I just want to help.",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40359,40359,40359,40359,13,SISKO,"I can understand that, and I sympathize. As far as I'm concerned you can yell at the provisional government all you want... as long as it doesn't interfere with your duties here on the station.",1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40360,40360,40360,40360,14,KIRA,You're right. I'll get on that report right away.,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40361,40361,40361,40361,15,SISKO,I'll look forward to reading it.,1    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40362,40362,40362,40362,16,O'BRIEN,Quark's been looking for you... he says it's urgent...,1A   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40363,40363,40363,40363,17,KIRA,Perfect.,1A   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40364,40364,40364,40364,18,KIRA,I hear you've been trying to get in touch with me...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40365,40365,40365,40365,19,QUARK,You hear right. Look around you... does anything seem to be amiss?,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40366,40366,40366,40366,20,KIRA,(takes in the crowd and Varani) That sonata Varani is playing is lovely... your customers seem to be enjoying him...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40367,40367,40367,40367,21,QUARK,"Why be modest, Major? They're not just enjoying him -- they're mesmerized by him!",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40368,40368,40368,40368,22,KIRA,So?,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40369,40369,40369,40369,23,QUARK,"So! While they're being mesmerized, they're not gambling, they're not eating, they're barely drinking. Profits are down across the board!",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40370,40370,40370,40370,24,KIRA,He just started yesterday...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40371,40371,40371,40371,25,QUARK,I monitor my gross income hourly. My hourly figures become my indicators. My indicators become my projections. And my projections based on the last twenty-six hours show an unprecedented decline in profits.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40372,40372,40372,40372,26,KIRA,"Stop overreacting. When people hear about how wonderful Varani is, they'll come beating down your door...",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40373,40373,40373,40373,27,QUARK,And what are you basing that projection on? Bajoran intuition? That and a strip of latinum will get you a couple of spins at the dabo wheel.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40374,40374,40374,40374,28,KIRA,You promised me you'd try him out for a month...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40375,40375,40375,40375,29,QUARK,"If my projections hold true, in a month I'll be out of business!",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40376,40376,40376,40376,30,KIRA,"Quark, you're going to do this...",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40377,40377,40377,40377,31,QUARK,Why should I?,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40378,40378,40378,40378,32,KIRA,Because I asked you to.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40379,40379,40379,40379,33,QUARK,Maybe he could play something with a little more... bounce to it...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40380,40380,40380,40380,34,KIRA,Bounce...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40381,40381,40381,40381,35,QUARK,Just for a change of pace...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40382,40382,40382,40382,36,KIRA,That was beautiful...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40383,40383,40383,40383,37,VARANI,Having my work appreciated again... I almost forgot how it felt.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40384,40384,40384,40384,38,KIRA,"Granted, it's not quite the exhibition halls you're used to...",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40385,40385,40385,40385,39,VARANI,One can't be choosy about performance venues these days.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40386,40386,40386,40386,40,KIRA,I just spoke to Quark. He likes what you're doing... but he's hoping you'll play a variety of styles...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40387,40387,40387,40387,41,VARANI,A little less exhibition hall and a little more music hall... is that it?,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40388,40388,40388,40388,42,KIRA,Something like that.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40389,40389,40389,40389,43,VARANI,I think I can accommodate him.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40390,40390,40390,40390,44,KIRA,I'd love to hear you play in a more appropriate setting...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40391,40391,40391,40391,45,VARANI,Mahve you spoken to Minister Bolka about my idea to rebuild the Jalanda Forum?,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40392,40392,40392,40392,46,KIRA,I mentioned it to him... (admitting to Bolka's resistance) He's got a lot of things on his mind...,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40393,40393,40393,40393,47,VARANI,You must keep trying. Bajorans must reclaim their artistic heritage if they ever hope to regain their sense of self-worth.,2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40394,40394,40394,40394,48,KIRA,"Next time I talk to the Minister, I'll bring it up again... but I can't promise anything.",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40395,40395,40395,40395,49,VARANI,"I have faith in you, Kira. By fighting for this, you're not just a champion of the arts. You're my champion.",2    INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40396,40396,40396,40396,50,SISKO,Did you get everything settled with Quark?,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40397,40397,40397,40397,51,KIRA,That little toad is this far from doing a three-sixty out an airlock...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40398,40398,40398,40398,52,SISKO,I'm glad to hear everything went okay...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40399,40399,40399,40399,53,O'BRIEN,"Commander, sensors are picking up elevated neutrino readings. A ship's coming through the wormhole...",4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40400,40400,40400,40400,54,SISKO,On screen.,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40401,40401,40401,40401,55,KIRA,Sensors are detecting four lifeforms on board...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40402,40402,40402,40402,56,O'BRIEN,I'm reading a plasma leak in their engine core...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40403,40403,40403,40403,57,SISKO,Hail them.,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40404,40404,40404,40404,58,KIRA,(hitting a panel; beat) They're not responding...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40405,40405,40405,40405,59,O'BRIEN,Their reactors are overheating. Life support is barely functioning...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40406,40406,40406,40406,60,SISKO,"Get them out of there, Chief.",4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40407,40407,40407,40407,61,O'BRIEN,"Aye, sir.",4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40408,40408,40408,40408,62,SISKO,I'm Commander Sisko of the United Federation of Planets. You've just been beamed onto a Bajoran space station. We don't mean you any harm...,4    INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40409,40409,40409,40409,63,SISKO,"We're going to bring your ship in. Once it's docked, we'll be able to diagnose its problems and hopefully fix them. After that, you can be on your way.",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40410,40410,40410,40410,64,SISKO,"(to Tumak, points to Tumak's hand) I can offer you medical assistance for that wound...",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40411,40411,40411,40411,65,TUMAK,Oo-mata! Oo-mata! Dongo patar meeoto fenta. Fenta!,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40412,40412,40412,40412,66,HANEEK,Naga dentana... oobay a-tal. Oobay a-tal! Keetama sootay. Shalanta Skrreea.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40413,40413,40413,40413,67,KIRA,Does anyone understand what she's saying...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40414,40414,40414,40414,68,SISKO,There must be something wrong with the Universal Translator. Chief?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40415,40415,40415,40415,69,O'BRIEN,"It's working, Commander... but for some reason it's having a hard analyzing their language patterns... their syntax and grammatical structure must be completely unlike anything we have in our database...",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40416,40416,40416,40416,70,SISKO,We'll have to keep them talking until the computer can establish a translation matrix.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40417,40417,40417,40417,71,HANEEK,Ketoh maseeca. Skrreea. Tolak mayfessaka. Koo masek. Gadoux besoolin fenta. Fenta?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40418,40418,40418,40418,72,KIRA,Keeping them talking doesn't seem to be a problem...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40419,40419,40419,40419,73,HANEEK,Oobay-a-tal? Fidask setoma meeka?,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40420,40420,40420,40420,74,SISKO,"Major, we need to get these people to the Infirmary. They seem to be most comfortable with you. Why don't you lead the way?",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40421,40421,40421,40421,75,KIRA,All right... we're going to go for a little ride in the turbolift...,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40422,40422,40422,40422,76,HANEEK,Toma. Bessa!,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40423,40423,40423,40423,77,SISKO,Sisko to Odo.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40424,40424,40424,40424,78,ODO,"Yes, Commander.",11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40425,40425,40425,40425,79,SISKO,We're bringing some new arrivals from the Gamma Quadrant down to the Promenade. Meet us at Turbolift Nine.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40426,40426,40426,40426,80,ODO,I'm on my way.,11   INT. OPS - CONTINUOUS - THE FACE-OFF,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40427,40427,40427,40427,81,KIRA,We're here... you can come out now... (a friendly beckoning wave) There's no need to be afraid...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40428,40428,40428,40428,82,ODO,"What seems to be the trouble, Commander?",12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40429,40429,40429,40429,83,SISKO,The computer's having a hard time translating their language...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40430,40430,40430,40430,84,ODO,I can see where that would be a problem...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40431,40431,40431,40431,85,ODO,Hold on now. Let's stay together.,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40432,40432,40432,40432,86,ODO,No wandering off --,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40433,40433,40433,40433,87,ODO,Just stay put while I round up the others...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40434,40434,40434,40434,88,KIRA,Let me try...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40435,40435,40435,40435,89,KIRA,Come with me...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40436,40436,40436,40436,90,HANEEK,(pointing at the dress; to Tumak) Intaowa. Intaowa.,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40437,40437,40437,40437,91,SISKO,Dress. It's called a dress...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40438,40438,40438,40438,92,HANEEK,Intaowa.,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40439,40439,40439,40439,93,KIRA,Intaowa?,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40440,40440,40440,40440,94,ODO,I'm afraid you'll have to put that back...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40441,40441,40441,40441,95,TUMAK,Vala. Vala!,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40442,40442,40442,40442,96,HANEEK,Intaowa!,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40443,40443,40443,40443,97,KIRA,Do you like it... ?,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40444,40444,40444,40444,98,ODO,"Yes, it's very nice. But it's not yours...",12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40445,40445,40445,40445,99,ODO,"That goes for you, too.",12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40446,40446,40446,40446,100,SISKO,Major... perhaps you'd better handle this...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40447,40447,40447,40447,101,KIRA,"All right, let's put those back... both of you...",12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40448,40448,40448,40448,102,KIRA,They really need to put those back... (a smile that takes in the dress and the display case) We can go shopping later. But right now it's important we go to the Infirmary... so all of you... follow me... We'll all go together...,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40449,40449,40449,40449,103,HANEEK,Fazeek. Cromay fazeek!,12   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40450,40450,40450,40450,104,GAI,Kootana...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40451,40451,40451,40451,105,COWL,Kootana batoo lakar asheem... !,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40452,40452,40452,40452,106,GAI,(escalating; taking offense) Dokka?! Pestani voe lakar asheem!,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40453,40453,40453,40453,107,HANEEK,(sharply; to Gai and Cowl) Kolat! Kolat kee!,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40454,40454,40454,40454,108,ODO,There's no doubt who the boss is...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40455,40455,40455,40455,109,SISKO,"How bad is it, Doctor?",16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40456,40456,40456,40456,110,BASHIR,Looks like a second degree plasma burn. The dermal regenerator should take care of it...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40457,40457,40457,40457,111,KIRA,I'm sorry... I'm not the doctor...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40458,40458,40458,40458,112,HANEEK,Kolat? Kolat Gadoux?,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40459,40459,40459,40459,113,BASHIR,"I assure, I won't hurt him...",16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40460,40460,40460,40460,114,KIRA,He'll be all right...,16   INT. INFIRMARY - ANGLE ON ALIENS,INFIRMAR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40461,40461,40461,40461,115,KIRA,"This will be your quarters while you're here on the station. I'm sure you'd like to rest and clean up and... (catches herself as she sees their blank looks) ... you still don't understand a word I'm saying, do you...",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40462,40462,40462,40462,116,SISKO,I know something they might understand...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40463,40463,40463,40463,117,SISKO,Seven maaza stalks...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40464,40464,40464,40464,118,SISKO,This is food. Here -- try one --,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40465,40465,40465,40465,119,SISKO,"Major, show them it's okay...",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40466,40466,40466,40466,120,KIRA,You see? It's really very good...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40467,40467,40467,40467,121,KIRA,I'm glad you like them.,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40468,40468,40468,40468,122,HANEEK,Noloux bataak rama setta... rama emal jeetaka... zeela koo... Gadoux soka gee...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40469,40469,40469,40469,123,KIRA,I'm sorry... I don't understand...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40470,40470,40470,40470,124,HANEEK,Bataak rama setta... rama setta... zeela koo... hemena kee... soulak... need ikstassa...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40471,40471,40471,40471,125,ODO,"Wait... did you hear that? I think she just said, ""need.""",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40472,40472,40472,40472,126,SISKO,"(to Haneek, gentle enthusiasm) Go on... keep talking...",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40473,40473,40473,40473,127,HANEEK,Ganoux? Noloux bataak rama setta... my people yeekopa Skrreea... havou fotar save them...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40474,40474,40474,40474,128,KIRA,Save them! How? Can you understand what I'm saying?,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40475,40475,40475,40475,129,KIRA,Keep talking... !,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40476,40476,40476,40476,130,HANEEK,Noloux Skrreea... soka roo need your help... there's no time soulak... we are the Skrreea... my people need your help... there's no time to waste...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40477,40477,40477,40477,131,KIRA,You're people are the Skrreea. You need our help. There's no time to waste.,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40478,40478,40478,40478,132,SISKO,Your people... where are they?,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40479,40479,40479,40479,133,HANEEK,They're on the creshnee side of the Eye...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40480,40480,40480,40480,134,KIRA,"The ""Eye?""",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40481,40481,40481,40481,135,HANEEK,The Eye of the Universe... The tunnel...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40482,40482,40482,40482,136,ODO,I think she means the wormhole.,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40483,40483,40483,40483,137,HANEEK,They're on the other side... they don't realize that we've found the Eye...,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40484,40484,40484,40484,138,SISKO,How many people are we talking about?,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40485,40485,40485,40485,139,HANEEK,"(to Kira, a little war again) Many... three jeetaka.",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40486,40486,40486,40486,140,KIRA,Three hundred? Three thousand?,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40487,40487,40487,40487,141,ODO,Three million?,17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40488,40488,40488,40488,142,HANEEK,"(eyes Odo, then to Kira) Yes... three million... three million of my people are on the other side... we must bring them through the Eye... we must bring them here.",17   INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40489,40489,40489,40489,143,KIRA,Is there anything wrong?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40490,40490,40490,40490,144,HANEEK,I'm just not used to the men being here... Skrreean men don't involve themselves in situations like this...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.3612
+40491,40491,40491,40491,145,DAX,Are all your leaders women?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40492,40492,40492,40492,146,HANEEK,Yes.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.4019
+40493,40493,40493,40493,147,BASHIR,All of them... ?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40494,40494,40494,40494,148,DAX,"You heard her, Julian.",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40495,40495,40495,40495,149,HANEEK,Men are much too emotional to be leaders. They're always fighting among themselves... it's their favorite thing to do. I'm sorry. I hope I haven't offended anyone...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40496,40496,40496,40496,150,SISKO,Sorry to keep you waiting.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40497,40497,40497,40497,151,DAX,"That's all right, Benjamin. Haneek was just telling us how the Skrreea are a female dominant society...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40498,40498,40498,40498,152,O'BRIEN,It seems the men are a bit too emotional to become leaders...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40499,40499,40499,40499,153,HANEEK,Please don't misunderstand... we love our men... (glancing around at the males) Really!,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40500,40500,40500,40500,154,SISKO,"Are you one of the leaders of your people, Haneek?",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40501,40501,40501,40501,155,HANEEK,Me? Oh no... I'm little more than a farmer... I was just lucky...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40502,40502,40502,40502,156,BASHIR,How so?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40503,40503,40503,40503,157,HANEEK,I was the first one to find the Eye of the Universe...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40504,40504,40504,40504,158,HANEEK,We had heard about a great tunnel being discovered... we knew it must be the Eye of the Universe that would lead us to Kentanna...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.6249
+40505,40505,40505,40505,159,O'BRIEN,Kentanna?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40506,40506,40506,40506,160,HANEEK,"Kentanna is the legendary home of the Skrreeans... it has always been portrayed in our sacred texts as being just beyond the Eye of the Universe... a ""planet of sorrow where the Skrreea will sew seeds of joy.""",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40507,40507,40507,40507,161,SISKO,"I can't guarantee you'll find Kentanna, but I can promise you we'll help you find a home. I've sent our runabouts to the Gamma Quadrant to make contact with your ships.",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40508,40508,40508,40508,162,HANEEK,"That will be difficult... they're spread out, looking for the Eye...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40509,40509,40509,40509,163,ODO,"When we do find them, what then? This station only holds seven thousand people... and you're talking about three million Skrreeans...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40510,40510,40510,40510,164,KIRA,I'm afraid most of your people will have to stay confined to their ships...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40511,40511,40511,40511,165,HANEEK,I understand.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40512,40512,40512,40512,166,SISKO,"In the meantime, is there any one person we should be looking for? A leader... or leaders... ?",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40513,40513,40513,40513,167,HANEEK,Most of our leaders were killed by the T-Rogorans.,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40514,40514,40514,40514,168,BASHIR,The T-Rogorans? Who are they?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40515,40515,40515,40515,169,HANEEK,For eight centuries my people have lived under their rule... we were forced to work as laborers and servants... we were able to escape when the T-Rogorans were invaded and conquered...,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40516,40516,40516,40516,170,ODO,Who conquered them?,21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40517,40517,40517,40517,171,HANEEK,"I don't know their name. All I know is they were members of something called ""The Dominion""...",21   INT. OPS - ANGLE ON HANEEK,OP,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40518,40518,40518,40518,172,KIRA,Did I wake you?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40519,40519,40519,40519,173,HANEEK,"It's all right. Please, come in...",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40520,40520,40520,40520,174,HANEEK,"Computer, lights on full.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40521,40521,40521,40521,175,KIRA,I can come back later...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40522,40522,40522,40522,176,HANEEK,"No. You've been so kind to me, how could I possibly refuse your company?",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40523,40523,40523,40523,177,HANEEK,go back to bed. Go on! I'll join you again after I'm through...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40524,40524,40524,40524,178,KIRA,Are those your... husbands?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40525,40525,40525,40525,179,HANEEK,Hus-bands? I'm not familiar with that word. They're bonded to me.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40526,40526,40526,40526,180,KIRA,Do you... sleep with them... both?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40527,40527,40527,40527,181,HANEEK,Of course. Don't you sleep with your males?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40528,40528,40528,40528,182,KIRA,"No, I don't have any males... not at the moment, anyway...",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40529,40529,40529,40529,183,HANEEK,They're very useful...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40530,40530,40530,40530,184,KIRA,"Yes, I imagine they are... (remembering why she's there) I just wanted to tell you, we found some of your ships. Several hundred Skrreeans should be arriving on the station today... we thought it would be a good idea if you were there to meet them.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40531,40531,40531,40531,185,HANEEK,Why me?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40532,40532,40532,40532,186,KIRA,You yourself said most of your leaders were dead...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40533,40533,40533,40533,187,HANEEK,"Yes, that's true... but I'm just a farmer...",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40534,40534,40534,40534,188,KIRA,"You were also the first one through the Eye of the Universe... that must mean something, in a symbolic sort of way...",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40535,40535,40535,40535,189,KIRA,Oh... here. (hands package to Haneek) I brought you a little something.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40536,40536,40536,40536,190,KIRA,Go ahead. Open it.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40537,40537,40537,40537,191,KIRA,You seemed to like it...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40538,40538,40538,40538,192,HANEEK,I'm sorry... but I think you misunderstood...,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40539,40539,40539,40539,193,KIRA,What do you mean?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40540,40540,40540,40540,194,HANEEK,I thought this was the most hideous thing I'd ever seen.,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40541,40541,40541,40541,195,KIRA,"Well, that makes two of us.",23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40542,40542,40542,40542,196,HANEEK,It's awful!,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40543,40543,40543,40543,197,KIRA,Horrible! Who would wear it?,23   INT. GUEST QUARTERS,GUEST QUARTERS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40544,40544,40544,40544,198,JAKE,Look -- it was no big deal --,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40545,40545,40545,40545,199,NOG,You go out with a dabo girl for the first time and you stand there and tell me it was no big deal?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40546,40546,40546,40546,200,JAKE,"It's wasn't really a ""date"" --",24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40547,40547,40547,40547,201,NOG,Does your father know you went out with her?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40548,40548,40548,40548,202,JAKE,Not exactly...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40549,40549,40549,40549,203,NOG,He doesn't?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40550,40550,40550,40550,204,JAKE,I told him I had to go help someone with their homework...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40551,40551,40551,40551,205,NOG,Good thinking. Too bad I won't ever be able to use that lie. My dad knows I never do homework...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40552,40552,40552,40552,206,JAKE,"It's not a lie, Nog. Mardah's studying entomology. She asked me to help her out...",24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40553,40553,40553,40553,207,NOG,A dabo girl who studies entomology... ...sure.,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40554,40554,40554,40554,208,JAKE,It's true!,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40555,40555,40555,40555,209,NOG,What is entomology?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40556,40556,40556,40556,210,JAKE,The study of bugs.,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40557,40557,40557,40557,211,NOG,You mean she wants to be a chef?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40558,40558,40558,40558,212,JAKE,Hey -- who's that?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40559,40559,40559,40559,213,NOG,I don't know. What's he doing?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40560,40560,40560,40560,214,NOG,That's disgusting --,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40561,40561,40561,40561,215,JAKE,He must be one of the Skrreeans. My dad says there's a lot more of them on the way...,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40562,40562,40562,40562,216,JAKE,Hi!,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40563,40563,40563,40563,217,NOG,Doesn't he know what a replicator's for? Idiot... So -- does Mardah have any sisters?,24   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40564,40564,40564,40564,218,O'BRIEN,I've cleared the Skrreean ship to dock at upper pylon two.,28   INT. OPS (OPTICAL),OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40565,40565,40565,40565,219,SISKO,"Time to welcome your people to the Alpha Quadrant, Haneek...",28   INT. OPS (OPTICAL),OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40566,40566,40566,40566,220,HANEEK,Come on... don't be afraid... we're among friends...,29   INT. DOCKING RING CORRIDOR - OUTSIDE AIRLOCK,DOCKING RING CORRIDO,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40567,40567,40567,40567,221,ODO,Slow down!,30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40568,40568,40568,40568,222,ODO,There's no running on the Promenade!,30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40569,40569,40569,40569,223,ODO,"It's going to get awfully crowded around here, Commander...",30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40570,40570,40570,40570,224,SISKO,"I know, Constable, but it's worth it. Just look at them... they're experiencing their first taste of freedom...",30   INT. PROMENADE - SEVERAL SHOTS,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40571,40571,40571,40571,225,JAKE,Nog! Where are you going?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40572,40572,40572,40572,226,NOG,Can't talk now! Gotta run!,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40573,40573,40573,40573,227,ODO,"Nog, you know there's no running on the Promenade...",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40574,40574,40574,40574,228,NOG,Who's running?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40575,40575,40575,40575,229,ODO,What seems to be the problem?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40576,40576,40576,40576,230,JAKE,(sniffing something sour) What's that smell... ?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40577,40577,40577,40577,231,TUMAK,"(incensed, points at Nog) Ask him!",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40578,40578,40578,40578,232,NOG,Me?! You're the one who stinks!,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40579,40579,40579,40579,233,TUMAK,That's because you sprayed that vapor on us... !,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40580,40580,40580,40580,234,ODO,"Is that true, Nog?",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40581,40581,40581,40581,235,NOG,No!,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40582,40582,40582,40582,236,ODO,Nog... ?,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40583,40583,40583,40583,237,NOG,It was a joke... !,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40584,40584,40584,40584,238,ODO,Very amusing. (addressing the Skrreeans) Thank you for bringing this to my attention. I'll take care of it from here.,32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40585,40585,40585,40585,239,TUMAK,"This isn't over yet, Big Ears!",32   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40586,40586,40586,40586,240,NOG,"Hey... here's a new one! What kind of name is ""Plix Tixiplik?""",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40587,40587,40587,40587,241,ODO,I believe he's a Reegrunion.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40588,40588,40588,40588,242,NOG,"""Wanted in seven star systems for illegal weapon sales."" Weapon sales, huh? Very profitable.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40589,40589,40589,40589,243,ODO,How would you know?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40590,40590,40590,40590,244,NOG,My Uncle Quark told me.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40591,40591,40591,40591,245,ODO,What does your Uncle Quark know about illegal weapon sales?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40592,40592,40592,40592,246,NOG,"He, uh... he, uh...",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40593,40593,40593,40593,247,QUARK ,(finishing Nog's statement) ... knows better than to ever get involved in anything so disreputable...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40594,40594,40594,40594,248,ODO,(to Quark; dryly cynical) I'm sure. I asked the boy's father come see me...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40595,40595,40595,40595,249,QUARK,Rom is doing the weekly stock inventory. I don't want to interrupt him. You know how easy he loses count... so I came in his place. Nog... have you been causing mischief again?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40596,40596,40596,40596,250,NOG,"No, Uncle. It's all a misunderstanding.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40597,40597,40597,40597,251,ODO,He sprayed some Skrreean boys with a foul-smelling vapor.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40598,40598,40598,40598,252,QUARK,Did he... (catching himself; to Nog; mock sternly) What do you have to say for yourself?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40599,40599,40599,40599,253,NOG,I'm sorry... ?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40600,40600,40600,40600,254,QUARK,You see? The boy's beside himself with guilt.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40601,40601,40601,40601,255,ODO,That still doesn't excuse his actions.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40602,40602,40602,40602,256,QUARK,And he will be punished. Severely.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40603,40603,40603,40603,257,NOG,I will?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40604,40604,40604,40604,258,QUARK,I want you to tell the Constable here that you'll never do it again.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40605,40605,40605,40605,259,NOG,"I won't? I mean, I won't. I promise. Never again.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40606,40606,40606,40606,260,ODO,,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40607,40607,40607,40607,261,NOG,Can I leave now?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40608,40608,40608,40608,262,ODO,Go on.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40609,40609,40609,40609,263,QUARK,"You know, you really can't blame the boy...",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40610,40610,40610,40610,264,ODO,And why's that?,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40611,40611,40611,40611,265,QUARK,"Come on, Odo... you know these Skrreeans are nothing but trouble. They're all over the station, looking and touching but never spending any money. And they flake.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40612,40612,40612,40612,266,ODO,I didn't notice.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40613,40613,40613,40613,267,QUARK,Come to my place... you'll see little pieces of Skrreean skin all over the bar and the floor... it's disgusting.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40614,40614,40614,40614,268,ODO,They won't be here long.,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40615,40615,40615,40615,269,QUARK,I hope not. They're driving my paying customers away. They stay here too long and I'll be out of business...,33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40616,40616,40616,40616,270,ODO,"In that case, I hope they never leave.",33A  INT. SECURITY OFFICE - ANGLE ON NOG,SECURITY OFFIC,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40617,40617,40617,40617,271,VAYNA,We've talked it over among ourselves... our feelings were unanimous... you discovered the Eye of the Universe... you must lead us the rest of the way...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40618,40618,40618,40618,272,HANEEK,I'll do the best I can...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40619,40619,40619,40619,273,KIRA,That looked pretty serious. Is everything all right?,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40620,40620,40620,40620,274,HANEEK,Look at them... look at my people...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40621,40621,40621,40621,275,HANEEK ,I've never seen them so happy...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40622,40622,40622,40622,276,HANEEK,"... and here I sit, feeling trapped.",34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40623,40623,40623,40623,277,KIRA,Why?,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40624,40624,40624,40624,278,HANEEK,They expect me to lead them to Kentanna.,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40625,40625,40625,40625,279,KIRA,It's going to be okay. Commander Sisko's doing all he can to find you a place to live...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40626,40626,40626,40626,280,KIRA,You're not alone.,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40627,40627,40627,40627,281,VARANI,I hope I'm not intruding...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40628,40628,40628,40628,282,KIRA,"Not at all... Haneek, this is Varani... a great musician... maybe the greatest Bajor has ever known...",34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40629,40629,40629,40629,283,VARANI,"She exaggerates... ... but that's why I'm so fond of her... Being a Bajoran, I know what it's like to be... displaced. As a token of friendship, I'd like to give you... this...",34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40630,40630,40630,40630,284,VARANI,It's from a concert I gave many years ago... at the Jalanda Forum...,34   INT. QUARK'S,QUARK'S,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40631,40631,40631,40631,285,HANEEK,Tumak -- where've you been?,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40632,40632,40632,40632,286,TUMAK,Nowhere...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40633,40633,40633,40633,287,HANEEK,Where are you going?,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40634,40634,40634,40634,288,TUMAK,To wash...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40635,40635,40635,40635,289,HANEEK,Computer -- please show me a chart of this star system...,38   INT. GUEST QUARTERS - CLOSE ON,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40636,40636,40636,40636,290,JAKE,So what did your Dad say?,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40637,40637,40637,40637,291,NOG,About what?,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40638,40638,40638,40638,292,JAKE,About your getting in trouble with Odo.,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40639,40639,40639,40639,293,NOG,He was very angry.,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40640,40640,40640,40640,294,JAKE,He was?,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40641,40641,40641,40641,295,NOG,He always gets angry when I get caught.,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40642,40642,40642,40642,296,NOG,I just remembered... I've got errands to run for my uncle...,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40643,40643,40643,40643,297,JAKE,You're going to have to face them sooner or later...,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40644,40644,40644,40644,298,NOG,"You see, Jake? Now there's a man with a sense of humor...",39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40645,40645,40645,40645,299,TUMAK,Nobody's laughing.,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40646,40646,40646,40646,300,JAKE,And luckily nobody got hurt. I think my friend's sorry for what he did...,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40647,40647,40647,40647,301,JAKE,"Aren't you, Nog...",39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40648,40648,40648,40648,302,NOG,I suppose...,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40649,40649,40649,40649,303,JAKE,See? What did I tell you?,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40650,40650,40650,40650,304,TUMAK,He doesn't sound sorry to me...,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40651,40651,40651,40651,305,NOG,I'm sorry! I'm sorry! I'm sorry!,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40652,40652,40652,40652,306,QUARK,"All right, that's enough... break it up... I said, break it up!",39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40653,40653,40653,40653,307,QUARK,"It's bad enough all of you are hanging around the station without buying anything... you have to start fighting, too?",39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40654,40654,40654,40654,308,TUMAK,I thought we were welcome here...,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40655,40655,40655,40655,309,QUARK,Well make yourselves welcome somewhere else.,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40656,40656,40656,40656,310,TUMAK,You don't want us here. You don't want anything to do with us. Well we don't want anything to do with you. Any of you!,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40657,40657,40657,40657,311,QUARK,I can see the Skrreean don't bother to teach their children manners...,39   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40658,40658,40658,40658,312,SISKO ,Dax and I have been combing through data on every uninhabited M-Class planet in the sector...,43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40659,40659,40659,40659,313,SISKO,We think Draylon Two would make a perfect home for the Skrreea.,43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40660,40660,40660,40660,314,KIRA,"(reading planet's name) ""Draylon Two""... never heard of it...",43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40661,40661,40661,40661,315,DAX,It's near Sefalla Prime... it's got definite possibilities... stable orbit... a temperate climate... very low surface radiation...,43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40662,40662,40662,40662,316,SISKO,Add to that good soil and a long growing season... I think it's our best bet.,43   INT. OPS - ON DAX'S MONITOR (OPTICAL),OPS - ON DAX'S MONITOR,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40663,40663,40663,40663,317,SISKO,May we come in?,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40664,40664,40664,40664,318,HANEEK,Of course...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40665,40665,40665,40665,319,SISKO,Ladies...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40666,40666,40666,40666,320,HANEEK,"Forgive them, Commander Sisko... they don't mean to be disrespectful...",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40667,40667,40667,40667,321,SISKO,I understand. We have some encouraging news...,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40668,40668,40668,40668,322,KIRA,We think we've found a planet for you and your people... one with excellent potential for resettlement.,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40669,40669,40669,40669,323,HANEEK,"We appreciate all your hard work... but I'm afraid it was unnecessary... you see, we've found Kentanna.",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40670,40670,40670,40670,324,KIRA,You have?,44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40671,40671,40671,40671,325,HANEEK,"A ""planet of sorrow,"" Kira... don't you see? Kentanna is your planet... Kentanna is Bajor.",44   INT. CORRIDOR OUTSIDE GUEST QUARTERS - ON DOOR,CORRIDOR OUTSIDE GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40672,40672,40672,40672,326,SISKO ,"Station log, Stardate 47391.2. Chief O'Brien is continuing to oversee repairs to the Skrreean ships docked at the station...",46   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40673,40673,40673,40673,327,SISKO ,"Meanwhile, Minister Rozahn and Vedek Sorad have arrived from Bajor with an official response to the Skrreeans' request to immigrate...",47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40674,40674,40674,40674,328,VARANI,"Major, if I may have a moment...",47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40675,40675,40675,40675,329,KIRA,"I'm sorry, Varani. I'm on my way to a meeting.",47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40676,40676,40676,40676,330,VARANI,I know. With Minister Rozahn and Vedek Sorad. I suppose Haneek will be there as well...,47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40677,40677,40677,40677,331,KIRA,That's right.,47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40678,40678,40678,40678,332,VARANI,Please. Tell her my heart goes out to her and her people. Tell her how much Bajorans everywhere regret having to refuse their request.,47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40679,40679,40679,40679,333,KIRA,Aren't you being a little premature?,47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40680,40680,40680,40680,334,VARANI,Am I? You know what the provisional government's answer is going to be.,47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40681,40681,40681,40681,335,KIRA,"These are people who've lost everything, Varani...",47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40682,40682,40682,40682,336,VARANI,I know. And I wish there was some way we could help them...,47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40683,40683,40683,40683,337,VARANI,"Bajor is in shambles, Kira... you know that as well as I...",47   INT. PROMENADE,PROMENADE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40684,40684,40684,40684,338,MINISTER ROZAHN,"First of all, I want you all to know that the provisional government has taken the Skrreeans' request for immigration very seriously. The debate in the Chamber of Ministers became quite heated at times... (attempt at humor to lighten the situation) Though I suppose you could say that about all of our debates...",49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40685,40685,40685,40685,339,SISKO,But a decision was reached...,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40686,40686,40686,40686,340,MINISTER ROZAHN,Yes. I was sent here to tell you that the Ministers -- -- in accord with the Vedek Assembly -- have decided to deny the Skrreeans' request.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40687,40687,40687,40687,341,MINISTER ROZAHN,(to Haneek; sympathetically) I'm sorry.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40688,40688,40688,40688,342,VEDEK SORAD,Bajor simply cannot absorb three million refugees at this time...,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40689,40689,40689,40689,343,MINISTER ROZAHN,"After what the Cardassians did to our planet, we can barely take care of our own.",49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40690,40690,40690,40690,344,HANEEK,But no one is asking you to take care of us... !,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40691,40691,40691,40691,345,VEDEK SORAD,This decision is not based strictly on Bajoran self-interest. Such a huge increase in population would prove to be tragic to your people as well as ours.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40692,40692,40692,40692,346,HANEEK,But Bajor has more than enough room for us. The plains of the northwest peninsula are practically uninhabited. The land's ideal for farming.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40693,40693,40693,40693,347,MINISTER ROZAHN,It used to be... before the Cardassians got their hands on it.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40694,40694,40694,40694,348,HANEEK,"Minister Rozahn, the Skrreeans are farmers... just give us the land... I guarantee you we can make it thrive again...",49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40695,40695,40695,40695,349,MINISTER ROZAHN,"Under ideal circumstances, perhaps you could. But what if the circumstances aren't ideal? What if we go through another long winter? What if your crops fail? What if the famine that has been plaguing Bajor continues to spread? What then?",49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40696,40696,40696,40696,350,HANEEK,We're willing to take that risk...,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40697,40697,40697,40697,351,MINISTER ROZAHN,We aren't. We ran a series of projections to see whether a Skrreean settlement could survive on the northwest peninsula. The results were not encouraging.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40698,40698,40698,40698,352,SISKO,"Haneek, I think you should seriously consider Draylon Two as an alternate to Bajor. The winters are mild, there's plenty of good farmland...",49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40699,40699,40699,40699,353,HANEEK,No! Projections can be wrong...,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40700,40700,40700,40700,354,VEDEK SORAD,But what if they're not? What is Bajor to do if your people start dying?,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40701,40701,40701,40701,355,HANEEK,I thought I made it clear. We're not expecting your help.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40702,40702,40702,40702,356,MINISTER ROZAHN,"Do you really think we could stand by and do nothing? We'd feel obligated to help. With food, with clothing, with whatever it would take...",49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40703,40703,40703,40703,357,VEDEK SORAD,And where would that aid come from? Our resources are already depleted. To help you would mean depriving our own people.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40704,40704,40704,40704,358,MINISTER ROZAHN,I'm afraid the decision of the provisional government is final. The Skrreea will have to find somewhere else to live.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40705,40705,40705,40705,359,HANEEK,Talk to them... please... tell them that they're wrong...,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40706,40706,40706,40706,360,HANEEK,Help us.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40707,40707,40707,40707,361,KIRA,I can't.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40708,40708,40708,40708,362,KIRA,"I'm sorry, Haneek... but they're right. I wish they weren't... I wish Bajor was Kentanna... but it's not.",49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40709,40709,40709,40709,363,SISKO,There's still Draylon Two.,49   INT.COMMANDER'S OFFICE,OMMANDER'S OFFICE,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40710,40710,40710,40710,364,JAKE,"If you like cake, the icoberry torte is really good...",50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40711,40711,40711,40711,365,TUMAK,(calm; surprisingly accessible) Icoberries... are they sweet or sour?,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40712,40712,40712,40712,366,JAKE,(surprised by Tumak's lack of anger) Both.,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40713,40713,40713,40713,367,TUMAK,(nods... maybe he'll try some; beat) Is that big-eared troll really your friend?,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40714,40714,40714,40714,368,JAKE,Yeah.,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40715,40715,40715,40715,369,TUMAK,He's an idiot.,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40716,40716,40716,40716,370,JAKE,You're not the first one to say that. But he's not such a bad guy... once you get to know him.,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40717,40717,40717,40717,371,TUMAK,I don't plan on being here that long...,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40718,40718,40718,40718,372,JAKE,My dad says you're probably going to Draylon Two...,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40719,40719,40719,40719,373,TUMAK,Does he...,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40720,40720,40720,40720,374,JAKE,Sounds like a pretty nice place...,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40721,40721,40721,40721,375,TUMAK,Do you want to move there?,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40722,40722,40722,40722,376,JAKE,No...,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40723,40723,40723,40723,377,TUMAK,Neither do I.,50A  INT. REPLIMAT (FORMERLY SCENE 48),REPLIMAT,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40724,40724,40724,40724,378,HANEEK,Come in...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40725,40725,40725,40725,379,KIRA,Haneek...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40726,40726,40726,40726,380,HANEEK,The thing I don't understand is why you pretended to be my friend.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40727,40727,40727,40727,381,KIRA,I wasn't pretending.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40728,40728,40728,40728,382,HANEEK,Ahhh. So you are my friend... ... until I need you.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40729,40729,40729,40729,383,KIRA,"I know it's hard for you to see right now, but I am trying to help...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40730,40730,40730,40730,384,HANEEK,I think I've had quite enough of your help...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40731,40731,40731,40731,385,KIRA,"You have to believe me, Commander Sisko has found you a wonderful home...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40732,40732,40732,40732,386,HANEEK,"You betrayed me, Kira.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40733,40733,40733,40733,387,KIRA,"No, I didn't. I honestly believe the provisional government made the right decision, for both Bajor and the Skrreeans...",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40734,40734,40734,40734,388,HANEEK,"If that's true, then we have nothing to discuss.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40735,40735,40735,40735,389,KIRA,I was hoping we could still be friends...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40736,40736,40736,40736,390,HANEEK,"In other words, you came looking for forgiveness... Well I don't forgive you.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40737,40737,40737,40737,391,SISKO,Sisko to Kira.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40738,40738,40738,40738,392,KIRA,"Go ahead, Commander.",51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40739,40739,40739,40739,393,SISKO,Is Haneek with you?,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40740,40740,40740,40740,394,KIRA,Yes.,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40741,40741,40741,40741,395,SISKO,I need both of you in Ops immediately. Tumak has taken a ship. He's headed for Bajor...,51   INT. GUEST QUARTERS - ON HANEEK,GUEST QUARTER,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40742,40742,40742,40742,396,O'BRIEN,"They're not responding, sir...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40743,40743,40743,40743,397,SISKO,"Keep trying, Mister O'Brien...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40744,40744,40744,40744,398,KIRA,How did it happen?,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40745,40745,40745,40745,399,SISKO,"With all the traffic around the station, Tumak and two of his friends were able to slip away... we had no idea the ship was even gone until the Bajorans contacted us... Haneek, I need you to try to talk to your son...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40746,40746,40746,40746,400,O'BRIEN,"(to Haneek; from his station) There's a high-energy radiation leak in the port nacelle. We've tried to make him aware of it, but he refuses to acknowledge us...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40747,40747,40747,40747,401,SISKO,"Major, open a channel to the Skrreean vessel...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40748,40748,40748,40748,402,KIRA,"Yes, sir. Ready.",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40749,40749,40749,40749,403,HANEEK,Tumak... listen to me... your ship's in danger...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40750,40750,40750,40750,404,SISKO,Have him turn off his engines and drift until the Bajorans can tractor him in...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40751,40751,40751,40751,405,HANEEK,Tumak... turn off your engines... you must turn off your engines now...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40752,40752,40752,40752,406,SISKO,Mister O'Brien... ?,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40753,40753,40753,40753,407,O'BRIEN,He's not responding...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40754,40754,40754,40754,408,HANEEK,"Tumak, this is serious... your life's in danger... the others who are with you, their lives are in danger... please... answer me...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40755,40755,40755,40755,409,DAX,Sensors are detecting two Bajoran vessels closing in on the Skrreean ship...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40756,40756,40756,40756,410,SISKO,On screen...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40757,40757,40757,40757,411,SISKO,"Mister O'Brien, patch us into the Bajoran interceptor.",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40758,40758,40758,40758,412,O'BRIEN,"Aye, sir.",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40759,40759,40759,40759,413,PILOT,... have entered restricted space... you must turn around and leave immediately...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40760,40760,40760,40760,414,KIRA,Open a channel.,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40761,40761,40761,40761,415,KIRA,This is Major Kira Nerys on Deep Space Nine... the Skrreean vessel has refused to acknowledge our hails... it's possible their communications are down... you have to let them land...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40762,40762,40762,40762,416,PILOT,"That's impossible, Major... we have strict orders not to allow any Skrreean vessel to land...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40763,40763,40763,40763,417,KIRA,But the pilot's just a boy... he's taken the ship without permission... It's barely operational. We're not sure he can get back here.,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40764,40764,40764,40764,418,PILOT,"I'm sorry, Major, but we have our orders.",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40765,40765,40765,40765,419,KIRA,Who gave them to you?,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40766,40766,40766,40766,420,PILOT,They come directly from General Hazar.,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40767,40767,40767,40767,421,SISKO,"Dax, get me General Hazar on Bajor... tell his people it's an emergency... I want to speak with him now...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40768,40768,40768,40768,422,KIRA,"Stand by, interceptor. General Hazar will be countermanding those orders any minute...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40769,40769,40769,40769,423,O'BRIEN,The interceptor's closing on the Skrreean ship...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40770,40770,40770,40770,424,DAX,"It's General Hazar, Benjamin...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40771,40771,40771,40771,425,SISKO,On screen...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40772,40772,40772,40772,426,HAZAR,"What's this about, Commander?",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40773,40773,40773,40773,427,SISKO,It's about the Skrreean ship that's approaching Bajor...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40774,40774,40774,40774,428,HAZAR,I've already given orders to have it turned back...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40775,40775,40775,40775,429,SISKO,That ship is being flown by a child... and it's leaking radiation...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40776,40776,40776,40776,430,HAZAR,A child... ?,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40777,40777,40777,40777,431,PILOT,... Skrreean ship. Repeating: return to the space station now.,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40778,40778,40778,40778,432,HAZAR,Have him shut down his engines. We'll tow him back...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40779,40779,40779,40779,433,HANEEK,"Tumak, please... turn off your engines...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40780,40780,40780,40780,434,KIRA,"Interceptor One, what's going on?",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40781,40781,40781,40781,435,PILOT,They've opened fire on us... taking evasive action...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40782,40782,40782,40782,436,HANEEK,Tumak! Don't do this!,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40783,40783,40783,40783,437,PILOT,He's pursuing... we've been hit... !,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40784,40784,40784,40784,438,O'BRIEN,Commander -- they're returning fire...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40785,40785,40785,40785,439,HANEEK,No... !,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40786,40786,40786,40786,440,KIRA,"Disengage, interceptor! Repeat: disengage!",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40787,40787,40787,40787,441,SISKO,"General, tell you pilots to hold",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40788,40788,40788,40788,442,HAZAR,I'm relaying that order now...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40789,40789,40789,40789,443,KIRA,Interceptor One... ?,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40790,40790,40790,40790,444,PILOT,The Skrreean ship exploded. I didn't even think we hit it...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40791,40791,40791,40791,445,O'BRIEN,The phaser beam must've ignited the radiation leak...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40792,40792,40792,40792,446,HAZAR,Commander... I'm so sorry...,52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40793,40793,40793,40793,447,SISKO,"We all are, General...",52   INT. OPS,OPS,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40794,40794,40794,40794,448,KIRA,I just came by to wish you luck on Draylon Two.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40795,40795,40795,40795,449,KIRA,"Haneek, I still believe this is the best choice... for Bajor and for you.",58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40796,40796,40796,40796,450,HANEEK,And you believe we would have been a burden to your people...,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40797,40797,40797,40797,451,KIRA,Yes.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40798,40798,40798,40798,452,HANEEK,"(nods; it's the answer she expected) I think you've made a terrible mistake. All of you. Maybe we could have helped you. Maybe we could have helped each other. The Skrreeans are farmers, Kira. You have a famine on your planet. We might have made that peninsula bloom again. We'll never know, will we?",58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40799,40799,40799,40799,453,HANEEK,Fifty years of Cardassian rule has made you all frightened and suspicious. I feel sorry for you.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40800,40800,40800,40800,454,HANEEK,You were right. Bajor is not Kentanna.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Sanctuary,1993-10-08,Deep Space Nine,430.txt,0.0
+40801,40801,40801,40801,0,SISKO ,"Station log, Stardate 47182.1. DS- Nine has been temporarily evacuated due to a violent plasma disruption in the Denorios Belt. Until the disturbance ends, we'll be forced to maintain the station with a skeleton crew.",1    EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40802,40802,40802,40802,1,SISKO,How are we holding up?,2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40803,40803,40803,40803,2,KIRA,"So far, so good. I'll say one thing for the Cardassians, they built this place to last.",2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40804,40804,40804,40804,3,DAX,"And just in case it doesn't, I've got the Orinoco prepped and ready at Pad ""C.""",2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40805,40805,40805,40805,4,SISKO,Any word from Chief O'Brien?,2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40806,40806,40806,40806,5,DAX,He and Odo checked in about an hour ago. They sealed off the airlocks in the upper and lower pylons and were moving on to the docking ring.,2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40807,40807,40807,40807,6,SISKO,Sisko to O'Brien.,2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40808,40808,40808,40808,7,O'BRIEN,O'Brien here.,2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40809,40809,40809,40809,8,SISKO,"What's your status, Chief?",2    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40810,40810,40810,40810,9,O'BRIEN,"Almost done, Commander. We've sealed all the airlocks on Levels Twenty- One, Twenty-Two and Twenty-Three, but we still have to check the outer bulkheads to make sure there hasn't been any crystallization from the plasma discharges... Shouldn't take much longer.",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40811,40811,40811,40811,10,SISKO,I thought you might like to know... we received a message from Bajor just before the plasma storm cut off communications. The shuttle with your family aboard arrived safely.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40812,40812,40812,40812,11,O'BRIEN,"Yes, sir. Thank you. O'Brien out.",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40813,40813,40813,40813,12,ODO,Did you hear that?,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40814,40814,40814,40814,13,O'BRIEN,Hear what?,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40815,40815,40815,40815,14,ODO,I could've sworn I heard something.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40816,40816,40816,40816,15,O'BRIEN,Quark.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40817,40817,40817,40817,16,ODO,What are you doing here? You're under strict orders from Sisko not to leave the bar.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40818,40818,40818,40818,17,QUARK,"I'm not a prisoner, Odo. I volunteered to stay and help you protect the station.",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40819,40819,40819,40819,18,ODO,"The only reason you ""volunteered"" was because there wasn't any room on the evacuation shuttles for six hundred bars of gold-pressed latinum. Which still doesn't explain what you're doing out here in the docking ring.",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40820,40820,40820,40820,19,QUARK,I was saying good-bye to my brother.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40821,40821,40821,40821,20,ODO,Your brother? His shuttle left three hours ago.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40822,40822,40822,40822,21,QUARK,"Funny, it's only been three hours... and I'm already lost without him...",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40823,40823,40823,40823,22,ODO,"Oh, please. Don't try to tell me you've been sitting here all this time pining for Rom.",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40824,40824,40824,40824,23,QUARK,"I know, I know. He couldn't find a cup of water if you dropped him in a lake... but even if he is an idiot, he's still my brother...",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,-0.6652
+40825,40825,40825,40825,24,ODO,And you'd betray him in a second if it suited your interests.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,-0.4939
+40826,40826,40826,40826,25,QUARK,"But that doesn't mean I don't love him... Chief, do you have any brothers?",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.5616
+40827,40827,40827,40827,26,O'BRIEN,"(not sure what Quark is getting at) As a matter of fact, I have two...",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40828,40828,40828,40828,27,QUARK,And did you ever have to say good-bye to them?,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40829,40829,40829,40829,28,O'BRIEN,"Sure, when I joined Starfleet...",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40830,40830,40830,40830,29,QUARK,And did it bring a tear to your eye?,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40831,40831,40831,40831,30,O'BRIEN,I suppose it did.,3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40832,40832,40832,40832,31,QUARK,"(triumphant, gestures to Odo) Well try explaining that to him.",3    INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40833,40833,40833,40833,32,DAX,The storm's intensity is up thirty- seven percent.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40834,40834,40834,40834,33,KIRA,Is there any way to tell how long it'll last?,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40835,40835,40835,40835,34,DAX,"Your guess is as good as mine. Plasma storms are extremely rare. But look on the bright side, this gives us a great opportunity to study one.",7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40836,40836,40836,40836,35,KIRA,Lucky us.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40837,40837,40837,40837,36,BASHIR,You should see the view from the Promenade. Simply amazing.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40838,40838,40838,40838,37,SISKO,I assume the Promenade is secure.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40839,40839,40839,40839,38,BASHIR,Yes sir. I've struck the sails and battened the hatches... so to speak.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40840,40840,40840,40840,39,DAX,Benjamin... You'd better look at this.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40841,40841,40841,40841,40,DAX,I'm detecting a small vessel headed this way at one quarter impulse.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40842,40842,40842,40842,41,KIRA,They're hailing us.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40843,40843,40843,40843,42,SISKO,On screen.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40844,40844,40844,40844,43,KIRA,I can't get a visual.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40845,40845,40845,40845,44,VERAD ,"... cargo ship Ekina. We've been caught by the storm. Our engines have been severely damaged. We need emergency assistance. Can you read me? Repeat, this is the cargo ship Ekina...",7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40846,40846,40846,40846,45,KIRA,I've lost it.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40847,40847,40847,40847,46,SISKO,Can you get a transporter lock on the crew?,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40848,40848,40848,40848,47,KIRA,There's too much interference.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40849,40849,40849,40849,48,SISKO,Engage the tractor beam. Bring them into the closest docking bay.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40850,40850,40850,40850,49,KIRA,It's not working. The plasma storm is dispersing the beam.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40851,40851,40851,40851,50,DAX,Maybe if we modulate the frequency of the beam...,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40852,40852,40852,40852,51,DAX,I've got them. But I don't know how long I can hold on.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40853,40853,40853,40853,52,SISKO,Bring them into docking bay five.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40854,40854,40854,40854,53,BASHIR,There might be casualties. I'll get down to the Infirmary.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40855,40855,40855,40855,54,SISKO,(nods to Bashir; to com) Sisko to O'Brien.,7    INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40856,40856,40856,40856,55,O'BRIEN,O'Brien here.,11   INT. PROMENADE,PROMENADE,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40857,40857,40857,40857,56,SISKO,We've got some storm victims coming into docking bay five. They may be in need of assistance.,11   INT. PROMENADE,PROMENADE,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40858,40858,40858,40858,57,O'BRIEN,I'll have to release the emergency seals on the airlock before they can board the station. On my way.,11   INT. PROMENADE,PROMENADE,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40859,40859,40859,40859,58,O'BRIEN,Stand clear.,13   INT. DOCKING BAY AIRLOCK,DOCKING BAY AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40860,40860,40860,40860,59,O'BRIEN,Are you all right? Is anyone hurt?,13   INT. DOCKING BAY AIRLOCK,DOCKING BAY AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40861,40861,40861,40861,60,T'KAR,Not yet.,13   INT. DOCKING BAY AIRLOCK,DOCKING BAY AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40862,40862,40862,40862,61,O'BRIEN,What the hell do you think you're doing?,13   INT. DOCKING BAY AIRLOCK,DOCKING BAY AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40863,40863,40863,40863,62,T'KAR,(gestures toward the airlock door) No questions. Into the corridor.,13   INT. DOCKING BAY AIRLOCK,DOCKING BAY AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40864,40864,40864,40864,63,O'BRIEN,This is a fine way of showing your gratitude. We just saved your lives out there.,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40865,40865,40865,40865,64,T'KAR,You see? The ever-helpful Federation. So predictable.,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40866,40866,40866,40866,65,O'BRIEN,"Listen here, friend... in case you",14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40867,40867,40867,40867,66,T'KAR,"The Empire is governed by doddering fools and frightened old women who aren't worthy of the name Klingon. Mareel, the combadges.",14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40868,40868,40868,40868,67,MAREEL,This one must be the shape-shifter.,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40869,40869,40869,40869,68,YETO,"Go on, what are you waiting for?",14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40870,40870,40870,40870,69,O'BRIEN,You're a Trill.,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40871,40871,40871,40871,70,T'KAR,Inside.,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40872,40872,40872,40872,71,ODO,And what if I refuse?,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40873,40873,40873,40873,72,VERAD,Please. Do as he says and no one will get hurt.,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40874,40874,40874,40874,73,T'KAR,"Now, shifter. Or this one dies.",14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40875,40875,40875,40875,74,T'KAR,Let's go... Ally.,14   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40876,40876,40876,40876,75,BASHIR,Were there any casualties?,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40877,40877,40877,40877,76,T'KAR,That depends on you.,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40878,40878,40878,40878,77,T'KAR,"Yeto, get the Ferengi.",17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40879,40879,40879,40879,78,BASHIR,You mind telling me what this is all about?,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40880,40880,40880,40880,79,T'KAR,Any more questions?,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40881,40881,40881,40881,80,VERAD,Don't hurt him.,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40882,40882,40882,40882,81,T'KAR,"Mareel, the box.",17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40883,40883,40883,40883,82,T'KAR,Put it in your stasis chamber.,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40884,40884,40884,40884,83,T'KAR,Now. Or I will destroy it.,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40885,40885,40885,40885,84,BASHIR,Is that supposed to be some kind of threat?,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40886,40886,40886,40886,85,O'BRIEN,They've got Odo in there.,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40887,40887,40887,40887,86,BASHIR,I see... In that case...,17   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40888,40888,40888,40888,87,DAX,I'm still not getting a response from O'Brien or Odo.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40889,40889,40889,40889,88,SISKO,Run a level three security scan.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40890,40890,40890,40890,89,T'KAR ,Don't bother.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40891,40891,40891,40891,90,VERAD,Please... take your hands away from the controls.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40892,40892,40892,40892,91,T'KAR,Now. (gestures with his disruptor) To the center of the room.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40893,40893,40893,40893,92,SISKO,Do as he says.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40894,40894,40894,40894,93,MAREEL,"Don't worry, Verad. Everything's going to be all right.",18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40895,40895,40895,40895,94,T'KAR,Get with the others.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40896,40896,40896,40896,95,T'KAR,"Your turn, little man.",18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40897,40897,40897,40897,96,VERAD,Don't forget to disable the backups as well as the primary systems.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40898,40898,40898,40898,97,O'BRIEN,"It's my fault, Commander. They took us by surprise. Somehow, they must have neutralized the security systems in the docking ring.",18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40899,40899,40899,40899,98,SISKO,And how did they manage that?,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40900,40900,40900,40900,99,O'BRIEN,I'm not sure. But I've got a pretty good idea. We ran across Quark in an airlock a little while ago.,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40901,40901,40901,40901,100,KIRA,"When this is over, Quark and I are going to have a little ""talk.""",18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40902,40902,40902,40902,101,SISKO,Do you know him?,18   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40903,40903,40903,40903,102,QUARK,"Ah, Yeto... It's such a pleasure doing business with Klingons. You're so... punctual.",24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40904,40904,40904,40904,103,QUARK,"I see that your ship was ""rescued"" according to plan. I've got your merchandise right here... but I don't see any latinum.",24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40905,40905,40905,40905,104,YETO,(shakes his head in disgust) You Ferengi... you think you're so clever... but you're stupid.,24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40906,40906,40906,40906,105,QUARK,"Now, now. There's no need for name calling. If you don't want these liquid data chains, I'm sure I can line up dozens of other buyers.",24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40907,40907,40907,40907,106,YETO,Go right ahead.,24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40908,40908,40908,40908,107,QUARK,Yeto... this is no time to haggle for a better deal. Where else are you going to get data chains of this quality for such a reasonable price?,24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40909,40909,40909,40909,108,YETO,You can keep your data chains...,24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40910,40910,40910,40910,109,QUARK,"Don't be ridiculous... You expect me to believe you've come all this way, braved the storm, just to tell me the deal is off?",24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40911,40911,40911,40911,110,YETO,Stupid Ferengi.,24   INT. QUARK'S,QUARK'S,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40912,40912,40912,40912,111,T'KAR,I said no one moves.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40913,40913,40913,40913,112,SISKO,I'm the commander of this station. What's your business here?,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40914,40914,40914,40914,113,T'KAR,You'll have to ask my employer.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40915,40915,40915,40915,114,VERAD,"I... I'm sorry about this. If everyone would just cooperate, I promise this will all be over soon.",25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40916,40916,40916,40916,115,SISKO,What will be over soon?,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40917,40917,40917,40917,116,QUARK,This is an outrage. I demand that you release me at once.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40918,40918,40918,40918,117,YETO,Enough of your whining.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40919,40919,40919,40919,118,QUARK,Who are these people? What do they want with us?,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40920,40920,40920,40920,119,KIRA,"Funny, I was just about to ask you that.",25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40921,40921,40921,40921,120,MAREEL,That's enough.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40922,40922,40922,40922,121,SISKO,I agree. Now tell me what you want here.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40923,40923,40923,40923,122,VERAD,Dax. I want Dax.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40924,40924,40924,40924,123,SISKO,She's not going anywhere with you.,25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40925,40925,40925,40925,124,VERAD,"No, no. I... I don't want the girl. I only want what is rightfully mine... what should have been mine years ago. I want Dax.",25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40926,40926,40926,40926,125,DAX,"The symbiont, Benjamin. He's come to steal my symbiont.",25   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40927,40927,40927,40927,126,BASHIR,"You can't remove Jadzia's symbiont. If you do, she'll die.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40928,40928,40928,40928,127,SISKO,"He knows that, Doctor.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40929,40929,40929,40929,128,VERAD,"I'm sorry. Please believe me, I wish I didn't have to do this.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40930,40930,40930,40930,129,SISKO,Then don't.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40931,40931,40931,40931,130,VERAD,"I don't have any choice. I spent my whole life trying to qualify for the joining. I studied constantly... every day... every waking hour... I sacrificed everything... And then I went before the Symbiosis Evaluation Board... and they reduced my entire life to one word... ""Unsuitable... """,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40932,40932,40932,40932,131,DAX,That's nothing to be ashamed of. Neither of my parents or my sister underwent symbiosis. And they lead happy and productive lives. Only one Trill in ten is chosen to be joined.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40933,40933,40933,40933,132,VERAD,That's easy for you to say. They chose you.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40934,40934,40934,40934,133,DAX,I was one of the lucky ones.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40935,40935,40935,40935,134,MAREEL,And now it's Verad's turn to be lucky.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40936,40936,40936,40936,135,KIRA,But why Dax? There are thousands of symbionts on Trill. Why her?,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40937,40937,40937,40937,136,VERAD,I did research... I worked it all out... The Dax symbiont is the best match for me. We have mutual interests in science... diplomacy...,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40938,40938,40938,40938,137,SISKO,"There's another reason, isn't there?",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40939,40939,40939,40939,138,SISKO,"The wormhole. Once you've stolen the symbiont, you plan on escaping into the Gamma Quadrant, don't you?",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40940,40940,40940,40940,139,MAREEL,Can you think of a better place to start a new life?,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40941,40941,40941,40941,140,DAX,I understand your frustration... But there could be dozens of reasons why the Board didn't select you for symbiosis. They have to be very careful. An improper joining can cause permanent psychological damage... to both the symbiont and the host. They were just looking after your best interests.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40942,40942,40942,40942,141,VERAD,"Your best interests, maybe... but not mine. All they've done is condemn me to a life of mediocrity... Well, I refuse to accept it. I won't spend the rest of my life dreaming about what I could have been... what I should have been. I deserve more. And I'm going to get it.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40943,40943,40943,40943,142,MAREEL,"Yeto, T'Kar. It's time.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40944,40944,40944,40944,143,BASHIR,I'll have no part in this.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40945,40945,40945,40945,144,VERAD,I... I understand.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40946,40946,40946,40946,145,VERAD,Keep away from him.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40947,40947,40947,40947,146,VERAD,"There. You see? I've taken the first step. Even if I don't get what I want, my life is over. So either you help me... or you and your friends will die. It's your choice.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40948,40948,40948,40948,147,DAX,He'll help. I don't want anyone else hurt because of me. But you have to give me your word that no one else on the station will be harmed.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40949,40949,40949,40949,148,VERAD,I promise. Doctor.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40950,40950,40950,40950,149,DAX,"Do as he says, Julian. Please.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40951,40951,40951,40951,150,BASHIR,Let me treat Chief O'Brien's phaser wound first. (sees Verad's reluctance) It won't take long.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40952,40952,40952,40952,151,BASHIR,There's an emergency medical kit under that console.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40953,40953,40953,40953,152,BASHIR,Hold still.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40954,40954,40954,40954,153,BASHIR,There. There should be no permanent damage.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40955,40955,40955,40955,154,BASHIR,Apply this every twenty minutes or so. It'll help the wound regenerate.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40956,40956,40956,40956,155,T'KAR,Enough stalling. Take them to the Infirmary.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40957,40957,40957,40957,156,SISKO,"Do as he says, Doctor. This is no time to be a hero.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40958,40958,40958,40958,157,KIRA,"This isn't over, Dax. I promise you that.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40959,40959,40959,40959,158,SISKO,Dax...,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40960,40960,40960,40960,159,DAX,"(anticipating what he's going to say) I know, Benjamin... you'll do all you can. But just in case it isn't enough, I want you to know... (beat, searches for the words, smiles) It's been fun.",30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40961,40961,40961,40961,160,MAREEL,Good luck.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40962,40962,40962,40962,161,VERAD,It won't be long now. And then you'll see. Everything will be just as I promised.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40963,40963,40963,40963,162,MAREEL,I know.,30   INT. OPS (CONTINUOUS),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40964,40964,40964,40964,163,VERAD,What's that?,36   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40965,40965,40965,40965,164,BASHIR,It's a delta wave inducer. It will keep you asleep through the surgery. It also increases your body's natural endorphin production to help accelerate the healing process.,36   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40966,40966,40966,40966,165,VERAD,I don't want it.,36   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40967,40967,40967,40967,166,BASHIR,I strongly advise that you use it... the surgery will be much easier on you if you...,36   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40968,40968,40968,40968,167,VERAD,"I don't need your advice. I want to be awake. Use a neuro-electrical suppressor. And set up a monitor so I can watch the procedure. That way, if you run into any ""trouble,"" I'll be able to assist you. Now let's get started.",36   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40969,40969,40969,40969,168,BASHIR,And if I refuse.,36   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40970,40970,40970,40970,169,VERAD,Verad to Mareel.,36   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40971,40971,40971,40971,170,MAREEL,Is there a problem?,37   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40972,40972,40972,40972,171,VERAD,That's up to the doctor. Will you cooperate? Or do I tell Mareel to shoot the hostages? Who should she start with... The Bajoran... or maybe your commander...,38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40973,40973,40973,40973,172,BASHIR,No. That won't be necessary.,38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40974,40974,40974,40974,173,VERAD,"Good. No more games. If I don't survive this, neither will they. Did you hear that, Mareel?",38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40975,40975,40975,40975,174,MAREEL,I heard. Mareel out.,38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40976,40976,40976,40976,175,VERAD,"Now, Doctor...",38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40977,40977,40977,40977,176,BASHIR,"I'm sorry, Jadzia.",38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40978,40978,40978,40978,177,DAX,"Don't blame yourself, Julian. You did all you could.",38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40979,40979,40979,40979,178,BASHIR,I... This will help you sleep.,38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40980,40980,40980,40980,179,DAX,Thank you.,38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40981,40981,40981,40981,180,BASHIR,Forgive me...,38   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40982,40982,40982,40982,181,KIRA,How long can Jadzia survive without the symbiont?,39   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40983,40983,40983,40983,182,SISKO,"Once the symbiont's removed, the host usually dies within hours. But Jadzia's young and healthy... Bashir will do all he can... She'll make it through the night.",39   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40984,40984,40984,40984,183,O'BRIEN,That still doesn't give us much time...,39   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40985,40985,40985,40985,184,T'KAR,No talking.,39   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40986,40986,40986,40986,185,MAREEL,"I don't want to kill you, Commander... but I will.",39   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40987,40987,40987,40987,186,MAREEL,You had your chance.,39   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40988,40988,40988,40988,187,QUARK,This is ridiculous. Don't you realize they're going to kill us? What are you people sitting around for? Do something.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40989,40989,40989,40989,188,KIRA,Do you have any suggestions?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40990,40990,40990,40990,189,QUARK,Why should I have any suggestions? I'm not the military mastermind. I'm just a victim of circumstances.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40991,40991,40991,40991,190,KIRA,A victim? Really? Then maybe you'd like to tell me how four armed terrorists got past the docking ring security grid.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40992,40992,40992,40992,191,QUARK,Security grid? I don't know what you're talking...,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40993,40993,40993,40993,192,KIRA,"Save it, Quark. You've crossed the line this time.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40994,40994,40994,40994,193,KIRA,"You sold us out, and Dax may die because of it. Whatever happens next, one thing's certain... You're through here.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40995,40995,40995,40995,194,MAREEL,Are you all right?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40996,40996,40996,40996,195,KIRA,I'll live.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40997,40997,40997,40997,196,MAREEL,Don't try that again. I don't want to have to hurt anyone.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40998,40998,40998,40998,197,KIRA,Tell that to Jadzia.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+40999,40999,40999,40999,198,MAREEL,That's different.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
