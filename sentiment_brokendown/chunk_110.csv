@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+110000,110000,110000,110000,32,RIKER,Now pick one of those.,B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110001,110001,110001,110001,33,RIKER,Turn it over.,B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110002,110002,110002,110002,34,RIKER,Is that your card?,B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110003,110003,110003,110003,35,TROI,Incredible.,B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110004,110004,110004,110004,36,DATA,"You surreptitiously placed the edge of your left thumb onto the card immediately after I inserted it back into the deck. When you divided the deck to reshuffle, you kept that card on top. You thus were able to have me either discard or save depending on the card's location, which you followed at each step. Until we were left with one -- the card I originally chose.",B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110005,110005,110005,110005,37,DATA,"Sir, I think under the circumstances...",B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110006,110006,110006,110006,38,PICARD,Picard to Riker.,B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110007,110007,110007,110007,39,RIKER,Captain?,B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110008,110008,110008,110008,40,PICARD,We've received a distress call. Changing course to intercept...,B1	INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110009,110009,110009,110009,41,PICARD ,"Captain's log, stardate 44215.2. The Enterprise has bypassed its scheduled archaelogical survey of Camus Two in response to a distress call from a Federation freighter. The Arcos has assumed an emergency orbit around Turkana Four, birthplace of our late comrade Tasha Yar.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110010,110010,110010,110010,42,DATA,"We will enter the Turkana system in eleven minutes, Captain.",2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110011,110011,110011,110011,43,PICARD,Engine status.,2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110012,110012,110012,110012,44,DATA,Stable. But we have maintained warp factor nine for longer than is recommended.,2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110013,110013,110013,110013,45,WORF,"Subspace message from the Arcos. Their transmitter is failing, sir. Audio only.",2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110014,110014,110014,110014,46,PICARD,Let's hear it.,2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110015,110015,110015,110015,47,TAN TSU,"Enterprise, this is Tan Tsu, Arcos engineer. Estimate five minutes till warp drive containment breach.",2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110016,110016,110016,110016,48,TAN TSU,"Make that three minutes. Thanks for trying, Enterprise...",2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110017,110017,110017,110017,49,PICARD,"Warp nine-point-three, Ensign.",2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110018,110018,110018,110018,50,PICARD,How much time?,2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110019,110019,110019,110019,51,DATA,Seven minutes and fifteen seconds will bring us within transporter range.,2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110020,110020,110020,110020,52,PICARD,Go to warp nine-point-six.,2    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110021,110021,110021,110021,53,DATA,"Entering the Turkana System, Captain.",6    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110022,110022,110022,110022,54,PICARD,"Mister O'Brien, prepare to lock onto the two crewmen.",6    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110023,110023,110023,110023,55,O'BRIEN,"Aye, Captain.",6    INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110024,110024,110024,110024,56,PICARD,Drop to impulse.,6B   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110025,110025,110025,110025,57,DATA,Visual contact.,6B   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110026,110026,110026,110026,58,RIKER,"Get them out of there, O'Brien.",6B   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110027,110027,110027,110027,59,RIKER,"O'Brien, status!",6B   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110028,110028,110028,110028,60,O'BRIEN,"There's nothing to lock onto, Commander.",7A   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110029,110029,110029,110029,61,DATA,I am reading an ion trail characteristic of a freighter escape pod.,8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110030,110030,110030,110030,62,WORF,Unable to establish contact.,8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110031,110031,110031,110031,63,PICARD,It could have been damaged by the explosion. They may have been incapable of maintaining orbit.,8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,-0.6705
+110032,110032,110032,110032,64,RIKER,Let's hope they stay clear of the colony.,8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.6705
+110033,110033,110033,110033,65,DATA,"That is exactly where the ion trail leads, Commander.",8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110034,110034,110034,110034,66,PICARD,Hail the colony.,8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0772
+110035,110035,110035,110035,67,WORF,"I've been trying to, Captain... No response.",8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,-0.296
+110036,110036,110036,110036,68,RIKER,There haven't been reliable communications since the government fell apart.,8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110037,110037,110037,110037,69,DATA,The last Federation vessel to attempt contact was the Potemkin six years ago. They were warned that anyone transporting down to the colony would be killed.,8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110038,110038,110038,110038,70,PICARD,"Ready your away team, Number One.",8    INT. BRIDGE (OPTICAL),BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110039,110039,110039,110039,71,PICARD ,"Captain's log, supplemental. We are in orbit above Turkana Four, an Earth colony that severed relations with the Federation nearly fifteen years ago. I am concerned about sending an away team, but if we are to discover the fate of the two missing Federation crewmen, I see no alternative.",9A   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110040,110040,110040,110040,72,DATA,The surface settlement appears to be all but destroyed. Sensors show that the colonists now live in structures that extend nearly three kilometers beneath the city.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110041,110041,110041,110041,73,RIKER,"Have you located the escape pod's landing point, Chief?",10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110042,110042,110042,110042,74,O'BRIEN,Yessir... three hundred meters beyond the colony perimeter...,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110043,110043,110043,110043,75,WORF,"Sir, we can anticipate a violent response to our presence.",10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110044,110044,110044,110044,76,WORF ,Perhaps the Doctor should wait here for our signal.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110045,110045,110045,110045,77,BEVERLY,I appreciate the concern. But I think it's exaggerated.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110046,110046,110046,110046,78,WORF,"Doctor, the colony is completely lawless. Lieutenant Yar spoke of rape gangs...",10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110047,110047,110047,110047,79,BEVERLY,"Mister Worf, I can handle myself.",10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110048,110048,110048,110048,80,RIKER,She's coming. The Arcos crewmen may require immediate medical assistance.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110049,110049,110049,110049,81,RIKER,Phasers on maximum stun.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110050,110050,110050,110050,82,RIKER,Energize.,10   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110051,110051,110051,110051,83,DATA,The dispersion trail continues in this direction.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110052,110052,110052,110052,84,DATA,The concentration gradient definitely increases along this vector.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110053,110053,110053,110053,85,DATA,The escape pod was apparently moved into the tunnels ahead of us.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110054,110054,110054,110054,86,RIKER,Not the response we expected.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110055,110055,110055,110055,87,BEVERLY,Maybe things have changed here.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110056,110056,110056,110056,88,MAN #1,Identify yourselves.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110057,110057,110057,110057,89,RIKER,We're from the Federation Starship Enterprise. We tracked two crewmen to this area. Do you know anything about them?,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110058,110058,110058,110058,90,MAN #1,Possibly.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110059,110059,110059,110059,91,RIKER,What do you mean?,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110060,110060,110060,110060,92,MAN #1,It depends on what you have to offer in return.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110061,110061,110061,110061,93,MAN #1,They found us.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110062,110062,110062,110062,94,WORF,Proximity detectors. I've seen them used on Manu Three.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110063,110063,110063,110063,95,MAN #1,Follow me.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110064,110064,110064,110064,96,RIKER,Come on.,12   INT. ENTRANCE TO TUNNEL,ENTRANCE TO TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110065,110065,110065,110065,97,HAYNE,"The Alliance is holding your men hostage, Commander Riker, not us. You can expect a ransom demand...",13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110066,110066,110066,110066,98,RIKER,The Alliance?,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110067,110067,110067,110067,99,HAYNE,Our good friends.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110068,110068,110068,110068,100,HAYNE,"Our ""good friends"" are going to be upset when they realize we took their last crate of Telluridan synthale.",13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110069,110069,110069,110069,101,RIKER,Maybe it would be easier if I contacted the authorities.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110070,110070,110070,110070,102,HAYNE,"We are the ""authorities.""",13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110071,110071,110071,110071,103,HAYNE,The Coalition -- our cadre -- runs this side of the city. The Alliance controls the other. Take your choice.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110072,110072,110072,110072,104,RIKER,Are you offering to help?,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110073,110073,110073,110073,105,HAYNE,In return for some... consideration. Phasers are in short supply down here. A starship isn't going to miss a few.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110074,110074,110074,110074,106,WORF,That is no better than a ransom demand.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110075,110075,110075,110075,107,HAYNE,"No matter what you give the Alliance, they'll eventually kill your crewmen anyway. With our help there's at least a chance you'll get them back alive.",13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110076,110076,110076,110076,108,HAYNE,All we're asking for is help in maintaining our defense. We're trying to keep the peace.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110077,110077,110077,110077,109,RIKER,Everything we've seen suggests otherwise.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110078,110078,110078,110078,110,HAYNE,A prank. The proximity implants prevent either side from doing any serious damage.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110079,110079,110079,110079,111,HAYNE,They warn us when an enemy is approaching.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110080,110080,110080,110080,112,WORF,Then why do you need more phasers?,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110081,110081,110081,110081,113,HAYNE,The Alliance just discovered a large cache of weapons. I just want to make things even. Preserve the peace.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110082,110082,110082,110082,114,BEVERLY,"You keep using the word ""peace."" We've heard a different version of life on Turkana Four.",13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110083,110083,110083,110083,115,HAYNE,Ancient history. Where did you hear that?,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110084,110084,110084,110084,116,DATA,A former crewmember was born here.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110085,110085,110085,110085,117,HAYNE,Where's he now?,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110086,110086,110086,110086,118,DATA,She was killed in the line of duty.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110087,110087,110087,110087,119,HAYNE,That's as good a way to die as any.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110088,110088,110088,110088,120,HAYNE,As I said -- ancient history. This is now. And your men are in trouble.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110089,110089,110089,110089,121,RIKER,We'll return to the Enterprise and consider your proposal.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110090,110090,110090,110090,122,HAYNE,A gift for your Captain.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110091,110091,110091,110091,123,RIKER,Riker to Enterprise. Energize.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110092,110092,110092,110092,124,HAYNE,I want everything there is to know about the starship Enterprise.,13   INT. TUNNEL INTERSECTION (OPTICAL),TUNNEL INTERSECTION,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110093,110093,110093,110093,125,RIKER,"According to Hayne, the Coalition and the Alliance raid each other for supplies -- much of it non-essential.",14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110094,110094,110094,110094,126,PICARD,Why?,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110095,110095,110095,110095,127,WORF,A battle exercise.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110096,110096,110096,110096,128,RIKER,Their defenses apparently prevent deep strikes into each other's territory. Minor skirmishes are all that's left.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110097,110097,110097,110097,129,PICARD,"""Coalition"", ""Alliance"" -- it all sounds so reasonable. But you've described the behavior of urban street thugs. We certainly won't trade weapons for the crewmen. How do you suggest we deal with them?",14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110098,110098,110098,110098,130,RIKER,We have to tell them something.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110099,110099,110099,110099,131,WORF,No promises. No denials.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110100,110100,110100,110100,132,PICARD,"For now, Hayne's Coalition is our only safe access to the colony. Let's keep the door open and see where it leads.",14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110101,110101,110101,110101,133,WORF,Captain. Transmission from Turkana Four. Coming in on a secure channel.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110102,110102,110102,110102,134,PICARD,On screen.,14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110103,110103,110103,110103,135,HAYNE,"Hello, Enterprise. Commander Riker, would you introduce me to your Captain?",14   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110104,110104,110104,110104,136,PICARD,I'm Captain Jean-Luc Picard.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110105,110105,110105,110105,137,HAYNE,I have someone here you might like to meet.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110106,110106,110106,110106,138,HAYNE,This is Ishara... Ishara Yar.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110107,110107,110107,110107,139,ISHARA,Tasha was my sister.,16   INT. BRIDGE - CONTINUOUS,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110108,110108,110108,110108,140,HAYNE,"There's an old saying, Captain. ""The enemy of my enemy is my friend."" I've decided it's in my best interest to help you get your men back.",18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110109,110109,110109,110109,141,PICARD,With nothing from us in return?,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110110,110110,110110,110110,142,HAYNE,You could be forced into paying my adversary a ransom in weapons. I'll do anything I can to avoid that possibility.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110111,110111,110111,110111,143,PICARD,What do you propose?,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110112,110112,110112,110112,144,HAYNE,Ishara will be our liaison.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110113,110113,110113,110113,145,ISHARA,I know Alliance territory. I can help you with a rescue plan.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110114,110114,110114,110114,146,PICARD,One moment.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110115,110115,110115,110115,147,WORF,Mute.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110116,110116,110116,110116,148,PICARD,Reactions?,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110117,110117,110117,110117,149,WORF,I do not trust him.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110118,110118,110118,110118,150,RIKER,She could be a fake. We mentioned that a former member of the crew had come from the colony.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110119,110119,110119,110119,151,BEVERLY,All Hayne had to do was search through whatever their database had on Starfleet to come up with Tasha's name.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110120,110120,110120,110120,152,PICARD,Counsellor?,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110121,110121,110121,110121,153,TROI,"He's being deceptive, and he's clearly hoping to manipulate us. As for the young woman's identity, I can't tell.",18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110122,110122,110122,110122,154,PICARD,"Regardless, this is an option we cannot neglect. We'll continue on other fronts as they present themselves. For now, let's see what she has to say.",18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110123,110123,110123,110123,155,WORF,Open.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110124,110124,110124,110124,156,PICARD,I've decided to accept your proposal.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110125,110125,110125,110125,157,HAYNE,Thank you.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110126,110126,110126,110126,158,HAYNE,Good luck.,18   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110127,110127,110127,110127,159,DATA,"Welcome to the Enterprise, Ishara. I am Commander Data.",22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110128,110128,110128,110128,160,ISHARA,You're not human.,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110129,110129,110129,110129,161,DATA,I am an android.,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110130,110130,110130,110130,162,ISHARA,Built for fighting... ?,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110131,110131,110131,110131,163,DATA,On what do you base that assumption?,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110132,110132,110132,110132,164,ISHARA,A cybernetic device serving on a starship...,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110133,110133,110133,110133,165,DATA,The Enterprise is not a ship of war. It is a ship of exploration.,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110134,110134,110134,110134,166,ISHARA,The first thing to do is help you map the colony. This is a general grid of the tunnel systems. I can fill in the specific details from memory.,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110135,110135,110135,110135,167,DATA,My orders are to escort you to the Observation Lounge. We will proceed from there.,22   INT. TRANSPORTER ROOM (OPTICAL),TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110136,110136,110136,110136,168,DATA,Your sister never spoke of you.,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110137,110137,110137,110137,169,ISHARA,That's not surprising.,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110138,110138,110138,110138,170,DATA,It is surprising to me. Tasha and I spent much time together in the course of our duties. We had a considerable number of conversations.,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.34
+110139,110139,110139,110139,171,ISHARA,Did she talk at all about the colony?,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110140,110140,110140,110140,172,DATA,Only to say that she was lucky to have escaped.,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.4215
+110141,110141,110141,110141,173,ISHARA,It wasn't luck. It was cowardice.,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110142,110142,110142,110142,174,DATA,"""Cowardice"" is a term that I have never heard applied to Tasha.",23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110143,110143,110143,110143,175,ISHARA,Is something wrong?,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110144,110144,110144,110144,176,DATA,"No. It is just that for a moment, the expression on your face was reminiscent of your sister.",23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110145,110145,110145,110145,177,ISHARA,It's been fifteen years. I don't even remember what she looked like...,23   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110146,110146,110146,110146,178,ISHARA,You don't believe I'm Tasha's sister.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110147,110147,110147,110147,179,PICARD,We have considered that possibility.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110148,110148,110148,110148,180,ISHARA,I'm not surprised. You can sample my DNA if you like.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110149,110149,110149,110149,181,BEVERLY,"Thank you, I will.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110150,110150,110150,110150,182,PICARD,Please. Sit down.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110151,110151,110151,110151,183,PICARD,Perhaps it would help if you gave us some idea of what we're dealing with on Turkana Four. Our last information describes a colony in complete disarray.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110152,110152,110152,110152,184,ISHARA,It started falling apart almost thirty years ago. There were dozens of factions. They fought until the city above ground was in ruins.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110153,110153,110153,110153,185,RIKER,The Coalition and the Alliance are all that's left?,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110154,110154,110154,110154,186,ISHARA,"We were the two strongest factions... When the government couldn't stop the violence, they gave us police powers. The proximity detectors were originally designed by the government to keep us under control.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110155,110155,110155,110155,187,PICARD,"Apparently, that part of the plan didn't succeed very well.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110156,110156,110156,110156,188,ISHARA,"No. After a few months, we didn't need the government any more.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110157,110157,110157,110157,189,GEORDI,Tasha left you in the middle of all that?,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110158,110158,110158,110158,190,ISHARA,"She didn't abandon me, if that's what you mean. Tasha asked me to go with her. But I had already joined the Coalition. They were my family.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110159,110159,110159,110159,191,ISHARA,"Captain, we don't have a lot of time. Maybe we should get started.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110160,110160,110160,110160,192,WORF,"Incoming transmission from the colony, Captain.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110161,110161,110161,110161,193,PICARD,On screen.,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110162,110162,110162,110162,194,TAN TSU,"Enterprise, I'm being held by the Turkana Four Alliance. I've been instructed to say that you have twenty hours to make reparations for Federation intrusion into this colony. Or my pilot and I will be killed.",24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110163,110163,110163,110163,195,BEVERLY,Ask them if we can at least send a medical --,24   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110164,110164,110164,110164,196,ISHARA,"Take that threat seriously, Captain. They'll torture them and then they'll kill them. My cadre has never recovered a hostage alive from the Alliance.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110165,110165,110165,110165,197,ISHARA,Your crewmen could be held in any number of places. The Alliance has two main headquarters and thirteen ancillary bases of operation. All underground. All heavily guarded.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110166,110166,110166,110166,198,GEORDI,If I could get to the myographic scanner...,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110167,110167,110167,110167,199,ISHARA,What's that?,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110168,110168,110168,110168,200,DATA,A sensing device on the escape pod. It monitors the bio-electric signatures of the crew. In the event they get separated from the pod.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110169,110169,110169,110169,201,GEORDI,I could install a booster on the device that would relay its signals to the Enterprise. Then we could track the men from up here.,26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110170,110170,110170,110170,202,PICARD,"Unfortunately, we don't know where the escape pod is.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110171,110171,110171,110171,203,ISHARA,"Level Three-C, Section five-four-seven. (a smile off their surprise) We have our sources.",26   INT. OBSERVATION LOUNGE - CONTINUOUS,OBSERVATION LOUNG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110172,110172,110172,110172,204,ISHARA ,Access tunnels are here...,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110173,110173,110173,110173,205,ISHARA,... and here.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110174,110174,110174,110174,206,RIKER,We could transport an away team right into this intersection...,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110175,110175,110175,110175,207,ISHARA,"Don't underestimate them, Commander. They'll be ready for that... I've seen them use this kind of strategy before.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110176,110176,110176,110176,208,ISHARA,I know it looks isolated and easily accessible... But my guess is they have hundreds of men on the levels above and below waiting for you to make your move.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110177,110177,110177,110177,209,WORF,We'll need a diversion.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110178,110178,110178,110178,210,GEORDI,"Transport a couple of photon grenades into the adjoining chambers. At minimum intensity it wouldn't kill anybody, just shake them up a lot.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110179,110179,110179,110179,211,RIKER,That won't give us enough time. We need something that'll occupy them long enough for you to install the relay.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110180,110180,110180,110180,212,ISHARA,Transport me into this corridor. My magnetic implant will set off the defense alarms. They'll think it's a raid by the Coalition.,27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110181,110181,110181,110181,213,RIKER,"Too dangerous. We've seen what those tunnels look like. You could easily be cut off from the rest of us. Worf, if we --",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110182,110182,110182,110182,214,ISHARA,"-- Commander Riker. I was ordered to assist you in any way possible. That doesn't mean ""as long as it's safe, or convenient.""",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110183,110183,110183,110183,215,ISHARA,"If you had the time, we could come up with another plan.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110184,110184,110184,110184,216,ISHARA ,"But you don't. Right now, I'm your best option.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110185,110185,110185,110185,217,DATA,"She would have to be armed, Commander.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110186,110186,110186,110186,218,RIKER,"I want to discuss this with the Captain. Mister Data, take Ishara to see Doctor Crusher.",27   INT. ENGINEERING - C.U. ON TABLE MONITOR,ENGINEERIN,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110187,110187,110187,110187,219,ISHARA,You have Tasha's DNA on file?,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110188,110188,110188,110188,220,BEVERLY,The ship's computer does. There's always some differentiation in the somatic chromosomes -- but it's not enough to affect the results.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110189,110189,110189,110189,221,BEVERLY,It'll take me a few hours to run the isomorphic comparison.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110190,110190,110190,110190,222,ISHARA,That wasn't too bad.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110191,110191,110191,110191,223,ISHARA,"So, all that's left of my sister is a file in a computer...",28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110192,110192,110192,110192,224,DATA,Tasha exists in our memories as well.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110193,110193,110193,110193,225,ISHARA,How did she die?,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110194,110194,110194,110194,226,DATA,Lieutenant Yar was killed on Vagra Two by a malevolent entity.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110195,110195,110195,110195,227,ISHARA,In battle?,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110196,110196,110196,110196,228,DATA,No... she was killed as a demonstration of the creature's power. Without provocation.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110197,110197,110197,110197,229,ISHARA,That's not how I intend to die.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110198,110198,110198,110198,230,RIKER,The Captain approves. You're with us.,28A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110199,110199,110199,110199,231,RIKER,"(touches insignia, quietly) Enterprise, we're in position.",29   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110200,110200,110200,110200,232,GEORDI,Damn!,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110201,110201,110201,110201,233,RIKER ,Geordi -- what's taking so long?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110202,110202,110202,110202,234,GEORDI,"There's a lot of damage here... The myographic scanner is operational, but the power source is fluctuating.",31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110203,110203,110203,110203,235,RIKER,Can you fix it?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110204,110204,110204,110204,236,GEORDI,I can try to run a shunt from the convertor.,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110205,110205,110205,110205,237,RIKER,How long will that take?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110206,110206,110206,110206,238,GEORDI,Ten minutes?,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110207,110207,110207,110207,239,RIKER,Do it.,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110208,110208,110208,110208,240,RIKER,O'Brien! Lock onto Ishara and get her out of here!,31   INT. CHAMBER - ESCAPE POD - ON GEORDI,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110209,110209,110209,110209,241,O'BRIEN,There's a transformer substation directly above the chamber she just entered. It's masking her signal.,33   INT. TRANSPORTER,TRANSPORTER,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110210,110210,110210,110210,242,RIKER,Standby! Stay here and cover La Forge.,34   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110211,110211,110211,110211,243,WORF,Commander --,34   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110212,110212,110212,110212,244,RIKER,That's an order. Return to the ship when you're finished here. I'll signal for transport as soon as I can.,34   INT. CHAMBER - ESCAPE POD,CHAMBE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110213,110213,110213,110213,245,RIKER,Energize!,35   INT. ADJOINING CORRIDOR (OPTICAL),ADJOINING CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110214,110214,110214,110214,246,PICARD,Come.,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110215,110215,110215,110215,247,PICARD,How is she?,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110216,110216,110216,110216,248,RIKER,"A couple of cracked ribs, but she'll be all right.",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110217,110217,110217,110217,249,PICARD,Doctor Crusher just called me with the results of her DNA comparison. Ishara is Tasha's sister.,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110218,110218,110218,110218,250,RIKER,"After what she did for us down there, I wouldn't doubt that for a minute.",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110219,110219,110219,110219,251,PICARD,"You took some unnecessary personal risks, Number One.",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110220,110220,110220,110220,252,RIKER,"We lost Tasha on an away mission, under my command. The thought of the same thing happening to her sister...",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110221,110221,110221,110221,253,PICARD,"That's an emotional response, Will. We can't afford that.",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110222,110222,110222,110222,254,RIKER,"Understood, Captain.",39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110223,110223,110223,110223,255,PICARD,Commander...,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110224,110224,110224,110224,256,PICARD,Well done.,39   INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110225,110225,110225,110225,257,BEVERLY,I've fused the bone tissue along both fractures.,39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110226,110226,110226,110226,258,BEVERLY,The muscles around the area will be weak for a day or so -- but you shouldn't feel any pain.,39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110227,110227,110227,110227,259,PICARD,I wanted to thank you personally for what you did for us down at the colony. It was... more than I expected.,39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110228,110228,110228,110228,260,ISHARA,"I don't run away when things get tough, like some people do... like my sister did...",39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110229,110229,110229,110229,261,PICARD,"Let me tell you about your sister. The first time I met Tasha Yar, she was making her way through a Carnelian mine field to reach a wounded colonist.",39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110230,110230,110230,110230,262,PICARD,"Her ship had responded to their distress call, as had mine. When it was all over, I requested that Tasha be assigned to the Enterprise. Her ship's captain owed me a favor.",39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110231,110231,110231,110231,263,PICARD,"In the months that followed, Tasha never once failed to put the safety of the crew before her own. She died doing the same.",39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110232,110232,110232,110232,264,PICARD,I'm sorry you never knew the woman Tasha became. I think you might have been proud of her.,39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110233,110233,110233,110233,265,PICARD ,And she of you.,39A  INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110234,110234,110234,110234,266,DATA,What is this structure?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110235,110235,110235,110235,267,ISHARA,A main fusion source -- there's one next to each of the Alliance headquarters. It powers all their defensive systems.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110236,110236,110236,110236,268,ISHARA,This chamber is accessed from the level below. Entry points are evenly spaced along this wall every twenty-five meters.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110237,110237,110237,110237,269,ISHARA,Data... Where was Tasha's post?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110238,110238,110238,110238,270,DATA,The Tactical Station -- where Lieutenant Worf is now.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110239,110239,110239,110239,271,ISHARA,Did Tasha have many friends here?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110240,110240,110240,110240,272,DATA,Yes. She was especially close to Commander Riker and Lieutenant Worf. And to myself.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110241,110241,110241,110241,273,ISHARA,Are you able to have friends?,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110242,110242,110242,110242,274,DATA,Yes.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110243,110243,110243,110243,275,ISHARA,"But you don't have feelings, do you?",40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110244,110244,110244,110244,276,DATA,"Not as such. However, perhaps even among humans, friendship is sometimes less an emotional response, and more a sense of familiarity.",40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110245,110245,110245,110245,277,ISHARA,You can become used to someone.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110246,110246,110246,110246,278,DATA,"Exactly. As I experience certain sensory input patterns, my mental pathways become accustomed to them. The inputs eventually are anticipated. And even ""missed"" when absent. When something once expected is no longer there.",40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110247,110247,110247,110247,279,ISHARA,Like my sister.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110248,110248,110248,110248,280,DATA,Yes. Like your sister.,40   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110249,110249,110249,110249,281,GEORDI,They've been moved so far underground that it took awhile to pinpoint their signatures.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110250,110250,110250,110250,282,GEORDI,The men are here. Next to one of the Alliance headquarters.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110251,110251,110251,110251,283,GEORDI ,And that's about two kilometers of solid granite above them.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110252,110252,110252,110252,284,RIKER,So much for the transporter.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110253,110253,110253,110253,285,GEORDI,Not necessarily. We could use the ship's phasers to cut a shaft through the bedrock to this storage tunnel here.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110254,110254,110254,110254,286,GEORDI ,"With a clear path through the rock, we'd be able to transport down to the tunnel. That would put us close enough to get to the crewmen.",45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110255,110255,110255,110255,287,GEORDI,It would take me a few hours to adjust the phasers for drilling.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110256,110256,110256,110256,288,RIKER,It's a maze around there...,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110257,110257,110257,110257,289,ISHARA,I spent a lot of time in that section before they took it over. There are blind tunnels and dead ends that don't even show up on this map.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110258,110258,110258,110258,290,WORF,We don't have much choice.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110259,110259,110259,110259,291,ISHARA,"If it wasn't for my implant setting off all the alarms, I could guide you to your men.",45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110260,110260,110260,110260,292,DATA,We could remove the implant.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110261,110261,110261,110261,293,ISHARA,"It has a micro-explosive inside that detonates on contact with air. When you join a cadre, you join for life.",45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110262,110262,110262,110262,294,DATA,A small force field containing xenon or another inert gas could be placed over the incision site. The explosive could thereby be safely disarmed at the same time it is removed.,45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110263,110263,110263,110263,295,RIKER,"It's more than just a tactical device to you, isn't it? It's part of your identity.",45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110264,110264,110264,110264,296,RIKER,"This is something you'll have to decide for yourself, Ishara. Think about it while we're waiting for Geordi.",45   INT. ENGINEERING,ENGINEERING,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110265,110265,110265,110265,297,ISHARA,"Our parents were killed in some crossfire just after I was born. Some people took care of us for a few months... Then one day we came home and they were gone. So Tasha took care of me. And when I got old enough, I joined the Coalition.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110266,110266,110266,110266,298,DATA,And Tasha did not?,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110267,110267,110267,110267,299,ISHARA,My sister hated the cadres. Blamed them for our parents death. For everything. She refused to join. And she left as soon as she had the chance.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110268,110268,110268,110268,300,ISHARA,I always thought she was weak for doing that...,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110269,110269,110269,110269,301,ISHARA,But maybe I was wrong. Maybe she made the right choice.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110270,110270,110270,110270,302,ISHARA,To work together for something besides killing... to be close to someone without having to protect your back.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110271,110271,110271,110271,303,DATA,You find that appealing?,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110272,110272,110272,110272,304,ISHARA,"Very appealing. You're a perfect example. I hardly even know you Data, but already I completely trust you. I even consider you my friend.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110273,110273,110273,110273,305,DATA,"Thank you. I would like to consider you my friend, Ishara.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110274,110274,110274,110274,306,ISHARA,"If I had known about this place fifteen years ago, things might've been different.",50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110275,110275,110275,110275,307,ISHARA,Maybe it's not too late.,50   INT. TEN-FORWARD,TEN-FORWARD,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110276,110276,110276,110276,308,DATA,Ishara is willing to have the implant removed.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110277,110277,110277,110277,309,PICARD,Very good. You may inform Doctor Crusher.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110278,110278,110278,110278,310,DATA,She also expressed a desire to leave the colony. She hopes to apply to the Academy and eventually join Starfleet.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110279,110279,110279,110279,311,PICARD,Does she understand the magnitude of these decisions?,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110280,110280,110280,110280,312,DATA,"She claims to, Captain.",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110281,110281,110281,110281,313,PICARD,Her courage certainly speaks in her favor. But Ishara's personal history concerns me.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110282,110282,110282,110282,314,DATA,"Did her sister not come from the very same environment, Sir?",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110283,110283,110283,110283,315,PICARD,Tasha never joined one of these gangs. Doesn't that suggest a fundamental difference between the two of them?,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110284,110284,110284,110284,316,DATA,"I do not know. But I do know that often for humans, decisions made in youth only hold true for youth.",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110285,110285,110285,110285,317,TROI,"I get a sense of ambiguity from her. Her loyalties are clearly divided, Captain, no matter what she may say.",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110286,110286,110286,110286,318,PICARD,"Are you suggesting we deny her an escape from this environment, Counselor?",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110287,110287,110287,110287,319,TROI,No... I'm just not convinced she really wants to escape. It is the only way of life she's ever known.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110288,110288,110288,110288,320,PICARD,"Ultimately, it is her decision to make, not ours... Certainly nothing would please me more than to see another officer named Yar in the service of Starfleet... Mister Data, proceed with the rescue as discussed...",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110289,110289,110289,110289,321,TROI,Data?,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110290,110290,110290,110290,322,DATA,"Yes, Counselor?",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110291,110291,110291,110291,323,TROI,You seem so strong in your support. I'm curious...,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110292,110292,110292,110292,324,DATA,"We must free the crewmen. She appears to be our best hope of doing so. Also, individuals worthy of Starfleet training are somewhat rare.",51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110293,110293,110293,110293,325,DATA,In addition...,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110294,110294,110294,110294,326,DATA,I have become used to her.,51   INT. READY ROOM,READY ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110295,110295,110295,110295,327,ISHARA,"Thank you, Data.",52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110296,110296,110296,110296,328,DATA,You are welcome. Doctor Crusher is expecting you in Sickbay.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110297,110297,110297,110297,329,ISHARA,It's all so different...,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110298,110298,110298,110298,330,DATA,To what are you referring?,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110299,110299,110299,110299,331,ISHARA,"On the colony, nobody does anything for anyone else unless they have something to gain from it.",52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110300,110300,110300,110300,332,DATA,But I do have something to gain. Your continued presence on this ship.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110301,110301,110301,110301,333,DATA,Is something wrong?,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110302,110302,110302,110302,334,ISHARA,I have to tell Hayne and the others. I owe it to them. Guess I ought to get it over with.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110303,110303,110303,110303,335,DATA,"If you desire privacy, you may use the observation lounge.",52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110304,110304,110304,110304,336,ISHARA,That would probably make things a little easier.,52   INT. BRIDGE - SCIENCE STATION,BRIDG,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110305,110305,110305,110305,337,HAYNE,Report?,53   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110306,110306,110306,110306,338,ISHARA,It's working.,53   INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110307,110307,110307,110307,339,PICARD ,"Captain's log, stardate 44225.3. Doctor Crusher has removed Ishara's magnetic implant, enabling the young woman to guide our rescue attempt.",54   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110308,110308,110308,110308,340,PICARD ,"Without my intending it, she has virtually become an active member of the crew.",55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110309,110309,110309,110309,341,BEVERLY,"Cardiovascular functions normal. Metabolism, immunity, all other vital signs excellent. How do you feel?",55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110310,110310,110310,110310,342,ISHARA,Better than I've ever felt.,55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110311,110311,110311,110311,343,ISHARA,Thanks for staying with me.,55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110312,110312,110312,110312,344,BEVERLY,You might want this... It was a part of your life for a long time.,55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110313,110313,110313,110313,345,ISHARA,"You keep it, Data. So you won't forget me.",55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110314,110314,110314,110314,346,DATA,Have you reconsidered your decision to stay with us?,55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110315,110315,110315,110315,347,ISHARA,Just in case something goes wrong down there...,55   INT. SICKBAY,SICKBAY,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110316,110316,110316,110316,348,WORF,I understand you wish to join Starfleet.,57   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110317,110317,110317,110317,349,ISHARA,Someday... If I'm lucky.,57   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110318,110318,110318,110318,350,WORF,"On that day, it is we who will be ""lucky.""",57   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110319,110319,110319,110319,351,PICARD,Picard to Riker. Is your away team ready?,57A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110320,110320,110320,110320,352,RIKER,"Waiting for your signal, Captain.",57A  INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110321,110321,110321,110321,353,PICARD,"Status, Mister La Forge.",58   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110322,110322,110322,110322,354,GEORDI,Phasers in alignment and ready to fire.,58   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110323,110323,110323,110323,355,PICARD,How far must we penetrate to safely allow transporter function?,58   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110324,110324,110324,110324,356,GEORDI,One point six kilometers.,58   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110325,110325,110325,110325,357,PICARD,Fire phasers.,58   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110326,110326,110326,110326,358,GEORDI,"Aye, Sir.",58   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110327,110327,110327,110327,359,GEORDI,"One point three kilometers. One point four. One point five. One point six. Deep enough for transport, Sir.",63   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110328,110328,110328,110328,360,PICARD,Cease fire.,63   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110329,110329,110329,110329,361,PICARD,"Picard to O'Brien, Energize.",63   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110330,110330,110330,110330,362,ISHARA,This way.,66   INT. TURKANA FOUR - ISOLATED TUNNEL (OPTICAL),TURKANA FOUR - ISOLATED TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110331,110331,110331,110331,363,WORF,Caution is indicated.,66   INT. TURKANA FOUR - ISOLATED TUNNEL (OPTICAL),TURKANA FOUR - ISOLATED TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110332,110332,110332,110332,364,ISHARA,We're near the heart of the Alliance. Security is minimal here. They aren't expecting anybody this far in.,66   INT. TURKANA FOUR - ISOLATED TUNNEL (OPTICAL),TURKANA FOUR - ISOLATED TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110333,110333,110333,110333,365,RIKER,Ishara?,67   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110334,110334,110334,110334,366,ISHARA,Follow me.,67   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110335,110335,110335,110335,367,WORF,Are you certain?,67   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110336,110336,110336,110336,368,ISHARA,"No, I'm not.",67   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110337,110337,110337,110337,369,ISHARA,I was here. But it was a long time ago. I'm trying to remember... there have been changes...,67   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110338,110338,110338,110338,370,ISHARA,It's through here.,67   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110339,110339,110339,110339,371,ISHARA,Your men are behind that door.,67   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110340,110340,110340,110340,372,RIKER,Hold out your hands.,69   INT. CHAMBER (OPTICAL),CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110341,110341,110341,110341,373,RIKER,Let's get moving.,71   INT. CHAMBER,CHAMBER,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110342,110342,110342,110342,374,RIKER,Where is she?,72   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110343,110343,110343,110343,375,WORF,"Commander, look.",72   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110344,110344,110344,110344,376,RIKER,What the hell happened here?,72   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110345,110345,110345,110345,377,WORF,She probably tried to draw their fire. It triggered the alarm.,72   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110346,110346,110346,110346,378,RIKER,"Worf, get these men back to the Enterprise. Data, you're with me. She can't be far.",72   INT. TUNNEL,TUNNEL,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110347,110347,110347,110347,379,DATA ,Ishara.,73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110348,110348,110348,110348,380,DATA,What are you doing?,73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110349,110349,110349,110349,381,DATA,The fusion generator is overloading. You are attempting to disable the defense system. For what reason? We have rescued the crewmen.,73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110350,110350,110350,110350,382,ISHARA,"I don't care about your crewmen. We have three thousand troops waiting at the perimeter. When the defenses go down, they'll come in. The Alliance will fall.",73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110351,110351,110351,110351,383,DATA,The Federation will be responsible for the resulting deaths. I cannot allow that.,73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110352,110352,110352,110352,384,ISHARA,You don't have a choice.,73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110353,110353,110353,110353,385,DATA,That is not true.,73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110354,110354,110354,110354,386,ISHARA,"I don't want to kill you, Data.",73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110355,110355,110355,110355,387,ISHARA,But I will.,73   INT. TUNNEL OUTSIDE POWER GENERATOR (OPTICAL),TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110356,110356,110356,110356,388,DATA,We will both be destroyed in the explosion.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110357,110357,110357,110357,389,ISHARA,The Coalition's been all I've had for fifteen years. They've given me a life. I don't mind dying for them. But you won't have to if you get out of here right now.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110358,110358,110358,110358,390,DATA,Was this your intention from the beginning?,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110359,110359,110359,110359,391,ISHARA,We never could have gotten this deep into Alliance territory without your help.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110360,110360,110360,110360,392,DATA,Our help was not deliberate. You deceived us.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110361,110361,110361,110361,393,ISHARA,What's the difference? You got what you came for. Why should you care about what we do?,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110362,110362,110362,110362,394,DATA,"Your friendship with me was part of the deception, was it not?",75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110363,110363,110363,110363,395,DATA,You misled me at each step. And yet I was completely unaware.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110364,110364,110364,110364,396,ISHARA,"That doesn't matter now! None of it does! Get out of here, Data. Please.",75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110365,110365,110365,110365,397,ISHARA,Now.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110366,110366,110366,110366,398,DATA,My duty requires me to intercede.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110367,110367,110367,110367,399,ISHARA,Stop...,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110368,110368,110368,110368,400,RIKER ,Ishara!,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110369,110369,110369,110369,401,RIKER,What was she doing?,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110370,110370,110370,110370,402,DATA,Disabling the detection system so her forces could attack.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110371,110371,110371,110371,403,RIKER,Set to kill.,75   INT. TUNNEL OUTSIDE POWER GENERATOR,TUNNEL OUTSIDE POWER GENERATOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110372,110372,110372,110372,404,WORF,The Captain wants to see you on the bridge.,76B  INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110373,110373,110373,110373,405,ISHARA,What's going to happen to me?,76B  INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110374,110374,110374,110374,406,WORF,"That is Captain Picard's decision. If the captain were Klingon, you would be executed.",76B  INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110375,110375,110375,110375,407,ISHARA,"Sometimes a warrior must use deception in the service of her cause. If anyone on this ship should know that, it's you.",76B  INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110376,110376,110376,110376,408,WORF,Such a warrior must also be prepared to suffer the consequences.,76B  INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110377,110377,110377,110377,409,PICARD,Your strategy failed.,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110378,110378,110378,110378,410,HAYNE,"It was a calculated risk. You gave us an opportunity we couldn't ignore. Are you hurt, Ishara?",77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110379,110379,110379,110379,411,ISHARA,No.,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110380,110380,110380,110380,412,HAYNE,I want her returned immediately.,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110381,110381,110381,110381,413,RIKER,You're not in a position to dictate to anybody. She attacked two Federation officers.,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110382,110382,110382,110382,414,HAYNE,You have no jurisdiction here!,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110383,110383,110383,110383,415,RIKER,Don't talk about legal rights. Your jurisdiction is based entirely on the threat of violence.,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110384,110384,110384,110384,416,HAYNE,You have your crewmen back. Isn't that enough?,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110385,110385,110385,110385,417,PICARD,"Commander Data, escort Ishara to the transporter toom.",77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110386,110386,110386,110386,418,HAYNE,"Thank you, Captain.",77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110387,110387,110387,110387,419,PICARD,Close the channel.,77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110388,110388,110388,110388,420,RIKER,"You're far more charitable than I would have been, Captain.",77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110389,110389,110389,110389,421,PICARD,"I understand your feelings, Number One. I share them. But perhaps the fault lies in ourselves. We were so eager to embrace her. Each of us, myself included, wanted to see something of Tasha in her sister. We saw more than what was there.",77   INT. BRIDGE,BRIDGE,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110390,110390,110390,110390,422,ISHARA,You haven't said one word to me.,79   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110391,110391,110391,110391,423,DATA,What do you wish to talk about?,79   INT. CORRIDOR,CORRIDOR,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110392,110392,110392,110392,424,ISHARA,I did what I had to. I'm sorry if I hurt you in the process.,80   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110393,110393,110393,110393,425,DATA,I am an android. It is not possible for me to be injured in that fashion.,80   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110394,110394,110394,110394,426,O'BRIEN,Whenever you're ready.,80   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110395,110395,110395,110395,427,ISHARA,"You know, I wasn't always lying to you, Data. The time we spent talking... it was the closest thing to friendship I've ever had. If that means anything to you.",80   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110396,110396,110396,110396,428,DATA,Energize.,80   INT. TRANSPORTER ROOM,TRANSPORTER ROOM,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110397,110397,110397,110397,429,RIKER,Come in.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110398,110398,110398,110398,430,RIKER,"Data. Come in, come in.",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110399,110399,110399,110399,431,DATA,Commander.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110400,110400,110400,110400,432,RIKER,What's on your mind?,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110401,110401,110401,110401,433,DATA,"Recent events have left me puzzled, Sir. It has been days since Ishara left. And yet, my thoughts seem to dwell on her. Almost as if I were experiencing a feedback loop in my mnemonic network.",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110402,110402,110402,110402,434,RIKER,I know what you mean.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110403,110403,110403,110403,435,DATA,It is curious that I was so easily misled.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110404,110404,110404,110404,436,RIKER,"Make that ""we.""",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110405,110405,110405,110405,437,DATA,Yes sir.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110406,110406,110406,110406,438,RIKER,"Data, in every trust is the possibility of betrayal. I don't think you were prepared for that.",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110407,110407,110407,110407,439,DATA,Were you prepared?,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110408,110408,110408,110408,440,RIKER,I'm not sure anybody ever is.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110409,110409,110409,110409,441,DATA,Then is it better not to trust?,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110410,110410,110410,110410,442,RIKER,"Without trust, there can be no friendship, no closeness. None of the emotional bonds that make us what we are.",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110411,110411,110411,110411,443,DATA,And yet you put yourself at risk.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110412,110412,110412,110412,444,RIKER,Every single time. Love itself is a leap of faith.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110413,110413,110413,110413,445,DATA,"So, a prerequisite for love is accepting the risk of betrayal.",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110414,110414,110414,110414,446,RIKER,"That's an interesting point of view, Data. Maybe you're right.",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110415,110415,110415,110415,447,RIKER,"The emotions we experience when someone we believe in turns away -- they're the most painful a person can feel. We believed in her, Data...",84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110416,110416,110416,110416,448,DATA,Yes. Perhaps I am fortunate to be spared the emotional consequences.,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110417,110417,110417,110417,449,RIKER,Perhaps...,84   INT. RIKER'S QUARTERS,RIKER'S QUARTERS,INT.,Legacy,1990-08-20,The Next Generation,180.txt,0.0
+110418,110418,110418,110418,0,PICARD ,"Captain's Log, stardate 44741.9. We have arrived at Tagus Three where the Enterprise is to serve as host of the Federation Archeology Council's annual symposium.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110419,110419,110419,110419,1,PICARD ,I look forward to giving tomorrow's keynote address with great anticipation.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110420,110420,110420,110420,2,PICARD,Come.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110421,110421,110421,110421,3,TROI,"I thought you'd want to know, Captain, the Council members have all been beamed aboard and assigned quarters.",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110422,110422,110422,110422,4,PICARD,Excellent.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110423,110423,110423,110423,5,TROI,"It really is quite late, Captain.",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110424,110424,110424,110424,6,PICARD,"Tell me, Counselor, in regard to my lecture, which do you suppose would provide greater clarity? A chronological structure, or a division of each excavation's findings into various sociological, religious, and environmental sub-groupings?",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110425,110425,110425,110425,7,TROI,I thought you had already decided on a chronological structure.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110426,110426,110426,110426,8,PICARD,"(nodding; but not quite convinced) Still, there is something to be said for a more scientific approach.",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110427,110427,110427,110427,9,TROI,"Captain, may I make a suggestion?",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110428,110428,110428,110428,10,PICARD,By all means.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110429,110429,110429,110429,11,TROI,Relax! You've written a brilliant speech.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110430,110430,110430,110430,12,PICARD,"It needs to be. Tomorrow I'll be addressing some of the greatest scientific minds in the Federation. Switzer, Klarc-Tarn-Droth, McFarland. Giants in the field of Archeology. Next to them I'm nothing but an enthusiastic amateur.",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110431,110431,110431,110431,13,TROI,I doubt they think of you as an amateur... not when it comes to the ruins of Tagus Three.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110432,110432,110432,110432,14,PICARD,"Well, I have done my homework... I've examined the findings of every archaeological expedition conducted on the planet's surface...",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110433,110433,110433,110433,15,TROI,It's unfortunate the Taguans no longer allow outsiders to visit the ruins.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110434,110434,110434,110434,16,PICARD,Indeed. Especially since we still know so little about their origin...,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110435,110435,110435,110435,17,PICARD,"Hopefully, I've been able to construct some intriguing theories of my own.",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110436,110436,110436,110436,18,TROI,I'm sure the council members will agree that you have.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110437,110437,110437,110437,19,PICARD,"Your support is appreciated, Deanna.",2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110438,110438,110438,110438,20,PICARD,Screen off.,2    INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110439,110439,110439,110439,21,VASH ,Bring back any memories?,3    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110440,110440,110440,110440,22,PICARD,Vash? How did you get in here?,3    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110441,110441,110441,110441,23,VASH,I came in through the window.,3    INT. PICARD'S QUARTERS,PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110442,110442,110442,110442,24,PICARD,I had no idea you were a member of the Archaeology Council.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,-0.296
+110443,110443,110443,110443,25,PICARD,You are a member? Aren't you.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110444,110444,110444,110444,26,VASH,More or less.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110445,110445,110445,110445,27,PICARD,Why have you come to Tagus Three?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110446,110446,110446,110446,28,VASH,"To see you, of course.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110447,110447,110447,110447,29,PICARD,Is that the only reason?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110448,110448,110448,110448,30,VASH,Isn't it enough?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110449,110449,110449,110449,31,PICARD,I wish I could believe you?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110450,110450,110450,110450,32,VASH,"I'd be disappointed if you did. I really have missed you, Jean-Luc.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110451,110451,110451,110451,33,PICARD,Come.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110452,110452,110452,110452,34,BEVERLY,"I'm sorry I'm late... Oh, excuse me. I didn't know you had company.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110453,110453,110453,110453,35,PICARD,"That's quite all right, Doctor. Beverly Crusher allow me to introduce Vash. A friend of mine with the Archeology Council.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110454,110454,110454,110454,36,BEVERLY,I didn't mean to interrupt. The Captain and I often share morning tea.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110455,110455,110455,110455,37,VASH,"Yes, Jean-Luc has told me all about you.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110456,110456,110456,110456,38,BEVERLY,Really? When was that?,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110457,110457,110457,110457,39,VASH,On Risa. Where we met.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110458,110458,110458,110458,40,BEVERLY,I see. That must have been during your vacation last year.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110459,110459,110459,110459,41,PICARD,So it was.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110460,110460,110460,110460,42,BEVERLY,I'm surprised he never mentioned you.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110461,110461,110461,110461,43,VASH,So am I.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110462,110462,110462,110462,44,VASH,"Are you busy, Doctor?",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110463,110463,110463,110463,45,BEVERLY,Not at the moment.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110464,110464,110464,110464,46,VASH,"I was wondering, I would love to see some more of this marvelous ship...",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110465,110465,110465,110465,47,BEVERLY,"I'd be delighted to show it to you. If that's alright with you, Jean-Luc.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110466,110466,110466,110466,48,PICARD,Of course.,4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110467,110467,110467,110467,49,VASH,"Don't worry, I promise to behave myself.",4    INT. PICARD'S QUARTERS - MORNING,PICARD'S QUARTER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110468,110468,110468,110468,50,BEVERLY,"And this is Ten Forward, where the Council's welcoming reception is to be held this afternoon.",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110469,110469,110469,110469,51,VASH,"I couldn't think of a better location. Tell me, does Jean-Luc come here often?",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110470,110470,110470,110470,52,BEVERLY,"No, not often.",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110471,110471,110471,110471,53,VASH,I didn't think so.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110472,110472,110472,110472,54,BEVERLY,The Captain is a very private man.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110473,110473,110473,110473,55,VASH,He certainly acted that way when we first met. But I managed to loosen him up.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110474,110474,110474,110474,56,BEVERLY,Would you like something to drink?,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110475,110475,110475,110475,57,VASH,Please.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110476,110476,110476,110476,58,RIKER,Eternity never looked so lovely.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110477,110477,110477,110477,59,VASH,Excuse me?,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110478,110478,110478,110478,60,RIKER,I was referring to the view. Eternity never looked so lovely.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110479,110479,110479,110479,61,VASH,You must be Commander Riker.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110480,110480,110480,110480,62,RIKER,I'm afraid you have me at a disadvantage.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110481,110481,110481,110481,63,VASH,I didn't mean to interrupt. I believe you were about to tell me that my eyes are as mysterious as the stars.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110482,110482,110482,110482,64,RIKER,(thinks he's figured it out) You're a Betazoid.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110483,110483,110483,110483,65,VASH,Not at all. It's just that Jean-Luc does quite a good imitation of you.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110484,110484,110484,110484,66,RIKER,He does?,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110485,110485,110485,110485,67,BEVERLY,I see you two have met.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110486,110486,110486,110486,68,RIKER,Not exactly.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110487,110487,110487,110487,69,BEVERLY,Vash is a member of the Archeology Council. And a friend of the Captain.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110488,110488,110488,110488,70,RIKER,So I've gathered.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110489,110489,110489,110489,71,BEVERLY,They met during his visit to Risa.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110490,110490,110490,110490,72,RIKER,On Risa? That must have been a better vacation than he let on.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.4404
+110491,110491,110491,110491,73,VASH,You mean he never mentioned me to you either?,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110492,110492,110492,110492,74,RIKER,"Believe me, if he had, I would have remembered.",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110493,110493,110493,110493,75,VASH,You'd think he'd have told someone about me.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110494,110494,110494,110494,76,COMPUTER,"Doctor Crusher, please report to Sickbay.",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110495,110495,110495,110495,77,BEVERLY,On my way. I'm afraid I won't be able to finish up our tour. Perhaps Commander Riker could fill in for me.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110496,110496,110496,110496,78,RIKER,It would be my pleasure.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110497,110497,110497,110497,79,VASH,So you're the one who asked Jean-Luc to buy the Horga'han.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110498,110498,110498,110498,80,RIKER,That was me.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110499,110499,110499,110499,81,VASH,"Tell me Commander, do you collect sexual fertility symbols?",5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110500,110500,110500,110500,82,RIKER,I wouldn't call it a very large collection.,5    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110501,110501,110501,110501,83,RIKER,"And that brings us to the Main Bridge, the Command center of the Enterprise, and the end of our tour.",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110502,110502,110502,110502,84,RIKER,"Vash, I'd like you to meet Commander La Forge and Commander Data...",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110503,110503,110503,110503,85,RIKER,"And this is Lieutenant Worf. Something wrong, Lieutenant?",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110504,110504,110504,110504,86,WORF,"Sir, I was not informed that Council Members had been granted bridge clearance.",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110505,110505,110505,110505,87,RIKER,"I think we can make an exception in this case, Mister Worf. Vash is the Captain's guest.",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110506,110506,110506,110506,88,WORF,Welcome aboard.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110507,110507,110507,110507,89,VASH,Is this where Jean-Luc sits?,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110508,110508,110508,110508,90,RIKER,That's the big chair.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110509,110509,110509,110509,91,VASH,I can see where being a starship Captain does have its rewards.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110510,110510,110510,110510,92,PICARD ,I'm glad you approve.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110511,110511,110511,110511,93,VASH,Jean-Luc. Commander Riker was just showing me the bridge.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110512,110512,110512,110512,94,RIKER,Doctor Crusher was called to Sickbay.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110513,110513,110513,110513,95,PICARD,"So, did you enjoy your tour?",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110514,110514,110514,110514,96,VASH,Very much.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110515,110515,110515,110515,97,PICARD,Good.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110516,110516,110516,110516,98,VASH,I guess I'll head back to my room now and get ready for the reception.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110517,110517,110517,110517,99,PICARD,"By all means. Well, I suppose I'll see you then.",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110518,110518,110518,110518,100,VASH,I look forward to it.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110519,110519,110519,110519,101,RIKER,Fascinating woman.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110520,110520,110520,110520,102,DATA,"You find something humorous, Geordi?",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110521,110521,110521,110521,103,GEORDI,Didn't you notice how ill-at-ease the Captain seemed around Vash?,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110522,110522,110522,110522,104,DATA,Yes. However I see nothing amusing in his hostility toward her.,6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110523,110523,110523,110523,105,GEORDI,"That wasn't hostility, Data. He likes her. A lot.",6    INT. BRIDGE,BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110524,110524,110524,110524,106,VASH,"I don't understand, I thought being ship's counselor meant the Captain confided in you.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110525,110525,110525,110525,107,TROI,He does. When he feels it's necessary.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110526,110526,110526,110526,108,VASH,And he never spoke to you about me?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110527,110527,110527,110527,109,TROI,Not that I can recall.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110528,110528,110528,110528,110,VASH,Not even a hint?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110529,110529,110529,110529,111,TROI,"You must understand, the Captain is a very...",9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110530,110530,110530,110530,112,TROI & VASH,Private man.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110531,110531,110531,110531,113,VASH,I know...,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110532,110532,110532,110532,114,VASH,Will you excuse me?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110533,110533,110533,110533,115,TROI,Certainly.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110534,110534,110534,110534,116,WORF,Nice legs. For a human.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110535,110535,110535,110535,117,PICARD,"I agree, the Vulcan excavations on Tagus Three were extensive. Unfortunately, they were confined to the northeastern part of the city.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110536,110536,110536,110536,118,VASH,"Jean-Luc, we need to talk.",9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110537,110537,110537,110537,119,PICARD,Pardon me.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110538,110538,110538,110538,120,PICARD,The reception seems to be a success.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110539,110539,110539,110539,121,VASH,Forget the reception for a moment. How come you've never mentioned me to your friends?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110540,110540,110540,110540,122,PICARD,What would you have me tell them?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110541,110541,110541,110541,123,VASH,"Maybe that we met, for one thing. That we had an adventure together. Some fun...",9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110542,110542,110542,110542,124,PICARD,I'm afraid that wasn't possible.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110543,110543,110543,110543,125,VASH,Why not?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110544,110544,110544,110544,126,PICARD,It would have been... inappropriate.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110545,110545,110545,110545,127,VASH,I wasn't expecting you to go into any intimate details.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110546,110546,110546,110546,128,PICARD,A Captain does not share his personal feelings with his crew.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110547,110547,110547,110547,129,VASH,Is that a Starfleet regulation? Or did you make that one up yourself?,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110548,110548,110548,110548,130,PICARD,I'm sorry if you're upset.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110549,110549,110549,110549,131,VASH,And I'm sorry if my being here embarrasses you.,9    INT. TEN FORWARD,TEN FORWARD,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110550,110550,110550,110550,132,RIKER,How was the reception?,13   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110551,110551,110551,110551,133,PICARD,Splendid.,13   INT. MAIN BRIDGE,MAIN BRIDGE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110552,110552,110552,110552,134,Q,Jean-Luc! How wonderful to see you again.,14   INT. READY ROOM,READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110553,110553,110553,110553,135,Q,"Well don't just stand there, say something.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110554,110554,110554,110554,136,PICARD,Get out of my chair.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110555,110555,110555,110555,137,Q,"I was hoping for something more along the lines of ""Welcome back, Q. It's a pleasure to see you again old friend.""",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110556,110556,110556,110556,138,PICARD,We are not friends.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110557,110557,110557,110557,139,Q,"You wound me, mon Capitain.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110558,110558,110558,110558,140,Q,"There, perhaps now your manners will show some improvement.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110559,110559,110559,110559,141,PICARD,"What brings you here, Q? Have you been banished from the Continuum once again?",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110560,110560,110560,110560,142,Q,Hardly. They're still apologizing to me for the last time.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110561,110561,110561,110561,143,PICARD,Then what is it you want?,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110562,110562,110562,110562,144,Q,Must I always have a reason to stop by. I was in the sector and... Alright. You force a confession from me. The truth is I have a debt to settle.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110563,110563,110563,110563,145,PICARD,A debt?,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110564,110564,110564,110564,146,Q,"To you, Picard. And it gnaws at me. It interferes with each day.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110565,110565,110565,110565,147,PICARD,I have no idea what you're talking about...,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110566,110566,110566,110566,148,Q,"Without your assistance at our last encounter, I never would have survived. I would have taken my own life but for you, Jean-Luc.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110567,110567,110567,110567,149,PICARD,We all make mistakes.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110568,110568,110568,110568,150,Q,Your good deed made possible my reinstatement into the continuum. And I resent owing you anything... so I'm here to pay up... what shall it be... tell me and I'll be gone...,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110569,110569,110569,110569,151,PICARD,Just be gone. That will suffice nicely.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110570,110570,110570,110570,152,Q,"No, it must be something... something... ...constructive. My new word for the day.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110571,110571,110571,110571,153,PICARD,"Some other time, all right? Right now I have several things to attend to.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110572,110572,110572,110572,154,Q,"Yes, your speech. I've read it. I found it dull and pedantic. Much like yourself. I could help you with it.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110573,110573,110573,110573,155,PICARD,No.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110574,110574,110574,110574,156,Q,"You've never actually been to the ruins in Tagus Three, have you?",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110575,110575,110575,110575,157,PICARD,They've been sealed off for over a century.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110576,110576,110576,110576,158,Q,How can you write about what you haven't seen?,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110577,110577,110577,110577,159,Q,I'll take you there!,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110578,110578,110578,110578,160,PICARD,Impossible. That would mean breaking Taguan law.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110579,110579,110579,110579,161,Q,Must you always be so ethical? I suppose we could travel back in time. You could see what Tagus was like two billion years ago. They really knew how to have fun in those days.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110580,110580,110580,110580,162,PICARD,"I'm afraid my answer is still no. My lecture will have to stand on its own. Now, will you please leave my ship.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110581,110581,110581,110581,163,Q,Then you refuse my help?,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110582,110582,110582,110582,164,PICARD,Completely.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110583,110583,110583,110583,165,Q,"You're simply impossible to find a gift for, Picard.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110584,110584,110584,110584,166,PICARD,"Commander Riker, report to my Ready Room.",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110585,110585,110585,110585,167,RIKER,"Yes, Captain?",16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110586,110586,110586,110586,168,PICARD,I've just been paid a visit by Q.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110587,110587,110587,110587,169,RIKER,Q? Any idea what he's up to?,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110588,110588,110588,110588,170,PICARD,He wants to do something nice for me.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110589,110589,110589,110589,171,RIKER,I'll alert the crew.,16   INT. READY ROOM - CONTINUOUS (OPTICAL),READY ROOM - CONTINUOUS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110590,110590,110590,110590,172,VASH ,Who's there?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110591,110591,110591,110591,173,PICARD,It's me.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110592,110592,110592,110592,174,VASH ,Who?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110593,110593,110593,110593,175,PICARD,Jean-Luc.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110594,110594,110594,110594,176,VASH,Yes.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110595,110595,110595,110595,177,PICARD,May I come in?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110596,110596,110596,110596,178,VASH,What for?,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110597,110597,110597,110597,179,PICARD,To talk.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110598,110598,110598,110598,180,VASH,I'm listening.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110599,110599,110599,110599,181,PICARD,If it's all the same to you I'd rather this discussion not take place in a public corridor.,17   INT. CORRIDOR - MINUTES LATER,CORRIDO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110600,110600,110600,110600,182,VASH,"I thought these were ""private"" quarters.",19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110601,110601,110601,110601,183,PICARD,And I thought I was the only reason you came to Tagus.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110602,110602,110602,110602,184,VASH,I never fooled you for a second.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110603,110603,110603,110603,185,VASH,"Still, you are the most important reason.",19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110604,110604,110604,110604,186,PICARD,Am I?,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110605,110605,110605,110605,187,VASH,That's the trouble with being such a well known liar. Even when I tell the truth no one believes me.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110606,110606,110606,110606,188,PICARD,I'm afraid all this equipment will have to be confiscated.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110607,110607,110607,110607,189,VASH,Is that necessary?,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110608,110608,110608,110608,190,PICARD,I could have you placed in the brig.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110609,110609,110609,110609,191,VASH,Why don't you?,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110610,110610,110610,110610,192,PICARD,If the Taguans were to catch you down there...,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110611,110611,110611,110611,193,VASH,You gave me the same warning about Sarathong Five.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110612,110612,110612,110612,194,PICARD,I remember.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110613,110613,110613,110613,195,VASH,"Well, it didn't stop me from going there. I brought back some very impressive artifacts, too.",19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110614,110614,110614,110614,196,PICARD,Which you no doubt sold for a nice profit.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110615,110615,110615,110615,197,VASH,It's what I do!,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110616,110616,110616,110616,198,PICARD,Not while you're aboard my ship. I will not allow it.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110617,110617,110617,110617,199,VASH,"Let's get one thing straight, Picard. I can not change who I am for you or anyone else.",19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110618,110618,110618,110618,200,PICARD,Nor can I change who I am.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110619,110619,110619,110619,201,VASH,Then we have nothing more to say to each other.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110620,110620,110620,110620,202,PICARD,So it would seem.,19   INT. VASH'S QUARTERS,VASH'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110621,110621,110621,110621,203,GEORDI,What do you think it is?,23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110622,110622,110622,110622,204,DATA,What do I think what is?,23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110623,110623,110623,110623,205,GEORDI,"About her. That, you know, gets to the Captain.",23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110624,110624,110624,110624,206,DATA,Perhaps it is their common interest in archaeology.,23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.4588
+110625,110625,110625,110625,207,TROI,I don't think so.,23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110626,110626,110626,110626,208,DATA,"But Counselor, as an archaeologist, her company would certainly be intellectually stimulating to the Captain.",23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110627,110627,110627,110627,209,GEORDI,"She's not just stimulating his intellect, Data...",23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110628,110628,110628,110628,210,TROI,It's really none of our business.,23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110629,110629,110629,110629,211,Q,You want to know about Picard and that woman? I'll tell you...,23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110630,110630,110630,110630,212,Q,It's love.,23   INT. CORRIDOR,CORRIDOR,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110631,110631,110631,110631,213,Q,"Sleeping alone, Picard?",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110632,110632,110632,110632,214,PICARD,"I'm in no mood for your foolishness, Q.",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110633,110633,110633,110633,215,Q,"I thought there was something different about you. You seemed tense, preoccupied. Somewhat... smaller. At first I thought it was that horrible lecture of yours. But I was mistaken.",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110634,110634,110634,110634,216,PICARD,Whatever game you want to play will have to wait until tomorrow.,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110635,110635,110635,110635,217,Q,"I had such hopes for you, Jean-Luc. I thought you were a bit more evolved than the rest of your species. But now I realize you're as weak as all the others. Still, it pains me to see the great Picard brought down by a woman.",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110636,110636,110636,110636,218,PICARD,What woman?,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110637,110637,110637,110637,219,Q,Don't play coy with me Captain. I witnessed your little spat with Vash. Nor will I soon forget that look of misery on your face. The pain. The anguish. If I didn't know better I would have thought you were already married.,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110638,110638,110638,110638,220,PICARD,"You really must be bored, Q. You're letting your imagination run away with you.",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110639,110639,110639,110639,221,Q,"This human emotion of Love is a dangerous thing, Picard. You are obviously ill equipped to handle it. She's found a vulnerability in you... a vulnerability that I've wanted to find for years. If I had known this sooner, I would have arrived as a female. Mark my words, Jean-Luc, this is your Achilles heel..",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110640,110640,110640,110640,222,PICARD,Believe what you wish.,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110641,110641,110641,110641,223,Q,You deny you care for this woman?,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110642,110642,110642,110642,224,Q,"Believe me, Picard, I'd be doing you a big favor if I simply turned her into a Klabnian eel.",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110643,110643,110643,110643,225,PICARD,"Stay away from her, Q.",24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110644,110644,110644,110644,226,Q,I only want to help... my debt to you...,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110645,110645,110645,110645,227,PICARD,... is hereby nullified. I don't want your help... your advice... your favors... or for that matter -- you. Can you understand that once and for all?,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110646,110646,110646,110646,228,Q,You would have me stand idly by while she leads you to your destruction?,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110647,110647,110647,110647,229,PICARD,Yes!,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110648,110648,110648,110648,230,Q,As you wish.,24   INT. PICARD'S QUARTERS (OPTICAL),PICARD'S QUARTERS,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110649,110649,110649,110649,231,RIKER,"Knock 'em dead, Captain.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,-0.6486
+110650,110650,110650,110650,232,PICARD,"Ladies and gentlemen, members of the Archeology Council. Welcome. It is the mystery of Tagus Three that brings us together today... a mystery that has invited more argument and deduction than the best Sherlock Holmes or Dixon Hill tale. Well, if you'll excuse the conceit, you're about to hear my own detective story.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.7787
+110651,110651,110651,110651,233,PICARD ,"For several years, I have been trying to unravel the secrets of Tagus Three. Needless to say, I have not succeeded.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,-0.3252
+110652,110652,110652,110652,234,PICARD,"However, I have, I believe, turned up some new information, that if nothing else, raises a whole new set of mysteries that I hope we can discuss during our time togther.",25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110653,110653,110653,110653,235,PICARD ,There have been nine hundred and forty-seven known Archaeological excavations conducted on the planet's surface.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110654,110654,110654,110654,236,PICARD ,Out of that number some seventy-four are generally considered to have revealed findings of major importance.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110655,110655,110655,110655,237,PICARD ,The earliest took place some twenty-two thousand years ago.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110656,110656,110656,110656,238,PICARD,The last was completed within the last four hundred years.,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110657,110657,110657,110657,239,PICARD,What the hell... !,25   INT. MEETING ROOM - NEXT MORNING,MEETING ROO,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110658,110658,110658,110658,240,PICARD,Q!,27   EXT. FOREST - DAY - (OPTICAL),FOREST - DAY -,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110659,110659,110659,110659,241,TROI,Is this Tagus Three?,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110660,110660,110660,110660,242,PICARD,"I doubt there are many oak trees on Tagus. No, my guess is this is supposed to be Earth. Sometime around the twelfth century. And this is England, Sherwood Forest to be precise. Or at least Q's re-creation of it.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110661,110661,110661,110661,243,RIKER,That explains these costumes.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110662,110662,110662,110662,244,PICARD,"Exactly, Number One. Or should I say, John Little.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110663,110663,110663,110663,245,BEVERLY,"If he's Little John, that would make you...",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110664,110664,110664,110664,246,PICARD,I know. Robin Hood.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110665,110665,110665,110665,247,WORF,"Sir, I protest. I am not a merry man.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,-0.5927
+110666,110666,110666,110666,248,DATA,"On the contrary, Lieutenant Worf, your clothing identifies you with the character of Will Scarlett. Just as Geordi's Mandolin suggests he is Alan-A-Dale.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110667,110667,110667,110667,249,RIKER,"And you, Mister Data, bear a striking resemblance to one Friar Tuck.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110668,110668,110668,110668,250,WORF,I will not play the fool for Q's amusement.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110669,110669,110669,110669,251,PICARD,"You're quite right, Worf. Do you hear that Q? You may as well return us to our ship immediately.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110670,110670,110670,110670,252,SIR GUY,"I have you at last, Robin Hood.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110671,110671,110671,110671,253,PICARD,Quick. Into the forest.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110672,110672,110672,110672,254,PICARD,Mister Worf. That's an order.,28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110673,110673,110673,110673,255,SIR GUY,"Enough, you fools. We'll never find them in the greenwood.",28   EXT. FOREST - DAY,FORES,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110674,110674,110674,110674,256,BEVERLY,(applying a makeshift bandage) I've managed to stop the bleeding.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110675,110675,110675,110675,257,PICARD,"It's about time you showed up, Q.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110676,110676,110676,110676,258,Q,I'd prefer it if you addressed me as His Honor the High Sheriff of Nottingham.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110677,110677,110677,110677,259,PICARD,We will not share in this pointless fantasy of yours.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110678,110678,110678,110678,260,Q,"Fine. Wait here and do nothing. By mid-day tomorrow, you'll all be safely back aboard your ship. But you will have to accept the consequences of your inaction.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110679,110679,110679,110679,261,PICARD,What consequences?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110680,110680,110680,110680,262,Q,What's the one thing Robin Hood is famous for?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110681,110681,110681,110681,263,GEORDI,Robbing from the rich to give to the poor?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110682,110682,110682,110682,264,Q,Besides that.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110683,110683,110683,110683,265,DATA,Are you referring to his rescue of Maid Marian from Nottingham Castle?,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110684,110684,110684,110684,266,Q,"Right you are, Data.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110685,110685,110685,110685,267,Q,And it just so happens that Sir Guy of Gisbourne has decreed that Marian's head comes off tomorrow at noon.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110686,110686,110686,110686,268,PICARD,Vash.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110687,110687,110687,110687,269,Q,"The choice is yours my dear, Robin. You can either take your ease here within the sylvan glade or risk your life to save a woman you care nothing about.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110688,110688,110688,110688,270,PICARD,"My feelings toward Vash are irrelevant. I'd attempt to save any innocent life, as you well know.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110689,110689,110689,110689,271,Q,But what of your merry men? Are you willing to put them in jeopardy as well? Is Vash's life worth losing hers or his or even his... ? Though I admit he would make a perfect throw rug at Nottingham Castle.,32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110690,110690,110690,110690,272,PICARD,"Q, I ask you to end this now, before anyone else gets hurt.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110691,110691,110691,110691,273,Q,"Impossible. You see, I've given this fantasy as you call it, a life of its own. I don't know how things will turn out anymore than you do. But of one thing I am certain. If you dare set foot in Nottingham Castle, blood will be spilled.",32   INT. FOREST - A GLADE - DAY,FORES,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110692,110692,110692,110692,274,SERVANT,"You'll wear yourself out with all that pacing, M'lady.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110693,110693,110693,110693,275,VASH,I told you to stop calling me that. My name's Vash.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110694,110694,110694,110694,276,SERVANT,"My poor lamb, it's a brain sickness you've got for sure. Can't I get you something to ease your suffering?",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110695,110695,110695,110695,277,VASH,I could use a drink.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110696,110696,110696,110696,278,SERVANT,It wasn't spirits I was thinking of M'lady.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110697,110697,110697,110697,279,SERVANT,I have here some nice fresh leeches to drain the fever.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110698,110698,110698,110698,280,VASH,Out. Get out.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110699,110699,110699,110699,281,SERVANT,"Oh, her mind's in an awful turmoil, Sir Guy.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110700,110700,110700,110700,282,VASH,Who the hell are you?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110701,110701,110701,110701,283,SERVANT,"M'Lady, everyone in Nottingham knows, Sir Guy of Gisbourne.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110702,110702,110702,110702,284,VASH,Sir Guy of what?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110703,110703,110703,110703,285,SIR GUY,"Do not mock me, Lady Marian. I'm prepared to offer you one final chance to change your mind.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110704,110704,110704,110704,286,SIR GUY,Will you marry me?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110705,110705,110705,110705,287,SIR GUY,I see. Then the execution will proceed as scheduled.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110706,110706,110706,110706,288,VASH,What execution?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110707,110707,110707,110707,289,SIR GUY,"I warn you Marian, this pathetic attempt at feigning madness will not save your life.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110708,110708,110708,110708,290,VASH,You mean I'm the one getting executed?,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110709,110709,110709,110709,291,VASH,"Sir Guy, wait? Can't we talk this over? I admit, I haven't been myself lately. (flashing her best smile) Perhaps we've both been acting a bit hasty.",35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110710,110710,110710,110710,292,VASH,Please.,35   INT. MAID MARIAN'S CHAMBERS - DAY,MAID MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110711,110711,110711,110711,293,TROI,"Data, are you alright?",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110712,110712,110712,110712,294,DATA,"The arrow impacted just above my sixth intercostal support, penetrating my secondary subprocessor.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110713,110713,110713,110713,295,DATA,"Fortunately, none of my biofunctions seem impaired.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110714,110714,110714,110714,296,DATA,Do not get discouraged. I believe your aim is improving.,36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110715,110715,110715,110715,297,WORF,Sorry.,36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110716,110716,110716,110716,298,RIKER,"It's about time we got out of here, sir.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110717,110717,110717,110717,299,PICARD,Not we Commander. You and the others are to wait here until I return.,36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110718,110718,110718,110718,300,RIKER,"You're not planning to go after her alone, are you?",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110719,110719,110719,110719,301,PICARD,"This is not a mission. It's personal, between Q and myself. I don't want any of you involved.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110720,110720,110720,110720,302,RIKER,But Captain...,36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110721,110721,110721,110721,303,PICARD,"You have your orders, Commander. I expect you to follow them.",36   EXT. SHERWOOD FOREST DAY,SHERWOOD FOREST DAY,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110722,110722,110722,110722,304,Q,"A touch sharper, shall we?",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110723,110723,110723,110723,305,Q,"Such benevolence, Sir Guy, allowing the condemned prisoner fresh air.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110724,110724,110724,110724,306,SIR GUY,"You're mistaken, Sheriff. Maid Marian has consented to be my wife.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110725,110725,110725,110725,307,Q,But that's impossible?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110726,110726,110726,110726,308,VASH,Not at all. Though I admit a maiden seldom has the opportunity to win herself such a noble husband.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110727,110727,110727,110727,309,SIR GUY,A toast to the most beautiful bride-to-be in all of England.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110728,110728,110728,110728,310,Q,"Hold there, Sir Guy.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110729,110729,110729,110729,311,SIR GUY,Have you taken leave of your senses?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110730,110730,110730,110730,312,Q,"It could be poisoned. Some foul scheme of Robin Hood. She's in league with him still, I'll warrant.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110731,110731,110731,110731,313,VASH,Robin Hood?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110732,110732,110732,110732,314,VASH,"Oh, Robin Hood... that was over long ago.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110733,110733,110733,110733,315,Q,"Why, all of Nottingham knows you're in love with him.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110734,110734,110734,110734,316,VASH,That's a lie. He... bewitched me. Put me under some evil spell.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110735,110735,110735,110735,317,SIR GUY,Just as I suspected. You can add sorcery to the list of charges against that rogue.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110736,110736,110736,110736,318,Q,"But Sir Guy, if anyone has been bewitched it's you.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110737,110737,110737,110737,319,SIR GUY,"Silence. Any further impudence and it'll be your head on the chopping block. Guards, escort the Lady Marian to her chamber.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110738,110738,110738,110738,320,VASH,But I'd much rather stay with you.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110739,110739,110739,110739,321,SIR GUY,"Of course you would, my child. But I have important business to discuss with the Sheriff. (a beat; then dripping with implication) And you must prepare for your wedding.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110740,110740,110740,110740,322,VASH,I count the hours.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110741,110741,110741,110741,323,SIR GUY,Lovely creature.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110742,110742,110742,110742,324,Q,(with grudging admiration) She is intriguing.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110743,110743,110743,110743,325,Q,"Sir Guy, perhaps it would be wise to keep this wedding a secret for now.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110744,110744,110744,110744,326,SIR GUY,What are you babbling about?,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110745,110745,110745,110745,327,Q,"You still hope to capture Robin Hood, don't you?",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110746,110746,110746,110746,328,SIR GUY,I live for the moment.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110747,110747,110747,110747,329,Q,"Well, if he were to hear that Marian's life was no longer in danger, there would be no need for him to come to Nottingham to rescue her.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110748,110748,110748,110748,330,SIR GUY,"By heavens, you're right. No word of my wedding shall leave these walls.",38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0772
+110749,110749,110749,110749,331,SIR GUY ,What better way to celebrate a marriage than with an execution.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.765
+110750,110750,110750,110750,332,Q,This could be fun.,38   EXT. COURTYARD INSIDE WALLS OF CASTLE - NIGHT,COURTYARD INSIDE WALLS OF CASTL,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.5106
+110751,110751,110751,110751,333,VASH,Jean-Luc. Am I glad to see you.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110752,110752,110752,110752,334,VASH,"You would not believe what I've been through. One minute I'm on the Enterprise... the next thing I know I'm here in Nottingham. First, they're going to chop my head off... and now I'm supposed to marry someone named Sir Guy... and everyone insists on calling me Marian...",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110753,110753,110753,110753,335,PICARD,"Yes, I know.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110754,110754,110754,110754,336,VASH,You do? But how...,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110755,110755,110755,110755,337,VASH,You're Robin Hood?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110756,110756,110756,110756,338,PICARD,My staff and I were brought here by an old adversary of mine named Q. I'll tell you the rest once we're safe.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110757,110757,110757,110757,339,PICARD,"Come, we don't have much time.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110758,110758,110758,110758,340,VASH,Are the others outside?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110759,110759,110759,110759,341,PICARD,They're waiting for us back in Sherwood.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110760,110760,110760,110760,342,VASH,You mean you came alone?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110761,110761,110761,110761,343,PICARD,"Yes, now let's...",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110762,110762,110762,110762,344,VASH,What kind of plan is that?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110763,110763,110763,110763,345,PICARD,An excellent one if you'd only hurry up.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110764,110764,110764,110764,346,VASH,You do realize our lives are at stake here.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110765,110765,110765,110765,347,PICARD,Only too well.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110766,110766,110766,110766,348,VASH,And this is the best strategy you could come up with? One man against an entire castle.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110767,110767,110767,110767,349,PICARD,I suppose you know of a better one.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110768,110768,110768,110768,350,VASH,How about this? You go. I'll stay here.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110769,110769,110769,110769,351,PICARD,And do what?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110770,110770,110770,110770,352,VASH,Marry Sir Guy if I have to.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110771,110771,110771,110771,353,PICARD,That is brilliant.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110772,110772,110772,110772,354,VASH,"If there's a way to escape, I'll find it, eventually. With my head still attached.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110773,110773,110773,110773,355,PICARD,You don't really expect me to leave you here?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110774,110774,110774,110774,356,VASH,I can take care of myself.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110775,110775,110775,110775,357,PICARD,Must you be so stubborn?,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110776,110776,110776,110776,358,SIR GUY,"There'll be no escape for you this time, Robin Hood.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110777,110777,110777,110777,359,PICARD,Behind me.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110778,110778,110778,110778,360,VASH,You should have left while you had the chance.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110779,110779,110779,110779,361,SIR GUY,"Well done, my dear.",41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.5719
+110780,110780,110780,110780,362,VASH,Consider it my wedding present to you.,41   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110781,110781,110781,110781,363,Q,"Congratulations, Gisbourne. I see you've snared the jackal.",42   EXT. COURTYARD - NIGHT,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.5994
+110782,110782,110782,110782,364,SIR GUY,It's Marian who deserves the credit. Took him with his own sword.,42   EXT. COURTYARD - NIGHT,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110783,110783,110783,110783,365,SERVANT,"You sent for me, M'Lady?",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110784,110784,110784,110784,366,VASH,You must take this letter to Robin's men.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110785,110785,110785,110785,367,SERVANT,You want me to go to Sherwood Forest? At this time of night?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110786,110786,110786,110786,368,VASH,You'll leave immediately.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110787,110787,110787,110787,369,SERVANT,(glancing out the window) But it's dark. I'll get lost.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110788,110788,110788,110788,370,SERVANT,"Besides, it's not safe. What with all them hedge robbers and worse lurking about.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110789,110789,110789,110789,371,VASH,"Please, this is urgent.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110790,110790,110790,110790,372,SERVANT,"You ask me, you'd be better off staying with Sir Guy. He's got a future. Why you'll be living in London before you know it.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110791,110791,110791,110791,373,VASH,"But you must go. Otherwise, they're going to kill him.",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110792,110792,110792,110792,374,VASH,How dare you come barging in here this way!,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110793,110793,110793,110793,375,Q,I come to offer apologies for my harsh words earlier. I had no idea you were so ruthless. The cold blooded way you betrayed Robin was most impressive.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110794,110794,110794,110794,376,VASH,That's most gracious of you.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110795,110795,110795,110795,377,Q,I admit I was surprised... Though perhaps not as surprised as Jean-Luc.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110796,110796,110796,110796,378,VASH,You're Q.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110797,110797,110797,110797,379,Q,And you are a very interesting woman.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110798,110798,110798,110798,380,Q,What's this?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110799,110799,110799,110799,381,VASH,Give me that.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110800,110800,110800,110800,382,Q,A letter to Riker? Quick... Come to Castle... Must save Captain... Why this is wonderful. Such marvelous duplicity. You certainly fooled Sir Guy. And me as well. (a shrewd glance at Vash) I do believe you're worth further study.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110801,110801,110801,110801,383,VASH,Am I?,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110802,110802,110802,110802,384,Q,"Unfortunately, we won't have the time. Guards!",43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110803,110803,110803,110803,385,Q,Take this traitor away. It appears there's going to be a double execution.,43   INT. MAID MARIAN'S CHAMBER - NIGHT,MAID MARIAN'S CHAMBE,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110804,110804,110804,110804,386,PICARD ,My fault?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110805,110805,110805,110805,387,VASH ,"Yes, your fault.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110806,110806,110806,110806,388,PICARD ,We'd have been safe in Sherwood if you hadn't grabbed my sword.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110807,110807,110807,110807,389,VASH,I grabbed it to prevent you from being killed.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110808,110808,110808,110808,390,PICARD,You should have never interfered.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110809,110809,110809,110809,391,VASH,You were the one interfering.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110810,110810,110810,110810,392,PICARD,I was trying to rescue you.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110811,110811,110811,110811,393,VASH,Next time don't bother.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110812,110812,110812,110812,394,PICARD,I won't.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110813,110813,110813,110813,395,Q,Don't you two ever stop arguing?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110814,110814,110814,110814,396,Q,"Tell me Picard, as you stand here facing the termination of your insect existence, do you see what has led you to this end? Was she worth it?",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110815,110815,110815,110815,397,PICARD,Can we just get this over with.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110816,110816,110816,110816,398,VASH,Are you implying I'm not worth it?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110817,110817,110817,110817,399,PICARD,"Your game was for my benefit, Q. She is innocent in all this.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110818,110818,110818,110818,400,Q,"She is many things, none of them innocent.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110819,110819,110819,110819,401,PICARD,Let her go.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110820,110820,110820,110820,402,VASH,"Jean-Luc, you do care.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110821,110821,110821,110821,403,Q,A gallant gesture Picard. But a futile one. Farewell. I hope you'll both be happy together.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110822,110822,110822,110822,404,SIR GUY,You have been found guilty of outlawry and high treason. Do you have anything to say before sentencing is carried out?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110823,110823,110823,110823,405,SIR GUY,Ready them for the block.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110824,110824,110824,110824,406,GEORDI,Too many of them. We'd never get to the Captain...,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110825,110825,110825,110825,407,RIKER,"Data, we need a diversion. Now.",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110826,110826,110826,110826,408,DATA,"Please stand back, Commander. Microfusion cells can be somewhat dangerous under high temperatures...",44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110827,110827,110827,110827,409,S,It's the outlaws. Robin's band.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110828,110828,110828,110828,410,SIR GUY,Guards. Take Marian to the tower.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110829,110829,110829,110829,411,SIR GUY,I'll have you know I'm the greatest swordsman in all of Nottingham.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110830,110830,110830,110830,412,PICARD,That's very impressive.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110831,110831,110831,110831,413,PICARD,But there's something you should know.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110832,110832,110832,110832,414,SIR GUY,And what would that be?,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110833,110833,110833,110833,415,PICARD,I'm not from Nottingham.,44   EXT. COURTYARD - THE NEXT DAY,COURTYAR,EXT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110834,110834,110834,110834,416,VASH,Jean-Luc.,50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110835,110835,110835,110835,417,PICARD,"It's over, Q. Now get us out of here.",50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110836,110836,110836,110836,418,Q,"My compliments, Captain. I doubt Robin Hood himself could have done better.",50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110837,110837,110837,110837,419,PICARD,If any of my people are hurt...,50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110838,110838,110838,110838,420,Q,"Sadly, they're all fine... but the point is they could have been killed, and you might have been too... all for the ""Love Of A Maid."" My debt to you is paid, Picard, if you have learned how weak and vulnerable you really are... if you can finally see how ""Love"" brought out the worst in you...",50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110839,110839,110839,110839,421,VASH,"Nonsense. You're absolutely wrong. It brought out the best in him. His nobility, courage, self-sacrifice. His tenderness.",50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110840,110840,110840,110840,422,Q,You're good. Very good.,50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110841,110841,110841,110841,423,PICARD,Enough of this.,50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110842,110842,110842,110842,424,Q,Indeed.,50   INT. MARIAN'S CHAMBER (OPTICAL),MARIAN'S CHAMBER,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110843,110843,110843,110843,425,RIKER,Everybody here?,52   INT. MEETING ROOM (OPTICAL),MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110844,110844,110844,110844,426,TROI,Where's Vash?,52   INT. MEETING ROOM (OPTICAL),MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110845,110845,110845,110845,427,PICARD,"Computer, locate Council Member Vash.",52   INT. MEETING ROOM (OPTICAL),MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110846,110846,110846,110846,428,COMPUTER ,Council Member Vash is not aboard the Enterprise.,52   INT. MEETING ROOM (OPTICAL),MEETING ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110847,110847,110847,110847,429,VASH,"Hello, Jean-Luc.",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110848,110848,110848,110848,430,PICARD,"Well, this is a relief. I was afraid that Q...",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110849,110849,110849,110849,431,VASH,There were a few things he wanted to discuss with me.,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110850,110850,110850,110850,432,PICARD,I'm surprised he wasn't too busy gloating over his victory.,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110851,110851,110851,110851,433,VASH,"He was right about one thing, Jean-Luc. As ridiculous as it was, his game did prove how much you care.",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110852,110852,110852,110852,434,PICARD,"I may not share my feelings with my crew, but I do have them.",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110853,110853,110853,110853,435,VASH,"I'm going to miss you, Picard.",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110854,110854,110854,110854,436,PICARD,I wouldn't be surprised if our paths cross again.,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110855,110855,110855,110855,437,VASH,I'll see to it.,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110856,110856,110856,110856,438,PICARD,"So, where are you off to now?",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110857,110857,110857,110857,439,VASH,I haven't made up my mind.,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110858,110858,110858,110858,440,VASH,Remind you of someone you know?,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110859,110859,110859,110859,441,PICARD,(amused in spite of himself) As a matter of fact... yes.,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110860,110860,110860,110860,442,Q,We are going to have fun. I'll take you places no human could ever hope to see.,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110861,110861,110861,110861,443,VASH,Who can resist an offer like that?,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110862,110862,110862,110862,444,PICARD,"As payment in full for your debt to me, you will guarantee her safety...",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110863,110863,110863,110863,445,Q,"She will not be harmed, Jean-Luc. I promise you that.",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110864,110864,110864,110864,446,Q,"Well, aren't you going to kiss her good-bye?",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110865,110865,110865,110865,447,Q,"Oh, all right.",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110866,110866,110866,110866,448,VASH,Well aren't you?,53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110867,110867,110867,110867,449,VASH,"Goodbye, Jean-Luc.",53   INT. READY ROOM (OPTICAL),READY ROOM,INT.,Qpid,1991-01-31,The Next Generation,194.txt,0.0
+110868,110868,110868,110868,0,PICARD ,"Captain's log, stardate 45333.3. The Enterprise is on its way to Penthara Four where a type C asteroid has struck an unpopulated continent.",1    EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110869,110869,110869,110869,1,PICARD ,The resulting dust cloud could very well create a phenomenon not unlike the nuclear winters of twenty-first-century Earth. Commander La Forge has begun work on a plan that would counteract the devastation.,2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110870,110870,110870,110870,2,GEORDI,"I'm afraid the numbers coming in are already indicating climatic changes, sir.",2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110871,110871,110871,110871,3,RIKER,What kind of drop can we expect?,2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110872,110872,110872,110872,4,DATA,"If the Pentharan spheral forecasts are correct, ten to twelve degrees Celsius within the first ten days.",2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110873,110873,110873,110873,5,GEORDI,"If it continues like that, their entire ecosystem will be shot to hell.",2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110874,110874,110874,110874,6,RIKER,And I doubt they're prepared to cope with the kind of cold that's coming.,2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110875,110875,110875,110875,7,PICARD,Commander Riker.,2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110876,110876,110876,110876,8,RIKER,"Yes, Captain.",2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110877,110877,110877,110877,9,PICARD,"Would you join me on the bridge, please.",2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110878,110878,110878,110878,10,RIKER,On my way. Let me know if those forecast numbers change.,2    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110879,110879,110879,110879,11,PICARD,"Are you certain, Worf?",3    INT. BRIDGE,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110880,110880,110880,110880,12,WORF,"There was a space/time distortion, sir. And there is something back there. We passed within three hundred kilometers of it.",3    INT. BRIDGE,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110881,110881,110881,110881,13,PICARD,A bit close for coincidence. Mister La Forge?,3    INT. BRIDGE,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110882,110882,110882,110882,14,GEORDI,"Yes, sir.",3    INT. BRIDGE,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110883,110883,110883,110883,15,PICARD,Would a delay of an hour affect your plans?,3    INT. BRIDGE,BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110884,110884,110884,110884,16,GEORDI,"Not unless another asteroid decides to pay a call on Penthara, sir.",4    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110885,110885,110885,110885,17,DATA,"The odds of that occurring, Captain, are extremely unlikely, given the time frame.",4    INT. GEORDI'S OFFICE,GEORDI'S OFFICE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110886,110886,110886,110886,18,PICARD,"Thank you, Mister Data. Prepare to come about, Ensign. Let's take a look at Mister Worf's distortion.",5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110887,110887,110887,110887,19,ENSIGN,"Aye, sir.",5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110888,110888,110888,110888,20,RIKER,Mister Worf's what?,5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110889,110889,110889,110889,21,PICARD,"The Lieutenant's sensors detected a temporal distortion, Number One, almost directly on our current course. There seems to be a small object back there that wasn't there a few moments ago.",5    INT. BRIDGE - CONTINUOUS,BRIDG,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110890,110890,110890,110890,22,WORF,"The object is fifty kilometers ahead, sir.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110891,110891,110891,110891,23,PICARD,"Full stop, Ensign.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110892,110892,110892,110892,24,ENSIGN,"Aye, sir.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110893,110893,110893,110893,25,PICARD,On screen.,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110894,110894,110894,110894,26,RIKER,"Dimensions, Worf?",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110895,110895,110895,110895,27,WORF,"Approximately five meters in length, sir.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110896,110896,110896,110896,28,PICARD,Lifesigns?,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110897,110897,110897,110897,29,WORF,"No signs of any kind, sir. Sensors are not penetrating its hull.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110898,110898,110898,110898,30,PICARD,Try hailing it.,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110899,110899,110899,110899,31,WORF,(pushes a series of buttons) That's odd.,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110900,110900,110900,110900,32,RIKER,What's odd?,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110901,110901,110901,110901,33,WORF,"We've received a response, sir, but...",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110902,110902,110902,110902,34,PICARD,"Yes, Mister Worf?",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110903,110903,110903,110903,35,WORF,"They want you to... ""Move over,"" sir.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110904,110904,110904,110904,36,PICARD,"(looks at Riker and then back at Worf) Reply that the Enterprise isn't going anywhere, Lieutenant.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110905,110905,110905,110905,37,WORF,"Not the Enterprise, Captain. You.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110906,110906,110906,110906,38,PICARD,What are you trying to...,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110907,110907,110907,110907,39,RASMUSSEN,"Excuse me, Captain, but you were standing right where I needed to be.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110908,110908,110908,110908,40,PICARD,Who are you?,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110909,110909,110909,110909,41,RASMUSSEN,"Rasmussen's the name, sir. Professor Berlinghoff Rasmussen. (looking around in amazement) Ah... this is wonderful. Actually, quite a bit larger than I thought.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110910,110910,110910,110910,42,PICARD,Really?,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110911,110911,110911,110911,43,RASMUSSEN,"Where I come from, every historian knows the bridge of old 1701-D.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110912,110912,110912,110912,44,PICARD,And where exactly is it you come from?,7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110913,110913,110913,110913,45,RASMUSSEN,"Why Earth... late twenty-sixth century Earth, to be exact. You see, I've traveled back nearly three hundred years just to find you.",7    INT. BRIDGE (OPTICAL),BRIDGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110914,110914,110914,110914,46,PICARD,Exactly what kind of historian are you?,8    INT. READY ROOM,READY ROOM,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110915,110915,110915,110915,47,RASMUSSEN,"(as he continues to pace, picking things up, turning them over) My focus is on the twenty-second through the twenty-fourth centuries, early interstellar history. (picking up Picard's Shakespeare volume) You know, it was always believed this was on your desk, not here... Fascinating. (he turns to Picard, good naturedly) Now don't move it on my account.",8    INT. READY ROOM,READY ROOM,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110916,110916,110916,110916,48,PICARD,You can't expect me to believe that the layout of my ready room is of interest to future historians...,8    INT. READY ROOM,READY ROOM,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110917,110917,110917,110917,49,RASMUSSEN,"No less so than your legendary modesty, Captain. I wish I could describe to you what a thrill it is to be here... (he stops at the painting over Picard's couch) This is the original, isn't it?",8    INT. READY ROOM,READY ROOM,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110918,110918,110918,110918,50,PICARD,"You flatter me Professor, but I can't help but wonder what could possibly have caused you to select me as the subject of your study. Even in this decade, there are far wiser and more experienced Humans both in and out of Starfleet.",8    INT. READY ROOM,READY ROOM,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110919,110919,110919,110919,51,RASMUSSEN,"I'd love to tell you, Picard. I really would. But try and imagine what a young Caesar might have done differently if someone had given him a hint of what lay ahead. Or, if Lincoln had been coerced into changing his theater plans. I truly wish I could be more specific on why you were selected, but I'm afraid the exchange of information will have to flow in one direction only.",8    INT. READY ROOM,READY ROOM,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110920,110920,110920,110920,52,RASMUSSEN,...four... five... six... seven meters. HA! I was right!,8    INT. READY ROOM,READY ROOM,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110921,110921,110921,110921,53,WORF,Why now?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110922,110922,110922,110922,54,GEORDI,"Right. If you came back to study us, to study the captain, why did you pick today? Why not a year ago... or a year from now?",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110923,110923,110923,110923,55,RASMUSSEN,"Oh, I picked the right day alright. Just wait, you'll see.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110924,110924,110924,110924,56,RASMUSSEN ,"Do you always sit there, on that side of the table?",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110925,110925,110925,110925,57,WORF,Usually. Why?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110926,110926,110926,110926,58,RASMUSSEN,(shakes his head and smiles) It's not important.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110927,110927,110927,110927,59,RIKER,"Tell me, Professor, at what point does time travel become a tool for historians?",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110928,110928,110928,110928,60,RASMUSSEN,"Now, now, Commander. You know better than that. I've studied a great deal about your century. Including the fact that you're all quite aware of the dangers of anyone altering the past. And that's exactly what I'd be doing if I were to divulge information like that.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110929,110929,110929,110929,61,BEVERLY,Telurian plague!,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110930,110930,110930,110930,62,RASMUSSEN,I beg your pardon?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110931,110931,110931,110931,63,BEVERLY,"Telurian plague... was it cured? I mean, has it been cured by your century? There can't be any harm in asking that.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110932,110932,110932,110932,64,PICARD,"I realize it will be difficult, but we must all keep our questions regarding the future to ourselves. Professor...",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110933,110933,110933,110933,65,RASMUSSEN,"I'll be preparing questionnaires for each of you. Please complete them at your convenience. If you're concerned about a possible breach of security, I'm sure your captain can make a determination... And, thank you in advance for curbing your curiosity.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110934,110934,110934,110934,66,GEORDI,"If I hand my assignment in on time, do I get a little glimpse into next week's poker game?",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110935,110935,110935,110935,67,PICARD,"Mister Data, please show the Professor to his quarters.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110936,110936,110936,110936,68,DATA,"This way, sir.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110937,110937,110937,110937,69,RIKER,What did he mean he picked the right day?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110938,110938,110938,110938,70,PICARD,"You know everything I do, Will.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110939,110939,110939,110939,71,RIKER,Deanna?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110940,110940,110940,110940,72,TROI,It's hard to tell. But he is holding something back.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110941,110941,110941,110941,73,BEVERLY,Of course he is. Think of all the things he could tell us... all the things he'd like to tell us...,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110942,110942,110942,110942,74,TROI,"That might be it, I don't know.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110943,110943,110943,110943,75,RIKER,How can we be sure he's not an imposter? God knows we've run into enough of them.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110944,110944,110944,110944,76,PICARD,"He is Human. Our medical scans have proved that. Haven't they, Doctor?",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110945,110945,110945,110945,77,BEVERLY,"He's Human, alright.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110946,110946,110946,110946,78,PICARD,"And there was a temporal distortion back there, correct Mister Worf?",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110947,110947,110947,110947,79,WORF,"Yes, sir.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110948,110948,110948,110948,80,PICARD,And no one can deny that ship of his is unlike anything we've ever seen before.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110949,110949,110949,110949,81,GEORDI,The hull is composed of some kind of plasticized tritanium mesh. Nothing we have on record... at least not 'til the present.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110950,110950,110950,110950,82,PICARD,"I appreciate your caution, Mister Worf. I share it. Have his vessel brought into a shuttlebay. Place it under guard.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110951,110951,110951,110951,83,WORF,"Yes, sir.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110952,110952,110952,110952,84,PICARD,I realize this isn't going to be an easy visit for some of you.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110953,110953,110953,110953,85,PICARD ,"Nevertheless, I've reviewed the Professor's credentials, and they're in order. So, I'd like you all to extend him every courtesy.",9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110954,110954,110954,110954,86,WORF,Including questionnaires?,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110955,110955,110955,110955,87,PICARD,Including questionnaires. Dismissed.,9    INT. OBSERVATION LOUNGE,OBSERVATION LOUNGE,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110956,110956,110956,110956,88,RASMUSSEN,"This is really a thrill, Data. Like running across a Redstone missile or a Guttenberg bible. To think... the Model T of androids.",10   INT. TURBOLIFT,TURBOLIFT,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.6764
+110957,110957,110957,110957,89,DATA,"If you're referring to the first production model automobile of the twentieth century, perhaps the subsequent Model A might be a more apt analogy since I am Noonian Soong's revised prototype.",11   INT. CORRIDOR,CORRIDOR,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110958,110958,110958,110958,90,RASMUSSEN,I stand corrected.,11   INT. CORRIDOR,CORRIDOR,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110959,110959,110959,110959,91,DATA,"Is there a problem, sir?",12   INT. RASMUSSEN'S QUARTERS,RASMUSSEN'S QUARTERS,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110960,110960,110960,110960,92,RASMUSSEN,"I suppose it will have to do, for now. I'll get you a list of things I'll be needing. You're dismissed.",12   INT. RASMUSSEN'S QUARTERS,RASMUSSEN'S QUARTERS,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110961,110961,110961,110961,93,DATA,"Would I be correct, Professor, in assuming that you know whether or not I am still... alive in the twenty-sixth century?",12   INT. RASMUSSEN'S QUARTERS,RASMUSSEN'S QUARTERS,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110962,110962,110962,110962,94,DATA,(continuing his line of questioning) Since you seemed to know so much about Captain Picard and the ship... I assumed that you would...,12   INT. RASMUSSEN'S QUARTERS,RASMUSSEN'S QUARTERS,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110963,110963,110963,110963,95,RASMUSSEN,"It would be best if you kept your assumptions to yourself, wouldn't it?",12   INT. RASMUSSEN'S QUARTERS,RASMUSSEN'S QUARTERS,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110964,110964,110964,110964,96,DATA,"Yes, sir. I am sorry, sir.",12   INT. RASMUSSEN'S QUARTERS,RASMUSSEN'S QUARTERS,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110965,110965,110965,110965,97,PICARD ,"Captain's log, stardate 45334.5. We have arrived at Penthara Four...",13   EXT. SPACE - THE ENTERPRISE (OPTICAL),SPACE - THE ENTERPRISE,EXT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110966,110966,110966,110966,98,PICARD ,... and can see for ourselves the atmospheric devastation caused by the asteroid impact.,14   EXT. SPACE - ANOTHER ANGLE (OPTICAL),SPACE - ANOTHER ANGLE,EXT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110967,110967,110967,110967,99,PICARD,"We've located three underground pockets of carbon dioxide... here, here and here. Our drilling phasers can release enough of the gas to form an envelope which would temporarily hold in the heat from the sun.",16   INT. PENTHARA SCIENCE LAB,PENTHARA SCIENCE LAB,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110968,110968,110968,110968,100,MOSELEY,"We spend years, decades trying to avoid anything that would lead to a greenhouse effect and here we are about to create one on purpose.",16   INT. PENTHARA SCIENCE LAB,PENTHARA SCIENCE LAB,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110969,110969,110969,110969,101,GEORDI,"Less than twenty percent of your normal sunlight is getting through that dust, Doctor. If we can hold enough heat in with the CO2, it should give the planet time to mend itself.",16   INT. PENTHARA SCIENCE LAB,PENTHARA SCIENCE LAB,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110970,110970,110970,110970,102,FEMALE,Doctor Moseley.,16   INT. PENTHARA SCIENCE LAB,PENTHARA SCIENCE LAB,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110971,110971,110971,110971,103,MOSELEY,What now?,16   INT. PENTHARA SCIENCE LAB,PENTHARA SCIENCE LAB,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110972,110972,110972,110972,104,FEMALE,"New Seattle is reporting a cloud depth of twelve kilometers. Two rivers, tropical rivers, are beginning to freeze.",16   INT. PENTHARA SCIENCE LAB,PENTHARA SCIENCE LAB,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110973,110973,110973,110973,105,MOSELEY,We better get started before there's nothing left to mend.,16   INT. PENTHARA SCIENCE LAB,PENTHARA SCIENCE LAB,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110974,110974,110974,110974,106,RIKER,Look who's here.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110975,110975,110975,110975,107,WORF,I hate questionnaires.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110976,110976,110976,110976,108,BEVERLY,"(with enthusiasm, she's quite taken with Rasmussen) Professor, please come join us.",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110977,110977,110977,110977,109,RASMUSSEN,I hope I'm not intruding.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110978,110978,110978,110978,110,BEVERLY,Not at all. You're probably the topic of conversation at every table in the room.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110979,110979,110979,110979,111,RASMUSSEN,"As I promised, here are your assignments. I'm sure they'll be painless. Please try to complete them by tomorrow.",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110980,110980,110980,110980,112,WORF,Tomorrow!,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110981,110981,110981,110981,113,RIKER,"No problem, Professor.",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110982,110982,110982,110982,114,RASMUSSEN,You're all very calm.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110983,110983,110983,110983,115,RIKER,Do we have reason not to be?,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110984,110984,110984,110984,116,RASMUSSEN,"History always records where people were, what they were doing, when important events took place. But it rarely remembers their activities -- say, a week before... or a day... or even an hour.",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110985,110985,110985,110985,117,WORF,Are you suggesting an important event is imminent?,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110986,110986,110986,110986,118,RASMUSSEN,"I didn't say that, did I? Please... go on doing what you were doing, pretend I'm not here.",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110987,110987,110987,110987,119,RIKER,"How come there's no record of other future historians traveling back to witness ""important events?""",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110988,110988,110988,110988,120,RASMUSSEN,"We're obviously very careful. Matter of fact, a colleague and I recently paid a call on a twenty-second century vessel.",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110989,110989,110989,110989,121,BEVERLY,They hadn't even perfected quarantine fields by then. You must have seen surgical masks and gloves.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110990,110990,110990,110990,122,RASMUSSEN,Isn't it fascinating how everyone has different interests when it comes to history... different perspectives on progress.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110991,110991,110991,110991,123,RIKER,Mind if I ask what that is?,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110992,110992,110992,110992,124,RASMUSSEN,Just checking the time... No problem.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110993,110993,110993,110993,125,RIKER,(getting a bit frustrated) Is something supposed to be happening here?,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110994,110994,110994,110994,126,RASMUSSEN,"No, no, nothing. What about you, Commander? What do you see as the most important example of progress over the last two hundred years?",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110995,110995,110995,110995,127,RIKER,"I suppose the warp coil. Before we had warp drive, Humans were confined to a single sector of the galaxy.",17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110996,110996,110996,110996,128,RASMUSSEN,Spoken like the consummate explorer.,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110997,110997,110997,110997,129,RIKER,What's going on? You waiting for someone?,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110998,110998,110998,110998,130,WORF,Phasers!,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
+110999,110999,110999,110999,131,RIKER,Where?!,17   INT. TEN FORWARD,TEN FORWARD,INT.,A Matter of Time,1991-09-25,The Next Generation,209.txt,0.0
