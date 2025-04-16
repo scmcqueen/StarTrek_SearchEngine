@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+53000,53000,53000,53000,58,SISKO,Head into it!,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53001,53001,53001,53001,59,KIRA,We've slipped between two thermal layers... wind velocities are a little more manageable here.,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53002,53002,53002,53002,60,SISKO,Hold this altitude. Any sign of the Karemma or the Jem'Hadar?,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53003,53003,53003,53003,61,WORF,"No, but sensor range is less than two kilometers.",14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53004,53004,53004,53004,62,DAX,There might be a way we can increase it.,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53005,53005,53005,53005,63,SISKO,"Minister Hanok, I think it would be best if you returned to the mess hall.",14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53006,53006,53006,53006,64,HANOK,"As you wish, Captain.",14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53007,53007,53007,53007,65,SISKO,"Mister Worf, what's our weapons status?",14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53008,53008,53008,53008,66,WORF,The cloak is ineffective inside this atmosphere. And the interference will jam our torpedo guidance systems.,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53009,53009,53009,53009,67,SISKO,What about phasers?,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53010,53010,53010,53010,68,WORF,We'll have to target them manually.,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53011,53011,53011,53011,69,DAX,"Benjamin, we have an idea.",14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53012,53012,53012,53012,70,KIRA,"It's a little trick I learned during the occupation. We'd sometimes try to evade Cardassian ships by hiding in the Badlands. Sensor range was limited, so we learned to use an old active-scan system to navigate.",14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53013,53013,53013,53013,71,DAX,"It works by echo-location... we send out a modulated tetrion pulse, and if it reflects off the hull of a ship, we can approximate its location.",14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53014,53014,53014,53014,72,SISKO,Won't these pulses give away our position as well?,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53015,53015,53015,53015,73,KIRA,We'll have to alter course and speed after each one.,14   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53016,53016,53016,53016,74,QUARK,"Good news, Minister.",15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53017,53017,53017,53017,75,HANOK,Really?,15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53018,53018,53018,53018,76,QUARK,I think I've found the problem.,15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53019,53019,53019,53019,77,QUARK,I made the mistake of letting my brother Rom execute these contracts.,15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53020,53020,53020,53020,78,HANOK,Your brother?,15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53021,53021,53021,53021,79,QUARK,"Yes. I'm ashamed to say it, but he's an idiot. You see, the Federation and the Karemma have very different laws governing commerce, and I think that Rom must've... gotten confused by all the legalisms.",15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53022,53022,53022,53022,80,QUARK,"Now, I'm more than willing to make up for any losses you might have suffered. In fact, I'll pay them back with interest.",15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53023,53023,53023,53023,81,HANOK,"You cheated me, Quark. And you don't even have the courage to admit it. If we survive this, I'll see to it that you never do business in the Gamma Quadrant again...",15   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53024,53024,53024,53024,82,KIRA,There's nothing within a thousand kilometers...,16   INT. DEFIANT - BRIDGE (VPB) ,DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53025,53025,53025,53025,83,SISKO,"Ahead, one quarter impulse.",16   INT. DEFIANT - BRIDGE (VPB) ,DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53026,53026,53026,53026,84,SISKO,"Try it again, Major...",16   INT. DEFIANT - BRIDGE (VPB) ,DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53027,53027,53027,53027,85,KIRA,There's something about four hundred kilometers below us. It could be the Karemma... I can't tell at this range.,16   INT. DEFIANT - BRIDGE (VPB) ,DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53028,53028,53028,53028,86,SISKO,Close to ten kilometers...,16   INT. DEFIANT - BRIDGE (VPB) ,DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53029,53029,53029,53029,87,DAX,We're crossing into another thermal layer...,18   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53030,53030,53030,53030,88,CARSON,Holding position at ten kilometers.,18   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53031,53031,53031,53031,89,SISKO,Major...,18   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53032,53032,53032,53032,90,KIRA,"From the size of it, I'd say it's the Karemma...",18   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53033,53033,53033,53033,91,KIRA,I'm picking up two more ships.,18   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53034,53034,53034,53034,92,WORF,Shields at sixty percent.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53035,53035,53035,53035,93,SISKO,Return fire.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53036,53036,53036,53036,94,KIRA,. The Jem'Hadar are breaking off their attack...,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53037,53037,53037,53037,95,SISKO,Are they going after the Karemma?,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53038,53038,53038,53038,96,KIRA,I don't think they've spotted them...,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53039,53039,53039,53039,97,CARSON,"Captain, impulse power is off line... we're losing altitude.",20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53040,53040,53040,53040,98,SISKO,Try using thrusters to stabilize.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53041,53041,53041,53041,99,CARSON,It's no use...,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53042,53042,53042,53042,100,WORF,Hull pressure is at two million GSC and rising.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53043,53043,53043,53043,101,SISKO,Sisko to Engine room. We need impulse power.,20   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53044,53044,53044,53044,102,O'BRIEN,"The primary ODN lines have overloaded, Captain... it's going to be a few minutes.",21   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53045,53045,53045,53045,103,DAX,"Chief, if you can spare someone to meet me in Jefferies Tube Four, I'll try to re-route power through the secondary couplings.",21   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53046,53046,53046,53046,104,O'BRIEN,Muniz.,21   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53047,53047,53047,53047,105,MUNIZ,"Yes, sir.",21   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53048,53048,53048,53048,106,DAX,All right... let's recalibrate the ODN manifold.,24   INT. DEFIANT - JEFFERIES TUBE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53049,53049,53049,53049,107,MUNIZ,I'll uncouple the plasma relay...,24   INT. DEFIANT - JEFFERIES TUBE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53050,53050,53050,53050,108,DAX,"Sounds a little like a Yridian Symphony, doesn't it?",24   INT. DEFIANT - JEFFERIES TUBE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53051,53051,53051,53051,109,MUNIZ,"I don't know, I've never heard one.",24   INT. DEFIANT - JEFFERIES TUBE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53052,53052,53052,53052,110,DAX,"Kind of nice, don't you think?",24   INT. DEFIANT - JEFFERIES TUBE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53053,53053,53053,53053,111,CARSON,Hull pressure is at nine million GSC and still rising...,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53054,53054,53054,53054,112,KIRA,"If we keep losing altitude at this rate, the hull will collapse in less than six minutes.",25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53055,53055,53055,53055,113,WORF,"Sir, the phaser couplings overloaded during the attack. It will take at least two hours to repair them.",25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53056,53056,53056,53056,114,SISKO,The Jem'Hadar aren't going to let us tractor the Karemma out of here without a fight.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53057,53057,53057,53057,115,KIRA,Right now I'd say we're the ones who need to be tractored out of here.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53058,53058,53058,53058,116,SISKO,"One thing at a time, Major.",25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53059,53059,53059,53059,117,SISKO,Sisko to O'Brien.,25   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53060,53060,53060,53060,118,O'BRIEN,"O'Brien, here.",26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53061,53061,53061,53061,119,SISKO,How many atmospheric probes do we have on board?,26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53062,53062,53062,53062,120,O'BRIEN,Two.,26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53063,53063,53063,53063,121,SISKO,Could they be rigged with warheads from the quantum torpedoes?,26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53064,53064,53064,53064,122,O'BRIEN,"We'd have to pull out the imaging system to make room inside the casings, but I don't see why not.",26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53065,53065,53065,53065,123,SISKO,How long?,26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53066,53066,53066,53066,124,O'BRIEN,Twenty minutes.,26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53067,53067,53067,53067,125,SISKO,You've got ten.,26   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53068,53068,53068,53068,126,O'BRIEN,You okay... ?,27   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53069,53069,53069,53069,127,STEVENS,I'm all right...,27   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53070,53070,53070,53070,128,O'BRIEN,"The Captain's gotten us out of tougher spots than this.... last year, when the Romulans tried to invade the Founder's homeworld, we went up against a dozen Jem'Hadar ships",27   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53071,53071,53071,53071,129,STEVENS,"I know, Chief. You've told me the story.",27   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53072,53072,53072,53072,130,O'BRIEN,"Yeah? Well unless you want to hear it again, you'd better get down to the torpedo bay and start working on those probes.",27   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53073,53073,53073,53073,131,STEVENS,I'm going.,27   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53074,53074,53074,53074,132,O'BRIEN,"Janklow, I'm going to need a dualitic inverter. There's one in the Cargo Bay.",27   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53075,53075,53075,53075,133,WORF,Hull breach on Deck Two.,29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53076,53076,53076,53076,134,KIRA,"An emergency forcefield is in place, but it won't hold up long against this pressure...",29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53077,53077,53077,53077,135,SISKO,How many people are down there?,29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53078,53078,53078,53078,136,WORF,Half a dozen in Sickbay... Dax and Muniz in Jefferies Tube Four.,29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53079,53079,53079,53079,137,SISKO,We've got to get them out of there.,29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53080,53080,53080,53080,138,KIRA,"If we don't seal off that deck now, we'll lose the entire ship...",29   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53081,53081,53081,53081,139,SISKO,Sisko to Bashir.,30   INT. DEFIANT - CORRIDOR (OPTICAL) ,DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53082,53082,53082,53082,140,BASHIR,Go ahead.,30   INT. DEFIANT - CORRIDOR (OPTICAL) ,DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53083,53083,53083,53083,141,SISKO,The emergency forcefield won't hold much longer. You've got to evacuate that deck so we can seal it off.,30   INT. DEFIANT - CORRIDOR (OPTICAL) ,DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53084,53084,53084,53084,142,BASHIR,"Aye, sir. Let's get everyone past that bulkhead...",30   INT. DEFIANT - CORRIDOR (OPTICAL) ,DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53085,53085,53085,53085,143,SISKO,"Dax, are you finished?",31   INT. DEFIANT - JEFFERIES TUBE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53086,53086,53086,53086,144,DAX,Not quite.,31   INT. DEFIANT - JEFFERIES TUBE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53087,53087,53087,53087,145,SISKO,Get out of there as soon as you're done. In about thirty seconds I'm going to have to seal that deck.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53088,53088,53088,53088,146,DAX,Understood.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53089,53089,53089,53089,147,DAX,We've got to get the engines back on-line. Just keep working and don't think about anything else.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53090,53090,53090,53090,148,BASHIR,"Bashir to Bridge, I'm sealing the bulkhead.",33   INT. DEFIANT - CORRIDOR (OPTICAL),DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53091,53091,53091,53091,149,BASHIR,Dax!,33   INT. DEFIANT - CORRIDOR (OPTICAL),DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53092,53092,53092,53092,150,BASHIR,Hurry.,33   INT. DEFIANT - CORRIDOR (OPTICAL),DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53093,53093,53093,53093,151,BASHIR,Jadzia!,33   INT. DEFIANT - CORRIDOR (OPTICAL),DEFIANT - CORRIDOR,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53094,53094,53094,53094,152,KIRA,The forcefield is down.,34   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53095,53095,53095,53095,153,SISKO,"Doctor, close that bulkhead.",34   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53096,53096,53096,53096,154,BASHIR,They're still in there.,34   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53097,53097,53097,53097,155,SISKO,"Now, Doctor. That's an order.",34   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53098,53098,53098,53098,156,BASHIR,Dax!,35   INT. DEFIANT - CORRIDOR,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53099,53099,53099,53099,157,BASHIR,Bridge.,36   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53100,53100,53100,53100,158,KIRA,She did it.,37   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53101,53101,53101,53101,159,SISKO,"Helm, take us to a higher altitude.",37   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53102,53102,53102,53102,160,O'BRIEN,O'Brien to Bridge. One of the atmospheric probes is armed and standing by. We'll have the second one ready in a few minutes.,37   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53103,53103,53103,53103,161,SISKO,"Very good, Chief.",37   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53104,53104,53104,53104,162,SISKO,"All right, Major. Now that we've got something to defend ourselves with, let's start looking for the Karemma.",37   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53105,53105,53105,53105,163,QUARK,We're gaining altitude...,38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53106,53106,53106,53106,164,HANOK,How can you tell?,38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53107,53107,53107,53107,165,QUARK,I've got the lobes...,38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53108,53108,53108,53108,166,QUARK,"You've got them, too. It's a Ferengi expression. Usually, when we say someone has ""the lobes,"" we mean they have a keen business sense. That's you.",38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53109,53109,53109,53109,167,QUARK,"I'll admit it. You fooled me. I thought you were just another easy mark. But you saw right through my little scam, and taught me a thing or two about doing business in the Gamma Quadrant.",38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53110,53110,53110,53110,168,QUARK,"I guess I've gotten lazy. I'm used to dealing with the Federation. You think I was cheating you, you have no idea what I was doing to them. They still haven't caught on.",38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53111,53111,53111,53111,169,QUARK,"And if someone like me can put one over on them, think of what someone like you could do.",38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53112,53112,53112,53112,170,HANOK,Someone with my... lobes?,38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53113,53113,53113,53113,171,QUARK,"Exactly. And I'm just the man to help you do it. we could become rich, rich beyond our dreams.",38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53114,53114,53114,53114,172,HANOK,You... are despicable.,38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53115,53115,53115,53115,173,QUARK,I hate the Gamma Quadrant...,38   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53116,53116,53116,53116,174,KIRA,"Sir, I have something. It's a Jem'Hadar ship.",41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53117,53117,53117,53117,175,SISKO,Just one?,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53118,53118,53118,53118,176,WORF,They must've split up to search for the Karemma.,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53119,53119,53119,53119,177,KIRA,"It's about seventy kilometers above us, on a roughly perpendicular course.",41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53120,53120,53120,53120,178,SISKO,"Helm, come about to course zero- seven-five mark four. Let's fall in behind them.",41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53121,53121,53121,53121,179,CARSON,"Aye, sir.",41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53122,53122,53122,53122,180,KIRA,Do you think they've detected us?,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53123,53123,53123,53123,181,SISKO,I don't know. Let's make it a little harder on them... shut down every non-essential system. It'll minimize our power signature...,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53124,53124,53124,53124,182,SISKO,All stop.,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53125,53125,53125,53125,183,SISKO,Program the probe to home in on the first metallic signature it finds.,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53126,53126,53126,53126,184,WORF,"If it doesn't locate anything within fifty kilometers, the probe might turn back and home in on the Defiant.",41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53127,53127,53127,53127,185,KIRA,"What if they've changed course, moved out of range?",41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53128,53128,53128,53128,186,SISKO,Something tells me they're closer than you think...,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53129,53129,53129,53129,187,WORF,"The probe is ready, sir.",41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53130,53130,53130,53130,188,SISKO,Fire.,41   INT. DEFIANT - BRIDGE (VPB),DEFIANT - BRIDGE,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53131,53131,53131,53131,189,O'BRIEN,O'Brien to Bridge...,47   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53132,53132,53132,53132,190,O'BRIEN,Try the com-panel.,47   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53133,53133,53133,53133,191,MUNIZ,Engine Room to Bridge.,47   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53134,53134,53134,53134,192,MUNIZ,"Bridge, please respond.",47   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53135,53135,53135,53135,193,O'BRIEN,"Save your breath, Muniz. I don't think there's anyone left alive up there.",47   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53136,53136,53136,53136,194,WORF,"Are you all right, major?",48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53137,53137,53137,53137,195,KIRA,I think so...,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53138,53138,53138,53138,196,WORF,"Computer, lights. Bridge to Engine Room.",48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53139,53139,53139,53139,197,CARSON,"Boyce and Peterson are dead, sir...",48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53140,53140,53140,53140,198,KIRA,Captain... try not to move... you took a bad blow... Get me a medkit.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53141,53141,53141,53141,199,WORF,Bridge systems are completely off- line. We're not getting power to these consoles.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53142,53142,53142,53142,200,KIRA,"There, the bleeding's stopped.",48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53143,53143,53143,53143,201,KIRA,He's got a concussion... sub- cranial bleeding. We need a medic.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53144,53144,53144,53144,202,CARSON,The com-system's down... I'll go below and try to find one.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53145,53145,53145,53145,203,KIRA,"I'm afraid if he loses consciousness, he could slip into a coma. But I don't think I can risk using a stimulant on him.",48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53146,53146,53146,53146,204,WORF,You have to keep him awake. Talk to him. Give him something to focus on.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53147,53147,53147,53147,205,KIRA,Right.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53148,53148,53148,53148,206,WORF,I will attempt to get to the Engine Room and take control of the ship from there.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53149,53149,53149,53149,207,KIRA,Good luck.,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53150,53150,53150,53150,208,KIRA,Captain...,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53151,53151,53151,53151,209,KIRA,Everything's going to be all right... but you have to try to stay awake for me...,48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53152,53152,53152,53152,210,KIRA,"I'm just going to talk, okay? I want you to listen. It's very important that you listen because... because there's going to be a test later.",48   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53153,53153,53153,53153,211,BASHIR,How do you feel?,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53154,53154,53154,53154,212,DAX,Terrible...,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53155,53155,53155,53155,213,BASHIR,That's not surprising considering that you took in a few lungfuls of Fluorine.,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53156,53156,53156,53156,214,DAX,Next time remind me to hold my breath... I take it we're stuck in here...,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53157,53157,53157,53157,215,BASHIR,"I thought about trying to crawl up the turbolift shaft, but it's flooded with gas.",48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53158,53158,53158,53158,216,DAX,I think I've had enough Fluorine for one day. Maybe we should just stay put and wait for someone to come get us.,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53159,53159,53159,53159,217,BASHIR,They probably don't even know we're in here. Our com-signals can't cut through the interference.,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53160,53160,53160,53160,218,DAX,Is there anything else I should know?,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53161,53161,53161,53161,219,BASHIR,We only have a few hours of breathable air...,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53162,53162,53162,53162,220,DAX,"Thanks, anyway. For trying to rescuing me.",48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53163,53163,53163,53163,221,BASHIR,Lot of good it did you....,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53164,53164,53164,53164,222,DAX,I mean it.,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53165,53165,53165,53165,223,DAX,"It's funny... if you'd have done something like this a year ago, I would've thought you were trying to be a hero.",48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53166,53166,53166,53166,224,BASHIR,And now?,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53167,53167,53167,53167,225,DAX,Now that I know you better... I realize it was just a stupid thing to do.,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53168,53168,53168,53168,226,BASHIR,You're welcome...,48A  INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53169,53169,53169,53169,227,QUARK,"You're taking this too personally. Okay, I cheated you. I cheat everyone. It's business. You see what you can get away with, and you've got to figure the other guy's doing the same to you.",49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53170,53170,53170,53170,228,HANOK,That's not the way the Karemma conduct business.,49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53171,53171,53171,53171,229,QUARK,"Oh, come on. You can't tell me you've never padded an inventory, or pawned off a load of substandard merchandise.",49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53172,53172,53172,53172,230,HANOK,"No, I haven't. The Karemma believe that merchandise has a set value, determined by the raw materials and labor involved in creating it.",49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53173,53173,53173,53173,231,HANOK ,"Factor in transportation costs and a reasonable profit margin, and you arrive at a fair price.",49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53174,53174,53174,53174,232,QUARK,"You make it sound so... antiseptic. Where's the bargaining, where's the scheming... where's the greed?",49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53175,53175,53175,53175,233,HANOK,"Greed leads to misjudgment, which can result in the loss of profit.",49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53176,53176,53176,53176,234,QUARK,"If there's no risk, there's no thrill. It's just... ...barter. If you want to win big, you have to be willing to play the odds, it's like.... gambling.",49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53177,53177,53177,53177,235,HANOK,Gambling is the last recourse of the desperate. Only a fool would risk losing what he has to chance.,49   INT. DEFIANT - MESS HALL ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53178,53178,53178,53178,236,O'BRIEN,"Commander, am I glad to see you.",51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53179,53179,53179,53179,237,WORF,The captain is injured. All bridge functions are off-line.,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53180,53180,53180,53180,238,O'BRIEN,We've been trying to route command functions to these consoles.,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53181,53181,53181,53181,239,WORF,I will take command from here.,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53182,53182,53182,53182,240,WORF,Who configured these helm controls?,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53183,53183,53183,53183,241,MUNIZ,"I did, sir.",51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53184,53184,53184,53184,242,WORF,They are not laid out properly.,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53185,53185,53185,53185,243,MUNIZ,"I realize they're not the same as on the bridge, but I had to make some changes because --",51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53186,53186,53186,53186,244,WORF,I need to be able to ascertain our status at a glance. Reconfigure these controls to their standard layout.,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53187,53187,53187,53187,245,MUNIZ,"Aye, sir.",51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53188,53188,53188,53188,246,WORF,"Mister Stevens, you will operate the echo-location system we've been using to track the Jem'Hadar.",51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53189,53189,53189,53189,247,STEVENS,I'll do my best.,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53190,53190,53190,53190,248,WORF,I expect nothing less.,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53191,53191,53191,53191,249,O'BRIEN,Let's get to work...,51   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53192,53192,53192,53192,250,KIRA,"-- so I was thinking if we went to a four shift rotation, it would give people more flexibility with their time. There is a little bit of a downside because it means that every shift is going to have to -- what am I talking about?",53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53193,53193,53193,53193,251,KIRA,"I'm supposed to be keeping you awake, not boring you to tears. I'm sorry. I don't know why this is so hard. All I have to do is talk to you. I mean, what do we usually talk about?",53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53194,53194,53194,53194,252,SISKO,Work...,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53195,53195,53195,53195,253,KIRA,You're right. That is what we usually talk about. Even when we're not working.,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53196,53196,53196,53196,254,KIRA,"I get the feeling it's not that way with you and Dax, or you and Chief O'Brien.",53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53197,53197,53197,53197,255,KIRA,Then again... you're not a revered figure in their religions.,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53198,53198,53198,53198,256,KIRA,I know you don't like it when I talk about you as the Emissary. But that is how I think of you. And maybe that's why it's sometimes hard for me to... relax around you.,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53199,53199,53199,53199,257,SISKO,Nerys... ?,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53200,53200,53200,53200,258,KIRA,"Yes, sir?",53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.4019
+53201,53201,53201,53201,259,SISKO,Tell me a story...,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53202,53202,53202,53202,260,KIRA,All right. Do you know the one about the three brothers who went to Jo'kala?,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53203,53203,53203,53203,261,SISKO,No...,53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53204,53204,53204,53204,262,KIRA,"They were kava farmers, and one day they went out into their field and found the biggest kava root they'd ever seen, big as a house. ""This will make us rich,"" said the oldest. And they decided to dig it up and sell it in the city.",53   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53205,53205,53205,53205,263,STEVENS,"Sir, I have something.",54   INT. DEFIANT - ENGINE ROOM (VPB) ,DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53206,53206,53206,53206,264,WORF,They're too small to be ships...,54   INT. DEFIANT - ENGINE ROOM (VPB) ,DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53207,53207,53207,53207,265,STEVENS,They're closing fast...,54   INT. DEFIANT - ENGINE ROOM (VPB) ,DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53208,53208,53208,53208,266,O'BRIEN,Torpedoes.,54   INT. DEFIANT - ENGINE ROOM (VPB) ,DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53209,53209,53209,53209,267,WORF,Hard to port!,54   INT. DEFIANT - ENGINE ROOM (VPB) ,DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53210,53210,53210,53210,268,O'BRIEN,I'm modulating the deflectors... it might confuse their guidance systems.,54   INT. DEFIANT - ENGINE ROOM (VPB) ,DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53211,53211,53211,53211,269,STEVENS,"The second one's still closing... range, one hundred meters... seventy-five... fifty...",56   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53212,53212,53212,53212,270,HANOK,I suggest we leave this room immediately.,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53213,53213,53213,53213,271,QUARK,"And go where? If that thing explodes, the entire ship will be destroyed. Maybe we should try to defuse it.",59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53214,53214,53214,53214,272,HANOK,We should wait for help.,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53215,53215,53215,53215,273,QUARK,What if no one can get to us?,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53216,53216,53216,53216,274,QUARK,I don't like the sound of that. It's up to us...,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53217,53217,53217,53217,275,QUARK,There should be an emergency tool kit around here somewhere.,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53218,53218,53218,53218,276,QUARK,The arming mechanism must be somewhere in here. We have to remove this casing...,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53219,53219,53219,53219,277,HANOK,How?,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53220,53220,53220,53220,278,QUARK,There's no lock that can't be opened...,59   INT. DEFIANT - MESS HALL (CONTINUOUS),DEFIANT - MESS HALL,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53221,53221,53221,53221,279,O'BRIEN,It looks like the torpedo hit somewhere in here.,60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53222,53222,53222,53222,280,MUNIZ,"Problem is, we're cut off from that part of the ship.",60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53223,53223,53223,53223,281,WORF,"Mister Stevens, recalibrate the Structural Integrity Field to minimize the strain caused by the torpedo.",60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53224,53224,53224,53224,282,STEVENS,The field generators are already at their limit compensating for the hull breach on Deck Two.,60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53225,53225,53225,53225,283,WORF,"I am aware of the situation, Mister Stevens. If you cannot carry out my orders, I will find someone who can.",60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53226,53226,53226,53226,284,STEVENS,"That won't be necessary, sir.",60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53227,53227,53227,53227,285,O'BRIEN,"Could I have a word with you, sir?",60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53228,53228,53228,53228,286,WORF,Of course.,60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53229,53229,53229,53229,287,O'BRIEN,"With all due respect, I think you're riding these men a bit too hard. You have to understand, they're out of their element. They're not bridge officers, they didn't go to Starfleet Academy. They're Engineers. They're used to being told to repair something, and figuring out how to do it on their own.",60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53230,53230,53230,53230,288,WORF,What are you suggesting?,60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53231,53231,53231,53231,289,O'BRIEN,"Just give them a little slack, ease up on the reins. Let them do what they're good at... and give them a little encouragement now and then.",60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53232,53232,53232,53232,290,WORF,I will take it under consideration.,60   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53233,53233,53233,53233,291,DAX,I'm so cold...,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53234,53234,53234,53234,292,BASHIR,These walls aren't that well insulated... it's going to get even colder... Better?,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53235,53235,53235,53235,293,DAX,What?,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53236,53236,53236,53236,294,BASHIR,Just remembering something.,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53237,53237,53237,53237,295,DAX,Tell me.,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53238,53238,53238,53238,296,BASHIR,"When I first came to the station, I used to fantasize that you and I would go off on a runabout together on some mission. Something would go wrong with the ship... and we'd end up drifting around for a few days until they sent someone to rescue us.",61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53239,53239,53239,53239,297,DAX,"If you don't mind my saying, Julian, that's a very strange fantasy.",61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53240,53240,53240,53240,298,BASHIR,I guess it seemed like the only way we'd ever get a chance to spend time alone together. You were always avoiding me.,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53241,53241,53241,53241,299,DAX,It's just... you came on so strong. You didn't give me a chance to get to know you.,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53242,53242,53242,53242,300,BASHIR,"You're right, I didn't...",61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53243,53243,53243,53243,301,BASHIR,"Don't worry, Jadzia. It's been a while since I had that particular fantasy.",61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53244,53244,53244,53244,302,DAX,How long a while... exactly?,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53245,53245,53245,53245,303,BASHIR,"I don't know. Couple of years, maybe.",61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53246,53246,53246,53246,304,DAX,Oh...,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53247,53247,53247,53247,305,BASHIR,You're disappointed.,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53248,53248,53248,53248,306,DAX,Julian.,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53249,53249,53249,53249,307,BASHIR,"That's it. You enjoyed being chased, and now you miss it.",61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53250,53250,53250,53250,308,DAX,That is preposterous. And if you start chasing after me again --,61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53251,53251,53251,53251,309,BASHIR,"Now that I know you liked it, I don't need to, do I?",61   INT. DEFIANT - TURBOLIFT ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53252,53252,53252,53252,310,WORF,I require your assistance.,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53253,53253,53253,53253,311,WORF,I need a weapon...,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53254,53254,53254,53254,312,MUNIZ,We still have one atmospheric probe.,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53255,53255,53255,53255,313,WORF,"If my plan is to work, the probe will not be available to use as a weapon. I need something else.",INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53256,53256,53256,53256,314,STEVENS,"Phasers are out of the question, the emitters are completely fused.",INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53257,53257,53257,53257,315,MUNIZ,But the phaser generator is working fine...,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53258,53258,53258,53258,316,STEVENS,The Deflector Array.,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53259,53259,53259,53259,317,MUNIZ,"With a few modifications, we could use it as a phaser emitter.",INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53260,53260,53260,53260,318,STEVENS,"It may not be what you had in mind, sir...",INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53261,53261,53261,53261,319,MUNIZ,And there is one problem... It'll overload after the first shot.,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53262,53262,53262,53262,320,WORF,I only need one shot.,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53263,53263,53263,53263,321,WORF,How long will it take to make the modifications?,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53264,53264,53264,53264,322,MUNIZ,Twenty minutes?,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53265,53265,53265,53265,323,STEVENS,Ten if we can bypass the safeties.,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53266,53266,53266,53266,324,WORF,Go.,INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53267,53267,53267,53267,325,KIRA,"... but then the brothers started to argue about how to divide the money they got for the kava root. The oldest said that since it was his idea to bring it to the city, he should get more. The youngest objected, saying he was the one who'd tended the field where...",63   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53268,53268,53268,53268,326,KIRA,This can't happen... you can't die... You're the Emissary... there's still so much you have to do...,63   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53269,53269,53269,53269,327,KIRA,I don't know if this is the right thing to do or not... but I'm going to give you a stimulant...,63   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53270,53270,53270,53270,328,KIRA,Captain... I know that my beliefs can make you feel uncomfortable around me. And that maybe they're the reason you keep me at arm's length sometimes.,63   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53271,53271,53271,53271,329,KIRA,"But right now, I don't care about that. And that's why I hope you don't mind if I pray for a little while. I don't know what else to do. I'm losing you. And I can't let that happen.",63   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53272,53272,53272,53272,330,KIRA,"Jia'kaja, tre'nu'tol'a rem... La'por i'lanu kos... I'nar tan'a'tali nor...",63   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53273,53273,53273,53273,331,MUNIZ,"Everything's ready to go, sir.",64   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53274,53274,53274,53274,332,STEVENS,We can target the deflector from here.,64   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53275,53275,53275,53275,333,WORF,Good work.,64   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53276,53276,53276,53276,334,WORF,Take your posts.,64   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53277,53277,53277,53277,335,WORF,Mister O'Brien...,64   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53278,53278,53278,53278,336,O'BRIEN,There's nothing within scanning range...,64   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53279,53279,53279,53279,337,WORF,"The Jem'Hadar are out there, Mister O'Brien... you can be certain of that...",64   INT. DEFIANT - ENGINE ROOM (VPB),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53280,53280,53280,53280,338,QUARK,Gently...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53281,53281,53281,53281,339,QUARK,Okay... now what... ?,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53282,53282,53282,53282,340,HANOK,One of these diodes connects the warhead to the power source... the other is the firing mechanism.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53283,53283,53283,53283,341,QUARK,How do you know that?,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53284,53284,53284,53284,342,HANOK,I saw a design schematic once.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53285,53285,53285,53285,343,QUARK,Where?,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53286,53286,53286,53286,344,HANOK,At the Ministry of Trade on Karemma. We sell these torpedoes to the Jem'Hadar.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53287,53287,53287,53287,345,QUARK,You're kidding.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53288,53288,53288,53288,346,HANOK,No...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53289,53289,53289,53289,347,QUARK,"I thought you said you'd never sold substandard merchandise... It was supposed to explode on impact, wasn't it?",66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53290,53290,53290,53290,348,HANOK,Maybe I should offer them a refund...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53291,53291,53291,53291,349,QUARK,We'd better do something about this torpedo of yours...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53292,53292,53292,53292,350,HANOK,We have to remove the firing diode... but I don't know which one it is...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53293,53293,53293,53293,351,QUARK,And if we pick the wrong one... we die...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53294,53294,53294,53294,352,QUARK,This isn't funny... we just have to pick the right one... it's fifty-fifty... better odds than you get at the dabo table...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53295,53295,53295,53295,353,HANOK,dabo?,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53296,53296,53296,53296,354,QUARK,"It's a game... if we get out of this, I'll teach it to you. Choose one.",66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53297,53297,53297,53297,355,HANOK,How?,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53298,53298,53298,53298,356,QUARK,It's a gamble. Go with your instinct.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53299,53299,53299,53299,357,QUARK,You're thinking too much. You just have to reach in and grab one.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53300,53300,53300,53300,358,QUARK,Looks like we have a winner.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53301,53301,53301,53301,359,HANOK,That was... exciting.,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53302,53302,53302,53302,360,QUARK,"Feels good, doesn't it?",66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53303,53303,53303,53303,361,HANOK,Yes...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53304,53304,53304,53304,362,QUARK,"That's how it works. The bigger the risk, the bigger the win. You know... there's another risk you could take... staying in business with me.",66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53305,53305,53305,53305,363,HANOK,"You never give up, do you?",66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53306,53306,53306,53306,364,QUARK,"No. I tried to cheat you, and I lost. That doesn't mean I'm going to give up the game... Come on, Hanok. What do you say... do you want to keep playing?",66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53307,53307,53307,53307,365,HANOK,Let's talk about these Bolian currency fluctuations...,66   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53308,53308,53308,53308,366,KIRA,"Jia'kaja, tre'nu'tol'a rem... La'por i'lanu kos... I'nar tan'a'tali nor...",67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53309,53309,53309,53309,367,SISKO,Major... ?,67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53310,53310,53310,53310,368,KIRA,"Yes, captain?",67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53311,53311,53311,53311,369,SISKO,What... happened... ?,67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53312,53312,53312,53312,370,KIRA,The Jem'Hadar hit us pretty bad... Worf went down to the Engine Room to --,67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53313,53313,53313,53313,371,SISKO,"No, no...",67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53314,53314,53314,53314,372,SISKO,What happened to the three brothers?,67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53315,53315,53315,53315,373,KIRA,"They gave the money away, and went back to their farm where they belonged.",67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53316,53316,53316,53316,374,SISKO,Is good... Can you tell me another story... ?,67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53317,53317,53317,53317,375,KIRA,"I'd love to, sir...",67   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53318,53318,53318,53318,376,O'BRIEN,"Sir, I've got something.",68   INT. DEFIANT - ENGINE ROOM (OPTICAL),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53319,53319,53319,53319,377,O'BRIEN,It's the Jem'Hadar... they've locked onto the tetrion pulse...,68   INT. DEFIANT - ENGINE ROOM (OPTICAL),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53320,53320,53320,53320,378,WORF,"Stand by, Mister Stevens...",68   INT. DEFIANT - ENGINE ROOM (OPTICAL),DEFIANT - ENGINE ROOM,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53321,53321,53321,53321,379,WORF,Now.,70   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53322,53322,53322,53322,380,O'BRIEN,What do you say we find the Karemma and get out of here?,72   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53323,53323,53323,53323,381,WORF ,"Defiant Log, Supplemental.",73   INT. DEFIANT - CORRIDOR,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53324,53324,53324,53324,382,WORF ,Damage control teams are repairing the ship's systems and medics are tending to injured crewmembers.,74   INT. DEFIANT - TURBOLIFT,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53325,53325,53325,53325,383,WORF ,We have located the Karemma ship deep in the atmosphere and are moving to assist. It appears that it will have to be abandoned...,75   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53326,53326,53326,53326,384,WORF ,... and its crew brought back to Deep Space Nine until transportation can be arranged to the Karemma Homeworld.,76   INT. DEFIANT - MESS HALL,DEFIAN,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53327,53327,53327,53327,385,QUARK,"Oh! Pass five, too bad.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53328,53328,53328,53328,386,QUARK,"You lose half your stake. You can either quit now, or try to double it.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53329,53329,53329,53329,387,ODO,My advice is to take what latinum you have left and walk away.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53330,53330,53330,53330,388,HANOK,"Just because you lose a bet, that doesn't mean you give up the game.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53331,53331,53331,53331,389,QUARK,Exactly.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53332,53332,53332,53332,390,QUARK,May I suggest placing your next wager on double down.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53333,53333,53333,53333,391,HANOK,Put it all on triple over.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53334,53334,53334,53334,392,QUARK,I think you're making a big mistake.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53335,53335,53335,53335,393,HANOK,"Triple over. Nothing personal, Quark.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53336,53336,53336,53336,394,QUARK,Of course not...,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53337,53337,53337,53337,395,QUARK,You're really catching on...,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53338,53338,53338,53338,396,BASHIR,... seventeen brothers and sisters... ? That's quite a family.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53339,53339,53339,53339,397,DAX,"Excuse me, Morn.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0772
+53340,53340,53340,53340,398,DAX,It's your turn.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53341,53341,53341,53341,399,BASHIR,For what?,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53342,53342,53342,53342,400,DAX,Darts.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53343,53343,53343,53343,401,BASHIR,"Oh, right. Sorry, Morn. Nice talking to you.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53344,53344,53344,53344,402,BASHIR,Thanks for rescuing me.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53345,53345,53345,53345,403,DAX,Now we're even.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53346,53346,53346,53346,404,STEVENS,"Excuse me, sir.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53347,53347,53347,53347,405,STEVENS,Here's the repair schedule we drew up for the Defiant.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53348,53348,53348,53348,406,STEVENS,"With your approval, we thought we'd start by tearing out the secondary ODN lines. They're shot, and it'll be easier to get to the manifolds that way. After that we figured we'd --",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53349,53349,53349,53349,407,WORF,"Proceed at your discretion, Mister Stevens.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53350,53350,53350,53350,408,STEVENS,"Thank you, sir...",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53351,53351,53351,53351,409,WORF,How long will the repairs take?,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53352,53352,53352,53352,410,STEVENS,Sixteen hours.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53353,53353,53353,53353,411,O'BRIEN,You can do it in twelve.,77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53354,53354,53354,53354,412,STEVENS,"Sure, twelve. No problem.",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53355,53355,53355,53355,413,O'BRIEN,"You have to give them a lot of slack, but you can't take your hands off the reins...",77A  INT. QUARK'S (FORMERLY SC. 79) ,QUARK'S,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53356,53356,53356,53356,414,KIRA,"-- the Karemma transport will be here by eighteen hundred tomorrow, and the Defiant should be ready to escort them back to the Gamma Quadrant.",81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53357,53357,53357,53357,415,SISKO,Good.,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53358,53358,53358,53358,416,SISKO,"Major, it occurred to me that we should consider going to a four shift rotation. I think the crew might appreciate having more flexibility in their schedules.",81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53359,53359,53359,53359,417,KIRA,I'll look in to it first thing in the morning.,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53360,53360,53360,53360,418,SISKO,What are you doing for the next few hours?,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53361,53361,53361,53361,419,KIRA,"I'm going off duty, I thought I'd just relax.",81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53362,53362,53362,53362,420,SISKO,You want to go to a ball game?,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53363,53363,53363,53363,421,KIRA,"I'd love to, sir.",81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53364,53364,53364,53364,422,SISKO,Meet me in Holosuite Three in half an hour.,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53365,53365,53365,53365,423,KIRA,See you then.,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53366,53366,53366,53366,424,SISKO,Nerys...,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53367,53367,53367,53367,425,SISKO,You'll need this...,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53368,53368,53368,53368,426,SISKO,You get the hot dogs from Quark...,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53369,53369,53369,53369,427,KIRA,Hot dogs?,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53370,53370,53370,53370,428,SISKO,He'll know...,81   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Starship Down,1995-09-11,Deep Space Nine,479.txt,0.0
+53371,53371,53371,53371,0,QUARK,It's a trick.,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53372,53372,53372,53372,1,BASHIR,Of course it's a trick. But do you know how she did it?,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53373,53373,53373,53373,2,QUARK,She probably had the egg beamed directly into her mouth from one of the transporters.,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53374,53374,53374,53374,3,DAX,"Actually, one of my previous hosts used to dabble in sleight of hand.",1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53375,53375,53375,53375,4,BASHIR,"Tobin, by any chance?",1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53376,53376,53376,53376,5,DAX,That's right.,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53377,53377,53377,53377,6,BASHIR,"He sounds like the type. Painfully shy, introverted, a certain lack of confidence... just the kind of person who would begin looking for ways to dazzle people with his ""magical"" abilities.",1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53378,53378,53378,53378,7,QUARK,"(still thinking about the trick) She swallowed the egg before she came into the bar. Then she regurgitated it on cue. Quite disgusting, actually.",1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53379,53379,53379,53379,8,DAX,Wrong again.,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53380,53380,53380,53380,9,SISKO,"Sisko to Dax. I'd like to see you in my office, commander.",1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53381,53381,53381,53381,10,DAX,"On my way, Benjamin. Don't worry, Quark. I'm sure you'll figure it out eventually.",1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53382,53382,53382,53382,11,DAX,Hmm... no wonder you can't figure it out.,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53383,53383,53383,53383,12,QUARK,What?,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53384,53384,53384,53384,13,DAX,Your head's full of latinum.,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53385,53385,53385,53385,14,BASHIR,Ladies and gentlemen: The Amazing Jadzia Dax!,1    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53386,53386,53386,53386,15,SISKO,Have a seat.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53387,53387,53387,53387,16,SISKO,A Trill science team is on its way to the station. They're coming to conduct field tests on an experimental technique for creating artificial wormholes.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53388,53388,53388,53388,17,DAX,Sounds interesting.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53389,53389,53389,53389,18,SISKO,It's an important project and I've agreed to let them use the Defiant for their experiments. But I thought you should know that the leader of the Trill science team... is Doctor Lenara Kahn.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53390,53390,53390,53390,19,DAX,Kahn? Lenara... Kahn?,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53391,53391,53391,53391,20,SISKO,That's right. You have about three months worth of leave accumulated. Why don't you take some of it? We can get along without you for a while.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53392,53392,53392,53392,21,DAX,Am I that dispensable around here?,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53393,53393,53393,53393,22,SISKO,We won't even notice you're gone.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53394,53394,53394,53394,23,DAX,No. I'll stay. I can handle it.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53395,53395,53395,53395,24,SISKO,You sure?,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53396,53396,53396,53396,25,DAX,I'm sure. I've never let my past lives interfere with my job and I'm not going to start now. I'll be fine.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53397,53397,53397,53397,26,SISKO,Okay.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53398,53398,53398,53398,27,DAX,But thanks for giving me the option.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53399,53399,53399,53399,28,SISKO,Any time... old man.,2    INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53400,53400,53400,53400,29,DAX,They... just finished docking.,4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53401,53401,53401,53401,30,KIRA,Something wrong?,4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53402,53402,53402,53402,31,DAX,No.,4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,-0.296
+53403,53403,53403,53403,32,PREN,I'm Doctor Hanor Pren of the Trill science ministry.,4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53404,53404,53404,53404,33,KIRA,"I'm Major Kira Nerys, and I'd like to welcome you to Deep Space Nine. This is our strategic operations officer, Commander Worf, and of course our science officer, Commander Dax.",4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.6705
+53405,53405,53405,53405,34,PREN,"Allow me to introduce our team leader Doctor Lenara Kahn and her brother Doctor Bejal Otner. (introducing them to the Trill) Major Kira, Commander Worf, and Commander Dax.",4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53406,53406,53406,53406,35,DAX,It's been a long time.,4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53407,53407,53407,53407,36,LENARA,"Yes, it has.",4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53408,53408,53408,53408,37,WORF,"If you will come with me, I'll show you to your quarters.",4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53409,53409,53409,53409,38,KIRA,You know that woman?,4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53410,53410,53410,53410,39,DAX,"Oh, I know her. She used to be my wife.",4    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53411,53411,53411,53411,40,QUARK,So let me get this straight. Dax's first host was named Lela. Right?,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53412,53412,53412,53412,41,BASHIR,I think so.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53413,53413,53413,53413,42,KIRA,"Lela Dax, that's right...",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53414,53414,53414,53414,43,QUARK,"Then Lela dies and the Dax symbiont goes to a man named... Tobin. And after Tobin dies, then it's on to Emony... then... ... Torias.... Audrid...",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53415,53415,53415,53415,44,KIRA,"No, no. Audrid, then Torias.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53416,53416,53416,53416,45,QUARK,"Sorry. Audrid, Torias, Joran, Curzon... and then finally Jadzia. And this Doctor Lenara Kahn person was once married to... ?",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53417,53417,53417,53417,46,BASHIR,Torias. But of course she wasn't Lenara in those days.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53418,53418,53418,53418,47,QUARK,I knew it couldn't be that simple.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53419,53419,53419,53419,48,BASHIR,"The Kahn symbiont that's now joined to Lenara, used to be joined to a woman named Nilani. It was Nilani who married Torias Dax.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53420,53420,53420,53420,49,KIRA,But Torias was killed in a shuttle accident...,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53421,53421,53421,53421,50,BASHIR,"And so Nilani became a widow. Years later, when she died, the Kahn symbiont was joined to Lenara.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53422,53422,53422,53422,51,QUARK,"And now... Nilani is Lenara, and Torias is Jadzia. So that makes Lenara Jadzia's ex-wife.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53423,53423,53423,53423,52,KIRA,"It's a little more complicated than that, Quark.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53424,53424,53424,53424,53,QUARK,"I'm sure it is. But to be honest, I'm sorry I brought the whole thing up. It's giving me a headache.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53425,53425,53425,53425,54,BASHIR,Must be all that latinum rattling around in there.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53426,53426,53426,53426,55,BASHIR,I was right. You really should have that looked at.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53427,53427,53427,53427,56,QUARK,Get back to work.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53428,53428,53428,53428,57,QUARK,If you'll excuse me...,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53429,53429,53429,53429,58,KIRA,Dax teach you that?,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53430,53430,53430,53430,59,BASHIR,Next time I want to pull a rabbit out of his ear.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53431,53431,53431,53431,60,KIRA,"One thing I don't understand is why Dax and Lenara can't just... pick up where they left off. I mean, if they're still in love with each other --",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53432,53432,53432,53432,61,BASHIR,"Ah, but there's the rub. Even if they do harbor feelings for each other, it's strictly against the rules of Trill society for them to acknowledge it in any way.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53433,53433,53433,53433,62,KIRA,"The ""rules?""",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53434,53434,53434,53434,63,BASHIR,"It's more of a... taboo, really. Having a relationship with a lover from a past life is called, ""reassociation,"" and the Trill feel very strongly that it's... unnatural.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.7346
+53435,53435,53435,53435,64,KIRA,Unnatural? How can it be unnatural for a married couple to resume their marriage?,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53436,53436,53436,53436,65,BASHIR,"The whole point of joining is to allow the symbiont to accumulate experiences over the span of many lifetimes. But in order to move on from host to host, the symbiont has to let go of the past... let go of parents, children, siblings, even spouses.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53437,53437,53437,53437,66,KIRA,"I don't understand how two people who've fallen in love, and made a life together, can be forced to just... walk away from each other because of some... taboo. There must be some Trill that ""reassociate"" with people from their past.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53438,53438,53438,53438,67,BASHIR,I asked Dax the same question. And it seems there have been a few cases...,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53439,53439,53439,53439,68,KIRA,And what happened?,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53440,53440,53440,53440,69,BASHIR,They were exiled from the Trill homeworld.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53441,53441,53441,53441,70,KIRA,That would mean their symbionts would never be joined to new hosts.,5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53442,53442,53442,53442,71,BASHIR,"Exactly. When the hosts die, the symbionts would die with them. So you see, however Dax may feel about Lenara, she's not going to risk that. To a joined Trill, nothing is more important than protecting the life of the symbiont. Nothing.",5    INT. QUARK'S,QUARK'S,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53443,53443,53443,53443,72,DAX,Come in.,8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53444,53444,53444,53444,73,SISKO,I had a feeling you weren't going to be ready. I don't think Curzon was ever on time in his life. He was even late for his hundredth birthday party as I recall.,8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53445,53445,53445,53445,74,DAX,You're never going to let me forget that are you?,8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53446,53446,53446,53446,75,SISKO,Do you know how long I planned that party?,8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53447,53447,53447,53447,76,DAX,Three months. I know.,8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53448,53448,53448,53448,77,SISKO,"It's still not too late to back out of this reception, you know.",8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53449,53449,53449,53449,78,DAX,You know me. I hate to miss a party.,8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53450,53450,53450,53450,79,SISKO,I'm serious.,8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53451,53451,53451,53451,80,DAX,"I know. And I appreciate what you're trying to do... but I'm going to be working with Lenara for the next week, so I better get used to being around her.",8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53452,53452,53452,53452,81,DAX,"Stop worrying about me, Benjamin. I'll be fine.",8    INT. DAX'S QUARTERS,DAX'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53453,53453,53453,53453,82,SISKO,"... so in the spirit of friendship, we welcome you to Deep Space Nine and wish you success in creating the galaxy's first artificial wormhole.",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53454,53454,53454,53454,83,WORF,Yes.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53455,53455,53455,53455,84,BEJAL,You must be very excited. To... be a part of a potentially history-making project.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53456,53456,53456,53456,85,WORF,I am... looking forward to it.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53457,53457,53457,53457,86,LENARA,I think Mister Worf is less than enthusiastic about commanding a research mission. It's not exactly what every Klingon dreams about.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.683
+53458,53458,53458,53458,87,KIRA,"What do Klingons dream about, Worf?",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.25
+53459,53459,53459,53459,88,WORF,Things that would send cold chills down your spine and wake you in the middle of the night. Believe me... it is better that you do not know.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.4404
+53460,53460,53460,53460,89,KIRA,I can never tell when he's joking.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53461,53461,53461,53461,90,LENARA,"Maybe it is ""better that we do not know.""",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53462,53462,53462,53462,91,DAX,"I thought you liked parties, Odo.",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53463,53463,53463,53463,92,ODO,I enjoy parties that are given for my friends. But these diplomatic receptions... welcoming receptions... good-bye receptions... it all seems...,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53464,53464,53464,53464,93,DAX,Unnecessary?,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53465,53465,53465,53465,94,ODO,Exactly. I've never understood the humanoid obsession with bringing together groups of people and forcing them to interact socially.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53466,53466,53466,53466,95,DAX,Not all humanoids enjoy these functions.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53467,53467,53467,53467,96,ODO,Hmm. I think I may finally be starting to understand Mister Worf...,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53468,53468,53468,53468,97,LENARA,Well... this looks wonderful.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53469,53469,53469,53469,98,DAX,Mmmm-hmm.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53470,53470,53470,53470,99,LENARA,I take it most of this is Bajoran.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53471,53471,53471,53471,100,DAX,Hasperat... moba fruit... veklava...,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53472,53472,53472,53472,101,LENARA,"Of course, I'm not in the least bit hungry.",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53473,53473,53473,53473,102,DAX,Me neither.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53474,53474,53474,53474,103,LENARA,But I suppose we should load our plates anyway since the whole room is watching us.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53475,53475,53475,53475,104,DAX,Quite an audience.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53476,53476,53476,53476,105,LENARA,Seems a shame to disappoint them. We should probably do something.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53477,53477,53477,53477,106,DAX,We could get into a screaming match... start throwing things at each other...,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53478,53478,53478,53478,107,LENARA,Not bad. Or I suppose we could throw ourselves at each other... profess our undying love and our complete disregard for Trill society.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53479,53479,53479,53479,108,DAX,Doctor Pren would probably have a heart attack.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53480,53480,53480,53480,109,LENARA,"Forget about him, my brother's head would explode. He's been a nervous wreck ever since we arrived.",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53481,53481,53481,53481,110,DAX,I know the feeling.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53482,53482,53482,53482,111,LENARA,"Well, I'll tell you what I told him: we're both mature adults and we can handle this.",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53483,53483,53483,53483,112,DAX,I agree completely. It's going to be fine.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53484,53484,53484,53484,113,LENARA,They're watching again.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53485,53485,53485,53485,114,DAX,I know. I guess we better get used to it.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53486,53486,53486,53486,115,LENARA,"Thank you, Commander Dax. I appreciate your insightful commentary on Bajoran cuisine.",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53487,53487,53487,53487,116,DAX,"It was my pleasure, Doctor Kahn.",9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53488,53488,53488,53488,117,BASHIR,Well... that seemed to go well.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53489,53489,53489,53489,118,DAX,I never doubted it.,9    INT. WARDROOM,WARDROOM,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53490,53490,53490,53490,119,BEJAL,"After we launch our target drone, the Defiant will have to generate a subspace tensor matrix in the twenty-five to thirty thousand Cochrane range. Then the drone will send out a magneton pulse which should react with the matrix and create an opening in the space- time continuum.",14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53491,53491,53491,53491,120,EDDINGTON,How long will we have to keep generating the matrix?,14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53492,53492,53492,53492,121,PREN,"Two minutes, maybe less. Once the wormhole forms, we can shut down the tensor matrix.",14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53493,53493,53493,53493,122,O'BRIEN,We'll need to reroute the pre- ignition plasma from the impulse deck down to the auxiliary intake to get that much power... But I think we can do it.,14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53494,53494,53494,53494,123,BEJAL,Excellent.,14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53495,53495,53495,53495,124,PREN,We'll also need to download our parameters for the matrix into one of your computers.,14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53496,53496,53496,53496,125,DAX,We'd better use the main computer. I don't think the engineering computer can handle it.,14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53497,53497,53497,53497,126,O'BRIEN,I agree.,14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53498,53498,53498,53498,127,DAX,"If you'll come with me, we can go up to the bridge and begin downloading the data.",14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53499,53499,53499,53499,128,PREN,All right.,14   INT. DEFIANT - ENGINE ROOM,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53500,53500,53500,53500,129,LENARA,Everything looks good here. Dax?,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53501,53501,53501,53501,130,DAX,The backup navigation program is still showing some calibration drift. I think some data may have been lost in the startup routine.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53502,53502,53502,53502,131,PREN,"Well, that explains the seven percent falloff in AFR ratios I keep seeing. There must be a problem in the diagnostic sub-routines. I have a recalibration unit back in my quarters that might solve the problem.",15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53503,53503,53503,53503,132,DAX,I'll have someone bring it here.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53504,53504,53504,53504,133,PREN,"No, no. I need a break anyway.",15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53505,53505,53505,53505,134,LENARA,Now I'm getting a dropoff in the triple-R output. We might have a bigger problem than the diagnostic subroutines.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53506,53506,53506,53506,135,DAX,Don't panic yet. It could just be a transtater failure. Happens all the time.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53507,53507,53507,53507,136,LENARA,I wasn't panicking.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53508,53508,53508,53508,137,DAX,It's just an expression. (looks at her in surprise) Sorry.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53509,53509,53509,53509,138,LENARA,"No, I'm sorry. Forget it.",15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53510,53510,53510,53510,139,LENARA,It's just that... you always used to -- I mean Torias always used to tell Nilani that she was panicking about things... making a big fuss over nothing.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53511,53511,53511,53511,140,DAX,"Well... Torias could be insensitive at times... But... you have to admit, Nilani did do her share of overreacting.",15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53512,53512,53512,53512,141,LENARA,That's because you were a pilot and it made me nervous -- made her nervous... Torias being a pilot made Nilani nervous.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53513,53513,53513,53513,142,LENARA,I've never had quite this much trouble sorting out my feelings from those of a past host.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53514,53514,53514,53514,143,DAX,I know what you mean.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53515,53515,53515,53515,144,LENARA,Probably another reason why we're not supposed to spend much time together... we'd just get lost in the past.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53516,53516,53516,53516,145,DAX,Let's try running the transtater diagnostic again.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53517,53517,53517,53517,146,LENARA,Okay.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53518,53518,53518,53518,147,DAX,Nilani wasn't panicking the day before Torias died.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53519,53519,53519,53519,148,LENARA,No?,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53520,53520,53520,53520,149,DAX,No. Torias should've listened to her. The shuttle wasn't ready for a full impulse test... but Torias had to do it anyway... and he was wrong. And whatever part of me is still Torias... is very sorry... and wishes he'd listened to you.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53521,53521,53521,53521,150,DAX,Well... we still have a lot of work to do.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53522,53522,53522,53522,151,LENARA,Right.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53523,53523,53523,53523,152,DAX,Would you be interested in dinner? I mean I'm having dinner with some friends and I thought... maybe you'd like to... join us?,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53524,53524,53524,53524,153,LENARA,I wouldn't want to intrude on your friends...,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53525,53525,53525,53525,154,DAX,It's actually... not that big a group... it's really just me and... Julian.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53526,53526,53526,53526,155,LENARA,Doctor Bashir? Sure. That sounds great.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53527,53527,53527,53527,156,DAX,Great.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53528,53528,53528,53528,157,LENARA,Okay. Dinner. Tonight.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53529,53529,53529,53529,158,DAX,At Quark's.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53530,53530,53530,53530,159,LENARA,Great.,15   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53531,53531,53531,53531,160,BASHIR,"Tonight? I can't, I have plans.",16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53532,53532,53532,53532,161,DAX,"Cancel them. I mean, if you can cancel them it would be... nice.",16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53533,53533,53533,53533,162,BASHIR,It'll be nice because... ?,16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53534,53534,53534,53534,163,DAX,Because... I've invited Lenara out to dinner and...,16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53535,53535,53535,53535,164,BASHIR,And it would be less awkward if you had a... chaperone.,16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53536,53536,53536,53536,165,DAX,Exactly. Will you do it?,16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53537,53537,53537,53537,166,BASHIR,Something tells me I should say no... but I won't. What time?,16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53538,53538,53538,53538,167,DAX,Twenty-two hundred at Quark's. Thanks. I owe you one.,16   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53539,53539,53539,53539,168,DAX,"... No, it didn't have a red awning. It had a... big ratana tree or something out front.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53540,53540,53540,53540,169,LENARA,"You don't mean the ""Barros Inn?""",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53541,53541,53541,53541,170,DAX,Yes! That's it.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53542,53542,53542,53542,171,LENARA,Curzon got thrown out of the Barros Inn? That's one of the wildest bars in the Rigel system. What did he do?,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53543,53543,53543,53543,172,DAX,"Well, he sort of set fire to it...",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53544,53544,53544,53544,173,LENARA,Sort of?,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53545,53545,53545,53545,174,DAX,"All right, he did set fire to it. But it wasn't deliberate. It was part of a bet. But that's another story.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53546,53546,53546,53546,175,LENARA,Curzon was certainly... different from most joined Trills.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53547,53547,53547,53547,176,DAX,He liked to do things his own way. He used to say that there was an exception to every rule... and he usually went out of his way to find it.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53548,53548,53548,53548,177,LENARA,In a way I'm glad I never met him. We probably wouldn't have liked each other very much.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53549,53549,53549,53549,178,DAX,"Oh, he wasn't that bad. I tend to exaggerate his rebellious qualities. But you may have a point... Curzon never did have much use for scientists.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53550,53550,53550,53550,179,LENARA,"Well, that's interesting considering what you do now.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53551,53551,53551,53551,180,DAX,Curzon would be horrified to know that I'm a scientist. The very idea of doing research made him ill.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53552,53552,53552,53552,181,LENARA,Torias was not much different. I can remember talking to him about my wanting to study theoretical quantum physics and his eyes glazed over.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53553,53553,53553,53553,182,DAX,The irony is that you and I have more in common than Torias and Nilani ever did.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53554,53554,53554,53554,183,LENARA,That's right...,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53555,53555,53555,53555,184,NURSE,Infirmary to Doctor Bashir.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53556,53556,53556,53556,185,BASHIR,"Bashir here, go ahead.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53557,53557,53557,53557,186,NURSE,"I'm sorry to disturb you, Doctor. But Ensign Tyler's broken his leg and I think you should --",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53558,53558,53558,53558,187,BASHIR,I'm on my way. Sorry. But duty calls.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53559,53559,53559,53559,188,DAX,It's all right. Thanks for coming.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53560,53560,53560,53560,189,LENARA,Nice to see you again.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53561,53561,53561,53561,190,LENARA,Now that is a good friend. He sat here and listened to us trade stories about our former hosts all night and never once complained.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53562,53562,53562,53562,191,DAX,I think he really enjoyed himself.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53563,53563,53563,53563,192,DAX,"Okay, maybe not. But I'll make it up to him.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53564,53564,53564,53564,193,DAX,Those are Klingon aren't they?,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53565,53565,53565,53565,194,LENARA,How'd you know?,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53566,53566,53566,53566,195,LENARA,Curzon?,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53567,53567,53567,53567,196,LENARA,"They were a gift from a Klingon scientist. He wanted to give me one of those knives they're always carrying, but I refused.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53568,53568,53568,53568,197,DAX,They're beautiful.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53569,53569,53569,53569,198,LENARA,Keep them. Really. I'm... not very Klingon.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53570,53570,53570,53570,199,DAX,Thank you.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53571,53571,53571,53571,200,DAX,Well?,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53572,53572,53572,53572,201,LENARA,"They suit you. It's good to see you again, Dax. That sounds strange, doesn't it?",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53573,53573,53573,53573,202,LENARA ,"I mean, I'm looking at a different face, hearing a different voice... but somehow, it's still you.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53574,53574,53574,53574,203,DAX,"I know. Every time I start to think of you as just Lenara, you'll smile or laugh... and suddenly... it's you.",21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53575,53575,53575,53575,204,DAX,I'm really glad you're here.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53576,53576,53576,53576,205,LENARA,Me too.,21   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53577,53577,53577,53577,206,WORF ,Defiant Log: Stardate 49195.5. We have arrived at the coordinates to begin preliminary tests for the artificial wormhole project.,23   EXT. SPACE - THE DEFIANT (OPTICAL),SPACE - THE DEFIANT,EXT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53578,53578,53578,53578,207,BEJAL,"The target drone is in position, commander.",24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53579,53579,53579,53579,208,WORF,Full scan.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53580,53580,53580,53580,209,DAX,No ships within sensor range.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53581,53581,53581,53581,210,WORF,"Bridge to Engine room. Are you ready, Mister Eddington?",24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53582,53582,53582,53582,211,EDDINGTON,"We're ready, Commander.",24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53583,53583,53583,53583,212,WORF,"Doctor Kahn, you may proceed.",24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53584,53584,53584,53584,213,LENARA,Energize the focal array and stand by to initiate the subspace tensor matrix.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53585,53585,53585,53585,214,DAX,This AQF sequencer is always giving me problems.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53586,53586,53586,53586,215,LENARA,Maybe it doesn't like you.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53587,53587,53587,53587,216,DAX,How could it not like me? I'm adorable.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53588,53588,53588,53588,217,LENARA,That is a matter of opinion.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53589,53589,53589,53589,218,DAX,I'll have you know that the word adorable is used three times in my Starfleet personnel file.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53590,53590,53590,53590,219,BEJAL,The plasma coil interlocks are in place... deflector grid is charged and standing by...,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53591,53591,53591,53591,220,PREN,They're very friendly today.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53592,53592,53592,53592,221,BEJAL,Mmm.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53593,53593,53593,53593,222,PREN,They had dinner last night... alone.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53594,53594,53594,53594,223,BEJAL,What're you trying to say?,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53595,53595,53595,53595,224,PREN,I shouldn't have to say anything.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53596,53596,53596,53596,225,BEJAL,Then don't.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53597,53597,53597,53597,226,BEJAL,We're ready to generate the tensor matrix.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53598,53598,53598,53598,227,DAX,The drone is standing by.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53599,53599,53599,53599,228,LENARA,Initialize the focal array.,24   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53600,53600,53600,53600,229,LENARA,Activate the drone.,30   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53601,53601,53601,53601,230,DAX,The drone is sending out the magneton pulse... It's reached the matrix...,30   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53602,53602,53602,53602,231,PREN,I'm picking up a subspace distortion...,30   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53603,53603,53603,53603,232,BEJAL,The distortion is becoming coherent... it's working!,30   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53604,53604,53604,53604,233,DAX,The magneton pulse is causing a feedback loop... it'll destroy the drone in a few seconds.,30   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53605,53605,53605,53605,234,LENARA,A few seconds is all we need...,30   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53606,53606,53606,53606,235,BEJAL,There it is.,32   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53607,53607,53607,53607,236,DAX,The drone's been destroyed. But you did it!,32   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53608,53608,53608,53608,237,WORF,"Congratulations, Doctor.",32   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53609,53609,53609,53609,238,LENARA,Thank you. That was only the first step. But what a step!,32   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53610,53610,53610,53610,239,DAX,I'm so proud of you.,32   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53611,53611,53611,53611,240,LENARA,"All the telemetry checks out... the wormhole was open for twenty- three point four seconds, and during that time it was completely coherent.",35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53612,53612,53612,53612,241,BEJAL,You couldn't ask for a better beginning. But it all comes down to the next test. We have to be able to send an object through the wormhole to prove that it's stable enough for space travel.,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53613,53613,53613,53613,242,LENARA,That reminds me... Dax thinks we should use a Class Four probe to make the actual run. She says the Class Four shielding will give us a better idea of how the wormhole will affect a real ship.,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53614,53614,53614,53614,243,BEJAL,Oh... I didn't know you talked to Dax since we got back.,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53615,53615,53615,53615,244,LENARA,I saw her last night.,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53616,53616,53616,53616,245,BEJAL,Where?,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53617,53617,53617,53617,246,LENARA,She stopped by my quarters...,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53618,53618,53618,53618,247,BEJAL,And how long did she stay?,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53619,53619,53619,53619,248,LENARA,Is there something you want to ask me?,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53620,53620,53620,53620,249,BEJAL,I don't want to ask you anything... but I'm starting to wonder if I should.,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53621,53621,53621,53621,250,LENARA,I don't believe this.,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53622,53622,53622,53622,251,BEJAL,Believe it. People are starting to notice.,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53623,53623,53623,53623,252,LENARA,People?,35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53624,53624,53624,53624,253,BEJAL,"Doctor Pren saw you holding hands at dinner the other night. I thought he was overreacting, but then I saw the way the two of you were acting on the Defiant...",35   INT. REPLIMAT ,REPLIMAT ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53625,53625,53625,53625,254,BEJAL,Lenara... Lenara!,36   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53626,53626,53626,53626,255,BEJAL,I'm sorry... I'm sorry.,36   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53627,53627,53627,53627,256,BEJAL,Look... I'm your brother. You tell me nothing's going on... then nothing's going on. I just want to hear you say it.,36   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53628,53628,53628,53628,257,LENARA,There is nothing going on. All right?,36   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53629,53629,53629,53629,258,BEJAL,All right.,36   INT. PROMENADE - CONTINUOUS,PROMENAD,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53630,53630,53630,53630,259,DAX,Come in.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53631,53631,53631,53631,260,DAX,What's wrong?,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53632,53632,53632,53632,261,LENARA,I just had an unpleasant conversation with my brother. He thinks there's something going on between us.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53633,53633,53633,53633,262,DAX,Oh. What'd you tell him?,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53634,53634,53634,53634,263,LENARA,I told him that was ridiculous... that you and I are just friends and of course there's nothing going on.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53635,53635,53635,53635,264,DAX,"Well, then that should settle it.",37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53636,53636,53636,53636,265,DAX,Maybe we shouldn't spend time together... it'll just give people the wrong idea.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53637,53637,53637,53637,266,LENARA,Or give them the right idea.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53638,53638,53638,53638,267,DAX,Maybe we shouldn't have this conversation.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53639,53639,53639,53639,268,LENARA,Would that do any good... would it change how either of us feels?,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53640,53640,53640,53640,269,DAX,No... but it would be easier.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53641,53641,53641,53641,270,LENARA,You've never been one for the easy way out.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53642,53642,53642,53642,271,DAX,"That's true. But in this case, I'm not the only one involved. I don't want to do anything that would hurt you. I did that once before... I climbed into a shuttlecraft and made you a widow.",37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53643,53643,53643,53643,272,LENARA,I knew you were a pilot when I married you. I knew the risks. I went in with my eyes wide open.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53644,53644,53644,53644,273,DAX,And what about now... are your eyes open... do you know what the risks are?,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53645,53645,53645,53645,274,LENARA,I thought I'd gotten over you... it's been so long... so much has happened. But now I know I haven't...,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53646,53646,53646,53646,275,DAX,I've missed you so much.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53647,53647,53647,53647,276,LENARA,I'd better go.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53648,53648,53648,53648,277,DAX,Yeah.,37   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53649,53649,53649,53649,278,DAX,"I don't know what to do, Benjamin.",38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53650,53650,53650,53650,279,SISKO,What do you want to do?,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53651,53651,53651,53651,280,DAX,"Throw myself at her... profess my undying love and my complete disregard for Trill society. A joke Lenara made at the reception. Doesn't sound so funny anymore, does it?",38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53652,53652,53652,53652,281,SISKO,Not really.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53653,53653,53653,53653,282,DAX,You don't think I should pursue this.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53654,53654,53654,53654,283,SISKO,No.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53655,53655,53655,53655,284,DAX,Okay. Why?,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53656,53656,53656,53656,285,SISKO,"Because I remember what Curzon used to say about ""reassociation."" That it didn't matter whether he agreed with the taboo or not.",38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53657,53657,53657,53657,286,SISKO ,Because the price for violating it was too high. Exile.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53658,53658,53658,53658,287,DAX,"I know what Curzon used to say, Benjamin. But I'm not Curzon.",38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53659,53659,53659,53659,288,SISKO,"You're not Torias, either. You're Jadzia Dax and you have a responsibility as a joined Trill to --",38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53660,53660,53660,53660,289,DAX,I didn't come here for a lecture on my responsibilities.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53661,53661,53661,53661,290,SISKO,What you came here for was to get advice from a friend. And that's what you're getting.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53662,53662,53662,53662,291,DAX,You're right. Sorry.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53663,53663,53663,53663,292,SISKO,I know this is difficult for you. And I know how you feel about Lenara... but I want you to think about what'll happen if you pursue this.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53664,53664,53664,53664,293,SISKO,If you're exiled from Trill... there'll be no further hosts for your symbiont. When Jadzia dies... Dax dies.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53665,53665,53665,53665,294,SISKO,"It goes against everything you were taught during initiate training. You've told me again and again that each host is only a link in a chain... and that no matter what happens, the life of the symbiont must go on.",38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53666,53666,53666,53666,295,DAX,"I know that... and I believe in it. But I also know that I love her, Benjamin.",38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53667,53667,53667,53667,296,SISKO,I know you do. And if I were in your position... I'd probably be just as ready to throw everything away for the woman I love. But I'd want to be sure that I was ready to pay the price.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53668,53668,53668,53668,297,DAX,You're right. I have to be sure.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53669,53669,53669,53669,298,SISKO,But if you are sure... if this is what you really want... I'll back you up... all the way.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53670,53670,53670,53670,299,DAX,I've lived seven lifetimes... and I've never had a friend quite like you.,38   INT. CAPTAIN'S OFFICE ,CAPTAIN'S OFFICE ,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53671,53671,53671,53671,300,EDDINGTON,Eddington to Bridge. We're ready to generate the tensor matrix.,39A  INT. DEFIANT - ENGINE ROOM ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53672,53672,53672,53672,301,WORF,Understood. Stand by. Commander Dax?,40   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53673,53673,53673,53673,302,DAX,Subspace field stress is within normal parameters.,40   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53674,53674,53674,53674,303,PREN,The probe's ready for launch.,40   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53675,53675,53675,53675,304,BEJAL,The target drone is in position.,40   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53676,53676,53676,53676,305,WORF,"Bridge to Engine Room. Initialize the subspace matrix, Mister Eddington.",40   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53677,53677,53677,53677,306,EDDINGTON,Acknowledged.,40   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53678,53678,53678,53678,307,PREN,Activate the drone.,44   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53679,53679,53679,53679,308,BEJAL,Wormhole neutrino readings... are stable.,44   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.296
+53680,53680,53680,53680,309,DAX,Subspace field stress is up by fifteen percent... but still within safety margins.,44   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.4215
+53681,53681,53681,53681,310,WORF,Launch the probe.,44   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53682,53682,53682,53682,311,WORF,Report.,46   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53683,53683,53683,53683,312,DAX,No helm control... there's a hull breach on Deck Five... emergency forcefields are in place.,46   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53684,53684,53684,53684,313,BEJAL,I'm reading a massive plasma leak in the Engine Room.,46   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53685,53685,53685,53685,314,WORF,Bridge to Engine Room. Mister Eddington. Doctor Kahn can you hear me?,46   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53686,53686,53686,53686,315,DAX,Have a damage control team meet me down there.,46   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53687,53687,53687,53687,316,DAX,Stand back.,49   INT. DEFIANT - CORRIDOR ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53688,53688,53688,53688,317,EDDINGTON,It's out of control. We can't put it out with those. We'll have to vent the entire compartment out into space.,50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53689,53689,53689,53689,318,DAX,No. Lenara might still be alive.,50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53690,53690,53690,53690,319,EDDINGTON,There's no way to get to her.,50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53691,53691,53691,53691,320,DAX,How long will a level eight forcefield last in here?,50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53692,53692,53692,53692,321,EDDINGTON,"Not long with that plasma fire. Four, five seconds at the most.",50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53693,53693,53693,53693,322,DAX,I think I can get to her.,50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53694,53694,53694,53694,323,EDDINGTON,"Dax, if we don't contain this thing now, it's going to set off the warp core.",50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53695,53695,53695,53695,324,DAX,I know. Just give me ten seconds and then vent the compartment.,50   INT. DEFIANT - ENGINE ROOM - UPPER LEVEL (OPTICAL) ,DEFIANT - ENGINE ROOM - UPPER LEVEL,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53696,53696,53696,53696,325,LENARA,Dax...,53   INT. DEFIANT - JEFFERIES TUBE - CONTINUOUS ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53697,53697,53697,53697,326,DAX,I thought I lost you...,53   INT. DEFIANT - JEFFERIES TUBE - CONTINUOUS ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53698,53698,53698,53698,327,LENARA,So did I... I don't want to lose you... not again...,53   INT. DEFIANT - JEFFERIES TUBE - CONTINUOUS ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53699,53699,53699,53699,328,DAX,Not again... never again...,53   INT. DEFIANT - JEFFERIES TUBE - CONTINUOUS ,DEFIAN,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53700,53700,53700,53700,329,LENARA,Come in.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53701,53701,53701,53701,330,DAX,How're you feeling?,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53702,53702,53702,53702,331,BEJAL,Much better. She's almost fully recovered.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53703,53703,53703,53703,332,LENARA,My brother the nurse.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53704,53704,53704,53704,333,BEJAL,I want to thank you... for what you did. Lenara... means a lot to me.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53705,53705,53705,53705,334,DAX,To both of us.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53706,53706,53706,53706,335,BEJAL,Yes. I'll leave you two alone.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53707,53707,53707,53707,336,LENARA,Do they know what happened to the wormhole yet?,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53708,53708,53708,53708,337,DAX,Our best guess at this point is that the tetrion field reacted to the probe's shielding and produced a massive graviton wave.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53709,53709,53709,53709,338,DAX,The important thing is that no one was killed and we brought the ship back in one piece.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53710,53710,53710,53710,339,LENARA,The ship. How bad was the damage?,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53711,53711,53711,53711,340,DAX,Chief O'Brien says he'll have it good as new in two weeks. Now stop torturing yourself. It wasn't your fault.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53712,53712,53712,53712,341,LENARA,It was my project... my theories...,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53713,53713,53713,53713,342,DAX,And you shouldn't forget that your project and your theories still produced the first artificially created wormhole in history. It's a huge achievement.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53714,53714,53714,53714,343,LENARA,You're right. I am being a little self-indulgent aren't I?,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53715,53715,53715,53715,344,DAX,Yes. You are.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53716,53716,53716,53716,345,LENARA,Well. I guess I'll have a lot of work to do when I get back to Trill. Analyzing the telemetry from the probe alone will probably take months.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53717,53717,53717,53717,346,DAX,Probably.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53718,53718,53718,53718,347,DAX,Why not do the work here... with me.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53719,53719,53719,53719,348,LENARA,With you. The two of us... together. You know what that would mean...,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53720,53720,53720,53720,349,DAX,I know exactly what it would mean. But I think it's worth the price.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53721,53721,53721,53721,350,LENARA,That's funny... Bejal just spent the last half hour telling me that it wouldn't be worth it. He thinks I should go back to Trill with him tomorrow and try to forget about you.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53722,53722,53722,53722,351,DAX,"Well, at least he's consistent.",56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53723,53723,53723,53723,352,LENARA,Don't be too hard on him. He's only trying to look out for his big sister.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53724,53724,53724,53724,353,DAX,"Everyone's trying to... look out for us. Protect us from ourselves. But in the end, all that matters is how we feel... and what we do about it. Because either way, we're the ones who have to live with the consequences.",56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53725,53725,53725,53725,354,LENARA,"That's the tricky part though, isn't it? Living with the consequences.",56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53726,53726,53726,53726,355,LENARA,"When you're not around, it's like part of me is missing. I want to be with you more than anything... But I don't think I can do this...",56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53727,53727,53727,53727,356,LENARA,"I'm not like you, Dax... I don't have a little Curzon inside me telling me to be impulsive... to ignore the rules... give up everything I've worked for...",56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53728,53728,53728,53728,357,DAX,Can you really walk away from me... from us? After all this time we're back together. Don't throw that away.,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53729,53729,53729,53729,358,LENARA,I don't want to... Maybe I need more time... maybe if I go back to Trill for a while... think it over... I could always come back later...,56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53730,53730,53730,53730,359,DAX,"I wish I could believe that. But ultimately, it comes down to this... if you feel about me the way I feel about you... you won't get on that transport tomorrow. And if you do leave... I think we both know you're never coming back.",56   INT. LENARA'S QUARTERS,LENARA'S QUARTERS,INT.,Rejoined,1995-08-30,Deep Space Nine,478.txt,0.0
+53731,53731,53731,53731,0,,Late at night. Both levels are completely deserted and the lights are low. There's an eerie quality to the play of light and shadows on the Promenade floor.,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53732,53732,53732,53732,1,BAREIL,Nerys?,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53733,53733,53733,53733,2,KIRA,Vedek Bareil. Want to play?,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.4019
+53734,53734,53734,53734,3,BAREIL,Help me.,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.4019
+53735,53735,53735,53735,4,BAREIL,Please.,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53736,53736,53736,53736,5,KIRA,All right.,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53737,53737,53737,53737,6,KIRA,Who is it?,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53738,53738,53738,53738,7,BAREIL,It's Prylar Bek.,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53739,53739,53739,53739,8,KIRA,No it's not.,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53740,53740,53740,53740,9,KIRA,It's you.,1    INT. PROMENADE - FIRST FLOOR (ORB SEQUENCE),PROMENADE - FIRST FLOOR,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53741,53741,53741,53741,10,BAREIL,I thought you'd sleep until noon.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53742,53742,53742,53742,11,KIRA,Shh. You're supposed to be relaxing.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53743,53743,53743,53743,12,BAREIL,"Oh, I'm... very relaxed.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53744,53744,53744,53744,13,KIRA,Good.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53745,53745,53745,53745,14,BAREIL,And how are you feeling this morning?,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53746,53746,53746,53746,15,KIRA,Miserable. I wish you could stay here longer.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53747,53747,53747,53747,16,BAREIL,"All right, I will. I'll stay a few more days.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53748,53748,53748,53748,17,KIRA,You know you can't do that.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53749,53749,53749,53749,18,BAREIL,Why not?,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53750,53750,53750,53750,19,KIRA,"Because in two days, you're going to be elected Kai.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53751,53751,53751,53751,20,BAREIL,"Oh, that. You know there's no guarantee that I'm going to win.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53752,53752,53752,53752,21,KIRA,Of course you're going to win. The people need you.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53753,53753,53753,53753,22,BAREIL,Are you going to vote for me?,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53754,53754,53754,53754,23,KIRA,Is that why you spent the past three days here? To get my vote?,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53755,53755,53755,53755,24,BAREIL,"Well, I know you don't agree with many of my views. So I thought a personal appearance might sway your opinion.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53756,53756,53756,53756,25,KIRA,I was going to vote for Vedek Tolena...,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53757,53757,53757,53757,26,KIRA,But I suppose I might be persuaded to change my mind.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53758,53758,53758,53758,27,BAREIL,Good. Because your vote is the only one that matters to me.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53759,53759,53759,53759,28,KIRA,"I may not always agree with your interpretations of the prophecies, but I think you'll make a wonderful Kai. Besides, everyone knows you were Kai Opaka's personal choice to succeed her.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53760,53760,53760,53760,29,BAREIL,I could never replace Opaka. Bajor wouldn't have survived the occupation without her.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53761,53761,53761,53761,30,KIRA,"Once you become Kai, we'll never have these times together.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53762,53762,53762,53762,31,BAREIL,"Listen to me, Nerys... No matter how busy I become... I'll always have time for you.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53763,53763,53763,53763,32,KIRA,It won't be easy...,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53764,53764,53764,53764,33,BAREIL,"I didn't say it would be. But I'm not going to lose you, Nerys. I promise you that.",14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53765,53765,53765,53765,34,KIRA,I have to report for duty in less than an hour.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53766,53766,53766,53766,35,BAREIL,My ship leaves even sooner.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53767,53767,53767,53767,36,KIRA,That doesn't leave us much time.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53768,53768,53768,53768,37,BAREIL,The Prophets say that time is an illusion. That a minute can last an eternity if you let it.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53769,53769,53769,53769,38,KIRA,Do you really believe that?,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53770,53770,53770,53770,39,BAREIL,I'm willing to give it a try.,14   INT. KIRA'S QUARTERS - CLOSE ON BAREIL,KIRA'S QUARTER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53771,53771,53771,53771,40,WINN,"(to the children; benevolently) I can't tell you how much it pleases me to see such beautiful, happy children... Remember now, honor the Prophets and they will always love you.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53772,53772,53772,53772,41,BAREIL,"As I understand the Sacred Texts, the Prophets' love is unconditional. They ask nothing in return.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53773,53773,53773,53773,42,WINN,"Thank you, Vedek Bareil, for reminding us how the Sacred Texts can be easily misinterpreted.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53774,53774,53774,53774,43,BAREIL,"Nothing pleases me more than providing you with an opposing viewpoint, Vedek Winn.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53775,53775,53775,53775,44,WINN,Somehow you never fail to do that. I had no idea you were on the station. But I suppose I shouldn't be too surprised.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53776,53776,53776,53776,45,BAREIL,"I would never even try to surprise you, Winn. I understand you've been keeping a very close eye on my activities these last few weeks.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53777,53777,53777,53777,46,WINN,"The eyes of all of Bajor have been focused on you, Bareil. Why should I be any different? After all, the common wisdom is that you're destined to be the next Kai.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53778,53778,53778,53778,47,KIRA,Was that a concession speech?,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53779,53779,53779,53779,48,WINN,"Hardly. The choosing is still two days away. The Prophets may yet surprise us all. (to Bareil, with a curt look to Kira) Remember that, Bareil. I would hate for you to start celebrating prematurely.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53780,53780,53780,53780,49,BAREIL,I'd never dream of it. Not with such distinguished opponents as yourself and Vedek Tolena still under consideration.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53781,53781,53781,53781,50,WINN,All I ask is that the people follow the will of the Prophets.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53782,53782,53782,53782,51,BAREIL,I'm sure they will.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53783,53783,53783,53783,52,KIRA,"What brings you to the station, Vedek Winn?",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53784,53784,53784,53784,53,WINN,"My child, if I thought the Prophets wanted you to know the purpose of my visit, I would've informed you of it in advance.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53785,53785,53785,53785,54,KIRA,"Now that I know that you're here, I'll be sure to inform Constable Odo to increase station security.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53786,53786,53786,53786,55,WINN,That won't be necessary. I feel quite safe here.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53787,53787,53787,53787,56,KIRA,It wasn't your safety that concerned me.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53788,53788,53788,53788,57,WINN,"Just what are you trying to infer, child?",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53789,53789,53789,53789,58,BAREIL,I'm sure Major Kira meant no disrespect.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53790,53790,53790,53790,59,KIRA,"Oh, no. None at all. I just want to make sure we avoid the violence that occurred during your last visit.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53791,53791,53791,53791,60,WINN,"My child, I know you still hold me responsible for the deplorable attempt on Vedek Bareil's life. I can only pray that someday you will be cured of that unfortunate misconception.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53792,53792,53792,53792,61,KIRA,You can be sure that's one prayer that'll never be answered.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53793,53793,53793,53793,62,WINN,What a pity... for both of us.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53794,53794,53794,53794,63,BAREIL,"(trying to extricate himself) Well, I'm afraid I have a transport to catch.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53795,53795,53795,53795,64,WINN,Of course you do. I'm glad we've had this chance to talk.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.6428
+53796,53796,53796,53796,65,BAREIL,May the Prophets guide your path.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53797,53797,53797,53797,66,KIRA,And watch your every step.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53798,53798,53798,53798,67,EBLAN,Excuse me...,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53799,53799,53799,53799,68,EBLAN,Wait... I know you...,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53800,53800,53800,53800,69,KUBUS,You must be mistaken.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53801,53801,53801,53801,70,EBLAN,No. I've seen you before. You... You're... Kubus. Kubus Oak. You worked for the Cardassians.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53802,53802,53802,53802,71,KUBUS,Move. Get out of my way.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53803,53803,53803,53803,72,EBLAN,What are you doing? Don't let him get away. He's a traitor. Stop him.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53804,53804,53804,53804,73,EBLAN,You're not going anywhere.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53805,53805,53805,53805,74,ODO ,What's going on here...,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53806,53806,53806,53806,75,EBLAN,See for yourself.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53807,53807,53807,53807,76,ODO,"Secretary Kubus. Last I heard, you were living on Cardassia.",19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53808,53808,53808,53808,77,KUBUS,I decided it was time to come home.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53809,53809,53809,53809,78,ODO,Welcome back. You're under arrest.,19   INT. PROMENADE - OUTSIDE BAJORAN SHRINE,PROMENAD,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53810,53810,53810,53810,79,WINN,The Prophets have spoken. All blessings on the new Kai.,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53811,53811,53811,53811,80,CROWD,Kai Bareil... Blessings on the Kai... May the Prophets guide you... Follow your pagh...,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53812,53812,53812,53812,81,BAREIL,Kai Opaka?,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53813,53813,53813,53813,82,OPAKA,"Be at peace, my child. You must be strong... now more than ever.",29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53814,53814,53814,53814,83,BAREIL,Why did you leave us?,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53815,53815,53815,53815,84,OPAKA,All is as the Prophets will it to be. As you will learn. Follow me.,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53816,53816,53816,53816,85,WINN,"Be careful, Bareil. The path she walks is a narrow one. See that you don't stumble.",29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53817,53817,53817,53817,86,OPAKA,Heed her words.,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53818,53818,53818,53818,87,BAREIL,But I don't deserve to walk in your path.,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53819,53819,53819,53819,88,OPAKA,You must. It is your destiny.,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53820,53820,53820,53820,89,BAREIL,Prylar Bek?,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53821,53821,53821,53821,90,BEK,Accept this gift from the Prophets.,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.6705
+53822,53822,53822,53822,91,OPAKA,You must not refuse their offering.,29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.2235
+53823,53823,53823,53823,92,OPAKA,"Take it, my child. Its venom will make you stronger.",29   INT. TEMPLE ANTECHAMBER (ORB SEQUENCE) (OPTICAL),TEMPLE ANTECHAMBER,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53824,53824,53824,53824,93,ODO,There was quite a mob gathering out there. I had to call in extra security to disperse it.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53825,53825,53825,53825,94,KUBUS,"I never doubted your ability to handle the situation, Odo. You always were good at your job.",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53826,53826,53826,53826,95,ODO,I could say the same for you. Secretary Kubus. Special liaison between the Cardassian Occupation Forces and their pawns in the Bajoran government.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.4019
+53827,53827,53827,53827,96,KUBUS,I served the only recognized government on Bajor during the Occupation.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53828,53828,53828,53828,97,ODO,Recognized... by the Cardassians.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53829,53829,53829,53829,98,KUBUS,"If it wasn't for us, the situation on Bajor would've been ten times worse than it was.",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53830,53830,53830,53830,99,ODO,Maybe. But I don't see how you could know that... seeing that you spent nearly all your time here on the station. I remember Gul Dukat telling me once that you were his favorite Bajoran.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53831,53831,53831,53831,100,KUBUS,Really? I never could stand that arrogant tyrant.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53832,53832,53832,53832,101,ODO,You hid your feelings well.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53833,53833,53833,53833,102,KUBUS,"It kept me alive. Tell me about Bajor, Odo. On Cardassia one hears so many rumors.",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53834,53834,53834,53834,103,ODO,What kind of rumors?,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53835,53835,53835,53835,104,KUBUS,"Oh, revolutions... famine... bloodshed...",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53836,53836,53836,53836,105,ODO,Is that why you came back? To suffer along with your fellow Bajorans. I hope you won't be disappointed to learn that things are nowhere near that bad.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53837,53837,53837,53837,106,KUBUS,Believe me... starving would be better than living another year on Cardassia.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53838,53838,53838,53838,107,ODO,Didn't your Cardassian hosts treat you well?,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53839,53839,53839,53839,108,KUBUS,They treated me extremely well. Anything I wanted was mine for the asking... and I hated every minute of it. Bajor is my home. I never should've left.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53840,53840,53840,53840,109,KIRA ,But you did. And you're going to have to live with that decision.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53841,53841,53841,53841,110,ODO,"This is Major Kira, the highest- ranking Bajoran on the station.",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53842,53842,53842,53842,111,KUBUS,Then I suppose you're the one I should be talking to.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53843,53843,53843,53843,112,KIRA,Make it brief. I don't enjoy talking to collaborators.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53844,53844,53844,53844,113,KUBUS,I'm not asking you to like me. I'm simply requesting that I be allowed to return home.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53845,53845,53845,53845,114,KIRA,Your request is denied.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53846,53846,53846,53846,115,KUBUS,I doubt you have the authority to make that decision.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53847,53847,53847,53847,116,KIRA,"But the decision's already been made. In the Ilvian Proclamation, all Bajorans who were members of the Cardassian Occupational Government were sentenced to exile. Your name was number four on the list. Personally, I think you all got off too easy.",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53848,53848,53848,53848,117,KUBUS,I'd like to appeal that ruling.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53849,53849,53849,53849,118,KIRA,There are no appeals. You'll be placed on the next transport headed out of Bajoran space.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53850,53850,53850,53850,119,ODO,"Until then, I suggest you remain in my custody... for your own safety.",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53851,53851,53851,53851,120,KUBUS,"Major, I'm an old man. I don't have many years left. What's the harm in letting me live them out on Bajor?",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53852,53852,53852,53852,121,KIRA,"When the Cardassians needed a new group of Bajorans to work in the mines, who approved the work orders?",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53853,53853,53853,53853,122,KUBUS,The Bajoran Government.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53854,53854,53854,53854,123,KIRA,Whose signature was on the authorization forms?,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53855,53855,53855,53855,124,KUBUS,Mine.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53856,53856,53856,53856,125,KIRA,You had to know those authorizations were death sentences. Did you ever once refuse to sign them?,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53857,53857,53857,53857,126,KUBUS,No.,42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53858,53858,53858,53858,127,KIRA,"And that's why you can never be allowed to set foot on Bajor again. If you did, it would dishonor the memory of every person you sentenced to death.",42   INT. SECURITY - HOLDING AREA,SECURIT,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,-0.6124
+53859,53859,53859,53859,128,SISKO,Vedek Winn. What can I do for you?,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53860,53860,53860,53860,129,WINN,"Emissary, it has recently come to my attention that there are some on Bajor who believe my relationship with you is not all it should be.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53861,53861,53861,53861,130,SISKO,Really?,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53862,53862,53862,53862,131,WINN,"Personally, I find such a perception, however inaccurate, to be most distressing.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53863,53863,53863,53863,132,SISKO,I suppose the question we have to ask ourselves is whether or not that perception is inaccurate?,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53864,53864,53864,53864,133,WINN,"Don't tell me that you, yourself, Emissary, believe you and I are... how shall I put this...",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53865,53865,53865,53865,134,SISKO,Enemies?,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53866,53866,53866,53866,135,WINN,At odds.,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53867,53867,53867,53867,136,SISKO,"Well, let's see. How could I have come to such a conclusion? Maybe it has something to do with the fact that the last time you were on this station, you claimed I was a danger to Bajor. That I was here to destroy your people.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53868,53868,53868,53868,137,WINN,"I'm afraid you, like some others, may have misinterpreted me. Though I agree that, taken out of context, my words might appear... inflammatory.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53869,53869,53869,53869,138,SISKO,Perhaps you should clarify yourself.,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53870,53870,53870,53870,139,WINN,"What I was really saying... and what I have always maintained... is that you, Emissary, were sent here by the Prophets, to challenge our long-held beliefs. To enable Bajorans everywhere to come to a new, deeper understanding of our personal spirituality.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53871,53871,53871,53871,140,SISKO,I see. I have to admit that interpretation never occurred to me. Let me make sure there are no further misunderstandings between us. Am I right in assuming that you no longer consider the Federation to be an enemy of Bajor?,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53872,53872,53872,53872,141,WINN,"Emissary, I admit that I had some concerns about Bajor's application for Federation membership. But now I see that the Federation's presence here is essential to our long-term security and growth.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53873,53873,53873,53873,142,SISKO,Then you support the idea of Bajor joining the Federation?,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53874,53874,53874,53874,143,WINN,"If that is the will of the Prophets, I would never oppose it.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53875,53875,53875,53875,144,SISKO,I'd be grateful if you'd tell that to the Bajoran people.,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53876,53876,53876,53876,145,WINN,"Nothing would make me happier than to please you, Emissary. (Winn brightens as if she's just had a great idea) Perhaps you and I could address the Vedek Assembly together. So that everyone can celebrate our new friendship.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53877,53877,53877,53877,146,SISKO,An excellent idea. Maybe some time next week...,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53878,53878,53878,53878,147,WINN,"Why wait, Emissary? I'm sure the Assembly would grant us an immediate audience.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53879,53879,53879,53879,148,SISKO,"I'm sure they would. Unfortunately, if we were to appear in public together before the choosing, it might be misconstrued as an endorsement of your bid to become Kai.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53880,53880,53880,53880,149,WINN,"I doubt that, Emissary. It's common knowledge that you support Vedek Bareil. Although I've been pleasently surprised that you haven't made any public statement to that effect. As of yet.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53881,53881,53881,53881,150,SISKO,"The election of the Kai is strictly an internal matter to Bajor. As a Federation officer, I would never interfere.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53882,53882,53882,53882,151,WINN,What an enlightened philosophy.,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53883,53883,53883,53883,152,SISKO,"(not letting her off the hook) So then, it's agreed. I'll be seeing you sometime next week. I'm sure our appearing together in front of the Vedek Assembly will do wonders for Federation/Bajoran relations.",47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53884,53884,53884,53884,153,WINN,I look forward to it.,47   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53885,53885,53885,53885,154,DAX,Vedek Winn... Security Chief Odo has requested that you stop by his office before leaving the station.,48   INT. OPS,OPS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53886,53886,53886,53886,155,WINN,(nods in acknowledgement) Please inform him that I'll be there shortly.,48   INT. OPS,OPS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53887,53887,53887,53887,156,ODO,Odo to Major Kira.,50   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53888,53888,53888,53888,157,KIRA,This is Kira.,50   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53889,53889,53889,53889,158,ODO,Major... sorry to disturb you. But I thought you should know... Secretary Kubus is about to leave for Bajor.,51   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53890,53890,53890,53890,159,KIRA,How can that be?,52   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53891,53891,53891,53891,160,ODO,Vedek Winn has granted him sanctuary.,52   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53892,53892,53892,53892,161,KIRA,I'll be right there.,52   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53893,53893,53893,53893,162,KIRA,Kira to Ops.,52   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53894,53894,53894,53894,163,DAX,Go ahead.,52   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53895,53895,53895,53895,164,KIRA,"Dax, has Winn's ship left the station?",52   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53896,53896,53896,53896,165,DAX,"Not yet, but I was about to clear them for departure.",53   INT. OPS,OPS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53897,53897,53897,53897,166,KIRA,Keep those docking clamps locked on. I don't want that ship going anywhere until I say so.,53   INT. OPS,OPS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53898,53898,53898,53898,167,DAX,Understood.,53   INT. OPS,OPS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53899,53899,53899,53899,168,KIRA,Tell me what happened.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53900,53900,53900,53900,169,ODO,(eyes still on the computer) Kubus requested a private meeting with Vedek Winn. They talked for ten minutes. After which Winn asked for the use of my computer. She accessed some information from the library system.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53901,53901,53901,53901,170,KIRA,And?,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53902,53902,53902,53902,171,ODO,And then she called the Provisional Government and informed them she was granting Kubus sanctuary.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53903,53903,53903,53903,172,KIRA,Do you know what she looked up?,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53904,53904,53904,53904,173,ODO,I'm trying to find out right now.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53905,53905,53905,53905,174,ODO,Hmm.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53906,53906,53906,53906,175,KIRA,That's Prylar Bek. Why would Winn be interested in another Bajoran collaborator?,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53907,53907,53907,53907,176,ODO,I'm not sure. But Bek and Kubus did know each other. Bek was the liaison between the Cardassians and the Vedek Assembly at the same time Kubus was Secretary to the Occupational Government. They spent a lot of time together on the station.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53908,53908,53908,53908,177,KIRA,Hold on a minute. See if Winn accessed any information on the Kendra Valley Massacre.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53909,53909,53909,53909,178,ODO,"You're right, she did. Do you think Kubus told her something new about the Massacre?",54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53910,53910,53910,53910,179,KIRA,What else is there to know?,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53911,53911,53911,53911,180,KIRA ,Kai Opaka's son and forty-two other Bajoran freedom fighters were ambushed and killed because Bek gave the Cardassians the location of their encampment. He made a full confession in his suicide note. You were here then. You must've read it yourself.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,-0.7184
+53912,53912,53912,53912,181,WINN ,Major Kira.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53913,53913,53913,53913,182,WINN,May I speak to you?,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53914,53914,53914,53914,183,KIRA,Of course.,54   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53915,53915,53915,53915,184,WINN,I was told you were the one who stopped my ship from leaving.,58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53916,53916,53916,53916,185,KIRA,"That's right. I did. You're the last person I would expect to help a collaborator like Kubus. Unless, of course, he has something you need.",58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53917,53917,53917,53917,186,WINN,"My needs are no concern of yours, child. Now I suggest that you allow my ship to depart immediately.",58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53918,53918,53918,53918,187,KIRA,"You're free to leave any time you want. Unfortunately, in light of public feelings about Kubus, I can't allow any ship with him aboard to leave the station until it's undergone a thorough security check to prevent sabotage.",58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53919,53919,53919,53919,188,KIRA ,And that includes a molecular scan for nanotechnology.,58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53920,53920,53920,53920,189,WINN,How long would such a scan take?,58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53921,53921,53921,53921,190,KIRA,"I'm no expert, but I'm sure it could take days... or even weeks.",58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53922,53922,53922,53922,191,WINN,"Very well. It seems the Prophets have decided you will have a part in this after all. (laying her cards on the table) In exchange for sanctuary, Kubus has agreed to provide the name of the man who was responsible for the Massacre at Kendra Valley.",58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53923,53923,53923,53923,192,KIRA,Prylar Bek was responsible for the massacre. Everyone knows that.,58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53924,53924,53924,53924,193,WINN,Bek was a pawn... an intermediary. He killed himself to prevent the discovery of the real traitor.,58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53925,53925,53925,53925,194,KIRA,The real traitor?,58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53926,53926,53926,53926,195,WINN,Bek's superior... the person who ordered him to reveal the location of the rebel base to the Cardassians... the man who was truly responsible for the massacre... Vedek Bareil.,58A  INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53927,53927,53927,53927,196,KIRA,Do you really think I'm going to let you get away with this? No one's going to believe the word of a convicted traitor like Kubus.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53928,53928,53928,53928,197,WINN,I never said I believed him either. I'm only trying to protect the spiritual life of Bajor.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53929,53929,53929,53929,198,KIRA,Don't flatter yourself. You're trying to grab power. Nothing more.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53930,53930,53930,53930,199,WINN,"My child, do you want to risk the consequences of having a collaborator become the next Kai?",62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53931,53931,53931,53931,200,KIRA,He's not a collaborator.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53932,53932,53932,53932,201,WINN,"That's yet to be determined. But if he is chosen, and then turns out to be guilty... the ramifications for Bajor would be catastrophic. It would shatter faith in the authority of the Kai. And without a strong Kai, Bajor can't survive.",62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53933,53933,53933,53933,202,KIRA,But you can't condemn Bareil without proof.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53934,53934,53934,53934,203,WINN,I don't intend to. I was planning to conduct a quiet investigation when I returned to Bajor. But I didn't know who to trust with such a delicate assignment. Until now.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53935,53935,53935,53935,204,KIRA,You want me to do your dirty work for you.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53936,53936,53936,53936,205,WINN,All I care about is the truth. And I believe the Prophets have chosen you to help me find it.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53937,53937,53937,53937,206,KIRA,I'll find the truth. Don't worry about that. But I want you to keep Kubus's accusations from becoming public until I've had a chance to prove Bareil's innocence.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53938,53938,53938,53938,207,WINN,You have my word. Let the Prophets be my witness. But if you discover proof of his guilt...,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53939,53939,53939,53939,208,KIRA,"Whatever I find out, I'll share with you.",62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53940,53940,53940,53940,209,WINN,Then it's decided.,62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53941,53941,53941,53941,210,WINN,"Oh, and child, one last thing. I know you're under a terrible strain, but if you're wise, you'll never speak to me with such disrespect again.",62   INT. PROMENADE,PROMENADE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53942,53942,53942,53942,211,KUBUS,It was the day after the raid...,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53943,53943,53943,53943,212,KIRA,You mean the massacre.,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53944,53944,53944,53944,213,WINN,(a slight reprimand to Kira) I think we all know what happened that terrible day.,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53945,53945,53945,53945,214,KIRA,I just want to make sure he gets his story straight.,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53946,53946,53946,53946,215,KUBUS,"Don't worry about that, Major. Do you think I could forget the deaths of forty-three Bajorans, one of whom was the Kai's son?",63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53947,53947,53947,53947,216,KIRA,Were you aware at the time that Prylar Bek was a collaborator?,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53948,53948,53948,53948,217,KUBUS,"(dismissive of the idea) He wasn't a collaborator. He was only a messenger between the Cardassians and the Vedek Assembly. But I could see in the weeks prior to the massacre that something was bothering him. He was tense, nervous. He was in constant communication with someone in the Vedek Assembly.",63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53949,53949,53949,53949,218,KIRA,Do you know who?,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53950,53950,53950,53950,219,KUBUS,"Not at the time... but the day after the... incident, Vedek Bareil came to visit him on the station.",63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53951,53951,53951,53951,220,KIRA,You saw them together?,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53952,53952,53952,53952,221,KUBUS,"I saw Bareil enter Bek's quarters, which were in the same section as mine. He was in there for a couple of hours. At times I heard shouting through the bulkhead.",63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53953,53953,53953,53953,222,WINN,Did you hear what they were saying?,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53954,53954,53954,53954,223,KUBUS,No. But I did see Bareil when he left the station.,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53955,53955,53955,53955,224,KUBUS,"He looked very upset. The next morning, Bek hung himself.",63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,-0.4391
+53956,53956,53956,53956,225,KIRA,That's all the evidence you have?,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53957,53957,53957,53957,226,KUBUS,"Isn't that enough? Bek was obviously working with Bareil. When he realized the enormity of what he'd done, he must've wanted to confess. Bareil wouldn't allow it, so Bek took the only way out he had.",63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,-0.1695
+53958,53958,53958,53958,227,KIRA,That's a fascinating story but it's all conjecture. There could be a dozen explanations for why Bareil came to see Bek.,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53959,53959,53959,53959,228,WINN,And it's up to you to find out which of those explanations is true.,63   INT. DARKENED CARGO BAY,DARKENED CARGO BAY,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53960,53960,53960,53960,229,BAREIL,"What exactly is it that you're asking me, Nerys?",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53961,53961,53961,53961,230,KIRA,I guess I'm asking whether or not you came to the station to see Bek that day.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53962,53962,53962,53962,231,BAREIL,"I visited Bek, yes. But that hardly makes me a collaborator.",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53963,53963,53963,53963,232,KIRA,I know that. It's Vedek Winn who needs convincing.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53964,53964,53964,53964,233,BAREIL,Poor Winn. I'm afraid her desire to become Kai has clouded her judgement.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53965,53965,53965,53965,234,KIRA,"I wouldn't take her lightly, if I were you. She's determined to ruin you.",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53966,53966,53966,53966,235,BAREIL,"Nerys, I know you're concerned for me. And I appreciate it... more than you know. I wish you could be here with me right now.",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53967,53967,53967,53967,236,KIRA,So do I.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53968,53968,53968,53968,237,BAREIL,"But believe me when I tell you, there's no reason to worry. I had nothing to do with the massacre. And Winn will never be able to prove otherwise.",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53969,53969,53969,53969,238,KIRA,All right. But I still need to know why you came to the station.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53970,53970,53970,53970,239,BAREIL,Because Bek was a deeply troubled man seeking spiritual guidance. His guilt from betraying the Kendra Valley base was overwhelming.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53971,53971,53971,53971,240,BAREIL,He called me for help and I came as soon as I could... I only wish I'd been able to do more for him.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53972,53972,53972,53972,241,KIRA,What did he tell you about the massacre?,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53973,53973,53973,53973,242,BAREIL,"Nerys, you have to understand, he was a monk speaking in confidence to his Vedek. I can't betray that trust.",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.608
+53974,53974,53974,53974,243,KIRA,"I understand. But is there anything else you think I should know? About Bek, or the massacre?",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53975,53975,53975,53975,244,BAREIL,Nothing that will satisfy Winn.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53976,53976,53976,53976,245,KIRA,"Then I'll have to keep looking. But one way or another, I'm going to prove to Winn that you're innocent.",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53977,53977,53977,53977,246,BAREIL,"Thank you, Nerys. I don't know what I'd do without you.",66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53978,53978,53978,53978,247,KIRA,I wouldn't worry about that... I'm not going anyplace.,66   INT. KIRA'S QUARTERS (OPTICAL),KIRA'S QUARTERS,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53979,53979,53979,53979,248,ODO,"Just as I thought. When the Cardassians left, they purged all records of communication between the station and Bajor.",68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53980,53980,53980,53980,249,KIRA,Then we'll have to get the information from the other end.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53981,53981,53981,53981,250,ODO,I'll establish a computer link with the Bajoran Central Archives. That way I can access the files of the Vedek Assembly.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53982,53982,53982,53982,251,ODO,Are you all right?,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53983,53983,53983,53983,252,KIRA,I'm fine.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53984,53984,53984,53984,253,ODO,You don't look fine.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53985,53985,53985,53985,254,KIRA,It's nothing.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53986,53986,53986,53986,255,ODO,If you say so.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53987,53987,53987,53987,256,KIRA,"I mean, he says he's not guilty. I know he's not guilty...",68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53988,53988,53988,53988,257,ODO,But you're afraid he's guilty.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53989,53989,53989,53989,258,KIRA,"I love him, Odo.",68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53990,53990,53990,53990,259,ODO,Really... Well... I...,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53991,53991,53991,53991,260,KIRA,What?,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53992,53992,53992,53992,261,ODO,"I was wondering when you were going to figure that out. You humanoids... when it comes to emotional attachments, you never see the obvious. I'm into the Vedek Assembly archives.",68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53993,53993,53993,53993,262,KIRA,Can you retrieve the communications records between the station and the Assembly.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53994,53994,53994,53994,263,ODO,I'll need a time frame.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53995,53995,53995,53995,264,KIRA,Try the week leading up to the Kendra Massacre.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53996,53996,53996,53996,265,ODO,That's odd...,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53997,53997,53997,53997,266,KIRA,What?,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53998,53998,53998,53998,267,ODO,All the communications records between the Assembly members and Bek for that week have been sealed.,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0
+53999,53999,53999,53999,268,KIRA,Sealed by who?,68   INT. SECURITY OFFICE (OPTICAL),SECURITY OFFICE,INT.,The Collaborator,1994-03-21,Deep Space Nine,444.txt,0.0

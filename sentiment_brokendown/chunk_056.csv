@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+56000,56000,56000,56000,224,ODO,You have less than forty minutes to shut down the main computer.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56001,56001,56001,56001,225,ROM,I hope that's enough time.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56002,56002,56002,56002,226,KIRA,It'll have to be. Can you keep the Dominion patrols off our backs?,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56003,56003,56003,56003,227,ODO,I'll head over to Security. I'll create enough false alarms to keep them occupied.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56004,56004,56004,56004,228,ODO,Any questions?,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56005,56005,56005,56005,229,KIRA,I could ask why.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56006,56006,56006,56006,230,ODO,"I don't think I have time to explain it. Besides, I think you know the answer.",58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56007,56007,56007,56007,231,KIRA,What about the Link?,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56008,56008,56008,56008,232,ODO,The Link was paradise.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56009,56009,56009,56009,233,ODO,But it appears I'm not ready for paradise.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56010,56010,56010,56010,234,ODO,Good luck.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56011,56011,56011,56011,235,KIRA,You too.,58   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56012,56012,56012,56012,236,SISKO,"Dax, what's our E.T.A.?",60   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56013,56013,56013,56013,237,DAX,Eleven minutes.,60   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56014,56014,56014,56014,238,O'BRIEN,That's cutting it awfully close.,60   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56015,56015,56015,56015,239,KIRA,"How's it going, Rom?",61   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56016,56016,56016,56016,240,ROM,I wish you'd stop asking me that.,61   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56017,56017,56017,56017,241,KIRA,Sorry.,61   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56018,56018,56018,56018,242,ROM,I'm not going to make it.,61   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56019,56019,56019,56019,243,KIRA,Then concentrate on cutting off the power to the station's weapons array. Without weapons they won't be able to detonate the minefield.,61   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56020,56020,56020,56020,244,ROM,Not for a while anyway.,61   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56021,56021,56021,56021,245,DAMAR,"Sir, the Klingons have outflanked us. Our lines are beginning to crumble.",63   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56022,56022,56022,56022,246,DUKAT,"There's nothing to worry about. In exactly four minutes, thousands of Dominion ships will start pouring through the wormhole. I just hope the Defiant gets here in time for Sisko to see it.",63   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56023,56023,56023,56023,247,DAX,"Ben -- if I were you, I'd start coming up with plan B.",64   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56024,56024,56024,56024,248,ROM,Almost there... I just need to decouple the ODN relays.,65   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56025,56025,56025,56025,249,DAMAR,"The last mines have been neutralized. We're ready to detonate the minefield, sir.",66   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56026,56026,56026,56026,250,DUKAT,Fire.,69   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56027,56027,56027,56027,251,ROM,Done.,70   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56028,56028,56028,56028,252,ROM,Uh-oh.,72   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56029,56029,56029,56029,253,KIRA,What is it?,72   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56030,56030,56030,56030,254,ROM,We were too late.,72   INT. CONDUIT JUNCTURE,CONDUIT JUNCTURE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56031,56031,56031,56031,255,DAX,"What do we do now, Captain?",73   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56032,56032,56032,56032,256,SISKO,Take us into the wormhole.,73   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56033,56033,56033,56033,257,O'BRIEN,What the hell. All we're going to find in there is a couple of thousand Dominion ships.,73   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56034,56034,56034,56034,258,DAX,One ship against an entire fleet... that's a helluva plan B.,73   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56035,56035,56035,56035,259,GARAK,"Chief, how does that poem end?",73   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56036,56036,56036,56036,260,O'BRIEN,You don't want to know...,73   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56037,56037,56037,56037,261,FEMALE SHAPE-SHIFTER,Send a message to our listening posts in the Gamma Quadrant. Tell the reinforcements that the Alpha Quadrant awaits them.,74   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56038,56038,56038,56038,262,DAMAR,"Sir, the Defiant... it's headed for the wormhole.",74   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56039,56039,56039,56039,263,WEYOUN,Destroy it.,74   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56040,56040,56040,56040,264,DUKAT,"What's the matter, Damar?",74   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56041,56041,56041,56041,265,DAMAR,Our weapons are off-line.,74   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56042,56042,56042,56042,266,WEYOUN,How can that be?,74   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56043,56043,56043,56043,267,DUKAT,Major Kira.,74   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56044,56044,56044,56044,268,SISKO,"Full stop. Chief, divert all power to forward shields and weapons.",77   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,-0.6249
+56045,56045,56045,56045,269,DAX,Captain -- I'm reading multiple warp signatures ahead.,77   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56046,56046,56046,56046,270,SISKO,On screen. Maximum magnification.,77   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56047,56047,56047,56047,271,SISKO,"Lock phasers, prepare to launch quantum torpedoes.",77   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56048,56048,56048,56048,272,SISKO,Why have you brought me here?,77   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56049,56049,56049,56049,273,SISKO,Show yourselves.,77   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56050,56050,56050,56050,274,SISKO,What do you want?,77   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56051,56051,56051,56051,275,ODO ALIEN,The Sisko has returned to us.,81   INT. PROMENADE (OPTICAL),PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56052,56052,56052,56052,276,JAKE ALIEN,He arrives with questions.,82   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56053,56053,56053,56053,277,KIRA ALIEN,There are always questions.,83   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56054,56054,56054,56054,278,SISKO,I didn't ask to come here.,83   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56055,56055,56055,56055,279,DUKAT ALIEN,You desire to end the game.,84   INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56056,56056,56056,56056,280,SISKO,What game? I don't understand.,84   INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56057,56057,56057,56057,281,WEYOUN ALIEN,You seek to shed your corporeal existence.,85   INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56058,56058,56058,56058,282,DAMAR ALIEN,That cannot be allowed.,86   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56059,56059,56059,56059,283,ODO ALIEN,The game must not end.,87   INT. PROMENADE (OPTICAL),PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56060,56060,56060,56060,284,SISKO,The game -- you mean my life? Is that what this is about? You don't want me to die?,87   INT. PROMENADE (OPTICAL),PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56061,56061,56061,56061,285,DUKAT ALIEN,The game must continue.,88   INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56062,56062,56062,56062,286,WEYOUN ALIEN,You are the Sisko.,89   INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56063,56063,56063,56063,287,SISKO,"Believe me, I don't want to die. But I have to do everything I can to prevent the Dominion from conquering the Alpha Quadrant. If that means sacrificing my life and the lives of my crew -- so be it.",89   INT. WARDROOM (OPTICAL),WARDROOM,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56064,56064,56064,56064,288,JAKE ALIEN,We do not agree.,90   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56065,56065,56065,56065,289,KIRA ALIEN,We find your reasoning flawed.,90   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56066,56066,56066,56066,290,ODO ALIEN,Insufficient.,90   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56067,56067,56067,56067,291,SISKO,"I'm flattered you feel that way, but it doesn't change anything. Now send me back to my ship.",90   INT. QUARK'S (OPTICAL),QUARK'S,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56068,56068,56068,56068,292,SISKO,This isn't what I meant. I want to return to my reality.,91   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56069,56069,56069,56069,293,DAMAR ALIEN,You are the Sisko.,91   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56070,56070,56070,56070,294,SISKO,I'm also a Starfleet captain. I have a job to do and I intend to do it.,91   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56071,56071,56071,56071,295,WEYOUN ALIEN,The Sisko is belligerent.,91   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56072,56072,56072,56072,296,DUKAT ALIEN,Aggressive.,91   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56073,56073,56073,56073,297,DAMAR ALIEN,Adversarial.,91   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56074,56074,56074,56074,298,SISKO,You're damn right I'm adversarial. You have no right to interfere with my life.,91   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56075,56075,56075,56075,299,KIRA ALIEN,We have every right.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56076,56076,56076,56076,300,SISKO,"Fine -- you want to interfere, then interfere! Do something about those Dominion reinforcements.",92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56077,56077,56077,56077,301,ODO ALIEN,That is a corporeal matter.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56078,56078,56078,56078,302,DUKAT ALIEN,Corporeal matters do not concern us.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0258
+56079,56079,56079,56079,303,SISKO,"The hell they don't. What about Bajor? You can't tell me that Bajor doesn't concern you. You've sent the Bajorans orbs and Emissaries -- you've encouraged them to create an entire religion around you. You even told me once that you were ""of Bajor!"" So don't tell me you're not ""concerned"" with corporeal matters.",92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,-0.2942
+56080,56080,56080,56080,304,SISKO,"I don't want to see Bajor destroyed and neither do you. And we all know that's exactly what's going to happen if the Dominion takes over the Alpha Quadrant. You say you don't want me to sacrifice my life -- fine, neither do I. You want to be gods -- then be gods. I need a miracle. Bajor needs a miracle. Stop those ships.",92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.5162
+56081,56081,56081,56081,305,WEYOUN ALIEN,We are of Bajor.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56082,56082,56082,56082,306,DAMAR ALIEN,But what of the Sisko?,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56083,56083,56083,56083,307,ODO ALIEN,He is intrusive.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56084,56084,56084,56084,308,DUKAT ALIEN,He tries to control the game.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56085,56085,56085,56085,309,JAKE ALIEN,A penance must be exacted.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56086,56086,56086,56086,310,WEYOUN ALIEN,It is agreed.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56087,56087,56087,56087,311,DUKAT ALIEN,"The Sisko is of Bajor, but he will find no rest there.",92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56088,56088,56088,56088,312,KIRA ALIEN,His pagh will follow another path.,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56089,56089,56089,56089,313,SISKO,What path is that?,92   INT. OPS (OPTICAL),OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56090,56090,56090,56090,314,O'BRIEN,Torpedoes ready. Targets locked.,93   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56091,56091,56091,56091,315,DAX,Here they come.,93   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56092,56092,56092,56092,316,SISKO,Fire on my command.,93   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56093,56093,56093,56093,317,SISKO,"Steady, people. Make every shot count.",95   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56094,56094,56094,56094,318,DAX,Benjamin.,95   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56095,56095,56095,56095,319,O'BRIEN,They've cloaked.,95   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56096,56096,56096,56096,320,DAX,I'm not picking up any neutrino emissions...,95   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56097,56097,56097,56097,321,GARAK,Then where did they go?,95   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56098,56098,56098,56098,322,SISKO,"Wherever they went, I don't think they're coming back.",95   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56099,56099,56099,56099,323,DAMAR,"Sir, the wormhole is opening.",98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56100,56100,56100,56100,324,DAMAR,The Defiant...,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56101,56101,56101,56101,325,DUKAT,Our reinforcements must be right behind.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56102,56102,56102,56102,326,DAMAR,"No, sir... (at a loss for an explanation) ... there's no sign of them.",98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56103,56103,56103,56103,327,WEYOUN,That's impossible! Check our listening posts in the Gamma Quadrant.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56104,56104,56104,56104,328,DAMAR,They're not there either.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56105,56105,56105,56105,329,DUKAT,But they entered the wormhole -- where could they be?,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56106,56106,56106,56106,330,DAMAR,(he can't figure it out either) I don't know...,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56107,56107,56107,56107,331,DAMAR,The Defiant has opened fire on us.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56108,56108,56108,56108,332,WEYOUN,Obviously.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56109,56109,56109,56109,333,DUKAT,Can you get our weapons back on- line?,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56110,56110,56110,56110,334,DAMAR,Not for a while.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56111,56111,56111,56111,335,DAMAR,Sir -- two hundred enemy ships have broken through our lines. They're headed this way.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56112,56112,56112,56112,336,WEYOUN,Time to start packing.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56113,56113,56113,56113,337,FEMALE SHAPE-SHIFTER,Contact our forces in the Alpha Quadrant and tell them to fall back to Cardassian territory. It appears that this war is going to take longer than expected.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56114,56114,56114,56114,338,WEYOUN,We'll meet you at Airlock Five.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56115,56115,56115,56115,339,DAMAR,Sir?,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56116,56116,56116,56116,340,DUKAT,Victory was within our grasp.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56117,56117,56117,56117,341,DAMAR,"We have to evacuate the station, sir.",98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56118,56118,56118,56118,342,DUKAT,Bajor... the Federation... the Alpha Quadrant... all lost...,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56119,56119,56119,56119,343,DAMAR,"We have to go now, sir.",98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56120,56120,56120,56120,344,DUKAT,Go?,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56121,56121,56121,56121,345,DAMAR,The Federation ships... they'll be here soon. We have to get to Cardassia.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56122,56122,56122,56122,346,DUKAT,I have to find my daughter.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56123,56123,56123,56123,347,DAMAR,I'll send someone for her.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56124,56124,56124,56124,348,DUKAT,That won't be necessary.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56125,56125,56125,56125,349,DAMAR,You're wasting your time.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56126,56126,56126,56126,350,DUKAT,Promenade.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56127,56127,56127,56127,351,DAMAR,She won't go with you.,98   INT. OPS,OPS,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56128,56128,56128,56128,352,O'BRIEN,"Sir, the Dominion forces are leaving the station. They're headed for Cardassia.",101  INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56129,56129,56129,56129,353,SISKO,Let 'em go. We're in no shape to stop them.,101  INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56130,56130,56130,56130,354,BASHIR,Captain -- we're getting a message from the Cortez. The Dominion fleet has broken off the fight. They're in retreat.,101  INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56131,56131,56131,56131,355,SISKO,Tell the Cortez and the rest of our fleet to rendezvous at Deep Space Nine.,101  INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56132,56132,56132,56132,356,WEYOUN,Step aside. Make way for the Founder.,103  INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56133,56133,56133,56133,357,WEYOUN,What about Odo -- is he coming with us?,103  INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56134,56134,56134,56134,358,FEMALE SHAPE-SHIFTER,No. But he will join us one day... it's only a matter of time.,103  INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.3291
+56135,56135,56135,56135,359,ZIYAL ,Father!,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56136,56136,56136,56136,360,DUKAT,Ziyal.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56137,56137,56137,56137,361,ZIYAL,I've been looking for you. I heard about the evacuation.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56138,56138,56138,56138,362,DUKAT,You're all I have -- all I care about.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56139,56139,56139,56139,363,ZIYAL,"No matter how much I try to hate you, I can't.",104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56140,56140,56140,56140,364,DUKAT,"I couldn't live with myself if you hated me. Come, we'll talk on the way home.",104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56141,56141,56141,56141,365,ZIYAL,Home?,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56142,56142,56142,56142,366,DUKAT,"Cardassia. We have to leave here, before the Federation arrives.",104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56143,56143,56143,56143,367,ZIYAL,I'm not leaving.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56144,56144,56144,56144,368,DUKAT,These people are our enemies.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56145,56145,56145,56145,369,ZIYAL,They're not my enemies. I'm one of them.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56146,56146,56146,56146,370,DUKAT,That's not true.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56147,56147,56147,56147,371,ZIYAL,Father -- I helped Major Kira and the others escape from the holding cells.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56148,56148,56148,56148,372,DUKAT,Do you know what you're saying?,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56149,56149,56149,56149,373,ZIYAL,"Yes, I do. I belong here. Good-bye, Father.",104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56150,56150,56150,56150,374,ZIYAL,I love you.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56151,56151,56151,56151,375,DUKAT,No!,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56152,56152,56152,56152,376,DAMAR,You heard her. She's a traitor.,104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56153,56153,56153,56153,377,DUKAT,"I forgive you... do you hear me, Ziyal... It's all right... everything's all right...",104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56154,56154,56154,56154,378,DAMAR,"We're out of time, sir. The last ship is waiting for us.",104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56155,56155,56155,56155,379,DUKAT,"I love you, Ziyal. Do you hear me? I love you.",104   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56156,56156,56156,56156,380,ODO,"Welcome back, captain.",109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56157,56157,56157,56157,381,SISKO,"It's good to see you, Odo. It's good to see all of you.",109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56158,56158,56158,56158,382,MARTOK,"It appears I owe you a barrel of bloodwine, captain.",109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56159,56159,56159,56159,383,SISKO,We'll drink it together.,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56160,56160,56160,56160,384,DAX,Worf!,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56161,56161,56161,56161,385,WORF,Jadzia.,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56162,56162,56162,56162,386,DAX,I guess the wedding's still on.,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56163,56163,56163,56163,387,O'BRIEN,"Hey, Quark -- are the holosuites still working?",109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56164,56164,56164,56164,388,QUARK,"Ready and waiting, Chief.",109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56165,56165,56165,56165,389,O'BRIEN,"You hear that, Julian?",109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56166,56166,56166,56166,390,BASHIR,Battle of Britain... I'll meet you there in an hour.,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56167,56167,56167,56167,391,ROM,You've been promoted?,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.4215
+56168,56168,56168,56168,392,NOG,I'm an engineer.,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56169,56169,56169,56169,393,ROM,We'll be working together.,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56170,56170,56170,56170,394,NOG,"Actually, you'll be working for me.",109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56171,56171,56171,56171,395,LEETA,Isn't that wonderful?,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56172,56172,56172,56172,396,ROM,I guess...,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56173,56173,56173,56173,397,SISKO,(looking around the crowd) Where's Major Kira?,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56174,56174,56174,56174,398,JAKE,She's in the Infirmary. With Ziyal.,109  INT. PROMENADE,PROMENADE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56175,56175,56175,56175,399,KIRA,She loved you.,114  INT. INFIRMARY,INFIRMARY,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56176,56176,56176,56176,400,GARAK,I could never figure out why. I guess I never will...,114  INT. INFIRMARY,INFIRMARY,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56177,56177,56177,56177,401,DUKAT,"We'll go back to Cardassia, Ziyal. We'll be safe there. You'll live with me... father and daughter... everything will be fine.",116  INT. HOLDING CELL,HOLDING CELL,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56178,56178,56178,56178,402,SISKO,Maybe Doctor Bashir can do something for him.,116  INT. HOLDING CELL,HOLDING CELL,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56179,56179,56179,56179,403,DUKAT,"I know you forgive me. After all, I am your father... and I forgive you.",116  INT. HOLDING CELL,HOLDING CELL,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56180,56180,56180,56180,404,ODO,"(gently, taking Dukat by the arm) Easy...",116  INT. HOLDING CELL,HOLDING CELL,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56181,56181,56181,56181,405,DUKAT,"I forgive you, too.",116  INT. HOLDING CELL,HOLDING CELL,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56182,56182,56182,56182,406,JAKE,"You did it, Dad. You won.",118  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56183,56183,56183,56183,407,SISKO,"I had some help. Besides, this war isn't over yet.",118  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56184,56184,56184,56184,408,SISKO,But let's worry about that tomorrow.,118  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56185,56185,56185,56185,409,SISKO,"Right now, it's just good to be home.",118  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Sacrifice of Angels,1997-08-25,Deep Space Nine,530.txt,0.0
+56186,56186,56186,56186,0,ROM,What do you think?,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56187,56187,56187,56187,1,LEETA,I don't know. What do you think?,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56188,56188,56188,56188,2,ROM,I like it.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56189,56189,56189,56189,3,ROM,Don't you?,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56190,56190,56190,56190,4,LEETA,"Rom, it's two handkerchiefs and a loincloth.",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56191,56191,56191,56191,5,ROM,I suppose we could lose the handkerchiefs.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56192,56192,56192,56192,6,LEETA,"Ferengi tradition or no Ferengi tradition, I am not going to be naked at my wedding.",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56193,56193,56193,56193,7,ROM,Who said anything about naked? You'll still have the loincloth.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56194,56194,56194,56194,8,LEETA,Please show us something else.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56195,56195,56195,56195,9,GARAK,"There is nothing else. I've shown you a hundred and fifty-three different wedding dresses, from Tellerite modern to... (indicates the current dress) Risian traditional. And you've hated them all.",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56196,56196,56196,56196,10,LEETA,I liked number thirty-eight.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56197,56197,56197,56197,11,ROM,Number thirty-eight? It had more layers than a Baduvian tapestry.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56198,56198,56198,56198,12,LEETA,It was elegant.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56199,56199,56199,56199,13,ROM,It was bulky.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56200,56200,56200,56200,14,ZIYAL,I like sixty-four.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56201,56201,56201,56201,15,LEETA,Sixty-four?,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56202,56202,56202,56202,16,ROM,Eeeesh.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56203,56203,56203,56203,17,GARAK,At least they agree on something.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56204,56204,56204,56204,18,ZIYAL,Why don't you just let Garak design a dress on his own? You know whatever he comes up with will be beautiful.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56205,56205,56205,56205,19,GARAK,"My dear, I find your blind adoration both flattering and disturbing. But she does have a point.",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56206,56206,56206,56206,20,QUARK,Leeta. That fifteen minute break you asked for was up an hour ago.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56207,56207,56207,56207,21,ROM,"Brother, what do you think of this dress?",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56208,56208,56208,56208,22,QUARK,I don't want to think about it. All I know is that any marriage where the female's allowed to speak and wear clothing is doomed to failure. Your dabo table awaits.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56209,56209,56209,56209,23,LEETA,There he is.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56210,56210,56210,56210,24,LEETA,Let's talk to him.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56211,56211,56211,56211,25,ROM,Now?,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56212,56212,56212,56212,26,LEETA,"Now, Rom.",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56213,56213,56213,56213,27,SISKO,"Try to look on the bright side, Chief. It won't be forever.",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56214,56214,56214,56214,28,O'BRIEN,I know. And I understand why you ordered all the children off the station. Keiko and the kids will be a lot safer on Earth than here. But they've only been gone two days and I miss them already.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56215,56215,56215,56215,29,SISKO,I still feel better knowing they're out of harm's way. I just wish I could talk Jake into visiting Earth for a while.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56216,56216,56216,56216,30,LEETA,"Captain, can we speak to you for a moment?",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56217,56217,56217,56217,31,ROM,If you're not too busy.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56218,56218,56218,56218,32,SISKO,Go ahead.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56219,56219,56219,56219,33,ROM,"Would you marry me? I mean us? I mean, would you perform our wedding ceremony?",1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56220,56220,56220,56220,34,LEETA,It would be a great honor to be married by the Emissary.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56221,56221,56221,56221,35,ROM,It's not for another two weeks. So you'd have plenty of time to get ready.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56222,56222,56222,56222,36,SISKO,I'll start brushing up on my Bajoran.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56223,56223,56223,56223,37,ROM,Me too.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56224,56224,56224,56224,38,O'BRIEN,Captain.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56225,56225,56225,56225,39,SISKO,If you'll excuse me.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56226,56226,56226,56226,40,O'BRIEN,Maybe they're not coming.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56227,56227,56227,56227,41,SISKO,That would be a nice surprise.,1    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56228,56228,56228,56228,42,SISKO,"I'll say one thing for the Dominion, they're punctual.",6    INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56229,56229,56229,56229,43,O'BRIEN,That's the fifth convoy headed to Cardassia in the last five weeks. I can only imagine how many Jem'Hadar soldiers they have stationed there by now.,6    INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56230,56230,56230,56230,44,SISKO,Too many.,6    INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56231,56231,56231,56231,45,O'BRIEN,Sometimes I wish they'd just attack and get it over with.,6    INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56232,56232,56232,56232,46,SISKO,I have a feeling you're going to get your wish.,6    INT. PROMENADE - SECOND LEVEL (OPTICAL),PROMENADE - SECOND LEVEL,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56233,56233,56233,56233,47,JAKE,"Thanks for the invite, Dad. I haven't had a home-cooked meal since...",7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56234,56234,56234,56234,48,SISKO,Since the last time you were here.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56235,56235,56235,56235,49,JAKE,"Sounds about right. So, what's for dinner?",7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56236,56236,56236,56236,50,JAKE,Can I have some salsa with that?,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56237,56237,56237,56237,51,SISKO,Read the headline.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56238,56238,56238,56238,52,JAKE,"""Bajorans Continue Negotiations with the Dominion.""",7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56239,56239,56239,56239,53,SISKO,Go on.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56240,56240,56240,56240,54,JAKE,"""Station Commander Opposes Non- aggression Pact.""",7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56241,56241,56241,56241,55,SISKO,And the byline.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56242,56242,56242,56242,56,JAKE,By Jake Sisko.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56243,56243,56243,56243,57,SISKO,You should've warned me.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56244,56244,56244,56244,58,JAKE,I was waiting for the right moment.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56245,56245,56245,56245,59,SISKO,The right moment would've been before you published the article.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56246,56246,56246,56246,60,JAKE,I know. I'm sorry. But aren't you glad I got a job?,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56247,56247,56247,56247,61,SISKO,You mean this isn't a one-time thing?,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56248,56248,56248,56248,62,JAKE,Nope. I'm now an official correspondent for the Federation News Service.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56249,56249,56249,56249,63,SISKO,What about your novel?,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56250,56250,56250,56250,64,JAKE,I'm not giving up on it. But this way I get to see my work in print.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56251,56251,56251,56251,65,SISKO,"And apparently, I get to see everything I say in print too.",7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56252,56252,56252,56252,66,JAKE,"You're a public figure, Dad. You're the captain of the most important space station in the entire Federation. You're news.",7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56253,56253,56253,56253,67,SISKO,Don't remind me. I guess I can't stop you from doing your job.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56254,56254,56254,56254,68,JAKE,Can I quote you on that?,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56255,56255,56255,56255,69,JAKE,I guess not.,7    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56256,56256,56256,56256,70,KIRA,Yamok sauce? Who'd bother to smuggle in ten thousand wrappages of Cardassian yamok sauce?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56257,56257,56257,56257,71,KIRA,Quark. That little worm. He thinks the Cardassians are going to retake the station.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56258,56258,56258,56258,72,DAX,"He's a Ferengi. You can't blame him for hedging his bets. But that is a lot of yamok sauce. What exactly is a yamok, anyway?",8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56259,56259,56259,56259,73,ODO,What would you like me to do with it?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56260,56260,56260,56260,74,DAX,Major?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56261,56261,56261,56261,75,KIRA,I don't care. You decide.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56262,56262,56262,56262,76,DAX,Dump it.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56263,56263,56263,56263,77,ODO,Very good.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56264,56264,56264,56264,78,DAX,You mind telling me what's going on?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56265,56265,56265,56265,79,KIRA,What do you mean?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56266,56266,56266,56266,80,DAX,You and Odo. You've been avoiding each other for weeks.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,-0.34
+56267,56267,56267,56267,81,KIRA,It's a long story.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56268,56268,56268,56268,82,DAX,Those are the best kind.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.8225
+56269,56269,56269,56269,83,KIRA,Odo... has... feelings for me.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56270,56270,56270,56270,84,DAX,What kind of feelings?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56271,56271,56271,56271,85,KIRA,The kind that aren't easy to talk about.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56272,56272,56272,56272,86,DAX,Since when?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56273,56273,56273,56273,87,KIRA,I don't know. Years. I just found out about it last month.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56274,56274,56274,56274,88,DAX,That explains a lot.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56275,56275,56275,56275,89,KIRA,It does?,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56276,56276,56276,56276,90,DAX,Not really. It just seemed like the right thing to say. I had no idea.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56277,56277,56277,56277,91,KIRA,Neither did I.,8    INT. CARGO BAY,CARGO BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56278,56278,56278,56278,92,NOG,Sixty degrees Celsius. Just the way you like it.,11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56279,56279,56279,56279,93,NOG,Sir? Is it true? What they're saying about the Romulans?,11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56280,56280,56280,56280,94,SISKO,What about them?,11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56281,56281,56281,56281,95,NOG,"There were some Orion Free Traders in Quark's last night, and they said they'd heard from a Vulcan diplomat that the Romulans had signed a non-aggression pact with the Dominion.",11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56282,56282,56282,56282,96,SISKO,"A lot of rumors float around at a time like this, cadet. Just don't forget the one hundred and ninetieth Rule of Acquisition.",11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56283,56283,56283,56283,97,NOG,"""Hear all; trust nothing."" Good advice, sir.",11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.7351
+56284,56284,56284,56284,98,SISKO,The Romulans?,11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56285,56285,56285,56285,99,SISKO,Sisko to Dax.,11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56286,56286,56286,56286,100,DAX,Dax here.,11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56287,56287,56287,56287,101,SISKO,Put me through to Starfleet Intelligence.,11   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56288,56288,56288,56288,102,WORF,The Romulans. I always knew they were without honor. Now they have proven it.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56289,56289,56289,56289,103,BASHIR,When did they sign the treaty?,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56290,56290,56290,56290,104,SISKO,Yesterday.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56291,56291,56291,56291,105,O'BRIEN,They must be pretty desperate to side with the Dominion.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56292,56292,56292,56292,106,SISKO,Technically they're not siding with anyone. It's a non- aggression pact.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56293,56293,56293,56293,107,KIRA,"Meaning if the Dominion does attack, they're going to sit by and do nothing.",13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56294,56294,56294,56294,108,ODO,"The Romulans, the Miradorn, the Tholians. The Dominion's making impressive inroads in the Alpha Quadrant.",13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56295,56295,56295,56295,109,DAX,And the Bajorans are still talking to them.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56296,56296,56296,56296,110,KIRA,My people will never sign that treaty. Or any other agreement with the Dominion.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56297,56297,56297,56297,111,O'BRIEN,"Meanwhile, more Jem'Hadar ships are coming through the wormhole every week.",13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56298,56298,56298,56298,112,WORF,It must stop.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56299,56299,56299,56299,113,SISKO,It's going to stop. I've talked to Starfleet Command. And they've agreed that no more Dominion ships can be allowed into the Alpha Quadrant.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56300,56300,56300,56300,114,O'BRIEN,How do we keep them out?,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56301,56301,56301,56301,115,SISKO,We're going to mine the entrance to the wormhole. Prevent the Dominion from bringing any more reinforcements to Cardassia.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56302,56302,56302,56302,116,ODO,"If we try to stop those convoys, it may very well start a war.",13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56303,56303,56303,56303,117,SISKO,Maybe so. But one thing's for certain. We're losing the peace. Which means a war could be our only hope.,13   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56304,56304,56304,56304,118,O'BRIEN,What about pulse mines? We could equip them with variable geometry detonators.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56305,56305,56305,56305,119,DAX,Not good enough. The Dominion ships could just wait at the mouth of the wormhole and pick them off one by one.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56306,56306,56306,56306,120,O'BRIEN,What if we cloaked them?,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56307,56307,56307,56307,121,DAX,Cloaks don't always work against the Dominion.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56308,56308,56308,56308,122,O'BRIEN,"Maybe cloaked ships don't, but I'm thinking a lot smaller. Each mine no more than a meter across.",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56309,56309,56309,56309,123,DAX,A mine that small wouldn't have much power. It would take dozens of them to disable a warship. We'd run out of mines before they ran out of ships.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56310,56310,56310,56310,124,DAX,"Rom, are you here?",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56311,56311,56311,56311,125,ROM,Cloak. Small. Dozens. I heard every word.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56312,56312,56312,56312,126,O'BRIEN,Well something's wrong. You haven't touched your food.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56313,56313,56313,56313,127,ROM,"It's my stomach. Ever since Captain Sisko agreed to officiate at our wedding, I haven't had much of an appetite.",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56314,56314,56314,56314,128,O'BRIEN,I thought you wanted Captain Sisko to marry you.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56315,56315,56315,56315,129,ROM,"I did. But now that he's said yes, it's become so... real. I'm going to get married.",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56316,56316,56316,56316,130,DAX,"Not for another two weeks. And in the meantime, we've got work to do.",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56317,56317,56317,56317,131,ROM,But what if Leeta turns out to be just like Nog's mother? What if I can't make her happy? What if this is the biggest mistake of my life? What if...,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56318,56318,56318,56318,132,O'BRIEN,Rom.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56319,56319,56319,56319,133,ROM,Self-replication! That's the only answer.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56320,56320,56320,56320,134,DAX,Self-replication?,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56321,56321,56321,56321,135,ROM,"If the mines are going to be small, we'll need a lot of them. And we'll need a way to replace them quickly if the Jem'Hadar try to blast their way through. And... Uh-oh. I forgot to request new quarters. Mine are too small. Where are Leeta and I going to live?",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56322,56322,56322,56322,136,DAX,"Rom, I think you're on to something.",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56323,56323,56323,56323,137,ROM,I know I am. I've measured them three times. There's nowhere to put her prayer mandala.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56324,56324,56324,56324,138,O'BRIEN,We could equip each mine with a replicator unit.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56325,56325,56325,56325,139,DAX,"No matter how many the Jem'Hadar destroy, there'll always be more.",14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56326,56326,56326,56326,140,O'BRIEN,We'll program them to swarm detonate. Twenty or thirty mines for each ship.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56327,56327,56327,56327,141,ROM,The only problem is you'll have to wait until the entire minefield is deployed before you activate it. Otherwise the proximity sensors c ould cause premature detonation. Where's Leeta going to put all her clothes? I don't have enough closet space.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56328,56328,56328,56328,142,DAX,I'd better go talk to Sisko.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56329,56329,56329,56329,143,O'BRIEN,I'll go draw up some specs.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56330,56330,56330,56330,144,ROM,I've got to go to waste extraction.,14   INT. DAX'S QUARTERS ,DAX'S QUARTERS ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56331,56331,56331,56331,145,KIRA,"So, what did Starfleet Command say?",14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56332,56332,56332,56332,146,WORF,How many reinforcements will they be sending us?,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56333,56333,56333,56333,147,KIRA,And how soon will they get here?,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56334,56334,56334,56334,148,SISKO,We're not getting any reinforcements. We'll have to make due with what we've got.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56335,56335,56335,56335,149,KIRA,What we've got isn't enough.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56336,56336,56336,56336,150,WORF,"Sir, as Strategic Operations Officer, I cannot guarantee the safety of this station if a Dominion fleet should attack.",14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56337,56337,56337,56337,151,SISKO,"Your concerns are noted, commander.",14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56338,56338,56338,56338,152,KIRA,What's Starfleet thinking? They must've given you a reason for denying your request.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56339,56339,56339,56339,153,SISKO,They did.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56340,56340,56340,56340,154,KIRA,And?,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56341,56341,56341,56341,155,SISKO,And I'm not at liberty to discuss it. Let's just say Starfleet's resources will be needed elsewhere.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56342,56342,56342,56342,156,KIRA,What's more important than defending this station?,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56343,56343,56343,56343,157,WORF,"That's not for us to decide. What are our orders, captain?",14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56344,56344,56344,56344,158,SISKO,Deploy the minefield and prepare for a Dominion attack.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56345,56345,56345,56345,159,KIRA,And when the attack comes?,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56346,56346,56346,56346,160,SISKO,We're to defend this station until all the mines are in position and the field has been activated.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56347,56347,56347,56347,161,WORF,The Defiant will be unable to cloak or raise shields while deploying the mines. She will be an easy target.,14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56348,56348,56348,56348,162,SISKO,"Then it will be up to DS9 to defend her. If the Dominion wants to stop the Defiant, they'll have to come through us.",14A  INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56349,56349,56349,56349,163,KIRA,"You wanted to see me, Constable.",15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56350,56350,56350,56350,164,ODO,"Major, I'd like your permission to terminate all outgoing subspace communications.",15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56351,56351,56351,56351,165,KIRA,You think that's necessary?,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56352,56352,56352,56352,166,ODO,This is no time for security leaks. I've prepared a number of false messages we can transmit at random intervals so there won't be any noticeable drop in our outgoing subspace traffic.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56353,56353,56353,56353,167,KIRA,I'll see what I can do.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56354,56354,56354,56354,168,ODO,I'd appreciate that.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56355,56355,56355,56355,169,ODO,Major... there's something you ought to know.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56356,56356,56356,56356,170,KIRA,What's that?,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56357,56357,56357,56357,171,ODO,I've been thinking... about asking you to dinner.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56358,56358,56358,56358,172,KIRA,I've been expecting something like that.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56359,56359,56359,56359,173,ODO,I could tell. You've looked a little uncomfortable around me lately.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56360,56360,56360,56360,174,KIRA,You've looked a little uncomfortable yourself.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56361,56361,56361,56361,175,ODO,"That's why I wanted you to know... I'm not going to do it. No dinner invitations. No flowers. No attempts to change the nature of our relationship. Until the current crisis has passed, we both need our minds to be clear, free of unnecessary distractions.",15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56362,56362,56362,56362,176,KIRA,That's probably a good idea.,15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56363,56363,56363,56363,177,KIRA,"So, for now, all we have to concern ourselves with is deploying the minefield, maintaining station security and preparing ourselves for a possible invasion.",15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56364,56364,56364,56364,178,ODO,"I don't know about you, but I feel more comfortable already.",15   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56365,56365,56365,56365,179,SISKO ,"Captain's log, Stardate 50975.2. Five days until the next Dominion convoy. The mining of the wormhole is proceeding as scheduled. But I don't think any of us will rest easy until the work's complete.",18   EXT. SPACE (OPTICAL),SPACE,EXT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56366,56366,56366,56366,180,BASHIR,They're still at it?,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56367,56367,56367,56367,181,SISKO,Three days and no end in sight.,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56368,56368,56368,56368,182,BASHIR,Watching the glow of the Defiant's impulse engines won't make things go any faster.,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56369,56369,56369,56369,183,SISKO,I know. But I can't help myself.,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56370,56370,56370,56370,184,KIRA,Ops to Captain Sisko.,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56371,56371,56371,56371,185,SISKO,Go ahead.,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56372,56372,56372,56372,186,KIRA,A Dominion ship has just left Cardassian space. It's headed for the station.,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56373,56373,56373,56373,187,SISKO,On my way.,19   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56374,56374,56374,56374,188,SISKO,"What can I do for you, Weyoun?",20   INT. WARDROOM ,WARDROOM ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56375,56375,56375,56375,189,WEYOUN,Captain Sisko... I'll make this brief. we know all about the minefield.,20   INT. WARDROOM ,WARDROOM ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56376,56376,56376,56376,190,SISKO,I assumed you'd find out sooner or later.,20   INT. WARDROOM ,WARDROOM ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56377,56377,56377,56377,191,WEYOUN,"As I see it, you have two choices. Either remove the mines... or we will take this station from you... and remove them ourselves.",20   INT. WARDROOM ,WARDROOM ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56378,56378,56378,56378,192,SISKO,I appreciate your directness. Now let me be direct with you. The mines stay. I will not allow any more Dominion reinforcements through the wormhole.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56379,56379,56379,56379,193,WEYOUN,You will not allow?,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56380,56380,56380,56380,194,SISKO,You heard me.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56381,56381,56381,56381,195,WEYOUN,I can see how that might be your first reaction. But you and I are reasonable men. And surely reasonable men can come to some sort of mutually acceptable compromise.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56382,56382,56382,56382,196,SISKO,I didn't think the Dominion believed in compromise.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56383,56383,56383,56383,197,WEYOUN,It saddens me to see how deeply you misunderstand us. All the Dominion wants is to peacefully co- exist with its neighbors.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56384,56384,56384,56384,198,SISKO,Then why the continued military buildup? Why the weekly convoys of troops and ships from the Gamma Quadrant?,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56385,56385,56385,56385,199,WEYOUN,It's the Cardassians.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56386,56386,56386,56386,200,WEYOUN ,"Don't get me wrong, I'm pleased to call them allies, but as you know, they've just been though a terrible war with the Klingons. I'm afraid it's left them somewhat... jittery. So they're understandably concerned with insuring the sovereignty of their borders. And since they're now members of the Dominion, their concerns have become our concerns.",21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56387,56387,56387,56387,201,SISKO,I would think by now you have more than enough ships to defend Cardassia.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56388,56388,56388,56388,202,WEYOUN,"You may think that, and I may think that, but the Cardassians...",21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56389,56389,56389,56389,203,SISKO,I know. They're jittery.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56390,56390,56390,56390,204,WEYOUN,You see our dilemma.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56391,56391,56391,56391,205,SISKO,I'm beginning to.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56392,56392,56392,56392,206,WEYOUN,"What if we agreed to limit our convoys to cargo ships, construction units... civilian aid? Things that'll help them get their economy back on its feet. Did you know that when we arrived, children were starving on Cardassia Prime? It was heartbreaking.",21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56393,56393,56393,56393,207,SISKO,I had no idea things were so bad.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56394,56394,56394,56394,208,WEYOUN,The Cardassians are a very proud people. They don't want to admit to outsiders how dire their situation really is. So are we agreed? You remove the mines and we restrict our convoys to medical and economic assistance.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56395,56395,56395,56395,209,SISKO,"That sounds reasonable. Of course, I'll have to discuss it first with Starfleet.",21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56396,56396,56396,56396,210,WEYOUN,"I'm sure they'll do whatever Benjamin Sisko recommends. For my part, I will personally speak with the Founders to secure our end of the bargain.",21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56397,56397,56397,56397,211,SISKO,What about Gul Dukat?,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56398,56398,56398,56398,212,WEYOUN,Oh... he'll be furious... at first. But we've developed a fine working relationship. And I'm sure I can help him see the wisdom of our decision.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56399,56399,56399,56399,213,SISKO,I'll leave it in your capable hands.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56400,56400,56400,56400,214,WEYOUN,You won't be disappointed. This is a momentous day. You and I have just taken the first step toward insuring peace between our peoples.,21   INT. WARDROOM - CONTINUOUS,WARDROO,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56401,56401,56401,56401,215,SISKO,They're going to attack.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56402,56402,56402,56402,216,BASHIR,Are you sure?,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56403,56403,56403,56403,217,SISKO,"I'm positive. The moment I said we weren't going to remove the mines, we both knew there'd be war. Everything else was just words. An attempt to lull the other side into a false sense of security. I didn't buy it, and I'm sure Weyoun didn't either.",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56404,56404,56404,56404,218,WORF,How soon?,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56405,56405,56405,56405,219,SISKO,As soon as they can get their fleet here from Cardassia. I'd say as early as tomorrow.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56406,56406,56406,56406,220,SISKO,Which means we have to finish the minefield. Today.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56407,56407,56407,56407,221,DAX,We need more time.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56408,56408,56408,56408,222,SISKO,You don't have it.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56409,56409,56409,56409,223,DAX,We'll do all we can. Dax out.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56410,56410,56410,56410,224,SISKO,"General, I want you to take your ship and patrol the border. At the first sight of Dominion ships...",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56411,56411,56411,56411,225,MARTOK,I will sound the alarm.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56412,56412,56412,56412,226,SISKO,But don't engage the enemy. Get back to the station as quickly as you can. We're going to need you here.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56413,56413,56413,56413,227,MARTOK,Fighting them at the border or fighting them at the station... it makes no difference to me.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56414,56414,56414,56414,228,BASHIR,I don't suppose Starfleet could be persuaded to send us a few more ships... say fifty?,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56415,56415,56415,56415,229,SISKO,"I'm afraid not, doctor. We're on our own.",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56416,56416,56416,56416,230,BASHIR,"In that case, I'd better get the Infirmary ready.",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56417,56417,56417,56417,231,SISKO,"Mister Worf, see to the weapons array and issue combat assignments.",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56418,56418,56418,56418,232,SISKO,Major...,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56419,56419,56419,56419,233,KIRA,I'll contact the Bajoran Militia. They might be able to spare some ships.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56420,56420,56420,56420,234,SISKO,Forget the Militia. I need you to contact the Council of Ministers. Tell them I'd like to meet with them immediately.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56421,56421,56421,56421,235,KIRA,As a Starfleet captain or as the Emissary of the Prophets?,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56422,56422,56422,56422,236,SISKO,Both.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56423,56423,56423,56423,237,KIRA,That'll get their attention.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56424,56424,56424,56424,238,SISKO,You know that non-aggression pact that the Dominion offered Bajor a few weeks ago?,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56425,56425,56425,56425,239,KIRA,"They're still debating it in the Council of Ministers, but it'll never pass...",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56426,56426,56426,56426,240,SISKO,It will pass if the Emissary endorses it.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56427,56427,56427,56427,241,KIRA,You want Bajor to sign a treaty with the Dominion? Why?,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56428,56428,56428,56428,242,SISKO,"When I came here, my orders were to protect Bajor and help your people rebuild from the Occupation.",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56429,56429,56429,56429,243,KIRA,We succeeded.,22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56430,56430,56430,56430,244,SISKO,"And I refuse to see everything we've accomplished torn down again. The sad truth is, if there's a war, the Federation can't guarantee Bajor's safety. Which means Bajor has to be kept out of the fighting. I don't like this any more than you do, major, but it's Bajor's only chance for survival.",22   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56431,56431,56431,56431,245,SISKO ,"Captain's log, Supplemental: Bajor has signed the non-aggression pact with the Dominion. All Bajoran personnel have been ordered to evacuate the station.",26   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56432,56432,56432,56432,246,SISKO ,"As someone once said, ""These are the times that try men's souls.""",27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56433,56433,56433,56433,247,ZIYAL,You're sure you won't come with me?,27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56434,56434,56434,56434,248,GARAK,I don't think I'd be very welcome on Bajor.,27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56435,56435,56435,56435,249,ZIYAL,"I'm not going to be very popular there, either.",27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56436,56436,56436,56436,250,GARAK,"My dear, you are half-Bajoran. So at least half of you will be accepted. Besides, I'm sure Major Kira's friends will take good care of you.",27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56437,56437,56437,56437,251,ZIYAL,But what's going to happen to you?,27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56438,56438,56438,56438,252,"GARAK,","Let me tell you a story. I once knew a Cardassian, a dashing, handsome young man with a promising career. And then one day, through no fault of his own, he found himself exiled and alone, with nowhere to turn. But did he give up? No. Instead he struck upon a brilliant plan. Rather than fleeing for the rest of his life, he sought shelter in the one place no one expected him to go. In a stronghold of his people's most hated enemies. There, surrounded by hostile strangers, he built a life. And there, against all odds, against the merciless logic of the Universe itself, he thrived.",27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,-0.9478
+56439,56439,56439,56439,253,ZIYAL,By becoming the greatest tailor in the Galaxy.,27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.6369
+56440,56440,56440,56440,254,GARAK,"The moral, my dear, is to never underestimate my gift for survival.",27   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.2691
+56441,56441,56441,56441,255,SISKO,"Boray pree hadokee. Tolata impara boresh. Preeya Rom, Preeya Leeta, abrem varo atel. You may kiss the bride.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56442,56442,56442,56442,256,NOG,"Congratulations, Father! Moogie.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56443,56443,56443,56443,257,LEETA,"Thank you, Nog.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56444,56444,56444,56444,258,SISKO,"If you'll excuse me, I'm afraid I have business to attend to.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56445,56445,56445,56445,259,QUARK,"Well, that was the most pathetic excuse for a wedding ceremony I have ever seen. No bridal auction, no latinum dances, and the bride was severely overdressed.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56446,56446,56446,56446,260,ROM,"Nevertheless, you're very happy for us, aren't you, Brother?",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56447,56447,56447,56447,261,QUARK,Overjoyed. I give it two months.,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56448,56448,56448,56448,262,LEETA,"Oh, Rom.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56449,56449,56449,56449,263,ROM,"No time for that. Nog, are Leeta's bags packed?",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56450,56450,56450,56450,264,NOG,They're already on the shuttle.,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56451,56451,56451,56451,265,LEETA,"You mean, we're leaving?",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56452,56452,56452,56452,266,ROM,No. You're leaving.,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56453,56453,56453,56453,267,ROM,First Minister Shakaar was very clear. All Bajorans must leave the station for their own safety.,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56454,56454,56454,56454,268,LEETA,But what about you?,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56455,56455,56455,56455,269,ROM,My job is here. With Chief O'Brien.,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56456,56456,56456,56456,270,LEETA,Then I'm not going either.,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56457,56457,56457,56457,271,ROM,"You see that, Nog. We've barely finished saying our vows and we're already having our first fight. We're really married. You've got to go, Leeta. The problems of two newlyweds are but a small thread in the tapestry of galactic events. You might not understand that today, or even tomorrow. But someday you will. So get on that shuttle. And don't look back. Nog. Take your Moogie to the docking ring.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56458,56458,56458,56458,272,NOG,"Nice speech, Dad.",28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56459,56459,56459,56459,273,ROM,I thought so.,28   INT. WARDROOM,WARDROOM,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56460,56460,56460,56460,274,SISKO,"Computer, what's the status of program Sisko One-Nine-Seven?",29   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56461,56461,56461,56461,275,COMPUTER,All necessary modifications have been completed. Program Sisko One- Nine-Seven is ready for implementation on your command.,29   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56462,56462,56462,56462,276,NOG,"Ops to Captain Sisko. Sir, we're receiving a message from the Cardassian border. It's General Martok.",29   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56463,56463,56463,56463,277,SISKO,On screen.,30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56464,56464,56464,56464,278,NOG,"Aye, sir.",30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56465,56465,56465,56465,279,MARTOK,"Captain, we just detected a large force of Dominion ships headed your way. They should be there within the hou --",30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56466,56466,56466,56466,280,WORF,Someone's jamming his transmission.,30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56467,56467,56467,56467,281,DAMAR,"(on viewscreen, to Dukat) Contact established.",30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56468,56468,56468,56468,282,DUKAT,"Ahh, Captain Sisko. I don't suppose you'd like to surrender and avoid unnecessary bloodshed.",30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56469,56469,56469,56469,283,SISKO,Absolutely not.,30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56470,56470,56470,56470,284,DUKAT,I was hoping you'd say that.,30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56471,56471,56471,56471,285,SISKO,Battle stations.,30   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56472,56472,56472,56472,286,SISKO,How much longer?,33   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56473,56473,56473,56473,287,WORF,The Dominion fleet should be in weapons range in twenty minutes.,33   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56474,56474,56474,56474,288,SISKO,Are all the Bajorans off the station?,33   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56475,56475,56475,56475,289,NOG,The last transport just left.,33   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56476,56476,56476,56476,290,SISKO,"Let's hope the Dominion honors the non-aggression pact. Cadet, put me through to the Defiant.",33   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56477,56477,56477,56477,291,NOG,"Yes, Sir. On screen.",33   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56478,56478,56478,56478,292,DAX,"Benjamin, I know what you're going to say... but we've got at least another hour of work before we can activate the minefield.",34   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56479,56479,56479,56479,293,SISKO,"You don't have an hour, old man. The Dominion will be here in less than twenty minutes, and you're going to be a sitting duck.",34   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56480,56480,56480,56480,294,DAX,Then I hope you can buy us some more time. Dax out.,34   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56481,56481,56481,56481,295,DAX,Dax to O'Brien.,34   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56482,56482,56482,56482,296,O'BRIEN,"I know, I know. Work faster.",35   INT. DEFIANT - LAUNCH BAY ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56483,56483,56483,56483,297,JAKE,"Medical tricorder, hypospray, dermal regenerator, battlefield trauma kit.",36   INT. INFIRMARY ,INFIRMARY ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56484,56484,56484,56484,298,JAKE,"Medical tricorder, hypospray, dermal regenerator, battlefield trauma kit.",36   INT. INFIRMARY ,INFIRMARY ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56485,56485,56485,56485,299,JAKE,That's everyone. Now what?,36   INT. INFIRMARY ,INFIRMARY ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56486,56486,56486,56486,300,BASHIR,Now we wait until the casualties start coming in.,36   INT. INFIRMARY ,INFIRMARY ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56487,56487,56487,56487,301,BASHIR,You sure you're going to be okay?,36   INT. INFIRMARY ,INFIRMARY ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56488,56488,56488,56488,302,JAKE,"I'll be fine. Besides, my father won't let me stay in Ops and I promised the Federation News Service a firsthand account of the battle.",36   INT. INFIRMARY ,INFIRMARY ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56489,56489,56489,56489,303,BASHIR,"You'll get it. Just remember, Bashir is spelled with an ""I.""",36   INT. INFIRMARY ,INFIRMARY ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56490,56490,56490,56490,304,GARAK,"I must say, Constable, I admire your composure. You're an island of tranquility in a sea of chaos.",37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56491,56491,56491,56491,305,ODO,What I am... is useless. My entire staff has been evacuated to Bajor.,37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56492,56492,56492,56492,306,GARAK,"I'm not feeling too useful myself, at the moment. If it'd make you feel any better, you could always deputize me.",37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56493,56493,56493,56493,307,ODO,"Oh, I'm sure if the Jem'Hadar board the station, you'll make yourself useful.",37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56494,56494,56494,56494,308,GARAK,"It's ironic. When the Klingons attacked this station, Gul Dukat and I fought side-by-side. At one point, when he was struggling with a Klingon, he turned his back to me, and I have to admit, for a moment, he made a very tempting target.",37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56495,56495,56495,56495,309,ODO,You'd shoot a man in the back?,37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56496,56496,56496,56496,310,GARAK,"That's the safest way, isn't it? But then I thought, ""I can't fight all these Klingons by myself."" So I let him live.",37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56497,56497,56497,56497,311,ODO,And now you regret it.,37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56498,56498,56498,56498,312,GARAK,"My dear Constable, before this day is over, everyone on this station is going to regret it.",37   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56499,56499,56499,56499,313,QUARK,"Rom, I always said you were an idiot, but I never believed it more than I do at this moment.",38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56500,56500,56500,56500,314,ROM,"Brother, if you want to insult me, it's going to have to wait 'til later. I'm busy.",38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56501,56501,56501,56501,315,QUARK,Busy doing what?,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56502,56502,56502,56502,316,ROM,Preparing perimeter defenses for the attack.,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56503,56503,56503,56503,317,QUARK,There're dozens of engineers who could be doing that.,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56504,56504,56504,56504,318,QUARK ,Starfleet engineers. Hew-mons. You should be on Bajor with your new wife.,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56505,56505,56505,56505,319,ROM,That's what Leeta said.,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56506,56506,56506,56506,320,QUARK,"Well, she's right. This isn't your fight.",38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56507,56507,56507,56507,321,ROM,"It's not your fight either, but I don't see you leaving.",38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56508,56508,56508,56508,322,QUARK,I have to look out for my bar.,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56509,56509,56509,56509,323,ROM,And I have to look out for you.,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56510,56510,56510,56510,324,QUARK,Me?,38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56511,56511,56511,56511,325,ROM,"You're my brother. Whatever happens, we belong together.",38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56512,56512,56512,56512,326,QUARK,"Like I said, you're an idiot.",38   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56513,56513,56513,56513,327,SISKO,"General, I want you to take a defensive position near the Defiant. They have to finish deploying those mines no matter the cost.",39   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56514,56514,56514,56514,328,MARTOK,And they will. You have my word on it.,39   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56515,56515,56515,56515,329,SISKO,"Mister Worf, activate the weapons array.",39   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56516,56516,56516,56516,330,WORF,"Aye, captain.",39   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56517,56517,56517,56517,331,WORF,Weapons ready. The Dominion fleet will be in range in approximately five minutes.,41   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56518,56518,56518,56518,332,NOG,"When the Academy sent me back to DS Nine for field training, I don't think this is what they had in mind.",41   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56519,56519,56519,56519,333,KIRA,"Captain, as a major in the Bajoran Militia, I must officially protest Starfleet's refusal to turn over this station to my government.",41   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56520,56520,56520,56520,334,SISKO,Your protest is duly noted.,41   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56521,56521,56521,56521,335,KIRA,Good. Now that that's out of the way...,41   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56522,56522,56522,56522,336,KIRA,Kira Nerys reporting for duty.,41   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56523,56523,56523,56523,337,DAMAR,Weapons range in one minute.,44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56524,56524,56524,56524,338,DUKAT,I've been waiting for this moment for five years.,44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56525,56525,56525,56525,339,DAMAR,"First, we reclaim Terok Nor, and then... on to Bajor.",44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56526,56526,56526,56526,340,WEYOUN,Let's not get ahead of ourselves. Or must I remind you that the Dominion just signed a non- aggression pact with Bajor?,44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56527,56527,56527,56527,341,DUKAT,The Dominion might've. But I never did.,44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56528,56528,56528,56528,342,WEYOUN,"The Dominion will honor its treaty. And as a member of the Dominion, you will honor it as well.",44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56529,56529,56529,56529,343,DUKAT,"Where the Dominion leads, I will follow.",44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56530,56530,56530,56530,344,WEYOUN,I never doubted it.,44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56531,56531,56531,56531,345,DUKAT,Attack Wings One through Five head for the Defiant. Remaining ships target the station.,44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56532,56532,56532,56532,346,DAMAR,We're within weapons range.,44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56533,56533,56533,56533,347,DUKAT,"Then, by all means... fire.",44   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56534,56534,56534,56534,348,SISKO,"Mister Worf, all weapons, fire at will.",46   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56535,56535,56535,56535,349,NOG,Enemy ships are closing on the Defiant.,47B   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56536,56536,56536,56536,350,SISKO,Mister Worf.,47B   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56537,56537,56537,56537,351,WORF,Got them.,47B   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56538,56538,56538,56538,352,DAMAR,"Sir, the station's shields are holding.",48   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56539,56539,56539,56539,353,WEYOUN,Impossible. Federation shields have always proven useless against our weapons.,48   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56540,56540,56540,56540,354,DUKAT,I've found it wise never to underestimate the Federation's technical skill or Captain Sisko's resourcefulness. Bring us around for another pass.,48   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56541,56541,56541,56541,355,DAX,Chief? How much longer?,51   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56542,56542,56542,56542,356,O'BRIEN,Just another couple of minutes. Take us to the final set of coordinates.,52   INT. DEFIANT - LAUNCH BAY,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56543,56543,56543,56543,357,DAX,"Helm, set course for...",53   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56544,56544,56544,56544,358,DAX,"Chief, I'm going to have to take evasive maneuvers.",55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56545,56545,56545,56545,359,O'BRIEN,You do and you risk setting off every mine on this ship.,56   INT. DEFIANT - LAUNCH BAY,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56546,56546,56546,56546,360,DAX,"If I don't, there may not be a ship left.",57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56547,56547,56547,56547,361,MARTOK,"You may continue your work, commander. I will handle the Jem'Hadar.",59   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56548,56548,56548,56548,362,DAX,Who says there's never a Klingon around when you need one?,59   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56549,56549,56549,56549,363,NOG,Shields at thirty-five percent.,60   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56550,56550,56550,56550,364,KIRA,They're preparing for another attack.,60   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56551,56551,56551,56551,365,SISKO,"Mister Worf, make every shot count.",60   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56552,56552,56552,56552,366,DUKAT,"Attack wings and batteries, concentrate your fire on Section Seventeen of the outer docking ring. We have to penetrate their shields.",61   INT. JEM'HADAR BATTLESHIP,JEM'HADAR BATTLESHIP,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56553,56553,56553,56553,367,NOG,We've lost main power to the shields.,63   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56554,56554,56554,56554,368,WORF,Switching to auxiliary power. But I don't know how long it'll hold.,63   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56555,56555,56555,56555,369,DAX,Defiant to Captain Sisko.,63   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56556,56556,56556,56556,370,SISKO,"Go ahead, Dax.",63   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56557,56557,56557,56557,371,DAX,We've set the last mine.,64   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56558,56558,56558,56558,372,SISKO,Activate the field and return to the station.,65   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56559,56559,56559,56559,373,DAMAR,"Sir, the minefield--",66A  INT. JEM'HADAR BATTLESHIP ,JEM'HADAR BATTLESHIP ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56560,56560,56560,56560,374,DUKAT,"I have eyes, Damar.",66A  INT. JEM'HADAR BATTLESHIP ,JEM'HADAR BATTLESHIP ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56561,56561,56561,56561,375,WEYOUN,This isn't turning out quite the way I'd planned.,66A  INT. JEM'HADAR BATTLESHIP ,JEM'HADAR BATTLESHIP ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56562,56562,56562,56562,376,DUKAT,"A minor setback. Once we take the station, we'll be able to dismantle the minefield without interference.",66A  INT. JEM'HADAR BATTLESHIP ,JEM'HADAR BATTLESHIP ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56563,56563,56563,56563,377,WEYOUN,Let's both hope your confidence is justified.,66A  INT. JEM'HADAR BATTLESHIP ,JEM'HADAR BATTLESHIP ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56564,56564,56564,56564,378,DUKAT,"Damar, signal the reserves to prepare for a final assault.",66A  INT. JEM'HADAR BATTLESHIP ,JEM'HADAR BATTLESHIP ,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56565,56565,56565,56565,379,KIRA,The Dominion fleet's regrouping and I'm detecting another wave of enemy ships entering Bajoran space.,67   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56566,56566,56566,56566,380,WORF,"What are your orders, Captain?",67   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56567,56567,56567,56567,381,SISKO,We've done all we can here. Notify remaining Starfleet personnel. We're evacuating the station.,67   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56568,56568,56568,56568,382,DAX,Worf.,69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56569,56569,56569,56569,383,WORF,Jadzia. You should be on the Defiant.,69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56570,56570,56570,56570,384,DAX,I heard you're not coming with us. That you've been assigned to Martok's ship.,69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56571,56571,56571,56571,385,WORF,It might be some time before we see each other again.,69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56572,56572,56572,56572,386,DAX,"Worf, we might never see each other again.",69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56573,56573,56573,56573,387,WORF,This is war. We must put our personal feelings aside. Focus on the task at hand.,69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56574,56574,56574,56574,388,DAX,"I've been through my share of wars. I know what I have to do. But before you leave, I just want you to know that the answer is ""yes.""",69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56575,56575,56575,56575,389,WORF,Yes? Yes to what?,69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56576,56576,56576,56576,390,DAX,"Yes, I will marry you.",69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56577,56577,56577,56577,391,DAX,"That's what you've wanted from the very beginning, isn't it?",69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56578,56578,56578,56578,392,WORF,It is.,69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56579,56579,56579,56579,393,DAX,"Then as soon as this is over, we'll get married. And if that doesn't give you a reason to survive, I don't know what will.",69   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56580,56580,56580,56580,394,SISKO,"When I first took command of this post, all I wanted was to be somewhere else. Anywhere but here. But now, five years later, this station has become my home. And you've become my family. Leaving this place, leaving you, is one of the hardest things I've ever had to do.",70   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56581,56581,56581,56581,395,SISKO,"But this war isn't over yet. I want you to know while we were keeping the Dominion occupied, a combined Starfleet/Klingon task force crossed the border into Cardassia and destroyed the Dominion shipyards on Torros Three.",72   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56582,56582,56582,56582,396,SISKO,"Our sacrifices made that victory possible. But no victory could make this moment any easier for me. And I promise, I will not rest until I stand with you again. Here. In this place. Where I belong.",73   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56583,56583,56583,56583,397,SISKO,Sisko to Defiant. One to beam aboard.,75   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56584,56584,56584,56584,398,SISKO,Are we ready?,76   INT. DEFIANT - TRANSPORTER BAY (OPTICAL) ,DEFIANT - TRANSPORTER BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56585,56585,56585,56585,399,O'BRIEN,As soon as you give the word.,76   INT. DEFIANT - TRANSPORTER BAY (OPTICAL) ,DEFIANT - TRANSPORTER BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56586,56586,56586,56586,400,SISKO,Mister Garak.,76   INT. DEFIANT - TRANSPORTER BAY (OPTICAL) ,DEFIANT - TRANSPORTER BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56587,56587,56587,56587,401,GARAK,"I'd like to come along, if you don't mind. You never know when you might need a good tailor. And the simple fact is, I have nowhere else to go.",76   INT. DEFIANT - TRANSPORTER BAY (OPTICAL) ,DEFIANT - TRANSPORTER BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56588,56588,56588,56588,402,SISKO,Welcome aboard.,76   INT. DEFIANT - TRANSPORTER BAY (OPTICAL) ,DEFIANT - TRANSPORTER BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56589,56589,56589,56589,403,DAX,Dax to Sisko. The Dominion fleet is coming around for another attack.,76   INT. DEFIANT - TRANSPORTER BAY (OPTICAL) ,DEFIANT - TRANSPORTER BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56590,56590,56590,56590,404,SISKO,Release docking clamps. Prepare for departure.,76   INT. DEFIANT - TRANSPORTER BAY (OPTICAL) ,DEFIANT - TRANSPORTER BAY,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56591,56591,56591,56591,405,ODO,The Defiant's away.,78   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56592,56592,56592,56592,406,KIRA,Signal the Dominion fleet. Tell them the Bajoran government welcomes them to Deep Space Nine.,78   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56593,56593,56593,56593,407,ODO,Message acknowledged.,78   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56594,56594,56594,56594,408,KIRA,"Good. That's the last message this station will be putting out for a while. Computer, initiate program Sisko One-Nine-Seven.",78   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56595,56595,56595,56595,409,COMPUTER,Program initiated.,78   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56596,56596,56596,56596,410,KIRA,"Dukat wanted the station back, he can have it.",78   INT. OPS (OPTICAL),OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56597,56597,56597,56597,411,QUARK,I don't want to see a drop of root beer left in this place. Break out the kanar and find me some yamok sauce.,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56598,56598,56598,56598,412,ROM,"Rom, Assistant Manager for Policy and Clientele. Reporting for work, Brother.",79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56599,56599,56599,56599,413,QUARK,"What, you think you can just walk back in here and get your old job back?",79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56600,56600,56600,56600,414,ROM,"Actually, I'm a spy working for Starfleet. But don't tell anyone.",79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56601,56601,56601,56601,415,QUARK,The Federation is more desperate than I thought.,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56602,56602,56602,56602,416,QUARK,I knew one day you'd come crawling back to me. Now get to work.,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56603,56603,56603,56603,417,ROM,"Yes, Brother.",79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.4019
+56604,56604,56604,56604,418,ROM,Jake?,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56605,56605,56605,56605,419,ROM,Aren't you supposed to be on the Defiant?,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,-0.2263
+56606,56606,56606,56606,420,JAKE,I changed my mind. There's a war going on and I'm a reporter. This is where I belong.,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56607,56607,56607,56607,421,ROM,But you're not safe here.,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56608,56608,56608,56608,422,JAKE,"I'm probably safer here than any of you. The Dominion knows I'm the Emissary's son. If they hurt me, they risk alienating their new ""friends"" the Bajorans.",79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56609,56609,56609,56609,423,ROM,I hope you're right.,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56610,56610,56610,56610,424,JAKE,So do I.,79   INT. QUARK'S,QUARK'S,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56611,56611,56611,56611,425,SISKO,What the hell is Jake thinking?,81   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56612,56612,56612,56612,426,O'BRIEN,Do we go back for him?,81   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56613,56613,56613,56613,427,SISKO,"I can't risk this entire crew for one man even though he is my son. And whether I like it or not, he is a man. Capable of making his own choices. Maintain current course.",81   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56614,56614,56614,56614,428,DAX,"Aye, captain. We should rendezvous with the Federation task force in forty-eight hours.",81   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56615,56615,56615,56615,429,BASHIR,And then what?,81   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56616,56616,56616,56616,430,NOG,And then we make the Dominion sorry they ever set foot in the Alpha Quadrant.,81   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56617,56617,56617,56617,431,SISKO,"Cadet, you took the words right out of my mouth.",81   INT. DEFIANT - BRIDGE ,DEFIAN,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56618,56618,56618,56618,432,DAMAR,This is a great victory for Cardassia...,82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56619,56619,56619,56619,433,DUKAT,And the Dominion.,82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56620,56620,56620,56620,434,WEYOUN,Over fifty ships lost. Our spacedocks on Torros Three destroyed. A victory perhaps. But a costly one.,82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56621,56621,56621,56621,435,DUKAT,"We'll discuss the repercussions later. Right now, I intend to enjoy this moment.",82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56622,56622,56622,56622,436,KIRA,Gentlemen. On behalf of the Bajoran government...,82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56623,56623,56623,56623,437,QUARK,And the Promenade Merchants' Association...,82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56624,56624,56624,56624,438,KIRA,I officially welcome you to Deep Space Nine.,82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56625,56625,56625,56625,439,DUKAT,"You mean, Terok Nor. Don't you?",82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56626,56626,56626,56626,440,WEYOUN,"Founder, we are honored by your decision to remain with us.",82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56627,56627,56627,56627,441,ODO,I'm not here as a Founder. I'm the station's Security Chief.,82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56628,56628,56628,56628,442,WEYOUN,"Whatever you say. Nevertheless, having a god walk amongst us is most gratifying.",82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56629,56629,56629,56629,443,DUKAT,"I agree. You, me, the major, together again... It should be most interesting. Now if you'll excuse me. I'll be in my office.",82   INT. PROMENADE,PROMENADE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56630,56630,56630,56630,444,WEYOUN,It would appear Captain Sisko was most efficient in disabling the station.,83   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56631,56631,56631,56631,445,DUKAT,It can be repaired. And it will be.,83   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56632,56632,56632,56632,446,WEYOUN,"But your first priority is to dismantle that minefield. Until we can bring in reinforcements from the Gamma Quadrant, our position here is vulnerable.",83   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56633,56633,56633,56633,447,DUKAT,I'll deal with the minefield.,83   INT. OPS,OPS,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56634,56634,56634,56634,448,WEYOUN,I assume Captain Sisko removed or destroyed everything of value.,83A  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56635,56635,56635,56635,449,DUKAT,Not everything.,83A  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56636,56636,56636,56636,450,WEYOUN,What is that?,83A  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56637,56637,56637,56637,451,DUKAT,A message. From Sisko.,83A  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56638,56638,56638,56638,452,WEYOUN,I don't understand.,83A  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56639,56639,56639,56639,453,DUKAT,He's letting me know... he'll be back.,83A  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Call to Arms,1997-04-10,Deep Space Nine,524.txt,0.0
+56640,56640,56640,56640,0,KIRA,Come in.,1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56641,56641,56641,56641,1,DAX,Is it my imagination or does oh- six-hundred seem to come earlier and earlier?,1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56642,56642,56642,56642,2,KIRA,"Either that, or you've been going to bed later and later.",1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56643,56643,56643,56643,3,DAX,I'd forgotten how... strenuous married life can be.,1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56644,56644,56644,56644,4,KIRA,What do you think?,1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56645,56645,56645,56645,5,DAX,I think Ziyal was talented... but not that talented.,1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56646,56646,56646,56646,6,KIRA,Too much?,1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56647,56647,56647,56647,7,DAX,"There, that's better.",1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56648,56648,56648,56648,8,KIRA,How did you know that was my favorite one?,1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56649,56649,56649,56649,9,DAX,"I guessed. Come on, we're going to be late.",1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56650,56650,56650,56650,10,DAX,"You really miss her, don't you?",1    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56651,56651,56651,56651,11,KIRA,I'll get over it. Death and I are old friends.,3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56652,56652,56652,56652,12,DAX,Maybe he can be your date tomorrow night.,3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56653,56653,56653,56653,13,KIRA,"I told you, I'm not bringing anyone.",3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56654,56654,56654,56654,14,DAX,"I know what you told me, but people change their minds.",3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56655,56655,56655,56655,15,KIRA,Not me. Not about this.,3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56656,56656,56656,56656,16,DAX,What about Captain Boday?,3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56657,56657,56657,56657,17,KIRA,You want me to bring Captain Boday to your quarters for dinner?,3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56658,56658,56658,56658,18,DAX,It's just a suggestion...,3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56659,56659,56659,56659,19,KIRA,"A bad suggestion. One, you used to go out with Captain Boday. Two, Worf hates him. And three -- as we have discussed many times -- Captain Boday has a transparent skull.",3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56660,56660,56660,56660,20,DAX,And you don't like to see a man's brains...,3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56661,56661,56661,56661,21,KIRA,"(nods ""that's right,"" then to com) Ops.",3    INT. HABITAT RING CORRIDOR - CONTINUOUS,HABITAT RING CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56662,56662,56662,56662,22,DAX,"What about Doctor Trag'tok? He's intelligent, a good physique, and he has a very opaque cranium.",4    INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56663,56663,56663,56663,23,KIRA,True. But his eye bothers me.,4    INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56664,56664,56664,56664,24,DAX,Which one?,4    INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56665,56665,56665,56665,25,KIRA,The middle one.,4    INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56666,56666,56666,56666,26,DAX,"You really are obsessed with appearances, aren't you?",4    INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,-0.2449
+56667,56667,56667,56667,27,KIRA,And your taste in men... frightens me.,4    INT. TURBOLIFT - CONTINUOUS,TURBOLIF,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,-0.4019
+56668,56668,56668,56668,28,DAX,I'll tell Worf you said so.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56669,56669,56669,56669,29,WORF,Tell me what?,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56670,56670,56670,56670,30,DAX,Don't be so nosy.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56671,56671,56671,56671,31,KIRA,Two raktajinos. Extra strong. And a Kava roll.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56672,56672,56672,56672,32,DAX,You could always invite Odo...,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56673,56673,56673,56673,33,DAX,... as a friend.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56674,56674,56674,56674,34,KIRA,I'm not ready for that. Odo's not ready for that. Let's just forget you ever brought it up. I'm coming to dinner -- alone. Got it?,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56675,56675,56675,56675,35,DAX,I got it. Three place settings.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56676,56676,56676,56676,36,KIRA,I'll bring the wine.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56677,56677,56677,56677,37,O'BRIEN,"Captain, you'd better get out here.",5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.4404
+56678,56678,56678,56678,38,SISKO,What is it?,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56679,56679,56679,56679,39,O'BRIEN,I'm showing a power buildup in the transporter buffer.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56680,56680,56680,56680,40,DAX,Someone's attempting to beam aboard.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56681,56681,56681,56681,41,SISKO,From where?,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56682,56682,56682,56682,42,DAX,I don't know. There are no ships within transporter range.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56683,56683,56683,56683,43,SISKO,Sisko to Bashir. We have a medical emergency in Ops.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56684,56684,56684,56684,44,BASHIR,I'll be right there.,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56685,56685,56685,56685,45,KIRA,Are you hurt?,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56686,56686,56686,56686,46,BAREIL,"No, but you will be, unless you do exactly what I say.",5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56687,56687,56687,56687,47,KIRA,It can't be...,5    INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56688,56688,56688,56688,48,SISKO,What do you want?,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56689,56689,56689,56689,49,BAREIL,A fast ship would be nice.,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56690,56690,56690,56690,50,SISKO,"Security, we have a hostage situation. Clear a path to Landing Pad A. Authorization Sisko seven-one-green.",11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56691,56691,56691,56691,51,ODO,"Seven-one-green acknowledged, captain.",11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56692,56692,56692,56692,52,SISKO,Your runabout's waiting.,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56693,56693,56693,56693,53,BAREIL,Let's go.,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56694,56694,56694,56694,54,SISKO,"Hurt her and you'll never get off this station, I promise you that.",11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56695,56695,56695,56695,55,BAREIL,Follow me and she dies -- I promise you that.,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56696,56696,56696,56696,56,BAREIL,Hold it.,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56697,56697,56697,56697,57,BAREIL,Not the turbolift. Someone cuts the power and we're trapped inside.,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56698,56698,56698,56698,58,KIRA,I guess we walk.,11   INT. OPS - CONTINUOUS,OP,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56699,56699,56699,56699,59,BAREIL,"Your uniform... I've never seen one like it. You're not with the Alliance, are you?",13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56700,56700,56700,56700,60,KIRA,There is no Alliance here.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56701,56701,56701,56701,61,BAREIL,Then it's true. I've crossed to the alternate universe. (finishing off the Kava roll) Tell you one thing... I like your food better.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56702,56702,56702,56702,62,KIRA,I take it you're running from the Alliance.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56703,56703,56703,56703,63,BAREIL,Now you know the story of my life.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56704,56704,56704,56704,64,KIRA,"And once you get your ship, what then?",13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56705,56705,56705,56705,65,BAREIL,I find a place where I can stop running.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56706,56706,56706,56706,66,KIRA,Where's that?,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56707,56707,56707,56707,67,BAREIL,"I don't know -- I'm making this up as I go along. Believe me, no matter where I end up, it's going to be a lot better than where I've been.",13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.2023
+56708,56708,56708,56708,68,KIRA,I can believe that. I've spent time in your universe.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56709,56709,56709,56709,69,BAREIL,I bet you were glad to leave it.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.4215
+56710,56710,56710,56710,70,BAREIL,Which way?,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56711,56711,56711,56711,71,KIRA,That way.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56712,56712,56712,56712,72,BAREIL,How many levels until we reach the landing pads?,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56713,56713,56713,56713,73,KIRA,Fifty-seven.,13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56714,56714,56714,56714,74,BAREIL,"Lead the way. You don't happen to have another one of those Kava rolls, do you? I didn't think so.",13   INT. CORRIDOR - CONTINUOUS,CORRIDO,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56715,56715,56715,56715,75,KIRA,We're here. Landing Pad A.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56716,56716,56716,56716,76,BAREIL,Open it.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56717,56717,56717,56717,77,KIRA,I have a better idea,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56718,56718,56718,56718,78,KIRA,Why don't you hand me that disruptor.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56719,56719,56719,56719,79,BAREIL,You've been so cooperative up to now. I'd hate to have to kill you.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56720,56720,56720,56720,80,KIRA,You're not going to kill me.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56721,56721,56721,56721,81,BAREIL,You're sure of that?,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56722,56722,56722,56722,82,KIRA,You're not going to kill anyone. Not with that disruptor. The power cell's cracked.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56723,56723,56723,56723,83,BAREIL,How long have you known?,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56724,56724,56724,56724,84,KIRA,Since we left Ops.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56725,56725,56725,56725,85,BAREIL,Then why'd you come with me?,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56726,56726,56726,56726,86,KIRA,I needed the exercise.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56727,56727,56727,56727,87,BAREIL,And I need to get away.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56728,56728,56728,56728,88,ODO,"Are you all right, major?",14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56729,56729,56729,56729,89,KIRA,I'm fine.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56730,56730,56730,56730,90,ODO,The resemblance to Vedek Bareil is remarkable.,14   INT. DOCKING RING CORRIDOR,DOCKING RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56731,56731,56731,56731,91,BAREIL,"This is the cleanest interrogation chamber I've ever been in -- and believe me, I've been in quite a few.",16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56732,56732,56732,56732,92,KIRA,I'm glad you're comfortable. Mind telling me how you got your hands on this?,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56733,56733,56733,56733,93,BAREIL,A Terran rebel gave it to me.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56734,56734,56734,56734,94,KIRA,A multidimensional transporter device -- nice gift.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56735,56735,56735,56735,95,BAREIL,We were very close.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56736,56736,56736,56736,96,BAREIL,"(with cheerful anticipation) So, when do I get to meet myself?",16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56737,56737,56737,56737,97,KIRA,Meaning what?,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56738,56738,56738,56738,98,BAREIL,"This is the alternate universe, correct? Everything's the same... but different. Which means there's another Bareil Antos here.",16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56739,56739,56739,56739,99,KIRA,There was.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56740,56740,56740,56740,100,BAREIL,Was?,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56741,56741,56741,56741,101,KIRA,He's dead.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56742,56742,56742,56742,102,BAREIL,"You knew him, didn't you? That's why you seemed to recognize me. What was he like?",16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56743,56743,56743,56743,103,KIRA,Does it matter?,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56744,56744,56744,56744,104,BAREIL,He was someone you cared about.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56745,56745,56745,56745,105,BAREIL,Major.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56746,56746,56746,56746,106,BAREIL,I know I have no right to ask this but you could do me a very big favor -- -- destroy that device.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56747,56747,56747,56747,107,KIRA,Why?,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56748,56748,56748,56748,108,BAREIL,Because then they can't send me back.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56749,56749,56749,56749,109,KIRA,"Sorry, I can't do that.",16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56750,56750,56750,56750,110,BAREIL,"Please, major. You've been there -- you know what it's like.",16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56751,56751,56751,56751,111,BAREIL ,Put me in prison... in a labor camp... whatever you want -- just let me stay.,16   INT. HOLDING CELL,HOLDING CELL,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56752,56752,56752,56752,112,SISKO,"Let me get this straight, major... you're refusing to press charges?",17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56753,56753,56753,56753,113,SISKO,I suppose we could just send him back where he came from.,17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56754,56754,56754,56754,114,KIRA,No. He doesn't want to go back to that universe and I don't blame him.,17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56755,56755,56755,56755,115,SISKO,"I know what you're going through, major. When I met the ""other"" Jennifer Sisko, it was... confusing to say the least. I knew she wasn't my wife, but sometimes she would smile at me a certain way -- or the light would hit her eyes, and... she was my Jennifer. or at least that's what I wanted to believe.",17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56756,56756,56756,56756,116,KIRA,"Captain -- I know this man isn't Vedek Bareil. He doesn't talk like him, he doesn't act like him... he's a totally different person.",17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56757,56757,56757,56757,117,SISKO,"But you still feel a connection to him that you can't explain, don't you?",17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56758,56758,56758,56758,118,KIRA,It's not a problem.,17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56759,56759,56759,56759,119,SISKO,Good. Just see that it doesn't become one.,17   INT. SISKO'S OFFICE,SISKO'S OFFICE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56760,56760,56760,56760,120,BAREIL,Major!,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56761,56761,56761,56761,121,BAREIL,I just wanted to say thank you for putting in a good word on my behalf.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56762,56762,56762,56762,122,KIRA,What are you going to do now?,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56763,56763,56763,56763,123,BAREIL,I'm not sure. I've been reading up on your world -- it's very different from the Bajor I know.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56764,56764,56764,56764,124,KIRA,Is that where you intend to go?,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56765,56765,56765,56765,125,BAREIL,I'm thinking about it.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56766,56766,56766,56766,126,BAREIL,Did you see that? People keep staring at me.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56767,56767,56767,56767,127,KIRA,It's because the man you look like was respected and loved by a lot of people. He was a Vedek.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.8591
+56768,56768,56768,56768,128,BAREIL,A Vedek?,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56769,56769,56769,56769,129,KIRA,A religious leader.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56770,56770,56770,56770,130,BAREIL,"Imagine that -- me, a religious leader...",19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56771,56771,56771,56771,131,KIRA,I'm glad you find it amusing. I'm going to be late for services.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56772,56772,56772,56772,132,BAREIL,"Wait -- I didn't mean to offend you. It's just the kind of life I've led... it hasn't been very spiritual. In fact, I don't think I've ever been inside a temple.",19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56773,56773,56773,56773,133,KIRA,"Well, now's your chance. You're welcome to join me.",19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56774,56774,56774,56774,134,BAREIL,"(surprised at the thought) In there? I don't think so. Besides, if I go in there, people are going to start believing I really am Vedek Bareil. And that's something I'd like to avoid.",19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56775,56775,56775,56775,135,KIRA,I can understand that.,19   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56776,56776,56776,56776,136,OSSAN,"Tolata impara no takash... with humility and gratitude, we accept this gift...",21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56777,56777,56777,56777,137,OSSAN,... Veshanoo yavar ha iktasho... the sacred Orb of Prophecy.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56778,56778,56778,56778,138,KIRA,What are you doing here?,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56779,56779,56779,56779,139,BAREIL,I figured I could use a little spiritual guidance.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56780,56780,56780,56780,140,KIRA,That's not funny.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56781,56781,56781,56781,141,BAREIL,It wasn't meant to be.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56782,56782,56782,56782,142,BAREIL,I plan on making a new life for myself here and I'm going to need all the help I can get.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56783,56783,56783,56783,143,BAREIL,What's in the box?,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56784,56784,56784,56784,144,KIRA,The Orb of Prophecy and Change.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56785,56785,56785,56785,145,BAREIL,"""Orb?""",21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56786,56786,56786,56786,146,KIRA,"A gift from the Prophets. It can foresee the future -- or a possible future, anyway.",21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.4404
+56787,56787,56787,56787,147,BAREIL,That could come in handy. Who are the Prophets?,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56788,56788,56788,56788,148,KIRA,"Our gods. You do have gods, don't you?",21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56789,56789,56789,56789,149,BAREIL,Of course we do.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56790,56790,56790,56790,150,KIRA,You don't sound too sure.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56791,56791,56791,56791,151,BAREIL,That's because I leave them alone and they leave me alone.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56792,56792,56792,56792,152,OSSAN,Yelim cha ono... tarnah purono dhar jeek... teram far che... yavar ha iktasho...,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56793,56793,56793,56793,153,KIRA,Close your eyes.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56794,56794,56794,56794,154,BAREIL,Excuse me?,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56795,56795,56795,56795,155,KIRA,Close your eyes.,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56796,56796,56796,56796,156,GROUP,Yelim cha ono... tarnah purono dhar jeek... teram far che... yavar ha iktasho...,21   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56797,56797,56797,56797,157,KIRA,"Well, what did you think?",28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56798,56798,56798,56798,158,BAREIL,"I'm not sure. It was an interesting ceremony, but...",28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56799,56799,56799,56799,159,KIRA,But what?,28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56800,56800,56800,56800,160,BAREIL,Everyone seemed to take it so seriously.,28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56801,56801,56801,56801,161,KIRA,What's wrong with that?,28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56802,56802,56802,56802,162,BAREIL,It must be nice to have that kind of faith. I've always preferred to believe in nothing -- that way I'm never disappointed.,28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56803,56803,56803,56803,163,KIRA,Doesn't sound like much of a life.,28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56804,56804,56804,56804,164,BAREIL,"Maybe not, but it's all mine.",28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56805,56805,56805,56805,165,BAREIL,Anyway... I'm glad I got a chance to see you again -- it was very... enlightening.,28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56806,56806,56806,56806,166,BAREIL,"Thank you, major.",28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56807,56807,56807,56807,167,KIRA,Bareil. (after he turns to face her) Do you like Klingon food?,28   INT. PROMENADE,PROMENADE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56808,56808,56808,56808,168,BAREIL,"An hour later, the Klingon guard returned to my cell. And as he...",29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56809,56809,56809,56809,169,BAREIL,"... put down my ""last meal""... I slipped his mek'leth out of his scabbard and hid it in my shirt. That night, I used the blade to deactivate the sensor alarm, and used my earring to open the cell door. By the time they realized I was gone, I was halfway to the Ventar system.",29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,-0.4215
+56810,56810,56810,56810,170,DAX,That's one hell of a story.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,-0.6808
+56811,56811,56811,56811,171,WORF,And that's all it is -- a story.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56812,56812,56812,56812,172,BAREIL,Excuse me?,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0772
+56813,56813,56813,56813,173,WORF,"It was well told, but there's no truth to any of it.",29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56814,56814,56814,56814,174,BAREIL,You're sure of that?,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56815,56815,56815,56815,175,WORF,You expect us to believe you stole a mek'leth from a Klingon warrior?,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56816,56816,56816,56816,176,DAX,Worf -- it's not polite to accuse a guest of lying.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56817,56817,56817,56817,177,BAREIL,"It's all right. Obviously, I was exaggerating.",29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56818,56818,56818,56818,178,DAX,Would you like to do the honors?,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56819,56819,56819,56819,179,BAREIL,Allow me.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56820,56820,56820,56820,180,BAREIL,I believe this is yours.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56821,56821,56821,56821,181,KIRA,"What do you think now, Worf?",29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56822,56822,56822,56822,182,WORF,"Obviously, Bareil is a better thief than I gave him credit for. More bloodwine?",29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56823,56823,56823,56823,183,BAREIL,Why not.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56824,56824,56824,56824,184,WORF,Now I will tell you one of my stories.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56825,56825,56825,56825,185,BAREIL,And I suppose every word of it will be true.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56826,56826,56826,56826,186,WORF,Mostly.,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56827,56827,56827,56827,187,WORF,I was seventeen and serving as an ensign on the U.S.S. Hawk. We were two days out of port when this anomaly hit us --,29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56828,56828,56828,56828,188,DAX,"I'll say this for him, he might not be as spiritual as Vedek Bareil -- but he's a lot more fun.",29   INT. DAX AND WORF'S QUARTERS,DAX AND WORF'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56829,56829,56829,56829,189,BAREIL,You know you're a lucky woman?,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56830,56830,56830,56830,190,KIRA,Why's that?,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56831,56831,56831,56831,191,BAREIL,You have good friends.,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56832,56832,56832,56832,192,KIRA,They liked you.,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56833,56833,56833,56833,193,BAREIL,You think so?,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56834,56834,56834,56834,194,KIRA,Why do you sound so surprised? You must've had friends back home.,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56835,56835,56835,56835,195,BAREIL,I can think of one...,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56836,56836,56836,56836,196,KIRA,If you don't want to talk about it...,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56837,56837,56837,56837,197,BAREIL,There's not much to say. She died.,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56838,56838,56838,56838,198,KIRA,I'm sorry.,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56839,56839,56839,56839,199,BAREIL,"It's all right, it was a long time ago.",31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56840,56840,56840,56840,200,KIRA,This is home. I'm sorry the evening had to end on such a sad note.,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56841,56841,56841,56841,201,KIRA,Would you like to come in -- have a raktajino?,31   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56842,56842,56842,56842,202,BAREIL,Her name was Lisea. I first saw her on the street in Ilvia. I couldn't take my eyes off her -- she had the most attractive little money sack hanging from her waist.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56843,56843,56843,56843,203,KIRA,Don't tell me you stole it --,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56844,56844,56844,56844,204,BAREIL,She should've known better than to carry her money so carelessly in Ilvia. It's a very dangerous place. Turns out she had just arrived from one of the mining camps in the hills of Dahkur Province.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56845,56845,56845,56845,205,KIRA,"I come from Dahkur Province, except here it's all farmland.",32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56846,56846,56846,56846,206,BAREIL,When I met her she was working in an Ilvian pleasure center.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56847,56847,56847,56847,207,KIRA,"And you decided to ""take her away from all that?""",32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56848,56848,56848,56848,208,BAREIL,I taught her how to be a thief. The funny thing is she was so grateful. She felt I saved her life.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56849,56849,56849,56849,209,KIRA,Maybe you did.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56850,56850,56850,56850,210,BAREIL,If anyone was saved it was me...,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56851,56851,56851,56851,211,BAREIL,"We were having dinner in a bar... a fight broke out. A drunken Cardassian pulled out a disruptor and started firing. The next thing I knew, she was lying dead in my arms...",32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56852,56852,56852,56852,212,BAREIL,"We were together five years... and in all that time, I never told her how much she meant to me.",32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56853,56853,56853,56853,213,KIRA,I know what it's like to lose someone.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56854,56854,56854,56854,214,BAREIL,When I activated that transporter device... I had no idea where I would end up. I never thought I'd be sitting here... with you.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56855,56855,56855,56855,215,KIRA,Two days ago all I wanted was to be alone.,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56856,56856,56856,56856,216,BAREIL,Major...,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56857,56857,56857,56857,217,KIRA,Don't you think it's time you called me Nerys?,32   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56858,56858,56858,56858,218,BAREIL,(holding up a piece of fruit) What did you say these are called?,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56859,56859,56859,56859,219,KIRA,Alvas. They grow all over Bajor.,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56860,56860,56860,56860,220,BAREIL,Not my Bajor.,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56861,56861,56861,56861,221,KIRA,"I can't believe you're still hungry. After a Klingon meal, I usually don't eat for two days.",33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56862,56862,56862,56862,222,BAREIL,"Ever since I got here, I can't seem to stop eating.",33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56863,56863,56863,56863,223,BAREIL,What is it?,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56864,56864,56864,56864,224,KIRA,Nothing.,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56865,56865,56865,56865,225,BAREIL,"This must be very... strange for you. You and I here, together... me looking like him.",33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56866,56866,56866,56866,226,KIRA,You're not anything like him.,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56867,56867,56867,56867,227,BAREIL,You mean he didn't eat in bed?,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56868,56868,56868,56868,228,KIRA,"Antos was very disciplined. He had a set routine that he never deviated from. He ate only two meals a day... simple food. He always used to say ""When you overindulge the body --",33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56869,56869,56869,56869,229,BAREIL,"-- you starve the soul.""",33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56870,56870,56870,56870,230,KIRA,How'd you know that?,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56871,56871,56871,56871,231,BAREIL,"I did a little research. Enough to know that when he died, Bajor suffered a great loss.",33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56872,56872,56872,56872,232,KIRA,I would've given my life to save his. But all I could do was stand there and watch him slip away...,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56873,56873,56873,56873,233,BAREIL,Are you tired?,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56874,56874,56874,56874,234,KIRA,Not anymore.,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56875,56875,56875,56875,235,BAREIL,Want to get an early breakfast?,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56876,56876,56876,56876,236,KIRA,Sounds good.,33   INT. KIRA'S QUARTERS - NEXT MORNING,KIRA'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56877,56877,56877,56877,237,BASHIR,My medical requisitions.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56878,56878,56878,56878,238,DAX,Why didn't you just download them into the computer?,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56879,56879,56879,56879,239,BASHIR,I don't know... I just thought I'd stretch my legs... see what's happening in Ops.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56880,56880,56880,56880,240,DAX,Kira hasn't shown up yet.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56881,56881,56881,56881,241,BASHIR,Kira?,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56882,56882,56882,56882,242,DAX,You are so transparent.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56883,56883,56883,56883,243,BASHIR,I don't know what you're talking about.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56884,56884,56884,56884,244,BASHIR,Guilt? About what -- medical requisitions? Don't be ridiculous.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56885,56885,56885,56885,245,DAX,Julian -- Kira's personal life is her own. We're her friends and we should respect her privacy.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56886,56886,56886,56886,246,DAX,"Morning, Nerys. How'd things go last night?",34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56887,56887,56887,56887,247,KIRA,You mean dinner? We had a great time. Why?,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56888,56888,56888,56888,248,BASHIR,She means after dinner. But you don't have to answer that question -- we wouldn't want to invade your privacy.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56889,56889,56889,56889,249,DAX,"But, if you want to tell us about it -- we'll listen.",34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56890,56890,56890,56890,250,KIRA,It went... well.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56891,56891,56891,56891,251,DAX,I told you.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56892,56892,56892,56892,252,WORF,I never doubted it.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56893,56893,56893,56893,253,BASHIR,"Well, I'd better get back to the Infirmary... ... unless there are any more details forthcoming.",34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56894,56894,56894,56894,254,KIRA,"Good-bye, Doctor.",34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56895,56895,56895,56895,255,KIRA,Worf -- any news from General Martok's scout ships?,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56896,56896,56896,56896,256,WORF,They report no signs of Dominion activity along the border.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56897,56897,56897,56897,257,KIRA,Let's hope it stays that way.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56898,56898,56898,56898,258,DAX,"So, you going to see him tonight?",34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56899,56899,56899,56899,259,KIRA,At the Bajoran shrine.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56900,56900,56900,56900,260,DAX,That doesn't sound very romantic.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56901,56901,56901,56901,261,KIRA,He's going to have his first orb experience.,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56902,56902,56902,56902,262,DAX,"Your idea, I suppose?",34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56903,56903,56903,56903,263,KIRA,"Actually, it was his. He's curious about Bajoran spirituality -- it's a new concept for him.",34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56904,56904,56904,56904,264,DAX,It's not a midnight swim in the Holosuites... but as long as it makes you happy...,34   INT. OPS,OPS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56905,56905,56905,56905,265,BAREIL,So where's this Vedek?,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56906,56906,56906,56906,266,KIRA,"He'll be here -- now stop pacing. This is an orb experience, not an execution.",35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,-0.296
+56907,56907,56907,56907,267,BAREIL,I just don't want to... disappoint anybody.,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56908,56908,56908,56908,268,KIRA,"That's sweet, but I'm not going to judge you.",35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56909,56909,56909,56909,269,BAREIL,I know that. I meant the Prophets. What do I say to them?,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56910,56910,56910,56910,270,KIRA,You don't have to say or do anything...,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56911,56911,56911,56911,271,BAREIL,I just stare into the orb?,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56912,56912,56912,56912,272,KIRA,"Actually, it's more like the orb stares into you.",35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56913,56913,56913,56913,273,OSSAN,"Welcome, my child. Are you ready to proceed?",35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56914,56914,56914,56914,274,BAREIL,Yes.,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56915,56915,56915,56915,275,OSSAN,Come.,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56916,56916,56916,56916,276,OSSAN,Your pagh is strong. You're ready to face the will of the Prophets.,35   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56917,56917,56917,56917,277,BAREIL,"Thank you, but I'm not hungry.",41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56918,56918,56918,56918,278,KIRA,That's a change.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56919,56919,56919,56919,279,BAREIL,When you had your first Orb experience... did you understand it?,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56920,56920,56920,56920,280,KIRA,I don't know if anyone can fully understand an Orb experience -- not at first anyway. You have to live with it for a while... absorb it.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56921,56921,56921,56921,281,BAREIL,And then?,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56922,56922,56922,56922,282,KIRA,And then one day it becomes a part of you... a part of who you are.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56923,56923,56923,56923,283,BAREIL,I thought I was going to get a glimpse into the future... but it was more than that. It changes you. There were so many images... I could hardly keep track of them all. He was there...,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56924,56924,56924,56924,284,BAREIL,"Vedek Bareil. We were together -- talking -- but it was all mixed up. I was him, he was me... it was very confusing.",41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56925,56925,56925,56925,285,KIRA,I don't think we should be talking about this.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56926,56926,56926,56926,286,BAREIL,If I can't tell you about it -- who can I tell?,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56927,56927,56927,56927,287,KIRA,No one. An Orb experience isn't meant to be shared.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56928,56928,56928,56928,288,BAREIL,I feel like I could sleep for days.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56929,56929,56929,56929,289,KIRA,That's a pretty common reaction. You should get some rest.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56930,56930,56930,56930,290,BAREIL,I will.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56931,56931,56931,56931,291,BAREIL,Nerys...,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56932,56932,56932,56932,292,KIRA,It's all right. I'll see you tomorrow.,41   INT. REPLIMAT,REPLIMAT,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56933,56933,56933,56933,293,INTENDANT,I was wondering when you'd get back.,42   INT. BAREIL'S QUARTERS,BAREIL'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56934,56934,56934,56934,294,BAREIL,What are you doing here?,42   INT. BAREIL'S QUARTERS,BAREIL'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56935,56935,56935,56935,295,INTENDANT,"I know I'm early. But my curiosity got the better of me... Besides, the thought of you pining away for me was too much to bear.",42   INT. BAREIL'S QUARTERS,BAREIL'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56936,56936,56936,56936,296,INTENDANT,"Now, tell me... how's our little plan progressing?",42   INT. BAREIL'S QUARTERS,BAREIL'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56937,56937,56937,56937,297,BAREIL,Couldn't be better. We're right on schedule.,42   INT. BAREIL'S QUARTERS,BAREIL'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56938,56938,56938,56938,298,INTENDANT,That's what I was hoping to hear.,42   INT. BAREIL'S QUARTERS,BAREIL'S QUARTERS,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56939,56939,56939,56939,299,INTENDANT,I want you to tell me everything that's happened since you got here.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56940,56940,56940,56940,300,BAREIL,Later. I'm too tired. Right now all I want to do is go to bed.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56941,56941,56941,56941,301,INTENDANT,Even better.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56942,56942,56942,56942,302,BAREIL,I said I was tired.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56943,56943,56943,56943,303,INTENDANT,You've never been tired before.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56944,56944,56944,56944,304,BAREIL,It's been a long day.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56945,56945,56945,56945,305,INTENDANT,"I don't think you're pleased to see me. It's her, isn't it? The major's gotten to you.",43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56946,56946,56946,56946,306,BAREIL,Don't be stupid.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56947,56947,56947,56947,307,INTENDANT,"I'd be very disappointed if you didn't find the major... intoxicating. After all, she is me...",43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56948,56948,56948,56948,308,INTENDANT ,Or the next best thing to me. So what do you think of her?,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56949,56949,56949,56949,309,BAREIL,You're crazy.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56950,56950,56950,56950,310,INTENDANT,We already know what I'm like... ... what about her?,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56951,56951,56951,56951,311,BAREIL,I'm not going to discuss this.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56952,56952,56952,56952,312,INTENDANT,Please... I really want to know.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56953,56953,56953,56953,313,BAREIL,She's... wonderful.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56954,56954,56954,56954,314,INTENDANT,I knew it.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56955,56955,56955,56955,315,INTENDANT,She's too good for you. We both are. You're nothing but a petty thief.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56956,56956,56956,56956,316,BAREIL,I know what I am.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56957,56957,56957,56957,317,INTENDANT,That's it? That's all you have to say?,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56958,56958,56958,56958,318,BAREIL,I told you -- I'm tired.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56959,56959,56959,56959,319,INTENDANT,The major must be very --,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56960,56960,56960,56960,320,BAREIL,It has nothing to do with the major. I looked into the orb today.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56961,56961,56961,56961,321,INTENDANT,You did? How very exciting.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56962,56962,56962,56962,322,INTENDANT,How soon can we get our hands on it?,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56963,56963,56963,56963,323,BAREIL,The Vedeks are holding a twenty- six hour vigil in the shrine. I can't get near the place until tomorrow night. The Orb is behind a forcefield keyed to a decryption matrix.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56964,56964,56964,56964,324,INTENDANT,Which you can bypass.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56965,56965,56965,56965,325,BAREIL,That's what thieves do.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56966,56966,56966,56966,326,INTENDANT,"Today you're a thief, but tomorrow -- once we get our prize home -- you'll be ""Bearer of the Orb."" A holy man who'll unite the Bajoran people in a war against the Alliance.",43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56967,56967,56967,56967,327,BAREIL,"(more to himself, seeing the irony) Just call me Vedek Bareil...",43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56968,56968,56968,56968,328,INTENDANT,"Think of it... power, wealth -- you'll be like a god.",43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56969,56969,56969,56969,329,BAREIL,You're putting a lot of faith in that Orb.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56970,56970,56970,56970,330,INTENDANT,And so will every other Bajoran. (looking at him with a smile) You and I are going to have so much fun. I can hardly wait.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56971,56971,56971,56971,331,INTENDANT,You do look tired. You should get some rest.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56972,56972,56972,56972,332,INTENDANT,And tomorrow -- when you see the major...,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56973,56973,56973,56973,333,INTENDANT,... give her that kiss for me.,43   INT. BAREIL'S QUARTERS - CONTINUOUS,BAREIL'S QUARTER,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56974,56974,56974,56974,334,BAREIL,One more.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56975,56975,56975,56975,335,QUARK,Coming right up.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56976,56976,56976,56976,336,BAREIL,What are you two staring at?,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56977,56977,56977,56977,337,BAREIL,The same goes for the rest of you. I'm not Vedek Bareil. I just want to be left alone.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56978,56978,56978,56978,338,QUARK,"You heard the man. Now leave him be. I'm sorry about that. People can be so rude. You know I used to see the Vedek all the time, walking down the Promenade with Major Kira. Never came in here, though. I guess dabo wasn't his game.",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56979,56979,56979,56979,339,QUARK,It is an amazing resemblance. Put you in a Vedek's robe and no one would know the difference.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56980,56980,56980,56980,340,BAREIL,"Believe me, there's a difference.",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56981,56981,56981,56981,341,QUARK,Not to the paying public.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56982,56982,56982,56982,342,BAREIL,You've got a business proposition for me? Spit it out.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56983,56983,56983,56983,343,QUARK,"Picture this. You seated here, wearing robes. A long line of Bajorans waiting patiently to pay good money just to meet Vedek Bareil... maybe touch his hand.",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56984,56984,56984,56984,344,BAREIL,"But like I said, I'm not Vedek Bareil.",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56985,56985,56985,56985,345,QUARK,"A mere technicality. You're the closest thing to Vedek Bareil that they're ever going to see, which is why they're going to love you.",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56986,56986,56986,56986,346,BAREIL,I wouldn't know what to say to them.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56987,56987,56987,56987,347,QUARK,"The less, the better. Just nod your head every once in a while and smile benignly. It's simple. Later on, once you get the hang of it, you might want to throw in a blessing or two. What do you think?",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56988,56988,56988,56988,348,BAREIL,"(shaking his head in weary disgust) I've known people like you my whole life. Nasty, greedy little minds... willing to do whatever it takes to make money. I know just how you think.",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56989,56989,56989,56989,349,QUARK,That's because you think the same way.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56990,56990,56990,56990,350,BAREIL,I suppose I'm a lot more like you than I'll ever be like Vedek Bareil.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56991,56991,56991,56991,351,QUARK,Perfect. Then we have a deal?,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56992,56992,56992,56992,352,BAREIL,I'm afraid not.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56993,56993,56993,56993,353,QUARK,Why?,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56994,56994,56994,56994,354,BAREIL,"Because right now, I don't like either one of us.",45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56995,56995,56995,56995,355,QUARK,Shame to see such a good opportunity go to waste.,45   INT. QUARK'S,QUARK'S,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56996,56996,56996,56996,356,QUARK,"Major, any idea where they put my shipment of Saurian brandy?",49   INT. CARGO BAY,CARGO BAY,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56997,56997,56997,56997,357,KIRA,Over there.,49   INT. CARGO BAY,CARGO BAY,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56998,56998,56998,56998,358,QUARK,You heard her.,49   INT. CARGO BAY,CARGO BAY,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
+56999,56999,56999,56999,359,QUARK,Your new boyfriend came into my bar today.,49   INT. CARGO BAY,CARGO BAY,INT.,Resurrection,1997-09-17,Deep Space Nine,532.txt,0.0
