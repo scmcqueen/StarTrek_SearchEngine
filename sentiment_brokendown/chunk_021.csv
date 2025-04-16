@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+21000,21000,21000,21000,260,O'BRIEN,"If you do find the cure and they hear about it, what do you think they'll do?",48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21001,21001,21001,21001,261,BASHIR,Well... I would imagine that they'd be concerned. The very existence of a cure would jeopardize their entire plan to eradicate the Founders. So I wouldn't be surprised if Sloan or another operative suddenly showed up here on the station and tried to destroy my work.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21002,21002,21002,21002,262,BASHIR ,What are you getting at?,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21003,21003,21003,21003,263,O'BRIEN,I think you should send a message to Starfleet Medical saying that you have found the cure.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21004,21004,21004,21004,264,BASHIR,You're trying to lure someone from Section Thirty-one to the station...,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21005,21005,21005,21005,265,O'BRIEN,That's right.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21006,21006,21006,21006,266,BASHIR,And once this operative gets here... ?,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21007,21007,21007,21007,267,O'BRIEN,"We capture him. Then, all we have to do is figure out a way to get some information out of him.",48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21008,21008,21008,21008,268,BASHIR,He may not know anything about the disease.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21009,21009,21009,21009,269,O'BRIEN,Maybe not... but I bet he'll know who does. So... what do you think?,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21010,21010,21010,21010,270,BASHIR,I think... it's a good plan. A very good plan. When did you become so devious?,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21011,21011,21011,21011,271,O'BRIEN,I think I've been around you too long. I'm starting to learn how to build wheels within wheels.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21012,21012,21012,21012,272,BASHIR,Not a bad skill for an engineer.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.431
+21013,21013,21013,21013,273,O'BRIEN,"All the same, it's not one I'd like to perfect. Let's just hope this works and we can cure Odo -- that's all I care about.",48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.8267
+21014,21014,21014,21014,274,BASHIR,"Me too, Miles. Me too.",48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21015,21015,21015,21015,275,KIRA,How much longer?,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21016,21016,21016,21016,276,GARAK,I'm not certain... they appear to be having trouble connecting the secondary relays...,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21017,21017,21017,21017,277,ODO,Yes... don't worry... I'm...,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21018,21018,21018,21018,278,ODO,Sorry...,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21019,21019,21019,21019,279,KIRA,There's nothing to be sorry about...,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21020,21020,21020,21020,280,KIRA,"Stay with me, Odo. We're going to get out of here. Just hang on a little longer.",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21021,21021,21021,21021,281,RUSOT,It's over.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21022,21022,21022,21022,282,KIRA,"Shut up, Rusot!",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21023,21023,21023,21023,283,RUSOT,The Shape-shifter is useless. The whole plan is coming apart! We have to get out of here!,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21024,21024,21024,21024,284,KIRA,Go back to your post!,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21025,21025,21025,21025,285,RUSOT,"No! No, more! We're leaving now!",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21026,21026,21026,21026,286,GARAK,That would be unwise.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21027,21027,21027,21027,287,RUSOT,"You're still a Cardassian, Garak. You're not going to kill one of your own people for a Bajoran woman.",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21028,21028,21028,21028,288,GARAK,How little you understand me.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21029,21029,21029,21029,289,DAMAR,"Enough! Put your weapons down, both of you!",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21030,21030,21030,21030,290,RUSOT,"You want her dead too, Damar. I know you do. But you're the leader of the rebellion and you don't want to kill someone wearing a Starfleet uniform. Let me do it for you.",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21031,21031,21031,21031,291,DAMAR,They've finished installing the dampening weapon.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21032,21032,21032,21032,292,KIRA,Then let's all get the hell out,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21033,21033,21033,21033,293,RUSOT,Not you.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21034,21034,21034,21034,294,GARAK,"(phaser never wavering) I'm still here, Rusot.",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21035,21035,21035,21035,295,RUSOT,"Damar, shoot him. We can kill them both and keep the Breen weapon for ourselves. I believe in you, Damar. I know you're the right man to restore the Empire we loyally served. The Empire we loved. Together we can lead our people to greatness again! Just aim and fire.",51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21036,21036,21036,21036,296,DAMAR,He was my friend. But his Cardassia is dead... and it won't be coming back.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21037,21037,21037,21037,297,KIRA,Flood all compartments with the gas.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21038,21038,21038,21038,298,KIRA ,Clear all moorings. Bow thrusters ahead full.,51   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21039,21039,21039,21039,299,GARAK,We've cleared their defense perimeter.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21040,21040,21040,21040,300,KIRA,Take the helm.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21041,21041,21041,21041,301,ODO,You're probably... angry...,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21042,21042,21042,21042,302,KIRA,Why?,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21043,21043,21043,21043,303,ODO,I... hid my... true condition..,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21044,21044,21044,21044,304,KIRA,Odo... I've known all along.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21045,21045,21045,21045,305,KIRA,"But, it's not over. I'm sure Julian's working on a cure and --",56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21046,21046,21046,21046,306,ODO,Let's not... talk about it. Just... sit here with me.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21047,21047,21047,21047,307,KIRA,All right.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21048,21048,21048,21048,308,GOWRON,Our next target... Sarpedion Five.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21049,21049,21049,21049,309,MARTOK,Sarpedion is the headquarters for the entire Twelfth Order.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21050,21050,21050,21050,310,GOWRON,Yes. You'll take fifteen Vorcha- class battle cruisers in first to soften their defenses. Then --,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21051,21051,21051,21051,311,MARTOK,Chancellor. That world is one of,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21052,21052,21052,21052,312,GOWRON,"If you lack the courage to fight an uphill battle, then perhaps you should retire to your bed.",56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21053,21053,21053,21053,313,MARTOK,"I will fight any battle, anywhere... for the Empire.",56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21054,21054,21054,21054,314,GOWRON,Spoken like a true warrior.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21055,21055,21055,21055,315,GOWRON,After Martok has softened their defenses --,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21056,21056,21056,21056,316,WORF,No.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21057,21057,21057,21057,317,WORF,We cannot attack Sarpedion.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21058,21058,21058,21058,318,GOWRON,I decide what can and cannot be done.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21059,21059,21059,21059,319,WORF,"You rule without wisdom and without honor. The warriors gathered here will not say this to you... but I will. You are squandering our ships and our lives in a petty act of vengeance. You do not care what happens to the Empire, you only care about Gowron.",56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21060,21060,21060,21060,320,GOWRON,"I should've known better than to trust you again. If you were a true Klingon, I would kill you where you stand. Fortunately for you, that child's uniform shields you from your rightful fate.",56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21061,21061,21061,21061,321,WORF,"What I say now, I say as a member of the House of Martok, not as a Starfleet officer... you have dishonored yourself and the Empire. You are not worthy of leading the Council.",56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21062,21062,21062,21062,322,GOWRON,There can be only one answer to that.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21063,21063,21063,21063,323,MARTOK,"Worf, this is madness...",56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21064,21064,21064,21064,324,GOWRON,You will... not... have this... day...,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21065,21065,21065,21065,325,GOWRON,Victory... is... mine...,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21066,21066,21066,21066,326,MARTOK,Hail Worf! Leader of the Empire! Worf! Worf! Worf!,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.3544
+21067,21067,21067,21067,327,ALL,Worf! Worf! Worf! Worf!,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21068,21068,21068,21068,328,WORF,Wait! Hear me!,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21069,21069,21069,21069,329,WORF,What I have done... was for the Empire... not for me. A new day must dawn for our people... a day bright with the promise of restoring our honor and our dignity. I am not the man to usher in that day. But there is a man here who can.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21070,21070,21070,21070,330,MARTOK,Worf... I do not seek the leadership.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21071,21071,21071,21071,331,WORF,"Kahless said, ""Great men do not seek power, they have power thrust upon them.""",56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21072,21072,21072,21072,332,ALL,Martok! Martok! Martok! Martok! Martok! Martok! etc.,56A  INT. KLINGON WARDROOM (FORMERLY SCENE 49),KLINGON WARDROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21073,21073,21073,21073,333,QUARK,A bottle of bloodwine and two mugs... I thought you hated bloodwine.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21074,21074,21074,21074,334,EZRI,It's a special occasion.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21075,21075,21075,21075,335,QUARK,Oh? Maybe I should join you.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21076,21076,21076,21076,336,WORF,Maybe not.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21077,21077,21077,21077,337,QUARK,Maybe not.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21078,21078,21078,21078,338,WORF,To Chancellor Martok.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21079,21079,21079,21079,339,EZRI,To Chancellor Worf.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21080,21080,21080,21080,340,WORF,My reign was... brief.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21081,21081,21081,21081,341,EZRI,"Kahless also said, ""A leader is judged not by the length of his reign but by the decisions he makes."" And your decision may have been one of the greatest in Klingon history. I'm proud of you, Worf.",57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21082,21082,21082,21082,342,EZRI,"So... how did it feel to stand on the mountaintop? To know that for that moment, the entire Klingon Empire lay at your feet?",57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21083,21083,21083,21083,343,WORF,In truth... all I could think of was my father. I wish he could've known that his son became chancellor... even if only for a moment.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21084,21084,21084,21084,344,EZRI,I think he knows... and so does Jadzia.,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21085,21085,21085,21085,345,EZRI,To Chancellor Worf?,57   INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+21086,21086,21086,21086,0,VIC ,Sure I remember the Alamo.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21087,21087,21087,21087,1,BASHIR,I told you he would.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21088,21088,21088,21088,2,VIC,"Laurence Harvey, Richard Widmark and John Wayne as Davy Crockett. Great battle scenes, nice sets, but way too long.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21089,21089,21089,21089,3,O'BRIEN,We're not talking about a movie.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21090,21090,21090,21090,4,BASHIR,We're talking about our holosuite program.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21091,21091,21091,21091,5,VIC,"Oh, that Alamo. What about it?",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21092,21092,21092,21092,6,BASHIR,We've got Holosuite Four reserved for an hour and we thought maybe you'd like to join us.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21093,21093,21093,21093,7,VIC,"Look fellas, I'm touched by the offer, but I don't know...",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21094,21094,21094,21094,8,O'BRIEN,We could transfer your matrix into the Alamo program.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21095,21095,21095,21095,9,BASHIR,"You've got to get out of Vegas every once in a while, right?",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21096,21096,21096,21096,10,VIC,"True, but I'm afraid I've gotta say no.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21097,21097,21097,21097,11,BASHIR,Why?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21098,21098,21098,21098,12,VIC,I don't look good in buckskin.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21099,21099,21099,21099,13,VIC,I'll tell you what I'll do though...,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21100,21100,21100,21100,14,VIC,How about a little tune to get you into a Texas state of mind.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21101,21101,21101,21101,15,VIC,What the hell -- ?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21102,21102,21102,21102,16,BASHIR,What's all this?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21103,21103,21103,21103,17,VIC,Don't ask me.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21104,21104,21104,21104,18,O'BRIEN,Maybe there's a pointer fault in the holosuite parameter's file...,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21105,21105,21105,21105,19,MALE  ,Well look who's here...,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21106,21106,21106,21106,20,FRANKIE,The pretty boy singer himself.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21107,21107,21107,21107,21,VIC,Frankie Eyes... what are you doing in Vegas?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21108,21108,21108,21108,22,FRANKIE,"What happened to ""Hello, Frankie, long time no see. Make yourself at home. Can I get you anything?"" You believe this guy?",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21109,21109,21109,21109,23,CICCI,No manners.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21110,21110,21110,21110,24,FRANKIE,Were you born in a barn or something?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21111,21111,21111,21111,25,BASHIR,"(to Vic, re: Frankie) Is this gentleman a friend of yours?",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21112,21112,21112,21112,26,VIC,We know each other.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21113,21113,21113,21113,27,FRANKIE,"We're a long way from South Philly, ain't we Vic?",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21114,21114,21114,21114,28,VIC,You here on business or pleasure?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21115,21115,21115,21115,29,FRANKIE,"Let's just say I'm here to stay. While you, Vicky-boy, are about to take a powder.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21116,21116,21116,21116,30,VIC,I'm not going anywhere.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21117,21117,21117,21117,31,FRANKIE,"I got news for you, pal. I just bought this hotel. You're history.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21118,21118,21118,21118,32,VIC,You can't fire me. I have a contract.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21119,21119,21119,21119,33,FRANKIE,"And you can paper your walls with it. You're finished in this town, Vic.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21120,21120,21120,21120,34,VIC,You're blackballing me?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21121,21121,21121,21121,35,FRANKIE,"As of this moment, you couldn't get a job as a singing busboy. Now are you gonna walk out of here, or do you have to be carried out? Makes no difference to me.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21122,21122,21122,21122,36,O'BRIEN,"Let me handle this. Computer. Delete characters Frankie Eyes and -- I'm sorry, I didn't catch your name.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21123,21123,21123,21123,37,CICCI,Cicci.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21124,21124,21124,21124,38,O'BRIEN,And Cicci from this holosuite program.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21125,21125,21125,21125,39,CICCI,What's a holosuite?,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21126,21126,21126,21126,40,FRANKIE,Beats me.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21127,21127,21127,21127,41,BASHIR,"(to O'Brien, re: Frankie and Cicci) How come they're still here?",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21128,21128,21128,21128,42,O'BRIEN,"Beats me. There must be a little problem with the character deletion algorithm. Computer, freeze program.",1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21129,21129,21129,21129,43,VIC,Make that a big problem.,1    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21130,21130,21130,21130,44,FRANKIE,"What's it going to be, ""pallie?""",8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21131,21131,21131,21131,45,VIC,I guess I start packing.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21132,21132,21132,21132,46,FRANKIE,Smart boy. Now let's go check out my casino.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21133,21133,21133,21133,47,BASHIR,What do we do now?,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21134,21134,21134,21134,48,VIC,Nothing we can do. Frankie's a made man. Capice?,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21135,21135,21135,21135,49,BASHIR,"I'm not just talking about Frankie, I'm talking about fixing the entire program.",8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21136,21136,21136,21136,50,O'BRIEN,I suppose we could shut it down manually and reset it.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21137,21137,21137,21137,51,O'BRIEN ,But that would mean wiping Vic's memory. He'd forget everything that's happened since we first activated him.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21138,21138,21138,21138,52,VIC,"Hold on, pallie. No one's wiping my memory.",8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21139,21139,21139,21139,53,BASHIR,Of course not. There has to be another way.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21140,21140,21140,21140,54,O'BRIEN,I just wish I knew what it was.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21141,21141,21141,21141,55,BASHIR,"Maybe I better talk to my friend, Felix. After all, he designed this program.",8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21142,21142,21142,21142,56,VIC,You do that.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21143,21143,21143,21143,57,O'BRIEN,"In the meantime, you'd better stay clear of Frankie Eyes.",8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21144,21144,21144,21144,58,VIC,You'll get no argument from me.,8    INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21145,21145,21145,21145,59,NOG,"I'll tell you one thing, if this Frankie Eyes hurts Vic in any way, he's going to have to answer to me.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21146,21146,21146,21146,60,WORF,I don't understand how you can feel such loyalty to a hologram.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21147,21147,21147,21147,61,NOG,"He's not just a hologram, he's my friend.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21148,21148,21148,21148,62,O'BRIEN,Don't you like Vic?,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21149,21149,21149,21149,63,WORF,"As a singer, I find him... entertaining. But beyond that, I neither like him nor dislike him. He's a hologram. And therefore, does not exist.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21150,21150,21150,21150,64,KIRA,He does to me.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21151,21151,21151,21151,65,BASHIR,I spoke to Felix. I know what's affecting Vic's program. It's a jack-in-the-box.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21152,21152,21152,21152,66,NOG,A what?,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21153,21153,21153,21153,67,O'BRIEN,"A jack-in-the-box. It's a children's toy, on Earth. You wind it up and a figure jumps out and goes ""Boo!""",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21154,21154,21154,21154,68,BASHIR,Except this type of jack-in-the- box is different.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21155,21155,21155,21155,69,NOG,"It doesn't go ""Boo?""",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21156,21156,21156,21156,70,BASHIR,"No, this surprise is buried deep in the holosuite program.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21157,21157,21157,21157,71,O'BRIEN,"It's meant to shake things up, keep things interesting...",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21158,21158,21158,21158,72,NOG,I wasn't bored. Were you?,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21159,21159,21159,21159,73,KIRA,Not a bit. I liked Vic's just the way it was.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21160,21160,21160,21160,74,BASHIR,"According to Felix, if we get rid of Frankie Eyes, everything resets to the way it was.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21161,21161,21161,21161,75,KIRA,That's good to know.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21162,21162,21162,21162,76,NOG,So how do we get rid of Frankie Eyes?,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21163,21163,21163,21163,77,BASHIR,That's up to us. But Felix warned me that the program is period specific.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21164,21164,21164,21164,78,O'BRIEN,"In other words, if we have to shoot him, we have to do it with a forty-five automatic and not a phaser.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21165,21165,21165,21165,79,BASHIR,"We can't shoot Frankie, it's too dangerous.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21166,21166,21166,21166,80,O'BRIEN,The mob could retaliate against Vic.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21167,21167,21167,21167,81,BASHIR,"And if anything happens to Vic, his matrix will be eliminated from the program. Permanently.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21168,21168,21168,21168,82,NOG,"The news just keeps getting better, doesn't it?",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21169,21169,21169,21169,83,SISKO ,What news?,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21170,21170,21170,21170,84,KIRA,"Nothing, sir. We're discussing a holosuite program.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21171,21171,21171,21171,85,BASHIR,Vic Fontaine's hotel has been bought by gangsters.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21172,21172,21172,21172,86,SISKO,I see. And when are you planning to get back to work?,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21173,21173,21173,21173,87,O'BRIEN,"Right away, sir.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21174,21174,21174,21174,88,NOG,"Whatever you decide to do, Chief, count me in. I owe Vic. I thought losing my leg was the end of my Starfleet career. He taught me otherwise.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21175,21175,21175,21175,89,KIRA,"He changed my life, too. And Odo's.",10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21176,21176,21176,21176,90,BASHIR,Now all we need is a plan.,10   INT. OPS,OPS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21177,21177,21177,21177,91,KASIDY ,Your daddy would be proud.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21178,21178,21178,21178,92,SISKO,He taught me everything I know. So how was your day?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21179,21179,21179,21179,93,KASIDY,(without much enthusiasm) It's getting better.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21180,21180,21180,21180,94,SISKO,Something happen?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21181,21181,21181,21181,95,KASIDY,(trying to shrug it off) It's Vic.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21182,21182,21182,21182,96,SISKO,Vic?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21183,21183,21183,21183,97,KASIDY,Vic Fontaine. A gangster named Frankie Eyes took over his lounge. The whole place has changed. And no one's sure how to change it back.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21184,21184,21184,21184,98,KASIDY,What?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21185,21185,21185,21185,99,SISKO,Nothing.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21186,21186,21186,21186,100,KASIDY,I guess it sounds pretty silly to you.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21187,21187,21187,21187,101,SISKO,A little.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21188,21188,21188,21188,102,KASIDY,"You have to understand, Vic isn't just another holosuite program. He's more like a friend.",12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21189,21189,21189,21189,103,SISKO,Kas -- can we talk about something else?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21190,21190,21190,21190,104,KASIDY,Sure. How come you've never been to Vic's?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21191,21191,21191,21191,105,SISKO,Does it matter? You like going there. I don't. Let's leave it at that.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21192,21192,21192,21192,106,KASIDY,I was only asking...,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21193,21193,21193,21193,107,SISKO,And I gave you my answer.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21194,21194,21194,21194,108,KASIDY,There are times when I just can't figure you out.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21195,21195,21195,21195,109,SISKO,(trying to keep things light) Isn't that part of the attraction?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21196,21196,21196,21196,110,KASIDY,(giving him a little back) Believe that if you want to.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21197,21197,21197,21197,111,VIC ,Who is it?,16   INT. CORRIDOR OUTSIDE VIC'S SUITE - NIGHT,CORRIDOR OUTSIDE VIC'S SUIT,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21198,21198,21198,21198,112,O'BRIEN,Miles and Julian.,16   INT. CORRIDOR OUTSIDE VIC'S SUITE - NIGHT,CORRIDOR OUTSIDE VIC'S SUIT,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21199,21199,21199,21199,113,VIC ,Just a minute.,16   INT. CORRIDOR OUTSIDE VIC'S SUITE - NIGHT,CORRIDOR OUTSIDE VIC'S SUIT,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21200,21200,21200,21200,114,VIC,You wouldn't happen to have an ice pack on you...,16   INT. CORRIDOR OUTSIDE VIC'S SUITE - NIGHT,CORRIDOR OUTSIDE VIC'S SUIT,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21201,21201,21201,21201,115,VIC,"Hey, pallie -- whose side are you on?",17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21202,21202,21202,21202,116,BASHIR,Sorry. You have three bruised ribs and a sprained left wrist. The good news is your skull seems to be in one piece.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21203,21203,21203,21203,117,VIC,I feel better already. A jack-in-the-box... I can't believe Felix would do that to me.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21204,21204,21204,21204,118,BASHIR,"Don't take it personally. He thought he was doing me a favor... you know, by not letting things get boring.",17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21205,21205,21205,21205,119,VIC,I thought that was my job.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21206,21206,21206,21206,120,BASHIR,And you're great at it. You know we luv ya.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21207,21207,21207,21207,121,O'BRIEN,You going to tell us what happened?,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21208,21208,21208,21208,122,VIC,I slipped in the bathtub.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21209,21209,21209,21209,123,O'BRIEN,And knocked over all this furniture looking for a bandage.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21210,21210,21210,21210,124,VIC,Something like that. Frankie sent Tony Cicci to pay me a little visit. He wanted to remind me not to take too long packing.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21211,21211,21211,21211,125,O'BRIEN,What is it between you and Frankie?,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21212,21212,21212,21212,126,VIC,"It goes back to the old neighborhood, when we were kids. I used to beat him at stickball.",17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21213,21213,21213,21213,127,BASHIR,And?,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21214,21214,21214,21214,128,VIC,And nothing... we've been rivals ever since.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21215,21215,21215,21215,129,O'BRIEN,"That Felix... when he designs a holosuite program, he doesn't fool around.",17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21216,21216,21216,21216,130,VIC,(wincing from the pain) Tell me about it.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21217,21217,21217,21217,131,BASHIR,You need to get some rest. Maybe take a little vacation.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21218,21218,21218,21218,132,VIC,A vacation? Did you guys take a vacation when the Dominion took over D.S. Nine?,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21219,21219,21219,21219,133,O'BRIEN,It's not the same thing...,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21220,21220,21220,21220,134,VIC,"It is to me. This is my life, remember? I don't run at the first sign of trouble.",17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21221,21221,21221,21221,135,BASHIR,No one's asking you to run. We're just asking you to stay out of sight for a few days while we come up with a plan.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21222,21222,21222,21222,136,VIC,What plan?,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21223,21223,21223,21223,137,O'BRIEN,A way to get rid of Frankie Eyes.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21224,21224,21224,21224,138,BASHIR,Odo and Kira are down in the lounge right now.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21225,21225,21225,21225,139,VIC,Doing what?,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21226,21226,21226,21226,140,O'BRIEN,Checking up on Frankie. We need to find his weak spot.,17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21227,21227,21227,21227,141,VIC,"I hope you know what you're getting me into. If you guys screw up, I'm the one who winds up buried in the desert.",17   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21228,21228,21228,21228,142,KIRA,"Let me guess, you're going to look around here while I check the casino.",18   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21229,21229,21229,21229,143,ODO,"If you'd prefer, I'll go and --",18   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21230,21230,21230,21230,144,KIRA,"Enjoy yourself. But remember, we've got a job to do.",18   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21231,21231,21231,21231,145,ODO,Of course.,18   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21232,21232,21232,21232,146,CICCI,"... so I drive him out to the woods and badda-bing badda-bang, I put three in the back of his head and that's the end of little Paulie. And what do you think Frankie says to me when I report back in? ""Little Paulie?"" he says, ""I told you to pop Big Paulie!""",18   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21233,21233,21233,21233,147,CICCI,"That's the trouble with our business, too many guys named Paulie.",18   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21234,21234,21234,21234,148,KIRA,Hit me.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21235,21235,21235,21235,149,KIRA,I'm done.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21236,21236,21236,21236,150,FRANKIE ,Not so fast.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21237,21237,21237,21237,151,FRANKIE,What kind of card is that to give such a pretty lady. Hit her again.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.4939
+21238,21238,21238,21238,152,KIRA,Isn't that against the rules?,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21239,21239,21239,21239,153,FRANKIE,Don't worry about it. Double your bet.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.3412
+21240,21240,21240,21240,154,FRANKIE,Twenty-six? What's wrong with you?,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21241,21241,21241,21241,155,FRANKIE,Again.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21242,21242,21242,21242,156,FRANKIE,You're starting to aggravate me.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21243,21243,21243,21243,157,FRANKIE,Finally. Pay the lady.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21244,21244,21244,21244,158,FRANKIE,"If I were you, I'd quit while I was ahead.",21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21245,21245,21245,21245,159,FRANKIE,"The name's Frank Chalmers, but everyone calls me Frankie Eyes.",21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21246,21246,21246,21246,160,KIRA,Why's that?,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21247,21247,21247,21247,161,FRANKIE,Because I don't miss a trick.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21248,21248,21248,21248,162,KIRA,You sound very sure of yourself.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21249,21249,21249,21249,163,FRANKIE,Doubt is for losers.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21250,21250,21250,21250,164,KIRA,You're quite a philosopher.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21251,21251,21251,21251,165,FRANKIE,I'm thinking of writing a book.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21252,21252,21252,21252,166,KIRA,Have you got a title?,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21253,21253,21253,21253,167,FRANKIE,Maybe you can help me think one up.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21254,21254,21254,21254,168,KIRA,My talents lie in other directions.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21255,21255,21255,21255,169,FRANKIE,Good title. Mind if I use it?,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21256,21256,21256,21256,170,KIRA,I'd say you've already paid for it.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21257,21257,21257,21257,171,FRANKIE,Then what do you say we hit the roulette table. See if I can't buy Chapter One.,21   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21258,21258,21258,21258,172,CICCI ,"Hey, Max -- get over here. You gotta see this.",22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21259,21259,21259,21259,173,CICCI,Can you believe it? He did it again. Buddy I've been hanging out in bars for twenty years and I've never seen a stunt like that.,22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21260,21260,21260,21260,174,ODO,"There's nothing to it, really.",22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21261,21261,21261,21261,175,CICCI,You hear that? The guy's the eighth wonder of the world and he says there's nothing to it. So where you from again?,22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21262,21262,21262,21262,176,ODO,Bajor.,22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21263,21263,21263,21263,177,CICCI,"Bajor... that's in Jersey, right?",22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21264,21264,21264,21264,178,ODO,Right.,22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21265,21265,21265,21265,179,CICCI,"(to the bartender, re: Odo) Max, another round for my friend here.",22   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21266,21266,21266,21266,180,ODO,... turns out that Frankie Eyes was sent to Vegas by a man named Carl Zeemo.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21267,21267,21267,21267,181,VIC,Looks like Frankie's moving up in the world.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21268,21268,21268,21268,182,KIRA,You've heard of Mister Zeemo?,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21269,21269,21269,21269,183,VIC,"Been around forever. Likes to pretend he's a sweet old man, but he's meaner than a junkyard dog. (thinking it through) This is all starting to make sense... I knew Frankie didn't have the bread to buy a hotel.",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21270,21270,21270,21270,184,EZRI,But Zeemo does.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21271,21271,21271,21271,185,VIC,"More than enough. This is going to be a pretty sweet deal for him. The casino's been pulling in about a million bucks a month. Cash. And out of that, Zeemo will expect to be sent a couple hundred grand.",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21272,21272,21272,21272,186,ODO,"(knowing the right term) That would be the ""skim.""",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21273,21273,21273,21273,187,VIC,Right off the top. Tax free. Frankie's got nothing to worry about as long as he sends Mister Zeemo his cut.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21274,21274,21274,21274,188,KIRA,"According to Frankie, Mister Zeemo's coming out here in six days to pick up the first payment. He's never been to Vegas and he wants to look over his newest acquisition.",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21275,21275,21275,21275,189,O'BRIEN,"What would happen to Frankie if he didn't give Zeemo his ""skim?""",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21276,21276,21276,21276,190,VIC,Frankie's not that dumb.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21277,21277,21277,21277,191,BASHIR,"Miles, are you thinking what I'm thinking?",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21278,21278,21278,21278,192,O'BRIEN,That depends on what you're thinking.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21279,21279,21279,21279,193,BASHIR,We have to see to it that Mister Zeemo never sees a penny of that money.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21280,21280,21280,21280,194,O'BRIEN,"(smiling, to the others) That's what I was thinking.",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21281,21281,21281,21281,195,EZRI,You're talking about robbing the casino...,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21282,21282,21282,21282,196,KASIDY,Isn't that... dangerous?,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21283,21283,21283,21283,197,VIC,Stealing from the mob? You bet it is. You get caught and I kiss the world good-bye.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21284,21284,21284,21284,198,O'BRIEN,Then the trick is not to get caught.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21285,21285,21285,21285,199,VIC,"You guys are nuts, you know that? For one thing, the money is kept in a safe.",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21286,21286,21286,21286,200,NOG,What kind of safe?,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21287,21287,21287,21287,201,VIC,"I don't know. It's in the countroom and there's a guard outside the door, twenty-four hours a day. And even if you're able to get past him, there's still the little problem of the two countmen inside.",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21288,21288,21288,21288,202,KIRA,I'll get a look at the safe.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21289,21289,21289,21289,203,BASHIR,And we'll figure out a way to deal with the guard...,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21290,21290,21290,21290,204,KASIDY,... and the countmen...,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21291,21291,21291,21291,205,EZRI,... and anything else that comes along.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21292,21292,21292,21292,206,O'BRIEN,Then we're agreed?,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21293,21293,21293,21293,207,BASHIR,Absolutely.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21294,21294,21294,21294,208,KIRA,I'm in.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21295,21295,21295,21295,209,ODO,"Me, too.",25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21296,21296,21296,21296,210,EZRI,Okay.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21297,21297,21297,21297,211,KASIDY,Sure.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21298,21298,21298,21298,212,NOG,Let's do it.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21299,21299,21299,21299,213,VIC,Let me get this straight. You're going to knock over the casino and swipe a cool million from the mob?,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21300,21300,21300,21300,214,O'BRIEN,You want your lounge back or not?,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21301,21301,21301,21301,215,VIC,Deal me in.,25   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21302,21302,21302,21302,216,FRANKIE ,Have you ever seen a prettier shade of green?,26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21303,21303,21303,21303,217,KIRA,Looks like you had a very profitable night.,26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21304,21304,21304,21304,218,FRANKIE,And the night's not over.,26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21305,21305,21305,21305,219,KIRA,Is this for me or am I just keeping it warm for you?,26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21306,21306,21306,21306,220,FRANKIE,"It's all yours, baby. And there's more where that came from.",26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21307,21307,21307,21307,221,KIRA,I'll take your word for it.,26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21308,21308,21308,21308,222,FRANKIE,What are you looking at?,26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21309,21309,21309,21309,223,AL,Nothing.,26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21310,21310,21310,21310,224,FRANKIE,"That's right. Now keep counting. After you, sweetheart.",26   INT. CASINO - COUNTROOM - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21311,21311,21311,21311,225,KASIDY,"Are you sure you didn't go to high school in Asheville, North Carolina?",27   INT. CASINO - CONTINUOUS - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21312,21312,21312,21312,226,GUARD,Positive.,27   INT. CASINO - CONTINUOUS - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21313,21313,21313,21313,227,KASIDY,"That's funny, you look just like the captain of our football team. I had such a crush on him.",27   INT. CASINO - CONTINUOUS - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21314,21314,21314,21314,228,GUARD,You know I played a little football...,27   INT. CASINO - CONTINUOUS - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21315,21315,21315,21315,229,KASIDY,I knew it. You have the body of an athlete.,27   INT. CASINO - CONTINUOUS - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21316,21316,21316,21316,230,CICCI,You call this a cheesesteak? I wouldn't feed this to my parole officer.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21317,21317,21317,21317,231,ODO,Cicci -- can I have a word with you?,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21318,21318,21318,21318,232,CICCI,One second. Now I want a cheesesteak and I don't care if you gotta fly to Philadelphia to get me one.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21319,21319,21319,21319,233,CICCI,"I'm telling you, a guy can starve to death in this town.",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,-0.7783
+21320,21320,21320,21320,234,ODO,"Ezri, this is Tony Cicci.",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21321,21321,21321,21321,235,EZRI,Nice to meet you.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.4215
+21322,21322,21322,21322,236,CICCI,The pleasure is all mine.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21323,21323,21323,21323,237,ODO,Ezri's new in town and needs a job.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21324,21324,21324,21324,238,EZRI,I'm a very good waitress.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21325,21325,21325,21325,239,CICCI,Yeah? You wouldn't happen to have a slice of pizza on you?,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21326,21326,21326,21326,240,EZRI,"No, but I'll go the kitchen and get you one.",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21327,21327,21327,21327,241,CICCI,"That chef wouldn't know a good pizza if it hit him in the face. All right, consider yourself gainfully employed.",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21328,21328,21328,21328,242,EZRI,Really? That's wonderful.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21329,21329,21329,21329,243,ODO,"I owe you one, Cicci.",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21330,21330,21330,21330,244,CICCI,"Don't mention it, Stretch. Maybe one day you could show me how to...",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21331,21331,21331,21331,245,CICCI ,I don't believe it.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21332,21332,21332,21332,246,CICCI,That monkey must have a death wish.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21333,21333,21333,21333,247,VIC,"Take it easy, pallie. I'm not looking for trouble.",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21334,21334,21334,21334,248,CICCI,That's a relief.,28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21335,21335,21335,21335,249,VIC,"I'm here to see Frankie... I want to try to work things out with him. You know, let bygones be bygones.",28   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21336,21336,21336,21336,250,VIC,"... Frankie, I'm dying here. The Sands, the Dunes, the D.I., no one'll even return my call.",31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21337,21337,21337,21337,251,FRANKIE,Tell me something I don't know.,31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21338,21338,21338,21338,252,VIC,There's got to be a way for us to bury the hatchet.,31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21339,21339,21339,21339,253,FRANKIE,I already did. In your head.,31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21340,21340,21340,21340,254,VIC,Frankie... you want me to beg? I'll beg. Give me a chance to make things right. I know people. People with dough. High rollers. I could bring 'em into the casino.,31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21341,21341,21341,21341,255,FRANKIE,What? You want to be my shill?,31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21342,21342,21342,21342,256,VIC,"I'm talking about people who can drop ten, twenty, thirty big ones a night.",31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21343,21343,21343,21343,257,KIRA,"Oh, give him what he wants -- I can't take much more of his whining.",31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21344,21344,21344,21344,258,FRANKIE,"Bring in a couple of players, then we'll talk.",31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21345,21345,21345,21345,259,VIC,That's all I ask. Let me buy you a drink.,31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21346,21346,21346,21346,260,FRANKIE,"I don't bet with losers. Come on, dollface. Let's warm up the poker table.",31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21347,21347,21347,21347,261,CICCI,Welcome back.,31   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21348,21348,21348,21348,262,SISKO,You're in charge of what?,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21349,21349,21349,21349,263,KASIDY,Of distracting the guard so we can sneak someone into the countroom.,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21350,21350,21350,21350,264,SISKO,"Kas, I can't believe you're involved in this... the whole thing is ridiculous.",36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21351,21351,21351,21351,265,KASIDY,I guess that means you're not going to wish me luck.,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21352,21352,21352,21352,266,SISKO,And you're telling me that virtually my entire senior staff is part of this nonsense?,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21353,21353,21353,21353,267,KASIDY,You're supposed to help your friends when they're in trouble. And Vic -- hologram or not -- is in trouble. Not that I'd expect you to care.,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21354,21354,21354,21354,268,SISKO,Look... this is not about Vic Fontaine.,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21355,21355,21355,21355,269,KASIDY,Then what's your problem?,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21356,21356,21356,21356,270,SISKO,"You want to know? I'll tell you. It's Las Vegas, nineteen sixty- two! That's my problem.",36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21357,21357,21357,21357,271,SISKO,"In nineteen sixty-two, brown people weren't made to feel very welcome there.",36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21358,21358,21358,21358,272,SISKO ,"Oh, sure they could be performers or janitors, but customers? Never.",36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21359,21359,21359,21359,273,KASIDY,"Maybe it was like that in the real Vegas, but that's not how it is at Vic's. I've never felt uncomfortable there -- and neither has Jake.",36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21360,21360,21360,21360,274,SISKO,"But don't you see, that's the lie. In nineteen sixty-two, the Civil Rights movement was still in its infancy. It wasn't an easy time for our people and I don't want to pretend that it was.",36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21361,21361,21361,21361,275,KASIDY,Baby -- I know Vic's isn't a totally accurate representation of how things were. But it isn't meant to be. It shows the way things could've been. The way they should've been.,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21362,21362,21362,21362,276,SISKO,We can't ignore the truth about the past.,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21363,21363,21363,21363,277,KASIDY,Going to Vic's isn't going to make us forget who we are or where we came from. What it does is remind us that we're no longer bound by any limitations... ... except the ones we impose on ourselves.,36   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21364,21364,21364,21364,278,KASIDY,What about Worf?,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21365,21365,21365,21365,279,KIRA,He'll never agree to it.,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21366,21366,21366,21366,280,EZRI,There's always Quark...,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21367,21367,21367,21367,281,ODO,I'm not sure he'd help. He thinks of you as his competition.,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21368,21368,21368,21368,282,NOG,I'll get it.,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21369,21369,21369,21369,283,EZRI,We're still one man short.,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21370,21370,21370,21370,284,BASHIR,We need a high roller that Vic can bring to the casino. Someone who can draw a crowd. Keep everyone's attention off the countroom.,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21371,21371,21371,21371,285,O'BRIEN,Otherwise the whole plan falls apart.,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21372,21372,21372,21372,286,SISKO ,And we can't let that happen.,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21373,21373,21373,21373,287,SISKO,Now what exactly do you need me to do?,38   INT. VIC'S APARTMENT - DUSK,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21374,21374,21374,21374,288,VIC,Let's go over it one more time.,40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21375,21375,21375,21375,289,NOG,"Do we have to? Everyone knows what they have to do, right?",40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21376,21376,21376,21376,290,EZRI,It's all pretty simple really.,40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21377,21377,21377,21377,291,VIC,"Hey, far be it from me to tell Starfleet officers how to do their jobs.",40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21378,21378,21378,21378,292,O'BRIEN,Robbing casinos isn't part of any Starfleet job description I've ever read.,40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21379,21379,21379,21379,293,KIRA,We can't afford to make any mistakes.,40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21380,21380,21380,21380,294,SISKO,And we're not going to. Take us through it again.,40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21381,21381,21381,21381,295,VIC,"You got it, pallie. It all begins with you --",40   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21382,21382,21382,21382,296,VIC ,-- keeping Frankie Eyes away from the casino and the countroom.,43   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21383,21383,21383,21383,297,VIC ,"Meanwhile, the captain and I will be laying down some heavy bread over at the craps table. Enough to draw a crowd.",44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21384,21384,21384,21384,298,SISKO ,Where are we going to get that kind of money?,44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21385,21385,21385,21385,299,VIC ,I put a little away for a rainy day.,44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21386,21386,21386,21386,300,VIC ,"Now each night, at precisely eleven forty-five...",44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21387,21387,21387,21387,301,SISKO ,"Al, one of the countmen, takes a break to call home.",44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21388,21388,21388,21388,302,SISKO ,He never varies his routine. He's gone for six minutes every night.,44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21389,21389,21389,21389,303,VIC ,"During those six minutes, Howard, the other countman, has a martini brought in.",44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21390,21390,21390,21390,304,EZRI ,"That's where I come in. But first, I make a stop at poker table three.",44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,-0.4215
+21391,21391,21391,21391,305,EZRI ,Where I hand a drink to Julian.,44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.4939
+21392,21392,21392,21392,306,BASHIR ,And I slip a few drops of ipecac into Howard's.,44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21393,21393,21393,21393,307,EZRI ,"After which, I continue on to the countroom.",44   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21394,21394,21394,21394,308,EZRI ,"I set the tray down, and leave.",46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21395,21395,21395,21395,309,VIC ,"Now, once Ezri's out of the countroom --",46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21396,21396,21396,21396,310,KASIDY ,-- I go running up to the guard and tell him that Chief O'Brien has stolen my purse.,46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21397,21397,21397,21397,311,VIC ,Don't be afraid to turn on the waterworks.,46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21398,21398,21398,21398,312,VIC ,And Chief -- you play innocent.,46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21399,21399,21399,21399,313,O'BRIEN ,I am innocent! I've never seen this woman before in my life.,46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21400,21400,21400,21400,314,VIC ,"That's the ticket. Now remember, the two of you have to keep that guard away from the door for at least two minutes.",46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21401,21401,21401,21401,315,BASHIR ,"Once he takes a sip of his drink, Howard will come flying out of that countroom at warp speed.",46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21402,21402,21402,21402,316,NOG ,Which is where I come in.,46   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21403,21403,21403,21403,317,VIC ,With those fabulous Ferengi ears of yours.,48   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21404,21404,21404,21404,318,NOG ,And once I've opened the safe --,48   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21405,21405,21405,21405,319,ODO ,-- you'll need someplace to put all that money.,48   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21406,21406,21406,21406,320,VIC ,You're going to be surprised how much a million bucks weighs.,48   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21407,21407,21407,21407,321,ODO ,I think I can handle it.,48   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21408,21408,21408,21408,322,VIC ,"When you walk into the casino, don't talk to anyone -- don't even look at anyone. And whatever you do, don't run. Just head for the exit and dump the cash in the garbage cans outside.",50   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21409,21409,21409,21409,323,VIC,"Without the money, there's no skim to give to Mister Zeemo, and ol' Frankie becomes yesterday's news.",51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21410,21410,21410,21410,324,BASHIR,"And then, everything returns to normal and we can pop the champagne.",51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21411,21411,21411,21411,325,VIC,"Music to my ears, pallie.",51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21412,21412,21412,21412,326,SISKO,"Six minutes. That's how long we have to get into the countroom, open the safe, grab the money, and get out again.",51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21413,21413,21413,21413,327,BASHIR,I bet we can be out of there in five.,51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21414,21414,21414,21414,328,NOG,"When do we ""pull off the caper?""",51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21415,21415,21415,21415,329,KASIDY,"The sooner, the better.",51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21416,21416,21416,21416,330,EZRI,Zeemo's due in two days.,51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21417,21417,21417,21417,331,SISKO,Then we have no choice. We go tomorrow night.,51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21418,21418,21418,21418,332,VIC,Crazy.,51   INT. VIC'S APARTMENT - NIGHT,VIC'S APARTMEN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21419,21419,21419,21419,333,O'BRIEN,That was fast.,53   INT. INFIRMARY,INFIRMARY,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21420,21420,21420,21420,334,BASHIR,It has to be.,53   INT. INFIRMARY,INFIRMARY,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21421,21421,21421,21421,335,EZRI,"Two minutes, fourteen seconds.",55   INT. WARDROOM,WARDROOM,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21422,21422,21422,21422,336,NOG,I've got to do a lot better than that.,55   INT. WARDROOM,WARDROOM,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21423,21423,21423,21423,337,EZRI,Right.,55   INT. WARDROOM,WARDROOM,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21424,21424,21424,21424,338,KASIDY,Better finish getting dressed. It's almost time.,56   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.4404
+21425,21425,21425,21425,339,QUARK ,"I'm telling you, Morn...",63   INT. QUARK'S,QUARK'S,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21426,21426,21426,21426,340,QUARK,... there's something going on in Vic's that we don't know about.,63   INT. QUARK'S,QUARK'S,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21427,21427,21427,21427,341,FRANKIE,"Looking good, as usual, dollface.",66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21428,21428,21428,21428,342,KIRA,I'm glad you like what you see.,66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21429,21429,21429,21429,343,FRANKIE,I only wish I could see more.,66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21430,21430,21430,21430,344,KIRA,They say good things come to those who wait.,66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21431,21431,21431,21431,345,FRANKIE,"Who are ""they"" and how much of you have they seen?",66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21432,21432,21432,21432,346,KIRA,I never kiss and tell.,66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21433,21433,21433,21433,347,FRANKIE,I bet you don't. So what do you say we blow some of my money at the craps table?,66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21434,21434,21434,21434,348,KIRA,"Maybe later. Right now, I want you to buy me a drink. We can play footsies under the table.",66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21435,21435,21435,21435,349,FRANKIE,Footsies? I guess it's a start anyway.,66   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21436,21436,21436,21436,350,KASIDY,Nineteen. Let's see you beat that.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21437,21437,21437,21437,351,KASIDY,Twenty-three. You're busted.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21438,21438,21438,21438,352,BASHIR,"Vodka martini, stirred not shaken.",67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21439,21439,21439,21439,353,EZRI,"Right away, sir.",67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21440,21440,21440,21440,354,SISKO,Ten thousand.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21441,21441,21441,21441,355,CROUPIER,"Good luck to you, sir. (Craps TECH).",67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21442,21442,21442,21442,356,VIC,A hundred dollars?,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21443,21443,21443,21443,357,SISKO,Too much?,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21444,21444,21444,21444,358,VIC,You're supposed to be a high roller. So start rolling. Make it two thousand.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21445,21445,21445,21445,359,CROUPIER,Dice are coming out. (CRAPS TECH at will.),67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21446,21446,21446,21446,360,CROUPIER,Four. The point is four.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21447,21447,21447,21447,361,CROUPIER,"Another two thousand on four, the hard way.",67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21448,21448,21448,21448,362,CROUPIER,"Snake eyes. Shooter is a loser, field is a loser, pass line is a loser.",67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21449,21449,21449,21449,363,VIC,That's why they call it gambling.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21450,21450,21450,21450,364,SISKO,I have not yet begun to fight.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21451,21451,21451,21451,365,CROUPIER,We have a new shooter.(CRAPS TECH.),67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21452,21452,21452,21452,366,SISKO,Here's where things get interesting.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21453,21453,21453,21453,367,CROUPIER,Dice are coming out.,67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21454,21454,21454,21454,368,SISKO,"C'mon, seven --",67   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21455,21455,21455,21455,369,FRANKIE,... and this is the hand that shook the hand of Bugsy Siegel. The man who built Las Vegas -- I'm telling you he was a visionary and is there even one statue of the guy in this town?,70   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.8555
+21456,21456,21456,21456,370,KIRA,There's no justice.,70   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.296
+21457,21457,21457,21457,371,FRANKIE,You can say that again. You sure you don't want to play the tables for a while?,70   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0108
+21458,21458,21458,21458,372,KIRA,I'm perfectly content right here.,70   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21459,21459,21459,21459,373,FRANKIE,Who am I to argue with a lady.,70   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21460,21460,21460,21460,374,CROUPIER,Seven twice. The shooter's on a roll.,71   INT. CASINO - ANGLE ON SISKO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21461,21461,21461,21461,375,SISKO,Let it ride.,71   INT. CASINO - ANGLE ON SISKO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21462,21462,21462,21462,376,VIC,We have lift off.,71   INT. CASINO - ANGLE ON SISKO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21463,21463,21463,21463,377,EZRI,"Your drink, sir.",71   INT. CASINO - ANGLE ON SISKO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21464,21464,21464,21464,378,EZRI,I'm so sorry.,71   INT. CASINO - ANGLE ON SISKO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21465,21465,21465,21465,379,BASHIR,Don't worry about it.,71   INT. CASINO - ANGLE ON SISKO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21466,21466,21466,21466,380,BASHIR,You're too kind.,71   INT. CASINO - ANGLE ON SISKO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21467,21467,21467,21467,381,EZRI,You're not Howard.,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21468,21468,21468,21468,382,COUNTMAN #2,He's out with the flu.,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21469,21469,21469,21469,383,EZRI,Then I guess this drink is yours.,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21470,21470,21470,21470,384,COUNTMAN #2,I'm not thirsty.,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21471,21471,21471,21471,385,EZRI,But...,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21472,21472,21472,21472,386,COUNTMAN #2,"Hey, you're making me lose count.",75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21473,21473,21473,21473,387,EZRI,"Sorry. Mind if I drink that? I've been on my feet for hours, I could use a little pick-me-up.",75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21474,21474,21474,21474,388,COUNTMAN #2,That's about the saddest story I've ever heard.,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21475,21475,21475,21475,389,COUNTMAN #2,Now get lost.,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21476,21476,21476,21476,390,EZRI,What? No tip?,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21477,21477,21477,21477,391,COUNTMAN #2,Beat it!,75   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21478,21478,21478,21478,392,KASIDY,You've got to help me. That man -- he stole a stack of my chips.,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21479,21479,21479,21479,393,GUARD,"Hey, you! Stop right there!",76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21480,21480,21480,21480,394,O'BRIEN,Me?,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21481,21481,21481,21481,395,GUARD,This lady says you stole her chips.,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21482,21482,21482,21482,396,O'BRIEN,I did no such thing.,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21483,21483,21483,21483,397,KASIDY,"Liar! I'm telling you, he took them. You're a thief!",76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21484,21484,21484,21484,398,O'BRIEN,And you're a drunk!,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21485,21485,21485,21485,399,KASIDY,I'm not!,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21486,21486,21486,21486,400,GUARD,All right -- everyone just calm down.,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21487,21487,21487,21487,401,KASIDY,Not until I get my money!,76   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21488,21488,21488,21488,402,NOG,Uh-oh.,78   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21489,21489,21489,21489,403,ODO,"What do you mean, ""uh-oh."" We don't have time for an uh-oh.",78   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21490,21490,21490,21490,404,NOG,This safe... it has an auto- relock tumbler. Kira didn't mention anything about an auto- relock tumbler.,78   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21491,21491,21491,21491,405,ODO,She obviously didn't know about it.,78   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21492,21492,21492,21492,406,NOG,Four minutes... that's not enough time.,78   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21493,21493,21493,21493,407,ODO,It's all we have.,78   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21494,21494,21494,21494,408,FRANKIE ,You in some kind of hurry?,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21495,21495,21495,21495,409,KIRA,Me?,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21496,21496,21496,21496,410,FRANKIE,You keep staring at that watch.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21497,21497,21497,21497,411,KIRA,Really? I hadn't noticed.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21498,21498,21498,21498,412,FRANKIE,And your drink... you haven't touched it.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21499,21499,21499,21499,413,KIRA,The night is young. I've got to pace myself.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21500,21500,21500,21500,414,FRANKIE,Pace yourself for what?,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21501,21501,21501,21501,415,CICCI,"Frankie, there's someone here to see you.",79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21502,21502,21502,21502,416,FRANKIE,I'm busy.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21503,21503,21503,21503,417,ZEEMO ,You don't look busy.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21504,21504,21504,21504,418,FRANKIE ,Mister Zeemo.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21505,21505,21505,21505,419,FRANKIE,We weren't expecting you until tomorrow.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21506,21506,21506,21506,420,ZEEMO,I'm early. You got a problem with that?,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21507,21507,21507,21507,421,FRANKIE,"Not at all. Sit down, have a drink.",79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21508,21508,21508,21508,422,ZEEMO,We'll drink later. Where's the countroom.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21509,21509,21509,21509,423,FRANKIE,Follow me.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21510,21510,21510,21510,424,KIRA,Mister Zeemo.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21511,21511,21511,21511,425,KIRA,It's a great honor to meet you.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21512,21512,21512,21512,426,ZEEMO,I know.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21513,21513,21513,21513,427,KIRA,Frankie's told me all about you...,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21514,21514,21514,21514,428,ZEEMO,"The money, Frankie.",79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21515,21515,21515,21515,429,FRANKIE,Right this way.,79   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21516,21516,21516,21516,430,ODO,"Nog, it's been five and a half minutes, we're running out of time.",83   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21517,21517,21517,21517,431,KASIDY,"(to the guard, re: O'Brien) What are you standing around for? Arrest him. He stole two hundred dollars worth of chips from me.",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21518,21518,21518,21518,432,O'BRIEN,Then how come all I have on me is this lousy five bucks?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21519,21519,21519,21519,433,KASIDY,Don't believe him.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21520,21520,21520,21520,434,O'BRIEN,"I'm telling you, this broad ain't playing with a full deck.",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21521,21521,21521,21521,435,SISKO,Beginner's luck.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21522,21522,21522,21522,436,VIC,"(sotto, looking at his watch) Six minutes.",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21523,21523,21523,21523,437,SISKO,I wonder what's taking them so long?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21524,21524,21524,21524,438,BASHIR,I fold.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21525,21525,21525,21525,439,BASHIR,"Excuse me. Is your name ""Al?""",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21526,21526,21526,21526,440,AL,Who wants to know?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21527,21527,21527,21527,441,BASHIR,Frankie Eyes. He's waiting for you. In the lobby.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21528,21528,21528,21528,442,AL,What for? I didn't do nuthin'.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21529,21529,21529,21529,443,BASHIR,Then you have nothing to worry about.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21530,21530,21530,21530,444,Vic,You gotta be kidding me...,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21531,21531,21531,21531,445,SISKO,Now what?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21532,21532,21532,21532,446,SISKO ,Zeemo?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21533,21533,21533,21533,447,VIC,"He's a day early. Keep playing, I'll try to stall them.",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21534,21534,21534,21534,448,VIC,Nina? Is that you?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21535,21535,21535,21535,449,ZEEMO,Who's this?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21536,21536,21536,21536,450,FRANKIE,Nobody. Take a walk.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21537,21537,21537,21537,451,VIC,"Where've you been keeping yourself, baby?",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21538,21538,21538,21538,452,BLONDE,Do I know you?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21539,21539,21539,21539,453,VIC,"Do you know me? Don't you remember that week in Miami? Ever see what she looks like in a bikini? Mama, mia...",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21540,21540,21540,21540,454,ZEEMO,When were you in Miami?,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21541,21541,21541,21541,455,BLONDE,I don't know what he's talking about.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21542,21542,21542,21542,456,VIC,"(to the blonde, re: Zeemo) Who's this? Your grandpa?",84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21543,21543,21543,21543,457,ZEEMO,Frankie.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21544,21544,21544,21544,458,FRANKIE,Cicci!,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21545,21545,21545,21545,459,CICCI,Now you've done it.,84   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21546,21546,21546,21546,460,NOG,"""Piece of cake.""",89   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21547,21547,21547,21547,461,FRANKIE,Bury him.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21548,21548,21548,21548,462,ZEEMO,"I'm still waiting for my money, Frankie.",90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21549,21549,21549,21549,463,SISKO,Tonight everyone's a winner.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21550,21550,21550,21550,464,BLONDE,"Look, it's raining money.",90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21551,21551,21551,21551,465,O'BRIEN,Can I go now?,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21552,21552,21552,21552,466,KASIDY,You're not going anywhere! Don't let him leave.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21553,21553,21553,21553,467,GUARD,"(urgently waving another guard over) Charlie, over here!",90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21554,21554,21554,21554,468,GUARD,Take this gentleman to security.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21555,21555,21555,21555,469,KASIDY,But I want you to handle this.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21556,21556,21556,21556,470,GUARD,"I'm afraid I can't leave my post. (to Charlie, re: O'Brien) Strip search.",90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21557,21557,21557,21557,471,O'BRIEN,Strip search?,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21558,21558,21558,21558,472,GUARD,"C'mon, now, there's no need for that.",90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21559,21559,21559,21559,473,KASIDY,I needed that money to buy a gift for my mother...,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21560,21560,21560,21560,474,ZEEMO,Strange way to run a casino.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21561,21561,21561,21561,475,KIRA,"What are you waiting for, Frankie? Take Mister Zeemo to the countroom.",90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21562,21562,21562,21562,476,ZEEMO,You heard the lady.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21563,21563,21563,21563,477,FRANKIE,"I'm telling you, Mister Zeemo, buying this hotel was the smartest move you ever made. We've been making money hand over fist.",90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21564,21564,21564,21564,478,ZEEMO,So you keep saying.,90   INT. CASINO - NIGHT,CASIN,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21565,21565,21565,21565,479,FRANKIE,I just hope you brought a big enough briefcase...,94   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21566,21566,21566,21566,480,ZEEMO,Where's my money?,94   INT. COUNTROOM - NIGHT,COUNTROO,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21567,21567,21567,21567,481,BLONDE,"But Zeemo, honey -- we just got here!",97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21568,21568,21568,21568,482,ZEEMO,And now we're leaving. I want to hear all about your trip to Miami.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21569,21569,21569,21569,483,BLONDE,"I swear, I've never been there...",97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21570,21570,21570,21570,484,VIC,Now that's more like it.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21571,21571,21571,21571,485,ODO,Say good-bye to Frankie Eyes.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21572,21572,21572,21572,486,KIRA,You can tell Felix we've shut the lid on his jack-in-the-box.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21573,21573,21573,21573,487,BASHIR,With pleasure.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21574,21574,21574,21574,488,VIC,"Ladies and gentlemen, the bubbly's on me.",97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21575,21575,21575,21575,489,BASHIR,Where've you been?,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21576,21576,21576,21576,490,O'BRIEN,I don't want to talk about it.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21577,21577,21577,21577,491,VIC,(to Bashir and O'Brien) The next time you two fight the battle of the Alamo... count me in. Coonskin cap and all.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21578,21578,21578,21578,492,BASHIR,"You got it, pallie.",97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21579,21579,21579,21579,493,VIC,To the best friends a hologram ever had.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21580,21580,21580,21580,494,Vic,I owe you. Big time.,97   INT. VIC'S LOUNGE - NIGHT,VIC'S LOUNG,INT.,Badda-bing Badda-bang,1998-12-09,Deep Space Nine,566.txt,0.0
+21581,21581,21581,21581,0,O'BRIEN,"I just want to say, I never doubted for a second that you'd be back.",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21582,21582,21582,21582,1,BASHIR,Neither did I.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21583,21583,21583,21583,2,O'BRIEN,"(to Ezri and Worf, re: Bashir) Don't believe him. He was Mister Doom and Gloom the entire time you were away.",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21584,21584,21584,21584,3,BASHIR,Maybe I was a little concerned.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21585,21585,21585,21585,4,O'BRIEN,We were all concerned. Your well- being was a constant source of conversation and speculation.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21586,21586,21586,21586,5,EZRI,"You see, I told you they'd miss us. So who won the betting pool?",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21587,21587,21587,21587,6,BASHIR,Morn. He guessed the exact day when you'd be back and only missed your arrival time by two hours.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21588,21588,21588,21588,7,O'BRIEN,He's amazing.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21589,21589,21589,21589,8,BASHIR,I don't know how he does it.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21590,21590,21590,21590,9,EZRI,"I know what you're going to say and the answer is yes, I left the station without your permission, and yes, I lost a runabout, but I did rescue Worf from the Dominion... well, maybe rescue isn't the right term... but I did find him...",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21591,21591,21591,21591,10,SISKO,"We'll evaluate your actions later, old man. Right now --",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21592,21592,21592,21592,11,SISKO,-- I want you to tell me everything you've learned about this Dominion-Breen Alliance.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21593,21593,21593,21593,12,WORF,"I'm afraid we have very little information to share, captain.",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21594,21594,21594,21594,13,EZRI,Weyoun and the others were more interested in asking questions than answering them.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21595,21595,21595,21595,14,SISKO,What about Damar? Why do you think he helped you escape?,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.264
+21596,21596,21596,21596,15,EZRI,"I'm not sure, but I'll tell you one thing -- he hates Weyoun.",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,-0.6521
+21597,21597,21597,21597,16,WORF,The Cardassians are a proud people. But the Dominion treats them as second-class citizens.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.2617
+21598,21598,21598,21598,17,EZRI,"I think Damar's worried that this new alliance with the Breen is going to weaken Cardassia's status with the Dominion even more. But whatever his reasons, we owe him our lives.",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21599,21599,21599,21599,18,SISKO,"Who knows, maybe someday you can return the favor. (to Bashir, re: Ezri and Worf) I want you to run a complete medical workup on both of them.",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21600,21600,21600,21600,19,BASHIR,"Yes, sir. I can't tell you how good it is to see you again. The both of you...",1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21601,21601,21601,21601,20,KIRA,Kira to Sisko.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21602,21602,21602,21602,21,SISKO,Go ahead.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21603,21603,21603,21603,22,KIRA,We just received a priority-one transmission from Starfleet Command. The Breen have attacked Earth.,1    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21604,21604,21604,21604,23,SISKO ,I had a lot of friends in those buildings.,3    INT. CAPTAIN'S OFFICE - ON MATTE PAINTING (OPTICAL),CAPTAIN'S OFFICE - ON MATTE PAINTING,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21605,21605,21605,21605,24,SISKO,"Starfleet was able to destroy most of the Breen attack force, but by then the damage had been done.",3    INT. CAPTAIN'S OFFICE - ON MATTE PAINTING (OPTICAL),CAPTAIN'S OFFICE - ON MATTE PAINTING,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21606,21606,21606,21606,25,MARTOK,"We must give the enemy credit. To launch an attack against Starfleet Headquarters. Even my people never attempted that. We've learned one thing about the Breen today, captain. They're a race of warriors.",3    INT. CAPTAIN'S OFFICE - ON MATTE PAINTING (OPTICAL),CAPTAIN'S OFFICE - ON MATTE PAINTING,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21607,21607,21607,21607,26,SISKO,And that's about all we know. Our intelligence reports are sketchy at best.,3    INT. CAPTAIN'S OFFICE - ON MATTE PAINTING (OPTICAL),CAPTAIN'S OFFICE - ON MATTE PAINTING,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21608,21608,21608,21608,27,MARTOK,Captain -- every species has its weakness. They're no exception.,3    INT. CAPTAIN'S OFFICE - ON MATTE PAINTING (OPTICAL),CAPTAIN'S OFFICE - ON MATTE PAINTING,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21609,21609,21609,21609,28,SISKO,Let's hope you're right. But whatever their weakness is... we'd better find it soon.,3    INT. CAPTAIN'S OFFICE - ON MATTE PAINTING (OPTICAL),CAPTAIN'S OFFICE - ON MATTE PAINTING,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21610,21610,21610,21610,29,WEYOUN,(pointing at the readout) There. Do you see that? The news from Earth keeps getting better. The Federation casualty reports are being revised upward once again.,6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21611,21611,21611,21611,30,WEYOUN,"Well put. The casualties are merely a bonus. What matters is that we've struck fear into the hearts of our enemy and left them feeling weak and vulnerable. (very satisfied, to Thot Gor)",6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21612,21612,21612,21612,31,WEYOUN ,"General, please congratulate your troops for us. They've done a superb job. Don't you agree, Damar?",6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21613,21613,21613,21613,32,DAMAR,Superb.,6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21614,21614,21614,21614,33,DAMAR,It's just unfortunate that so few of your ships survived the assault.,6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21615,21615,21615,21615,34,WEYOUN,"Leave it to you, Damar, to point out the one cloud in the sky.",6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21616,21616,21616,21616,35,WEYOUN,"My thoughts exactly. It's a very small price for such an important victory. Now, if you'll excuse me, I must make my report to the Founder.",6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21617,21617,21617,21617,36,DAMAR,"By the way, in case Weyoun has neglected to mention it... the Dominion once sang Cardassia's praises as well.",6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21618,21618,21618,21618,37,DAMAR,"It's really quite simple... they expected the war to be over long ago. It's not. And for that, they blame us. Now, if the war doesn't end soon, they'll shift the blame to you.",6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21619,21619,21619,21619,38,DAMAR,"Maybe so, but win or lose, I wouldn't turn my back on Weyoun if I were you.",6    INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21620,21620,21620,21620,39,DAMAR,Enter.,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21621,21621,21621,21621,40,RUSOT,The information you requested.,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21622,21622,21622,21622,41,DAMAR,Excellent. Have a seat.,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21623,21623,21623,21623,42,RUSOT,I'm not sure it's wise for me to stay. What if the Vorta decides to pay you a visit?,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21624,21624,21624,21624,43,DAMAR,And what if he does? He'll find me in conference with one of my officers. There's nothing suspicious about that.,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21625,21625,21625,21625,44,RUSOT,It doesn't seem right... all this plotting and secrecy. What are we? Romulans?,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21626,21626,21626,21626,45,DAMAR,"No, we're Cardassians. But right now, Cardassia is an occupied territory. And to defeat an occupying army takes careful planning and secrecy.",8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21627,21627,21627,21627,46,RUSOT,"Can we really hope to defeat the Dominion? With the Breen on their side, they're stronger than ever.",8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21628,21628,21628,21628,47,DAMAR,But we'll be fighting to win back our homes and our freedom. That will make us even stronger.,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21629,21629,21629,21629,48,RUSOT,"I remember the day I heard the news that Cardassia had joined the Dominion... Like everyone else, I rejoiced. We were going to be rulers of the Alpha Quadrant. Instead, we're a conquered people... servants in our own land.",8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21630,21630,21630,21630,49,DAMAR,All that is about to change. Now you're sure we can trust these officers?,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21631,21631,21631,21631,50,RUSOT,"And the troops under their command. Still, it's not a very long list, is it?",8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21632,21632,21632,21632,51,DAMAR,It'll get longer. A victory or two and all of Cardassia will rise up with us.,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21633,21633,21633,21633,52,RUSOT,We'll need to know the exact location of the Dominion weapon emplacements on Rondac Three.,8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21634,21634,21634,21634,53,DAMAR,"Leave that to me. Now, I want you to send a message to every officer on this list...",8    INT. DAMAR'S QUARTERS (VPB),DAMAR'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21635,21635,21635,21635,54,SISKO,Kas -- what happened?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21636,21636,21636,21636,55,KASIDY,That's what I'm trying to figure out.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21637,21637,21637,21637,56,SISKO,What're you doing? You don't cook!,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21638,21638,21638,21638,57,KASIDY,I know... I was just making sure.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.3182
+21639,21639,21639,21639,58,SISKO,My peppers?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21640,21640,21640,21640,59,KASIDY,I know how much you like roasted peppers in your casserole.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21641,21641,21641,21641,60,SISKO,It took me three months to grow them.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21642,21642,21642,21642,61,SISKO,(still can't believe it) No one touches my peppers.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21643,21643,21643,21643,62,KASIDY,I'm so sorry.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21644,21644,21644,21644,63,KASIDY,"With all the bad news about Earth... I just wanted to do something nice for you. (handing him the apron) But from now on, you wear the apron in the family.",12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21645,21645,21645,21645,64,SISKO,Good idea.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21646,21646,21646,21646,65,KASIDY,I'm glad you're not mad. I'd hate anything to ruin our last few nights together.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21647,21647,21647,21647,66,SISKO,Last few nights?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21648,21648,21648,21648,67,KASIDY,My cargo run. I'm leaving early next week.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21649,21649,21649,21649,68,SISKO,You're not going anywhere. It's too dangerous.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21650,21650,21650,21650,69,KASIDY,Ben -- the Breen attacked Earth. That's not exactly next door.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21651,21651,21651,21651,70,SISKO,We don't know where they're going to strike next. I'd feel better having you close by.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21652,21652,21652,21652,71,KASIDY,That's sweet. But I'm going anyway.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21653,21653,21653,21653,72,SISKO,I can't talk you out of it?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21654,21654,21654,21654,73,KASIDY,Not a chance.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21655,21655,21655,21655,74,SISKO,C'mon -- help me clean out those pots.,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21656,21656,21656,21656,75,KASIDY,Can't we just replicate new ones?,12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21657,21657,21657,21657,76,SISKO,"You really don't know anything about cooking, do you?",12   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21658,21658,21658,21658,77,SOLBOR,-- regarding your scheduled retreat to the Calash monastery.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21659,21659,21659,21659,78,WINN,Cancel it.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21660,21660,21660,21660,79,SOLBOR,"Very well. Now, about your appearance before the Vedek Assembly.",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21661,21661,21661,21661,80,WINN,"Cancel that, too.",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21662,21662,21662,21662,81,SOLBOR,Cancel an appearance before the Vedek Assembly?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21663,21663,21663,21663,82,WINN,Just do it. Cancel everything.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21664,21664,21664,21664,83,SOLBOR,As you wish. May I ask what exactly you will be doing?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21665,21665,21665,21665,84,WINN,"You certainly may not. (controlling her temper) But if you must know, I'll be devoting most of my time to study and meditation.",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21666,21666,21666,21666,85,SOLBOR,I see.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21667,21667,21667,21667,86,DUKAT,"Solbor, I'll have my breakfast in here this morning. Eminence, would you care for anything?",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21668,21668,21668,21668,87,WINN,I'm not hungry.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21669,21669,21669,21669,88,DUKAT,"But you should eat. After all, Bajor is only as strong as its Kai --",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21670,21670,21670,21670,89,WINN,I said I wasn't hungry.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21671,21671,21671,21671,90,WINN,"Do as he asks. And please, write a note to the Vedeks, expressing my sincere apologies for having to postpone our meeting.",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21672,21672,21672,21672,91,SOLBOR,(pleased by her concern) I'll see to it immediately.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21673,21673,21673,21673,92,DUKAT,What a tiresome little man.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21674,21674,21674,21674,93,WINN,"Sometimes, I think you forget your place, Anjohl.",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21675,21675,21675,21675,94,DUKAT,Forgive me if I've offended you in any way. I am but a moon made warm by the light of your sun.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21676,21676,21676,21676,95,WINN,I hope you're a better farmer than you are a poet.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21677,21677,21677,21677,96,DUKAT,Something's wrong... tell me what's bothering you?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21678,21678,21678,21678,97,WINN,Everything! The prayers... the rituals... these robes -- I can't keep pretending I follow the path of the Prophets any longer!,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21679,21679,21679,21679,98,DUKAT,You won't have to. The Pah- wraiths are waiting to embrace you.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21680,21680,21680,21680,99,WINN,So you keep saying -- but when is it going to happen?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21681,21681,21681,21681,100,DUKAT,As soon as we release them from the fire caves.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21682,21682,21682,21682,101,WINN,Release them? But... the prophecies...,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21683,21683,21683,21683,102,DUKAT,What about them?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21684,21684,21684,21684,103,WINN,They warn that the release of the Pah-wraiths will mean the end of Bajor.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21685,21685,21685,21685,104,DUKAT,"The old Bajor, perhaps. But a new Bajor will arise from its ashes and the Restoration will begin.",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21686,21686,21686,21686,105,WINN,And who will be left to see it?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21687,21687,21687,21687,106,DUKAT,Those that the gods find worthy. It will be the dawn of paradise. And you... you are destined to rule it.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21688,21688,21688,21688,107,WINN,You're sure of this?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21689,21689,21689,21689,108,DUKAT,It is meant to be.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21690,21690,21690,21690,109,WINN,And what will become of you?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21691,21691,21691,21691,110,DUKAT,"I will be by your side for as ong as you need me. But first, we have to release the Pah- wraiths...",14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21692,21692,21692,21692,111,WINN,And how do we do that?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21693,21693,21693,21693,112,DUKAT,The answer is in the text of the Kosst Amojan.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21694,21694,21694,21694,113,WINN,But it is forbidden for anyone to open that book.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21695,21695,21695,21695,114,DUKAT,Anyone except the Kai.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21696,21696,21696,21696,115,WINN,It is said to contain great evil...,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21697,21697,21697,21697,116,DUKAT,You have nothing to fear. I'll be right there with you.,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21698,21698,21698,21698,117,WINN,Did I say I was afraid?,14   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21699,21699,21699,21699,118,BASHIR ,Right here. The wooden palisade on the south wall...,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21700,21700,21700,21700,119,BASHIR,If we could make that part of the compound less vulnerable...,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21701,21701,21701,21701,120,O'BRIEN,"What are you talking about, Julian? It wasn't the south wall that was a problem. They came over the north wall. By Travis's position.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21702,21702,21702,21702,121,BASHIR,"I know where they came over, Miles -- I'm Travis, remember? I say we strengthen the south wall, the north wall, and anything else that'll help keep the enemy out.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21703,21703,21703,21703,122,O'BRIEN,"But if we do that, it wouldn't be the battle of the Alamo, now would it?",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21704,21704,21704,21704,123,BASHIR,I don't care. I just want to win -- just once.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21705,21705,21705,21705,124,O'BRIEN,Then be Santa Anna. He wins every time.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21706,21706,21706,21706,125,BASHIR,Maybe if we put more cannon in the long barracks...,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21707,21707,21707,21707,126,O'BRIEN,What are you doing? Do you know how long it took me to build this thing?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21708,21708,21708,21708,127,QUARK,I don't believe the two of you. Your homeworld has been attacked. The Breen have joined forces with the Dominion. And you sit there calmly playing games.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21709,21709,21709,21709,128,BASHIR,Haven't you ever heard of grace under pressure?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21710,21710,21710,21710,129,QUARK,But shouldn't you be doing something more productive?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21711,21711,21711,21711,130,O'BRIEN,I just spent fourteen hours recalibrating the station's weapons array.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21712,21712,21712,21712,131,BASHIR,And I just finished a complete run-through of the emergency support team protocols.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21713,21713,21713,21713,132,QUARK,Then you do expect an attack on the station?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21714,21714,21714,21714,133,BASHIR,"Anything's possible. (to O'Brien, re: the model) What if we build a moat?",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21715,21715,21715,21715,134,O'BRIEN,A moat? Around the Alamo?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21716,21716,21716,21716,135,BASHIR,All we have to do is widen that stream -- maybe make it a little deeper.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21717,21717,21717,21717,136,QUARK,"I say we build a moat around the station. Tell me the truth, do you think this place can withstand an attack by the Breen?",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21718,21718,21718,21718,137,O'BRIEN,Good question.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21719,21719,21719,21719,138,QUARK,"How about a good answer -- like ""yes, we can withstand an attack by the Breen""?",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21720,21720,21720,21720,139,O'BRIEN,Quark... I could say that. But I'd be guessing.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21721,21721,21721,21721,140,QUARK,Guessing?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21722,21722,21722,21722,141,BASHIR,"What he means is that there's a good chance we're going to lose the station, lose the war, and wind up dead in the process.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21723,21723,21723,21723,142,QUARK,Then how can you sit there enjoying yourselves pretending nothing's wrong.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21724,21724,21724,21724,143,O'BRIEN,Grace under pressure. Haven't you been listening?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.1531
+21725,21725,21725,21725,144,WORF,He is a child.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21726,21726,21726,21726,145,EZRI,Miles does have a certain cherubic quality...,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.2732
+21727,21727,21727,21727,146,WORF,"I am talking about Doctor Bashir, and you know it. Are you certain he's the one?",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21728,21728,21728,21728,147,EZRI,I'm not certain about anything. But he is handsome.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21729,21729,21729,21729,148,WORF,"You deserve more than ""handsome."" He gets excited playing with toys.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21730,21730,21730,21730,149,EZRI,"He knows how to have a good time. Besides, it's not exactly a toy... you heard Chief O'Brien, he spent hours building it.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21731,21731,21731,21731,150,WORF,I see it is hopeless to try to reason with you.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21732,21732,21732,21732,151,EZRI,I know. Maybe I am in love with him. You think I should tell him how I feel?,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21733,21733,21733,21733,152,WORF,"If that will make you happy, yes.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21734,21734,21734,21734,153,EZRI,"You're a good friend, Worf.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21735,21735,21735,21735,154,WORF,"I know. (then after a beat of looking back at Bashir) They are wasting their time. No matter how much planning they do, they cannot successfully defend that mission against an enemy numbering in the thousands. Not without more men.",16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21736,21736,21736,21736,155,EZRI,If you want to go over there and help them...,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21737,21737,21737,21737,156,EZRI,Just a thought.,16   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21738,21738,21738,21738,157,WEYOUN,Damar? You're up early.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21739,21739,21739,21739,158,DAMAR,Am I?,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21740,21740,21740,21740,159,WEYOUN,"Yes, you are. Unless you haven't gone to bed yet.",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21741,21741,21741,21741,160,DAMAR,"Actually, I had a very restful sleep.",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21742,21742,21742,21742,161,WEYOUN,Did you? How nice.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21743,21743,21743,21743,162,DAMAR,I had no idea the Breen could mobilize such a large fleet so quickly.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21744,21744,21744,21744,163,WEYOUN,"Our new allies are full of surprises, aren't they? You know those refrigeration suits they wear...",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21745,21745,21745,21745,164,DAMAR,What about them?,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21746,21746,21746,21746,165,WEYOUN,"I'm sure you've read the intelligence reports that say their homeworld is a frozen wasteland. Well, it's not true. The climate on their planet is quite comfortable.",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21747,21747,21747,21747,166,DAMAR,Then why do they wear refrigeration suits?,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21748,21748,21748,21748,167,WEYOUN,"They won't say. You see what I mean? They're full of surprises. There's something different about you today, Damar... I can't quite put my finger on it. It's like you're only half-dressed...",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21749,21749,21749,21749,168,WEYOUN,You don't have a bottle in your hand...,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21750,21750,21750,21750,169,DAMAR,Don't you have anything better to do than to stand here and --,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21751,21751,21751,21751,170,WEYOUN,You've regained your confidence.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21752,21752,21752,21752,171,DAMAR,I wasn't aware I'd lost it.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21753,21753,21753,21753,172,WEYOUN,"Come now, Damar... you thought you'd backed the wrong side.",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21754,21754,21754,21754,173,WEYOUN ,You thought the Dominion was going to lose this war... and drag Cardassia down with it.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21755,21755,21755,21755,174,DAMAR,"You must admit, things were looking rather grim.",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21756,21756,21756,21756,175,WEYOUN,Perhaps for a moment or two... but that's no excuse to lose faith in oneself -- or in one's allies.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21757,21757,21757,21757,176,WEYOUN,But now... it's as if you've groped your way through a dark tunnel and stepped into the light once again. And what does that light tell you? That the Dominion will prevail. That the Federation will be conquered and a new era of peace and prosperity will blanket the Alpha Quadrant.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21758,21758,21758,21758,177,DAMAR,You know me so well.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21759,21759,21759,21759,178,WEYOUN,"Really, Damar... I hope you won't allow that Cardassian-sized ego of yours to spoil our victory. And I do mean ""our victory."" Yours... mine...",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.3637
+21760,21760,21760,21760,179,DAMAR,And the Breen.,19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21761,21761,21761,21761,180,WEYOUN,"Yes, and the Breen.",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.4019
+21762,21762,21762,21762,181,DAMAR,"We're just one big, happy family, aren't we?",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.5719
+21763,21763,21763,21763,182,WEYOUN,"I like it so much better when we agree on things, don't you?",19   INT. DOMINION HEADQUARTERS - DAY,DOMINION HEADQUARTER,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21764,21764,21764,21764,183,SOLBOR,The text of the Kosst Amojan. As you requested...,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21765,21765,21765,21765,184,WINN,Very good.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21766,21766,21766,21766,185,WINN,Well? Put it on my desk.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21767,21767,21767,21767,186,SOLBOR,Eminence. May I speak frankly?,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21768,21768,21768,21768,187,WINN,If you must.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21769,21769,21769,21769,188,SOLBOR,This book... it hasn't been removed from the archives -- not in seven hundred years.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21770,21770,21770,21770,189,WINN,Your point being?,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21771,21771,21771,21771,190,SOLBOR,The knowledge it contains... about the Pah-wraiths... it's said to be very dangerous.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21772,21772,21772,21772,191,WINN,Knowledge is never dangerous -- in the right hands.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21773,21773,21773,21773,192,SOLBOR,"There's an old saying... ""He who studies evil, is studied by evil.""",20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21774,21774,21774,21774,193,WINN,I'll keep that in mind. Now give me the book...,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21775,21775,21775,21775,194,DUKAT,"Your concern for her eminence is acknowledged and appreciated. Nevertheless, you must do as she says. I will see to it that no harm comes to her.",20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21776,21776,21776,21776,195,WINN,There. That should make you feel better.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21777,21777,21777,21777,196,SOLBOR,"I wish it did. But this man... he arrives one day on Deep Space Nine and the next, he's become your closest advisor. What do we know about him? Where does he come from? What does he want?",20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21778,21778,21778,21778,197,DUKAT,I want only to serve the Kai.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21779,21779,21779,21779,198,SOLBOR,"This is his idea, isn't it? To study that hateful book.",20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21780,21780,21780,21780,199,WINN,Anjohl was sent to me by the Prophets. That's all I need to know -- that's all anyone needs to know.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21781,21781,21781,21781,200,DUKAT,I have no idea why I was chosen. But who are we to question the ways of the Prophets?,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21782,21782,21782,21782,201,WINN,Perhaps it would be best if you were to go to the temple and ask the Prophets forgiveness for questioning their wisdom.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21783,21783,21783,21783,202,WINN,Solbor --,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21784,21784,21784,21784,203,WINN,The key.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21785,21785,21785,21785,204,DUKAT,Solbor doesn't approve of me.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21786,21786,21786,21786,205,WINN,He's served me well for many years.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21787,21787,21787,21787,206,DUKAT,And he may serve you for many more... if the Pah-wraiths find him worthy.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21788,21788,21788,21788,207,DUKAT,Well? Aren't you going to open it?,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21789,21789,21789,21789,208,DUKAT,"The Pah-wraiths aren't evil, but they are powerful.",20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21790,21790,21790,21790,209,DUKAT ,"And they're willing to share their power with you. The question is, do you want it?",20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21791,21791,21791,21791,210,DUKAT,This can't be...,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21792,21792,21792,21792,211,DUKAT,It's a trick.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21793,21793,21793,21793,212,WINN,It's not a trick.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0382
+21794,21794,21794,21794,213,DUKAT,Then Solbor brought the wrong book.,20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,-0.4767
+21795,21795,21795,21795,214,WINN,"He doesn't make those kinds of mistakes. The words are here... they've been hidden, that's all. Now it's up to us to find them.",20   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,-0.3612
+21796,21796,21796,21796,215,ODO,Here are the new security protocols you requested.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21797,21797,21797,21797,216,SISKO,giving them the once over) Very good.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21798,21798,21798,21798,217,ODO,Though frankly I'm not sure how effective they'll be against the Breen.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21799,21799,21799,21799,218,SISKO,Neither am I. Let's hope we don't have to find out.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21800,21800,21800,21800,219,KASIDY ,Benjamin!,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21801,21801,21801,21801,220,KASIDY,You mind explaining this --,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21802,21802,21802,21802,221,SISKO,"Constable, do you mind if we use your office a moment?",22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21803,21803,21803,21803,222,SISKO,Looks like the Bajoran Freight and Shipping Authority wants you to take a vacation.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21804,21804,21804,21804,223,KASIDY,"A month's paid vacation? This is your doing, isn't it? Let me guess, the Emissary asked for a little favor...",22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21805,21805,21805,21805,224,SISKO,I never mentioned the word Emissary.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21806,21806,21806,21806,225,SISKO,I'm just trying to keep you out of harm's way. Is that such a terrible thing for a husband to do?,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21807,21807,21807,21807,226,KASIDY,"I told you, I don't need or want that kind of protection. I want you to call whoever you called and have them put my name back on the active list.",22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21808,21808,21808,21808,227,SISKO,Kas -- it's only for a month.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21809,21809,21809,21809,228,KASIDY,"I don't care if it's only for a day. How'd you like it if I called Admiral Ross and said, ""Do me a favor... please don't send my husband on any dangerous missions this month.""",22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21810,21810,21810,21810,229,SISKO,It's not the same thing.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21811,21811,21811,21811,230,KASIDY,It is from where I'm standing. My job is just as important to me as your job is to you.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21812,21812,21812,21812,231,SISKO,I know that.,22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21813,21813,21813,21813,232,KASIDY,"You don't act like you do. You crossed the line, Ben... this time you really crossed the line.",22   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21814,21814,21814,21814,233,ODO,What's so funny?,24   INT. PROMENADE,PROMENADE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21815,21815,21815,21815,234,QUARK,Marriage. It changes everything. (re: Sisko and Kasidy) If you're not careful... that could be you and Kira.,24   INT. PROMENADE,PROMENADE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21816,21816,21816,21816,235,WINN,Thank you. You can go now.,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21817,21817,21817,21817,236,SOLBOR,Eminence. I must inform you that the archivists are very concerned.,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21818,21818,21818,21818,237,DUKAT,"You heard the Kai, leave us.",26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21819,21819,21819,21819,238,SOLBOR,They're wondering why you need to consult so many of these... dark texts.,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21820,21820,21820,21820,239,WINN,"Tell them that their Kai works for the good of Bajor. Now leave me, I have work to do.",26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21821,21821,21821,21821,240,DUKAT,"(to Winn, re: Solbor) Something tells me that when the Restoration occurs, the Pah- wraiths are going to find that little man... unworthy.",26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21822,21822,21822,21822,241,WINN,Why are you still here?,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21823,21823,21823,21823,242,DUKAT,What would you like me to do?,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21824,21824,21824,21824,243,WINN,Go away.,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21825,21825,21825,21825,244,DUKAT,I don't understand...,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21826,21826,21826,21826,245,WINN,I need to concentrate.,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21827,21827,21827,21827,246,DUKAT,But your eminence...,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21828,21828,21828,21828,247,WINN,Not another word.,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21829,21829,21829,21829,248,DUKAT,As you wish.,26   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21830,21830,21830,21830,249,EZRI,A Til'amin froth... thank you.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21831,21831,21831,21831,250,QUARK,"Actually, I had one waiting for you every day you were gone.",28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21832,21832,21832,21832,251,EZRI,That's so sweet.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21833,21833,21833,21833,252,QUARK,I know.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21834,21834,21834,21834,253,BASHIR,Do you have a minute?,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21835,21835,21835,21835,254,QUARK,Doctor -- Ezri and I were in the middle of a conversation.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21836,21836,21836,21836,255,BASHIR,I'm sorry. I'll wait for you to finish.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21837,21837,21837,21837,256,EZRI,What were we talking about?,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21838,21838,21838,21838,257,QUARK,Forget it.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21839,21839,21839,21839,258,EZRI,"I guess we're finished. What can I do for you, Julian?",28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21840,21840,21840,21840,259,BASHIR,Have I offended you in any way?,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21841,21841,21841,21841,260,EZRI,What do you mean?,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21842,21842,21842,21842,261,BASHIR,"Ever since you and Worf returned to the station, it seems like you've been avoiding me.",28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21843,21843,21843,21843,262,EZRI,I have?,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21844,21844,21844,21844,263,BASHIR,It seems that way.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21845,21845,21845,21845,264,EZRI,Julian... I'm not sure if I'm ready to talk about this right now.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21846,21846,21846,21846,265,BASHIR,I knew it. Something is wrong --,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21847,21847,21847,21847,266,EZRI,Would you stop saying that -- nothing's wrong. It's just... complicated.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21848,21848,21848,21848,267,BASHIR,"Well, whatever it is -- I'm sure we can work it out.",28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21849,21849,21849,21849,268,EZRI,You think so?,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21850,21850,21850,21850,269,BASHIR,I'm positive.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21851,21851,21851,21851,270,EZRI,"Maybe you're right. Maybe we just need to bring this out in the open... talk it over like two adults. I mean, here we are... you over there, me over here... when you think about it, it's a perfect opportunity.",28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21852,21852,21852,21852,271,BASHIR,"Ezri, please -- just tell me what's going on.",28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21853,21853,21853,21853,272,EZRI,I'm getting to that...,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21854,21854,21854,21854,273,COMPUTER,"Doctor Bashir, please report to the Infirmary.",28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21855,21855,21855,21855,274,BASHIR,On my way. Hold that thought.,28   INT. QUARK'S,QUARK'S,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21856,21856,21856,21856,275,KASIDY,They're beautiful...,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21857,21857,21857,21857,276,SISKO,Then you forgive me?,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21858,21858,21858,21858,277,KASIDY,That depends. Have you talked to Bajoran Freight and Shipping?,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21859,21859,21859,21859,278,SISKO,You're back on the active list.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21860,21860,21860,21860,279,KASIDY,Then I forgive you. But from here on in...,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21861,21861,21861,21861,280,SISKO,(completing the thought) I won't interfere with your work again. Unless you ask me to. Or it's absolutely necessary.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21862,21862,21862,21862,281,SISKO,I'm joking.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21863,21863,21863,21863,282,KASIDY,You better be.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21864,21864,21864,21864,283,SISKO,What's that for?,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21865,21865,21865,21865,284,KASIDY,The flowers. And for being big enough to admit when you're wrong.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21866,21866,21866,21866,285,SISKO,That must be Quark with the necklace.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21867,21867,21867,21867,286,KASIDY,Necklace?,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21868,21868,21868,21868,287,SISKO,In case the flowers didn't work. Come in.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21869,21869,21869,21869,288,ROSS,"Ben, we just got word. The Breen have launched a counteroffensive against our forces in the Chin'toka System.",30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21870,21870,21870,21870,289,SISKO,Have they broken through?,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21871,21871,21871,21871,290,ROSS,In two places.,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21872,21872,21872,21872,291,SISKO,When do I leave?,30   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21873,21873,21873,21873,292,NOG,This is bad... very bad.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21874,21874,21874,21874,293,KIRA,You say that every time we take the Defiant into battle.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21875,21875,21875,21875,294,NOG,"Impulse manifold purged and clear. If we lose the Chin'toka System, we lose our only foothold in Dominion territory. I think that qualifies as ""bad.""",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21876,21876,21876,21876,295,KIRA,We haven't lost it yet. Initiating impulse pre-start sequence.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21877,21877,21877,21877,296,NOG,"Microfusion generators on line. But the Breen... they seem unstoppable. First Earth, now Chin'toka.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21878,21878,21878,21878,297,WORF,Ensign -- no one is unstoppable. Collimate the nadion emitters.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21879,21879,21879,21879,298,NOG,Collimation sequence in progress.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21880,21880,21880,21880,299,BASHIR,What more can I say? I'm sorry.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21881,21881,21881,21881,300,O'BRIEN,"Dilithium matrix is aligned and calibrated. From now on, be more careful. That's all I ask.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21882,21882,21882,21882,301,KIRA,Opening antimatter injector ports. (re: O'Brien and Bashir's conversation) Trouble in paradise?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21883,21883,21883,21883,302,BASHIR,It's nothing. Emergency life support and damage control systems standing by.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21884,21884,21884,21884,303,O'BRIEN,"Antimatter stream is stable. I wouldn't call it ""nothing."" (back to Kira and Ezri, re: Bashir) He lost Travis.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21885,21885,21885,21885,304,KIRA,Sounds serious. Verify astrometric database.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21886,21886,21886,21886,305,BASHIR,"Miles built this Alamo model, replete with little figures. Quite spectacular, actually. Datasets loaded and verified. Anyway, he was showing it to me in Quark's and somehow we -- or rather I misplaced Colonel Travis.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21887,21887,21887,21887,306,NOG,Phaser safeties engaged. Can't you make another one?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21888,21888,21888,21888,307,O'BRIEN,Why? So he can lose it again? Field stabilizers on-line.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21889,21889,21889,21889,308,KIRA,That's what happens when you share your toys. Synchronizing warp plasma flow.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21890,21890,21890,21890,309,O'BRIEN,It's not a toy -- it's a model. Built to scale! Nacelles holding at pre-warp threshold.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21891,21891,21891,21891,310,BASHIR,He really did a fantastic job.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21892,21892,21892,21892,311,WORF,He plays with toys.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21893,21893,21893,21893,312,EZRI,It's a model.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21894,21894,21894,21894,313,WORF,With little figures...,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21895,21895,21895,21895,314,EZRI,"Autonomous guidance system initialized and active. (to Worf, re: Bashir) It's a form of therapy. He's under a lot of stress...",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21896,21896,21896,21896,315,BASHIR,"Look, when we get back, I'll go to Quark's and search every centimeter on my hands and knees. Satisfied?",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21897,21897,21897,21897,316,O'BRIEN,It's a start.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21898,21898,21898,21898,317,WORF,"Perhaps you should crawl around Quark's with him... if you find the Travis figure, I'm sure Doctor Bashir would be very grateful.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21899,21899,21899,21899,318,EZRI,Would you please stop?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21900,21900,21900,21900,319,SISKO,Commander.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21901,21901,21901,21901,320,WORF,The weapons array is on-line. Phasers are fully charged. Quantum torpedo launchers are loaded and standing by.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21902,21902,21902,21902,321,SISKO,"Colonel, set a course to rendezvous with the Federation assault fleet.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21903,21903,21903,21903,322,KIRA,Course set.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21904,21904,21904,21904,323,SISKO,Take us out.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21905,21905,21905,21905,324,KIRA,Airlocks are sealed. Releasing docking clamps.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21906,21906,21906,21906,325,DUKAT,Where are you going with those?,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21907,21907,21907,21907,326,SOLBOR,I'm returning them to the archives.,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21908,21908,21908,21908,327,DUKAT,On who's authority?,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21909,21909,21909,21909,328,SOLBOR,I believe her eminence has finished....,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21910,21910,21910,21910,329,DUKAT,Put them back.,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21911,21911,21911,21911,330,SOLBOR,How dare you use that tone with me --,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21912,21912,21912,21912,331,DUKAT,"Very well, I'll put them back.",38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21913,21913,21913,21913,332,DUKAT,"Wake up, my love. There's work to be done.",38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21914,21914,21914,21914,333,WINN,Anjohl? I must've dozed off...,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21915,21915,21915,21915,334,DUKAT,You're tired. It's understandable.,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21916,21916,21916,21916,335,WINN,I haven't made much progress...,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21917,21917,21917,21917,336,DUKAT,You'll find the answers we're looking for. It's just a matter of time.,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21918,21918,21918,21918,337,WINN,(taking comfort in his words) I'm glad you're here.,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21919,21919,21919,21919,338,DUKAT,(smiling back at,38   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21920,21920,21920,21920,339,RUSOT,"According to the latest battle reports, it looks like the Dominion is going to retake Chin'toka.",42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21921,21921,21921,21921,340,DAMAR,"A few months ago, the thought of driving the Federation from Cardassian soil would've been cause for celebration.",42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21922,21922,21922,21922,341,DAMAR ,But their victories are no longer our victories.,42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21923,21923,21923,21923,342,DAMAR,"Now, are the troops in position?",42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21924,21924,21924,21924,343,RUSOT,They're awaiting your command.,42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21925,21925,21925,21925,344,DAMAR,Excellent. We strike in seven hours.,42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21926,21926,21926,21926,345,RUSOT,We're going to lose many fine soldiers.,42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21927,21927,21927,21927,346,DAMAR,At least they will be dying for Cardassia -- not the Dominion.,42   INT. DAMAR'S QUARTERS	DAY,DAMAR'S QUARTERS	DAY,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21928,21928,21928,21928,347,WEYOUN,The Federation reinforcements are approaching Chin'toka.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21929,21929,21929,21929,348,FEMALE SHAPE-SHIFTER,"The more of them, the better.",44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21930,21930,21930,21930,349,WEYOUN,"Founder, it concerns me to have you this close to the front.",44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21931,21931,21931,21931,350,FEMALE SHAPE-SHIFTER,Your concern is noted. But this is one battle I intend to see firsthand.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21932,21932,21932,21932,351,WEYOUN,"Yes, it should be quite gratifying.",44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21933,21933,21933,21933,352,O'BRIEN,"Sir, they've locked weapons on us.",48   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21934,21934,21934,21934,353,KIRA,"Aye, sir.",48   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21935,21935,21935,21935,354,SISKO,Mister Worf -- quantum torpedoes.,48   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21936,21936,21936,21936,355,WORF,Target acquired.,48   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21937,21937,21937,21937,356,SISKO,Fire!,48   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21938,21938,21938,21938,357,O'BRIEN,What the hell -- ?,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21939,21939,21939,21939,358,KIRA,I've lost power to the helm.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21940,21940,21940,21940,359,EZRI,The com's down.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21941,21941,21941,21941,360,WORF,So are weapons.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21942,21942,21942,21942,361,BASHIR,Primary computer systems are off-line!,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21943,21943,21943,21943,362,SISKO,Chief?,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21944,21944,21944,21944,363,O'BRIEN,"I can't get anything back on line. Somehow, they're draining all our power...",51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21945,21945,21945,21945,364,O'BRIEN,Sir -- the ablative armor is starting to buckle.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21946,21946,21946,21946,365,WORF,We have hull breaches on Decks Three and Four.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21947,21947,21947,21947,366,O'BRIEN,"Without power for emergency forcefields, there's no way to seal them.",51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21948,21948,21948,21948,367,SISKO,Abandon ship.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21949,21949,21949,21949,368,O'BRIEN,Captain...,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21950,21950,21950,21950,369,SISKO,She's a fine ship.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21951,21951,21951,21951,370,O'BRIEN,No one'll argue with that.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21952,21952,21952,21952,371,O'BRIEN,But like you said -- it's time to go.,51   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21953,21953,21953,21953,372,WEYOUN,Poor Captain Sisko... I believe he was quite fond of that ship. Founder... I'm happy to report that the Chin'toka System is ours once again.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21954,21954,21954,21954,373,FEMALE SHAPE-SHIFTER,A step in the right direction. Send my compliments to the Breen.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21955,21955,21955,21955,374,WEYOUN,I'm sure that will please them greatly.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21956,21956,21956,21956,375,FEMALE SHAPE-SHIFTER,"Really? I have no idea what pleases the Breen -- nor do I care, as long as they fight and win. I will not tolerate defeat any longer.",56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21957,21957,21957,21957,376,WEYOUN,Nor will I.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21958,21958,21958,21958,377,WEYOUN,Look at all those escape pods. So small... so vulnerable... I'll order their destruction immediately.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21959,21959,21959,21959,378,FEMALE SHAPE-SHIFTER,"No. Let them return to the Federation. Those pods are filled with frightened, demoralized troops.",56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21960,21960,21960,21960,379,WEYOUN,... troops that will spread fear throughout the Federation with tales of what happened here today. The Founder is wise.,56   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21961,21961,21961,21961,380,DUKAT,There... don't you feel better?,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21962,21962,21962,21962,381,WINN,"Much. Thank you, Anjohl.",58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21963,21963,21963,21963,382,DUKAT,I'm here to serve you -- any way I can.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21964,21964,21964,21964,383,SOLBOR,Get away from her! Eminence -- that man is not Anjohl Tennan.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21965,21965,21965,21965,384,WINN,What are you saying?,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21966,21966,21966,21966,385,SOLBOR,"Anjohl Tennan died nine years ago in the labor camp at Batal. I warned you he wasn't to be trusted. I had a sample of his DNA sequenced -- he's not even a Bajoran, he's Cardassian!",58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21967,21967,21967,21967,386,DUKAT,We were brought together for a purpose -- a great purpose. Our destinies are linked.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21968,21968,21968,21968,387,SOLBOR,Don't listen to him -- look in his eyes. Don't you recognize the face of your enemy? It's Gul Dukat!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21969,21969,21969,21969,388,WINN,It can't be...,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21970,21970,21970,21970,389,SOLBOR,He lied to you. Used you!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21971,21971,21971,21971,390,WINN,It's not true!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21972,21972,21972,21972,391,SOLBOR,I don't know why you've done this -- for what evil purpose. But it's not going to work!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21973,21973,21973,21973,392,DUKAT,He doesn't understand -- he can't understand the love of the Pah- wraiths.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21974,21974,21974,21974,393,SOLBOR,The love of the Pah-wraiths?,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21975,21975,21975,21975,394,SOLBOR,(shocked and appalled) You're trying to release them... that's why you wanted the text of the Kosst Amojan...,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21976,21976,21976,21976,395,WINN,Solbor -- you must try to understand... all I want is to bring about the Restoration.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21977,21977,21977,21977,396,SOLBOR,You've betrayed the Prophets... you've betrayed us all!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21978,21978,21978,21978,397,WINN,"Listen to me -- the Pah-wraiths, they're the true gods.",58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21979,21979,21979,21979,398,SOLBOR,You must be stopped...,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21980,21980,21980,21980,399,WINN,Solbor -- I beg you.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21981,21981,21981,21981,400,WINN,No!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21982,21982,21982,21982,401,DUKAT,It's going to be all right.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21983,21983,21983,21983,402,WINN,Don't touch me. My life is over. The Pah-wraiths sent you to destroy me...,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21984,21984,21984,21984,403,DUKAT,On the contrary. They sent me to save you.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21985,21985,21985,21985,404,WINN,Lies... nothing but Cardassian lies. To think I let you touch me...,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.4585
+21986,21986,21986,21986,405,WINN,The book... I have to destroy it!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,-0.5848
+21987,21987,21987,21987,406,DUKAT,The Pah-wraiths have judged you and found you worthy. Their secrets are now yours... to do with as you please.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.6369
+21988,21988,21988,21988,407,DUKAT,Take their gift and use it -- seize the power they're offering you!,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21989,21989,21989,21989,408,WINN,What about Solbor?,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21990,21990,21990,21990,409,DUKAT,I'll take care of his body.,58   INT. KAI WINN'S OFFICE,KAI WINN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21991,21991,21991,21991,410,SISKO,The Defiant was the finest ship I ever commanded. There'll never be another one like her...,65   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21992,21992,21992,21992,411,ROSS,"It may take a little while, but we'll get you another ship. That's a promise. I just wish I knew how we were going to neutralize the Breen energy dissipaters.",65   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21993,21993,21993,21993,412,SISKO,We need to buy some time.,65   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21994,21994,21994,21994,413,ROSS,Time may be the one thing we don't have...,65   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21995,21995,21995,21995,414,KIRA,Captain. We're monitoring a transmission from Cardassian space. I think you're going to find it interesting.,65   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21996,21996,21996,21996,415,DAMAR,"... and so two years ago, our government signed a treaty with the Dominion.",67   INT. OPS (OPTICAL),OPS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21997,21997,21997,21997,416,DAMAR ,"In it, the Dominion promised to extend Cardassia's influence",67   INT. OPS (OPTICAL),OPS,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21998,21998,21998,21998,417,DAMAR,"We've gained no new territories... in fact, our influence throughout the Quadrant has diminished... and to make matters worse, we're no longer masters in our own home.",68   INT. SECURITY OFFICE (OPTICAL) ,SECURITY OFFICE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0
+21999,21999,21999,21999,418,DAMAR,"Travel anywhere in Cardassia and what do you find? Jem'Hadar, Vorta... and now Breen. Instead of being the invaders, we've become the invaded. Our ""allies"" have conquered us without firing a shot.",69   INT. PROMENADE (OPTICAL),PROMENADE,INT.,The Changing Face of Evil,1999-02-03,Deep Space Nine,570.txt,0.0

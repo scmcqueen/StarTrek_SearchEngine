@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+23000,23000,23000,23000,250,TAHNA,"Once you're in your comfortable bed with the Federation, you won't be",43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.5106
+23001,23001,23001,23001,251,KIRA,If you expect me to help you commit some act of violence against the Federation...,43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,-0.0516
+23002,23002,23002,23002,252,TAHNA,No. The violence is over. That's the truth. No one will be hurt. In any way. I promise you that. But I do need your help...,43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,-0.5647
+23003,23003,23003,23003,253,KIRA,"You've already lied to me, Tahna; I know how the game works.",43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23004,23004,23004,23004,254,TAHNA,"To do what we plan, we need a small ship capable of warp speed. I gambled that I could convince you to get it for us.",43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23005,23005,23005,23005,255,KIRA,"Just what is this ""peaceful"" plan?",43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23006,23006,23006,23006,256,TAHNA,In one move... and non-violently... we accomplish everything that both of us ever wanted for Bajor.,43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23007,23007,23007,23007,257,KIRA,How?,43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23008,23008,23008,23008,258,TAHNA,"I know the game, too. You know I can't risk telling you that.",43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23009,23009,23009,23009,259,KIRA,How do you know I won't go straight to Sisko?,43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23010,23010,23010,23010,260,TAHNA,"If you do, we'll both know where your loyalties are, won't we.",43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23011,23011,23011,23011,261,TAHNA,"But I don't think you will. You want freedom for Bajor. In your heart, you know the Federation cannot give it to us. No one can give us freedom. We have to take it. You'll have to make the choice, Kira. Be with us. Or stop lying to yourself about what you've become.",43   INT. TAHNA'S QUARTERS,TAHNA'S QUARTERS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23012,23012,23012,23012,262,BASHIR,"Ah. Plain, simple Garak. How are you, today?",49A  INT. PROMENADE REPLIMAT,PROMENADE REPLIMAT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23013,23013,23013,23013,263,GARAK,"Being observant, Doctor.",49A  INT. PROMENADE REPLIMAT,PROMENADE REPLIMAT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23014,23014,23014,23014,264,BASHIR,I'm sure of it.,49A  INT. PROMENADE REPLIMAT,PROMENADE REPLIMAT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23015,23015,23015,23015,265,GARAK,"There's a time for levity, my young friend... and a time for genuine concern.",49A  INT. PROMENADE REPLIMAT,PROMENADE REPLIMAT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23016,23016,23016,23016,266,GARAK ,"... The arrival on this station, for instance... ... of those two Kohn-Ma terrorists.",49A  INT. PROMENADE REPLIMAT,PROMENADE REPLIMAT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23017,23017,23017,23017,267,,... of those two Kohn-Ma terrorists.,49A  INT. PROMENADE REPLIMAT,PROMENADE REPLIMAT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23018,23018,23018,23018,268,BASHIR,Terrorists... What are they doing here... ?,49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23019,23019,23019,23019,269,GARAK,"I'm not exactly sure; but together, we might have some success at finding out...",49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23020,23020,23020,23020,270,BASHIR,"(in over his head, now) Together. Garak, I'm a doctor, not a...",49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23021,23021,23021,23021,271,GARAK,"Once you do have the appropriate answer, I'm sure you'll know what to do with it.",49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23022,23022,23022,23022,272,BASHIR,I really must be getting along...,49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23023,23023,23023,23023,273,GARAK,"Doctor, I think it's time for you to take advantage of my shop. If you'll be there at exactly twenty fifty- five hours this evening, I promise to show you a suit that will make you into a new man.",49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23024,23024,23024,23024,274,BASHIR,"A suit? We're talking about terrorists, and you want me to buy a new suit?",49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23025,23025,23025,23025,275,GARAK,"Doctor, am I making myself clear? I want you to buy a new suit tonight at twenty-fifty-five. Exactly.",49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23026,23026,23026,23026,276,BASHIR,I see. Yes... If you'll excuse me now...,49B  ANGLE FAVORING (INT.) PROMENADE SECOND LEVEL, PROMENADE SECOND LEVEL,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23027,23027,23027,23027,277,SISKO ,Major... ?,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23028,23028,23028,23028,278,KIRA,"Yes, Commander.",50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23029,23029,23029,23029,279,SISKO,I'd like to meet the two Kohn-Ma who just arrived as soon as possible...,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23030,23030,23030,23030,280,KIRA,Of course. I'll arrange it.,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23031,23031,23031,23031,281,SISKO,How do they seem to you?,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23032,23032,23032,23032,282,KIRA,Sir?,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23033,23033,23033,23033,283,SISKO,Do you feel as secure about them as you do about Tahna Los?,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23034,23034,23034,23034,284,KIRA,Absolutely.,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23035,23035,23035,23035,285,BASHIR,Commander Sisko...,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23036,23036,23036,23036,286,BASHIR,... I need some guidance...,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23037,23037,23037,23037,287,SISKO,"Yes, Doctor... ?",50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23038,23038,23038,23038,288,BASHIR,"It's about... Garak, the Cardassian... I'm afraid this... relationship... has gotten a little out of hand.",50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23039,23039,23039,23039,289,SISKO,How's that?,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23040,23040,23040,23040,290,BASHIR,He wants me to buy a suit.,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23041,23041,23041,23041,291,SISKO,A suit.,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23042,23042,23042,23042,292,BASHIR,At exactly twenty-fifty-five tonight.,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23043,23043,23043,23043,293,SISKO,Why twenty-fifty-five?,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23044,23044,23044,23044,294,BASHIR,I don't know... but it has something to do with the Bajoran terrorists on board.,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23045,23045,23045,23045,295,BASHIR,"He... he says that together, he and I might discover what they're really doing here. (Sisko reacts, muses, a beat) I don't understand why he wants me involved...",50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23046,23046,23046,23046,296,SISKO,"Sometimes, communications can't be conducted through official channels. Maybe this is their way of telling us that we have a common enemy.",50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23047,23047,23047,23047,297,BASHIR,What do you want me to do?,50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23048,23048,23048,23048,298,SISKO,"I think, Doctor, that you could definitely use a new suit.",50   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23049,23049,23049,23049,299,KIRA,Busy?,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23050,23050,23050,23050,300,ODO,What can I do for you?,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23051,23051,23051,23051,301,KIRA,Are all the security measures in place for the trip to the Ministers' Court... ?,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23052,23052,23052,23052,302,ODO,I told you they'd be taken care of and they will.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23053,23053,23053,23053,303,KIRA,Fine.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23054,23054,23054,23054,304,ODO,"You know, there's one thing about you humanoids I can't imitate very well...",50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23055,23055,23055,23055,305,KIRA,What's that?,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23056,23056,23056,23056,306,ODO,Pretense. There's a special talent to it. It's as hard for me as creating one of your noses.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23057,23057,23057,23057,307,KIRA,"Maybe, that's why I've learned to respect your opinion, Constable. Never any... pretense. How much do you know about me, Odo?",50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23058,23058,23058,23058,308,ODO,More than you probably realize.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23059,23059,23059,23059,309,KIRA,I've done some things I'm not proud of. I still have nightmares about the raids on the Haru outposts. But at least I was sure of what I was doing then.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23060,23060,23060,23060,310,ODO,And there's something you're not sure of now.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23061,23061,23061,23061,311,KIRA,You have no more love for the Federation than I do.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23062,23062,23062,23062,312,ODO,Meaning?,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23063,23063,23063,23063,313,KIRA,Maybe there are still wars to be fought and I'm just making a fool of myself doing what I'm doing here.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23064,23064,23064,23064,314,ODO,Sounds like you're trying to talk yourself into something. Or out of something.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.3612
+23065,23065,23065,23065,315,KIRA,"Either way, I have to betray someone.",50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,-0.6369
+23066,23066,23066,23066,316,ODO,Only important thing is not to betray yourself. he looks at him... a beat... they both know what they're talking about here.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.6331
+23067,23067,23067,23067,317,KIRA,How could I possibly turn against my own people?,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23068,23068,23068,23068,318,ODO,Are they? Your own people?,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23069,23069,23069,23069,319,KIRA,They're no different than I used to be.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23070,23070,23070,23070,320,ODO,Used to be.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23071,23071,23071,23071,321,KIRA,I could just refuse to help them. Ignore the whole thing.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23072,23072,23072,23072,322,ODO,The Joranian ostrich hides by sticking its head under water. Sometimes even until it drowns.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23073,23073,23073,23073,323,KIRA,They'd find a way to do whatever they want to do anyway... and I'd still feel responsible for the consequences.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23074,23074,23074,23074,324,KIRA,It was so much easier when I knew who the enemy was.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23075,23075,23075,23075,325,SISKO,Go ahead.,50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23076,23076,23076,23076,326,ODO,"There's someone down here in security who wants to talk to you, Commander.",50C  INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23077,23077,23077,23077,327,GARAK,"Doctor, it's Twenty-fifty-seven. You're late. Come in quickly, please.",55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHO,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23078,23078,23078,23078,328,BASHIR,I... I was...,55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHO,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23079,23079,23079,23079,329,GARAK,"You just try that on as many times as you like, and be very, very quiet.",55   INT. GARAK'S SHOP - FAVORING CLOSED ENTRANCE,GARAK'S SHO,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23080,23080,23080,23080,330,GARAK  ,"Ah, right on time. Welcome.",56   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23081,23081,23081,23081,331,,"Ah, right on time. Welcome.",56   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23082,23082,23082,23082,332,B'ETOR,"Save your ""welcomes,"" Cardassian. Do your people want the Bajoran or not?",56   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23083,23083,23083,23083,333,GARAK,"I can now venture to say, with some certainty, that you will receive the agreed-upon payment on delivery.",56   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23084,23084,23084,23084,334,LURSA,We will complete our business with Tahna Los in four hours...,57   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23085,23085,23085,23085,335,GARAK,And what business might that be?,57   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23086,23086,23086,23086,336,B'ETOR,That is not your concern.,57   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23087,23087,23087,23087,337,GARAK,"If it requires that those I represent must take extra precautions, it becomes my concern.",57   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23088,23088,23088,23088,338,LURSA,We are delivering a cylinder of Bilitrium to him.,57   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23089,23089,23089,23089,339,B'ETOR,The rendezvous will be on the dark side of Bajor Eight's lower moon.,57   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23090,23090,23090,23090,340,B'ETOR,The Cardassians can have him then.,58   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23091,23091,23091,23091,341,BASHIR,What's Bilitrium?,58   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23092,23092,23092,23092,342,GARAK,"A rare crystalline element, that can be an incredibly powerful source of energy... Provided, of course, that one also has an anti-matter converter. Unfortunately, that's why Cardassians were chasing Tahna Los when he arrived here. He stole one.",58   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23093,23093,23093,23093,343,BASHIR,But if he's got both...,58   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23094,23094,23094,23094,344,GARAK,"Quite right, Doctor. He will have the ingredients for a bomb. A bomb of significant destructive capability.",58   INT. FITTING ROOM,FITTING ROOM,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23095,23095,23095,23095,345,SISKO,We have nothing to hold them on.... they haven't committed any crime yet...,60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23096,23096,23096,23096,346,ODO,Conspiracy is a crime...,60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23097,23097,23097,23097,347,BASHIR,But conspiracy to what? We don't even know what their plan is...,60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23098,23098,23098,23098,348,O'BRIEN,"Once the exchange is made, with the Klingons, you've got them holding the components to an explosive device... that's enough evidence right there...",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23099,23099,23099,23099,349,KIRA,Chief O'Brien's right. We have to let them have a runabout.,60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23100,23100,23100,23100,350,SISKO,Agreed.,60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23101,23101,23101,23101,351,KIRA,And I have to be on it.,60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23102,23102,23102,23102,352,SISKO,Not agreed. Major...,60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23103,23103,23103,23103,353,KIRA,"Commander, Tahna doesn't know if he can trust me as it is... if I try to stay behind, he won't buy into this. The only way to convince him is if I'm on board. If Tahna fails, I promise you others will try. At least, this way you can find out what they're up to.",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23104,23104,23104,23104,354,SISKO,"Mister O'Brien, you and I will take a Runabout to a point behind the second moon of Bajor Eight to avoid detection.",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23105,23105,23105,23105,355,O'BRIEN,"Aye, Sir...",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23106,23106,23106,23106,356,SISKO,"Dax, stay in touch with us on a secured channel... keep an eye on the Cardassians; they'll be coming to the party too...",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23107,23107,23107,23107,357,SISKO,"You get him there, Major... we'll be waiting...",60   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23108,23108,23108,23108,358,KIRA,This'll be the first time a Bajoran officer's taken out a Federation Runabout alone...,62   INT. TURBOLIFT,TURBOLIFT,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23109,23109,23109,23109,359,KIRA,It might get Sisko's attention. We'd better initialize pre-launch the minute we get on board...,63   INT. AIRLOCK - CONTINUOUS,AIRLOC,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23110,23110,23110,23110,360,ODO,They're moving into the Runabout...,64   INT. SECURITY,SECURITY,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23111,23111,23111,23111,361,DAX,Acknowledged. DS Nine to Ganges.,65   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23112,23112,23112,23112,362,SISKO,"Go ahead, Dax.",65   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23113,23113,23113,23113,363,DAX,Major Kira and Tahna are preparing to leave in the Yangtzee Kiang.,65   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23114,23114,23114,23114,364,DAX,They're initializing pre-launch systems now...,66   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23115,23115,23115,23115,365,SISKO,"Understood, Lieutenant. ... Shut down all main power systems.",66   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23116,23116,23116,23116,366,O'BRIEN,Main power systems down. ... Dead quiet...,66   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23117,23117,23117,23117,367,KIRA,Bajor Eight in one-hundred-twenty thousand kilometers. Dropping to impulse. What is that?,70   INT. YANGTZEE KIANG (OPTICAL),YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23118,23118,23118,23118,368,TAHNA,An anti-matter converter... I'm transferring power from the ship's warp drive into the storage cells.,70   INT. YANGTZEE KIANG (OPTICAL),YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23119,23119,23119,23119,369,KIRA,We've got a Klingon Bird of Prey decloaking dead ahead.,70   INT. YANGTZEE KIANG (OPTICAL),YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23120,23120,23120,23120,370,TAHNA,Calm down... we're here to meet them...,70   INT. YANGTZEE KIANG (OPTICAL),YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23121,23121,23121,23121,371,KIRA,"Klingons, why?",70   INT. YANGTZEE KIANG (OPTICAL),YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23122,23122,23122,23122,372,TAHNA,You'll know soon enough.,70   INT. YANGTZEE KIANG (OPTICAL),YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23123,23123,23123,23123,373,O'BRIEN,The Klingons have powered up their transporters...,71   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23124,23124,23124,23124,374,SISKO,Prepare to go to full impulse.,71   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23125,23125,23125,23125,375,TAHNA,Thirteen kilograms of gold-press Latinum; as promised.,73   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.3612
+23126,23126,23126,23126,376,LURSA,This is yours.,73   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23127,23127,23127,23127,377,B'ETOR,'eH. HImaH!,73   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23128,23128,23128,23128,378,KIRA,What is it?,73   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23129,23129,23129,23129,379,TAHNA,Bajoran independence.,73   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23130,23130,23130,23130,380,O'BRIEN,Bird of Prey is moving off... and cloaking.,74   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23131,23131,23131,23131,381,SISKO,Set an intercept course with the Runabout.,74   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23132,23132,23132,23132,382,O'BRIEN,"Intercept in one minute, twelve seconds.",74   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23133,23133,23133,23133,383,DAX,DS Nine to Ganges...,75   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23134,23134,23134,23134,384,SISKO,Ganges...,75   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23135,23135,23135,23135,385,DAX,"The Cardassian warship Aldara is crossing the border, Benjamin... on an intercept course with the Yangtzee Kiang.",75   INT. OPS,OPS,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23136,23136,23136,23136,386,DAX,They'll enter Bajoran space in twenty- nine seconds...,76   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23137,23137,23137,23137,387,SISKO,Acknowledged.,76   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23138,23138,23138,23138,388,O'BRIEN,"The Yangtzee's sensors should be picking us up now, sir...",76   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23139,23139,23139,23139,389,TAHNA,They must've been waiting for us here. How did they know?,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23140,23140,23140,23140,390,KIRA,We've also got a Cardassian warship three minutes away...,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23141,23141,23141,23141,391,KIRA,The Klingons must have sold us out...,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23142,23142,23142,23142,392,TAHNA,Prepare to engage warp engines.,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23143,23143,23143,23143,393,KIRA,"There's nowhere to run, Tahna...",77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23144,23144,23144,23144,394,TAHNA,We don't have to go far.,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23145,23145,23145,23145,395,TAHNA,"I should have know... (grabs her, pushes her to her chair) Set the course for DS Nine.",77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23146,23146,23146,23146,396,KIRA,No.,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23147,23147,23147,23147,397,TAHNA,"If you don't, I'll explode the bomb right here and destroy all six colonies on Bajor Eight.",77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23148,23148,23148,23148,398,KIRA,You would kill thousands of your own people for this?,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23149,23149,23149,23149,399,TAHNA,The question is whether you would kill them by refusing to set the course...,77   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23150,23150,23150,23150,400,O'BRIEN,They've gone to warp...,78   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23151,23151,23151,23151,401,SISKO,Follow them.,78   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23152,23152,23152,23152,402,SISKO,"Ganges to Yangtzee Kiang. Drop out of warp, or we will open fire...",78   INT. RUNABOUT GANGES,RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23153,23153,23153,23153,403,SISKO,Repeat. We will open fire.,79   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23154,23154,23154,23154,404,TAHNA,I doubt that he'll shoot with his Major on board. But just in case...,79   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23155,23155,23155,23155,405,TAHNA,This is the voice of the Kohn-Ma... there is an armed bilitrium explosive device on board this ship...,79   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23156,23156,23156,23156,406,TAHNA,Fire on us and you will detonate it.,80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23157,23157,23157,23157,407,O'BRIEN,"If that device goes off while they're at warp, they'll spread radiation across half the system.",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23158,23158,23158,23158,408,SISKO,He's headed straight back for the station.,80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23159,23159,23159,23159,409,GUL DANAR,"So we're finally allies, Commander.",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23160,23160,23160,23160,410,SISKO,"Gul Danar, the Federation Runabout Yangtzee Kiang is carrying an explosive bilitrium device. Can you intercept before it reaches the space station?",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23161,23161,23161,23161,411,SISKO ,We believe they intend to set it off at the mouth of the wormhole... will you be able to ready them before they get here?,80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23162,23162,23162,23162,412,GUL DANAR,"Our time to intercept is two minutes, fourteen seconds...",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23163,23163,23163,23163,413,O'BRIEN,"That's about a minute too late, Commander...",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23164,23164,23164,23164,414,GUL DANAR,"If I may, Commander, take this opportunity to say that I warned you...",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23165,23165,23165,23165,415,SISKO,"Ready photons, Chief. We'll fire as soon as they slow to impulse... at least that'll diminish the spread of bilitrium radiation throughout the area...",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23166,23166,23166,23166,416,O'BRIEN,"Aye, sir.",80   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23167,23167,23167,23167,417,KIRA,One hundred thousand kilometers to the wormhole...,81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23168,23168,23168,23168,418,TAHNA,Slow to impulse... take us within fifty meters of the mouth...,81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23169,23169,23169,23169,419,KIRA,"You're only hurting Bajor by doing this, Tahna...",81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23170,23170,23170,23170,420,TAHNA,"No one's going to be hurt, Kira. Adjust your course to take a vectored approach past the mouth of the wormhole.",81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23171,23171,23171,23171,421,KIRA,... The wormhole... it's not the space station you're after... you can't possibly believe you can destroy the wormhole with that device...,81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23172,23172,23172,23172,422,TAHNA,I don't have to destroy the wormhole... I just have to collapse the entrance,81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23173,23173,23173,23173,423,KIRA,"You're only hurting Bajor by doing this, Tahna...",81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23174,23174,23174,23174,424,TAHNA,"No more wormhole. No more Federation. Or Cardassians. Or anyone else. (noticing the monitors, reacts) Drop out of warp.",81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23175,23175,23175,23175,425,TAHNA,Now!,81   INT. RUNABOUT YANGTZEE KIANG (OPTICAL),RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23176,23176,23176,23176,426,O'BRIEN,"My God, they're going into the wormhole. At full impulse.",83   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23177,23177,23177,23177,427,KIANG ,The wormhole opens again... as Runabout Ganges arrives into this quadrant.,89A	EXT. SPACE - REVERSE ANGLE - PAST THE YANGTZEE,SPAC,EXT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23178,23178,23178,23178,428,TAHNA,No! (turning the phaser back on Kira) Damn you!,90   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23179,23179,23179,23179,429,SISKO,"Sisko to Kira... are you all right, Major...",90   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23180,23180,23180,23180,430,TAHNA,"No, she's not all right, Commander. And if you want her alive... you'll do exactly as I say...",90   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23181,23181,23181,23181,431,SISKO,"Listen carefully, Tahna. You can either surrender now, to me...",91   INT. RUNABOUT GANGES (OPTICAL),RUNABOUT GANGES,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23182,23182,23182,23182,432,SISKO,... Or you can wait here for the Cardassian warship and I'll let them deal with you this time. Your choice.,92   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23183,23183,23183,23183,433,KIRA,"There'll be no further resistance, Commander.",92   INT. RUNABOUT YANGTZEE KIANG,RUNABOUT YANGTZEE KIANG,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23184,23184,23184,23184,434,KIRA,Tahna...,95   INT. AIRLOCK,AIRLOCK,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23185,23185,23185,23185,435,KIRA,The old ways don't work anymore. Everything is different now. I had to do this... for Bajor... I hope you'll understand some day.,95   INT. AIRLOCK,AIRLOCK,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23186,23186,23186,23186,436,TAHNA,Traitor.,95   INT. AIRLOCK,AIRLOCK,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23187,23187,23187,23187,437,SISKO,Major...,95   INT. AIRLOCK,AIRLOCK,INT.,Past Prologue,1992-10-05,Deep Space Nine,404.txt,0.0
+23188,23188,23188,23188,0,JAKE,Dress uniform?,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23189,23189,23189,23189,1,SISKO,I haven't worn this in almost three years... I must've lost some weight... it feels... kinda baggy...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23190,23190,23190,23190,2,JAKE,"Naw, it looks great... besides baggy clothes are very fashionable on Bajor right now... Lemonade.",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23191,23191,23191,23191,3,SISKO,Since when are you interested in Bajoran fashions...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23192,23192,23192,23192,4,JAKE,"You know, Dad, a lot of Bajoran girls come up to the station with their families...",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23193,23193,23193,23193,5,SISKO,Since when are you interested in Bajoran girls... ?,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23194,23194,23194,23194,6,JAKE,Dad...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23195,23195,23195,23195,7,SISKO,Wasn't it a few weeks ago that you were playing with model starships?,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23196,23196,23196,23196,8,JAKE,Try a few years ago...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23197,23197,23197,23197,9,SISKO,"You and I have to have a talk, young man... about women.",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23198,23198,23198,23198,10,JAKE,"No, that's okay...",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23199,23199,23199,23199,11,SISKO,I mean it. There are a few things you've got to know...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23200,23200,23200,23200,12,JAKE,"I already know them, Dad...",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23201,23201,23201,23201,13,SISKO,Oh yeah? And who told you... ?,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23202,23202,23202,23202,14,JAKE,Nog...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23203,23203,23203,23203,15,SISKO,"(reacts, worst possible answer) Nog. So all you know about women you heard from the Ferengi boy...",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23204,23204,23204,23204,16,JAKE,We were just talking...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23205,23205,23205,23205,17,SISKO,"Swell. Listen, I don't have time now. But I obviously have a lot of damage control to do with you on this subject. Let's set aside some time tomorrow...",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23206,23206,23206,23206,18,JAKE,Fine.,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23207,23207,23207,23207,19,SISKO,Morning. First thing.,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23208,23208,23208,23208,20,JAKE,Fine. What's going on anyway?,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23209,23209,23209,23209,21,SISKO,A Vulcan ship made contact with a new species called the Wadi in the Gamma Quadrant three weeks ago. We're expecting a delegation from their planet...,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23210,23210,23210,23210,22,JAKE,"Rolling out the red carpet, huh... ?",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23211,23211,23211,23211,23,SISKO,"First contact is our most important mission, Jake. It has to be handled delicately... (searching a little too hard for relevance) ... you might say it's sorta like a first date with a new girl... you want to show a certain respect for...",2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23212,23212,23212,23212,24,KIRA,Ops to Sisko --,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23213,23213,23213,23213,25,SISKO,Go ahead.,2    INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23214,23214,23214,23214,26,KIRA,The Wadi ship has just come through the wormhole. We're sending them to docking bay four...,3    INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23215,23215,23215,23215,27,SISKO,I'll meet you all there. Sisko out. Tomorrow morning.,3    INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23216,23216,23216,23216,28,BASHIR,I'm positive I packed my dress uniform... I can't understand it...,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23217,23217,23217,23217,29,DAX,"You look fine, Julian. Relax.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23218,23218,23218,23218,30,BASHIR,I suppose they are aliens... they won't know our protocol...,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23219,23219,23219,23219,31,KIRA,It'll be fine.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23220,23220,23220,23220,32,SISKO ,"Where's your uniform, Doctor?",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23221,23221,23221,23221,33,BASHIR,"I can't seem to find it, sir... I'm certain that I packed...",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23222,23222,23222,23222,34,SISKO,"Now, listen to me. This is no... dress rehearsal, this is the real thing. Our first formal reception for a delegation from the Gamma Quadrant. And I want things to go right from this moment on. Clear? (they acknowledge silently) Let's do it.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23223,23223,23223,23223,35,BASHIR,I'll have the clothier Garak make me a new one by tonight...,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23224,23224,23224,23224,36,DAX,"I'm not sure it's appropriate to have a Cardassian tailor make your Starfleet uniform, Julian... maybe the replicator...",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23225,23225,23225,23225,37,FALOW,"I am Falow, Master Surchid of the Wadi.",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23226,23226,23226,23226,38,SISKO,"Welcome in the name of Bajor and the United Federation of Planets. I am Commander Benjamin Sisko. On behalf of the senior members of my staff... ... Major Kira, Lieutenant Dax and Doctor Bashir...",5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23227,23227,23227,23227,39,FALOW,Yes... yes... now where are the games?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23228,23228,23228,23228,40,SISKO,Games?,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23229,23229,23229,23229,41,FALOW,We were told you have games.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23230,23230,23230,23230,42,FALOW,Quark's. Take us to Quark's.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23231,23231,23231,23231,43,KIRA,Right this way.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23232,23232,23232,23232,44,SISKO,First contact isn't what it used to be.,5    INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23233,23233,23233,23233,45,QUARK,Do they have money?,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23234,23234,23234,23234,46,DAX,We don't know... we didn't ask...,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23235,23235,23235,23235,47,SISKO,And that's not the point...,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23236,23236,23236,23236,48,QUARK,"It may not be your point, but it's mine.",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23237,23237,23237,23237,49,SISKO,"Dammit, Quark, this is a new lifeform from the Gamma Quadrant... I expect you to treat them with...",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23238,23238,23238,23238,50,QUARK,"Commander, I am a host. A host is an ambassador of good will. The more good will I can generate, the longer they'll stay... the greater my profits. I think you and I are talking the same language here...",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23239,23239,23239,23239,51,SISKO,Not quite.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23240,23240,23240,23240,52,QUARK,Allow me to put your concerns to rest.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23241,23241,23241,23241,53,QUARK,"So, you fellows do a lot of gambling where you come from?",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23242,23242,23242,23242,54,FALOW,We like games.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23243,23243,23243,23243,55,QUARK,Doesn't everybody. Doesn't everybody. You know those virgin territories in the Gamma Quadrant are ripe for dabo franchising... you and I might want to talk about an investment opportunity... ... at some point.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23244,23244,23244,23244,56,QUARK,"So, have you figured out the essentials ofthe game yet?",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23245,23245,23245,23245,57,FALOW,I believe we have.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23246,23246,23246,23246,58,QUARK,"Well, give 'er a spin... one time on the house...",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23247,23247,23247,23247,59,QUARK,"Ah, two pinch showing... too bad. Well, nothing ventured, nothing gained, I always say... what would you care to wager?",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23248,23248,23248,23248,60,QUARK,"Ah, what a handsome container... there's an old Ferengi expression -- good things come in small packages...",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23249,23249,23249,23249,61,QUARK,Sticks?,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23250,23250,23250,23250,62,FALOW,Klon peags. Highly sought in our culture. They have many different uses.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23251,23251,23251,23251,63,QUARK,Ah. I'm sorry. I have enough sticks right now.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23252,23252,23252,23252,64,QUARK,It's bitter. What is it?,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23253,23253,23253,23253,65,FALOW,Alpha-currant nectar. Priceless.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23254,23254,23254,23254,66,QUARK,One man's priceless is another man's worthless.,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,-0.4404
+23255,23255,23255,23255,67,SISKO,"Quark... (Quark turns to the tight voice, through clenched teeth) Take the juice.",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23256,23256,23256,23256,68,QUARK,"Sorry, not interested.",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23257,23257,23257,23257,69,FALOW,"Then, we really have nothing to wager except this...",9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23258,23258,23258,23258,70,QUARK,Get these folks some drinks...,9    INT. QUARK'S ESTABLISHMENT - FULL ON SCENE,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23259,23259,23259,23259,71,WADI CROWD,"Aba, gada, gada, anomi, aba aba... Garundi... Aba... Aba...",16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23260,23260,23260,23260,72,SISKO,McCoullough...,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23261,23261,23261,23261,73,QUARK,McCoullough?,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23262,23262,23262,23262,74,SISKO,Captain McCoullough... that's the name I've been trying to remember for the last six hours...,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23263,23263,23263,23263,75,WADI CROWD,Aba! Aba aba aba... Garundi... Haloni... Yako... Kolada... Yako...,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23264,23264,23264,23264,76,QUARK,"Good Lord, they've won again...",16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23265,23265,23265,23265,77,SISKO,McCoullough's the one who wrote the revised First Contact procedures for Starfleet...,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23266,23266,23266,23266,78,QUARK,That right... ?,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23267,23267,23267,23267,79,SISKO,I wish McCoullough were here right now instead of me.,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23268,23268,23268,23268,80,FEMALE,Dabo!,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23269,23269,23269,23269,81,WADI CROWD,Aba! Aba... Aba... Garundi... Dabo... Garundi... Dabo...,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23270,23270,23270,23270,82,QUARK,"No, they couldn't have doubled again...",16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23271,23271,23271,23271,83,SISKO,"Well, with all due respect to the procedures and to McCoullough, I've had it. This is as far as duty calls me. Just keep 'em happy. If they ever get tired of dabo, let me know. Good night.",16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23272,23272,23272,23272,84,QUARK,What's good about it?,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23273,23273,23273,23273,85,QUARK,Getting ready to call it a night... ?,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23274,23274,23274,23274,86,FALOW,We've only just started.,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23275,23275,23275,23275,87,QUARK,The girl's arm must be getting tired... all that spinning...,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23276,23276,23276,23276,88,FALOW,Replace her.,16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23277,23277,23277,23277,89,QUARK,"Very well. Broik, take the wheel.",16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23278,23278,23278,23278,90,WADI CROWD,"(disappointment, ad lib) Notam... Aga... Leadju... Noada...",16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23279,23279,23279,23279,91,QUARK,"Ah, one pinch showing. An unfortunate reversal.",16   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23280,23280,23280,23280,92,SISKO,What are you still doing up?,19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23281,23281,23281,23281,93,JAKE,Nog and I were setting up a reactive ion impeller for school...,19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23282,23282,23282,23282,94,SISKO,"He's older than you, Jake... he stays up later, he probably does things... things with girls for instance... that you're not ready for...",19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23283,23283,23283,23283,95,JAKE,"Come on, we were working on a school project...",19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23284,23284,23284,23284,96,SISKO,You know what time you're supposed to be in bed... and we never had any problems with it... until Nog.,19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23285,23285,23285,23285,97,JAKE,"Dad, I'm fourteen.",19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23286,23286,23286,23286,98,SISKO,I'm glad we agree on something. Go to bed.,19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23287,23287,23287,23287,99,JAKE,Fine. So how'd it go?,19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23288,23288,23288,23288,100,SISKO,Great. Just great. I've done nothing for the past six hours but eat Ferengi lokar beans and watch people play childish games...,19   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23289,23289,23289,23289,101,WADI CROWD,"(hushed outrage, ad lib) Lakamba... Ferengi... Yurida... Tabola... Tabola...",20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23290,23290,23290,23290,102,QUARK,"Broik, you disreputable swindler. I've put up with your cheating for the last time.",20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23291,23291,23291,23291,103,FALOW,Sit.,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23292,23292,23292,23292,104,QUARK,Why don't we just call it even and no hard feelings. Or... or take another spin on the house... or two... or three... a free visit to a holosuite... do you know what a holosuite is... do you have sex on your world?,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23293,23293,23293,23293,105,QUARK,"Look, take it all back, all the gemstones and I'll throw in a case of Andolian brandy to make your trip home a little more enjoyable...",20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23294,23294,23294,23294,106,FALOW,You like our gemstones? You will have the opportunity to win more... a lot more.,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23295,23295,23295,23295,107,QUARK,I will?,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23296,23296,23296,23296,108,FALOW,In a new game. An honest game.,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23297,23297,23297,23297,109,QUARK,Very unusual. I don't think I know this game. What's it called?,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23298,23298,23298,23298,110,FALOW,Chula.,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23299,23299,23299,23299,111,QUARK,What are the rules?,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23300,23300,23300,23300,112,FALOW,These are your players. We'll start them on the second shap.,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23301,23301,23301,23301,113,WADI CROWD,Second shap... Aga... Aga... Aga... Latuno... Ferengi... Nadu... Nadu... Chula... Nadu... Chula...,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23302,23302,23302,23302,114,QUARK,Second shap? Can't we start at the beginning?,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23303,23303,23303,23303,115,FALOW,Only children enter at the first shap.,20   INT. QUARK'S ESTABLISHMENT - CLOSE ON A FERENGI HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23304,23304,23304,23304,116,SISKO,Sisko to Ops... Sisko to Security...,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23305,23305,23305,23305,117,SISKO,"Computer, freeze program. End program. Exit.",27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23306,23306,23306,23306,118,SISKO,You.,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23307,23307,23307,23307,119,FALOW,Shap two. Move along. Move along home.,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23308,23308,23308,23308,120,SISKO,What is this place? Where have you brought me?,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23309,23309,23309,23309,121,FALOW,Move along home.,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23310,23310,23310,23310,122,SISKO,Falow!,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23311,23311,23311,23311,123,BASHIR,HAAAAAAH...,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23312,23312,23312,23312,124,SISKO,Doctor!,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23313,23313,23313,23313,125,BASHIR,HAAAH... (stops short as he sees Sisko) Oh. Oh. Thank God. I thought. I was having. A nightmare. I couldn't. Wake up.,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23314,23314,23314,23314,126,KIRA,You too?,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23315,23315,23315,23315,127,DAX,What was all that yelling?,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23316,23316,23316,23316,128,BASHIR,Haven't you ever tried to wake yourself up from a bad dream?,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23317,23317,23317,23317,129,SISKO,This isn't a dream. We're guests of the Wadi.,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23318,23318,23318,23318,130,KIRA,What do they want?,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23319,23319,23319,23319,131,SISKO,"I don't know yet. I just had a strange run-in with Falow. He said something about ""Moving along home.""",27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23320,23320,23320,23320,132,DAX,Home... ?,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23321,23321,23321,23321,133,BASHIR,Perhaps we're being given some sort of behavioral test... like a laboratory rodent that has to work its way out of a maze...,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23322,23322,23322,23322,134,KIRA,Behavioral test... now wait a minute...,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23323,23323,23323,23323,135,DAX,"There doesn't seem to be an immediate threat, Major...",27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23324,23324,23324,23324,136,KIRA,I'm sure all you Starfleet explorers find this fascinating... but I'm a Bajoran administrator... this is not what I signed up for... (yelling out to the courtyard to no one in particular) I do not belong here.,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23325,23325,23325,23325,137,SISKO,"I don't find this fascinating either, Major. And I suggest we take Falow's advice and find our way home.",27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23326,23326,23326,23326,138,DAX,Are the combadges still working?,27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23327,23327,23327,23327,139,DAX,"As long as we can maintain contact, it should be reasonably safe to split up and see if any of us can find a way out of here.",27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23328,23328,23328,23328,140,SISKO,"Agreed. Use your tricorders for proximity checks every two minutes. And if all else fails, just yell again, Doctor... we'll find you.",27   INT. LABYRINTH - CONTINUOUS,LABYRINT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23329,23329,23329,23329,141,ODO,"Mister Sisko, how can I help you?",30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23330,23330,23330,23330,142,JAKE,Do you know where my Dad's gone ?,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23331,23331,23331,23331,143,ODO,You can't find him?,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23332,23332,23332,23332,144,JAKE,"Last night, he was making a big deal about us having a talk this morning. But when I woke up he was gone.",30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23333,23333,23333,23333,145,ODO,Did you check his office?,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23334,23334,23334,23334,146,JAKE,The computer says he's not on the station.,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23335,23335,23335,23335,147,ODO,(trying to be reassuring) Why don't you go on to school while I track him down.,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23336,23336,23336,23336,148,JAKE,School's closed while Mrs. O'Brien's back on earth... Nog and I were going over to Airlock Three and watch the Bajoran transport passengers come on board...,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23337,23337,23337,23337,149,ODO,"You mean, to look at the girls.",30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23338,23338,23338,23338,150,JAKE,No... we were just...,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23339,23339,23339,23339,151,ODO,"Go on. When I find out where your father went, I'll let you know.",30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23340,23340,23340,23340,152,JAKE,"Thanks, Odo.",30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23341,23341,23341,23341,153,ODO,"Computer, confirm Commander Sisko is not on the station.",30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23342,23342,23342,23342,154,COMPUTER,Confirmed.,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23343,23343,23343,23343,155,ODO,What time did he log out?,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23344,23344,23344,23344,156,COMPUTER,That information is not on file.,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23345,23345,23345,23345,157,ODO,What ship did he leave on?,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23346,23346,23346,23346,158,COMPUTER,That information is not on file.,30   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23347,23347,23347,23347,159,PRIMMIN,(stretching out the name) Con-sta-ble... O... Doh. Good morning to you.,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23348,23348,23348,23348,160,ODO,Where's Major Kira?,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23349,23349,23349,23349,161,PRIMMIN,Didn't report for duty on time this morning... none of the senior officers did...,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23350,23350,23350,23350,162,ODO,And you don't find that odd?,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23351,23351,23351,23351,163,PRIMMIN,"Well, I heard that Wadi party went on all night...",31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23352,23352,23352,23352,164,ODO,"How long have you been a security officer, Lieutenant?",31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23353,23353,23353,23353,165,PRIMMIN,Six years. Why?,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23354,23354,23354,23354,166,ODO,Lost many Commanders?,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23355,23355,23355,23355,167,PRIMMIN,Lost?,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23356,23356,23356,23356,168,ODO,"Because you've lost one now. (Primmin stands, shocked) Sisko's off the station. Missing. (indicating the round table) All of the senior officers may be missing.",31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23357,23357,23357,23357,169,ODO,"I want a sweep of this station... and if the others are missing too, I want to know the last time anybody saw them... I'm going to contact all ships that have departed since last night... understood... ?",31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23358,23358,23358,23358,170,PRIMMIN,"Yes, Constable.",31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23359,23359,23359,23359,171,ODO,And don't call me Constable! I'm Chief of Security.,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23360,23360,23360,23360,172,PRIMMIN,Yes... sir.,31   INT. OPS,OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23361,23361,23361,23361,173,WADI CROWD,Latuno... Aga... Belada... Lapra... Delado... Delado... Delado... Ferengi delado...,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23362,23362,23362,23362,174,FALOW,Last wagers. The board is ready.,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23363,23363,23363,23363,175,QUARK,It is?,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23364,23364,23364,23364,176,FALOW,How much do you wish to risk on the second shap?,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23365,23365,23365,23365,177,QUARK,Uh... is there a minimum bet?,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23366,23366,23366,23366,178,WADI CROWD,Ferengi Latuno... Aga... Aga... Latuno...,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23367,23367,23367,23367,179,FALOW,Roll.,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23368,23368,23368,23368,180,QUARK,Roll! Roll? But you haven't even told me the rules yet!,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23369,23369,23369,23369,181,FALOW,You are required to learn them as you play. Roll.,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23370,23370,23370,23370,182,FALOW,Chula!,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23371,23371,23371,23371,183,WADI CROWD,Chula... Chula... Chula... Aga... Aga... Chandra... Aga... Chandra...,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23372,23372,23372,23372,184,QUARK,Did I win?,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23373,23373,23373,23373,185,FALOW,Hardly. Your pieces will meet the Chandra.,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23374,23374,23374,23374,186,QUARK,The Chandra? What does that mean? Is it good or bad?,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23375,23375,23375,23375,187,FALOW,Neither. Both.,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23376,23376,23376,23376,188,QUARK,I don't understand.,32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23377,23377,23377,23377,189,FALOW,"Ah, but there is the key. Some will never understand... others will consider it mere... ... child's play.",32   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23378,23378,23378,23378,190,CHANDRA ,Allamaraine count to four. Allamaraine then three more. Allamaraine if you can see. Allamaraine you'll come with me.,33   INT. LABYRINTH CORRIDOR,LABYRINTH CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23379,23379,23379,23379,191,SISKO,This is Sisko... I've found something...,33   INT. LABYRINTH CORRIDOR,LABYRINTH CORRIDOR,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23380,23380,23380,23380,192,CHANDRA,Allamaraine count to four. Allamaraine then three more. Allamaraine if you can see. Allamaraine you'll come with me.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23381,23381,23381,23381,193,DAX,Hello.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23382,23382,23382,23382,194,DAX,Can you tell us where we are? (the girl continues to ignore her) Is there a way to leave?,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23383,23383,23383,23383,195,BASHIR,Do you think we're supposed to do something?,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23384,23384,23384,23384,196,KIRA,This is the first door that's opened for us... I want to know where it goes...,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23385,23385,23385,23385,197,BASHIR,Are you all right?,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23386,23386,23386,23386,198,KIRA,I'll be okay...,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23387,23387,23387,23387,199,DAX,Some kind of ionic field...,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23388,23388,23388,23388,200,SISKO,She's going right through it.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23389,23389,23389,23389,201,BASHIR,The panels on the floor... she steps on certain panels and that must allow her to get through the field...,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23390,23390,23390,23390,202,DAX,"""If you can see, you'll come with me... """,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23391,23391,23391,23391,203,BASHIR,"Here, watch...",34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23392,23392,23392,23392,204,CHANDRA,Allamaraine count to four. Allamaraine then three more. Allamaraine if you can see. Allamaraine you'll come with me.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23393,23393,23393,23393,205,BASHIR,But I did everything she did.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23394,23394,23394,23394,206,DAX,"No, Julian, you didn't.",34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23395,23395,23395,23395,207,BASHIR,I followed her footsteps exactly.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23396,23396,23396,23396,208,DAX,But you didn't say the rhyme.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23397,23397,23397,23397,209,CHANDRA & DAX,Allamaraine count to four. Allamaraine then three more. Allamaraine if you can see. Allamaraine you'll come with me.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23398,23398,23398,23398,210,DAX,Come on! Just say the rhyme.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23399,23399,23399,23399,211,"SISKO, BASHIR, KIRA",Allamaraine count to four. Allamaraine then three more. Allamaraine if you can see. Allamaraine you'll come with me.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23400,23400,23400,23400,212,CHANDRA,Third shap.,34   INT. SMALL CHAMBER,SMALL CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23401,23401,23401,23401,213,FALOW,Allamaraine!,36   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23402,23402,23402,23402,214,WADI CROWD,Allamaraine... Third shap... Ferengi lagunda... Aga... Aga... Ferengi Lagunda... Aga... Third shap...,36   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23403,23403,23403,23403,215,QUARK,I think I'm getting the hang of this.,36   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23404,23404,23404,23404,216,FALOW,Choose their path.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23405,23405,23405,23405,217,QUARK,Path?,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23406,23406,23406,23406,218,FALOW,Short or long.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23407,23407,23407,23407,219,QUARK,What's the difference?,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23408,23408,23408,23408,220,FALOW,The short path will double the peril to your four players but it will also double your winnings.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23409,23409,23409,23409,221,QUARK,Double my winnings? Well in that case...,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23410,23410,23410,23410,222,FALOW,Choose carefully. If none of your players get home you lose everything you've won.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23411,23411,23411,23411,223,QUARK,Hmmm... I see why you find this game so interesting.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23412,23412,23412,23412,224,FALOW,Do you?,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23413,23413,23413,23413,225,QUARK,"Say, you know I might have room for another gaming table or two on the second floor... perhaps we could negotiate a licensing agree--",38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23414,23414,23414,23414,226,ODO,Quark...,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23415,23415,23415,23415,227,QUARK,I'm busy...,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23416,23416,23416,23416,228,ODO,Yes. I can see. When was the last time you saw Sisko?,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23417,23417,23417,23417,229,QUARK,Last night when he went home to bed.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23418,23418,23418,23418,230,ODO,Did he say anything to you... about,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23419,23419,23419,23419,231,QUARK,Not a thing...,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23420,23420,23420,23420,232,FALOW,Choose their path.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23421,23421,23421,23421,233,QUARK,"Yes. Really, Odo... you'll have to...",38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23422,23422,23422,23422,234,ODO,"He's missing... and so are Kira, Dax and Bashir... four officers have just disappeared... you're sure you have no idea...",38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23423,23423,23423,23423,235,QUARK,"Why would I know anything about... Four? Did you say... ""four"" officers are missing?",38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23424,23424,23424,23424,236,ODO,Yes.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23425,23425,23425,23425,237,FALOW ,Double their peril. Double your winnings.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23426,23426,23426,23426,238,FALOW,Bet or leave.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23427,23427,23427,23427,239,QUARK,"Odo, how about taking my place?",38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23428,23428,23428,23428,240,FALOW,Choose their path.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23429,23429,23429,23429,241,QUARK,I'll... take the safer path.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23430,23430,23430,23430,242,FALOW,Roll.,38   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23431,23431,23431,23431,243,KIRA,Rhymes and riddles and mazes... what's the logic behind all this... what do they want from us...,43   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23432,23432,23432,23432,244,BASHIR,"""Move along home""... that's what the man told the Commander...",43   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23433,23433,23433,23433,245,DAX,A game... Home is often the destination... in a game.,43   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23434,23434,23434,23434,246,KIRA,The Wadi do love games...,43   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23435,23435,23435,23435,247,DAX,"Think of it... we've been given directions, clues, obstacles to overcome...",43   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23436,23436,23436,23436,248,SISKO,Pawns.,43   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23437,23437,23437,23437,249,WADI PARTYGOERS,Abami... Yugada... Tri... Tri... Tri... Unoddi... Ha... Ha... Ha... Unoddi... Yugada... Abami...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23438,23438,23438,23438,250,KIRA,Excuse me... excuse me...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23439,23439,23439,23439,251,KIRA,This has gone far enough.,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23440,23440,23440,23440,252,KIRA,Will somebody please tell me what is going on around here... why are you doing this to us?,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23441,23441,23441,23441,253,KIRA,What's wrong with you people?,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23442,23442,23442,23442,254,BASHIR,"Madame, this is no laughing matter.",45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23443,23443,23443,23443,255,BASHIR,What is it...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23444,23444,23444,23444,256,SISKO,Don't drink or eat anything...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23445,23445,23445,23445,257,BASHIR,Maybe this is the Wadi's way of providing nourishment...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23446,23446,23446,23446,258,SISKO,Or maybe it's drugged... or poisoned...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23447,23447,23447,23447,259,SISKO,Falow...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23448,23448,23448,23448,260,SISKO,We're not playing any more.,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23449,23449,23449,23449,261,FALOW,Move along. Move along home.,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23450,23450,23450,23450,262,SISKO,You brought us here. You take us home...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23451,23451,23451,23451,263,WADI PARTYGOERS,Gadi... Gadi... Menengu... Bala... Bala... Gadi... Gadi... Menengu... Gadi...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23452,23452,23452,23452,264,DAX,The smoke...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23453,23453,23453,23453,265,BASHIR,Not... bothering them...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23454,23454,23454,23454,266,KIRA,You're hurting us... can't you see that...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23455,23455,23455,23455,267,BASHIR,Drink... it's an antidote...,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23456,23456,23456,23456,268,KIRA,How did you know?,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23457,23457,23457,23457,269,BASHIR,Scientific method. I took a guess. It didn't seem like I had much to lose.,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23458,23458,23458,23458,270,FALOW,Shap four.,45   INT. CHAMBER,CHAMBER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23459,23459,23459,23459,271,FALOW,Allamaraine.,57   INT. QUARK'S ESTABLISHMENT - ON THE GAME BOARD,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23460,23460,23460,23460,272,ODO,Wouldn't your scans pick up human life signs on their ship?,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23461,23461,23461,23461,273,PRIMMIN,Usually... but we've never run into Wadi technology before...,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23462,23462,23462,23462,274,ODO,(reacts to something he sees) Isolate that energy flux on their second deck...,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23463,23463,23463,23463,275,PRIMMIN,Some kind of intense bi-polar current...,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23464,23464,23464,23464,276,ODO,What would cause something like that?,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23465,23465,23465,23465,277,PRIMMIN,Got me. Only thing we've got that would put out that type of current would be a Transporter... but a Transporter burst would only last for a few seconds...,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23466,23466,23466,23466,278,ODO,I think we better go take a look...,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23467,23467,23467,23467,279,PRIMMIN,"Now, hold on, Odo... you can't just go storming onto their ship without their permission...",59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23468,23468,23468,23468,280,ODO,"Oh, is that Starfleet policy?",59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23469,23469,23469,23469,281,PRIMMIN,That's right.,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23470,23470,23470,23470,282,ODO,"Well, I'm not in Starfleet.",59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23471,23471,23471,23471,283,ODO,Set the coordinates to midway down the second deck corridor...,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23472,23472,23472,23472,284,ODO,Is it against Starfleet rules to press a few buttons?,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23473,23473,23473,23473,285,PRIMMIN,Energizing.,59   INT. OPS (OPTICAL),OPS,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23474,23474,23474,23474,286,FALOW,Choose their path.,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23475,23475,23475,23475,287,FALOW,Stop the game. Lose your players.,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23476,23476,23476,23476,288,QUARK,"Odo, just stay out of this.",61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23477,23477,23477,23477,289,ODO,Quark..,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23478,23478,23478,23478,290,QUARK,I'm doing fine. They're doing fine.,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23479,23479,23479,23479,291,FALOW,Choose their path. Double their peril. Double your winnings.,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23480,23480,23480,23480,292,ODO,Quark!,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23481,23481,23481,23481,293,QUARK,Fine. Fine. The safer path.,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23482,23482,23482,23482,294,FALOW,Roll.,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23483,23483,23483,23483,295,FALOW,An unfortunate roll.,61   INT. QUARK'S ESTABLISHMENT - ECU ON ODO,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23484,23484,23484,23484,296,BASHIR,Isn't it a matter of simply figuring out how to win this game...,63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23485,23485,23485,23485,297,KIRA,"""Simply""...",63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23486,23486,23486,23486,298,DAX,I'm not sure we have any other choice...,63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23487,23487,23487,23487,299,BASHIR,"Seriously, we've gone from the second shap to the third shap to the fourth shap already...",63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23488,23488,23488,23488,300,KIRA,What's a shap?,63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23489,23489,23489,23489,301,BASHIR,"I have no idea... but we do seem to be making progress, whatever they are...",63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23490,23490,23490,23490,302,KIRA,"We're playing for our lives, Doctor... and I don't think you're taking this very seriously...",63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23491,23491,23491,23491,303,BASHIR,"Quite the contrary, Major, I find the stakes to be highly motivating...",63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23492,23492,23492,23492,304,DAX,I'm reading high magnetic field variations... intense flux patterns...,63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23493,23493,23493,23493,305,DAX,It's coming toward us...,63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23494,23494,23494,23494,306,SISKO,Find cover if you can...,63   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23495,23495,23495,23495,307,BASHIR,Help meeee...,65   INT. QUARK'S ESTABLISHMENT - CLOSE ON FALOW,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23496,23496,23496,23496,308,SISKO,FALOW... !,65   INT. QUARK'S ESTABLISHMENT - CLOSE ON FALOW,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23497,23497,23497,23497,309,FALOW,Next move.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23498,23498,23498,23498,310,ODO,What happened to that one? Why is it there?,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23499,23499,23499,23499,311,FALOW,Next move. Choose their path.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23500,23500,23500,23500,312,ODO,Listen to me... I want that player back.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23501,23501,23501,23501,313,FALOW,"If you would care to play the game when he's done, it can be arranged. Choose their path. Double their peril. Double your winnings.",71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23502,23502,23502,23502,314,QUARK,Give me the shortcut.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23503,23503,23503,23503,315,ODO,The shortcut...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23504,23504,23504,23504,316,QUARK,It's the right thing to do...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23505,23505,23505,23505,317,ODO,Are you crazy...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23506,23506,23506,23506,318,FALOW,Double the stakes...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23507,23507,23507,23507,319,ODO,Wait...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23508,23508,23508,23508,320,QUARK,"I know what I'm doing... I've spent my life figuring the odds of all sorts of games... now, I'm just learning this one, that's true but I know this is the right move...",71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23509,23509,23509,23509,321,ODO,The right move to make you rich...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23510,23510,23510,23510,322,QUARK,"More than that... look at the board... the shortcut skips a whole level... I've learned there's a risk with every roll of the dice... this way, they can advance all the way home with just one roll...",71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23511,23511,23511,23511,323,QUARK,Trust a gambler.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23512,23512,23512,23512,324,FALOW,Roll.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23513,23513,23513,23513,325,ODO,What... ?,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23514,23514,23514,23514,326,QUARK,Blow on them...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23515,23515,23515,23515,327,ODO,Would you please just...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23516,23516,23516,23516,328,QUARK,Blow on them.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23517,23517,23517,23517,329,FALOW,Thialo.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23518,23518,23518,23518,330,WADI CROWD,Thialo... aga... aga... allamaraine... nolo... Ferengi nolo... thialo...,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23519,23519,23519,23519,331,QUARK,What... what does it mean?,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23520,23520,23520,23520,332,FALOW,Sacrifice one so that two may live.,71   INT. QUARK'S ESTABLISHMENT - ON FALOW'S HAND,QUARK'S ESTABLISHMEN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23521,23521,23521,23521,333,ODO,You can't ask him to do that...,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23522,23522,23522,23522,334,FALOW,"If you do not sacrifice one, all three will be lost...",72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23523,23523,23523,23523,335,QUARK,I can't... please...,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23524,23524,23524,23524,336,FALOW,Which player?,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23525,23525,23525,23525,337,QUARK,I don't even know which one is which...,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23526,23526,23526,23526,338,FALOW,Select one to be sacrificed or else this game is...,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23527,23527,23527,23527,339,QUARK,Fine. Fine. Fine. Fine.,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23528,23528,23528,23528,340,QUARK,I can't do it. I beg of you. A terrible mistake has been made. This is all a misunderstanding. Please.,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23529,23529,23529,23529,341,QUARK,I've learned my lesson. I will never cheat again. I will never cheat again. Please. Just don't make me do this. Anything but this. Please. Please. Please.,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23530,23530,23530,23530,342,FALOW,Very well.,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23531,23531,23531,23531,343,QUARK,I don't have to sacrifice one of them?,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23532,23532,23532,23532,344,FALOW,No. You don't. We will program the game to choose one at random...,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23533,23533,23533,23533,345,QUARK,But...,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23534,23534,23534,23534,346,FALOW,Final wagers. Last move.,72   INT. QUARK'S - GAMING TABLE,QUARK',INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23535,23535,23535,23535,347,KIRA,We should have eaten something at the party when we had the chance...,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23536,23536,23536,23536,348,BASHIR,Commander Sisko...,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23537,23537,23537,23537,349,SISKO,Doctor... ?,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23538,23538,23538,23538,350,BASHIR,Over here. Hurry.,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23539,23539,23539,23539,351,KIRA,Where's it coming from?,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23540,23540,23540,23540,352,SISKO,Spread out.,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23541,23541,23541,23541,353,BASHIR,I can see it! I've found the way home!,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23542,23542,23542,23542,354,DAX,Here! An open door...,73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23543,23543,23543,23543,355,BASHIR,"Come on, Dax...",73   INT. LABYRINTH,LABYRINTH,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23544,23544,23544,23544,356,BASHIR,Hurry up... !,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23545,23545,23545,23545,357,DAX,"Julian, are you all right?",75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23546,23546,23546,23546,358,SISKO,Dax!,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23547,23547,23547,23547,359,DAX,My leg...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23548,23548,23548,23548,360,KIRA,Don't move...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23549,23549,23549,23549,361,SISKO,Nothing's broken...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23550,23550,23550,23550,362,BASHIR ,What's taking you so long? We're almost out of here. Can't you see it?,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23551,23551,23551,23551,363,SISKO,"Doctor, we need some help, Dax is hurt...",75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23552,23552,23552,23552,364,FALOW,Thialo. Move along home. Shap Six.,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23553,23553,23553,23553,365,KIRA,I'm reading a tectonic shift of two ground masses... we're directly above a fault line... the cavern wall structure has been significantly weakened by the stress... it's not going to hold much longer...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23554,23554,23554,23554,366,SISKO,Try putting some weight on it...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23555,23555,23555,23555,367,SISKO,Come on... let's get out of here...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23556,23556,23556,23556,368,DAX,I'll never make it across...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23557,23557,23557,23557,369,SISKO,There's got to be a way around this...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23558,23558,23558,23558,370,DAX,"Benjamin, you and Kira can make that jump...",75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23559,23559,23559,23559,371,KIRA,We're not leaving you here...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23560,23560,23560,23560,372,DAX,This cavern's going to collapse and kill all of us if you don't get out now... Seven lives is more than enough for a Trill. You haven't even finished one.,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23561,23561,23561,23561,373,SISKO,"Now, how could I live out that life knowing I left you behind, old man...",75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23562,23562,23562,23562,374,DAX,Don't let sentiment get in the way of...,75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23563,23563,23563,23563,375,SISKO,"Yeah, I've heard that one somewhere...",75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23564,23564,23564,23564,376,DAX,"If you were hurt, I'd leave you behind.",75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23565,23565,23565,23565,377,SISKO,"Then I'm glad I'm not the one who's hurt. Major, you go across... Dax and I'll find a way around...",75   INT. CAVERN - CONTINUOUS,CAVER,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23566,23566,23566,23566,378,SISKO,"Major, I gave you a direct order.",80A  INT. CAVE - CONTINUOUS,CAV,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23567,23567,23567,23567,379,KIRA,Court-martial me.,80A  INT. CAVE - CONTINUOUS,CAV,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23568,23568,23568,23568,380,SISKO,I can't... you're not in Starfleet...,80A  INT. CAVE - CONTINUOUS,CAV,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23569,23569,23569,23569,381,DAX,"If I were your superior officer, I'd court-martial both of you...",80A  INT. CAVE - CONTINUOUS,CAV,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23570,23570,23570,23570,382,SISKO,Only a few meters more...,81   INT. CAVERN,CAVERN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23571,23571,23571,23571,383,SISKO,Hang on!,81   INT. CAVERN,CAVERN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23572,23572,23572,23572,384,DAX,Benjamin!,81   INT. CAVERN,CAVERN,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23573,23573,23573,23573,385,QUARK,"They made it! I won! I had full confidence in you, Commander... there was never a moments doubt that you would prevail in this outrageous...",91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23574,23574,23574,23574,386,FALOW,No. I'm afraid all your players were lost...,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23575,23575,23575,23575,387,KIRA,You mean we were never in any real danger?,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23576,23576,23576,23576,388,FALOW,It's only a game.,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23577,23577,23577,23577,389,FALOW,Time to move along home.,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23578,23578,23578,23578,390,SISKO,Not so fast. This may all have been a game to you... but we take first contact with a new species very seriously... and I don't appreciate...,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23579,23579,23579,23579,391,ODO,"Excuse me, Commander... before you blame them you might want to ask Quark just how all this started... ?",91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23580,23580,23580,23580,392,SISKO,Quark... ?,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23581,23581,23581,23581,393,QUARK,I wish I could explain it... they just had a run of bad luck and they blamed me for their losses and...,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23582,23582,23582,23582,394,ODO,That's not what you said when you were groveling on the floor...,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23583,23583,23583,23583,395,QUARK,"Oh, that's right, you were here for the groveling...",91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23584,23584,23584,23584,396,ODO,"You said something about cheating, didn't you?",91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23585,23585,23585,23585,397,SISKO,Cheating?,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23586,23586,23586,23586,398,QUARK,"I would have said anything to end the ordeal. It was too much for me to bear. You have no idea the pressure I was under, Commander...",91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23587,23587,23587,23587,399,BASHIR,You were under...,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23588,23588,23588,23588,400,FALOW,If you'll excuse us... perhaps someday... a rematch.,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23589,23589,23589,23589,401,QUARK,You know... This game could work here... it really could... excuse me...,91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23590,23590,23590,23590,402,QUARK,"Falow... Mister Falow... a word with you, sir...",91   INT. QUARK'S - THE GAME BOARD (OPTICAL),QUARK'S - THE GAME BOARD,INT.,Move Along Home,1992-12-07,Deep Space Nine,410.txt,0.0
+23591,23591,23591,23591,0,KIRA,Definitely Cardassian.,2    INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23592,23592,23592,23592,1,DAX,And in trouble. Its engines are completely disabled.,2    INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23593,23593,23593,23593,2,SISKO,Open a hailing frequency. This is Commander Sisko of Deep Space Nine. Do you need assistance?,2    INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23594,23594,23594,23594,3,DAX,They're not answering. Their life-support systems are operating on reserve power.,2    INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23595,23595,23595,23595,4,SISKO,Better lock on a tractor beam and pull them into Docking Bay Seven. Notify Chief O'Brien to meet me there.,2    INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23596,23596,23596,23596,5,SISKO,"I'm Benjamin Sisko, commander of Deep Space Nine. My chief of operations, Miles O'Brien. Do any of you need medical assistance?",4    INT. CARGO BAY SEVEN,CARGO BAY SEVEN,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23597,23597,23597,23597,6,NATIMA,"I think we're all in good shape, considering. I'm Professor Natima Lang. (indicates the other Cardassians) These are two of my students, Rekelen and Hogue.",4    INT. CARGO BAY SEVEN,CARGO BAY SEVEN,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23598,23598,23598,23598,7,O'BRIEN,What happened to your ship?,4    INT. CARGO BAY SEVEN,CARGO BAY SEVEN,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23599,23599,23599,23599,8,NATIMA,"We were caught in a meteor swarm. I'm a decent teacher, but I'm afraid I'm not much of a shuttle pilot. Do you think you'll be able to repair our ship?",4    INT. CARGO BAY SEVEN,CARGO BAY SEVEN,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23600,23600,23600,23600,9,O'BRIEN,I'll have to take a look. Excuse me.,4    INT. CARGO BAY SEVEN,CARGO BAY SEVEN,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23601,23601,23601,23601,10,NATIMA,We'd like to be on our way as soon as possible. We know having Cardassians on a Bajoran station may cause trouble. That's the last thing we want.,4    INT. CARGO BAY SEVEN,CARGO BAY SEVEN,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23602,23602,23602,23602,11,SISKO,"If anyone can fix your ship, it's Mister O'Brien. In the meantime, you're welcome to stay here. If you stick to the Promenade, I'm sure there won't be any trouble.",4    INT. CARGO BAY SEVEN,CARGO BAY SEVEN,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23603,23603,23603,23603,12,BASHIR,Are you saying you agree with General Yiri's decision to execute his brother?,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23604,23604,23604,23604,13,GARAK,Of course I agree. Yiri's brother was a traitor to the Trelonian government.,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23605,23605,23605,23605,14,BASHIR,But the evidence is all circumstantial.,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23606,23606,23606,23606,15,GARAK,"My dear Doctor... it all comes down to a question of loyalty. Yiri had to choose between protecting his brother or protecting the state. He chose the state... as would I, every time.",5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23607,23607,23607,23607,16,BASHIR,"I suppose that's one way of looking at it. Then again, ""Before you can be loyal to another, you must be loyal to yourself.""",5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23608,23608,23608,23608,17,GARAK,And who can we thank for those misguided words of wisdom? Sarek of Vulcan?,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23609,23609,23609,23609,18,BASHIR,"Actually, it was Julian Bashir of Earth. And it's not too bad considering I just made it up on the spot.",5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23610,23610,23610,23610,19,GARAK,"With sentiments like those, you wouldn't last five seconds on Cardassia.",5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23611,23611,23611,23611,20,BASHIR,Would you?,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23612,23612,23612,23612,21,GARAK,"Fishing again, Doctor?",5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23613,23613,23613,23613,22,BASHIR,"Well, assuming you're not a spy...",5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23614,23614,23614,23614,23,GARAK,Assuming.,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23615,23615,23615,23615,24,BASHIR,Then maybe you're an outcast?,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23616,23616,23616,23616,25,GARAK,Or maybe I'm an outcast spy?,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23617,23617,23617,23617,26,BASHIR,How could you be both?,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23618,23618,23618,23618,27,GARAK,I never said I was either.,5    INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23619,23619,23619,23619,28,ODO,I heard an interesting rumor.,5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23620,23620,23620,23620,29,QUARK,Only one? I started at least twelve.,5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23621,23621,23621,23621,30,ODO,Rumor has it you've managed to get your hands on a small cloaking device.,5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23622,23622,23622,23622,31,QUARK,And you believe everything you hear?,5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23623,23623,23623,23623,32,ODO,"When it's about you, yes. According to Bajoran law, such a device would be highly illegal.",5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23624,23624,23624,23624,33,QUARK,If I had one. Which I don't.,5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23625,23625,23625,23625,34,ODO,I didn't expect you to admit it. I'm simply serving notice: You try to sell it and I'll see to it that you spend the next fifty years digging trenches in a penal colony.,5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23626,23626,23626,23626,35,QUARK,"(winces at the prospect, but:) I told you... you have nothing to worry about, because...",5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23627,23627,23627,23627,36,QUARK,Excuse me.,5    INT. QUARK'S (MAIN FLOOR),QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23628,23628,23628,23628,37,QUARK,Natima?,7    INT. PROMENADE,PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23629,23629,23629,23629,38,NATIMA,Quark.,7    INT. PROMENADE,PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23630,23630,23630,23630,39,QUARK,I knew you'd come b...,7    INT. PROMENADE,PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23631,23631,23631,23631,40,NATIMA,I told you never to speak to me again.,7    INT. PROMENADE,PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23632,23632,23632,23632,41,ODO,Are you all right?,7    INT. PROMENADE,PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23633,23633,23633,23633,42,QUARK,All right? This is the happiest day of my life.,7    INT. PROMENADE,PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23634,23634,23634,23634,43,QUARK,"Natima, wait. At least let me buy you and your friends a drink. I could make you a Samarian Sunset.",9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23635,23635,23635,23635,44,NATIMA,I don't drink Samarian Sunsets anymore.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23636,23636,23636,23636,45,QUARK,Why not?,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23637,23637,23637,23637,46,NATIMA,Because they remind me of you.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23638,23638,23638,23638,47,HOGUE,Is this... Ferengi bothering you?,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23639,23639,23639,23639,48,QUARK,This Ferengi happens to be Natima's old and cherished friend. Who are you?,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23640,23640,23640,23640,49,NATIMA,These are my students.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23641,23641,23641,23641,50,QUARK,"Students. You don't say. You know, she always told me she wanted to teach one day. And now, you're doing it. Congratulations. It's so rare for someone to actually achieve their dreams.",9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23642,23642,23642,23642,51,REKELEN,Professor Lang isn't simply a teacher. She's our inspiration.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23643,23643,23643,23643,52,QUARK,Really? I'd love to sit in on one of your classes. What do you teach?,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23644,23644,23644,23644,53,HOGUE,Political Ethics.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23645,23645,23645,23645,54,REKELEN,Her teachings will change the future of Cardassia.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23646,23646,23646,23646,55,NATIMA,"That's enough, Rekelen.",9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23647,23647,23647,23647,56,QUARK,Not at all. I want to hear more.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23648,23648,23648,23648,57,QUARK,I always knew that Natima was destined for greatness.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23649,23649,23649,23649,58,NATIMA,Quark...,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23650,23650,23650,23650,59,QUARK,Just one drink. It'll be like old times.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23651,23651,23651,23651,60,NATIMA,It'll never be like old times.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23652,23652,23652,23652,61,QUARK,You're right. It'll be better.,9    INT. PROMENADE (CONTINUOUS),PROMENADE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23653,23653,23653,23653,62,QUARK,I'll be right back with refreshments.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23654,23654,23654,23654,63,ODO,Your hands are shaking.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23655,23655,23655,23655,64,ODO,"So how well does this woman know you? Just enough to dislike you, or well enough to really hate you.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23656,23656,23656,23656,65,QUARK,She used to work here at the station. She was a correspondent for the Cardassian information service. It was before your time.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23657,23657,23657,23657,66,ODO,So which is it... dislike or hate?,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23658,23658,23658,23658,67,QUARK,"It's none of your business, but if you have to know... I was the love of her life.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23659,23659,23659,23659,68,ODO,Must have been some life.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23660,23660,23660,23660,69,HOGUE,What about our drinks?,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23661,23661,23661,23661,70,QUARK,"If you want a drink, the bar's right over there.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23662,23662,23662,23662,71,QUARK,Your Samarian Sunset.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23663,23663,23663,23663,72,NATIMA,(there's no force behind her anger) I said I didn't drink these anymore.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23664,23664,23664,23664,73,QUARK,"Because they remind you of me. But since I'm here anyway, you may as well enjoy yourself. Besides, it's on the house.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23665,23665,23665,23665,74,QUARK,"You know, you're as beautiful as ever.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23666,23666,23666,23666,75,NATIMA,And you're as big a liar as ever.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23667,23667,23667,23667,76,QUARK,"You see... just like old times. I've missed you, Natima. And that's no lie.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23668,23668,23668,23668,77,NATIMA,(looking around the bar) You seem to have kept busy.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23669,23669,23669,23669,78,QUARK,"Oh, yes. I'm very successful. But as the two hundred and twenty-third Rule of Acquisition says...",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23670,23670,23670,23670,79,NATIMA,"Please. I haven't heard a Rule of Acquisition in seven years. And I don't want to hear one now. You never apologized, Quark. You never admitted you were wrong. I think that hurt more than anything.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23671,23671,23671,23671,80,QUARK,Would it really have made any difference?,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23672,23672,23672,23672,81,NATIMA,Maybe not. But it would've been nice if you'd tried.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23673,23673,23673,23673,82,QUARK,All right. I'm sorry. I was wrong.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23674,23674,23674,23674,83,NATIMA,It's too late.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23675,23675,23675,23675,84,QUARK,It's never too late. So how long are you going to be on the station?,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23676,23676,23676,23676,85,GARAK,Thank you for another enjoyable lunch. Doctor.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.6597
+23677,23677,23677,23677,86,NATIMA,I didn't think there'd be any Cardassians left on the station.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23678,23678,23678,23678,87,QUARK,He's the only one.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23679,23679,23679,23679,88,HOGUE,What do we do now?,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23680,23680,23680,23680,89,QUARK,Why? Is something wrong?,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23681,23681,23681,23681,90,NATIMA,"We have to leave... as soon as possible. Goodbye, Quark. Thanks for the drink.",10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23682,23682,23682,23682,91,QUARK,But you didn't touch it.,10   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23683,23683,23683,23683,92,SISKO,How are your repairs coming?,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23684,23684,23684,23684,93,O'BRIEN,The damage is more extensive than I thought. They were lucky to survive the attack.,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23685,23685,23685,23685,94,SISKO,The attack?,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23686,23686,23686,23686,95,O'BRIEN,They weren't in any meteor swarm. Their ship was hit by Cardassian disrupters.,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23687,23687,23687,23687,96,KIRA,That doesn't make sense. Why would Cardassians fire on other Cardassians?,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23688,23688,23688,23688,97,DAX,Maybe you should ask her.,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23689,23689,23689,23689,98,NATIMA,"I hate to be an imposition, Commander, but I need my ship.",16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23690,23690,23690,23690,99,SISKO,"That's not possible. Mister O'Brien is still working on it. Your ship sustained more damage than we originally thought, in fact...",16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23691,23691,23691,23691,100,NATIMA,"You suspect our ship was damaged by Cardassian weapons. You're right, of course.",16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23692,23692,23692,23692,101,HOGUE,Professor...,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23693,23693,23693,23693,102,NATIMA,"It's all right, Hogue. I should've told them the truth in the first place.",16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23694,23694,23694,23694,103,KIRA,Then why didn't you?,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23695,23695,23695,23695,104,NATIMA,Because Cardassians don't involve outsiders in their internal politics. Especially Bajorans.,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23696,23696,23696,23696,105,SISKO,Being shot at by your own people goes a little beyond politics.,16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23697,23697,23697,23697,106,NATIMA,"We take our politics very seriously. Commander, if I don't get my students to safety they're going to be killed. And if they die, the future of Cardassia may die with them.",16   INT. OPS,OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23698,23698,23698,23698,107,REKELEN,"To put it simply, not everyone inside the Cardassian Empire is satisfied with the way the Central Command governs.",17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23699,23699,23699,23699,108,SISKO,"Not everyone outside, either.",17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23700,23700,23700,23700,109,NATIMA,There are some who believe the future of Cardassia shouldn't remain in the hands of the military.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23701,23701,23701,23701,110,SISKO,And you're among them?,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23702,23702,23702,23702,111,HOGUE,"Yes, we are.",17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23703,23703,23703,23703,112,NATIMA,Rekelen and Hogue are two of the most important leaders of our movement.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23704,23704,23704,23704,113,SISKO,Which makes you fugitives.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23705,23705,23705,23705,114,HOGUE,The military's afraid to let us speak our minds.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23706,23706,23706,23706,115,NATIMA,"We only want a better future for all Cardassians. A future based on peace and non-violence. But if we achieve peace, true peace, both inside and outside our borders, the military will no longer be able to justify their control of the Empire.",17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.9408
+23707,23707,23707,23707,116,SISKO,Military governments are notoriously reluctant to give up power.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23708,23708,23708,23708,117,NATIMA,Ours is no exception.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23709,23709,23709,23709,118,REKELEN,They've already tried to kill us once... they're sure to try again.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23710,23710,23710,23710,119,NATIMA,Which is why I have to get them off this station... as soon as possible.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23711,23711,23711,23711,120,SISKO,I'll dispatch additional work crews to help repair your ship.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23712,23712,23712,23712,121,NATIMA,"The sooner the better, Commander.",17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23713,23713,23713,23713,122,HOGUE,We saw another Cardassian aboard the station... in the bar.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23714,23714,23714,23714,123,SISKO,Garak? He saw you?,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23715,23715,23715,23715,124,NATIMA,I'm certain of it.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23716,23716,23716,23716,125,SISKO,Then... we may have a problem. Mister Garak is a bit of a mystery to us. One of my officers is convinced he works for Cardassian Intelligence. For all I know he could be right.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23717,23717,23717,23717,126,REKELEN,Why don't you arrest him?,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23718,23718,23718,23718,127,SISKO,On what charge?,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23719,23719,23719,23719,128,REKELEN,You're the commander. You don't need a reason.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23720,23720,23720,23720,129,SISKO,That's not how we do things here.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23721,23721,23721,23721,130,NATIMA,Nor should it be.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23722,23722,23722,23722,131,SISKO,I'll assign you some guest quarters. You'll be safe there until your ship is ready.,17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23723,23723,23723,23723,132,NATIMA,"We appreciate your assistance, Commander.",17   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23724,23724,23724,23724,133,GARAK,"Mister Quark, this is a surprise. I don't believe you've ever been in my establishment before.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23725,23725,23725,23725,134,QUARK,"You usually don't frequent mine, either... though I did see you in there today.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23726,23726,23726,23726,135,GARAK,The Replimat was a little crowded. So what brings you here now?,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23727,23727,23727,23727,136,QUARK,"Oh, I just wanted to see what you're offering.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23728,23728,23728,23728,137,QUARK,What do you get for this?,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23729,23729,23729,23729,138,GARAK,Seventeen strips of latinum.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23730,23730,23730,23730,139,QUARK,"Tell you what, I'll give you twenty.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23731,23731,23731,23731,140,GARAK,Twenty? How uncharacteristically generous... for a Ferengi.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23732,23732,23732,23732,141,QUARK,Just one businessman trying to help out another. I figure we have to stick together.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23733,23733,23733,23733,142,GARAK,This is the latest style on my homeworld. Do you like it?,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23734,23734,23734,23734,143,QUARK,I'm no expert on Cardassian fashions. What do you think?,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23735,23735,23735,23735,144,GARAK,I don't know. It's been so long since I've had a Cardassian customer.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23736,23736,23736,23736,145,QUARK,Then you're in luck. There're some on the station right now.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23737,23737,23737,23737,146,GARAK,"Now that you mention it, I think your lady friend may find this style very appealing. You are old friends, aren't you?",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23738,23738,23738,23738,147,QUARK,"You're very perceptive, for a Cardassian.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23739,23739,23739,23739,148,GARAK,It would've been hard to miss the way you were looking at her.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23740,23740,23740,23740,149,QUARK,It would've been hard to miss the way you were looking at her.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23741,23741,23741,23741,150,GARAK,I always try to observe the fashions of visitors to the station.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23742,23742,23742,23742,151,GARAK,"Personally I find this style a bit too radical, but your friend seems the type who appreciates that sort of thing.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23743,23743,23743,23743,152,QUARK,"Different tastes for different people. Nothing wrong with that, is there?",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23744,23744,23744,23744,153,GARAK,"You'd be surprised how detrimental a poor choice of fashion can be. Take this dress. It may be all the rage now... but it could quickly become tiresome, an affront to the eyes. Certain people may even find it... objectionable. And then... Nothing but rags.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23745,23745,23745,23745,154,QUARK,I see.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23746,23746,23746,23746,155,GARAK,"Mister Quark, may I offer you some free advice?",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23747,23747,23747,23747,156,QUARK,As long as I'm under no obligation to follow it.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23748,23748,23748,23748,157,GARAK,I've been in this business a long time.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23749,23749,23749,23749,158,GARAK ,And I know there's nothing worse than following the wrong trend. Now you're a smart fellow. (glances at Quark's clothing) With your own inimitable style. Perhaps you should mention that to your lady friend. I'd hate to see her become... a victim of fashion.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23750,23750,23750,23750,159,QUARK,Would you like to explain that?,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23751,23751,23751,23751,160,GARAK,She's chosen to associate herself with some rather flamboyant companions. It would be a tragedy if she got in the way when her friends... went out of style.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23752,23752,23752,23752,161,QUARK,"(no longer dancing around) If anyone tries to hurt her, they're going to have to deal with me.",18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23753,23753,23753,23753,162,GARAK,What're you going to do? Shortchange them at the dabo table?,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23754,23754,23754,23754,163,QUARK,I think I'll buy this dress after all. See that it's mended.,18   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23755,23755,23755,23755,164,REKELEN,"Professor, we have to do something.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23756,23756,23756,23756,165,NATIMA,"If you want to do something constructive, stop pacing... the both of you.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23757,23757,23757,23757,166,HOGUE,We can't just sit here while everything we've worked for is slipping away.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23758,23758,23758,23758,167,NATIMA,Have faith. Your work is just beginning.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23759,23759,23759,23759,168,REKELEN,How can you say that? The movement is in shambles... we're fleeing for our lives... the military's hold is stronger than ever. Things are no better than when we started.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23760,23760,23760,23760,169,NATIMA,That's not true. Look at all you've accomplished. Five years ago there was no hope for progress. The military's rule wasn't even questioned. That's all changed now.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23761,23761,23761,23761,170,HOGUE,We could never have done it without your support.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23762,23762,23762,23762,171,NATIMA,"What we've started can't be undone. Don't you see, they can kill me... they can kill you, but they can't kill our ideas... our hope for a better Cardassia.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23763,23763,23763,23763,172,HOGUE,"(worried, but putting up a good front) You're right, Professor.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23764,23764,23764,23764,173,NATIMA,"Don't worry, Hogue. I have no intention of letting you become martyrs. I'll get you out of this somehow. (venting her own frustration) If we could only get to Sadera Six and join up with the others...",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23765,23765,23765,23765,174,COM,"(Quark's voice, disguised) Lieutenant Smith to Professor Lang. Commander Sisko is on his way to your quarters. He'd like to speak to you in private.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23766,23766,23766,23766,175,NATIMA,Thank you. I'll be waiting. Why don't you two go see if Chief O'Brien's made any progress with our ship?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23767,23767,23767,23767,176,NATIMA,Enter.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23768,23768,23768,23768,177,NATIMA,Quark. I can't talk now. I'm expecting Commander Sisko.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23769,23769,23769,23769,178,QUARK,He's not coming.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23770,23770,23770,23770,179,NATIMA,What do you mean he's not coming?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23771,23771,23771,23771,180,QUARK,Trust me.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23772,23772,23772,23772,181,NATIMA,Lieutenant Smith?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23773,23773,23773,23773,182,QUARK,At your service.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23774,23774,23774,23774,183,NATIMA,You haven't changed a bit.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23775,23775,23775,23775,184,QUARK,"You're wrong, Natima. I haven't been the same since you left.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23776,23776,23776,23776,185,NATIMA,What is it you want from me?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23777,23777,23777,23777,186,QUARK,I know you're in trouble. I want to help you.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23778,23778,23778,23778,187,NATIMA,I don't want your help.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23779,23779,23779,23779,188,QUARK,"But I owe you. You saved my life. If you had turned me over to the authorities, I'd've been executed.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23780,23780,23780,23780,189,NATIMA,I admired your courage. It was a brave thing you were doing... selling food to the Bajorans. I thought you were a man of honor.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23781,23781,23781,23781,190,QUARK,I'm a Ferengi. You should've known better.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23782,23782,23782,23782,191,NATIMA,You're right. I should have. Instead...,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23783,23783,23783,23783,192,QUARK,Can't you even say it?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23784,23784,23784,23784,193,NATIMA,I can't even think it.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23785,23785,23785,23785,194,QUARK,"Okay, then I'll say it for you. We fell in love. And that month we spent together was the best time of our lives... and you know it.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23786,23786,23786,23786,195,NATIMA,I think you're confusing lust with love.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23787,23787,23787,23787,196,QUARK,"I admit... I'm capable of it. But not this time. I loved you, Natima.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23788,23788,23788,23788,197,NATIMA,Then how could you have betrayed me?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,-0.6124
+23789,23789,23789,23789,198,QUARK,I didn't betray you.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.5216
+23790,23790,23790,23790,199,NATIMA,"Don't lie to me, Quark. I know better. You used my personal access codes to authorize payments for goods you never provided.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.4404
+23791,23791,23791,23791,200,QUARK,So I took a little money from the Cardassian Communication Service. They could afford it.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23792,23792,23792,23792,201,NATIMA,You stole that money.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23793,23793,23793,23793,202,QUARK,I saw a chance for profit and I took it. Maybe that was wrong. I don't know. But what I really regret was betraying your trust. That was the worst mistake of my life.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23794,23794,23794,23794,203,NATIMA,"And you'd do it again in a second. I believed in you, Quark. But you were using me. Like you use everyone. For profit.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23795,23795,23795,23795,204,QUARK,Then let me make it up to you. Let me help you. I ask for nothing in return.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23796,23796,23796,23796,205,NATIMA,Nothing?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23797,23797,23797,23797,206,QUARK,Except that you'll stay with me forever.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23798,23798,23798,23798,207,NATIMA,"I can't stay here, Quark. My students need me.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23799,23799,23799,23799,208,QUARK,"Listen to me, Natima. You can't leave me. Not now. If you don't stay with me, I'll have to follow you. And I will. Wherever you go. Until you agree to take me back.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23800,23800,23800,23800,209,NATIMA,"Quark, you don't even know me anymore. I'm part of the Cardassian underground. Following me will only get you killed.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23801,23801,23801,23801,210,QUARK,I'll take that chance.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23802,23802,23802,23802,211,NATIMA,What about the bar?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23803,23803,23803,23803,212,QUARK,"I don't care about the bar. I'll turn it over to Rom. He'll run it into the ground in a month, but that doesn't matter. I have to be with you.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23804,23804,23804,23804,213,NATIMA,"It won't work, Quark. You say you'd do anything for me. Maybe right now, you even believe it.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23805,23805,23805,23805,214,NATIMA ,"But I know better. In the end, you'd only care about yourself.",19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23806,23806,23806,23806,215,QUARK,But I love you.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23807,23807,23807,23807,216,NATIMA,I don't love you.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23808,23808,23808,23808,217,QUARK,Now which one of us is lying?,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23809,23809,23809,23809,218,NATIMA,(trying not to let him get to her) You'd better go.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23810,23810,23810,23810,219,QUARK,All right. But if there's anything you need... anything at all... I'll be waiting.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23811,23811,23811,23811,220,NATIMA,It'll be a long wait.,19   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23812,23812,23812,23812,221,O'BRIEN,"Professor Lang's ship should be ready to go in about an hour, Commander.",23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23813,23813,23813,23813,222,SISKO,"Good, I'll let her know.",23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23814,23814,23814,23814,223,KIRA,We have a Cardassian warship approaching. Fast.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23815,23815,23815,23815,224,SISKO,On screen.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23816,23816,23816,23816,225,SISKO,"Dax, hail them.",23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23817,23817,23817,23817,226,DAX,No response.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23818,23818,23818,23818,227,KIRA,The ship's taking up an attack posture.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23819,23819,23819,23819,228,DAX,They're still ignoring us.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23820,23820,23820,23820,229,O'BRIEN,They're powering up their forward disrupters.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23821,23821,23821,23821,230,SISKO,Shields!,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23822,23822,23822,23822,231,KIRA,Shields up.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23823,23823,23823,23823,232,SISKO,Lock on phasers and photon torpedoes... Prepare to return fire if necessary.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23824,23824,23824,23824,233,GARAK,Commander? We need to talk.,23   INT. OPS (OPTICAL),OPS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23825,23825,23825,23825,234,SISKO,"All right, Garak, you mind telling me why a Cardassian warship is threatening my station?",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23826,23826,23826,23826,235,GARAK,No one is threatening you. The Central Command merely wants to make sure that they have your undivided attention.,24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23827,23827,23827,23827,236,SISKO,"Well, they have it. I assume this has something to do with Professor Lang and her students?",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23828,23828,23828,23828,237,GARAK,"""Students"" is a rather benign term for them. ""Terrorists"" would be more accurate. The Cardassian government would very much like Hogue and Rekelen returned home immediately.",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23829,23829,23829,23829,238,SISKO,"They haven't committed any crimes here. As long as they're on my station, they're free to do whatever they want.",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23830,23830,23830,23830,239,GARAK,"This is all very embarrassing, Commander. The Central Command would hate to see the Federation pulled into such an insignificant and purely internal affair.",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23831,23831,23831,23831,240,SISKO,"I would hardly call it insignificant. Judging from the behavior of that ship out there, it appears the Central Command considers Hogue and Rekelen to be extremely dangerous.",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23832,23832,23832,23832,241,GARAK,"Not at all. Annoying, perhaps. Inconvenient, maybe. But dangerous? Hardly. If they were dangerous, would the Central Command entrust the situation to me, a simple tailor?",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23833,23833,23833,23833,242,SISKO,"Which only confirms what I've suspected all along. You, Mister Garak, are no simple tailor.",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23834,23834,23834,23834,243,GARAK,"Really, Commander, that's another discussion, entirely. All you need to know right now is that the return of Hogue and Rekelen is in the best interests of the Cardassian Empire.",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23835,23835,23835,23835,244,SISKO,Or at least in the best interest of the Cardassian military.,24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23836,23836,23836,23836,245,GARAK,Is there a difference?,24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23837,23837,23837,23837,246,SISKO,"Do you really expect a Bajoran station, under Federation command, to turn over Cardassian political refugees... on your say-so?",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23838,23838,23838,23838,247,GARAK,The ultimate decision is yours of course. I'm simply relaying a message.,24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23839,23839,23839,23839,248,SISKO,"Then relay this. Tell the Central Command that if anyone attempts to take Hogue and Rekelen by force, I will respond in kind. Am I clear, Mister Garak?",24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23840,23840,23840,23840,249,GARAK,Absolutely. Thank you for your time.,24   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23841,23841,23841,23841,250,QUARK,"Here, you go. Two mugs of Kanar... on the house.",25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23842,23842,23842,23842,251,HOGUE,We didn't order these.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23843,23843,23843,23843,252,QUARK,They're the drinks I promised you the first time you were in here. Sorry they took so long but things have been a little hectic. Do you mind?,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23844,23844,23844,23844,253,REKELEN,I'm afraid we do.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23845,23845,23845,23845,254,HOGUE,Professor Lang told us you couldn't be trusted.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23846,23846,23846,23846,255,QUARK,"You Cardassians do hold grudges. Seven years ago Natima and I had some silly lovers' quarrel and... Well, all I can say is... I'm willing to let bygones be bygones.",25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23847,23847,23847,23847,256,HOGUE,But Professor Lang isn't.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23848,23848,23848,23848,257,QUARK,I have to say I find your loyalty to her extremely touching.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23849,23849,23849,23849,258,REKELEN,"There's nothing we wouldn't do for her. And if she says not to talk to you, then we don't talk to you.",25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23850,23850,23850,23850,259,QUARK,I understand. She's your teacher... you're her students... you have to listen to her.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23851,23851,23851,23851,260,QUARK,"So, if you don't want to talk to the only person who can get you off this station in one piece, that's fine with me.",25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23852,23852,23852,23852,261,HOGUE,Wait.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23853,23853,23853,23853,262,REKELEN,You say you can help us get away?,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23854,23854,23854,23854,263,QUARK,It's possible.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23855,23855,23855,23855,264,HOGUE,How?,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23856,23856,23856,23856,265,QUARK,One second.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23857,23857,23857,23857,266,QUARK,The station's security chief's a shape-shifter. You can never be too careful. (moving closer to speak in confidence) I take it you know what a cloaking device is?,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23858,23858,23858,23858,267,QUARK,"Well, I have one. It's not in the best of condition... but it'll work for about fifteen minutes. Long enough to get you away from here.",25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23859,23859,23859,23859,268,REKELEN,Sounds expensive.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23860,23860,23860,23860,269,HOGUE,"We don't have much in the way of latinum, but whatever we do have is yours.",25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23861,23861,23861,23861,270,QUARK,Exactly how much latinum are we talking about?,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23862,23862,23862,23862,271,QUARK,Forget I said that. I don't want your money. Consider the cloaking device a gift.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23863,23863,23863,23863,272,REKELEN,I'm surprised. Ferengis aren't known for their generosity.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23864,23864,23864,23864,273,QUARK,We're a deeply misunderstood race.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23865,23865,23865,23865,274,HOGUE,You may've saved our lives. Our movement owes you a debt of gratitude.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23866,23866,23866,23866,275,QUARK,And I know exactly how you can repay me. You have to convince Natima to stay here.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23867,23867,23867,23867,276,QUARK,Would you please stop doing that.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23868,23868,23868,23868,277,REKELEN,The Professor will never agree to stay behind.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23869,23869,23869,23869,278,QUARK,No Natima... no cloaking device and no way off this station.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23870,23870,23870,23870,279,REKELEN,She won't do it.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23871,23871,23871,23871,280,QUARK,"You'll have to talk her into it. After all, you're the ones the Cardassians are after.",25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23872,23872,23872,23872,281,HOGUE,He's right. She shouldn't have to risk her life for our crimes.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23873,23873,23873,23873,282,REKELEN,I suppose we could ask her.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23874,23874,23874,23874,283,QUARK,Don't ask her. Tell her.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23875,23875,23875,23875,284,HOGUE,We'll do our best.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23876,23876,23876,23876,285,QUARK,I'm sure you will. I shudder to think what would happen if the military gets its hands on you.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23877,23877,23877,23877,286,HOGUE,Meet us at our quarters in an hour.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23878,23878,23878,23878,287,QUARK,I'll be there.,25   INT. QUARK'S,QUARK'S,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23879,23879,23879,23879,288,NATIMA,Come in.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23880,23880,23880,23880,289,QUARK,Where are Rekelen and Hogue?,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23881,23881,23881,23881,290,NATIMA,They're waiting at the ship.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23882,23882,23882,23882,291,QUARK,"Perfect. I know my quarters might seem a little crowded at first, but tomorrow morning, I'll put in a request for something bigger.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23883,23883,23883,23883,292,NATIMA,That won't be necessary.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23884,23884,23884,23884,293,QUARK,"All right, if you want your own quarters to start out with, I can arrange that, too.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23885,23885,23885,23885,294,NATIMA,I mean I'm not staying.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23886,23886,23886,23886,295,QUARK,Now hold on. Your students and I had an agreement. They get the cloaking device... (indicates the object under his arm) And you stay with me. That way everyone's happy.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23887,23887,23887,23887,296,NATIMA,"Quark, you say you love me... then give me the cloaking device and let me be on my way.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23888,23888,23888,23888,297,QUARK,And let you disappear out of my life again?,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23889,23889,23889,23889,298,NATIMA,"I'm not a part of your life, Quark.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23890,23890,23890,23890,299,QUARK,But you are. You always have been.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23891,23891,23891,23891,300,QUARK,"Don't you understand, since you left me, not a day goes by that I don't regret what I did. And now you're asking me to lose you again.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23892,23892,23892,23892,301,NATIMA,You lost me a long time ago.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23893,23893,23893,23893,302,QUARK,"All right, then say it... let me hear you say that there isn't a spark of love left in you.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23894,23894,23894,23894,303,NATIMA,There isn't a spark of love left in me.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23895,23895,23895,23895,304,QUARK,I heard that.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23896,23896,23896,23896,305,NATIMA,What?,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23897,23897,23897,23897,306,QUARK,"You hesitated. Admit it, you still care.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23898,23898,23898,23898,307,NATIMA,"Quark, I don't have time for this. Give me that cloaking device.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23899,23899,23899,23899,308,QUARK,I can't. I won't let you go.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23900,23900,23900,23900,309,NATIMA,"I didn't want to have to get it this way, but I need that device... Give it to me. Now.",27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23901,23901,23901,23901,310,QUARK,Or what? You'll shoot me?,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23902,23902,23902,23902,311,NATIMA,If I have to.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23903,23903,23903,23903,312,QUARK,Then go ahead and shoot.,27   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23904,23904,23904,23904,313,NATIMA,"Quark... Quark, are you all right.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23905,23905,23905,23905,314,QUARK,(still doesn't believe it) You shot me.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23906,23906,23906,23906,315,NATIMA,I didn't mean to. It was an accident. (holding up the gun for Quark to see) I never fired a phaser before. I barely touched the trigger...,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23907,23907,23907,23907,316,QUARK,Careful.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23908,23908,23908,23908,317,QUARK,Owww.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23909,23909,23909,23909,318,NATIMA,It hurts?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23910,23910,23910,23910,319,QUARK,She wants to know if it hurts? Of course it hurts. It's supposed to hurt. It's a phaser.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23911,23911,23911,23911,320,NATIMA,I made sure it was only on the first setting.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23912,23912,23912,23912,321,QUARK,How considerate of you.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23913,23913,23913,23913,322,NATIMA,Should I get a doctor?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23914,23914,23914,23914,323,QUARK,That's okay. Maybe if you rub it a little.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23915,23915,23915,23915,324,NATIMA,"Oh, Quark... I'm sorry.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23916,23916,23916,23916,325,QUARK,Really?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23917,23917,23917,23917,326,NATIMA,"Yes, for everything... all those horrible things I said...",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23918,23918,23918,23918,327,QUARK,You really didn't mean them?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23919,23919,23919,23919,328,NATIMA,"I love you, Quark. I've always loved you. Even when I hated you.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23920,23920,23920,23920,329,QUARK,Natima.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23921,23921,23921,23921,330,NATIMA,I've missed you... I've missed you so much. Being with you was the happiest time of my life.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23922,23922,23922,23922,331,QUARK,"And now we're together again, and we have the rest of our lives to be happy.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23923,23923,23923,23923,332,NATIMA,I wish it was that easy.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23924,23924,23924,23924,333,QUARK,But it can be... if you let it.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23925,23925,23925,23925,334,NATIMA,I'm not the same person I was seven years ago. I have responsibilities...,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23926,23926,23926,23926,335,QUARK,I'll share them with you.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23927,23927,23927,23927,336,NATIMA,The movement is my life now. I don't have time for anything else.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23928,23928,23928,23928,337,QUARK,"We'll make the time. You're a woman, Natima. Believe me, I know. And it's not right for you to be alone.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23929,23929,23929,23929,338,NATIMA,I'm not alone. I have my students... my dreams of a better Cardassia.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23930,23930,23930,23930,339,QUARK,But are dreams enough? Can dreams make you laugh? Can dreams hold you close at night?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23931,23931,23931,23931,340,NATIMA,No. But my life demands that I make certain sacrifices...,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23932,23932,23932,23932,341,QUARK,And you've made them. But that doesn't mean you can't be happy.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23933,23933,23933,23933,342,NATIMA,"We did have fun together, didn't we?",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23934,23934,23934,23934,343,QUARK,Remember the day I installed my first holosuite.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23935,23935,23935,23935,344,NATIMA,I'd never been in one before.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23936,23936,23936,23936,345,QUARK,I still have that program... the picnic on Rhymus Major. Two suns in the sky...,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23937,23937,23937,23937,346,NATIMA,The sound of the waterfalls.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23938,23938,23938,23938,347,QUARK,The whisper of flitterbird wings over our heads...,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23939,23939,23939,23939,348,NATIMA,You painted my face with honey...,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23940,23940,23940,23940,349,QUARK,And a Mordian butterfly landed on your nose...,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23941,23941,23941,23941,350,NATIMA,A Mordian butterfly got stuck on my nose.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23942,23942,23942,23942,351,QUARK,His wings were beating almost as fast as my heart.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23943,23943,23943,23943,352,NATIMA,Those were good times.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23944,23944,23944,23944,353,QUARK,"The best. And we can have them back again. I'll give the cloaking device to your students. Once they're gone, you'll be safe, and we can be together.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23945,23945,23945,23945,354,NATIMA,"I can't just abandon them, Quark. They need me.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23946,23946,23946,23946,355,QUARK,"I need you. Don't you see, Natima, you've done enough for the movement. You lit the match. Now let them carry the torch.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23947,23947,23947,23947,356,QUARK,Or are you saying the movement won't survive without you?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23948,23948,23948,23948,357,NATIMA,Of course it will.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23949,23949,23949,23949,358,QUARK,Then let it. And let us have the happiness we deserve.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23950,23950,23950,23950,359,NATIMA,"You really do love me, don't you?",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23951,23951,23951,23951,360,QUARK,"With all that I am, Natima. Forever.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23952,23952,23952,23952,361,QUARK,Will you stay?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23953,23953,23953,23953,362,NATIMA,"Yes, Quark. I'll stay.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23954,23954,23954,23954,363,QUARK,You don't know how I've waited to hear that.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23955,23955,23955,23955,364,NATIMA,Enter.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23956,23956,23956,23956,365,ODO,Professor Lang?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23957,23957,23957,23957,366,QUARK,"Not now, Odo. Can't you see we're busy?",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23958,23958,23958,23958,367,ODO,"I apologize for the interruption, but I'm afraid, madam... You're under arrest.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23959,23959,23959,23959,368,NATIMA,I'm... what?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23960,23960,23960,23960,369,QUARK,On what charge?,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23961,23961,23961,23961,370,ODO,Commander Sisko will explain. I am truly sorry.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23962,23962,23962,23962,371,QUARK,Now hold on.,29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23963,23963,23963,23963,372,NATIMA,"It's all right, Quark.",29   INT. NATIMA'S QUARTERS,NATIMA'S QUARTERS,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23964,23964,23964,23964,373,NATIMA,"Commander, would you please explain what we're doing here?",32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23965,23965,23965,23965,374,SISKO,I'm afraid the three of you are going to be turned over to the Cardassian government.,32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23966,23966,23966,23966,375,REKELEN,You can't do that.,32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23967,23967,23967,23967,376,SISKO,I wish I didn't have to. But Cardassia has offered to hand over a half-dozen Bajoran prisoners in exchange for you.,32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23968,23968,23968,23968,377,NATIMA,And you've agreed to this?,32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23969,23969,23969,23969,378,ODO,The Bajoran Provisional Government agreed to it.,32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23970,23970,23970,23970,379,SISKO,A Cardassian transport will deliver the Bajoran prisoners in a little over five hours.,32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23971,23971,23971,23971,380,NATIMA,"Commander, you have no idea what they're going to do to us.",32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23972,23972,23972,23972,381,REKELEN,We're the ones they're after. At least let Professor Lang go.,32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23973,23973,23973,23973,382,SISKO,"I'd like nothing better. But the provisional government has ordered that you all be turned over. I'm fighting this every way I can... and I'm not ready to give up yet. I'm due to address the Chamber of Ministers on subspace in half an hour. I'll do everything I can to convince them that they're wrong. But in the end... this is a Bajoran station, and I have to abide by their decision. No matter how much I disagree with it.",32   INT. HOLDING AREA,HOLDING AREA,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23974,23974,23974,23974,383,GUL TORAN,How the mighty have fallen.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23975,23975,23975,23975,384,GARAK,Toran.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23976,23976,23976,23976,385,GUL TORAN,It's Gul Toran now.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23977,23977,23977,23977,386,GARAK,They've made you a Gul. I didn't realize the situation on Cardassia had gotten so desperate.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23978,23978,23978,23978,387,GUL TORAN,I find your bitterness extremely... gratifying. I'm glad to see that you're adjusting so poorly to exile.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23979,23979,23979,23979,388,GARAK,"Actually, I'm finding my time here to be most illuminating.",33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23980,23980,23980,23980,389,GUL TORAN,Then I don't suppose you'd be interested in going home again?,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23981,23981,23981,23981,390,GARAK,Am I to be rewarded for informing the Central Command about Hogue and Rekelen's presence on the station?,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23982,23982,23982,23982,391,GUL TORAN,Perhaps. But only after you see to it that they don't leave this station alive.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23983,23983,23983,23983,392,GARAK,But I suggested a prisoner exchange... the Central Command agreed...,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23984,23984,23984,23984,393,GUL TORAN,I convinced them otherwise.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23985,23985,23985,23985,394,GARAK,They listened to you?,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23986,23986,23986,23986,395,GUL TORAN,My voice is less tarnished than yours.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23987,23987,23987,23987,396,GARAK,Kill them and all you'll be creating are martyrs.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23988,23988,23988,23988,397,GUL TORAN,You overestimate their importance.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23989,23989,23989,23989,398,GARAK,So how do you propose to arrange this unfortunate incident?,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23990,23990,23990,23990,399,GUL TORAN,"I'm sure you'll think of something. You always did in the past. Don't you see? Lang's death will benefit us both. Unless of course, you intend to spend the rest of your life as a tailor.",33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23991,23991,23991,23991,400,GARAK,I see your point.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23992,23992,23992,23992,401,GUL TORAN,I knew you would.,33   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23993,23993,23993,23993,402,QUARK,"Odo, we have to talk.",34   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23994,23994,23994,23994,403,ODO,I'm busy. Come back later.,34   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23995,23995,23995,23995,404,QUARK,Later will be too late.,34   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23996,23996,23996,23996,405,QUARK,"""I, the Jury"" by Mickey Spillane?",34   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23997,23997,23997,23997,406,ODO,Chief O'Brien loaned it to me.,34   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23998,23998,23998,23998,407,ODO,"This had better be important, Quark.",34   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0
+23999,23999,23999,23999,408,QUARK,"It is. Odo, you have to let Natima and her students go.",34   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Profit and Loss,1994-01-13,Deep Space Nine,438.txt,0.0

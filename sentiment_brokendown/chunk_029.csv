@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+29000,29000,29000,29000,434,KIRA,I can't...,78   EXT. OUTSIDE COTTAGE (KILN AREA) - DAY,OUTSIDE COTTAGE,EXT.,Progress,1993-02-16,Deep Space Nine,415.txt,0.0
+29001,29001,29001,29001,435,MULLIBOK,If I leave this place... I die.,78   EXT. OUTSIDE COTTAGE (KILN AREA) - DAY,OUTSIDE COTTAGE,EXT.,Progress,1993-02-16,Deep Space Nine,415.txt,0.0
+29002,29002,29002,29002,436,KIRA,No you won't. I won't let you.,78   EXT. OUTSIDE COTTAGE (KILN AREA) - DAY,OUTSIDE COTTAGE,EXT.,Progress,1993-02-16,Deep Space Nine,415.txt,0.0
+29003,29003,29003,29003,437,KIRA,Energize.,78   EXT. OUTSIDE COTTAGE (KILN AREA) - DAY,OUTSIDE COTTAGE,EXT.,Progress,1993-02-16,Deep Space Nine,415.txt,0.0
+29004,29004,29004,29004,0,SISKO ,"Station log, Stardate 46729.1. The Bajoran government has asked me to mediate a dispute between two rival factions, the Paqu and the Navot. At issue is a land dispute which could trigger a civil war.",1    EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29005,29005,29005,29005,1,KIRA,"Commander, the Paqu delegation has arrived at docking bay six.",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29006,29006,29006,29006,2,SISKO,"Let's welcome them aboard. Dax, any word on the Navot?",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29007,29007,29007,29007,3,DAX,They should be here within the hour.,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29008,29008,29008,29008,4,O'BRIEN,"Excuse me, Commander.",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29009,29009,29009,29009,5,SISKO,"Chief, I thought you'd be on your way to Bajor by now.",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29010,29010,29010,29010,6,O'BRIEN,"We're due to leave any moment. Sir, I was wondering if perhaps Ensign Boyer could take my place on this particular mission. After all, I'd be little more than a chauffeur, and Boyer can pilot a Runabout as well as I can.",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29011,29011,29011,29011,7,SISKO,Has something come up that requires your presence on the station?,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29012,29012,29012,29012,8,O'BRIEN,"No, Sir. Everything's running smoothly, for a change. But around here, you never know...",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29013,29013,29013,29013,9,BASHIR,"Ah, there you are Chief. All set to go?",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29014,29014,29014,29014,10,O'BRIEN,"Yes, Sir.",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29015,29015,29015,29015,11,BASHIR,"Commander, did the Magistrate give any indication regarding the nature of this medical emergency?",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29016,29016,29016,29016,12,SISKO,Only that his village was in danger of extinction.,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29017,29017,29017,29017,13,BASHIR,In that case we better be on our way.,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29018,29018,29018,29018,14,SISKO,I agree.,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29019,29019,29019,29019,15,O'BRIEN,"Yes, Sir.",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29020,29020,29020,29020,16,SISKO,Docking port six.,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29021,29021,29021,29021,17,BASHIR,"You know Chief, in a way I'm really looking forward to this mission.",2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29022,29022,29022,29022,18,O'BRIEN,Why's that?,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29023,29023,29023,29023,19,BASHIR,I see it as a wonderful opportunity for us to get to know one another.,2    INT. OPS,OPS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29024,29024,29024,29024,20,SISKO,I'd like you to set up a preliminary meeting with both sides for later this afternoon. Make sure they know that this is an informal session. I just want to get them talking to each other.,4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29025,29025,29025,29025,21,KIRA,"Just getting them to sit down at the same table will be an accomplishment. Sir, about these negotiations...",4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29026,29026,29026,29026,22,SISKO,You have some advice for me?,4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29027,29027,29027,29027,23,KIRA,"There's an old saying on Bajor, ""the land and the people are one."" Well, the land inhabited by the Paqu and Navot is some of the harshest on the planet.",4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29028,29028,29028,29028,24,SISKO,Relax Major. This isn't my first time up at the plate.,4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.4404
+29029,29029,29029,29029,25,KIRA,(doesn't get the baseball reference) Sir...,4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29030,29030,29030,29030,26,SISKO,"Besides, I'll have you by my side to help me avoid making mistakes.",4    INT. TURBOLIFT,TURBOLIFT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,-0.25
+29031,29031,29031,29031,27,SISKO,What can you tell me about the Paqu Tetrarch?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29032,29032,29032,29032,28,KIRA,Not much. The Paqu choose to avoid contact with outsiders.,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29033,29033,29033,29033,29,VARIS,Commander Sisko?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29034,29034,29034,29034,30,SISKO,Yes?,5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29035,29035,29035,29035,31,VARIS,"I am Varis Sul, Tetrarch of the Paqu.",5    INT. DOCKING PORT SEVEN - CORRIDOR,DOCKING PORT SEVE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29036,29036,29036,29036,32,BASHIR,"Chief, may I ask you a question?",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29037,29037,29037,29037,33,O'BRIEN,Of course.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29038,29038,29038,29038,34,BASHIR,And I'd like an honest answer.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29039,29039,29039,29039,35,O'BRIEN,You'll get one.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29040,29040,29040,29040,36,BASHIR,Do I... annoy you?,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29041,29041,29041,29041,37,O'BRIEN,(looking over his shoulder) Annoy me? What kind of question is that?,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29042,29042,29042,29042,38,BASHIR,"Well, the thing is, we've just spent two hours alone together in this runabout and you hardly said a word to me the whole time.",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29043,29043,29043,29043,39,O'BRIEN,Really? I hadn't noticed.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29044,29044,29044,29044,40,BASHIR,"Oh, I see...",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29045,29045,29045,29045,41,O'BRIEN,I suppose I was too busy... thinking.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29046,29046,29046,29046,42,BASHIR,Thinking?,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29047,29047,29047,29047,43,O'BRIEN,That's right.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29048,29048,29048,29048,44,BASHIR,About what?,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29049,29049,29049,29049,45,O'BRIEN,What?,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29050,29050,29050,29050,46,BASHIR,What were you thinking about? I'm just curious.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29051,29051,29051,29051,47,O'BRIEN,"Let's see... I was thinking that when I get back to the station, I'll have to run a level one diagnostic on the phase coil generators. Satisfied?",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29052,29052,29052,29052,48,BASHIR,I guess so.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29053,29053,29053,29053,49,O'BRIEN,Glad to hear it.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29054,29054,29054,29054,50,BASHIR,"I mean, the only reason I brought it up is because your opinion means a lot to me, and I'm aware I have a tendency to run off at the mouth sometimes.",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29055,29055,29055,29055,51,O'BRIEN,Is that a fact.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29056,29056,29056,29056,52,BASHIR,I suppose it's a nervous habit. I hope you don't hold it against me.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29057,29057,29057,29057,53,O'BRIEN,"Not at all, Sir.",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29058,29058,29058,29058,54,BASHIR,"Oh, and one more thing.",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29059,29059,29059,29059,55,O'BRIEN,"And what would that be, Sir?",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29060,29060,29060,29060,56,BASHIR,"I don't think it's really necessary for you to call me ""Sir.""",7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29061,29061,29061,29061,57,O'BRIEN,What should I call you? You're my superior officer.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29062,29062,29062,29062,58,BASHIR,How about Julian.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29063,29063,29063,29063,59,O'BRIEN,Is that an order?,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29064,29064,29064,29064,60,BASHIR,Of course not. I'd simply prefer it if you called me by my first name.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29065,29065,29065,29065,61,O'BRIEN,All right. We've achieved stable orbit around Bajor. We can beam down any time... Julian.,7    INT. RUNABOUT,RUNABOUT,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29066,29066,29066,29066,62,BASHIR,"No sign of any airborne infections, the soil appears free of pollutants, and the ground water's clear of bacterial contamination.",8    EXT. VILLAGE SQUARE - DAY (OPTICAL),VILLAGE SQUARE - DAY,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29067,29067,29067,29067,63,FAREN ,Gentlemen...,8    EXT. VILLAGE SQUARE - DAY (OPTICAL),VILLAGE SQUARE - DAY,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29068,29068,29068,29068,64,BASHIR,I'm Doctor Bashir and this is Chief O'Brien.,8    EXT. VILLAGE SQUARE - DAY (OPTICAL),VILLAGE SQUARE - DAY,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29069,29069,29069,29069,65,FAREN,This village is in great jeopardy. I only hope you're not too late.,8    EXT. VILLAGE SQUARE - DAY (OPTICAL),VILLAGE SQUARE - DAY,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29070,29070,29070,29070,66,FAREN,Has he shown any sign of improvement?,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29071,29071,29071,29071,67,HOVATH,None.,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29072,29072,29072,29072,68,FAREN,You must help him.,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29073,29073,29073,29073,69,BASHIR,How many others are sick?,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29074,29074,29074,29074,70,FAREN,Others?,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29075,29075,29075,29075,71,O'BRIEN,You said the entire village was in jeopardy?,9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29076,29076,29076,29076,72,FAREN,"It is. (looking down at the old man) If he dies, we all die.",9A   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29077,29077,29077,29077,73,WOBAN,I'll say this for the Cardassians. Their replicators make a fine larish pie.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29078,29078,29078,29078,74,VARIS,"I didn't come here to eat, Commander.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29079,29079,29079,29079,75,SISKO,"Then let's talk. The official negotiations won't begin until tonight, but I thought it might be a good idea for us to meet informally to see where we all stand.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29080,29080,29080,29080,76,SISKO,"According to the treaty that has existed between you for the past ninety years... ""... the border separating the Paqu and the Navot shall forever be the river Glyrhond.""",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29081,29081,29081,29081,77,WOBAN,That's correct.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29082,29082,29082,29082,78,KIRA,"Well, at least we all agree on something.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29083,29083,29083,29083,79,SISKO,"Now, as I understand it, during the occupation the Cardassians diverted the river for use in their mining operations. As a result the Glyrhond now flows twenty kilometers west of its former position.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29084,29084,29084,29084,80,WOBAN,Twenty kilometers into Navot territory.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29085,29085,29085,29085,81,VARIS,It's Paqu territory now. You read the treaty Commander. The river is our common border.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29086,29086,29086,29086,82,WOBAN,The treaty says nothing about stealing land. If your father was alive he'd give us back what was ours.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29087,29087,29087,29087,83,VARIS,"My father would have done no such thing. Besides, I'm Tetrarch now. I will not be pressured into betraying my people.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29088,29088,29088,29088,84,QUARK,"Let's see, one glass of Gamzian wine, two Bajoran synthales... And a Trixian bubble juice for the little lady.",11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29089,29089,29089,29089,85,VARIS,I'm not a little lady.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29090,29090,29090,29090,86,QUARK,I'm still charging her for that drink.,11   INT. QUARK'S - A BACK ROOM,QUARK',INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29091,29091,29091,29091,87,JAKE,"Nog, we've been sitting here over an hour. Let's go play some ball in the Holosuite.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29092,29092,29092,29092,88,NOG,No.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29093,29093,29093,29093,89,JAKE,Why not?,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29094,29094,29094,29094,90,NOG,Because baseball is slow and boring...,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29095,29095,29095,29095,91,JAKE,And you can't hit my curve ball.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29096,29096,29096,29096,92,NOG,It's a stupid game that even humans stopped playing hundreds of years ago.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29097,29097,29097,29097,93,JAKE,Maybe. But you still can't hit my curve ball.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29098,29098,29098,29098,94,ODO ,Mister Sisko...,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29099,29099,29099,29099,95,ODO,"Nog, I thought I told you no dangling over the Promenade.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29100,29100,29100,29100,96,JAKE,"We're not gonna fall, Odo.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29101,29101,29101,29101,97,NOG,We can see things better from down here.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29102,29102,29102,29102,98,ODO,"And what, may I ask, is so important to see?",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29103,29103,29103,29103,99,JAKE,Nothing.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29104,29104,29104,29104,100,ODO,"In that case, you can see ""nothing"" just as well from up here. Now, on your feet.",12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29105,29105,29105,29105,101,ODO,Thank you.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29106,29106,29106,29106,102,JAKE,Are you gonna come to the Holosuite with me or not? We can have Buck Bokai hit a few out to us. He was the greatest hitter of all time. I'll even let you use my glove.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29107,29107,29107,29107,103,NOG,I've never seen anything so beautiful.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29108,29108,29108,29108,104,JAKE,She's all right.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29109,29109,29109,29109,105,NOG,All right? I have to meet her.,12   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29110,29110,29110,29110,106,SIRAH,The Dal'Rok...,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29111,29111,29111,29111,107,BASHIR,Easy now. Try not to exert yourself.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29112,29112,29112,29112,108,SIRAH,"Hovath, the time... ?",17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29113,29113,29113,29113,109,HOVATH,Still two hours before nightfall.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29114,29114,29114,29114,110,SIRAH,You should have woken me. Help me get dressed.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29115,29115,29115,29115,111,BASHIR,I'm afraid you're in no shape to go anywhere.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,-0.296
+29116,29116,29116,29116,112,SIRAH,"The prophets sent you, didn't they.",17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29117,29117,29117,29117,113,BASHIR,I beg your pardon?,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.3182
+29118,29118,29118,29118,114,SIRAH,No... Something's wrong. It must be your companion.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29119,29119,29119,29119,115,BASHIR,You mean Chief O'Brien?,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29120,29120,29120,29120,116,SIRAH,Bring him to me.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29121,29121,29121,29121,117,BASHIR,Why?,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29122,29122,29122,29122,118,SIRAH,Because you are not the one I've been waiting for.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29123,29123,29123,29123,119,BASHIR,Chief... he wants to see you.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29124,29124,29124,29124,120,SIRAH,Come closer.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29125,29125,29125,29125,121,SIRAH,I knew the prophets wouldn't fail us. You may leave now... Both of you.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29126,29126,29126,29126,122,BASHIR,See that he stays in bed.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29127,29127,29127,29127,123,O'BRIEN,What was that all about?,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29128,29128,29128,29128,124,BASHIR,I haven't a clue.,17   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29129,29129,29129,29129,125,FAREN,The Sirah... how is he?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29130,29130,29130,29130,126,BASHIR,I wish I had better news. He's suffering from systemic organ failure brought on by an accelerated rate of cellular decay... his body is surrendering to old age.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29131,29131,29131,29131,127,FAREN,Is there anything you can do?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29132,29132,29132,29132,128,BASHIR,"I can keep him comfortable and relatively free of pain. Other than that, it's only a matter of time. I'm sorry.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29133,29133,29133,29133,129,FAREN,But we need him. The Dal'Rok will be here soon.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29134,29134,29134,29134,130,O'BRIEN,What's the Dal'Rok?,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29135,29135,29135,29135,131,FAREN,It's a terrible creature that lives in the woods just north of the village. Every year at the end of harvest it appears.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29136,29136,29136,29136,132,BASHIR,And you say it's coming tonight.,18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29137,29137,29137,29137,133,FAREN,"Yes, it always comes for five nights. This will be the fourth. And only the Sirah is strong enough to defeat it.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29138,29138,29138,29138,134,BASHIR,"Right now, the Sirah isn't strong enough to get out of bed.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29139,29139,29139,29139,135,FAREN,"If what you say is true, this village will be destroyed tonight.",18   EXT. VILLAGE SQUARE - CONTINUOUS,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29140,29140,29140,29140,136,JAKE,You're sure this is the place?,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29141,29141,29141,29141,137,NOG,"You saw the readout. There's only one female her age visiting the station, and these are her quarters.",20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29142,29142,29142,29142,138,NOG,Well go ahead.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29143,29143,29143,29143,139,JAKE,What?,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29144,29144,29144,29144,140,NOG,Ring the bell.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29145,29145,29145,29145,141,JAKE,Me? You're the one who wants to meet her.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29146,29146,29146,29146,142,NOG,Are you afraid?,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29147,29147,29147,29147,143,JAKE,Of a girl.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29148,29148,29148,29148,144,NOG,Then ring.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29149,29149,29149,29149,145,JAKE,You ring.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29150,29150,29150,29150,146,NOG,You are afraid.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29151,29151,29151,29151,147,JAKE,"No I'm not, you are.",20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29152,29152,29152,29152,148,VARIS,What are you doing?,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29153,29153,29153,29153,149,NOG,My name's Jog... I mean Jake.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29154,29154,29154,29154,150,JAKE,He's Nog. I'm Jake Sisko.,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29155,29155,29155,29155,151,VARIS,Sisko...,20   INT. HABITAT RING,HABITAT RING,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29156,29156,29156,29156,152,JAKE,We're kinda the unofficial welcoming committee around here.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29157,29157,29157,29157,153,NOG,That's right... Welcome to DS Nine.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29158,29158,29158,29158,154,VARIS,Thank you. I'm Varis Sul.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29159,29159,29159,29159,155,JAKE,Would you like a tour of the station? There's a Klingon freighter leaving for the Gamma Quadrant in a little while. We could watch it go through the wormhole.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29160,29160,29160,29160,156,NOG,Good idea.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29161,29161,29161,29161,157,JAKE,21 CONTINUED:,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29162,29162,29162,29162,158,VARIS,I've never seen the wormhole.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29163,29163,29163,29163,159,NOG,Then you're in luck. We know the best spot on the station for wormhole watching.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29164,29164,29164,29164,160,JAKE,Unless you're too busy or something...,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29165,29165,29165,29165,161,VARIS,Not at the moment.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29166,29166,29166,29166,162,JAKE,Then let's go.,21   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29167,29167,29167,29167,163,BASHIR,"Listen to me, Sirah. You must return to bed. To be out here... in your condition...",23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29168,29168,29168,29168,164,SIRAH,"Your concern touches me, Doctor. But I'm in the hands of the prophets.",23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29169,29169,29169,29169,165,O'BRIEN,Strange. I'm not registering any atmospheric disturbance...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29170,29170,29170,29170,166,SIRAH,The Dal'Rok wakes.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29171,29171,29171,29171,167,CROWD,The Dal'Rok... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29172,29172,29172,29172,168,SIRAH,We are ready.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29173,29173,29173,29173,169,CROWD,Yes... we're ready... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29174,29174,29174,29174,170,SIRAH,In the shadows of the night he hungers... With the hatred of the ancients he rages... From the twisted pit of chaos he approaches...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29175,29175,29175,29175,171,CROWD,The Dal'Rok... the Dal'Rok... it's here...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29176,29176,29176,29176,172,BASHIR,Is it alive?,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29177,29177,29177,29177,173,O'BRIEN,The tricorder's still not registering anything.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29178,29178,29178,29178,174,BASHIR,Could it be some kind of holographic image?,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29179,29179,29179,29179,175,O'BRIEN,I'm not picking up any power source.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29180,29180,29180,29180,176,SIRAH,The Dal'Rok's anger is like a wave crashing down on the village.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29181,29181,29181,29181,177,CROWD,Yes... the anger... a wave... we feel it.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29182,29182,29182,29182,178,SIRAH,The weight of its fury threatens to crush us all. The Dal'Rok thinks the village is powerless to defend itself.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29183,29183,29183,29183,179,SIRAH,But the Dal'Rok is mistaken. The village is strong. Much stronger than the Dal'Rok can ever imagine.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29184,29184,29184,29184,180,CROWD,Yes... the village... the village is strong.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29185,29185,29185,29185,181,SIRAH,Our strength... our unity... shall drive... the Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29186,29186,29186,29186,182,CROWD,The Sirah... Is he hurt... Look out... The Dal'Rok...,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29187,29187,29187,29187,183,O'BRIEN,Bloody hell.,23   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29188,29188,29188,29188,184,BASHIR,"Chief, help me get him down from here.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29189,29189,29189,29189,185,SIRAH,Where is my successor?,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29190,29190,29190,29190,186,HOVATH,Sirah...,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29191,29191,29191,29191,187,SIRAH,The one the prophets sent.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29192,29192,29192,29192,188,O'BRIEN,"Wait a second, you've got the wrong guy.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,-0.4767
+29193,29193,29193,29193,189,SIRAH,Say as I say... the village shall not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29194,29194,29194,29194,190,O'BRIEN,What?,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29195,29195,29195,29195,191,SIRAH,Quickly.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29196,29196,29196,29196,192,O'BRIEN,The village shall not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29197,29197,29197,29197,193,SIRAH,Louder. So they can all hear.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29198,29198,29198,29198,194,O'BRIEN,The village shall not be destroyed.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29199,29199,29199,29199,195,SIRAH,"Despite our fears, we stand our ground and face the Dal'Rok.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29200,29200,29200,29200,196,O'BRIEN,"Despite our fears, we stand our ground and face the Dal'Rok.",35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29201,29201,29201,29201,197,CROWD,Stand fast. Face the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29202,29202,29202,29202,198,O'BRIEN,The village is strong.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29203,29203,29203,29203,199,CROWD,The village is strong.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29204,29204,29204,29204,200,O'BRIEN,More powerful than the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29205,29205,29205,29205,201,CROWD,More powerful than the Dal'Rok.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29206,29206,29206,29206,202,O'BRIEN,Together we use that power to drive it away.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29207,29207,29207,29207,203,CROWD,Drive it away.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29208,29208,29208,29208,204,O'BRIEN,Drive it away!,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29209,29209,29209,29209,205,CROWD,Drive it away!,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29210,29210,29210,29210,206,O'BRIEN ,The Dal'Rok is defeated.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29211,29211,29211,29211,207,O'BRIEN,The village is safe.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29212,29212,29212,29212,208,CROWD,The village is safe. All thanks to the prophets. The Sirah. The Sirah.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29213,29213,29213,29213,209,BASHIR,He's dead.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29214,29214,29214,29214,210,FAREN,The Sirah has left us.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29215,29215,29215,29215,211,FAREN,But the prophets have sent us his successor.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29216,29216,29216,29216,212,FAREN,A new Sirah to tell the story.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29217,29217,29217,29217,213,CROWD,A new Sirah... the story... All thanks to the prophets.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29218,29218,29218,29218,214,FAREN,A new Sirah to protect the village.,35   EXT. VILLAGE SQUARE - THE PLATFORM - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29219,29219,29219,29219,215,QUARK,"Major, what a pleasant surprise. I always look forward to one of your infrequent visits.",43   INT. QUARK'S,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29220,29220,29220,29220,216,KIRA,Spare me the small talk and get me a star drifter.,43   INT. QUARK'S,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29221,29221,29221,29221,217,QUARK,"So, how are the negotiations coming along?",43   INT. QUARK'S,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29222,29222,29222,29222,218,KIRA,Better make it a double.,43   INT. QUARK'S,QUARK'S,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29223,29223,29223,29223,219,SISKO,Come in.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29224,29224,29224,29224,220,VARIS,You asked to see me.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29225,29225,29225,29225,221,SISKO,"Please, sit down.",44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29226,29226,29226,29226,222,VARIS,I just spent the last five hours sitting at a conference table.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29227,29227,29227,29227,223,SISKO,"Yes, five long, unproductive hours.",44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29228,29228,29228,29228,224,VARIS,Woban is an obstinate fool.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29229,29229,29229,29229,225,SISKO,Woban is here to talk. What are you here for?,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29230,29230,29230,29230,226,VARIS,I would think that was obvious. To defend the interests of my people.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29231,29231,29231,29231,227,SISKO,How? By starting a war?,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29232,29232,29232,29232,228,VARIS,"I object to your tone, Commander.",44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29233,29233,29233,29233,229,SISKO,"Because if that's what you want, if you'd rather fight than talk, then we're just wasting our time.",44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29234,29234,29234,29234,230,VARIS,That land belongs to the Paqu.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29235,29235,29235,29235,231,SISKO,The Navot don't agree.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29236,29236,29236,29236,232,VARIS,Then they'd better be ready to die for it. I am. Or don't you believe me?,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29237,29237,29237,29237,233,SISKO,I believe in people working together to find reasonable solutions to their problems. I hope you do as well.,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29238,29238,29238,29238,234,VARIS,"What you ""hope"" is no concern of mine. Now, anything else you wish to say to me can be said tomorrow across the conference table.",44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29239,29239,29239,29239,235,SISKO,Varis...,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29240,29240,29240,29240,236,SISKO,Are you sure your people are as ready as you are to die for that land?,44   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29241,29241,29241,29241,237,NOG,Where do you think she is?,44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29242,29242,29242,29242,238,JAKE,"I guess if she's not here, we can try again at her quarters.",44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29243,29243,29243,29243,239,NOG,"When we find her, I want you to let me do the talking.",44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29244,29244,29244,29244,240,JAKE,She asks me questions... I answer them. What's wrong with that?,44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29245,29245,29245,29245,241,NOG,"Just remember, I saw her first. She's mine.",44B  INT. PROMENADE - DAY TWO,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29246,29246,29246,29246,242,JAKE,"Then, how come you can barely say two words to her without getting tongue-tied?",45   INT. PROMENADE STAIRS,PROMENADE STAIRS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29247,29247,29247,29247,243,NOG,That's a lie.,45   INT. PROMENADE STAIRS,PROMENADE STAIRS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29248,29248,29248,29248,244,JAKE,I've never seen you so nervous. You must really like her.,45   INT. PROMENADE STAIRS,PROMENADE STAIRS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0134
+29249,29249,29249,29249,245,NOG,I never said that.,45   INT. PROMENADE STAIRS,PROMENADE STAIRS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29250,29250,29250,29250,246,NOG,Uh... we were... uh... just...,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29251,29251,29251,29251,247,JAKE,Looking for you.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29252,29252,29252,29252,248,VARIS,I've been... busy.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29253,29253,29253,29253,249,JAKE,(picking up on her mood) Is something wrong? You seem a little depressed.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29254,29254,29254,29254,250,VARIS,"It's nothing, really. It's just... there are these people... who want something I have... and I refuse to give it to them.",46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29255,29255,29255,29255,251,NOG,How badly do they want it?,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29256,29256,29256,29256,252,VARIS,Very badly.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29257,29257,29257,29257,253,NOG,Is there anything they have that you want?,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29258,29258,29258,29258,254,VARIS,That I want?,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29259,29259,29259,29259,255,NOG,Maybe this isn't a problem. Maybe it's an opportunity.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29260,29260,29260,29260,256,VARIS,Maybe...,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29261,29261,29261,29261,257,JAKE,"When I have a problem I can't figure out, I ask my dad.",46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29262,29262,29262,29262,258,NOG,"(determined not to be outdone by Jake) I ask my dad, too.",46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29263,29263,29263,29263,259,VARIS,"It helps, doesn't it?",46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29264,29264,29264,29264,260,JAKE,My dad's a pretty smart guy.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29265,29265,29265,29265,261,NOG,"Mine, too. In his own way.",46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29266,29266,29266,29266,262,VARIS,My parents are dead. They were killed by the Cardassians.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29267,29267,29267,29267,263,JAKE,I'm sorry. My mom was killed during an attack by the Borg.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29268,29268,29268,29268,264,JAKE,Isn't there someone you can talk to? Someone you trust?,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29269,29269,29269,29269,265,VARIS,I don't trust many people.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29270,29270,29270,29270,266,JAKE,My dad says...,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29271,29271,29271,29271,267,NOG,Could we please talk about something besides your father?,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29272,29272,29272,29272,268,VARIS,"You admire him very much, don't you?",46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29273,29273,29273,29273,269,JAKE,I trust him.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29274,29274,29274,29274,270,ODO,Mister Sisko...,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29275,29275,29275,29275,271,NOG,Odo...,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29276,29276,29276,29276,272,JAKE,We were just leaving.,46   INT. SECOND LEVEL,SECOND LEVEL,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29277,29277,29277,29277,273,BASHIR,I wonder what was controlling those energy creatures.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29278,29278,29278,29278,274,O'BRIEN,"One thing's certain, it wasn't me.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29279,29279,29279,29279,275,BASHIR,Try telling that to the villagers. They saw the Sirah choose you as his successor.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29280,29280,29280,29280,276,O'BRIEN,He made a mistake.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29281,29281,29281,29281,277,BASHIR,"But you saw how he greeted you when we arrived. It was as if he were expecting you. I'll tell you, Chief, I'm glad you came along on this mission. If it wasn't for you, I'd have just done what I could for the Sirah and left. Look at what I'd have missed.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29282,29282,29282,29282,278,O'BRIEN,I'm glad you're enjoying yourself... Julian.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29283,29283,29283,29283,279,BASHIR,"Don't worry, Chief, I have faith in you.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29284,29284,29284,29284,280,O'BRIEN,Do you?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29285,29285,29285,29285,281,BASHIR,"For all we know, you really were sent by the prophets.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29286,29286,29286,29286,282,O'BRIEN,I was sent by Commander Sisko. That Dal'Rok... or whatever... will be returning tonight... and everyone's counting on me to stop it... Only trouble is I don't have the slightest idea how I'm supposed to do that.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29287,29287,29287,29287,283,FAREN,"These gifts are for you, Sirah.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29288,29288,29288,29288,284,O'BRIEN,Well tell them I don't want...,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29289,29289,29289,29289,285,BASHIR,Bring them right in. Put them wherever you like.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29290,29290,29290,29290,286,O'BRIEN,Now look... Julian...,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29291,29291,29291,29291,287,BASHIR,"We're visitors here, Chief. It wouldn't be polite to refuse our hosts.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29292,29292,29292,29292,288,O'BRIEN,How can I help you ladies?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29293,29293,29293,29293,289,BASHIR,"I think they're the ones offering services, Chief.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29294,29294,29294,29294,290,O'BRIEN,"Now look here, there's been a serious misunderstanding...",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29295,29295,29295,29295,291,FAREN,"Is there a problem, Sirah?",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29296,29296,29296,29296,292,O'BRIEN,"No, they're not... well, yes... they're quite... Look, I have a wife and daughter back at DS Nine.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29297,29297,29297,29297,293,FAREN,Of course.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29298,29298,29298,29298,294,FAREN,You must send for them.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29299,29299,29299,29299,295,O'BRIEN,Why?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29300,29300,29300,29300,296,FAREN,So they can live here with you.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29301,29301,29301,29301,297,O'BRIEN,"You're missing the point. You see, I'm not staying.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29302,29302,29302,29302,298,FAREN,Then who will tell the story?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29303,29303,29303,29303,299,O'BRIEN,You'll just have to find someone else.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29304,29304,29304,29304,300,FAREN,But there is no one else. The Sirah chose you.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29305,29305,29305,29305,301,BASHIR,He made a mistake.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29306,29306,29306,29306,302,FAREN,"But what about the Dal'Rok? Without your protection, he'll kill us all.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29307,29307,29307,29307,303,O'BRIEN,"Look, Faren, I'd like to help, really I would, but I don't know how.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.3818
+29308,29308,29308,29308,304,FAREN,You must tell the story.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29309,29309,29309,29309,305,O'BRIEN,"(sees there's no point in arguing) As simple as that, is it?",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,-0.296
+29310,29310,29310,29310,306,FAREN,"May the prophets grant you victory, Sirah.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29311,29311,29311,29311,307,O'BRIEN,Let's hope so.,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29312,29312,29312,29312,308,BASHIR,Now what do we do?,51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29313,29313,29313,29313,309,O'BRIEN,"The way I see it, there's only one way out of this mess. We have to find out exactly what this Dal'Rok is, and destroy it... before it destroys us.",51   INT. SIRAH'S CHAMBER - DAY,SIRAH'S CHAMBE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29314,29314,29314,29314,310,SISKO ,"Station Log supplemental. We have completed a second day of talks between the Paqu and the Navot. So far, we're no closer to finding a solution than we were when negotiations began.",55   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29315,29315,29315,29315,311,VARIS,Enter.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29316,29316,29316,29316,312,JAKE,"Hi, you want to do something?",56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29317,29317,29317,29317,313,VARIS,I'm sorry. Not right now.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29318,29318,29318,29318,314,JAKE,"Okay, we'll stop by later.",56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29319,29319,29319,29319,315,NOG,Is there anything we can do to cheer you up?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29320,29320,29320,29320,316,VARIS,(appreciates the concern) I don't think so.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29321,29321,29321,29321,317,NOG,You're sure?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29322,29322,29322,29322,318,JAKE,"Let's go, before you embarrass yourself.",56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29323,29323,29323,29323,319,VARIS,Wait.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29324,29324,29324,29324,320,NOG,Yes?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29325,29325,29325,29325,321,VARIS,You remember that... opportunity we were discussing yesterday?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29326,29326,29326,29326,322,NOG,Yes.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29327,29327,29327,29327,323,VARIS,How can you be sure that an opportunity is worth the risk?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29328,29328,29328,29328,324,NOG,"Instinct. The Ninth Rule of Acquisition clearly states ""opportunity plus instinct equals profit.""",56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29329,29329,29329,29329,325,VARIS,Instinct.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29330,29330,29330,29330,326,JAKE,That's not gonna help.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29331,29331,29331,29331,327,VARIS,"I think it does. Thank you, Nog.",56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.3612
+29332,29332,29332,29332,328,NOG,Good. Let's celebrate.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.765
+29333,29333,29333,29333,329,VARIS,Celebrate... ?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29334,29334,29334,29334,330,NOG,I took one of my uncle's security rods.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.34
+29335,29335,29335,29335,331,JAKE,What are we gonna do with that?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29336,29336,29336,29336,332,NOG,I don't know... We could swipe Odo's bucket.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29337,29337,29337,29337,333,JAKE,Are you kidding?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.1027
+29338,29338,29338,29338,334,VARIS,A bucket?,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29339,29339,29339,29339,335,NOG,We'll give it back.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29340,29340,29340,29340,336,JAKE,"Yeah, but...",56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29341,29341,29341,29341,337,NOG,It'll be funny.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29342,29342,29342,29342,338,JAKE,But we can't just walk into security...,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29343,29343,29343,29343,339,NOG,Watch me.,56   INT. VARIS'S QUARTERS,VARIS'S QUARTERS,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29344,29344,29344,29344,340,VARIS,I still don't understand what's so funny about a bucket.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.5777
+29345,29345,29345,29345,341,JAKE,Odo lives in it.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29346,29346,29346,29346,342,JAKE,He's a shape-shifter. Every sixteen hours he has to change back to his original form.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.3182
+29347,29347,29347,29347,343,VARIS,Inside a bucket?,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29348,29348,29348,29348,344,JAKE,He turns into some kind of liquid.,60   INT. PROMENADE - THE REPLIMAT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29349,29349,29349,29349,345,JAKE,Maybe this isn't such a good idea.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29350,29350,29350,29350,346,NOG,Watch the front door. I'll be right back.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29351,29351,29351,29351,347,VARIS,"Jake, you're sure this is all right?",61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29352,29352,29352,29352,348,JAKE,(trying to convince himself) Well... it's not like we're really stealing anything.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29353,29353,29353,29353,349,NOG,Found it.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29354,29354,29354,29354,350,JAKE,Odo!,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29355,29355,29355,29355,351,NOG,It's oatmeal. I filled it from the replicator.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29356,29356,29356,29356,352,JAKE,Very funny.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29357,29357,29357,29357,353,NOG,You should have seen your face!,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29358,29358,29358,29358,354,ODO,I believe that belongs to me.,61   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29359,29359,29359,29359,355,SISKO,What's the rush?,63   INT. PROMENADE,PROMENADE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29360,29360,29360,29360,356,O'BRIEN,There's some residual neutrino levels in the microstructure of the building material.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29361,29361,29361,29361,357,BASHIR,"But if the Dal'Rok has no physical substance, how can it leave a neutrino trace?",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,-0.4767
+29362,29362,29362,29362,358,O'BRIEN,I didn't say it made sense. But this wall didn't just spontaneously blow itself to pieces.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29363,29363,29363,29363,359,BASHIR,"Lucky for us, you were able to stop it before it did anymore damage.",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29364,29364,29364,29364,360,O'BRIEN,All I did was repeat what the Sirah told me.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29365,29365,29365,29365,361,BASHIR,"All right, then how did the Sirah stop it?",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29366,29366,29366,29366,362,O'BRIEN,Good question. Maybe there's some kind of controlling mechanism hidden somewhere.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29367,29367,29367,29367,363,O'BRIEN,"Excuse me, miss...",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29368,29368,29368,29368,364,WOMAN,"Please Sirah, for the baby...",67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29369,29369,29369,29369,365,O'BRIEN,What about her?,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29370,29370,29370,29370,366,BASHIR,I think she wants you to bless the child.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29371,29371,29371,29371,367,O'BRIEN,Me?,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29372,29372,29372,29372,368,WOMAN,It would mean so much.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29373,29373,29373,29373,369,O'BRIEN,I'm sure she'll make you very proud.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29374,29374,29374,29374,370,WOMAN,Thank you.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29375,29375,29375,29375,371,O'BRIEN,You're quite welcome.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29376,29376,29376,29376,372,BASHIR,Looks like some more of your followers are requesting an audience,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29377,29377,29377,29377,373,O'BRIEN,This won't do. You continue looking around here. I'll check the Sirah's room.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29378,29378,29378,29378,374,BASHIR,I'm afraid the Sirah is busy at the moment. Perhaps I can be of service.,67   EXT. VILLAGE SQUARE - DAY,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29379,29379,29379,29379,375,O'BRIEN,"(no time for interruptions) Look, I could use a little privacy.",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29380,29380,29380,29380,376,HOVATH,There are more gifts outside.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29381,29381,29381,29381,377,O'BRIEN,"All right, bring them in...",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29382,29382,29382,29382,378,O'BRIEN,"Hold on. You worked for the Sirah, didn't you?",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29383,29383,29383,29383,379,HOVATH,I was his apprentice.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29384,29384,29384,29384,380,O'BRIEN,"Did he ever reveal any of his secrets? How he controlled the Dal'Rok, that sort of thing?",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29385,29385,29385,29385,381,HOVATH,Why ask me? Surely the Sirah taught you all you need to know.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29386,29386,29386,29386,382,O'BRIEN,"All right, have it your way. But don't blame me when that creature goes rampaging through your village.",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29387,29387,29387,29387,383,BASHIR,Chief!,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29388,29388,29388,29388,384,O'BRIEN,"Careful, don't hurt him.",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29389,29389,29389,29389,385,BASHIR,I'll try not to.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29390,29390,29390,29390,386,O'BRIEN,That's enough.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29391,29391,29391,29391,387,BASHIR,Tell him that.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29392,29392,29392,29392,388,O'BRIEN,I said that's enough. Now you mind explaining why you tried to kill me?,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29393,29393,29393,29393,389,HOVATH,You are not the true Sirah.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29394,29394,29394,29394,390,O'BRIEN,You won't get any argument from me.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29395,29395,29395,29395,391,BASHIR,"If he's not, who is?",71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29396,29396,29396,29396,392,HOVATH,I am.,71   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29397,29397,29397,29397,393,HOVATH,"For five years, I studied with the Sirah, learning the secrets of the storyteller. Only to have you come along and take my place.",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29398,29398,29398,29398,394,O'BRIEN,"Look friend, as far as I'm concerned, the job's yours.",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29399,29399,29399,29399,395,BASHIR,"But if you were supposed to take over, why did the Sirah pick him?",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29400,29400,29400,29400,396,HOVATH,It was his way of punishing me.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29401,29401,29401,29401,397,BASHIR,Punishing you?,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29402,29402,29402,29402,398,HOVATH,"Three nights ago, the Sirah allowed me to tell the story. But when the Dal'Rok appeared, I was unable to control it. Several people were injured.",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29403,29403,29403,29403,399,O'BRIEN,Control it? How?,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29404,29404,29404,29404,400,HOVATH,With this.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29405,29405,29405,29405,401,HOVATH,The stone is said to be a fragment of an orb from the celestial temple.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29406,29406,29406,29406,402,BASHIR,We had one of the orbs aboard our station. We're aware of how powerful they are.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29407,29407,29407,29407,403,HOVATH,"Many years ago, this village was deeply divided by hate and mistrust. The first Sirah knew that unless he could find a way to unite the people, the village would destroy itself. So he used the orb fragment as a catalyst to give their fears a physical form.",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29408,29408,29408,29408,404,O'BRIEN,So the villagers' thoughts create the Dal'Rok.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29409,29409,29409,29409,405,HOVATH,But they don't know that. It's a secret passed from Sirah to Sirah.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29410,29410,29410,29410,406,O'BRIEN,Why do they need a storyteller?,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29411,29411,29411,29411,407,HOVATH,The story helps focus the villagers' thoughts...,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29412,29412,29412,29412,408,BASHIR,(putting it all together) And enables them to defeat the Dal'Rok by creating the shimmering lights.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29413,29413,29413,29413,409,HOVATH,"I know if I had another chance, I could control the Dal'Rok.",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29414,29414,29414,29414,410,O'BRIEN,"Well son, it looks like tonight you're going to get that chance.",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29415,29415,29415,29415,411,FAREN ,What is this?,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29416,29416,29416,29416,412,FAREN,You have no right to wear those clothes.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29417,29417,29417,29417,413,HOVATH,I have every right...,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29418,29418,29418,29418,414,FAREN,You had your chance to prove yourself... you failed.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29419,29419,29419,29419,415,HOVATH,It won't happen again.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29420,29420,29420,29420,416,FAREN,That's right... because you won't be allowed to endanger the village a second time. Now take off those robes.,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29421,29421,29421,29421,417,O'BRIEN,Hold on...,75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29422,29422,29422,29422,418,FAREN,"Sirah, it's time you were getting ready. The people have assembled to hear the story.",75   INT. SIRAH'S CHAMBER,SIRAH'S CHAMBER,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29423,29423,29423,29423,419,VARIS,"I want you to know Commander, that I take complete responsibility for what happened in the security office.",77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29424,29424,29424,29424,420,SISKO,I think there's more than enough blame to spread around. Jake should have known better.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29425,29425,29425,29425,421,VARIS,I'm afraid he and Nog were just trying to impress me.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29426,29426,29426,29426,422,SISKO,That's not much of an excuse.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29427,29427,29427,29427,423,VARIS,Didn't you ever do anything foolish to impress a girl?,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29428,29428,29428,29428,424,SISKO,I may have.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29429,29429,29429,29429,425,VARIS,"Jake's a nice boy. So's Nog, in his own way. I enjoy their company.",77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29430,29430,29430,29430,426,SISKO,I suppose you don't get much of a chance to be with people your own age.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29431,29431,29431,29431,427,VARIS,True. But that's not why I wanted to be with them. I wanted to learn about you.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29432,29432,29432,29432,428,SISKO,And... ?,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29433,29433,29433,29433,429,VARIS,Jake think's very highly of you. He... trusts you.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29434,29434,29434,29434,430,SISKO,That's always nice to hear.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29435,29435,29435,29435,431,VARIS,Hearing Jake speak of you reminded me how much I miss my own parents. My father was a great man. A great leader.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29436,29436,29436,29436,432,SISKO,I'm sure he'd be very proud of you.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29437,29437,29437,29437,433,VARIS,I try to be strong... the way he was strong... but it's... difficult.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29438,29438,29438,29438,434,SISKO,"From what I've learned about your father, he wasn't afraid to compromise.",77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29439,29439,29439,29439,435,VARIS,"That's because he knew the Navot feared him. If I were to make concessions, Woban would think I was weak.",77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29440,29440,29440,29440,436,SISKO,I doubt he would be that foolish. But he is determined to get back that land.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29441,29441,29441,29441,437,VARIS,I'm not afraid of Woban or the Navot.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29442,29442,29442,29442,438,SISKO,I never said you were. So your answer is still no.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29443,29443,29443,29443,439,VARIS,You don't lose by saying no.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29444,29444,29444,29444,440,SISKO,Maybe. But a great leader... like your father... is one who's willing to risk saying yes.,77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29445,29445,29445,29445,441,VARIS,"Commander, I believe I know of an... opportunity... that could allow both sides to say yes.",77   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29446,29446,29446,29446,442,O'BRIEN,(out of the side of his mouth) I thought you wanted this job.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29447,29447,29447,29447,443,HOVATH,I do.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29448,29448,29448,29448,444,O'BRIEN,Then why don't you fight for it.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29449,29449,29449,29449,445,HOVATH,"No, Faren is right. The people will never accept me as Sirah and without their support, I could never control the Dal'Rok.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29450,29450,29450,29450,446,O'BRIEN,And you think I can?,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29451,29451,29451,29451,447,HOVATH,You have to.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29452,29452,29452,29452,448,BASHIR,Good luck.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.7096
+29453,29453,29453,29453,449,CROWD,Speak... The story... Speak... Tell the story.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29454,29454,29454,29454,450,O'BRIEN,"Once upon a time, there was a Dal'Rok. He lived there... In the woods... and he hated the village... and all of the villagers... and wanted to see them destroyed.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,-0.8126
+29455,29455,29455,29455,451,CROWD,The Dal'Rok... it's here... the Dal'Rok.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29456,29456,29456,29456,452,O'BRIEN,Yes... the Dal'Rok has arrived... and it's... it's...,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29457,29457,29457,29457,453,O'BRIEN,...hungry. But... the village is prepared to fight.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29458,29458,29458,29458,454,HOVATH,Something's wrong.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29459,29459,29459,29459,455,BASHIR,What's wrong is O'Brien's not the Sirah. You are.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29460,29460,29460,29460,456,O'BRIEN,The village is strong... and powerful... and unafraid... to face the Dal'Rok.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29461,29461,29461,29461,457,BASHIR,Did you ever think maybe the Sirah planned all this?,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29462,29462,29462,29462,458,BASHIR,"He knew the villagers had lost confidence in you, so he chose O'Brien as his successor, knowing you'd have to rescue him. Don't you see? This is your chance to prove once and for all that you're the true Sirah.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29463,29463,29463,29463,459,O'BRIEN,"All right, let's really focus on this one and send the Dal'Rok a message... Okay, let's send that message... Where the hell are those lights?",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29464,29464,29464,29464,460,HOVATH,"Wait, there's no need to run. A new voice appears to challenge the Dal'Rok.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29465,29465,29465,29465,461,O'BRIEN,It's about time.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29466,29466,29466,29466,462,HOVATH,The Dal'Rok is a fearsome enemy. The mountains shake with its fury. But our prosperity is its misery. Our unity is its vulnerability. Our strength is its doom. Look... the Dal'Rok trembles. It fears our strength. It fears our determination. It knows it cannot stand against us.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29467,29467,29467,29467,463,HOVATH,"There... see for yourselves, the Dal'Rok is defeated. The village is safe for another year.",81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29468,29468,29468,29468,464,CROWD,The Sirah... Sirah.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29469,29469,29469,29469,465,O'BRIEN,Let's get out of here before they change their minds.,81   EXT. VILLAGE SQUARE - NIGHT,VILLAGE SQUAR,EXT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29470,29470,29470,29470,466,SISKO,Nervous?,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29471,29471,29471,29471,467,VARIS,Not at all. Maybe a little. Do you think Woban will accept my proposal?,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29472,29472,29472,29472,468,SISKO,It's very possible. It does give the Navot back their land.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29473,29473,29473,29473,469,VARIS,And free trade access to both sides of the river would mean a lot to my people.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29474,29474,29474,29474,470,SISKO,It's a reasonable compromise.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29475,29475,29475,29475,471,JAKE,We thought we'd wish you good luck with your meeting.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29476,29476,29476,29476,472,VARIS,Thank you.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29477,29477,29477,29477,473,VARIS,For all your help.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29478,29478,29478,29478,474,ODO,"All right, let's go. You two are going to clean the Security office until it shines.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29479,29479,29479,29479,475,BASHIR,"You know Chief, this is going to make a fantastic story to tell around the station.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29480,29480,29480,29480,476,O'BRIEN,No thanks. I've had my fill of storytelling for the time being.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29481,29481,29481,29481,477,BASHIR,"Well, I hope you won't mind if I mention it.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29482,29482,29482,29482,478,O'BRIEN,Suit yourself... Julian.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29483,29483,29483,29483,479,BASHIR,"Oh, and Chief, on second thought, you don't really have to call me Julian.",102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29484,29484,29484,29484,480,O'BRIEN,Right you are... Sir.,102A INT. PROMENADE - THE TURBOLIFT,PROMENAD,INT.,The Storyteller,1993-02-02,Deep Space Nine,414.txt,0.0
+29485,29485,29485,29485,0,PALLRA,"I didn't kill him, you know.",2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29486,29486,29486,29486,1,PALLRA,A lot of people believed it was me. That shape-shifter thought so. But he was wrong.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29487,29487,29487,29487,2,QUARK,It was a long time ago.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29488,29488,29488,29488,3,PALLRA,"(nods, beat, not ready to get down to business) Say what you will about the Cardassians... at least they could keep the power on... do you want more ice?",2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29489,29489,29489,29489,4,QUARK,I'm fine.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29490,29490,29490,29490,5,PALLRA,You were always very kind.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29491,29491,29491,29491,6,QUARK,Was I?,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29492,29492,29492,29492,7,PALLRA,You made life a little easier.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29493,29493,29493,29493,8,QUARK,I ran a black market for anyone who could pay. Never exactly thought of myself as... kind.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29494,29494,29494,29494,9,PALLRA,"But there was a little extra ginger tea in the package you gave me, wasn't there...",2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29495,29495,29495,29495,10,QUARK,You didn't call me to Bajor to talk about tea.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29496,29496,29496,29496,11,PALLRA,I need a favor.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29497,29497,29497,29497,12,QUARK,For old times sake.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29498,29498,29498,29498,13,PALLRA,That's right.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29499,29499,29499,29499,14,QUARK,I'm still as kind as ever.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29500,29500,29500,29500,15,PALLRA,I can pay you.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29501,29501,29501,29501,16,QUARK,I'm listening.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29502,29502,29502,29502,17,PALLRA,My husband kept a strongbox in our shop on the station. Buried in the wall. I want you to bring it to me.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29503,29503,29503,29503,18,QUARK,What's in it...,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29504,29504,29504,29504,19,PALLRA,Nothing anyone would value.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29505,29505,29505,29505,20,QUARK,Anyone but you.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29506,29506,29506,29506,21,PALLRA,Sentimental reasons.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29507,29507,29507,29507,22,QUARK,Why not take a sentimental journey back to the station... if it's your property...,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29508,29508,29508,29508,23,PALLRA,I couldn't stand going back to that shop... where my husband was murdered...,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29509,29509,29509,29509,24,QUARK,Or maybe you'd rather not let Odo see you there.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29510,29510,29510,29510,25,PALLRA,I'm sure he's forgotten about all that by now.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29511,29511,29511,29511,26,PALLRA,Can you neutralize the security system... ?,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29512,29512,29512,29512,27,PALLRA,I knew I could count on you. It's behind the panelled wall to the right as you enter. Four panels in... and two up...,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29513,29513,29513,29513,28,QUARK,Four in. Two up.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29514,29514,29514,29514,29,PALLRA,I'll give you five bars of latinum.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29515,29515,29515,29515,30,QUARK,Five... ?,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29516,29516,29516,29516,31,PALLRA,And as always... my personal gratitude.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29517,29517,29517,29517,32,QUARK,A day. Maybe two.,2    INT. PALLRA'S LIVING ROOM - NIGHT,PALLRA'S LIVING ROO,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29518,29518,29518,29518,33,ODO ,"Commence Station Security log. Stardate 47282.5. At the request of Commander Sisko, I will hereafter be recording a daily log of law enforcement affairs.",4    INT. PROMENADE - LATE NIGHT,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29519,29519,29519,29519,34,ODO ,"The reason for this exercise is beyond my comprehension except perhaps that humans have a compulsion to keep records and lists and files... so many in fact that they have to invent new ways to store them microscopically. Otherwise their records would overrun all known civilization. My own very adequate memory not being good enough for Starfleet, I am pleased to put my voice to this official record of this day: Everything's under control. End log.",5    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29520,29520,29520,29520,35,QUARK,Now.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29521,29521,29521,29521,36,QUARK,"When we get to the entrance, you stay flat against the wall. It's a pulsatel lockseal. I can get it to release in about twenty-five seconds.",6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29522,29522,29522,29522,37,ROM,Twenty-five seconds... but somebody will see us... let me do it...,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29523,29523,29523,29523,38,QUARK,You? We'd be at it all night.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29524,29524,29524,29524,39,ROM,"No, only about ten seconds.",6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29525,29525,29525,29525,40,QUARK,How would you release a pulsatel lockseal in ten seconds?,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29526,29526,29526,29526,41,ROM,You have one on the storeroom door.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29527,29527,29527,29527,42,QUARK,So?,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29528,29528,29528,29528,43,ROM,"Sometimes when you forget to leave me the desealer, I have to get the storeroom open.",6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29529,29529,29529,29529,44,QUARK,You've unsealed the storeroom without my knowledge?,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29530,29530,29530,29530,45,ROM,Only to serve a customer's needs...,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29531,29531,29531,29531,46,QUARK,In ten seconds?,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29532,29532,29532,29532,47,ROM,You forget fairly often.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29533,29533,29533,29533,48,QUARK,Ten seconds. We'll see how you handle this desealing rod.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29534,29534,29534,29534,49,ROM,That's all right; I have my own.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29535,29535,29535,29535,50,QUARK,What?,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29536,29536,29536,29536,51,ROM,Nog made it for me. Boy's always been clever with his hands.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29537,29537,29537,29537,52,QUARK,... my storeroom.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29538,29538,29538,29538,53,ROM,"Time this, Brother; you'll be very proud.",6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29539,29539,29539,29539,54,QUARK,... my storeroom.,6    INT. PROMENADE - POV OF THE SECURITY OFFICE,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29540,29540,29540,29540,55,QUARK,Thief. Don't deny it. You've been stealing from me...,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29541,29541,29541,29541,56,ROM,"Brother, I'd never...",9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29542,29542,29542,29542,57,QUARK,"Tomorrow morning, I'm changing my entire lock system.",9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29543,29543,29543,29543,58,QUARK,Four in... two up... here... it's behind this one...,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29544,29544,29544,29544,59,QUARK,Keep an eye on the Promenade...,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29545,29545,29545,29545,60,QUARK,... while I burn off the panel.,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29546,29546,29546,29546,61,ROM,The glare could attract attention. I have a better idea.,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29547,29547,29547,29547,62,QUARK,A better idea.,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29548,29548,29548,29548,63,ROM,I took the liberty of bringing along a small vial of magnasite drops...,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29549,29549,29549,29549,64,QUARK,Magnasite drops? What are magnasite drops?,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29550,29550,29550,29550,65,ROM,A compound that will eat through duranium... one on each corner and the panel will fall off...,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29551,29551,29551,29551,66,QUARK,How do you know that?,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29552,29552,29552,29552,67,ROM,"When you were in the Gamma Quadrant overnight... we did very good business... naturally, I had to keep your profits safe. But you had the only key to the latinum floor vault.",9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29553,29553,29553,29553,68,QUARK,You got into my latinum floor vault with... ... that?,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29554,29554,29554,29554,69,ROM,"I didn't want to tell you because then you'd know I'd burned off your floor plates. But I replaced them out of my own salary, Brother...",9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29555,29555,29555,29555,70,QUARK,... my vault...,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29556,29556,29556,29556,71,ROM,Should I take it out for you?,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29557,29557,29557,29557,72,QUARK,Don't touch it. Don't you touch anything. Ever; ever; again.,9    INT. SHIP'S STORE,SHIP'S STORE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29558,29558,29558,29558,73,QUARK ,Just a piece of paper... ?,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29559,29559,29559,29559,74,ROM,"A treasure map, perhaps?",12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29560,29560,29560,29560,75,ROM,"What does it mean, brother?",12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29561,29561,29561,29561,76,QUARK,I have no idea.,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29562,29562,29562,29562,77,QUARK,Eight names. All of them Bajoran...,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29563,29563,29563,29563,78,QUARK,I want a picture of this list before I reseal the box. Go; get me an imager. Go.,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29564,29564,29564,29564,79,QUARK,"You can't be in here; we're closed... Well, if you really want a drink...",12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29565,29565,29565,29565,80,QUARK,"She sent you, didn't she...",12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29566,29566,29566,29566,81,TRAZKO,She knew you couldn't resist opening it. Sorry.,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29567,29567,29567,29567,82,QUARK,Yeah. Me too.,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29568,29568,29568,29568,83,ROM,Brother!,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29569,29569,29569,29569,84,ROM,Brother?... Help!,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29570,29570,29570,29570,85,ROM,"Somebody, help!",12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29571,29571,29571,29571,86,ROM ,My brother's been killed!,12   INT. QUARK'S (OPTICAL),QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29572,29572,29572,29572,87,ROMBASHIR,"I don't know! I don't Ten cc's of cortolin... know! I want an anti-grav lift in here, stat... ready the cortical stimulator... (repeating a question he's asked once already, to anyone as he works) ... what kind of weapon... I'm waiting for an answer...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29573,29573,29573,29573,88,know!I want an anti-grav lift in,"here, stat... ready the cortical stimulator... (repeating a question he's asked once already, to anyone as he works) ... what kind of weapon... I'm waiting for an answer...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29574,29574,29574,29574,89,"here, stat... ready the","cortical stimulator... (repeating a question he's asked once already, to anyone as he works) ... what kind of weapon... I'm waiting for an answer...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29575,29575,29575,29575,90,cortical stimulator...,"(repeating a question he's asked once already, to anyone as he works) ... what kind of weapon... I'm waiting for an answer...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29576,29576,29576,29576,91,(repeating a,"question he's asked once already, to anyone as he works) ... what kind of weapon... I'm waiting for an answer...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29577,29577,29577,29577,92,question he's,"asked once already, to anyone as he works) ... what kind of weapon... I'm waiting for an answer...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29578,29578,29578,29578,93,asked once,"already, to anyone as he works) ... what kind of weapon... I'm waiting for an answer...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29579,29579,29579,29579,94,"already,",to anyone as he works) ... what kind of weapon... I'm waiting for an answer...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29580,29580,29580,29580,95,to anyone as he,works) ... what kind of weapon... I'm waiting for an answer...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29581,29581,29581,29581,96,works),... what kind of weapon... I'm waiting for an answer...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29582,29582,29582,29582,97,... what kind of weapon...,I'm waiting for an answer...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29583,29583,29583,29583,98,ODO,"I can't confirm it, Doctor... but whatever it was had to get by the scanners... My best guess is a compressed tetryon beam weapon...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29584,29584,29584,29584,99,BASHIR,"(nods, working feverishly) Okay. Okay. That's consistent with what I'm seeing... Get the stimulator over here...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29585,29585,29585,29585,100,SISKO,Doctor... ?,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29586,29586,29586,29586,101,BASHIR,Thoracic cavity ruptured. Extensive neural trauma.,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29587,29587,29587,29587,102,ODOBASHIR,Now! Rom says it was a robbery attempt.,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29588,29588,29588,29588,103,BASHIR,ODO Increase five percent. He says he doesn't know. But he knows.,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29589,29589,29589,29589,104,KIRA,Security's stopping everyone at the airlocks... but it took them five minutes to get in position... the assailant may already be on a ship...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29590,29590,29590,29590,105,SISKOBASHIR,Delay outgoing vessels We've got to get him to as long as you can... surgery... help me get him advise their respective up here... security details...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29591,29591,29591,29591,106,ROM,"He's dying, isn't he? He's dying. What am I going to do if my brother dies?",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29592,29592,29592,29592,107,ODO,"Do? Oh, you'll have a lot to do. Once this place is yours.",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29593,29593,29593,29593,108,ROM,But if he dies... Mine?,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29594,29594,29594,29594,109,ODO,"""Wives serve, brothers inherit."" Rule of Acquisition number one hundred thirty-nine, if I'm not mistaken.",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29595,29595,29595,29595,110,ROM,I hadn't thought of that.,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29596,29596,29596,29596,111,ODO,"Really. I had. Because, it's a solid motive for murder.",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29597,29597,29597,29597,112,ROM,"Yes, actually, I have heard of a few untimely deaths that seemed... wait a minute, you're not suggesting that I...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29598,29598,29598,29598,113,ODO,"I've had my eye on you for a long time, Rom. You're not as stupid as you look.",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29599,29599,29599,29599,114,ROM,I am too. I would never...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29600,29600,29600,29600,115,SISKO,"Constable, it's his own brother...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29601,29601,29601,29601,116,ROM,My own brother...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29602,29602,29602,29602,117,SISKO,I hardly think...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29603,29603,29603,29603,118,ODO,"Stay out of this, Commander. I know these Ferengi. They'd sell their own flesh and blood for a Cardassian groat...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29604,29604,29604,29604,119,SISKO,"Odo, he's a family friend. His son is very close to my boy...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29605,29605,29605,29605,120,ODO,"Well, you'd better tell his son that Dad's going to the lunar prison on Meldrar One. Two hundred degrees in the shade.",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29606,29606,29606,29606,121,ROM,"I didn't. It's not true. Oh, irony of ironies. I finally get the bar and I'm falsely accused of my brother's murder.",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29607,29607,29607,29607,122,SISKO,"Rom, as a friend, if you know anything that might be helpful, I think you should tell us...",20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29608,29608,29608,29608,123,ROM,It was a list. The man who shot my brother stole a list.,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29609,29609,29609,29609,124,ODO,What kind of list?,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29610,29610,29610,29610,125,ROM,Of names. Eight Bajoran names. It was in this box we... we found...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29611,29611,29611,29611,126,ODO,Found... ?,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29612,29612,29612,29612,127,ROM,In a manner of speaking...,20   INT. QUARK'S,QUARK'S,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29613,29613,29613,29613,128,ROM,My brother was hired by someone on Bajor to retrieve it.,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29614,29614,29614,29614,129,ODO,Who?,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29615,29615,29615,29615,130,ROM,He didn't tell me. He never told me anything. I tried so hard to earn Quark's trust. Now he's dead. And I can never earn his trust.,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29616,29616,29616,29616,131,ODO,Just his share of the profits.,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29617,29617,29617,29617,132,ROM,I swear I don't know who hired him. All I know is that the box had been hidden years ago...,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29618,29618,29618,29618,133,ODO,How many years ago?,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29619,29619,29619,29619,134,ROM,I'm not sure. When the Cardassians were here. When the ship's store used to be the chemist shop.,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29620,29620,29620,29620,135,ODO,The... chemist shop... ?,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29621,29621,29621,29621,136,ROM,That's right.,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29622,29622,29622,29622,137,ODO,Here? This is where you found the box?,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29623,29623,29623,29623,138,ROM,Behind a duranium wall panel. I'll show you which one.,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29624,29624,29624,29624,139,ROM,Do you want me to open it? I can do it in ten seconds...,21   INT. PROMENADE - STILL NIGHT LIGHTS,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29625,29625,29625,29625,140,ODO,You asked to see me?,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29626,29626,29626,29626,141,GUL DUKAT,"Yes, yes, please come in. We've met before. Gul Dukat.",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29627,29627,29627,29627,142,ODO,Have we?,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29628,29628,29628,29628,143,GUL DUKAT,I don't expect you'd remember. I was one of the guests at the reception. At the Bajoran Center for Science... it must have been two years ago.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29629,29629,29629,29629,144,ODO,"Ah yes, when the Cardassian High Command was invited to... view me.",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29630,29630,29630,29630,145,GUL DUKAT,You were very amusing that night.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29631,29631,29631,29631,146,ODO,Was I.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29632,29632,29632,29632,147,GUL DUKAT,You did a Cardassian neck trick that brought the house down.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29633,29633,29633,29633,148,ODO,The Bajoran scientist who worked with me thought you might find it entertaining. He made me practice for weeks on the... Cardassian neck trick.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29634,29634,29634,29634,149,GUL DUKAT,"Gul Hadar couldn't stop talking about it. He wanted to send you out to entertain the troops. I, on the other hand, began to wonder if you couldn't provide a more valuable service to the Cardassian Empire. I've stayed informed about you, Odo... since you walked out on your Bajoran keepers.",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29635,29635,29635,29635,150,ODO,I simply felt I could learn more outside a laboratory.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29636,29636,29636,29636,151,GUL DUKAT,"Yes, you've become something of a student of humanoid nature, haven't you...",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29637,29637,29637,29637,152,ODO,"Just what is it you need, Gul Dukat?",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29638,29638,29638,29638,153,GUL DUKAT,Ever seen a dead man before?,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29639,29639,29639,29639,154,ODO,Yes. In your mines.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29640,29640,29640,29640,155,GUL DUKAT,Those were casualties. This is murder. I've decided you're going to investigate it.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29641,29641,29641,29641,156,ODO,Me? Why me? I'm no investigator.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29642,29642,29642,29642,157,GUL DUKAT,But I have a suspicion you'd make a good one. Shape-shifting your way into places the rest of us can't go...,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29643,29643,29643,29643,158,ODO,I have no intention of being a Cardassian agent.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29644,29644,29644,29644,159,GUL DUKAT,Not an agent. An investigator.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29645,29645,29645,29645,160,ODO,There's a difference... ?,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29646,29646,29646,29646,161,GUL DUKAT,"We can't have these Bajorans running around, murdering each other. I'm talking about order. Justice.",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,-0.2263
+29647,29647,29647,29647,162,ODO,There is very little justice in the Cardassian occupation of Bajor.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.5244
+29648,29648,29648,29648,163,GUL DUKAT,"(breaking character, harsh) Don't push me, Odo. My superiors would have me ""solve"" this murder by choosing ten Bajorans at random and executing them! I am hoping you'll give me a better alternative.",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0943
+29649,29649,29649,29649,164,GUL DUKAT,"Now, these Bajorans won't talk to us... but they seem to trust you... I understand you used to sort out local disputes in some Bajoran village or other.",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29650,29650,29650,29650,165,ODO,Now and then.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29651,29651,29651,29651,166,GUL DUKAT,"And as I've heard it, you do the same for our Bajoran laborers here on the station. Petty disputes in the barracks over food, blankets, everyday things like that... They come to you.",22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29652,29652,29652,29652,167,ODO,I suppose I'm considered a neutral observer.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29653,29653,29653,29653,168,GUL DUKAT,Of course. You're not one of them. And you should be thankful for it. So here's another petty dispute. Only this time I'm bringing it to you. Find the murderer.,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29654,29654,29654,29654,169,ODO,Are there any witnesses?,22   INT. CHEMIST SHOP,CHEMIST SHOP,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29655,29655,29655,29655,170,GUL DUKAT ,"Sorry to keep you waiting, Mrs. Vaatrik.",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29656,29656,29656,29656,171,GUL DUKAT,This is Odo. He'll be investigating your husband's death. Perhaps you two already know each other.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29657,29657,29657,29657,172,PALLRA,Have you been in the shop... ?,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29658,29658,29658,29658,173,ODO,No. I don't use chemicals.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29659,29659,29659,29659,174,GUL DUKAT,"I've assigned this space to you. We'll get you anything you need. Good hunting. My sympathies, Madame.",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29660,29660,29660,29660,175,ODO,I'm sorry for your loss.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29661,29661,29661,29661,176,PALLRA,Thank you.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29662,29662,29662,29662,177,ODO,Do you have any idea who might have done this?,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29663,29663,29663,29663,178,PALLRA,I have a very good idea.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29664,29664,29664,29664,179,ODO,You do...,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29665,29665,29665,29665,180,PALLRA,May I be honest with you... ?,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29666,29666,29666,29666,181,ODO,That might be helpful.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29667,29667,29667,29667,182,PALLRA,"My husband was having an affair. Some girl came on the station about a week ago. He was... infatuated with her, I don't know... Why are men like that?",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29668,29668,29668,29668,183,ODO,"Believe me, I have no idea.",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29669,29669,29669,29669,184,PALLRA,"We had two wonderful years together... until she arrived and now... (sighs, angry, shaking her head)",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29670,29670,29670,29670,185,ODO,You loved him very much.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29671,29671,29671,29671,186,PALLRA,Of course I did.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29672,29672,29672,29672,187,ODO,"Then, perhaps you might explain something I don't understand.",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29673,29673,29673,29673,188,PALLRA,What's that?,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29674,29674,29674,29674,189,ODO,Mister Vaatrik was found dead two hours ago. Mrs. Vaatrik hasn't shed a tear.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29675,29675,29675,29675,190,PALLRA,What makes you think...,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29676,29676,29676,29676,191,ODO,"By necessity I'm an observer, Mrs. Vaatrik. When a humanoid cries, the epidermis below the eyes swells noticeably. Your epidermis is perfectly normal.",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29677,29677,29677,29677,192,PALLRA,I'm too angry to cry. The shock...,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29678,29678,29678,29678,193,ODO,Of course. So you were about to,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29679,29679,29679,29679,194,PALLRA,He had confessed his indiscretion to me days ago but said it was over...,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29680,29680,29680,29680,195,ODO,"And when he broke it off with her, she killed him in a jealous rage.",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29681,29681,29681,29681,196,PALLRA,Something like that.,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29682,29682,29682,29682,197,ODO,Do you know her name?,24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29683,29683,29683,29683,198,PALLRA,"No, but I can point her out to you.",24   INT. STORAGE ROOM/SECURITY OFFICE - CLOSE ON PALLRA,STORAGE ROOM/SECURITY OFFIC,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29684,29684,29684,29684,199,ODO,When was the last time you saw Mister Vaatrik alive?,25   INT. PROMENADE GHETTO AREA,PROMENADE GHETTO AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29685,29685,29685,29685,200,PALLRA,At dinner. He went back to the shop to do some inventory work afterwards.,25   INT. PROMENADE GHETTO AREA,PROMENADE GHETTO AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29686,29686,29686,29686,201,ODO,You don't live in community quarters.,25   INT. PROMENADE GHETTO AREA,PROMENADE GHETTO AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29687,29687,29687,29687,202,PALLRA,No. We were lucky enough to be assigned a private room... I guess because we ran the shop... at least we had a little privacy... (Odo grunts an acknowledgement) There... that's her...,25   INT. PROMENADE GHETTO AREA,PROMENADE GHETTO AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29688,29688,29688,29688,203,KIRA ,Odo?,25   INT. PROMENADE GHETTO AREA,PROMENADE GHETTO AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29689,29689,29689,29689,204,KIRA,We haven't picked up anyone at the airlocks. I can't hold up outbound traffic any longer...,29   INT. PROMENADE - REGULAR LIGHTS - ANGLE FAVORING,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29690,29690,29690,29690,205,ODO,I'm sure he disposed of the weapon before he left.,29   INT. PROMENADE - REGULAR LIGHTS - ANGLE FAVORING,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29691,29691,29691,29691,206,KIRA,I heard about the list... ... the one that Quark got out of the wall...,29   INT. PROMENADE - REGULAR LIGHTS - ANGLE FAVORING,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29692,29692,29692,29692,207,ODO,Rom said it had been hidden there during the occupation.,29   INT. PROMENADE - REGULAR LIGHTS - ANGLE FAVORING,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29693,29693,29693,29693,208,KIRA,I couldn't help wondering if it had... something to do with Vaatrik...,29   INT. PROMENADE - REGULAR LIGHTS - ANGLE FAVORING,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,-0.3089
+29694,29694,29694,29694,209,ODO,I've been wondering the same thing.,29   INT. PROMENADE - REGULAR LIGHTS - ANGLE FAVORING,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29695,29695,29695,29695,210,ODO ,"Security log, Stardate 47284.1. In this job, there is no unfinished business.",31   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29696,29696,29696,29696,211,ODO ,"The assault on Quark reopens a five- year-old murder case that I've never, not for a moment, closed. Patience is a lost virtue to most. To me, an ally.",32   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29697,29697,29697,29697,212,ROM,I barely saw it... I'm sorry... I don't remember any of the names...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29698,29698,29698,29698,213,ODO,All right... all right... let's just... relax a moment...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29699,29699,29699,29699,214,ROM,I really ought to be getting back to my bar...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29700,29700,29700,29700,215,ODO,"He's not dead yet, Rom.",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29701,29701,29701,29701,216,ROM,"They're not keeping him alive by artificial means, are they... my brother wouldn't want that...",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29702,29702,29702,29702,217,ODO,"No, he's clinging to life all on his own.",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29703,29703,29703,29703,218,ROM,Typical.,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29704,29704,29704,29704,219,ODO,"All right, let's try again... Close your eyes...",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29705,29705,29705,29705,220,ODO,"Take a deep breath, clear your mind of everything in it... if there's anything there... breathe...",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29706,29706,29706,29706,221,ODO,Now what do you see...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29707,29707,29707,29707,222,ROM,The bar...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29708,29708,29708,29708,223,ODO,Yes.,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29709,29709,29709,29709,224,ROM,With my name on it.,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29710,29710,29710,29710,225,ODO,"The past, Rom. Not the future. The box opens. There's a piece of paper in it...",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29711,29711,29711,29711,226,ROM,"Yes, yes, I see it...",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29712,29712,29712,29712,227,ODO,Quark unfolds it... there's a list of names... Bajoran names... the one at the very top catches your eye... and the first letter is...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29713,29713,29713,29713,228,ROM,"""C!"" It's a ""C.""",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29714,29714,29714,29714,229,ODO,And the next letter is...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29715,29715,29715,29715,230,ROM,Uh...uh...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29716,29716,29716,29716,231,ODO,"Skip to the last letter in the name, Rom...",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29717,29717,29717,29717,232,ROM,"""O!"" It's an ""O.""",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29718,29718,29718,29718,233,ODO,"Starts with a ""C,"" ends with an ""O.""",33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29719,29719,29719,29719,234,ROM,And... and... there's a mark in the name...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29720,29720,29720,29720,235,ODO,An apostrophe...,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29721,29721,29721,29721,236,ROM,Ches'so!,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29722,29722,29722,29722,237,ODO,You're sure?,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29723,29723,29723,29723,238,ROM,Yes. Maybe.,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29724,29724,29724,29724,239,ODO,Maybe.,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29725,29725,29725,29725,240,ROM,It's something like Ches'so. I think.,33   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29726,29726,29726,29726,241,ODO,Call me day or night if you remember something else...,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29727,29727,29727,29727,242,KIRA,Anything?,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29728,29728,29728,29728,243,KIRA ,Ches'so...,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29729,29729,29729,29729,244,ODO,Might be the first name on the list. Remember anyone from those days on the station with that name?,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29730,29730,29730,29730,245,KIRA,"No, but I wasn't here very long.",34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29731,29731,29731,29731,246,ODO,So I recall.,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29732,29732,29732,29732,247,KIRA,We've never talked about it.,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29733,29733,29733,29733,248,ODO,We never had to.,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29734,29734,29734,29734,249,KIRA,I would have been executed.,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29735,29735,29735,29735,250,ODO,You were innocent of the crime I was investigating.,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29736,29736,29736,29736,251,KIRA,That wouldn't have mattered to the Cardassians.,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29737,29737,29737,29737,252,ODO,It mattered to me.,34   INT. PROMENADE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29738,29738,29738,29738,253,ODO ,Do you mind if I join you?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29739,29739,29739,29739,254,ODO,A pretty girl like you shouldn't be eating alone.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29740,29740,29740,29740,255,KIRA,I don't do whatever it is you want. Not for money. Not for food.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29741,29741,29741,29741,256,ODO,"No, you misunderstand... I'm sorry, of course I can see how you could... let me start over...",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29742,29742,29742,29742,257,KIRA,Are you some kind of a security officer?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29743,29743,29743,29743,258,ODO,How did you know that?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29744,29744,29744,29744,259,KIRA,"You are, aren't you.",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29745,29745,29745,29745,260,ODO,"Unofficially, I suppose that's true.",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29746,29746,29746,29746,261,KIRA,"""Unofficially?"" What does that mean?",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29747,29747,29747,29747,262,ODO,Gul Dukat asked me to investigate the murder of a Bajoran man named Vaatrik. I understand you knew him.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29748,29748,29748,29748,263,KIRA,(not trying to lie well) Who says I did...,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29749,29749,29749,29749,264,ODO,His widow.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29750,29750,29750,29750,265,KIRA,I suppose she told you I killed him...,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29751,29751,29751,29751,266,ODO,Did you?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29752,29752,29752,29752,267,KIRA,No.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29753,29753,29753,29753,268,ODO,"On the contrary, you were in love with him.",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29754,29754,29754,29754,269,KIRA,No.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29755,29755,29755,29755,270,ODO,But he was in love with you.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29756,29756,29756,29756,271,KIRA,No.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,-0.296
+29757,29757,29757,29757,272,ODO,It doesn't sound like much of a romance.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.3591
+29758,29758,29758,29758,273,KIRA,We weren't having a romance.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,-0.4449
+29759,29759,29759,29759,274,ODO,"Then, why would he tell his wife you were?",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29760,29760,29760,29760,275,KIRA,You'll have to ask him.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29761,29761,29761,29761,276,ODO,"If you were having an affair, I promise you I'll find out about it.",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29762,29762,29762,29762,277,KIRA,All you're going to find is that I've been here for two weeks. I met the man just after I arrived. He had Pyrellian ginger tea... I don't know where he managed to get it. But I like ginger tea. We got to be friends. Maybe he was attracted to me. It never went anywhere.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29763,29763,29763,29763,278,ODO,You're suggesting this affair was all in his head.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29764,29764,29764,29764,279,KIRA,Or she's lying to you. She rarely tells the truth.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29765,29765,29765,29765,280,ODO,How do you know that?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29766,29766,29766,29766,281,KIRA,He told me.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29767,29767,29767,29767,282,ODO,What else did he tell you?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29768,29768,29768,29768,283,KIRA,More than you ever want to know about the life of a chemist.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29769,29769,29769,29769,284,KIRA,Why do you think Dukat wanted you on,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29770,29770,29770,29770,285,ODO,I'm sure he had good reasons.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29771,29771,29771,29771,286,KIRA,Why not his own security people?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29772,29772,29772,29772,287,ODO,No Bajoran would talk to them.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29773,29773,29773,29773,288,KIRA,That's never stopped the Cardassians before. They have ways of getting information. Something to think about.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29774,29774,29774,29774,289,ODO,Where were you last night?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29775,29775,29775,29775,290,KIRA,At the bar... I heard the Ferengi are allowed to hire some Bajorans for the dog work. Better than the mines.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29776,29776,29776,29776,291,ODO,You haven't spent any time in the mines.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29777,29777,29777,29777,292,KIRA,How do you know that?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29778,29778,29778,29778,293,ODO,Your hands.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29779,29779,29779,29779,294,KIRA,"You're not bad at this... you're right, my last job was in a replicator plant on Bajor.",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29780,29780,29780,29780,295,ODO,You're not allowed to quit those jobs. What happened?,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29781,29781,29781,29781,296,KIRA,I hit a supervisor... who tried what I thought you were trying a few minutes ago.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29782,29782,29782,29782,297,ODO,I appreciate your restraint this time. You're not planning on leaving the station soon...,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29783,29783,29783,29783,298,KIRA,"If I were, would you have the Cardassians stop me?",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29784,29784,29784,29784,299,ODO,Yes.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29785,29785,29785,29785,300,KIRA,"Then, I'm not planning on leaving the station soon.",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29786,29786,29786,29786,301,KIRA,I'll tell you something...,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29787,29787,29787,29787,302,KIRA,"""Unofficially"" or not, you're working for the Cardassians. Sooner or later, you're going to have to decide whose side your on.",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29788,29788,29788,29788,303,ODO,"I don't choose ""sides.""",37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29789,29789,29789,29789,304,KIRA,Everybody has to choose sides... Constable.,37   INT. PROMENADE (FLASHBACK) - ON THE GATE,PROMENADE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29790,29790,29790,29790,305,PALLRA ,Goodnight.,39   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29791,29791,29791,29791,306,GUL DUKAT ,Trust me. You have nothing to worry about.,39   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29792,29792,29792,29792,307,ODO,There were just a few more questions...,39   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29793,29793,29793,29793,308,PALLRA,I was... just about to take a bath...,39   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29794,29794,29794,29794,309,ODO,I could come back later...,39   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29795,29795,29795,29795,310,PALLRA,"No... no, that's all right, come in...",39   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29796,29796,29796,29796,311,PALLRA,I don't know what you're talking about.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29797,29797,29797,29797,312,ODO,You knew nothing about a list.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29798,29798,29798,29798,313,PALLRA,Nothing.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29799,29799,29799,29799,314,ODO,Why would your husband have hidden a list of Bajoran names?,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29800,29800,29800,29800,315,PALLRA,I can't imagine why. Are you sure it was him?,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29801,29801,29801,29801,316,ODO,No.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29802,29802,29802,29802,317,PALLRA,Maybe the Cardassians put it there. Before they left.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29803,29803,29803,29803,318,ODO,Someone on Bajor told Quark where to find it.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29804,29804,29804,29804,319,PALLRA,I wish I could help. I sort of liked that little Ferengi.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29805,29805,29805,29805,320,ODO,Don't write his eulogy yet. He's still with us.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29806,29806,29806,29806,321,PALLRA,I thought you said...,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29807,29807,29807,29807,322,ODO,He was shot. At point blank range. The Federation doctor saved his life.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29808,29808,29808,29808,323,PALLRA,Good for him.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29809,29809,29809,29809,324,ODO,"Does the name ""Ches'so"" mean anything to you?",42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29810,29810,29810,29810,325,PALLRA,I don't think so. Who is it?,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29811,29811,29811,29811,326,ODO,Just someone I'd like to talk to.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29812,29812,29812,29812,327,ODO,Thank you for seeing me.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29813,29813,29813,29813,328,PALLRA,"If this has anything to do with my husband's murder, I want to help in any way I can.",42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29814,29814,29814,29814,329,ODO,"Oh, there was one other thing... I understand your power was recently terminated for lack of payment.",42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29815,29815,29815,29815,330,PALLRA,That's right.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29816,29816,29816,29816,331,ODO,But you were able to transfer funds to the power company this morning.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29817,29817,29817,29817,332,PALLRA,I don't appreciate your looking into my private affairs.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29818,29818,29818,29818,333,ODO,It's just part of a routine investigation. If you could tell me where you got the money.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29819,29819,29819,29819,334,PALLRA,A loan from a friend.,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29820,29820,29820,29820,335,ODO,Of course. Your friend's name?,42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29821,29821,29821,29821,336,PALLRA,"Odo, this really has nothing to do with your investigation...",42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29822,29822,29822,29822,337,ODO,"(smiles as best he can) Good, then you won't mind giving me the name.",42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29823,29823,29823,29823,338,PALLRA,"I'm sorry. My ""friend"" is... married. I won't drag him into this.",42   INT. PALLRA'S LIVING ROOM,PALLRA'S LIVING ROOM,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29824,29824,29824,29824,339,ODO ,"Security Log, supplemental. The Ferengi holds on to life like it's gold-pressed latinum.",44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29825,29825,29825,29825,340,BASHIR,The next several hours will tell the story... we've done everything we can for him...,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29826,29826,29826,29826,341,ODO ,Maybe he just doesn't want his brother to get the bar. Or maybe he knows he's the only real witness I have.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29827,29827,29827,29827,342,KIRA,I've got some good news and some bad news.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29828,29828,29828,29828,343,KIRA,I think I've found our Ches'so.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29829,29829,29829,29829,344,ODO ,Who is he?,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29830,29830,29830,29830,345,KIRA,A Bajoran mining engineer... he's been very active in charity work for the war orphans...,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29831,29831,29831,29831,346,ODO,What makes you think he's our man?,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29832,29832,29832,29832,347,KIRA,Some connections from my past suggested he might be. His work brought him to the station a lot.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29833,29833,29833,29833,348,KIRA,The bad news is he's dead. Drowned in a pond on his property last night.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29834,29834,29834,29834,349,ODO,I'm responsible...,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29835,29835,29835,29835,350,KIRA,How?,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29836,29836,29836,29836,351,ODO,"I mentioned the name ""Ches'so"" to the Vaatrik woman. If she recognized it as ""Ches'saro,"" and thought he might lead us to her... Security to the Infirmary.",44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29837,29837,29837,29837,352,SECURITY COM,Acknowledged.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29838,29838,29838,29838,353,ODO,"Major, I need some help. Advise the Medical Examiner that I want a complete autopsy on Ches'sarro, and that his death is to be treated as a suspected homicide. I'll need the communication records for the Vaatrik home for the past fifty-two hours... and have the central bank keep a supervisor on duty all night... I'll need several bank records as well...",44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29839,29839,29839,29839,354,KIRA,Whose?,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29840,29840,29840,29840,355,ODO,I don't know yet.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29841,29841,29841,29841,356,ODO,I want round the clock armed security on Quark. No visitors.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29842,29842,29842,29842,357,GUARD,Yessir.,44   INT. INFIRMARY - CLOSE ON QUARK'S UNCONSCIOUS FACE,INFIRMAR,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29843,29843,29843,29843,358,QUARK,Stop by one of the holosuites... two programs for the price of one.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29844,29844,29844,29844,359,ODO,I'm looking for the proprietor of this establishment.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29845,29845,29845,29845,360,QUARK,Does he owe you money?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29846,29846,29846,29846,361,ODO,No.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29847,29847,29847,29847,362,QUARK,Are you here to arrest him?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29848,29848,29848,29848,363,ODO,No.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29849,29849,29849,29849,364,QUARK,Then you've found him. Quark. At your service. First drink on the house. An old and dreadful Cardassian tradition. What'll you have.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29850,29850,29850,29850,365,ODO,I don't drink.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29851,29851,29851,29851,366,QUARK,A soft drink then...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29852,29852,29852,29852,367,ODO,I don't drink.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29853,29853,29853,29853,368,QUARK,I guess that's why we don't see you around here much...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29854,29854,29854,29854,369,ODO,I'd like to ask you a few questions about the death of the Bajoran chemist...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29855,29855,29855,29855,370,QUARK,Wait a minute... you're the shape- shifter... you're the one who's working for Dukat...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29856,29856,29856,29856,371,ODO,"I'm not working for Dukat. (beat, of course he is and he knows it) I'm just trying to solve a murder.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29857,29857,29857,29857,372,QUARK,"No, I've heard about you... you do some Cardassian neck trick, am I right?","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29858,29858,29858,29858,373,ODO,Not anymore.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29859,29859,29859,29859,374,QUARK,That could go over big in this room...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29860,29860,29860,29860,375,ODO,"I'm checking the alibi of a young Bajoran woman, red hair, named Kira Nerys... she says she was here last night...","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29861,29861,29861,29861,376,QUARK,"Yeah, I remember her. She wanted a job.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29862,29862,29862,29862,377,ODO,How long was she here?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29863,29863,29863,29863,378,QUARK,Long enough.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29864,29864,29864,29864,379,ODO,Long enough for what?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29865,29865,29865,29865,380,QUARK,You know.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29866,29866,29866,29866,381,ODO,"No, I don't. Why don't you tell me.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29867,29867,29867,29867,382,QUARK,She was showing me... her initiative.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29868,29868,29868,29868,383,ODO,Is that some sort of sexual reference?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29869,29869,29869,29869,384,QUARK,These jobs are hard to come by. Her credentials were very impressive.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29870,29870,29870,29870,385,QUARK,"Hey, listen... listen here, what's the problem...","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29871,29871,29871,29871,386,ODO,The problem is... you're lying.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29872,29872,29872,29872,387,QUARK,You've got me all wrong.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29873,29873,29873,29873,388,ODO,I want the truth... or I'll just turn you over to Gul Dukat and he can get it for me...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29874,29874,29874,29874,389,QUARK,"Okay, fine... I didn't realize we were dealing with a murder here... she didn't pay me enough for that anyway...","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29875,29875,29875,29875,390,ODO,She paid you for an alibi? (Quark shrugs an acknowledgement) I wonder how Gul Dukat will react when I tell him about that.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29876,29876,29876,29876,391,QUARK,"(sighs, talking to someone behind Odo) I'm sure it'll cost me a case of Cardassian ale.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29877,29877,29877,29877,392,GUL DUKAT ,Two cases at the very least.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29878,29878,29878,29878,393,GUL DUKAT,A broken alibi. That sounds like progress. Is there someone you want me to arrest?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29879,29879,29879,29879,394,ODO,Not yet.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29880,29880,29880,29880,395,GUL DUKAT,"But soon. I need a name, Odo.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29881,29881,29881,29881,396,ODO,You'll get your name when I'm certain it's the right name.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29882,29882,29882,29882,397,GUL DUKAT,"Listen to how he speaks to me, Quark. You're not afraid of anyone, are you, shape-shifter? Not even me. (Odo looks at him evenly) I was right about you... you are the man for this job.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29883,29883,29883,29883,398,QUARK,"Listen, I feel you and I... we've gotten off to a bad start here... let me make it up to you... you need anything? A little ginger tea, no, you don't drink...","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,-0.6637
+29884,29884,29884,29884,399,QUARK,"Chocolate, maybe... companionship... ?","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29885,29885,29885,29885,400,SISKO,"You look like you just lost your best friend, Constable.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.8225
+29886,29886,29886,29886,401,DAX,Is Quark...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29887,29887,29887,29887,402,ODO,Quark is stable.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29888,29888,29888,29888,403,SISKO,What's this?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29889,29889,29889,29889,404,ODO,The list.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29890,29890,29890,29890,405,DAX,You found it?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29891,29891,29891,29891,406,ODO,"No, I assembled it. From the Vaatrik woman's communication records. She's been talking to each of these people a lot. Odd thing is she'd never talked to any of them... until two days ago.","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29892,29892,29892,29892,407,SISKO,When the list was stolen.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29893,29893,29893,29893,408,ODO,"Interestingly, every one of them transferred exactly one hundred thousand Bajoran litas into her bank accounts during the last twenty-six hours...","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29894,29894,29894,29894,409,SISKO,Blackmail?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29895,29895,29895,29895,410,ODO,Blackmail.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29896,29896,29896,29896,411,SISKO,What did they have to hide?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29897,29897,29897,29897,412,ODO,"For one thing, that they had come out of the occupation with this kind of money...","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29898,29898,29898,29898,413,DAX,You think they were working with the Cardassians...,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29899,29899,29899,29899,414,ODO,Selling out their own world for a profit. Collaborators. Not even a Ferengi would do that. It explains a lot of things.,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29900,29900,29900,29900,415,SISKO,Do you have enough to charge her?,"49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29901,29901,29901,29901,416,ODO,"Not yet. I'd like to bring her in for questioning. With your permission, I'll have the local Bajoran authorities transport her here...","49   INT. QUARK'S - ON QUARK LAUGHING, BEHIND THE BAR",QUARK',INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29902,29902,29902,29902,417,ODO ,"Nobody ever had to teach me the ""Justice Trick."" That's just something I know. A racial memory from my species, I guess. It's really the only clue I have to what kind of people they are. Are these kinds of thoughts appropriate for a Starfleet log? I don't care.",A56   INT. PROMENADE - NIGHT LIGHTING - WIDE SHOT,PROMENAD,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.1955
+29903,29903,29903,29903,418,ODO ,"There's no room in Justice for loyalty or friendship or love... Justice, as the humans like to say, is blind. I used to believe that. I'm not sure I can anymore.",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.8701
+29904,29904,29904,29904,419,KIRA,"Yes, I lied about my alibi... but that doesn't make me a killer...",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0129
+29905,29905,29905,29905,420,ODO,Where were you when he was murdered?,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29906,29906,29906,29906,421,KIRA,Asleep. Alone.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29907,29907,29907,29907,422,ODO,No one saw you in the community quarters.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29908,29908,29908,29908,423,KIRA,I wasn't there... I've found a small corner in the...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29909,29909,29909,29909,424,ODO,You're lying.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29910,29910,29910,29910,425,KIRA,I...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29911,29911,29911,29911,426,ODO,Don't bother... your whole face changes... I should have seen it before... you don't lie well...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29912,29912,29912,29912,427,KIRA,Thanks.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29913,29913,29913,29913,428,ODO,So why don't you start telling the truth.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29914,29914,29914,29914,429,KIRA,"(dark, still soft, almost to herself) Whose side are you going to be on, Constable... ?",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29915,29915,29915,29915,430,ODO,I'm not going to play your game.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29916,29916,29916,29916,431,KIRA,"Once I tell you the truth, you'll have to choose.",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29917,29917,29917,29917,432,ODO,"No. No, that's why I was given this job. That's why all of you always come to me with problems. I'm the outsider. I'm on no one's side. All I'm interested in is justice. If you're innocent, you'll go free. If you're not, I'll turn you over to Cardassian authorities. That's the only choice here.",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29918,29918,29918,29918,433,KIRA,I didn't kill him. When he was killed I was on Level Twenty-one...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29919,29919,29919,29919,434,ODO,Twenty-one? Ore processing?,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29920,29920,29920,29920,435,KIRA,Check the Cardassian security logs. You'll find a breach on Twenty-one last night...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29921,29921,29921,29921,436,KIRA,"I'm in the Bajoran underground. I came here to commit acts of sabotage against the Cardassians. Last night, I succeeded.",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29922,29922,29922,29922,437,ODO,The ore processor was damaged by a sub-nucleonic device at twenty-five hundred hours last night... it's out of operation for two weeks...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29923,29923,29923,29923,438,KIRA,That'll give the mine workers a little time off at least. I'll describe the device I used if you still don't believe me.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29924,29924,29924,29924,439,ODO,That's why you needed an alibi from Quark...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29925,29925,29925,29925,440,KIRA,None of this will matter to the Cardassians if you tell them the truth. I'll be executed for the sabotage. Who cares about Bajorans killing Bajorans when you can hang a rebel...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29926,29926,29926,29926,441,GUL DUKAT,Is this her?,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29927,29927,29927,29927,442,ODO,I told you when I have the...,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29928,29928,29928,29928,443,GUL DUKAT,Is this her.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29929,29929,29929,29929,444,ODO,No.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29930,29930,29930,29930,445,ODO,You can go.,56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29931,29931,29931,29931,446,GUL DUKAT,"If you're lying, shape-shifter...",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29932,29932,29932,29932,447,ODO,"If you know as much about me as you say you do, Dukat... you know I don't lie. I'm convinced that she did not kill Vaatrik.",56   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29933,29933,29933,29933,448,TRAZKO,Is it too late for visitors?,59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29934,29934,29934,29934,449,GUARD,"I'm sorry, sir... no visitors are permitted here.",59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29935,29935,29935,29935,450,TRAZKO,"Oh, I see. Then, perhaps you could just put these in water for him.",59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29936,29936,29936,29936,451,GUARD,Of course...,59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29937,29937,29937,29937,452,ODO,Odo to Bashir. Report immediately to the Infirmary.,59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29938,29938,29938,29938,453,BASHIR,On my way.,59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29939,29939,29939,29939,454,ODO,"It's over, Rom. Over. You're a hero.",59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29940,29940,29940,29940,455,ROM,I am?,59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29941,29941,29941,29941,456,ODO,You saved your brother's life.,59   INT. INFIRMARY (OPTICAL),INFIRMARY,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29942,29942,29942,29942,457,PALLRA ,I've never seen him before in my life.,64   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29943,29943,29943,29943,458,ODO,Really. Your communications records show you've made several calls to his home. And received several as well.,64   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29944,29944,29944,29944,459,KIRA,You also transferred a large sum of money into his account two days ago.,64   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29945,29945,29945,29945,460,PALLRA,I want to confer with my advocate.,64   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29946,29946,29946,29946,461,ODO,"Of course. I'll make arrangements for you to speak with him. In the meantime, the two of you can introduce yourselves to one another.",64   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29947,29947,29947,29947,462,PALLRA,"I don't care what you think you know, shape-shifter. You'll never be able to prove that I killed my husband. Because I didn't.",64   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29948,29948,29948,29948,463,ODO,I know.,64   INT. HOLDING CELL AREA,HOLDING CELL AREA,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29949,29949,29949,29949,464,KIRA,When did you realize?,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29950,29950,29950,29950,465,ODO,The possibility occurred to me when you got the name Ches'sarro so quickly... Your friends from the underground must have already suspected him of being a collaborator...,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29951,29951,29951,29951,466,ODO,"Once I knew the eight names were a list of collaborators... the murder of Vaatrik made sense for the first time. He must have been a collaborator too. He had the money for ginger tea. He had the private quarters. I've never had a motive for his murder until now. He kept his wife in relative luxury. She surely wouldn't have killed him. So, who would kill a Cardassian collaborator? Someone in the Bajoran underground, of course.",67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29952,29952,29952,29952,467,KIRA,One of my colleagues was given the job to sabotage the ore processor. Vaatrik was my responsibility.,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29953,29953,29953,29953,468,ODO,You were here to execute him.,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29954,29954,29954,29954,469,KIRA,No. I was here to find the list. The names of the Bajorans who were selling us out. We'd been informed that Vaatrik was their direct link to Dukat.,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29955,29955,29955,29955,470,ODO,... That must have been why Dukat chose me to investigate. He had to stay as far away from this incident as he could... so he wouldn't endanger his network of Bajoran sympathizers.,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29956,29956,29956,29956,471,KIRA,"Obviously, I never found the list. But that's what I was looking for in the shop when he walked in on me. I didn't have any choice.",67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29957,29957,29957,29957,472,ODO,"I misjudged you, Major. You were a better liar than I gave you credit for.",67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29958,29958,29958,29958,473,KIRA,You were working for the Cardassians.,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29959,29959,29959,29959,474,ODO,I haven't been for more than a year. You've had all that time to tell me the truth.,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29960,29960,29960,29960,475,KIRA,(very softly; defenseless) I tried to tell you the truth a hundred times. What you think of me... matters a lot. I was afraid...,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.34
+29961,29961,29961,29961,476,ODO,... it might affect our friendship?,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.4404
+29962,29962,29962,29962,477,ODO,Maybe it doesn't have to.,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29963,29963,29963,29963,478,KIRA,Will you ever be able to trust me the same way again?,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29964,29964,29964,29964,479,KIRA,Interceptor One... ?,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29965,29965,29965,29965,480,PILOT,The Skrreean ship exploded. I didn't even think we hit it...,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29966,29966,29966,29966,481,O'BRIEN,The phaser beam must've ignited the radiation leak...,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29967,29967,29967,29967,482,HAZAR,Commander... I'm so sorry...,67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29968,29968,29968,29968,483,SISKO,"We all are, General...",67   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29969,29969,29969,29969,484,KIRA,I just came by to wish you luck on Draylon Two.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29970,29970,29970,29970,485,KIRA,"Haneek, I still believe this is the best choice... for Bajor and for you.",58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29971,29971,29971,29971,486,HANEEK,And you believe we would have been a burden to your people...,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29972,29972,29972,29972,487,KIRA,Yes.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29973,29973,29973,29973,488,HANEEK,"(nods; it's the answer she expected) I think you've made a terrible mistake. All of you. Maybe we could have helped you. Maybe we could have helped each other. The Skrreeans are farmers, Kira. You have a famine on your planet. We might have made that peninsula bloom again. We'll never know, will we?",58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29974,29974,29974,29974,489,HANEEK,Fifty years of Cardassian rule has made you all frightened and suspicious. I feel sorry for you.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29975,29975,29975,29975,490,HANEEK,You were right. Bajor is not Kentanna.,58A  INT. DOCKING RING AIRLOCK,DOCKING RING AIRLOCK,INT.,Necessary Evil,1993-09-17,Deep Space Nine,428.txt,0.0
+29976,29976,29976,29976,0,ROM,What if I say something dumb? Something that makes him uncomfortable?,2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29977,29977,29977,29977,1,EZRI,Like what?,2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29978,29978,29978,29978,2,ROM,"Like... ""How's your new leg?""",2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29979,29979,29979,29979,3,EZRI,I think he's probably expecting a few questions.,2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29980,29980,29980,29980,4,ROM,I just don't want to say the wrong thing.,2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29981,29981,29981,29981,5,LEETA,You'll be fine. But maybe I shouldn't be there when he arrives.,2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29982,29982,29982,29982,6,EZRI,Why?,2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29983,29983,29983,29983,7,LEETA,"Well... when he was in the hospital, he didn't answer any of my letters -- that's okay. I mean, I'm only his stepmother. He's going through something so personal... maybe he only wants his real family around.",2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29984,29984,29984,29984,8,ROM,You are real family.,2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29985,29985,29985,29985,9,EZRI,"That's right. And you should both just relax. Yes, Nog has lost a leg and that's a traumatic experience. But you're not going to say or do anything that'll be worse than what he's already gone through. Just be happy to see him and tell him you love him. For today, that'll be enough.",2A   INT. CORRIDOR,CORRIDOR,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29986,29986,29986,29986,10,KIRA,They've docked.,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29987,29987,29987,29987,11,SISKO,"You sure this is the right transport, colonel?",3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29988,29988,29988,29988,12,KIRA,I checked the passenger list this morning. He definitely boarded at --,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29989,29989,29989,29989,13,LEETA,Nog!,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29990,29990,29990,29990,14,ALL,Welcome home! We love you! You look great! It's so good to have you back! Welcome back! The station wasn't the same without you! Etc.,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29991,29991,29991,29991,15,NOG,"Uh... thank you. It's good to be back. My orders, captain.",3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29992,29992,29992,29992,16,SISKO,Medical leave? How can that be?,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29993,29993,29993,29993,17,O'BRIEN,Sounds like an excuse to loaf around while the rest of us are working.,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29994,29994,29994,29994,18,BASHIR,"Work and lots of it, that's my prescription.",3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29995,29995,29995,29995,19,WORF,The Defiant plasma conduits could use an overhaul.,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29996,29996,29996,29996,20,QUARK,My drink replicator could use some work.,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29997,29997,29997,29997,21,ODO,"Captain, maybe he forged those orders.",3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29998,29998,29998,29998,22,SISKO,I'm afraid they're genuine. Ensign Nog has no duties until further notice. Except... to attend a welcome home party in the wardroom!,3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0
+29999,29999,29999,29999,23,NOG,"If it's all the same to you, sir... I'm pretty tired. I'd rather just... go to my quarters. Is that all right?",3    INT. CARGO BAY/AIRLOCK - CONTINUOUS,CARGO BAY/AIRLOC,INT.,It's Only a Paper Moon,1998-10-08,Deep Space Nine,560.txt,0.0772
