@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+15000,15000,15000,15000,232,SISKO,"But it all hinges on how you interpret an ancient text that's been translated and re-translated over the centuries... words that were couched in metaphor to begin with. I'm sorry, Major... but where you see a Sword of Stars, I see a comet. Where you see vipers, I see three scientists. And where you see the Emissary... I see a Starfleet Officer.",19   INT. DEFIANT - QUARTERS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15001,15001,15001,15001,233,DAX,Dax to Sisko.,19   INT. DEFIANT - QUARTERS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15002,15002,15002,15002,234,SISKO,Go ahead.,19   INT. DEFIANT - QUARTERS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15003,15003,15003,15003,235,DAX,We're ready to deploy the relay.,19   INT. DEFIANT - QUARTERS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15004,15004,15004,15004,236,SISKO,I'm on my way.,19   INT. DEFIANT - QUARTERS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15005,15005,15005,15005,237,GILORA,"... all right, now we just have to shunt the ODN line through the secondary field coils.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15006,15006,15006,15006,238,O'BRIEN,We can't do that.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15007,15007,15007,15007,239,GILORA,Why not?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15008,15008,15008,15008,240,O'BRIEN,The coils aren't configured to handle ODN output...,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15009,15009,15009,15009,241,GILORA,"Why not? Did you modify them, too?",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15010,15010,15010,15010,242,O'BRIEN,Actually I replaced them. They were always shorting out on us. Frankly I don't see how this station kept running during the occupation.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15011,15011,15011,15011,243,GILORA,Why didn't you tell me you'd replaced the field coils?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15012,15012,15012,15012,244,O'BRIEN,"If you'd let me know what you were planning to do, I would have.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15013,15013,15013,15013,245,GILORA,I don't have time to explain everything.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15014,15014,15014,15014,246,O'BRIEN,"What, you think I won't be able to understand what you're doing?",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15015,15015,15015,15015,247,GILORA,It's been my experience that...,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15016,15016,15016,15016,248,O'BRIEN,What... that humans aren't good engineers?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15017,15017,15017,15017,249,GILORA,"No, not humans. Males.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15018,15018,15018,15018,250,O'BRIEN,I beg your pardon?,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15019,15019,15019,15019,251,GILORA,Men just don't seem to have a head for this sort of thing... that's why women dominate the sciences.,21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15020,15020,15020,15020,252,O'BRIEN,"Maybe on Cardassia. But on this station, this man is Chief of Operations. I know these systems better than anyone -- including you.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15021,15021,15021,15021,253,O'BRIEN,"I think I know what the problem is... so if you want to get their transceiver on line, hand me that laser-torch and give me some room.",21   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15022,15022,15022,15022,254,ULANI,Gilora and Chief O'Brien should have their transceiver on-line by now.,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15023,15023,15023,15023,255,SISKO,Are we ready on this end?,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15024,15024,15024,15024,256,DAX,Almost... I'm just about to activate the relay's transmission array.,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15025,15025,15025,15025,257,DAX,Dejar... ?,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15026,15026,15026,15026,258,DEJAR,Standing by...,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15027,15027,15027,15027,259,DEJAR,I'm receiving the relay's test signal.,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15028,15028,15028,15028,260,ULANI,(to Sisko; with a smile) I'd say we're ready to send the first message through the wormhole.,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15029,15029,15029,15029,261,ULANI,Target the signaling array toward the wormhole and initiate a carrier wave in the delta band frequency...,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15030,15030,15030,15030,262,DAX,Initiating carrier wave...,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15031,15031,15031,15031,263,ULANI,"If they receive it on the station, they'll send an acknowledging signal on the same frequency.",23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15032,15032,15032,15032,264,DAX,I'm not receiving anything...,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15033,15033,15033,15033,265,ULANI,Then we have to assume it didn't work. Let's try the theta band frequency.,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15034,15034,15034,15034,266,DAX,Initiating carrier wave...,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15035,15035,15035,15035,267,DAX,Something's wrong... I'm picking up a neutrino surge from the wormhole...,23   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15036,15036,15036,15036,268,SISKO,Report.,26   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15037,15037,15037,15037,269,DAX,Somehow the carrier wave caused the wormhole to open...,26   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15038,15038,15038,15038,270,KIRA,The wormhole's gravity well has increased by a factor of three...,26   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15039,15039,15039,15039,271,SISKO,Terminate the carrier wave and maintain our position...,26   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15040,15040,15040,15040,272,KIRA,Gravimetric fields have returned to normal...,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15041,15041,15041,15041,273,SISKO,What happened?,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15042,15042,15042,15042,274,ULANI,I'm not sure... the carrier wave shouldn't have affected the wormhole at all.,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15043,15043,15043,15043,275,SISKO,Was there any damage to the relay?,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15044,15044,15044,15044,276,DEJAR,None... I'm still receiving the test signal.,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15045,15045,15045,15045,277,DAX,Benjamin... the gravitational surge altered the course of the comet... It's now heading directly toward the wormhole...,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15046,15046,15046,15046,278,ULANI,"If the comet enters the wormhole, the silithium in its core will cause a cascade reaction.",28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15047,15047,15047,15047,279,DAX,And collapse the wormhole... permanently.,28   INT. DEFIANT - BRIDGE - CONTINUOUS,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15048,15048,15048,15048,280,SISKO ,"Commander's Log, Supplemental. With less than five hours before the comet reaches the wormhole, I've brought the Defiant back to the station and convened a meeting of the entire science team.",29   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15049,15049,15049,15049,281,DAX,Apparently the carrier wave we sent created some sort of subspace inversion in the wormhole.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15050,15050,15050,15050,282,O'BRIEN,That's what caused the gravity well to form.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15051,15051,15051,15051,283,ULANI,The possibility of subspace inversion was predicted in one of our computer models...,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15052,15052,15052,15052,284,O'BRIEN,That wasn't included in the data you sent us.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15053,15053,15053,15053,285,GILORA,The probability of such an occurrence was less than two percent... well within safety limitations. So we saw no reason to include it in the data we sent you.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15054,15054,15054,15054,286,SISKO,It would seem our scientific methodologies differ slightly.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15055,15055,15055,15055,287,SISKO,"It's our practice to examine all possibilities, no matter how unlikely, before we proceed with field tests.",30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15056,15056,15056,15056,288,ULANI,"We would, of course, prefer to operate that way as well... however since the Science Ministry falls under the jurisdiction of the military, we have to follow certain rules. One of them is not to make any project look... ""unnecessarily"" dangerous.",30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15057,15057,15057,15057,289,SISKO,We'll have to keep that in mind when we resume work on the communications relay.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15058,15058,15058,15058,290,DEJAR,"That is an extremely unlikely possibility, Commander. The Science Ministry will undoubtedly want to... (glances at Ulani and Gilora) -- assemble a new team, before proceeding further.",30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15059,15059,15059,15059,291,SISKO,"That is, of course, an internal Cardassian matter.",30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15060,15060,15060,15060,292,SISKO,Chief... Dax feels that we can't risk using tractor beams to deflect the comet.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15061,15061,15061,15061,293,DAX,It would probably break up into smaller pieces and we'd have a bigger mess on our hands.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15062,15062,15062,15062,294,GILORA,The same thing would happen if you tried to destroy it with a phaser beam.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15063,15063,15063,15063,295,O'BRIEN,Not necessarily. I could modify the Defiant's phaser array to generate a beam wide enough to encompass the entire comet.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15064,15064,15064,15064,296,ULANI,Vaporizing it evenly so it won't break up.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15065,15065,15065,15065,297,SISKO,How long would the modifications take?,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15066,15066,15066,15066,298,O'BRIEN,Three hours.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15067,15067,15067,15067,299,SISKO,Get on it. We'll be cutting this pretty close.,30   INT. WARDROOM,WARDROOM,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15068,15068,15068,15068,300,O'BRIEN,-- I've accessed the Defiant's primary phaser relay...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15069,15069,15069,15069,301,O'BRIEN ,I'm going to try shunting it through the warp drive...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15070,15070,15070,15070,302,GILORA,Won't that overload the relay?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15071,15071,15071,15071,303,O'BRIEN,Not if we bypass the plasma emitter...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15072,15072,15072,15072,304,GILORA,I hadn't thought of that...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15073,15073,15073,15073,305,O'BRIEN,The emitter coupling is over there...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15074,15074,15074,15074,306,GILORA,What are you doing now... ?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15075,15075,15075,15075,307,O'BRIEN,I'm decoupling the servos so they won't lock up...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15076,15076,15076,15076,308,GILORA,You have very steady hands...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15077,15077,15077,15077,309,O'BRIEN,"They get the job done, I guess...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15078,15078,15078,15078,310,O'BRIEN,"And right now, the most important job is bypassing the plasma emitter...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15079,15079,15079,15079,311,GILORA,I assure you I'm quite fertile...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15080,15080,15080,15080,312,GILORA,"I could provide you with many healthy children, if that's your concern... but, frankly I think you're getting a little ahead of yourself.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15081,15081,15081,15081,313,O'BRIEN,Children? What are you talking about? I already have a child. And a wife.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15082,15082,15082,15082,314,GILORA,You're married?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15083,15083,15083,15083,315,O'BRIEN,"Yes, happily.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15084,15084,15084,15084,316,GILORA,Then why have you been leading me to believe that you wanted me?,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15085,15085,15085,15085,317,O'BRIEN,I haven't been. All we've done since we met is argue.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15086,15086,15086,15086,318,GILORA,And I took your overt irritability toward me as a signal that you were interested in pursuing a physical relationship.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15087,15087,15087,15087,319,O'BRIEN,"That may be how Cardassians do things, but not humans.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15088,15088,15088,15088,320,GILORA,It seems this is a case of cross- cultural misunderstanding.,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15089,15089,15089,15089,321,O'BRIEN,"Yes, it does. I'm not even remotely interested in you. (realizing how that sounds) That's not what I meant. You're very attractive... and I'm flattered, of course...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15090,15090,15090,15090,322,GILORA,"There's no need to continue, Mister O'Brien... you've made your feelings clear...",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15091,15091,15091,15091,323,O'BRIEN,"Gilora, wait. We need to finish this.",32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15092,15092,15092,15092,324,GILORA,I'm sure you can complete the work on your own...,32   INT. JEFFERIES TUBE (FROM TNG),JEFFERIES TUBE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15093,15093,15093,15093,325,DAX,Chief O'Brien said he'd have the modifications to the Defiant's phasers ready within half an hour.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15094,15094,15094,15094,326,SISKO,Half an hour ahead of schedule...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15095,15095,15095,15095,327,DAX,The chief is a born engineer. He always gives himself a comfortable margin on his repair estimates.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15096,15096,15096,15096,328,DAX,Let me guess... you're reading up on Bajoran prophecies concerning the Emissary...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15097,15097,15097,15097,329,SISKO,There are hundreds of them. Most of them are vague... some are contradictory... but there's just enough truth in a few of them to make me wonder...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15098,15098,15098,15098,330,DAX,You mean some of them have come true?,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15099,15099,15099,15099,331,SISKO,"If you interpret them a certain way, yes.",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15100,15100,15100,15100,332,DAX,And so now you're wondering if Trakor's prophecy is coming true as well...,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15101,15101,15101,15101,333,SISKO,I have to admit it's getting harder to ignore.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15102,15102,15102,15102,334,DAX,"But Benjamin, there's every reason to believe we'll be able to destroy the comet.",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15103,15103,15103,15103,335,SISKO,"I know... but I'm becoming more and more concerned that if I don't send the Cardassians home, something else will go wrong...",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15104,15104,15104,15104,336,DAX,"And the ""gates of heaven will burn and be cast open... """,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15105,15105,15105,15105,337,DAX,Let me ask you something... what would you do if you'd never heard Trakor's prophecy?,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15106,15106,15106,15106,338,SISKO,I'd continue working on the communications relay.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15107,15107,15107,15107,339,DAX,Then it seems to me you have a choice: you can either make your own decisions... or you can let these prophecies make them for you.,34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15108,15108,15108,15108,340,SISKO,"As soon as the Defiant's ready, have the Cardassians meet us on board.",34   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15109,15109,15109,15109,341,DAX,The comet's directly ahead. Distance... two hundred kilometers.,36   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15110,15110,15110,15110,342,SISKO,Bring us to within ten kilometers. Chief... are your phaser modifications on-line?,36   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15111,15111,15111,15111,343,O'BRIEN,"Aye, Sir. Phasers are locked on target.",36   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15112,15112,15112,15112,344,DAX,Holding position at ten kilometers.,38   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15113,15113,15113,15113,345,SISKO,Shields up... go to Red Alert.,38   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15114,15114,15114,15114,346,SISKO,Fire...,38   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15115,15115,15115,15115,347,SISKO,"What the hell happened, Chief?",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15116,15116,15116,15116,348,O'BRIEN,"I don't know, sir... the entire weapons relay just blew out... all defensive systems are down.",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15117,15117,15117,15117,349,DAX,"Benjamin, sensors show that the modified phasers never came on-line -- we fired a standard burst and it shattered the comet instead of vaporizing it.",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15118,15118,15118,15118,350,O'BRIEN,There's no way they should have misfired like that. I modified the systems myself.,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15119,15119,15119,15119,351,KIRA,"Commander, the three fragments are still on course for the wormhole...",40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15120,15120,15120,15120,352,SISKO,How long until they reach the entrance?,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15121,15121,15121,15121,353,KIRA,Twenty six minutes...,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15122,15122,15122,15122,354,SISKO,And without weapons... we have no way of stopping them...,40   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15123,15123,15123,15123,355,O'BRIEN,The main emitter coupling has been depolarized... I must've accidentally inverted the power flow when I was trying to modify the phaser array.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15124,15124,15124,15124,356,O'BRIEN,I can't believe it... a first year Engineering student wouldn't make a mistake like that...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15125,15125,15125,15125,357,GILORA,"This wasn't your fault, Mister O'Brien... and it wasn't an accident.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15126,15126,15126,15126,358,ULANI,Gilora...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15127,15127,15127,15127,359,GILORA,"Dejar is a member of the Obsidian Order... she was assigned to our team for ""security"" reasons. I think she sabotaged the coupling.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15128,15128,15128,15128,360,SISKO,"The Order has always been opposed to the peace treaty with Bajor. So they sent you to sabotage the relay... because if the first joint venture between Cardassia and Bajor was a failure, it would probably be the last.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15129,15129,15129,15129,361,DEJAR,"That's all speculation, Commander... you have no proof.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15130,15130,15130,15130,362,KIRA,"If it was sabotage, a DNA scan of the coupling will probably reveal who was responsible.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15131,15131,15131,15131,363,SISKO,Take her to quarters and detain her there.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15132,15132,15132,15132,364,SISKO,"Now that the comet's been fractured into smaller pieces, can we use the tractor beams to deflect them?",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15133,15133,15133,15133,365,ULANI,"They'd just disintegrate further, releasing more silithium.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15134,15134,15134,15134,366,SISKO,"If we can't stop the fragments, is there any way we can prevent the silithium from interacting with the wormhole?",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15135,15135,15135,15135,367,DAX,"Maybe if we could contain it, somehow...",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15136,15136,15136,15136,368,ULANI,"If you can generate a subspace field around the fragments, that might contain the silithium.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15137,15137,15137,15137,369,O'BRIEN,The warp drive... it could create a subspace bubble around the ship...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.2732
+15138,15138,15138,15138,370,DAX,"But we'd have to maneuver the Defiant between the fragments... they're so close together, there's not enough room...",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,-0.3291
+15139,15139,15139,15139,371,SISKO,A shuttlepod could maneuver between them... and its warp drive should be able to create a large enough subspace field...,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15140,15140,15140,15140,372,O'BRIEN,Maybe... but it could overload the engines.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15141,15141,15141,15141,373,SISKO,That's a chance I'll have to take.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15142,15142,15142,15142,374,SISKO,"Major, you have the bridge. Take the Defiant back to the Alpha Quadrant as soon as I've cleared the shuttlebay.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15143,15143,15143,15143,375,KIRA,"Commander, I'd like to go with you.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15144,15144,15144,15144,376,KIRA,Not just because I'm your first officer... but because I believe I'm here to help the Emissary.,41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15145,15145,15145,15145,377,SISKO,"Dax, the Bridge is yours.",41   INT. DEFIANT - BRIDGE - SECONDS LATER,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15146,15146,15146,15146,378,SISKO,We've cleared the shuttlebay... signal the Defiant that they can leave...,42   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15147,15147,15147,15147,379,KIRA,They're heading for the wormhole...,42   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15148,15148,15148,15148,380,SISKO,I'm going to take us in behind the comet fragments... it'll be easier to maneuver into position...,42   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15149,15149,15149,15149,381,DAX,Hold position here... they could be in for a rough ride. Stand by transporters in case we need to beam them off the shuttlepod when they clear the wormhole.,46   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15150,15150,15150,15150,382,SISKO,We're in position... activate the subspace field...,47   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15151,15151,15151,15151,383,KIRA,Field engaged...,47   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15152,15152,15152,15152,384,SISKO,We'll reach the entrance to the wormhole in... five seconds...,49   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15153,15153,15153,15153,385,KIRA,The subspace field is losing integrity... some of the silithium is starting to leak through...,53   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15154,15154,15154,15154,386,SISKO,Divert power from the engines to the subspace field coils... we'll let our own inertia carry us the rest of the way.,53   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15155,15155,15155,15155,387,KIRA,That helped... but we're still losing silithium...,53   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15156,15156,15156,15156,388,O'BRIEN,I'm picking up a neutrino surge... something's coming through.,54   INT. DEFIANT - BRIDGE (OPTICAL),DEFIANT - BRIDGE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15157,15157,15157,15157,389,DAX,Dax to Sisko...,56   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15158,15158,15158,15158,390,SISKO,"Sisko, here.",56   INT. SHUTTLEPOD,SHUTTLEPOD,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15159,15159,15159,15159,391,DAX,"Are you all right, Benjamin?",57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15160,15160,15160,15160,392,SISKO,There was some silithium leakage inside the wormhole... but we're fine.,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15161,15161,15161,15161,393,O'BRIEN,I don't believe it.,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15162,15162,15162,15162,394,DAX,"What is it, Chief?",57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15163,15163,15163,15163,395,O'BRIEN,I'm picking up the test signal from the communications relay...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15164,15164,15164,15164,396,SISKO,How is that possible?,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15165,15165,15165,15165,397,DAX,I'm not sure... I'm reading a subspace filament leading back through the wormhole... it's acting almost like a carrier wave...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15166,15166,15166,15166,398,O'BRIEN,The comet fragments... they left a trail of silithium in the wormhole.,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15167,15167,15167,15167,399,ULANI,The silithium particles must have interacted with the wormhole's ambient radiation...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15168,15168,15168,15168,400,GILORA,And created the filament...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15169,15169,15169,15169,401,SISKO,It's almost like the wormhole's been wedged open just a crack... enough to let subspace signals through...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15170,15170,15170,15170,402,KIRA,The prophecy came true... all of it... we just misinterpreted Trakor's words...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15171,15171,15171,15171,403,KIRA,The three vipers... he wasn't talking about the Cardassians... he meant the three comet fragments...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15172,15172,15172,15172,404,SISKO,"The communications relay... in a sense we've been trying to ""peer through the temple gates... """,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15173,15173,15173,15173,405,KIRA,The silithium ignited the wormhole... burning the temple gates...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15174,15174,15174,15174,406,SISKO,So that they'd never close again...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15175,15175,15175,15175,407,KIRA,And it's all because the Emissary used the Sword of Stars...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15176,15176,15176,15176,408,SISKO,And Trakor saw it all... three thousand years ago...,57   INT. DEFIANT - BRIDGE,DEFIAN,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15177,15177,15177,15177,409,O'BRIEN,I just wanted to say that I appreciate what you did on the Defiant. I hope it won't cause you too much trouble when you get back to Cardassia.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15178,15178,15178,15178,410,GILORA,"My superiors in the science ministry will protect me. Frankly, I think Dejar is in a lot more trouble than I am. The Order doesn't reward failure.",59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15179,15179,15179,15179,411,O'BRIEN,Still... it was a very brave thing to do.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15180,15180,15180,15180,412,GILORA,I didn't want you to take the blame for something that wasn't your fault. I know how proud you are of your work.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15181,15181,15181,15181,413,O'BRIEN,Sometimes too proud. It's gotten me into trouble now and again.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15182,15182,15182,15182,414,GILORA,What's your wife's name?,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15183,15183,15183,15183,415,O'BRIEN,Keiko.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15184,15184,15184,15184,416,GILORA,Keiko... A lucky woman.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15185,15185,15185,15185,417,GILORA,"Good-bye, Mister O'Brien.",59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15186,15186,15186,15186,418,YARKA,Emissary... I'm sorry I doubted you. I realize now that I let my distrust of the Cardassians blind me to the Prophets' words.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15187,15187,15187,15187,419,SISKO,It seems that the Prophets want peace between your two peoples after all.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15188,15188,15188,15188,420,YARKA,Perhaps so...,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15189,15189,15189,15189,421,YARKA,There are signs that Trakor's fourth prophecy will soon come to pass as well...,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15190,15190,15190,15190,422,SISKO,Don't tell me it has something to do with me...,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15191,15191,15191,15191,423,YARKA,"You, Commander? Well... it is a prophecy about the Emissary...",59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15192,15192,15192,15192,424,SISKO,Tell me about it.,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15193,15193,15193,15193,425,YARKA,The fourth prophecy says that the Emissary will face a fiery trial... and that he will be forced to choose between --,59   INT. PROMENADE,PROMENADE,INT.,CAST,1994-12-02,Deep Space Nine,461.txt,0.0
+15194,15194,15194,15194,0,KIRA ,"First Officer's Log, Stardate 48521.5. Odo and I are returning to Deep Space Nine after reviewing security procedures at Prophet's Landing, the Bajoran Colony closest to the Cardassian Border.",1    EXT. SPACE (OPTICAL),SPACE,EXT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15195,15195,15195,15195,1,KIRA,Those orbital sensor platforms should give the colonists plenty of advanced warning in case the Cardassians ever decide to violate the new treaty.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15196,15196,15196,15196,2,ODO,Hopefully.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15197,15197,15197,15197,3,KIRA,How did your meeting with Security Chief Bemar go?,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15198,15198,15198,15198,4,ODO,Fine.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15199,15199,15199,15199,5,KIRA,I assume he was properly impressed by the depth of your expertise.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15200,15200,15200,15200,6,KIRA,"Odo, is something bothering you?",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15201,15201,15201,15201,7,ODO,What makes you say that?,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15202,15202,15202,15202,8,KIRA,"For one thing, you haven't said more than five words to me since we left Prophet's Landing.",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15203,15203,15203,15203,9,KIRA,"Look, if I've done something to offend you I wish you'd tell me what it is.",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15204,15204,15204,15204,10,ODO,It's nothing.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15205,15205,15205,15205,11,KIRA,No. It's something. So you might as well talk about it. It might make you feel better.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15206,15206,15206,15206,12,KIRA,Nevermind. Forget I asked.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15207,15207,15207,15207,13,ODO,It's not important.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15208,15208,15208,15208,14,KIRA,Whatever you say.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15209,15209,15209,15209,15,ODO,It's certainly not worth making an issue about.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15210,15210,15210,15210,16,KIRA,I'm glad to hear it.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15211,15211,15211,15211,17,ODO,It's just... when Governor Avesta invited us to dinner at his house...,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15212,15212,15212,15212,18,KIRA,Go on.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15213,15213,15213,15213,19,ODO,You said no.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15214,15214,15214,15214,20,KIRA,And?,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15215,15215,15215,15215,21,ODO,You never bothered to ask me if I wanted to go.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15216,15216,15216,15216,22,KIRA,You wanted to go to dinner at the governor's house?,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15217,15217,15217,15217,23,ODO,Not particularly.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15218,15218,15218,15218,24,KIRA,Then what's the problem?,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15219,15219,15219,15219,25,ODO,The problem is... you never asked what I wanted.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15220,15220,15220,15220,26,KIRA,I'm sorry... I just thought that you wouldn't want to go.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15221,15221,15221,15221,27,ODO,How could you know for certain if you never asked?,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15222,15222,15222,15222,28,KIRA,"Odo... you don't eat! Besides, you hate socializing with people you don't know.",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15223,15223,15223,15223,29,ODO,"That's beside the point. I would've liked to have been consulted, that's all.",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15224,15224,15224,15224,30,KIRA,"You're right. Next time we're invited to dinner, I'll let you be the one to say no.",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15225,15225,15225,15225,31,ODO,I'd appreciate that.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15226,15226,15226,15226,32,KIRA,"Hold on, I'm picking up a wide band subspace transmission from a Lissepian supply ship. They were just attacked by a Maquis interceptor.",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15227,15227,15227,15227,33,ODO,"Long range sensors are detecting a modified Peregrine Class courier ship, lightly armed, one man crew, bearing two-six-eight mark three-oh- one.",2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15228,15228,15228,15228,34,KIRA,The Maquis use Peregrine Class courier ships. The Lissepians didn't sustain any serious damage. I'm going after him.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15229,15229,15229,15229,35,ODO,Right.,2    INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15230,15230,15230,15230,36,O'BRIEN,O'Brien to Sisko.,4    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15231,15231,15231,15231,37,SISKO,Go ahead.,4    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15232,15232,15232,15232,38,O'BRIEN,"Commander, there's... someone here to see you.",4    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15233,15233,15233,15233,39,SISKO,Who is it?,4    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15234,15234,15234,15234,40,O'BRIEN,"(can't believe it himself) It's... Nog, sir.",5    INT. OPS,OPS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15235,15235,15235,15235,41,SISKO,Nog.,5    INT. OPS,OPS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15236,15236,15236,15236,42,NOG,Tell him it's urgent.,5    INT. OPS,OPS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15237,15237,15237,15237,43,O'BRIEN,He says it's urgent.,5    INT. OPS,OPS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15238,15238,15238,15238,44,SISKO,Send him in.,5    INT. OPS,OPS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15239,15239,15239,15239,45,NOG,I told you he'd see me.,5    INT. OPS,OPS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15240,15240,15240,15240,46,NOG,"Commander, first let me express my most sincere thanks for allowing me to speak with you.",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15241,15241,15241,15241,47,SISKO,You're welcome. Now what's this all about?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15242,15242,15242,15242,48,NOG,I wanted to give you... this.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15243,15243,15243,15243,49,NOG,Open it.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15244,15244,15244,15244,50,SISKO,What's this?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15245,15245,15245,15245,51,NOG,It's latinum.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15246,15246,15246,15246,52,SISKO,I know it's latinum. Why are you giving it to me?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15247,15247,15247,15247,53,NOG,Yesterday I completed the Ferengi Attainment Ceremony. I'm an adult.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15248,15248,15248,15248,54,SISKO,Congratulations.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15249,15249,15249,15249,55,NOG,Thank you.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15250,15250,15250,15250,56,SISKO,But that still doesn't explain this.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15251,15251,15251,15251,57,NOG,"It's my life's savings. According to Ferengi Bylaws, section one-oh- five, subparagraph ten, upon reaching adulthood, Ferengi males must purchase an apprenticeship from a suitable role model. I choose you.",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15252,15252,15252,15252,58,SISKO,You want to be my apprentice?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15253,15253,15253,15253,59,NOG,That's right. I want to be the first Ferengi in Starfleet. Now who do I see about getting a uniform?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15254,15254,15254,15254,60,SISKO,"Nog, I'm afraid it doesn't work that way. We don't just give Starfleet uniforms to anyone.",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15255,15255,15255,15255,61,NOG,I understand.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15256,15256,15256,15256,62,NOG,"But a man of your stature could undoubtedly arrange something. One day, I plan on being a commander just like you.",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15257,15257,15257,15257,63,SISKO,"Nog, if you want to be a Starfleet Officer, you have to attend the Academy.",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15258,15258,15258,15258,64,NOG,(thinks about it for a beat) All right. Where do I sign up?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15259,15259,15259,15259,65,SISKO,"It's not that simple. As a non- Federation citizen, you need a letter of reference from a command level officer before you can even take the entrance exam.",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15260,15260,15260,15260,66,NOG,"A command level officer? You mean, like you?",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15261,15261,15261,15261,67,SISKO,Yes. Like me.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15262,15262,15262,15262,68,NOG,Perfect. Is it a form letter or would you like me to help you write it?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15263,15263,15263,15263,69,SISKO,Tell me Nog... why do you want to join Starfleet? Why not serve aboard a Ferengi ship?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15264,15264,15264,15264,70,NOG,"Are you saying that, as a Ferengi, I'm not good enough to join Starfleet?",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15265,15265,15265,15265,71,SISKO,Not at all.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15266,15266,15266,15266,72,NOG,Then you'll write the letter.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15267,15267,15267,15267,73,SISKO,I'll think about it.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15268,15268,15268,15268,74,NOG,"Thank you, Commander. I know you'll make the right decision.",6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15269,15269,15269,15269,75,SISKO,Hold on.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15270,15270,15270,15270,76,SISKO,Aren't you forgetting something?,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15271,15271,15271,15271,77,NOG,Keep it. Consider it a token of my appreciation.,6    INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15272,15272,15272,15272,78,KIRA,"I don't know what the Maquis have done to that ship's engines, but it's fast.",8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15273,15273,15273,15273,79,ODO,Not fast enough. We're closing on him.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15274,15274,15274,15274,80,KIRA,We'd better catch him soon. We're entering the Badlands.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15275,15275,15275,15275,81,ODO,Clever. He probably knows this territory a lot better than we do.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15276,15276,15276,15276,82,KIRA,"Now aren't you glad I didn't accept that dinner invitation. If I had, we would've missed all this excitement.",8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15277,15277,15277,15277,83,ODO,That would've been a pity. Wait a minute... I've lost him. The Badlands' plasma fields are disrupting our sensors.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15278,15278,15278,15278,84,KIRA,Increase the sensor bandwidth. That should compensate for the interference.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15279,15279,15279,15279,85,ODO,I hope you're right.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15280,15280,15280,15280,86,KIRA,He couldn't have gotten far. He's probably somewhere in this solar system.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15281,15281,15281,15281,87,ODO,There he is. It looks like he's headed for one of the moons orbiting that gas giant.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15282,15282,15282,15282,88,KIRA,I'm following him in.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15283,15283,15283,15283,89,ODO,Something's wrong with his ship. It looks like his attitude stabilizers have failed.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15284,15284,15284,15284,90,KIRA,Can we get a transporter lock on him?,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15285,15285,15285,15285,91,ODO,There's too much interference.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15286,15286,15286,15286,92,ODO,He's trying to land on that moon.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15287,15287,15287,15287,93,ODO,We've lost him.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,-0.3182
+15288,15288,15288,15288,94,KIRA,Did he make it?,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15289,15289,15289,15289,95,ODO,I don't know. Something in the moon's atmosphere is jamming our sensors.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15290,15290,15290,15290,96,KIRA,Then I guess we'll have to land and see for ourselves.,8    INT. MEKONG (VPB),MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15291,15291,15291,15291,97,ODO,The tricorders are useless. The atmospheric ionization is jamming their transponders.,10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15292,15292,15292,15292,98,KIRA,You're sure he's in these caverns?,10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15293,15293,15293,15293,99,ODO,"He wasn't in the wreckage of his ship. And given the weather conditions on the surface, there's no way anyone could survive out there very long. So that leaves...",10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15294,15294,15294,15294,100,KIRA,That's the third quake since we landed. This moon must be seismically unstable.,10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15295,15295,15295,15295,101,ODO,"The sooner we find our fugitive, the better off we'll be.",10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15296,15296,15296,15296,102,KIRA,"Finding him isn't going to be easy. These caverns could go on forever. And given all this seismic activity, I don't want to stay here any longer than we have to. I say we split up. We can meet back here in twenty minutes. If we haven't found him by then, we may have to leave without him.",10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15297,15297,15297,15297,103,ODO,"If he's smart, he'll let us find him. A Federation prison would be paradise compared to this place.",10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15298,15298,15298,15298,104,KIRA,Let's hope he's smart.,10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15299,15299,15299,15299,105,ODO,I'll see you in twenty minutes.,10   INT. LUNAR CAVERNS,LUNAR CAVERNS,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15300,15300,15300,15300,106,KIRA,"Kira to Odo. Odo, do you hear me?",11   INT. ANOTHER PART OF THE CAVERN,ANOTHER PART OF THE CAVERN,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15301,15301,15301,15301,107,ODO,This is Odo. I can barely hear you.,11   INT. ANOTHER PART OF THE CAVERN,ANOTHER PART OF THE CAVERN,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15302,15302,15302,15302,108,KIRA,"Odo, I'm trapped and I need your help. Come quickly. Odo, do you read me? This is Kira...",11   INT. ANOTHER PART OF THE CAVERN,ANOTHER PART OF THE CAVERN,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15303,15303,15303,15303,109,ODO,"Stay where you are, Major. I'll be right there.",11   INT. ANOTHER PART OF THE CAVERN,ANOTHER PART OF THE CAVERN,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15304,15304,15304,15304,110,KIRA,Odo... Odo is that you?,13   INT. CAVERN CORRIDOR,CAVERN CORRIDOR,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15305,15305,15305,15305,111,ODO,"I'm right here, Major.",14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15306,15306,15306,15306,112,KIRA,"Odo, am I glad to see you.",14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15307,15307,15307,15307,113,ODO,What's wrong?,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15308,15308,15308,15308,114,KIRA,You're not going to believe this... my foot is stuck.,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15309,15309,15309,15309,115,ODO,Stuck? (makes his way over to her) How?,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15310,15310,15310,15310,116,KIRA,I don't know. I must've stepped into a fissure or something. I can't get it loose.,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15311,15311,15311,15311,117,ODO,Let me take a look.,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15312,15312,15312,15312,118,ODO,It's not a fissure.,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15313,15313,15313,15313,119,KIRA,Then what is it?,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15314,15314,15314,15314,120,ODO,Your foot's been encased in some kind of crystal. And from the look of things...,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15315,15315,15315,15315,121,ODO,The crystal's spreading.,14   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15316,15316,15316,15316,122,ODO,You're sure you can't pull it loose?,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.5043
+15317,15317,15317,15317,123,KIRA,"Believe me, I've tried.",19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15318,15318,15318,15318,124,ODO,Maybe if you slipped your foot out of your boot.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15319,15319,15319,15319,125,KIRA,"I can barely feel my foot, the crystal is pressing against it so hard. There's no way I can get my boot off.",19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15320,15320,15320,15320,126,ODO,Hold on.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15321,15321,15321,15321,127,ODO,This might hurt a little.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15322,15322,15322,15322,128,KIRA,Go ahead.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15323,15323,15323,15323,129,ODO,I fail to see the humor in this situation.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15324,15324,15324,15324,130,KIRA,"Oh come on, Odo. You have to admit, it's pretty ridiculous. The two of us outsmarted by a chunk of crystal.",19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15325,15325,15325,15325,131,ODO,I'm not giving up just yet.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15326,15326,15326,15326,132,KIRA,Neither am I. Hand me my phaser.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15327,15327,15327,15327,133,KIRA,It's over there. By the palm beacon.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15328,15328,15328,15328,134,ODO,You're sure this is a good idea? If you're not careful...,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15329,15329,15329,15329,135,KIRA,"I'll blow my foot off and Julian will have a chance to prove what a wonderful doctor he is. Don't worry, I have no intention of giving him the opportunity. Now stand back.",19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15330,15330,15330,15330,136,KIRA,I guess that wasn't a very good idea after all.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15331,15331,15331,15331,137,ODO,The crystal formation seems to have somehow fed off the energy from the phaser.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15332,15332,15332,15332,138,ODO,Odo to Mekong. Two to beam out. Energize.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15333,15333,15333,15333,139,ODO,Odo to Mekong. I can't contact the runabout. There's too much interference. I'll have to walk back to the landing site and try to transport you from there.,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15334,15334,15334,15334,140,KIRA,You're worried about leaving me here?,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15335,15335,15335,15335,141,ODO,"Now that you mention it, yes.",19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15336,15336,15336,15336,142,KIRA,"I'll be fine, Odo. I promise not to go anywhere.",19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.4767
+15337,15337,15337,15337,143,ODO,What about our Maquis fugitive?,19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15338,15338,15338,15338,144,KIRA,"If he shows up, I'll make sure he waits here until you get back.",19   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.3182
+15339,15339,15339,15339,145,ROM,"Nog, hand me that phase matrix recalibrator.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15340,15340,15340,15340,146,NOG,"Here you are, Father.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15341,15341,15341,15341,147,QUARK,Is it fixed yet?,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15342,15342,15342,15342,148,ROM,"Not yet, Brother.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15343,15343,15343,15343,149,QUARK,What's taking so long?,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15344,15344,15344,15344,150,NOG,We're working as fast as we can. The replicators' entire power supply grid has been shorted out.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15345,15345,15345,15345,151,ROM,"I told you, Brother, if you don't shut down your replicators at least once a week for routine maintenance, you risk system overloads like this one.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15346,15346,15346,15346,152,QUARK,"You said it ""might"" overload the system. ""Might.""",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15347,15347,15347,15347,153,NOG,"He tried to warn you, Uncle Quark. You should've listened to him.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15348,15348,15348,15348,154,ROM,No. It's my fault. I should have explained it better.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15349,15349,15349,15349,155,QUARK,Of course it's your fault. Everything that goes wrong here is your fault. It says so in your contract. This mess better be cleaned up before lunchtime or I'm taking the losses out of your pay.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15350,15350,15350,15350,156,ROM,"Of course, Brother.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15351,15351,15351,15351,157,ROM,I need to get a replacement power coupling from the storeroom. I'll be right back.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15352,15352,15352,15352,158,JAKE,"Hey, Nog. What's going on?",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15353,15353,15353,15353,159,NOG,"If you're here to order lunch, you'll have to come back in an hour.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15354,15354,15354,15354,160,JAKE,"Actually, I just ate. Hey, that was a pretty funny joke you pulled on my Dad this morning. (off Nog's questioning look) You know, about wanting to join Starfleet.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15355,15355,15355,15355,161,JAKE,"Come on, Nog. You don't really expect me to fall for that one.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15356,15356,15356,15356,162,NOG,Did you tell your father I was joking?,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15357,15357,15357,15357,163,JAKE,"Yeah, kind of.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15358,15358,15358,15358,164,NOG,How could you do that to me? I want you to go back to your father and tell him that you were wrong.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15359,15359,15359,15359,165,JAKE,All right. Take it easy. I mean how was I supposed to know you were serious? You never said you wanted to join Starfleet before.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15360,15360,15360,15360,166,NOG,I'm saying it now.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15361,15361,15361,15361,167,JAKE,So what brought this on?,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15362,15362,15362,15362,168,NOG,I have my reasons.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15363,15363,15363,15363,169,JAKE,Okay. Name one.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15364,15364,15364,15364,170,NOG,Why should I?,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15365,15365,15365,15365,171,JAKE,Cause I'm your friend. And friends don't have secrets from one another.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15366,15366,15366,15366,172,NOG,It isn't a secret. I just don't want to talk about it.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15367,15367,15367,15367,173,JAKE,Why not?,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15368,15368,15368,15368,174,NOG,Because it's personal. Now stop asking me.,23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15369,15369,15369,15369,175,JAKE,"All right. But my father's a pretty smart guy. If this is some kind of trick, he's going to figure it out.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15370,15370,15370,15370,176,NOG,"There's nothing to figure out. I'm going to join Starfleet. And that's that. (looks back at the replicator) Now if you don't mind, I have work to do.",23   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15371,15371,15371,15371,177,ODO,"Computer, lock onto these coordinates and initiate transport sequence.",26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15372,15372,15372,15372,178,COMPUTER,Unable to comply.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15373,15373,15373,15373,179,ODO,Explain.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15374,15374,15374,15374,180,COMPUTER,The high level of atmospheric ionization is inhibiting transporter lock.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15375,15375,15375,15375,181,ODO,Can you compensate for the interference by using pattern enhancers?,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15376,15376,15376,15376,182,COMPUTER,Negative. Pattern enhancers will not function in a polarized ionization field.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15377,15377,15377,15377,183,ODO,Is there any way to achieve a transporter lock in this kind of ionization field?,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15378,15378,15378,15378,184,COMPUTER,Negative.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15379,15379,15379,15379,185,ODO,"Computer, send out a priority one distress signal to Deep Space Nine.",26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15380,15380,15380,15380,186,COMPUTER,Unable to comply. Communications systems are inoperable due to atmospheric interference.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15381,15381,15381,15381,187,ODO,"In that case, launch a communications probe and instruct it to begin a continuous broadcast of our whereabouts as soon as it clears the atmosphere.",26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15382,15382,15382,15382,188,COMPUTER,Working.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15383,15383,15383,15383,189,COMPUTER,Probe launch confirmed.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15384,15384,15384,15384,190,ODO,"Computer, given ideal conditions, how soon can we expect help from Deep Space Nine?",26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15385,15385,15385,15385,191,COMPUTER,Deep Space Nine should receive the probe's distress signal in approximately two days.,26   INT. MEKONG,MEKONG,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,-0.5267
+15386,15386,15386,15386,192,ODO,Kira... I heard phaser fire.,28   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,-0.34
+15387,15387,15387,15387,193,KIRA,"You just missed our friend. He came out of that tunnel. I think he was as surprised as I was. He fired at me from over there, but when I shot back he ran off down the tunnel.",28   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,-0.09
+15388,15388,15388,15388,194,KIRA,"Don't worry, his aim wasn't any better than mine was.",28   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15389,15389,15389,15389,195,ODO,He didn't miss by much.,28   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15390,15390,15390,15390,196,KIRA,This must be my lucky day.,28   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15391,15391,15391,15391,197,SISKO,I see you've put in a request to reassign Ensign Vilix'pran from Cargo Inspection.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15392,15392,15392,15392,198,BASHIR,"I thought it'd be for the best. Given his condition, I don't want him coming in contact with any hazardous materials.",30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15393,15393,15393,15393,199,SISKO,His condition?,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15394,15394,15394,15394,200,BASHIR,Ensign Vilix'pran is budding. The buds will be undergoing individuation in a little over a month.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15395,15395,15395,15395,201,SISKO,You mean... he's pregnant?,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15396,15396,15396,15396,202,BASHIR,Twins.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15397,15397,15397,15397,203,SISKO,Reassignment granted. I'll have to offer the ensign my congratulations the next time I see him.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15398,15398,15398,15398,204,BASHIR,O'Brien and I are throwing him a baby shower in a couple of days. I'm sure it'd mean a lot to him if you were there.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15399,15399,15399,15399,205,SISKO,Are you getting him anything?,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15400,15400,15400,15400,206,BASHIR,O'Brien's building him a hatchling pond and I've already placed an order with Garak for some baby clothes.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15401,15401,15401,15401,207,SISKO,Count me in.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15402,15402,15402,15402,208,NOG,Commander Sisko.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15403,15403,15403,15403,209,SISKO,"If you'll excuse me, Doctor?",30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15404,15404,15404,15404,210,BASHIR,By all means.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15405,15405,15405,15405,211,NOG,"So, Commander, have you made up your mind yet? About my letter?",30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15406,15406,15406,15406,212,SISKO,Not exactly.,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15407,15407,15407,15407,213,NOG,"What does that mean, ""not exactly?""",30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15408,15408,15408,15408,214,SISKO,"Look, Nog, I have to be honest with you, when I think of candidates for Starfleet Academy, yours is not the first name that comes to mind.",30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15409,15409,15409,15409,215,NOG,Why not? Because I'm a Ferengi?,30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15410,15410,15410,15410,216,SISKO,"Not at all. The fact is, your reputation on this station leaves a lot to be desired. Your school grades are mediocre at best, you've had more than a few run-ins with Constable Odo...",30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15411,15411,15411,15411,217,NOG,"Okay, I've made some mistakes. I admit that. But I can do better. Just give me a chance.",30   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15412,15412,15412,15412,218,DAX,"You wanted to see me, Benjamin?",32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15413,15413,15413,15413,219,SISKO,"Lieutenant, I need a complete inventory on the contents of Cargo Bay Twelve.",32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15414,15414,15414,15414,220,DAX,Didn't we inventory Twelve last week?,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15415,15415,15415,15415,221,SISKO,I'd like it done again.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15416,15416,15416,15416,222,DAX,All right. I'll assign a crew to it immediately.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15417,15417,15417,15417,223,SISKO,"Actually, I already have someone in mind for the job.",32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15418,15418,15418,15418,224,DAX,Really? Who?,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15419,15419,15419,15419,225,SISKO,Nog.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15420,15420,15420,15420,226,DAX,Nog?,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15421,15421,15421,15421,227,SISKO,He's asked for a recommendation to Starfleet Academy.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15422,15422,15422,15422,228,DAX,Nog.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15423,15423,15423,15423,229,SISKO,My reaction exactly.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15424,15424,15424,15424,230,DAX,"I've always thought it would be interesting to have a Ferengi in Starfleet, but Nog?",32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15425,15425,15425,15425,231,SISKO,"I know it seems unlikely, but before I make up my mind, I want to give him a chance to prove himself.",32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15426,15426,15426,15426,232,DAX,"Commander, there's a lot of valuable equipment in Cargo Bay Twelve.",32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15427,15427,15427,15427,233,SISKO,I know.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15428,15428,15428,15428,234,DAX,Maybe I'd better assign a couple of crewmembers to... assist him.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15429,15429,15429,15429,235,SISKO,No. I want him to do it alone. No help. No interference. And no one looking over his shoulder.,32   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15430,15430,15430,15430,236,ODO,I wish I could analyze this material.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15431,15431,15431,15431,237,KIRA,Too bad our tricorders don't work.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15432,15432,15432,15432,238,ODO,"Or our communicators... or the transporter. Our fugitive couldn't have picked a better place to hide. Very convenient, don't you think?",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15433,15433,15433,15433,239,KIRA,You make it sound like he planned on trapping us.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15434,15434,15434,15434,240,ODO,Maybe he did. But it's not going to work. I'm going to get you out of here.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15435,15435,15435,15435,241,KIRA,"How much longer do you think I have, Odo?",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15436,15436,15436,15436,242,ODO,Long enough.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15437,15437,15437,15437,243,KIRA,"I figure if the crystal keeps growing at its current rate, it'll cover me completely in less than twelve hours.",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15438,15438,15438,15438,244,KIRA,Unless this cave collapses first.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15439,15439,15439,15439,245,ODO,(his frustration leaking through) There has to be a way to shatter the crystal.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15440,15440,15440,15440,246,KIRA,I'm sure there is. But that doesn't mean that we're going to find it in the next twelve hours.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15441,15441,15441,15441,247,ODO,We'll find it.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15442,15442,15442,15442,248,KIRA,"Odo, maybe you should go back to Deep Space Nine.",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15443,15443,15443,15443,249,ODO,"We're too far away. Even if they sent a rescue team right now, they'd never make it here in time.",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15444,15444,15444,15444,250,KIRA,"Maybe not, but there's no point in both of us being buried here.",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15445,15445,15445,15445,251,ODO,You mean you want me to leave?,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15446,15446,15446,15446,252,KIRA,You've done all you can.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15447,15447,15447,15447,253,ODO,"Major, I haven't even begun yet.",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15448,15448,15448,15448,254,KIRA,"Oh, I see. So everything you've done up until now has only been... a warmup exercise.",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15449,15449,15449,15449,255,ODO,(trying to raise her spirits) Exactly. I've just been lulling this crystal into a false sense of security.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15450,15450,15450,15450,256,KIRA,I think it's working.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15451,15451,15451,15451,257,ODO,"Major, do you ever look at the Criminal Activity Reports we get from Starfleet Security?",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15452,15452,15452,15452,258,KIRA,Not often.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15453,15453,15453,15453,259,ODO,You should. They make fascinating,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15454,15454,15454,15454,260,KIRA,So all we have to do is find some Nausicaan raiders and ask them to give us a hand.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15455,15455,15455,15455,261,ODO,I might be able to put together a makeshift generator using the covariant oscillator from the runabout. The trick will be finding the right frequency to create a sympathetic vibration inside this crystal. I'll have to go back to the runabout and start assembling the generator. Keep your phaser ready in case our friend comes back.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15456,15456,15456,15456,262,KIRA,I will.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15457,15457,15457,15457,263,ODO,I'll be back as soon as I can.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15458,15458,15458,15458,264,KIRA,"Constable. When we get back to the station, I'm going to start reading those Criminal Activity Reports.",33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15459,15459,15459,15459,265,ODO,I'll make sure you get them.,33   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15460,15460,15460,15460,266,DAX,"Due to a computer error, we lost the manifest on this entire cargo bay. Commander Sisko would like you to re- inventory the contents.",34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15461,15461,15461,15461,267,NOG,Of the entire cargo bay?,34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15462,15462,15462,15462,268,DAX,That's right.,34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15463,15463,15463,15463,269,NOG,By myself?,34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15464,15464,15464,15464,270,DAX,"Look Nog, Starfleet isn't only about exploration and diplomacy. A lot of the time, it's just hard work.",34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15465,15465,15465,15465,271,NOG,When does Commander Sisko want it done?,34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15466,15466,15466,15466,272,DAX,He'd like the manifest on his desk first thing tomorrow morning.,34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15467,15467,15467,15467,273,NOG,"He'll have it tonight, before he goes off duty.",34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15468,15468,15468,15468,274,DAX,Tomorrow morning will be fine.,34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15469,15469,15469,15469,275,NOG,"Now if you don't mind, Lieutenant, I'd like to get started.",34   INT. CARGO BAY TWELVE,CARGO BAY TWELVE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15470,15470,15470,15470,276,ODO,What's wrong?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15471,15471,15471,15471,277,KIRA,"It's getting a little snug in here, that's all.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15472,15472,15472,15472,278,KIRA,How long do you think it'll take the generator to find the right frequency?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15473,15473,15473,15473,279,ODO,It's hard to say. It could take hours.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15474,15474,15474,15474,280,KIRA,I don't suppose there's any way to speed things up?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15475,15475,15475,15475,281,KIRA,I didn't think so.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15476,15476,15476,15476,282,ODO,"Don't worry, Major. I have every intention of getting us back to the station by tomorrow night. Chief O'Brien is counting on it.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15477,15477,15477,15477,283,KIRA,What does O'Brien have to do with it?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15478,15478,15478,15478,284,ODO,(doesn't want to get into it) We have... an appointment.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15479,15479,15479,15479,285,KIRA,What kind of appointment?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15480,15480,15480,15480,286,KIRA,"Talk to me, Odo. It'll help pass the time.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15481,15481,15481,15481,287,ODO,The Chief and I are supposed to go kayaking together... in a holosuite.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15482,15482,15482,15482,288,KIRA,You're kidding. How did he talk you into that?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15483,15483,15483,15483,289,ODO,He didn't talk me into anything. It's really quite enjoyable.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15484,15484,15484,15484,290,KIRA,You mean you've done it before?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15485,15485,15485,15485,291,ODO,"Twice. He invited me one evening and, seeing I had no other plans, I accepted.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15486,15486,15486,15486,292,KIRA,I'm sorry. I'm just having a little trouble picturing you and O'Brien together in a boat.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15487,15487,15487,15487,293,ODO,"Well if it helps any, he's the one who does all the singing.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15488,15488,15488,15488,294,KIRA,He sings?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15489,15489,15489,15489,295,ODO,He says it's necessary to establish a smooth paddling rhythm.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15490,15490,15490,15490,296,KIRA,This gets better and better. What kind of songs does he sing?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15491,15491,15491,15491,297,ODO,"Ancient human sea chanties, mostly. He's particularly fond of one called ""Louie, Louie.""",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15492,15492,15492,15492,298,KIRA,I never knew O'Brien was so... nautical.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15493,15493,15493,15493,299,ODO,"Next to his work and his family, ""shooting the rapids"" is his favorite activity. He's had the holo-program since he was on the Enterprise.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15494,15494,15494,15494,300,KIRA,So how long do these boat trips usually take?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15495,15495,15495,15495,301,ODO,That depends.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15496,15496,15496,15496,302,KIRA,On what?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15497,15497,15497,15497,303,ODO,"On how many times we capsize. The truth is, Major, Chief O'Brien's never completed the entire program.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15498,15498,15498,15498,304,KIRA,Not once?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15499,15499,15499,15499,305,ODO,Not in seven years of trying.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15500,15500,15500,15500,306,KIRA,It must be a very difficult program.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15501,15501,15501,15501,307,ODO,"Extremely difficult. According to him, he's dislocated his shoulder a half dozen times trying to make it down those rapids.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15502,15502,15502,15502,308,KIRA,Then why does he keep doing it?,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15503,15503,15503,15503,309,ODO,Because he loves it. And it's been my observation that you humanoids have a hard time giving up the things you love... no matter how much they might hurt you.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15504,15504,15504,15504,310,ODO,I should check the equipment.,36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15505,15505,15505,15505,311,KIRA,"The equipment's fine. I'm glad you're here, Odo.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15506,15506,15506,15506,312,ODO,"I'm glad I'm here, too.",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15507,15507,15507,15507,313,KIRA,"(alarmed, reacting to what she sees) Odo...",36   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15508,15508,15508,15508,314,ODO,Major?,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15509,15509,15509,15509,315,KIRA,I'm all right. What about the generator?,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15510,15510,15510,15510,316,ODO,It's fine. But it still hasn't found the right frequency to shatter the crystal.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15511,15511,15511,15511,317,KIRA,Tell it to hurry. A few more tremors like that last one and this whole cave will collapse.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15512,15512,15512,15512,318,ODO,"Then we'll have to make sure we're not here when that happens. After all, we've been in worse situations than this one and come out all right.",39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15513,15513,15513,15513,319,KIRA,Name three.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15514,15514,15514,15514,320,KIRA,I can't think of any either.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15515,15515,15515,15515,321,ODO,It's not that. It's just... That wasn't the response I expected.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15516,15516,15516,15516,322,KIRA,What do you mean?,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15517,15517,15517,15517,323,ODO,"In the detective novels Chief O'Brien gives me to read, when the hero says, ""We've been in tougher scrapes than this one,"" his friends always agree.",39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.872
+15518,15518,15518,15518,324,KIRA,I never read any of those books.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15519,15519,15519,15519,325,ODO,There must be some humanoid platitude I can use to cheer you up.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15520,15520,15520,15520,326,KIRA,"I'm afraid I don't have much use for platitudes, Odo. I'd rather just face the truth about a situation and go on from there.",39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15521,15521,15521,15521,327,ODO,I feel the same way.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15522,15522,15522,15522,328,KIRA,I know.That's why you and I get along so well.,39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15523,15523,15523,15523,329,ODO,"I suppose it is. But in this case, the truth is we are going to get you out of here, Major. And that's no platitude.",39   INT. CAVERN CHAMBER - CLOSE ON KIRA,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15524,15524,15524,15524,330,SISKO,"I have to admit, this is impressive work.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15525,15525,15525,15525,331,DAX,Incredible is more like it. He inventoried the whole cargo bay in under five hours.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15526,15526,15526,15526,332,SISKO,You're sure he didn't have any help?,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15527,15527,15527,15527,333,DAX,"According to the internal sensors, no one else entered that cargo bay for the entire time he was there.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15528,15528,15528,15528,334,SISKO,I guess he learned a few things working in his uncle's storeroom. (trying to put it delicately) I assume all our equipment is still... where it's supposed to be?,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15529,15529,15529,15529,335,DAX,"If you're asking if he stole anything, the answer is no. He even found some items we missed during our last inventory.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15530,15530,15530,15530,336,SISKO,"Okay, so we know he's a hard worker, but the question remains: Why does he want to join Starfleet?",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15531,15531,15531,15531,337,DAX,I have no idea.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15532,15532,15532,15532,338,SISKO,So we still can't be sure if he's serious or if this is all part of some elaborate scam.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15533,15533,15533,15533,339,QUARK,"Commander, we need to talk.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15534,15534,15534,15534,340,SISKO,Go right ahead.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15535,15535,15535,15535,341,QUARK,It's about my nephew.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15536,15536,15536,15536,342,SISKO,"Somehow, I'm not surprised.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15537,15537,15537,15537,343,QUARK,"Rom, tell Commander Sisko what's on your mind.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15538,15538,15538,15538,344,ROM,"Well, the thing is... I'm not quite sure...",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15539,15539,15539,15539,345,QUARK,What my brother's trying to say is he's furious that you'd even consider allowing his son to attend Starfleet Academy. Isn't that right?,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15540,15540,15540,15540,346,ROM,"Well, I...",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15541,15541,15541,15541,347,QUARK,"You see. He can barely speak he's so angry. Now we... I mean, he... demands you refuse the boy's request and return his latinum immediately.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15542,15542,15542,15542,348,SISKO,"Rom, is that what you want?",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15543,15543,15543,15543,349,ROM,The thing is... we've always assumed... that is... I did promise that Nog would become... my brother's apprentice...,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15544,15544,15544,15544,350,DAX,That explains things.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15545,15545,15545,15545,351,QUARK,"Lieutenant, please, this is between my brother and Commander Sisko.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15546,15546,15546,15546,352,SISKO,"Actually, that's not true. Your... brother's feelings aren't at issue here. According to both Federation law and Ferengi tradition, Nog is old enough to make his own decisions.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15547,15547,15547,15547,353,ROM,"You see, brother, I told you.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15548,15548,15548,15548,354,SISKO,"And as for the latinum, must I remind you of the first Rule of Acquisition?",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15549,15549,15549,15549,355,ROM,"""Once you have their money, you never give it back."" It's one of my brother's favorites. Isn't that so, Brother?",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15550,15550,15550,15550,356,QUARK,I'm not going to stand here and argue Rules of Acquisition with a human.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15551,15551,15551,15551,357,DAX,Especially one who knows them as well as you.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15552,15552,15552,15552,358,QUARK,"(ignoring her, to Sisko) That apprenticeship money is rightfully mine. And I will protest your actions to the Nagus himself if I have to.",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15553,15553,15553,15553,359,SISKO,Give the Nagus my best.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15554,15554,15554,15554,360,ROM,"Can we leave now, brother?",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15555,15555,15555,15555,361,QUARK,Would you stop calling me that?,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15556,15556,15556,15556,362,ROM,Calling you what?,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15557,15557,15557,15557,363,QUARK,"""Brother.""",43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15558,15558,15558,15558,364,ROM,But you are my brother. Unless mother lied to us.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15559,15559,15559,15559,365,QUARK,If only that were true.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15560,15560,15560,15560,366,DAX,So I take it you are going to write Nog's letter of recommendation?,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15561,15561,15561,15561,367,SISKO,I don't know. That depends on Nog.,43   INT. REPLIMAT,REPLIMAT,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15562,15562,15562,15562,368,ODO,I don't understand it. I've run through the entire harmonic spectrum and none of the frequencies have had an effect on the crystal. It's almost as if the structure of the crystal is mutating to keep us from finding the right frequency.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15563,15563,15563,15563,369,KIRA,Odo.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15564,15564,15564,15564,370,ODO,"Yes, Major.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15565,15565,15565,15565,371,ODO,I wish there was something else I could do...,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15566,15566,15566,15566,372,KIRA,Just keep talking to me.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15567,15567,15567,15567,373,ODO,What do you want me to say?,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0772
+15568,15568,15568,15568,374,KIRA,Anything. Tell me a story.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15569,15569,15569,15569,375,ODO,A story?,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15570,15570,15570,15570,376,KIRA,I know. Tell me how you got your name.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15571,15571,15571,15571,377,ODO,"My name? Come to think of it, that is an amusing story.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15572,15572,15572,15572,378,KIRA,Tell it to me.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15573,15573,15573,15573,379,ODO,"Well, as you know, when Doctor Mora first brought me to his laboratory, it was under Cardassian supervision. All specimens had to be clearly labeled in Cardassian, so that the overseers would always know what the scientists were working on. Since no one could decide exactly what I was, Mora labelled me ""Unknown Sample,"" which the overseer translated into Cardassian as ""Odo'ital.""",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15574,15574,15574,15574,380,KIRA,"So your name is ""Unknown Sample?""",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15575,15575,15575,15575,381,ODO,"No. ""Odo'ital"" literally means ""Nothing."" Even after it became clear that I was sentient, the Bajoran scientists kept calling me that. As a joke, they split it into two words, like a Bajoran name: ""Odo Ital."" Which eventually got shortened...",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15576,15576,15576,15576,382,KIRA,To Odo.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15577,15577,15577,15577,383,ODO,"But the thing is, for the longest time, when anyone spoke my name, the first thing I'd think of was what it meant: ""Nothing."" What better way to describe me? I had no family, no friends, no place where I belonged.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15578,15578,15578,15578,384,ODO,I thought it was the most appropriate name anyone could give me. And then I met you...,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15579,15579,15579,15579,385,ODO ,"And the others. Sisko, Dax, even Quark. And now, when I hear one of you call me ""Odo,"" I no longer think of myself as ""Nothing."" I think of myself as... me.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15580,15580,15580,15580,386,ODO,"I'm sorry, Major. I guess that story wasn't as amusing as I'd hoped it would be.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15581,15581,15581,15581,387,KIRA,No. I liked it very much.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15582,15582,15582,15582,388,KIRA,"The ultrasonic generator isn't going to work, is it?",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15583,15583,15583,15583,389,ODO,"No, I'm afraid it's not.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15584,15584,15584,15584,390,KIRA,I don't suppose you have any other ideas.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15585,15585,15585,15585,391,ODO,I wish I had.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15586,15586,15586,15586,392,KIRA,"If it makes you feel better, I don't have any either.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15587,15587,15587,15587,393,ODO,It just doesn't make sense. The ultrasonic generator should have worked. Something's not right here.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15588,15588,15588,15588,394,KIRA,"Odo, you've done your best. Now I think it's time for you to go.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15589,15589,15589,15589,395,ODO,Go?,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15590,15590,15590,15590,396,KIRA,This place could collapse at any minute. That Maquis has probably been killed already by one of the cave-ins. There's nothing more you can do for me.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15591,15591,15591,15591,397,ODO,If you're asking me to leave...,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15592,15592,15592,15592,398,KIRA,No. I know you wouldn't listen to me.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15593,15593,15593,15593,399,ODO,You're right about that.,46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15594,15594,15594,15594,400,KIRA,"So as your superior officer, I'm telling you to take the runabout and get the hell off this moon. That's an order.",46   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15595,15595,15595,15595,401,KIRA,"Odo, what are you standing there for? I told you to get out of here.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15596,15596,15596,15596,402,ODO,I'm not leaving.,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15597,15597,15597,15597,403,KIRA,"Constable, I gave you a direct order.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15598,15598,15598,15598,404,ODO,"You can order me all you want. As of now, I'm resigning my commission.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15599,15599,15599,15599,405,KIRA,"Odo, if you stay here, you'll die.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15600,15600,15600,15600,406,ODO,"You don't know that for certain. And even if it were true, I'm not going to abandon you.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15601,15601,15601,15601,407,KIRA,But I want you to go.,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15602,15602,15602,15602,408,ODO,Don't you understand? I can't.,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15603,15603,15603,15603,409,KIRA,You have to.,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15604,15604,15604,15604,410,KIRA,"Please, Odo.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15605,15605,15605,15605,411,ODO,No. I won't leave you.,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15606,15606,15606,15606,412,KIRA,Why not?,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15607,15607,15607,15607,413,ODO,"Because... Because, I'm in love with you.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15608,15608,15608,15608,414,ODO,So now you know.,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15609,15609,15609,15609,415,KIRA,Odo...,48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15610,15610,15610,15610,416,KIRA,"I'm in love with you, too.",48   INT. CAVERN CHAMBER - CONTINUOUS,CAVERN CHAMBE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15611,15611,15611,15611,417,NOG,"You wanted to see me, Commander?",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15612,15612,15612,15612,418,SISKO,Nog I've given your request a lot of thought.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15613,15613,15613,15613,419,NOG,"I appreciate that, Commander.",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15614,15614,15614,15614,420,SISKO,But I'm afraid I have to turn you down.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15615,15615,15615,15615,421,NOG,Turn me down? Why? Did I do something wrong?,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15616,15616,15616,15616,422,SISKO,"It's not anything you did, Nog. You're just not Academy material.",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15617,15617,15617,15617,423,SISKO,Here. This belongs to you.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15618,15618,15618,15618,424,NOG,"Commander, can't we talk about this?",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15619,15619,15619,15619,425,SISKO,There's nothing to talk about. We both know you'd never make it through the Academy. You couldn't handle the workload or the discipline. You wouldn't last two weeks.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15620,15620,15620,15620,426,NOG,That's not true. I'm a hard worker. I proved that to you.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15621,15621,15621,15621,427,SISKO,It doesn't matter. I'm not going to place my reputation on the line just to satisfy some whim of yours.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15622,15622,15622,15622,428,NOG,It's not just a whim. I'm serious about joining Starfleet.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15623,15623,15623,15623,429,SISKO,"I don't have time for this, Nog. Whatever little scheme you had, you can forget it. You're not getting that letter.",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15624,15624,15624,15624,430,NOG,It's not a joke... or a scheme. I want to join Starfleet. I want it more than I've ever wanted anything in my life.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15625,15625,15625,15625,431,SISKO,You're a Ferengi. Why would you want to be in Starfleet? Where's the profit in it?,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15626,15626,15626,15626,432,NOG,I don't care about profit.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15627,15627,15627,15627,433,SISKO,"Then what do you care about? Come on, Nog, tell me. Why is it so damned important for you to get into Starfleet? Why are you doing this?",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15628,15628,15628,15628,434,NOG,(finally blurts out the truth) Because I don't want to end up like my father.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15629,15629,15629,15629,435,SISKO,Your father.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15630,15630,15630,15630,436,NOG,That's right. My father. He's been chasing after profit his whole life. And what has it gotten him? Nothing. And you know why? Because he doesn't have the lobes. And neither do I.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15631,15631,15631,15631,437,SISKO,"And ""A Ferengi without profit... """,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15632,15632,15632,15632,438,NOG,"""... Is no Ferengi at all.""",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,-0.296
+15633,15633,15633,15633,439,SISKO,The eighteenth Rule of Acquisition.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15634,15634,15634,15634,440,NOG,"My father's a mechanical genius. He could've been the chief engineer of a starship if he'd had the opportunity. But he went into business instead, like a good Ferengi. The only thing is, he's not a good Ferengi... not when it comes to acquiring profit. So now all he has to live for is the slim chance that someday, somehow, he might be able to take over my uncle's bar. Well I'm not going to make the same mistake. I want to do something with my life... something worthwhile.",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.9694
+15635,15635,15635,15635,441,SISKO,Like joining Starfleet.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15636,15636,15636,15636,442,NOG,"I might not have an instinct for business, but I've got my father's hands and my uncle's tenacity. I know I've got something to offer, I just need a chance to prove it.",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15637,15637,15637,15637,443,SISKO,All right. I'll see to it you get that chance.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15638,15638,15638,15638,444,NOG,You'll recommend me to Starfleet Academy?,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15639,15639,15639,15639,445,SISKO,I'll send the letter first thing tomorrow morning.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15640,15640,15640,15640,446,NOG,"Commander, I don't know how to thank you.",52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15641,15641,15641,15641,447,SISKO,Don't thank me yet. You've got a lot of work ahead of you.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15642,15642,15642,15642,448,NOG,Don't worry. You'll never regret this.,52   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15643,15643,15643,15643,449,KIRA,Odo?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15644,15644,15644,15644,450,ODO,"Yes, Major.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15645,15645,15645,15645,451,KIRA,You haven't said a word in almost an hour.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15646,15646,15646,15646,452,ODO,I've just been going over a few things in my mind.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15647,15647,15647,15647,453,KIRA,"You've been thinking about me, haven't you?",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15648,15648,15648,15648,454,KIRA ,"I'm sorry that it took so long for me to tell you how I feel about you. Maybe if I'd told you earlier, things would've been different.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15649,15649,15649,15649,455,KIRA,What are you smiling about?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15650,15650,15650,15650,456,ODO,"(still looking at the phaser hits) I think I've finally figured out what's going on here. This whole situation hasn't seemed right since the beginning. There've been too many coincidences, too many unanswered questions.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15651,15651,15651,15651,457,KIRA,Are you still trying to prove this is some kind of conspiracy?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15652,15652,15652,15652,458,ODO,You said the Maquis was standing about here when he fired at you?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15653,15653,15653,15653,459,KIRA,That's right.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15654,15654,15654,15654,460,ODO,How tall was he? My height?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15655,15655,15655,15655,461,KIRA,No. Maybe a little shorter.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15656,15656,15656,15656,462,ODO,Like this?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15657,15657,15657,15657,463,KIRA,More or less. Why does it matter anyway?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15658,15658,15658,15658,464,ODO,"It matters because from this position, you're blocking those phaser hits.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15659,15659,15659,15659,465,ODO,There's no way someone standing here could've hit those rocks without hitting you first.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15660,15660,15660,15660,466,KIRA,Maybe he was standing somewhere else.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15661,15661,15661,15661,467,ODO,Maybe. Or maybe you were lying to me. Which makes two times you've lied to me today.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15662,15662,15662,15662,468,KIRA,What are you talking about?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15663,15663,15663,15663,469,ODO,You lied when you said you were shot at by the Maquis. And you lied when you said you loved me.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15664,15664,15664,15664,470,ODO,"I wish you did. But you don't. Remember Major, I pride myself on my ability to observe human nature. And I've watched you for the past three years. In all that time, I never saw the slightest indication that you had those kinds of feelings for me. You like me. You think of me as a close friend... but love? I'm afraid not.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15665,15665,15665,15665,471,KIRA,Maybe I said I loved you because I thought it'd make you feel better. Because I thought it was what you wanted to hear.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15666,15666,15666,15666,472,ODO,"You're lying again. The Kira I know values our friendship far too much to lie to me, even for the best of reasons.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15667,15667,15667,15667,473,KIRA,Odo... I can explain...,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15668,15668,15668,15668,474,ODO,Good. You can start by telling me who you are and what you've done with Kira.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15669,15669,15669,15669,475,FEMALE CHANGELING,"Well done, Odo. You really are quite a skillful investigator.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15670,15670,15670,15670,476,ODO,And you're quite a skillful changeling.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15671,15671,15671,15671,477,FEMALE CHANGELING,You still have much to learn.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15672,15672,15672,15672,478,ODO,"If you want to share your wisdom with me, you can start by telling me where Major Kira is.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15673,15673,15673,15673,479,FEMALE CHANGELING,Close by.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15674,15674,15674,15674,480,ODO,"You were the fugitive we were chasing, weren't you?",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15675,15675,15675,15675,481,FEMALE CHANGELING,That's correct.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15676,15676,15676,15676,482,ODO,How'd you get your hands on a Maquis ship?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15677,15677,15677,15677,483,FEMALE CHANGELING,"Now, Odo, you can't expect me to give you all the answers.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15678,15678,15678,15678,484,ODO,But why did you lead us here? And why replace Kira?,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15679,15679,15679,15679,485,FEMALE CHANGELING,I needed to understand why you chose to live with the Solids rather than your own people. I suspected it had something to do with Major Kira. And now I'm certain of it.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15680,15680,15680,15680,486,ODO,So your plan was to let me think she died. You thought that would take away my link to the Solids.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15681,15681,15681,15681,487,FEMALE CHANGELING,And then you would return to us.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15682,15682,15682,15682,488,ODO,"I assure you, nothing will ever make me do that.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15683,15683,15683,15683,489,FEMALE CHANGELING,I wouldn't be so sure.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15684,15684,15684,15684,490,ODO,(still aiming the phaser) Tell me where she is.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15685,15685,15685,15685,491,FEMALE CHANGELING,"And if I don't, then what? You'll shoot me? No changeling has ever harmed another.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15686,15686,15686,15686,492,ODO,There's a first time for everything.,53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15687,15687,15687,15687,493,FEMALE CHANGELING,"Major Kira is down that tunnel, two hundred meters south of here. Save her if it suits you. But it won't make any difference. She's never going to love you. How could she? You're a changeling.",53   INT. CAVERN CHAMBER,CAVERN CHAMBER,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15688,15688,15688,15688,494,ODO,Major. Wake up.,57   INT. SIDE CORRIDOR,SIDE CORRIDOR,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15689,15689,15689,15689,495,KIRA,"Odo, what happened? How did I get here...",57   INT. SIDE CORRIDOR,SIDE CORRIDOR,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15690,15690,15690,15690,496,ODO,It's a long story. Right now we have to get you to the Mekong.,57   INT. SIDE CORRIDOR,SIDE CORRIDOR,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15691,15691,15691,15691,497,KIRA,"There's one thing I still don't understand. If that Founder wanted to test your allegiance to the Solids, why did she impersonate me?",59   INT. PROMENADE,PROMENADE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15692,15692,15692,15692,498,ODO,I suppose it's because you happened to be with me in the runabout. It could just as easily have been Commander Sisko... or Doctor Bashir.,59   INT. PROMENADE,PROMENADE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15693,15693,15693,15693,499,KIRA,So what finally made you realize the truth?,59   INT. PROMENADE,PROMENADE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15694,15694,15694,15694,500,ODO,Eventually she made a mistake. She said something I know you would never say.,59   INT. PROMENADE,PROMENADE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15695,15695,15695,15695,501,KIRA,And what was that?,59   INT. PROMENADE,PROMENADE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15696,15696,15696,15696,502,ODO,Just a slip of the tongue. Nothing important.,59   INT. PROMENADE,PROMENADE,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15697,15697,15697,15697,503,QUARK,"I tell you, I won't stand for it. No nephew of mine is going to disgrace our family name by joining Starfleet.",60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15698,15698,15698,15698,504,NOG,But Uncle Quark...,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15699,15699,15699,15699,505,QUARK,My mind is made up. I forbid it.,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15700,15700,15700,15700,506,ROM,No you don't.,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15701,15701,15701,15701,507,QUARK,"Rom, stay out of this.",60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15702,15702,15702,15702,508,ROM,"I will not. When it comes to the bar, you may be in charge, but when it comes to my son, I make the decisions.",60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15703,15703,15703,15703,509,QUARK,Then you tell him he can't go.,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15704,15704,15704,15704,510,ROM,I'll do no such thing.,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15705,15705,15705,15705,511,QUARK,What?,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15706,15706,15706,15706,512,ROM,Nog. Good luck. I would be proud to have a son in Starfleet.,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15707,15707,15707,15707,513,QUARK,You're both insane.,60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15708,15708,15708,15708,514,NOG,"Like father, like son.",60   INT. QUARK'S,QUARK'S,INT.,Heart of Stone,1994-11-17,Deep Space Nine,460.txt,0.0
+15709,15709,15709,15709,0,O'BRIEN,O'Brien to Sisko.,2    INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15710,15710,15710,15710,1,SISKO,Go ahead.,2    INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15711,15711,15711,15711,2,O'BRIEN,We've swept all of Level Seventeen. No sign of the changeling.,2    INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15712,15712,15712,15712,3,SISKO,Move down to Eighteen. We'll meet you there after we finish checking the guest quarters.,2    INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15713,15713,15713,15713,4,KIRA,"Just watch yourself, Chief. This changeling knows the station as well as we do. He could be anywhere... or anything.",2    INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15714,15714,15714,15714,5,O'BRIEN,"Aye, Major.",2    INT. GUEST QUARTERS (OPTICAL),GUEST QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15715,15715,15715,15715,6,SISKO,We found him. He's headed for the Promenade.,3   INT. GUEST QUARTERS - BEDROOM (OPTICAL),GUEST QUARTERS - BEDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15716,15716,15716,15716,7,BASHIR,"All right, I want phaser sweeps of everything in the Promenade. He's here somewhere. Let's find him. On three. One, two...",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15717,15717,15717,15717,8,O'BRIEN,Bang. You're dead.,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15718,15718,15718,15718,9,ODO,And so is Doctor Bashir.,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15719,15719,15719,15719,10,KIRA,"Computer, elapsed time?",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15720,15720,15720,15720,11,COMPUTER,"Three hours, twenty-seven minutes.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15721,15721,15721,15721,12,ODO,"That's not good enough. If one of my people were loose on the station for that long, there's no telling what damage he could do.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15722,15722,15722,15722,13,SISKO,"Schedule another surprise drill. If the Dominion tries to infiltrate the station, I want to be ready for them.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15723,15723,15723,15723,14,ODO,"And remind everyone that next time, they'd better sweep everything. A changeling can be anything. A post, a pillar... Even a patch of reflective surfacing.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15724,15724,15724,15724,15,O'BRIEN,"We get the message, Constable.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15725,15725,15725,15725,16,ODO,"I hope so, Chief. Just remember, the Founders are even better shape-shifters than I am.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15726,15726,15726,15726,17,QUARK,"Excuse me, but if you're done scaring my customers away, I'd like to reopen the bar.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15727,15727,15727,15727,18,KIRA,Go right ahead.,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15728,15728,15728,15728,19,QUARK,"Thank you. Constable, it just occurred to me that if I knew in advance how long it would take them to catch you during the next drill... Well let's just say you and I could split a substantial profit.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15729,15729,15729,15729,20,QUARK,Think about it.,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15730,15730,15730,15730,21,KIRA,Performance reviews will be held starting at oh-eight-hundred hours tomorrow in the wardroom. Check with your team leader for the schedule. Dismissed.,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15731,15731,15731,15731,22,KIRA,How about some dinner?,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15732,15732,15732,15732,23,SISKO,Not tonight. I've got a previous engagement.,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15733,15733,15733,15733,24,KIRA,"Oh, that's right. Captain Yates got in this morning. Give her my regards.",4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15734,15734,15734,15734,25,SISKO,I will.,4   INT. PROMENADE,PROMENADE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15735,15735,15735,15735,26,SISKO,Come in.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15736,15736,15736,15736,27,KASIDY,"Hello, Ben. I hope I'm not too late.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15737,15737,15737,15737,28,SISKO,Some things are worth waiting for.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15738,15738,15738,15738,29,KASIDY,Nice.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15739,15739,15739,15739,30,SISKO,I'm glad you like it.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15740,15740,15740,15740,31,SISKO,Here. For you.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15741,15741,15741,15741,32,KASIDY,"Isn't that a coincidence? I have something for you, too.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15742,15742,15742,15742,33,KASIDY,"(reacting to the scarf, delighted) Where'd you find Tholian silk?",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15743,15743,15743,15743,34,SISKO,The Tholian ambassador owed me a favor.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15744,15744,15744,15744,35,SISKO,May I?,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15745,15745,15745,15745,36,KASIDY,"It's not silk, but I think you'll like it.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15746,15746,15746,15746,37,KASIDY,It's from my brother's team.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15747,15747,15747,15747,38,SISKO,The Pike City Pioneers.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15748,15748,15748,15748,39,KASIDY,"My brother says if you're ever on Cestus Three, he'll get you seats in the dugout.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15749,15749,15749,15749,40,SISKO,How far is it to Cestus Three?,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15750,15750,15750,15750,41,KASIDY,"Eight weeks, at maximum warp.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15751,15751,15751,15751,42,SISKO,To see a real baseball game... might be worth the trip.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.2263
+15752,15752,15752,15752,43,KASIDY,"Tell you what, if you ever decide to go, I'll take you there myself. As long as you don't mind traveling by freighter.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15753,15753,15753,15753,44,SISKO,I might just take you up on that.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15754,15754,15754,15754,45,KASIDY,Did you do this all yourself?,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15755,15755,15755,15755,46,SISKO,My father always says the way to a woman's heart is through her stomach.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15756,15756,15756,15756,47,KASIDY,"Ah, so it's my heart you're after.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15757,15757,15757,15757,48,SISKO,I never could keep a secret.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15758,15758,15758,15758,49,KASIDY,"In that case, maybe you could tell me what all those maintenance crews are doing in the docking ring.",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15759,15759,15759,15759,50,SISKO,Just some retrofitting.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15760,15760,15760,15760,51,KASIDY,Now you are keeping a secret.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15761,15761,15761,15761,52,SISKO,Let's just say we're preparing a few surprises in case the Dominion comes through the wormhole.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15762,15762,15762,15762,53,KASIDY,Seems like everyone's got the Dominion on their minds these days. I hear the Cardassians have even sealed their borders.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15763,15763,15763,15763,54,SISKO,They're worried about being infiltrated by the Dominion.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15764,15764,15764,15764,55,SISKO ,The idea that there might be changelings loose in the Alpha Quadrant has everyone a little nervous.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15765,15765,15765,15765,56,KASIDY,"All I know is I've got a cargo hold full of Teresian hardwood bound for Cardassia Prime and now I can't deliver it. If you ask me, I think everyone's being a little paranoid. (looks to Sisko for confirmation) Aren't they?",7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15766,15766,15766,15766,57,SISKO,I hope so. (doesn't want to talk about it) What do you say we forget about business for a while?,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15767,15767,15767,15767,58,KASIDY,I'd say that's a good idea.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15768,15768,15768,15768,59,DAX,Dax to Sisko.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15769,15769,15769,15769,60,SISKO,Go ahead.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15770,15770,15770,15770,61,DAX,I think you'd better get up here.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15771,15771,15771,15771,62,SISKO,On my way. I'll be back as soon as I can.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15772,15772,15772,15772,63,KASIDY,I know you will.,7   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15773,15773,15773,15773,64,DAX,It just decloaked.,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15774,15774,15774,15774,65,SISKO,That's the new Klingon flagship.,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15775,15775,15775,15775,66,DAX,"The Negh'Var. There's a General Martok aboard, asking to speak with you.",9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15776,15776,15776,15776,67,SISKO,Put him through.,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15777,15777,15777,15777,68,MARTOK,Captain Sisko. I bring greetings from your allies in the Klingon Empire.,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15778,15778,15778,15778,69,SISKO,"Welcome to Deep Space Nine, General. Is there something I can do for you?",9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15779,15779,15779,15779,70,MARTOK,It has been a long journey. My men require shore leave.,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15780,15780,15780,15780,71,SISKO,Certainly. They can come aboard whenever they like.,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15781,15781,15781,15781,72,MARTOK,Good.,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15782,15782,15782,15782,73,MARTOK,Sowee TAH!,9   INT. OPS (OPTICAL),OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15783,15783,15783,15783,74,BASHIR,"Chief, I'm beginning to think there's no limit to the wonders you can perform.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15784,15784,15784,15784,75,O'BRIEN,"That's what I like about you, Julian. You're easily impressed.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15785,15785,15785,15785,76,BASHIR,"Thank you, Quark. Can we get a little yamok sauce for these sand peas?",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15786,15786,15786,15786,77,BASHIR,(trying to get his attention) Quark?,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15787,15787,15787,15787,78,QUARK,Listen. Do you hear that?,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15788,15788,15788,15788,79,BASHIR,I don't hear a thing.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15789,15789,15789,15789,80,QUARK,"Exactly. The ambient noise level in this room is less than thirty decibels. On an average day it's sixty-five. When there're Klingons in the room, it can go as high as eighty-five.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15790,15790,15790,15790,81,O'BRIEN,"So what you're saying is, it's quiet in here.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15791,15791,15791,15791,82,QUARK,Too quiet. Something is terribly wrong.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15792,15792,15792,15792,83,BASHIR,Like what?,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15793,15793,15793,15793,84,QUARK,I don't know. But have you ever met a quiet Klingon before? And look at the way they're watching the room. It's like... they're picking out targets.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15794,15794,15794,15794,85,QUARK,Where are you going?,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15795,15795,15795,15795,86,O'BRIEN,I thought I'd ask the Klingons what they're up to.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15796,15796,15796,15796,87,QUARK,Don't do that.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15797,15797,15797,15797,88,O'BRIEN,Why not?,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15798,15798,15798,15798,89,QUARK,I don't want them to know we're on to them.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15799,15799,15799,15799,90,O'BRIEN,Suit yourself.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15800,15800,15800,15800,91,O'BRIEN,The secret is positioning the pea correctly on your hand.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15801,15801,15801,15801,92,BASHIR,I thought I did.,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15802,15802,15802,15802,93,QUARK,"What are you two doing? I'm telling you, the Klingons are up to something.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15803,15803,15803,15803,94,BASHIR,"Calm down, Quark. The Klingons are our allies.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15804,15804,15804,15804,95,QUARK,"They might be your allies, but they're not mine.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15805,15805,15805,15805,96,O'BRIEN,"Relax. If something's up with the Klingons, Captain Sisko will find out about it.",12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15806,15806,15806,15806,97,QUARK,Yeah. But will he tell me?,12   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15807,15807,15807,15807,98,SISKO,"So what brings you here, General?",14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15808,15808,15808,15808,99,MARTOK,A valid question. But first ...,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15809,15809,15809,15809,100,MARTOK,Let us be sure we are all who we say we are.,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15810,15810,15810,15810,101,KIRA,You think we're changelings?,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15811,15811,15811,15811,102,MARTOK,What I think doesn't matter. The blood will tell.,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15812,15812,15812,15812,103,SISKO,(still waiting for his answer) Now that that's over with...,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15813,15813,15813,15813,104,MARTOK,We've been sent here to fight alongside our Federation allies against the Dominion.,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15814,15814,15814,15814,105,SISKO,I appreciate the gesture. But I'm not sure it's necessary.,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15815,15815,15815,15815,106,MARTOK,The Klingon High Council thinks it is.,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15816,15816,15816,15816,107,SISKO,Our communications relay in the Gamma Quadrant hasn't detected any signs of Jem'Hadar activity for quite some time. They seem to be giving the wormhole a wide berth.,14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15817,15817,15817,15817,108,MARTOK,"They will come. And when they do, we will be ready for them.",14   INT. WARDROOM,WARDROOM,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15818,15818,15818,15818,109,DAX,There you are. We've been looking all over for you. Malko here just gave me an amazing massage. I'm sure if you ask nicely he'd be willing to do the same for you.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15819,15819,15819,15819,110,KIRA,No thanks.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15820,15820,15820,15820,111,DAX,Why?,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15821,15821,15821,15821,112,KIRA,Because Malko isn't real. He's a puppet made of holographic light and replicated matter.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15822,15822,15822,15822,113,DAX,"Boys, can you wait outside?",17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15823,15823,15823,15823,114,KIRA,Afraid I hurt their feelings?,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15824,15824,15824,15824,115,DAX,You really should try to get into the spirit of things. People come from all over Trill to visit the Hoobishan Baths.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.1779
+15825,15825,15825,15825,116,KIRA,And if I'm ever on Trill I'll visit them too. But we're not on Trill and this isn't the Hoobishan Baths. It's a holosuite. Nothing here is real.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15826,15826,15826,15826,117,DAX,And?,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15827,15827,15827,15827,118,KIRA,I'm sorry Dax. I just feel... silly.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15828,15828,15828,15828,119,DAX,Good. That's what a holosuite's for. To have a good time. All you have to do is relax and use your imagination.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.8271
+15829,15829,15829,15829,120,KIRA,I guess I don't have much of an imagination.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15830,15830,15830,15830,121,DAX,Of course you do. Everyone does. Didn't you used to play make- believe when you were a kid?,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.34
+15831,15831,15831,15831,122,KIRA,Yeah. I used to make-believe that all the Cardassians would stop killing Bajorans and just go away.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15832,15832,15832,15832,123,DAX,"I'm sorry, I didn't mean--",17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15833,15833,15833,15833,124,KIRA,"No. I'm the one who's sorry. I guess I've never gotten much use out of my imagination. I mean, look at me. You planned a fun evening for us and all I can do is sit here and worry about Klingons.",17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15834,15834,15834,15834,125,DAX,"You can worry about them tomorrow. From what I hear, they aren't going anywhere. And as for your underdeveloped imagination, I prescribe a strict regimen of exercise... starting immediately.",17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15835,15835,15835,15835,126,KIRA,"All right, I'll give it a try.",17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15836,15836,15836,15836,127,DAX,That's all I ask. Come on. Malko couldn't have gotten far.,17   INT. TRILL PUBLIC BATHS (HOLOSUITE),TRILL PUBLIC BATHS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15837,15837,15837,15837,128,GARAK,Fascinating. So both the cup and the liquid are merely extensions of your body.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15838,15838,15838,15838,129,ODO,"That's correct. And if I want to, I can even drink the liquid, reabsorb it, and produce new ""coffee"" in the cup.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15839,15839,15839,15839,130,ODO,This way I can give the illusion that I'm sharing in the dining experience.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15840,15840,15840,15840,131,GARAK,Very thoughtful.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15841,15841,15841,15841,132,ODO,"So, perhaps you'd like to tell me what's bothering you?",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15842,15842,15842,15842,133,GARAK,Why do you think something's bothering me?,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15843,15843,15843,15843,134,ODO,Because you're almost done with your meal. It usually takes you twice as long to eat your breakfast.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15844,15844,15844,15844,135,GARAK,Does it?,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15845,15845,15845,15845,136,ODO,"In my experience, most mornings you're more interested in talking than eating.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15846,15846,15846,15846,137,GARAK,Maybe I'm just hungry today.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15847,15847,15847,15847,138,GARAK,"Tell me, Odo, have you heard any news from Cardassia lately?",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15848,15848,15848,15848,139,ODO,Not since they sealed their borders.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15849,15849,15849,15849,140,GARAK,"Well I have. And frankly I don't like what I've been hearing. Rumors of uprisings, civil disturbances. All very alarming.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15850,15850,15850,15850,141,ODO,I didn't know you still had friends inside the Empire.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15851,15851,15851,15851,142,GARAK,"One or two. But now I can't even get through to them. I'm worried. With the destruction of the Obsidian Order and the threat of the Dominion, these are unsettling times for Cardassia.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15852,15852,15852,15852,143,ODO,"They're unsettling times for everyone. But, if I hear anything, I'll let you know.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15853,15853,15853,15853,144,GARAK,"I'd appreciate that, Constable.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15854,15854,15854,15854,145,ODO,Excuse me a moment.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15855,15855,15855,15855,146,DREX,So what is it that you do on this station?,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15856,15856,15856,15856,147,ODO,May I help you?,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15857,15857,15857,15857,148,DREX,Lohd Zoss-lee chaw-KU sohk jaTAL? (Does your mother let you talk to men?),20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15858,15858,15858,15858,149,GARAK,"Actually, I'm not sure Constable Odo has a mother.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15859,15859,15859,15859,150,ODO,"Morn, I believe Ensign Sanders is looking for you.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15860,15860,15860,15860,151,ODO,"Gentlemen, if you have business on the Promenade, I suggest you go about it. If not, move along.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15861,15861,15861,15861,152,GARAK,I'd listen to him if I were you.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15862,15862,15862,15862,153,DREX,I don't take orders from Shape-shifters. Or their Cardassian lapdogs.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15863,15863,15863,15863,154,ODO,"I may be a Shape-shifter, but I'm also chief of security of this station. So either you move along, or you'll be continuing this conversation from inside a holding cell.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15864,15864,15864,15864,155,DREX,"As long as you wear that Bajoran uniform, we're allies. Make sure you never take it off.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15865,15865,15865,15865,156,ODO,"(talking to Garak, but his eyes still on Drex) I didn't know you spoke Klingon.",20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15866,15866,15866,15866,157,GARAK,You'd be surprised at the kind of things you can learn while you're doing alterations.,20   INT. REPLIMAT,REPLIMAT,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15867,15867,15867,15867,158,GARAK,"Let me guess, you're either lost or you're desperately searching for a good tailor.",25   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15868,15868,15868,15868,159,DREX,Guess again.,25   INT. GARAK'S SHOP,GARAK'S SHOP,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15869,15869,15869,15869,160,BASHIR,I can't believe you're not pressing charges.,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15870,15870,15870,15870,161,GARAK,"Constable Odo and Captain Sisko expressed similar concern. But really, Doctor, there was no harm done.",27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15871,15871,15871,15871,162,BASHIR,They broke seven of your transverse ribs and fractured your clavicle.,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15872,15872,15872,15872,163,GARAK,But I got off several cutting remarks that no doubt did serious damage to their egos.,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15873,15873,15873,15873,164,BASHIR,"Garak, it's not funny.",27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15874,15874,15874,15874,165,GARAK,"I'm serious, Doctor. Thanks to your ministrations, I'm almost completely healed. The damage I did to them will last a lifetime. What I can't understand is their inexplicable hostility toward me. Maligning Constable Odo is one thing... after all he is a changeling and the Klingons don't know him as well as we do. But relations between the Klingon and Cardassian Empires have never been anything but amicable.",27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15875,15875,15875,15875,166,BASHIR,With the exception of the Betreka Nebula incident.,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15876,15876,15876,15876,167,GARAK,A minor skirmish.,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15877,15877,15877,15877,168,BASHIR,That lasted eighteen years.,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15878,15878,15878,15878,169,GARAK,That was ages ago. Maybe they decided they just didn't like me?,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15879,15879,15879,15879,170,BASHIR,Not like you? Impossible.,27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15880,15880,15880,15880,171,GARAK,"You're right, as always, Doctor. They must've mistaken me for someone else.",27   INT. INFIRMARY,INFIRMARY,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15881,15881,15881,15881,172,KIRA,"The Klingon ships keep cloaking and decloaking, so it's impossible to get an exact count, but so far, we've been able to identify at least twenty different warships in the vicinity of the station.",28   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15882,15882,15882,15882,173,DAX,"Captain, we're receiving a priority one distress call from the freighter Xhosa.",28   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15883,15883,15883,15883,174,KIRA,Kasidy's ship?,28   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15884,15884,15884,15884,175,SISKO,She left the station an hour ago. Put her through.,28   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15885,15885,15885,15885,176,KASIDY,This is the freighter Xhosa to Deep Space Nine. We're under attack by--,28   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15886,15886,15886,15886,177,DAX,Her signal's been jammed.,30   INT. OPS,OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15887,15887,15887,15887,178,SISKO,Get me a fix on her location. Then tell the crew of the Defiant to man their stations. We'll meet you on the bridge.,30   INT. OPS,OPS,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15888,15888,15888,15888,179,DAX,Forward scanners are detecting the Xhosa at bearing zero-one-seven mark three-four-six.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15889,15889,15889,15889,180,KIRA,I'm picking up another ship. It's got the Xhosa in a tractor beam.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15890,15890,15890,15890,181,SISKO,On screen.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15891,15891,15891,15891,182,KIRA,A Klingon ship.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15892,15892,15892,15892,183,DAX,I can't get through to Kasidy. They must be jamming her communications.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15893,15893,15893,15893,184,SISKO,Hail the Klingon vessel.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15894,15894,15894,15894,185,KAYBOK,This is Commander Kaybok of the M'Char. What is it you want?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15895,15895,15895,15895,186,SISKO,I want to know why you stopped that ship.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15896,15896,15896,15896,187,KAYBOK,We have orders to search all vessels attempting to leave Bajoran space.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15897,15897,15897,15897,188,KIRA,Search them for what?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15898,15898,15898,15898,189,KAYBOK,"For Shape-shifters. Each ship will be scanned, its cargo searched, and its crewmembers and passengers subjected to genetic testing.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15899,15899,15899,15899,190,SISKO,On whose authority?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15900,15900,15900,15900,191,KAYBOK,On the authority of Gowron and the Klingon High Council.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15901,15901,15901,15901,192,KIRA,The Klingon High Council has no jurisdiction over ships in Bajoran Space.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15902,15902,15902,15902,193,KAYBOK,We assumed you would welcome our assistance.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15903,15903,15903,15903,194,SISKO,Do you have any evidence that there are changelings aboard this particular ship?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15904,15904,15904,15904,195,KAYBOK,How can we have evidence until we conduct our tests?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15905,15905,15905,15905,196,KIRA,"Commander, Bajoran law strictly prohibits the unwarranted search and seizure of vessels in our territory.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15906,15906,15906,15906,197,KAYBOK,I have my orders.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15907,15907,15907,15907,198,DAX,The Klingon ship has increased power to its tractor beam. It looks like they're preparing to board the Xhosa.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15908,15908,15908,15908,199,SISKO,"Major, raise shields and power up the forward phasers. See if that gets their attention.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15909,15909,15909,15909,200,KIRA,Shields up. Forward phasers standing by.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15910,15910,15910,15910,201,DAX,They're still not releasing the tractor beam.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15911,15911,15911,15911,202,SISKO,Fire a warning shot two hundred meters off their starboard bow.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15912,15912,15912,15912,203,KIRA,"Yes, sir.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15913,15913,15913,15913,204,DAX,Commander Kaybok would like to speak with you.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15914,15914,15914,15914,205,SISKO,Let's hear what he has to say.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15915,15915,15915,15915,206,KAYBOK,"Captain, this is outrageous.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15916,15916,15916,15916,207,SISKO,I agree. But you're not leaving me much choice. You're in violation of Bajoran law. Now I'll ask you one last time... Release that ship immediately.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15917,15917,15917,15917,208,KAYBOK,We are your allies.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15918,15918,15918,15918,209,SISKO,"Major, lock phasers on the M'Char's engines. Prepare to fire on my command.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15919,15919,15919,15919,210,KIRA,Phasers ready.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15920,15920,15920,15920,211,KAYBOK,"(on viewscreen, to one of his officers) Kltrek im stram. (Release tractor beam.) Gowron will hear of this.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15921,15921,15921,15921,212,DAX,I'm receiving a hail from the Xhosa. It's Captain Yates.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15922,15922,15922,15922,213,SISKO,Put her through.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15923,15923,15923,15923,214,KASIDY,"Captain, I don't know what you said to those Klingons, but it must've been good.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15924,15924,15924,15924,215,SISKO,Is everyone all right?,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15925,15925,15925,15925,216,KASIDY,"""Everyone"" is fine.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15926,15926,15926,15926,217,SISKO,I'm glad to hear that.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15927,15927,15927,15927,218,SISKO,We'll keep you on sensors as long as possible. But I doubt the Klingons will give you any more trouble.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15928,15928,15928,15928,219,KASIDY,"I appreciate that, Captain. I'll see you in about two weeks.",32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15929,15929,15929,15929,220,SISKO,You know where to find me.,32   INT. DEFIANT - BRIDGE,DEFIAN,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15930,15930,15930,15930,221,DAX,"According to our long-range sensors, the Klingon task force has withdrawn to just outside Bajoran territory.",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15931,15931,15931,15931,222,SISKO,So now they're in unclaimed space. And if they decide to continue searching ships ....,38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15932,15932,15932,15932,223,DAX,There's nothing we can do about it. Unless they try to stop a Federation or Bajoran vessel.,38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15933,15933,15933,15933,224,SISKO,"Which, so far, they haven't done.",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15934,15934,15934,15934,225,O'BRIEN,"Captain, General Martok is here to see you.",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15935,15935,15935,15935,226,SISKO,Send him in.,38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15936,15936,15936,15936,227,SISKO,"General, we need to talk about ...",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15937,15937,15937,15937,228,MARTOK,SOHK-vad.,38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15938,15938,15938,15938,229,DAX,It's Commander Kaybok's.,38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15939,15939,15939,15939,230,SISKO,Why give it to me?,38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15940,15940,15940,15940,231,DAX,He's letting you know Kaybok's dead. Martok probably had him executed for disobeying orders.,38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15941,15941,15941,15941,232,SISKO,"Which means our next confrontation with the Klingons won't be resolved so easily. Any suggestions, old man?",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15942,15942,15942,15942,233,DAX,"The longer the Klingons stay here, the worse things are going to get. Whatever you decide to do, you'd better do it soon.",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15943,15943,15943,15943,234,SISKO,"Curzon told me once that in the long run, the only people who can really handle Klingons are Klingons. Get me Starfleet Command.",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15944,15944,15944,15944,235,,"Dax nods, wondering what Sisko is up to...",38   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15945,15945,15945,15945,236,O'BRIEN ,Commander Worf.,41   INT. DOCKING RING CORRIDOR ,DOCKING RING CORRIDOR ,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15946,15946,15946,15946,237,WORF,Chief. It's been a long time.,41   INT. DOCKING RING CORRIDOR ,DOCKING RING CORRIDOR ,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15947,15947,15947,15947,238,O'BRIEN,Too long. Welcome aboard.,41   INT. DOCKING RING CORRIDOR ,DOCKING RING CORRIDOR ,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15948,15948,15948,15948,239,QUARK,Just what this station needs ... another Klingon.,41   INT. DOCKING RING CORRIDOR ,DOCKING RING CORRIDOR ,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15949,15949,15949,15949,240,WORF,Lieutenant Commander Worf reporting for duty.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15950,15950,15950,15950,241,SISKO,"It's good to have you aboard, commander.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15951,15951,15951,15951,242,WORF,"Thank you, sir.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15952,15952,15952,15952,243,SISKO,"At ease, Mister Worf.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15953,15953,15953,15953,244,SISKO,I was sorry to hear about the Enterprise. She was a good ship.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15954,15954,15954,15954,245,WORF,"Yes, sir.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15955,15955,15955,15955,246,SISKO,I understand you've been on extended leave ...,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15956,15956,15956,15956,247,WORF,I've been visiting the Klingon monastery on Boreth. I found my discussions with the clerics there... most enlightening.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15957,15957,15957,15957,248,SISKO,I hope you'll forgive me for pulling you away from your studies. I doubt this assignment will last very long.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15958,15958,15958,15958,249,WORF,My leave was almost over.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15959,15959,15959,15959,250,SISKO,Any idea where you're going to be stationed next?,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15960,15960,15960,15960,251,WORF,I'm considering resigning my commission.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15961,15961,15961,15961,252,SISKO,Really? Do you mind if I ask why?,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15962,15962,15962,15962,253,WORF,"I've spent most of my life among humans. It has not always been easy for me. And since the destruction of the Enterprise, it has become even more difficult. I am no longer sure I belong in this uniform.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15963,15963,15963,15963,254,SISKO,"Mister Worf, if I said we didn't need you here, I'd be lying. But if you don't want to take this assignment, I'd understand.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15964,15964,15964,15964,255,WORF,"Thank you, sir. But until I make my decision, I intend to do my duty.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15965,15965,15965,15965,256,SISKO,I'm glad to hear that. I assume you've read my situation report.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15966,15966,15966,15966,257,SISKO,I can't help feeling that General Martok hasn't told me the whole truth about the Klingon task force. There are too many unanswered questions.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15967,15967,15967,15967,258,WORF,Then I will find you some answers.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15968,15968,15968,15968,259,SISKO,"Good. If you need any help, let me know.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15969,15969,15969,15969,260,WORF,"Yes, sir.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15970,15970,15970,15970,261,SISKO,Commander.,45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15971,15971,15971,15971,262,SISKO,"I thought about resigning from Starfleet once, too. But I know if I had, I would've regretted it. Don't make any quick decisions.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15972,15972,15972,15972,263,WORF,"Thank you, sir. I'll keep that in mind.",45   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15973,15973,15973,15973,264,QUARK,"Let me guess, Klingon bloodwine.",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15974,15974,15974,15974,265,WORF,"Prune juice, chilled. DEEP SPACE NINE: ""Way... Warrior"" - REV. 08/01/95 - ACT THREE 37.",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15975,15975,15975,15975,266,QUARK,Prune juice?,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15976,15976,15976,15976,267,QUARK,If you say so.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15977,15977,15977,15977,268,O'BRIEN ,"Commander, over here.",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15978,15978,15978,15978,269,O'BRIEN,"Doctor Julian Bashir, Lieutenant Commander Worf.",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15979,15979,15979,15979,270,BASHIR,Care for a game of darts?,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15980,15980,15980,15980,271,WORF,I don't play games.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,-0.2584
+15981,15981,15981,15981,272,O'BRIEN,"It's like poker, but with pointy tips.",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.1901
+15982,15982,15982,15982,273,O'BRIEN,"All right, think of it as target practice.",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15983,15983,15983,15983,274,BASHIR,The object is to throw the dart and hit that board over there.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15984,15984,15984,15984,275,O'BRIEN,Aim for the dot in the middle.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15985,15985,15985,15985,276,DAX,I can't believe you did that.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15986,15986,15986,15986,277,KIRA,He didn't leave me any choice.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15987,15987,15987,15987,278,BASHIR,What did she do?,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15988,15988,15988,15988,279,DAX,She knocked out Lancelot.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15989,15989,15989,15989,280,KIRA,He kissed me.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15990,15990,15990,15990,281,DAX,He's supposed to kiss you.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15991,15991,15991,15991,282,KIRA,But I was playing a married woman.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15992,15992,15992,15992,283,BASHIR,"Lieutenant Commander Worf, this is Lieutenant Commander Jadzia Dax, and Major Kira Nerys, our first officer.",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15993,15993,15993,15993,284,WORF,Nice hat.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15994,15994,15994,15994,285,KIRA,I don't always dress like this. We were in the holosuite...,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15995,15995,15995,15995,286,WORF,So I gathered. You used to be Curzon Dax.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15996,15996,15996,15996,287,DAX,That's right. And I don't usually dress like this either.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15997,15997,15997,15997,288,WORF,Curzon's name is an honored one among my people.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15998,15998,15998,15998,289,DAX,"(mischievous, in Klingon) Louk, a jeek CHIM-ta law. (Yeah, but I'm a lot better looking than he was.)",46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0
+15999,15999,15999,15999,290,WORF,I suppose so.,46   INT. QUARK'S,QUARK'S,INT.,The Way of the Warrior,1995-07-07,Deep Space Nine,474.txt,0.0

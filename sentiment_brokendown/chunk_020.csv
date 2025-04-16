@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+20000,20000,20000,20000,27,TOSK,I saw a small ship disappear... I followed it...,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20001,20001,20001,20001,28,SISKO,That was one of our patrol vessels... you've travelled almost ninety- thousand light years. What planet do you come from?,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20002,20002,20002,20002,29,TOSK,How long does it last -- this anomaly?,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20003,20003,20003,20003,30,SISKO,"The wormhole? It's stable... you can return whenever you want to. In the meantime, you're welcome to dock here and we'll try to answer all your questions...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20004,20004,20004,20004,31,TOSK,No. No time...,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20005,20005,20005,20005,32,O'BRIEN,Inertial stress is overloading his structural capacity.,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20006,20006,20006,20006,33,SISKO,Prepare to transport him off his ship.,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20007,20007,20007,20007,34,TOSK,I will not abandon my vessel.,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20008,20008,20008,20008,35,SISKO,"Sir, your ship is in danger of...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20009,20009,20009,20009,36,TOSK,I will not leave!,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20010,20010,20010,20010,37,O'BRIEN,We can use a tractor beam to tow him in. The beam's graviton field should shore up the structural integrity.,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20011,20011,20011,20011,38,SISKO,Do it.,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20012,20012,20012,20012,39,O'BRIEN,Cut your engines.,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20013,20013,20013,20013,40,TOSK,Why?,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20014,20014,20014,20014,41,O'BRIEN,"So I can save your ship, friend. We'll bring you in... try to fix you up good as new...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20015,20015,20015,20015,42,O'BRIEN,"(soothing, talking him down) Good... engaging tractor beam... steady now... you feel the graviton field taking hold?",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20016,20016,20016,20016,43,TOSK,Yes.,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20017,20017,20017,20017,44,O'BRIEN,You'll be fine now... just relax and enjoy the ride...,3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20018,20018,20018,20018,45,KIRA,"I'd say that's a man who doesn't know how to relax... He could use some of your meditation exercises, Lieutenant...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20019,20019,20019,20019,46,DAX,"So could you, Major. Benjamin, I think we might want to skip formal first contact procedures for now...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20020,20020,20020,20020,47,SISKO,"Agreed. Why don't you meet him by yourself at the airlock, Mister O'Brien... he might find that a little less intimidating...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20021,20021,20021,20021,48,O'BRIEN,"Aye, sir...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20022,20022,20022,20022,49,SISKO,"... And if you can, find out what he's so... nervous about...",3    INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20023,20023,20023,20023,50,O'BRIEN,O'Brien to Ops...,9    INT. ALIEN COCKPIT,ALIEN COCKPIT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20024,20024,20024,20024,51,SISKO,"Go ahead, Chief.",10   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20025,20025,20025,20025,52,O'BRIEN,"You didn't beam this fellow out when I wasn't looking, did you?",10   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20026,20026,20026,20026,53,SISKO,Negative.,10   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20027,20027,20027,20027,54,O'BRIEN,"Well, he's not in here.",10   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20028,20028,20028,20028,55,DAX,"The sensors say he's still on board, Chief.",10   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20029,20029,20029,20029,56,O'BRIEN,"Friend, if you're in here... you've got nothing to worry about from me... you understand?",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20030,20030,20030,20030,57,O'BRIEN ,"I'm just going to look at your ship... see what the problem is, okay... ?",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20031,20031,20031,20031,58,O'BRIEN,"Now, just so you know... I'm an engineer... I know a little bit about ships... well, more than a little bit actually...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20032,20032,20032,20032,59,O'BRIEN ,"(reacting to what he sees) Though to be sure, I've never seen anything close to this...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20033,20033,20033,20033,60,O'BRIEN ,"All right, not... is that some sort of plasma injector there... okay... then that would have to be an off- axis field controller of some kind... uh-huh... uh-huh...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20034,20034,20034,20034,61,TOSK,The coladrium flow has been damaged.,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20035,20035,20035,20035,62,O'BRIEN ,Ah!,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20036,20036,20036,20036,63,O'BRIEN,"You can't go sneaking up on someone like that, friend... it's an Alpha quadrant rule...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20037,20037,20037,20037,64,TOSK,Can it be fixed?,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20038,20038,20038,20038,65,O'BRIEN,"Well, that depends...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20039,20039,20039,20039,66,TOSK,Depends?,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20040,20040,20040,20040,67,O'BRIEN,On what exactly a coladrium flow is...,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20041,20041,20041,20041,68,TOSK,"On my world, it would be simple... with proper materials I could do this myself...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20042,20042,20042,20042,69,O'BRIEN,"Now, hang on, I didn't say we couldn't figure it out... you're just going to have to teach me as we go... I'm sure that...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20043,20043,20043,20043,70,TOSK,I have no time!,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20044,20044,20044,20044,71,O'BRIEN,"I know... everybody's in a hurry these days... we'll get you on your way as soon as it's humanly possibly... Oh, that's me, by the way... human species, name of O'Brien...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20045,20045,20045,20045,72,TOSK,Oh. Brien.,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20046,20046,20046,20046,73,O'BRIEN,"Miles O'Brien, Chief of Operations. How about you?",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20047,20047,20047,20047,74,TOSK,I am... Tosk.,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20048,20048,20048,20048,75,O'BRIEN,That's your name? Or you... species... ?,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20049,20049,20049,20049,76,TOSK,I am Tosk.,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20050,20050,20050,20050,77,O'BRIEN,"Tosk, it is. (moving toward the exit) Come on, then...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20051,20051,20051,20051,78,O'BRIEN,There's nothing to be worried about out there. We've got to let your reactor cool down before we can do anything else anyway...,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20052,20052,20052,20052,79,O'BRIEN,"Now, Tosk, you know you've got a broken... uh, coladrium flow... and those aren't fixed overnight are they...",11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20053,20053,20053,20053,80,O'BRIEN,No reason to just sit in here. We've got a room for you. Probably not as nice as you're used to. But it'll do for now...,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20054,20054,20054,20054,81,O'BRIEN,C'mon... I have work to do...,11   INT. ALIEN SHIP,ALIEN SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20055,20055,20055,20055,82,O'BRIEN,"So what happened to you, anyway? Looks like you took some sort of shot to your hull.",13   INT. AIRLOCK,AIRLOCK,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20056,20056,20056,20056,83,TOSK,The passage... through the anomaly was very rough.,13   INT. AIRLOCK,AIRLOCK,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20057,20057,20057,20057,84,O'BRIEN,"Yeah, the wormhole can shake you up all right.",13   INT. AIRLOCK,AIRLOCK,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20058,20058,20058,20058,85,O'BRIEN,Security sensor... screens for weapons... it's just picking up my phaser... you're fine...,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20059,20059,20059,20059,86,TOSK,You wear a weapon?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20060,20060,20060,20060,87,O'BRIEN,"Defensive purposes only. It may not seem hospitable. But going into an alien ship for the first time, you never know what might be inside... may even be someone who can turn himself invisible... know what I mean?",14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20061,20061,20061,20061,88,TOSK,I understand.,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20062,20062,20062,20062,89,TOSK,A health center... ?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20063,20063,20063,20063,90,O'BRIEN,Yeah. That's Doctor Bashir... he looks after all our medical needs...,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20064,20064,20064,20064,91,TOSK,How many live here?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20065,20065,20065,20065,92,O'BRIEN,"Oh, three hundred more or less...",14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20066,20066,20066,20066,93,TOSK,What is its purpose?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20067,20067,20067,20067,94,O'BRIEN,Purpose?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20068,20068,20068,20068,95,TOSK,Defense? Surveillance?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20069,20069,20069,20069,96,O'BRIEN,"Well, sometimes when I walk along here, I think we're the flea market to the sector... I guess you could say our real job is to keep an eye on the wormhole... traffic goes in and out all the time now...",14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20070,20070,20070,20070,97,TOSK,Many ships dock here?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20071,20071,20071,20071,98,O'BRIEN,"Well, five or six a week... sometimes we get a whole convoy on its way through the wormhole... But you have the honor of being the first visitor from the other side...",14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20072,20072,20072,20072,99,TOSK,Others will detect ships from your quadrant as I did... and follow them here...,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20073,20073,20073,20073,100,O'BRIEN,We hop so. Our mission as Starfleet officers... is to seek out new lifeforms... so we can learn about one another...,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20074,20074,20074,20074,101,QUARK,"Madame, I distinctly saw you move your wager to the green line after the play was completed... I will return your currency but you will promptly leave the establishment... you are no longer welcome...",14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20075,20075,20075,20075,102,O'BRIEN,"Well, there are a few things to learn about us that can wait...",14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20076,20076,20076,20076,103,O'BRIEN,How about you? Are you... an explorer... a scientist... ?,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20077,20077,20077,20077,104,TOSK,I am Tosk.,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20078,20078,20078,20078,105,O'BRIEN,Right.,14   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20079,20079,20079,20079,106,O'BRIEN,"Computer, lights...",18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20080,20080,20080,20080,107,O'BRIEN,I wasn't the decorator.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20081,20081,20081,20081,108,TOSK,I wish to begin work on my ship.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20082,20082,20082,20082,109,O'BRIEN,"We'll get started as soon as we can... Now, why don't you get some rest...",18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20083,20083,20083,20083,110,TOSK,I require only seventeen minutes of sleep per rotation.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20084,20084,20084,20084,111,O'BRIEN,"Seventeen... no kidding... if I don't get a good eight hours a night, I'm not the same man... are you hungry?",18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20085,20085,20085,20085,112,TOSK,Hungry?,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20086,20086,20086,20086,113,O'BRIEN,"You know, do you want something to eat, take in sustenance...",18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20087,20087,20087,20087,114,TOSK,Liquid nutrients have been stored in plasmic fibers throughout my body...,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20088,20088,20088,20088,115,O'BRIEN,"Well, the food replicator is over here if you change your mind... we've finally got it making a pretty good bowl of oatmeal. Just ask the computer for anything else you need.",18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20089,20089,20089,20089,116,TOSK,Oh Brien. Thank-you.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20090,20090,20090,20090,117,O'BRIEN,"As the Vulcans say, we're here to serve.",18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20091,20091,20091,20091,118,TOSK,Computer... ?,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20092,20092,20092,20092,119,COMPUTER,State request.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20093,20093,20093,20093,120,TOSK,May I see a... display of this facility?,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20094,20094,20094,20094,121,COMPUTER,Specifiy exterior or interior display.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20095,20095,20095,20095,122,TOSK,Interior.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20096,20096,20096,20096,123,COMPUTER,Interior display available in nineteen sections. Specify requirements.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20097,20097,20097,20097,124,TOSK,Show me where the weapons are stored.,18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20098,20098,20098,20098,125,COMPUTER,"Habitat Ring, Level Five, Section Three. Access restricted to security clearance seven and above.",18   INT. TOSK'S QUARTERS (VIDEO PLAY BACK),TOSK'S QUARTERS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20099,20099,20099,20099,126,O'BRIEN,"It's hard to say, sir... he is an alien and you hate to prejudge anyone...",20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20100,20100,20100,20100,127,SISKO,"What're you thinking, Chief?",20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20101,20101,20101,20101,128,O'BRIEN,"Well, there's an old saying back home... ""a man who's always lookin' over his shoulder is waiting for trouble to find him."" (Research: a real Irish saying to replace this would be nice.)",20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20102,20102,20102,20102,129,SISKO,You think he's on the run... ?,20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20103,20103,20103,20103,130,O'BRIEN,I'll tell you this -- he wasn't telling the whole truth about the damage to his ship... it sure wasn't caused by the wormhole. Somebody took a shot at him... came in at a 45 degree angle to the hull... sliced through two propulsion systems... I'll know more when I get a better look...,20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20104,20104,20104,20104,131,SISKO,Stay with him as much as possible while he's here... I'll tell Odo to keep an eye on him too...,20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20105,20105,20105,20105,132,O'BRIEN,"Aye, sir...",20   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20106,20106,20106,20106,133,TOSK ,No... the coladrium flows through the Arva Nodes...,22   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20107,20107,20107,20107,134,O'BRIEN ,Uh-uh... and where's that...,22   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20108,20108,20108,20108,135,TOSK ,The Arva Nodes... here...,22   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20109,20109,20109,20109,136,O'BRIEN ,These coils... ?,22   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20110,20110,20110,20110,137,O'BRIEN,What are they... some kind of high- energy magnetic coils?,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20111,20111,20111,20111,138,TOSK,Ah... for fuel replenishment... fuel... ?,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20112,20112,20112,20112,139,O'BRIEN,Like a ramscoop...,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20113,20113,20113,20113,140,TOSK,Ramscoop... ?,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20114,20114,20114,20114,141,O'BRIEN,To capture stellar gases and convert them into usable fuel...,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20115,20115,20115,20115,142,TOSK,Yes! The Arva Nodes convert space matter into fuel!,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20116,20116,20116,20116,143,O'BRIEN,Gotcha. Piece of cake.,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20117,20117,20117,20117,144,TOSK,(with misplaced confidence) Pieceofcake. Ramscoop. Arva Nodes.,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20118,20118,20118,20118,145,O'BRIEN,"Ah, ""piece of cake"" - it's just an old human expression. Means they'll be easy to fix.",23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20119,20119,20119,20119,146,TOSK,They will be easy to fix?,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20120,20120,20120,20120,147,O'BRIEN,"Sure, we'll just get my crew to remove your Arva Nodes, then we'll take them over to the replicator center and make new ones...",23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20121,20121,20121,20121,148,TOSK,Piece of cake.,23   INT. HULL - DARK TIGHT TWO SHOT,HUL,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20122,20122,20122,20122,149,TOSK,How long?,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20123,20123,20123,20123,150,O'BRIEN,Maybe a day or two. We'll want to run some tests after we have the replacement unit in...,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20124,20124,20124,20124,151,TOSK,No. No time for that.,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20125,20125,20125,20125,152,O'BRIEN,"Hey, I let you take this unit out without proper testing...",24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20126,20126,20126,20126,153,O'BRIEN,it breaks down and you blame me... next thing I know my work has a bad reputation in the Gamma quadrant...,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20127,20127,20127,20127,154,TOSK,I would not blame you.,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20128,20128,20128,20128,155,O'BRIEN,"I'm joking, Tosk.",24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20129,20129,20129,20129,156,TOSK,I cannot tell. Oh Brien.,24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20130,20130,20130,20130,157,O'BRIEN,"Sorry. It's just in my nature. And you're the most natural straight man I've met in ages... c'mon, while the fellas are working here, I'll buy you a drink... and you can tell me why you're in such a rush...",24   INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20131,20131,20131,20131,158,TOSK,Nothing like this exists on my world.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20132,20132,20132,20132,159,O'BRIEN,This is where we do most of our R and R...,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20133,20133,20133,20133,160,TOSK,What is R and R...,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20134,20134,20134,20134,161,O'BRIEN,"Rest and relaxation. You know, down time. When we're not working.",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20135,20135,20135,20135,162,TOSK,"You sleep a full third of your rotation. You rest and relax while you are awake. The Alpha quadrant has too much... ""down"" time.",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20136,20136,20136,20136,163,O'BRIEN,My wife would laugh at that. She's barely seen me in the last three weeks.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20137,20137,20137,20137,164,TOSK,"We are very different, Tosk and Oh Brien.",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20138,20138,20138,20138,165,O'BRIEN,I've noticed. Hey barkeep!,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20139,20139,20139,20139,166,QUARK,"Don't call me ""barkeep."" I am not a barkeep. I am your host, the proprietor, a sympathetic ear to the wretched souls who pass through these portals...",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20140,20140,20140,20140,167,O'BRIEN,"... And a man who will exploit any vice you may have. Two synthales, barkeep.",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20141,20141,20141,20141,168,TOSK,"I am sorry, I have no vices for you to exploit.",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20142,20142,20142,20142,169,QUARK,A challenge.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20143,20143,20143,20143,170,O'BRIEN,"Tosk is our first guest from the Gamma Quadrant, Quark. I'd take him at his work.",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20144,20144,20144,20144,171,QUARK,Perhaps a short adventure in a holosuite...,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20145,20145,20145,20145,172,TOSK,Holosuite... ?,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20146,20146,20146,20146,173,QUARK,"A fantasy encounter with danger, romance, thrills... created for your personal entertainment by the Quark Brothers...",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.6124
+20147,20147,20147,20147,174,TOSK,I have no use for fantasy adventure. I live the greatest adventure one could ever desire.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.8519
+20148,20148,20148,20148,175,QUARK,"Then, I envy you, Mister Tosk.",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20149,20149,20149,20149,176,O'BRIEN,"What are you talking about, Tosk... what is this adventure you're on?",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20150,20150,20150,20150,177,TOSK,I cannot discuss it.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20151,20151,20151,20151,178,O'BRIEN,"Oh. Sure, of course. (long beat, irresistible) I mean, by the way you act, it's some kind of dangerous adventure, am I right?",25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20152,20152,20152,20152,179,TOSK,I cannot discuss it.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20153,20153,20153,20153,180,O'BRIEN,Sure. Sorry.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20154,20154,20154,20154,181,TOSK,(the answer to your question) Yes.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20155,20155,20155,20155,182,O'BRIEN,Dangerous.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20156,20156,20156,20156,183,TOSK,I am Tosk.,25   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20157,20157,20157,20157,184,KIRA,"Sounds like you've changed your mind about him, Chief...",26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20158,20158,20158,20158,185,O'BRIEN,"Not exactly. I mean, he's running from something... that's for sure... and he's in danger... and he can't or won't talk about it...",26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20159,20159,20159,20159,186,BASHIR,"People tell doctors things they never tell any one else... if you could talk him into having a routine medical examination, maybe I could...",26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20160,20160,20160,20160,187,O'BRIEN,"(ignoring and interrupting Bashir) The thing is... I kind of like the guy... I'm not even sure why... in a way, he's almost naive... I guess any one would be in an alien environment... but... I don't sense a thread of criminal intent or dishonesty about him...",26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20161,20161,20161,20161,188,SISKO,I thought you said he lied about the damage to his ship...,26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20162,20162,20162,20162,189,O'BRIEN,"Well, he didn't exactly lie...",26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20163,20163,20163,20163,190,DAX,But he didn't exactly tell the truth either...,26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20164,20164,20164,20164,191,O'BRIEN,He keeps the truth pretty much to himself.,26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20165,20165,20165,20165,192,SISKO,When will his ship be ready?,26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20166,20166,20166,20166,193,O'BRIEN,Tomorrow.,26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20167,20167,20167,20167,194,SISKO,"I don't see that we have much of a choice. We can't hold him. If he wants to tell you the truth, fine. If not, wish him well... and send him on his way...",26   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20168,20168,20168,20168,195,ODO ,Just what do you think you're doing?,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20169,20169,20169,20169,196,ODO,"Computer, seal off corridor fourteen A, habitat level five...",27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20170,20170,20170,20170,197,COMPUTER,Seal confirmed.,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20171,20171,20171,20171,198,ODO,Security to habitat five-fourteen- A...,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20172,20172,20172,20172,199,ODO,"When you get tired of bouncing off forcefields, we'll talk... all right?",27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20173,20173,20173,20173,200,TOSK,I've done nothing to you.,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20174,20174,20174,20174,201,ODO,It's that security junction I'm curious about.,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20175,20175,20175,20175,202,TOSK,I must prepare.,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20176,20176,20176,20176,203,ODO,For what.,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20177,20177,20177,20177,204,TOSK,I cannot discuss it. I am Tosk.,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20178,20178,20178,20178,205,ODO,I'm sure you are. Why don't we go down to my office while your friend Chief O'Brien takes a look to see just what you were doing in there...,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20179,20179,20179,20179,206,TOSK,Oh Brien.,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20180,20180,20180,20180,207,ODO,Right. I'm going to release the forcefields now... I don't need a fight from you... understand?,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20181,20181,20181,20181,208,TOSK,I will not fight you...,27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20182,20182,20182,20182,209,ODO,"Good. Computer, release the security seals...",27   INT. REMOTE CORRIDOR,REMOTE CORRIDOR,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20183,20183,20183,20183,210,TOSK,I cannot discuss it.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20184,20184,20184,20184,211,SISKO,... And I can't accept that as an answer...,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20185,20185,20185,20185,212,TOSK,I did nothing to you.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20186,20186,20186,20186,213,SISKO,You were tampering with the security grid... I consider that a threat...,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20187,20187,20187,20187,214,O'BRIEN,I think he was trying to shut down the lock-outs to Section Three...,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20188,20188,20188,20188,215,ODO,The weapons locker...,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20189,20189,20189,20189,216,SISKO,What were you going to do with the weapons?,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20190,20190,20190,20190,217,ODO,Are you wanted by authorities somewhere in the Gamma Quadrant?,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20191,20191,20191,20191,218,TOSK,Wanted?,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20192,20192,20192,20192,219,ODO,Have you committed crimes?,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20193,20193,20193,20193,220,TOSK,(shocked at the accusation) Never. I am Tosk.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20194,20194,20194,20194,221,SISKO,What does that mean? Is that supposed to explain all this?,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20195,20195,20195,20195,222,TOSK,It is all I can say.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20196,20196,20196,20196,223,O'BRIEN,"Tosk, don't you think we deserve some answers?",39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20197,20197,20197,20197,224,ODO,What should I do with him?,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20198,20198,20198,20198,225,SISKO,Hold him for now. We'll wait to see if someone shows up looking for him.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20199,20199,20199,20199,226,O'BRIEN,"Enough of this craziness, Tosk... tell me what the hell you were doing...",39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20200,20200,20200,20200,227,TOSK,Oh Brien. You must let me out.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20201,20201,20201,20201,228,O'BRIEN,Tell me!,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20202,20202,20202,20202,229,TOSK,Allow me to die with honor.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20203,20203,20203,20203,230,O'BRIEN,"Die? Who would want to kill you, Tosk?",39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20204,20204,20204,20204,231,TOSK,Allow me to die with honor.,39   INT. SECURITY OFFICE HOLDING AREA (OPTICAL),SECURITY OFFICE HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20205,20205,20205,20205,232,O'BRIEN,He's climbing the walls... like a trapped animal...,40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20206,20206,20206,20206,233,ODO,Sorry our jail cells aren't to his liking.,40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20207,20207,20207,20207,234,O'BRIEN,"Somehow, I feel responsible.",40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20208,20208,20208,20208,235,ODO,You do... ?,40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20209,20209,20209,20209,236,O'BRIEN,Yeah. I guess I kinda adopted him. Talked him into coming on board...,40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20210,20210,20210,20210,237,ODO,You didn't talk him into breaking into the security system...,40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20211,20211,20211,20211,238,O'BRIEN,"I just feel sorry for him. Somehow, I don't think he means us any harm.",40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20212,20212,20212,20212,239,O'BRIEN,What the hell is his secret?,40   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20213,20213,20213,20213,240,DAX,"Sensors are reading ionized ""L""-band emissions... The patterns match Tosk's ship...",42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20214,20214,20214,20214,241,SISKO,Hail them. Maybe we'll finally get a few answers...,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20215,20215,20215,20215,242,KIRA,No response.,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20216,20216,20216,20216,243,SISKO,Again. Rotate frequencies.,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20217,20217,20217,20217,244,DAX,It's a modulated particle beam... we're being scanned...,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20218,20218,20218,20218,245,KIRA,Ready shields.,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20219,20219,20219,20219,246,SISKO,"Not yet, Major... let them have a good look at us...",42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20220,20220,20220,20220,247,O'BRIEN,I'm reading phased power fluctuations... they may be readying a transporter of some kind...,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20221,20221,20221,20221,248,SISKO,"Now, Major...",42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20222,20222,20222,20222,249,KIRA,Shields up...,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20223,20223,20223,20223,250,SISKO,Open all hailing channels...,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20224,20224,20224,20224,251,DAX,Open.,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20225,20225,20225,20225,252,SISKO,This is Commander Benjamin Sisko of the United...,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20226,20226,20226,20226,253,O'BRIEN,They're bombarding our shields with some kind of radiation I've never see before... very rapid magnetic flux variations...,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20227,20227,20227,20227,254,SISKO,Red alert.,42   INT. OPS (OPTICAL),OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20228,20228,20228,20228,255,O'BRIEN,What the... they've inverted the amplitude on our shields...,49   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20229,20229,20229,20229,256,DAX,I'm picking up transporter locks... they're beaming on board...,49   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20230,20230,20230,20230,257,SISKO,Location.,49   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20231,20231,20231,20231,258,DAX,Promenade.,49   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20232,20232,20232,20232,259,SISKO,"Security to the Promenade. Kira, O'Brien with me. Dax, you have Ops.",49   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20233,20233,20233,20233,260,SISKO,Ready phasers...,51   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20234,20234,20234,20234,261,SISKO,I am the Commander of this station. Put down your weapons...,54   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20235,20235,20235,20235,262,SISKO,Increase setting to level six...,54   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20236,20236,20236,20236,263,ODO,It's that Tosk they're after.,54   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20237,20237,20237,20237,264,KIRA,Maybe they have a right to him...,54   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20238,20238,20238,20238,265,ODO,"Nobody's abducting a prisoner out of my brig as long as I'm alive, Major.",54   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20239,20239,20239,20239,266,KIRA,You may need this...,54   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20240,20240,20240,20240,267,ODO,"Thanks anyway, I don't use them.",54   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20241,20241,20241,20241,268,THE HUNTER,I have Tosk... alive.,70   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20242,20242,20242,20242,269,THE HUNTER,It is over.,71   INT. PROMENADE (OPTICAL),PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20243,20243,20243,20243,270,THE HUNTER,What a disappointment... after such an entertaining beginning...,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20244,20244,20244,20244,271,SISKO,Entertaining... ?,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20245,20245,20245,20245,272,THE HUNTER,These aliens gave us a great deal of resistance... we wondered how you got their cooperation without violating your oath of silence...,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20246,20246,20246,20246,273,TOSK,I told them nothing.,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20247,20247,20247,20247,274,THE HUNGER,"But, to see you here, caged and helpless... how could you allow this?",72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20248,20248,20248,20248,275,THE HUNTER,It is a disgrace to all Tosk. And the most disappointing hunt in memory...,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20249,20249,20249,20249,276,SISKO,You're saying that this whole thing... is a hunt... and Tosk is the prey...,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20250,20250,20250,20250,277,THE HUNTER,"You are right... this Tosk is unworthy of such a noble description. For this dishonor, you will endure the greatest humiliation Tosk can know... to be captured and brought home alive. You will live out your existence on public display... where children will make fun of you and toss you scraps of food...",72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20251,20251,20251,20251,278,THE HUNTER,Release him.,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20252,20252,20252,20252,279,SISKO,"You've disrupted life on this station... for the pleasure of your... ""hunt""... I'm not inclined to take any orders from you. Odo, watch the prisoner while our ""guest"" and I discuss this matter in private... ... unless you intend to take him by force... in which case I am prepared to give orders to open fire on your ship...",72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20253,20253,20253,20253,280,THE HUNTER,Over this Tosk?,72   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20254,20254,20254,20254,281,THE HUNTER,... Have you nothing like this in your own society?,73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20255,20255,20255,20255,282,SISKO,"Centuries ago, people on my world engaged in bloodsports... killing lower species for pleasure. A few cultures still do. But even they wouldn't consider hunting a sentient being...",73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20256,20256,20256,20256,283,THE HUNTER,"(casual, obvious to him) He is only sentient because we have made him sentient. He has been bred for the hunt. His entire reason to exist is the hunt... to make it as interesting, as exciting as he can. Obviously, you do not comprehend...",73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20257,20257,20257,20257,284,SISKO,I comprehend just fine. I have no tolerance for the abuse of any lifeform.,73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20258,20258,20258,20258,285,THE HUNTER,Abuse? We honor Tosk. They are the symbol of all that is noble and courageous. They train and condition themselves all their lives for this event. They are proud of their role in our culture.,73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20259,20259,20259,20259,286,SISKO,I can't judge what is right and wrong for your world. But on this station...,73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20260,20260,20260,20260,287,THE HUNTER,"In the future, passage through the anomaly will be considered out of bounds for the hunt... will that satisfy you?",73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20261,20261,20261,20261,288,THE HUNTER,"Now, you will arrange for the release of the Tosk.",73   INT. COMMANDER'S OFFICE (OPTICAL),COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20262,20262,20262,20262,289,SISKO,I've agreed to release him.,74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20263,20263,20263,20263,290,O'BRIEN,"But sir, Tosk is a living, intelligent being...",74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20264,20264,20264,20264,291,SISKO,"This is their custom, Chief... under the prime directive, we have no right to interfere...",74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20265,20265,20265,20265,292,KIRA,What if Tosk were to request asylum?,74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20266,20266,20266,20266,293,SISKO,If he asks for it...,74   INT. OPS - CONTINUOUS,OP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20267,20267,20267,20267,294,O'BRIEN,"All right, I have a way out for you...",75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20268,20268,20268,20268,295,TOSK,A way... out. Of here?,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20269,20269,20269,20269,296,O'BRIEN,Request asylum.,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20270,20270,20270,20270,297,TOSK,Asylum.,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20271,20271,20271,20271,298,O'BRIEN,Ask for the protection of the Federation. Do you understand? My Commander is willing to protect you.,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20272,20272,20272,20272,299,TOSK,Oh Brien. I am Tosk. I cannot hide here behind the protection of your Federation. It is against everything I believe.,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20273,20273,20273,20273,300,O'BRIEN,You'd rather go back and live in a cage on public display... ?,75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20274,20274,20274,20274,301,TOSK,"To stay would be a greater dishonor. I am Tosk, the hunted.",75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20275,20275,20275,20275,302,TOSK,"I live to outwit the hunters... for another day... to survive until I die with honor. Now that will not be my fate. But I will not deny my existence as Tosk. Thank-you, Oh Brien but I cannot request... asylum.",75   INT. HOLDING AREA,HOLDING AREA,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20276,20276,20276,20276,303,QUARK,"So far, I'm not impressed with the tourist trade from the Gamma Quadrant... not one of them has bought a single drink...",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20277,20277,20277,20277,304,O'BRIEN,"Shut up, Quark.",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20278,20278,20278,20278,305,QUARK,"(beat, a sympathetic shoulder) More trouble with the little woman...",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20279,20279,20279,20279,306,O'BRIEN,What's that supposed to mean?,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20280,20280,20280,20280,307,QUARK,Nothing... nothing... I just thought you might want to talk...,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20281,20281,20281,20281,308,O'BRIEN,"... there's nothing wrong between me and my wife and if there was, I sure as hell wouldn't talk about it to some barkeep...",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20282,20282,20282,20282,309,QUARK,Sorry. My mistake.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20283,20283,20283,20283,310,O'BRIEN,What?,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20284,20284,20284,20284,311,QUARK,Your face gets very pink when you're aggravated... much more so than most other hew-mans...,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20285,20285,20285,20285,312,O'BRIEN,Then stop aggravating me!,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20286,20286,20286,20286,313,QUARK,No... no... no... no... not me. You came in the door this way.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20287,20287,20287,20287,314,O'BRIEN,Fine. You're right. I'm... aggravated.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20288,20288,20288,20288,315,QUARK,I'm a keen observer of behavior. Want to talk about it?,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20289,20289,20289,20289,316,O'BRIEN,No.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20290,20290,20290,20290,317,QUARK,Why not?,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20291,20291,20291,20291,318,O'BRIEN,Because talking to you won't help anything.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20292,20292,20292,20292,319,QUARK,Try me.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20293,20293,20293,20293,320,O'BRIEN,Forget it. It's just the rules of the game.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20294,20294,20294,20294,321,QUARK,Uh-huh. Uh-huh. Rules of the game. Go on.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20295,20295,20295,20295,322,O'BRIEN,"It's a damn hunt, didja know that... they're chasing Tosk in a hunt... and everybody's playing by the rules... they're playing by their rules, we're playing by ours... and he gets caught in the middle...",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20296,20296,20296,20296,323,QUARK,(has no idea what O'Brien is talking about) Uh-huh.,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20297,20297,20297,20297,324,O'BRIEN,"Of course, I suppose when the Ferengi don't like the rules... they just change them...",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,-0.2755
+20298,20298,20298,20298,325,QUARK,"Well, rules... rules are always subject to inter--...",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.2732
+20299,20299,20299,20299,326,O'BRIEN,Of course... change the rules... why didn't I think of that...,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20300,20300,20300,20300,327,O'BRIEN,"Thanks, barkeep.",77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20301,20301,20301,20301,328,QUARK,So what's bothering you today?,77   INT. QUARK'S ESTABLISHMENT,QUARK'S ESTABLISHMENT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20302,20302,20302,20302,329,O'BRIEN,"Computer, access power grid to security check point four on the Promenade...",78   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20303,20303,20303,20303,330,ODO,That isn't necessary.,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20304,20304,20304,20304,331,THE HUNTER,Our ritual requires it when a Tosk is captured alive.,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20305,20305,20305,20305,332,ODO,All right... let's go...,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20306,20306,20306,20306,333,O'BRIEN,I'll be escorting the prisoner to the transporter station.,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20307,20307,20307,20307,334,ODO,This is a security matter...,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20308,20308,20308,20308,335,O'BRIEN,This is a Starfleet matter. Orders from Sisko.,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20309,20309,20309,20309,336,ODO,We'll see about that.,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20310,20310,20310,20310,337,THE HUNTER,Do not trouble yourself. My ship can transport us.,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20311,20311,20311,20311,338,O'BRIEN,"Nossir, that won't be necessary. Good relations with other cultures is our highest priority. Commander Sisko wants to make sure you understand we're sorry we interfered with your hunt. The least we can do is give you an official escort off the station... it's a token of goodwill and respect in our society...",83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20312,20312,20312,20312,339,THE HUNTER,Very well.,83   INT. SECURITY,SECURITY,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20313,20313,20313,20313,340,ODO,Starfleet has no business taking charge of a prisoner transport...,84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20314,20314,20314,20314,341,SISKO,"Calm down, Constable... what are you talking about...",84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20315,20315,20315,20315,342,ODO,I'm talking about your ordering O'Brien to escort Tosk off the station...,84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20316,20316,20316,20316,343,SISKO,I didn't give him any orders at all...,84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20317,20317,20317,20317,344,SISKO,Sisko to O'Brien...,84   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20318,20318,20318,20318,345,SISKO,"Mister O'Brien, report to Ops immediately.",85   INT. SECURITY - CLOSE ON THE COMBADGE,SECURIT,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20319,20319,20319,20319,346,O'BRIEN,This way...,86   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20320,20320,20320,20320,347,O'BRIEN,"Glass jaw. Now, I know why you wear a helmet.",86   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20321,20321,20321,20321,348,O'BRIEN,Up there!,86   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20322,20322,20322,20322,349,THE HUNTER,The hunt has resumed!,86   INT. PROMENADE,PROMENADE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20323,20323,20323,20323,350,KIRA,Security reports a fight in the Promenade... apparently O'Brien set him loose...,97   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20324,20324,20324,20324,351,DAX,"I'm showing someone in an access conduit above Quark's... two lifeforms... one's human... (she exchanges a glance with Sisko, that means it's O'Brien and Tosk) ... they're heading out toward the docking ring...",97   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20325,20325,20325,20325,352,ODO,I'll seal off the adjoining corridors... they won't get far...,97   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20326,20326,20326,20326,353,SISKO,Constable...,97   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20327,20327,20327,20327,354,SISKO,There's no hurry.,97   INT. OPS,OPS,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20328,20328,20328,20328,355,TOSK,"You are Tosk as well now, Oh Brien...",98   INT. CARDASSIAN ACCESS TUBE (OPTICAL),CARDASSIAN ACCESS TUBE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20329,20329,20329,20329,356,O'BRIEN,The Cardies made these conduits out of two-meter thick duranium composite... I've never seen a scanning device that could penetrate it...,98   INT. CARDASSIAN ACCESS TUBE (OPTICAL),CARDASSIAN ACCESS TUBE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20330,20330,20330,20330,357,O'BRIEN,... until now.,98   INT. CARDASSIAN ACCESS TUBE (OPTICAL),CARDASSIAN ACCESS TUBE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20331,20331,20331,20331,358,O'BRIEN,"C'mon, Tosk, just around that corner... and we're there...",100  INT. CORRIDOR NUMBER TWO (OPTICAL),CORRIDOR NUMBER TWO,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20332,20332,20332,20332,359,THE HUNTER,No. He's mine.,100  INT. CORRIDOR NUMBER TWO (OPTICAL),CORRIDOR NUMBER TWO,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20333,20333,20333,20333,360,O'BRIEN,What happens now?,108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20334,20334,20334,20334,361,TOSK,The hunt goes on.,108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20335,20335,20335,20335,362,TOSK,You wish to come?,108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20336,20336,20336,20336,363,O'BRIEN,No... no... I don't think so... one day as a Tosk is enough for me... and I have a wife and kid that wouldn't fit too well into this lifestyle...,108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20337,20337,20337,20337,364,TOSK,Will your Federation punish you for helping me?,108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20338,20338,20338,20338,365,O'BRIEN,"Maybe. But if I know my Commander... Hell, those guys wanted a hunt. I just gave them one.",108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20339,20339,20339,20339,366,O'BRIEN,"Go on, you better get out of here while you can...",108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20340,20340,20340,20340,367,TOSK,"(a formal Tosk good- bye) Die with honor, Oh Brien.",108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.296
+20341,20341,20341,20341,368,O'BRIEN,"Die with honor, Tosk.",108  INT. TOSK'S SHIP,TOSK'S SHIP,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,-0.1779
+20342,20342,20342,20342,369,SISKO,"Just what did happen at that security checkpoint, Chief...",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.34
+20343,20343,20343,20343,370,O'BRIEN,"The weapons' sensors must have overloaded on all his various gear, sir.",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20344,20344,20344,20344,371,SISKO,"""Must have""?",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20345,20345,20345,20345,372,O'BRIEN,Yessir. They must have... since... I increased their output by about two hundred percent...,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20346,20346,20346,20346,373,SISKO,So... in effect you assaulted him... Our first contact with a new species.,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20347,20347,20347,20347,374,O'BRIEN,Yessir.,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20348,20348,20348,20348,375,SISKO,"We've got dozens of top level officials back at Starfleet Command, eagerly waiting to hear about our encounter with the first new lifeforms to come through the wormhole... how do you suggest I write up this report?",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20349,20349,20349,20349,376,O'BRIEN,"Well, sir... I'm not one to say. But you know, these... hunters weren't any happier than we were about having to bring Tosk home... and it seems in the interests of mutual understanding and future relations...",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20350,20350,20350,20350,377,SISKO,Save it.,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20351,20351,20351,20351,378,SISKO,You ignored your duty to Starfleet... you took off your combadge so you could ignore me... you even ignored the Prime Directive by interfering in their damned hunt. Another stunt like this and your wife won't have to complain about the conditions here anymore. Do I make myself clear?,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20352,20352,20352,20352,379,O'BRIEN,I understand.,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20353,20353,20353,20353,380,O'BRIEN,"I was surprised by one thing, sir.",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20354,20354,20354,20354,381,SISKO,What's that?,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20355,20355,20355,20355,382,O'BRIEN,"I knew I couldn't override all the security seals on the station.. I figured once you and the Constable located us... well, that it would be over... we'd find ourselves locked behind a forcefield somewhere...",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20356,20356,20356,20356,383,SISKO,I guess that one got by us.,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20357,20357,20357,20357,384,O'BRIEN,"Yessir. Thank-you, sir.",108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20358,20358,20358,20358,385,SISKO,Dismissed.,108A INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Captive Pursuit,1992-10-23,Deep Space Nine,406.txt,0.0
+20359,20359,20359,20359,0,QUARK,"The usual, Odo?",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20360,20360,20360,20360,1,ODO,Nothing.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20361,20361,20361,20361,2,QUARK,The usual.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20362,20362,20362,20362,3,QUARK,"If all my customers were like you, my family would be begging on the Promenade.",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20363,20363,20363,20363,4,ODO,"Oh, I seriously doubt that. Not as long as there's a Miradorn raider for you to do business with.",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20364,20364,20364,20364,5,QUARK,Raider? You mean the Miradorn ship that just docked?,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20365,20365,20365,20365,6,ODO,The raider.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20366,20366,20366,20366,7,QUARK,"It's reputation, like mine, has probably been exaggerated. Anyway, I don't know the ship or its crew.",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20367,20367,20367,20367,8,ODO,You didn't make your usual welcome call inviting them in for a free drink?,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20368,20368,20368,20368,9,QUARK,Miradorns are a quarrelsome people. I chose to forego the usual amenities.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20369,20369,20369,20369,10,ODO,He looks away whenever I make eye contact.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20370,20370,20370,20370,11,QUARK,Who?,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20371,20371,20371,20371,12,ODO,The new arrival. The one the Klingons brought back from the Gamma Quadrant.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20372,20372,20372,20372,13,QUARK,Croden? He's harmless.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20373,20373,20373,20373,14,ODO,Really. How is it you've come to know him so well... ?,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20374,20374,20374,20374,15,QUARK,A man comes in for a drink... he wants to talk...,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20375,20375,20375,20375,16,ODO,He didn't seem to want to talk much to Sisko when he arrived...,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20376,20376,20376,20376,17,QUARK,Who would? All those Starfleet officers greeting him at the airlock. It would scare me too. The Federation could learn a few things from the Ferengi about hospitality.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20377,20377,20377,20377,18,ODO,"They scared him, huh... ?",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20378,20378,20378,20378,19,QUARK,... of course...,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20379,20379,20379,20379,20,ODO,... I wonder what he has to be scared about...,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20380,20380,20380,20380,21,ODO,Well now! I believe a pair of twinned Miradorns just nodded your way.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20381,20381,20381,20381,22,QUARK,"I'm the man behind the bar. Obviously, they want to use a holosuite.",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20382,20382,20382,20382,23,QUARK,"You think the whole galaxy is plotting around you, don'tcha... paranoia must run in your species, Odo... maybe that's why no one's ever seen another shape-shifter... they're all hiding.",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20383,20383,20383,20383,24,QUARK,"Well, I won't have you coming here harassing my customers... order a drink, play the tables or vacate the premises.",2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20384,20384,20384,20384,25,QUARK,Rom -- bring a flask of my special langour.,2    INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20385,20385,20385,20385,26,RO-KEL ,One-thousand bars of gold press latinum.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20386,20386,20386,20386,27,AH-KEL ,Non-negotiable.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20387,20387,20387,20387,28,QUARK,Very nice.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20388,20388,20388,20388,29,QUARK,"Unfortunately, there's a problem.",9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20389,20389,20389,20389,30,RO-KEL,Problem?,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20390,20390,20390,20390,31,ROM,"Langour, anyone?",9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20391,20391,20391,20391,32,AH-KEL,What problem?,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20392,20392,20392,20392,33,QUARK,The buyer backed out.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20393,20393,20393,20393,34,RO-KEL,You guaranteed us a buyer.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20394,20394,20394,20394,35,QUARK,A question's been raised about the origin of this bauble. A similar item was taken during a raid on a Vanoben transport just two light years from here. If you had a bill of sale...,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20395,20395,20395,20395,36,RO-KEL,You didn't ask for any bill of sale when we contacted you...,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20396,20396,20396,20396,37,ROM,"Gentlemen, gentlemen please... try some rare Cardassian Langour, it will sooth you...",9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20397,20397,20397,20397,38,RO-KEL,You will find another buyer...,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20398,20398,20398,20398,39,QUARK,A buyer who will ask no questions... that could take a long time...,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20399,20399,20399,20399,40,AH-KEL,We don't have a long time.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20400,20400,20400,20400,41,RO-KEL,What's this?,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20401,20401,20401,20401,42,QUARK,Don't fire. What do you want?,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20402,20402,20402,20402,43,CRODEN,No one will be hurt. Just give me... ...that...,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20403,20403,20403,20403,44,AH-KEL,You're making a mistake.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20404,20404,20404,20404,45,CRODEN,It wouldn't be my first. And probably won't be my last. Give it to me.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20405,20405,20405,20405,46,ODO,Security and medical to holosuite one.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20406,20406,20406,20406,47,QUARK,Five glasses... for four people... ?,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20407,20407,20407,20407,48,AH-KEL,He's dead. My brother...,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20408,20408,20408,20408,49,ODO,Take them all to my office.,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20409,20409,20409,20409,50,QUARK,"Yes, take them both to his office. Thank goodness, you were... close by, Odo...",9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20410,20410,20410,20410,51,ODO,All of them...,9    INT. HOLOSUITE - CONTINUOUS,HOLOSUIT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20411,20411,20411,20411,52,AH-KEL,"Have you known any twinned Miradorn, Commander?",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20412,20412,20412,20412,53,SISKO,I'm afraid I haven't met any before now.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20413,20413,20413,20413,54,AH-KEL,"In my species, we are not just twin brothers... together we are a self... two halves of one being. I am incomplete now.",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20414,20414,20414,20414,55,ODO,You should have considered the risks before trying to sell stolen merchandise.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20415,20415,20415,20415,56,AH-KEL,You have no proof...,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20416,20416,20416,20416,57,ODO,Two people were killed on the transport this object was taken from...,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20417,20417,20417,20417,58,AH-KEL,My brother and I purchased it from an Altoran trader...,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20418,20418,20418,20418,59,ODO,His name... his ship's identification...,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20419,20419,20419,20419,60,AH-KEL,"I am the one whose brother was killed, Commander...",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20420,20420,20420,20420,61,ODO,You have only yourself to...,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20421,20421,20421,20421,62,SISKO,I'd like you to return to your ship for now. You have my sympathies. But there may be more questions... Please don't leave the station.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20422,20422,20422,20422,63,AH-KEL,I want to deal with the one who killed my twin.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20423,20423,20423,20423,64,SISKO,The law will deal with him.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20424,20424,20424,20424,65,AH-KEL,My only purpose in life from here on is to see him dead.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20425,20425,20425,20425,66,QUARK,"Well, can't say I didn't warn you about Miradorns, Odo... I assume we're free to go... ?",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20426,20426,20426,20426,67,SISKO,"Have you got enough evidence to hold them, Constable?",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20427,20427,20427,20427,68,QUARK,"As Odo will be happy to confirm, I was just as concerned as everyone else that this was a stolen objet d'art.",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20428,20428,20428,20428,69,ODO,"Yes, curious... but it's true.",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20429,20429,20429,20429,70,QUARK,We'll be on our way then...,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20430,20430,20430,20430,71,ODO,You know what else was curious... Croden had a Ferengi phaser...,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20431,20431,20431,20431,72,QUARK,Available in many a port.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20432,20432,20432,20432,73,ODO,And it's curious that he knew the Miradorn were trying to sell you something of value.,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20433,20433,20433,20433,74,ROM,How dare you suggest that my brother set up this robbery!,15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20434,20434,20434,20434,75,ODO,"What an interesting theory, Rom.",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20435,20435,20435,20435,76,SISKO,"If that ""theory"" should ever get to the Miradorn...",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20436,20436,20436,20436,77,QUARK,"... I'd wake up dead one morning. So, I'd appreciate your not spreading wild theories around casually...",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20437,20437,20437,20437,78,SISKO,"I better have a talk with your prisoner, Constable...",15   INT. SECURITY,SECURITY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20438,20438,20438,20438,79,CRODEN,Don't you feed your prisoners?,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20439,20439,20439,20439,80,ODO,The fact that you killed a man doesn't affect your appetite?,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20440,20440,20440,20440,81,CRODEN,"It was him or me. If he killed me, I wouldn't be hungry now.",16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20441,20441,20441,20441,82,SISKO,I want to be sure you understand what's going to happen. A trial will be held to determine your guilt or innocence. We can assign an advocate to defend you or you can request one from your home world.,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20442,20442,20442,20442,83,CRODEN,I doubt that anyone on Rakhar would care.,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20443,20443,20443,20443,84,SISKO,Really. Isn't murder considered a serious crime where you come from?,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20444,20444,20444,20444,85,CRODEN,"On Rakhar, all crimes are serious... but there are no trials.",16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20445,20445,20445,20445,86,SISKO,It's a shame our first encounter with your species has to take place under these circumstances.,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20446,20446,20446,20446,87,CRODEN,Sorry if I made things awkward. I didn't have much choice.,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20447,20447,20447,20447,88,SISKO,Why not?,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20448,20448,20448,20448,89,CRODEN,"My needs exceed my skills. Now, if I had... ... his talents, I'd have no problems at all... I've never heard of a changeling with such versatility.",16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20449,20449,20449,20449,90,ODO,A what?,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20450,20450,20450,20450,91,CRODEN,A changeling. Like you.,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20451,20451,20451,20451,92,ODO,You've heard of other shape-shifters in the Gamma Quadrant?,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20452,20452,20452,20452,93,CRODEN,Haven't they come through the wormhole yet? I assumed when I saw you...,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20453,20453,20453,20453,94,ODO,He's lying. He heard me talking in the bar to Quark...,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20454,20454,20454,20454,95,CRODEN,"Well, maybe I dissemble a little. ""Lie"" is a hard word. But shape- shifters are harsh in their judgements.",16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20455,20455,20455,20455,96,CRODEN,Feed me... and maybe I'll tell you where I met someone just like... you...,16   INT. HOLDING AREA,HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20456,20456,20456,20456,97,SISKO,I don't see that we have any choice. We have to contact his planet...,18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20457,20457,20457,20457,98,O'BRIEN,Not the best way of introducing ourselves...,18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20458,20458,20458,20458,99,BASHIR,"Homicide as a means to open relations... not exactly how they teach it at the academy, is it...",18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20459,20459,20459,20459,100,KIRA,I think you're all wrong... They're going to thank us...,18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20460,20460,20460,20460,101,SISKO,Thank us?,18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20461,20461,20461,20461,102,KIRA,That's what I'd do. He's probably committed all sorts of crimes in their system... they'll be glad that we've taken a problem off their hands.,18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20462,20462,20462,20462,103,SISKO,There's only way to find out... Dax?,18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20463,20463,20463,20463,104,DAX,"It won't be hard to find Rakhar. According to the logs, Croden was picked up in a damaged shuttlecraft about three light years from the wormhole. There aren't many M class planets in that area.",18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20464,20464,20464,20464,105,SISKO,"You're with me. Major, as long as the Miradorn ship is here, there's a threat to Croden... I don't want to have to tell his people that he was killed in our custody.",18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20465,20465,20465,20465,106,KIRA,I'll have Odo increase security.,18   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20466,20466,20466,20466,107,QUARK,Stop in to see if I'd run away?,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20467,20467,20467,20467,108,ODO,I couldn't get that lucky. That Croden is an interesting fellow.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20468,20468,20468,20468,109,QUARK,I wouldn't know.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20469,20469,20469,20469,110,QUARK,I never told you that. I merely said we chatted when he bought a drink or two.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20470,20470,20470,20470,111,ODO,I've talked to several people who saw the two of you engaged in heavy conversations... why Morn there said you even bought the fellow a meal...,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20471,20471,20471,20471,112,QUARK,Morn should keep his big mouth shut!,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20472,20472,20472,20472,113,ODO,So what were you talking to him about...,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20473,20473,20473,20473,114,QUARK,Just being friendly. He was so out of place here; alone. I felt sorry for him. You should sympathize with my kindness.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20474,20474,20474,20474,115,ODO,There's no profit in kindness.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20475,20475,20475,20475,116,QUARK,You attribute odious motives to my every charitable act.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20476,20476,20476,20476,117,ODO,"That's because your favorite charity is your own pocket. Speaking of odious motives, I hear you've been making inquiries about securing a small ship to go through the wormhole.",21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20477,20477,20477,20477,118,QUARK,That had nothing to do with any of this.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20478,20478,20478,20478,119,ODO,I think it did... I think you were trying to secure passage back to the Gamma Quadrant for Croden in exchange for staging this tragic little robbery of yours.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20479,20479,20479,20479,120,QUARK,This could turn into a much bigger tragedy for me if you don't keep your voice down.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20480,20480,20480,20480,121,ODO,What did Croden tell you about himself?,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20481,20481,20481,20481,122,QUARK,Nothing. We didn't talk about anything except busi... ... inconsequential things.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20482,20482,20482,20482,123,ODO,What is inconsequential to you may be important to me. Did he say anything about his home world?,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20483,20483,20483,20483,124,QUARK,No.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20484,20484,20484,20484,125,ODO,Other species in the Gamma Quadrant?,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20485,20485,20485,20485,126,QUARK,No.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20486,20486,20486,20486,127,COM-BADGE,Security to Odo.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20487,20487,20487,20487,128,ODO,Go ahead.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20488,20488,20488,20488,129,COM-BADGE,Ah-Kel and his crew are blocking the entrance to your office. Should we clear them out?,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20489,20489,20489,20489,130,ODO,Leave it. I'll handle them.,21   INT. QUARK'S,QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20490,20490,20490,20490,131,ODO,You were told to stay on your ship.,24   INT. PROMENADE - OUTSIDE ODO'S OFFICE,PROMENAD,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20491,20491,20491,20491,132,AH-KEL,"Understand me, shape-shifter. He killed the part of me that made existence bearable. I cannot stop until I kill him.",24   INT. PROMENADE - OUTSIDE ODO'S OFFICE,PROMENAD,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20492,20492,20492,20492,133,ODO,"You're not killing anyone. Get back to your ship and stay there. If I find you here again, I'll lock you up too.",24   INT. PROMENADE - OUTSIDE ODO'S OFFICE,PROMENAD,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20493,20493,20493,20493,134,ODO,You've made a lot of friends in your short stay here.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20494,20494,20494,20494,135,CRODEN,"I guess you'd know how that feels. You and I have a great deal in common, changeling.",25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20495,20495,20495,20495,136,ODO,We have nothing in common.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20496,20496,20496,20496,137,CRODEN,"We're both aliens here, the only ones of our kind. Each of us is alone, isolated. Shut out. Others like us exist only in the Gamma Quadrant.",25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20497,20497,20497,20497,138,CRODEN,I've always wondered why changelings are so distrustful of other species...,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20498,20498,20498,20498,139,ODO,I doubt the... changelings... on your world would trust you.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20499,20499,20499,20499,140,CRODEN,Of course not. There aren't any shape-shifters on Rakhar.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20500,20500,20500,20500,141,ODO,You just said... You implied there were.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20501,20501,20501,20501,142,CRODEN,"I'm sorry if I misled you. There were shape-shifters on Rakhar at one time, but that was centuries ago.",25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20502,20502,20502,20502,143,ODO,What happened to them?,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20503,20503,20503,20503,144,CRODEN,They were persecuted... driven out.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20504,20504,20504,20504,145,CRODEN,"But I do know a place where there are still some left. At least, there were a few years ago.",25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20505,20505,20505,20505,146,ODO,"And if you had the chance, you'd take me there.",25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20506,20506,20506,20506,147,CRODEN,Sure I would. Why not?,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20507,20507,20507,20507,148,ODO,Tell me where it is and I'll go have a look.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20508,20508,20508,20508,149,CRODEN,I'd have to show you. There's no way you could get there on you own...,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20509,20509,20509,20509,150,ODO,"The next time you lie, I'll save Ah-Kel the trouble of killing you.",25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20510,20510,20510,20510,151,CRODEN,There's that hard word again. There are times I don't dissemble.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20511,20511,20511,20511,152,ODO,"Whatever you call it, the truth isn't in you.",25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.3182
+20512,20512,20512,20512,153,CRODEN,From the colony of changelings.,25   INT. HOLDING CELL,HOLDING CELL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20513,20513,20513,20513,154,DAX,We're in orbit.,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20514,20514,20514,20514,155,SISKO,Open hailing frequencies...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20515,20515,20515,20515,156,DAX,Open...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20516,20516,20516,20516,157,SISKO,This is the Federation Starship Rio Grande attempting to make contact with the planet Rakhar. Please respond.,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20517,20517,20517,20517,158,SISKO,One of your people has committed a homicide and we have him in custody. His name is Croden.,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20518,20518,20518,20518,159,DAX,I'm picking up a signal from the southern hemisphere... they're hailing us...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20519,20519,20519,20519,160,SISKO,On screen...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20520,20520,20520,20520,161,HADRAN,I am the Exarch of Nehelik Province. You will transport Croden to this location.,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20521,20521,20521,20521,162,SISKO,I'm afraid we didn't bring him with us.,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20522,20522,20522,20522,163,HADRAN,Your communication clearly stated that he was in your custody...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20523,20523,20523,20523,164,SISKO,"On our space station... perhaps, I should explain where we come from...",29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20524,20524,20524,20524,165,HADRAN,We are well aware of the traffic through the newly discovered passage... We simply have no interest in contact with anyone from your quadrant...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20525,20525,20525,20525,166,SISKO,"I'm sorry to hear that, but we'll certainly respect your wishes. We just felt it necessary after Croden was arrested...",29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20526,20526,20526,20526,167,HADRAN,Croden is an enemy of the Rakhari people... we request that he be returned immediately...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20527,20527,20527,20527,168,SISKO,He's scheduled to be tried for his crime on our space station...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20528,20528,20528,20528,169,HADRAN,Tried? Croden has already been declared guilty in absentia for myriad crimes on this world. That judgement supersedes your charges. Return him and I can assure you his punishment will be appropriate to your crime as well as ours.,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20529,20529,20529,20529,170,SISKO,I would be more comfortable if we could...,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20530,20530,20530,20530,171,HADRAN,"I do not know what kind of people you are. I do not care to know. But if your society purports to respect the rules of our society, you will return him without delay.",29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20531,20531,20531,20531,172,SISKO,You can expect him to arrive in another vessel like this one within fifty-two hours.,29   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20532,20532,20532,20532,173,BASHIR,It's an amalgam of organic material and some sort of crystal.,38   INT. INFIRMARY (VPB),INFIRMARY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20533,20533,20533,20533,174,ODO,You mean it's alive?,38   INT. INFIRMARY (VPB),INFIRMARY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20534,20534,20534,20534,175,BASHIR,More or less. It's almost like a transitional stage between organic and inorganic matter. I've only seen one life form that even remotely resembles it.,38   INT. INFIRMARY (VPB),INFIRMARY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20535,20535,20535,20535,176,ODO,Me.,38   INT. INFIRMARY (VPB),INFIRMARY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20536,20536,20536,20536,177,BASHIR,"In a way, this stone might qualify as a distant cousin of yours. Maybe there's a clue to your origins here. Where did it come from?",38   INT. INFIRMARY (VPB),INFIRMARY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20537,20537,20537,20537,178,ODO,"Unfortunately, the only one who can tell me is less reliable than Quark.",38   INT. INFIRMARY (VPB),INFIRMARY,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20538,20538,20538,20538,179,CRODEN,"How'd you like my ""stone,"" changeling?",39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20539,20539,20539,20539,180,ODO,Where'd you get it?,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20540,20540,20540,20540,181,CRODEN,What does telling you get me?,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20541,20541,20541,20541,182,ODO,Nothing.,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20542,20542,20542,20542,183,CRODEN,Too bad. I thought you might feel sorry for me... seeing we're the only two here from the other side of the passage...,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20543,20543,20543,20543,184,ODO,I feel nothing for you but contempt... you're a thief and a killer and who knows what else...,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20544,20544,20544,20544,185,CRODEN,Typical.,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20545,20545,20545,20545,186,ODO,"Of ""changeling"" behavior... yes, I'm sure...",39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20546,20546,20546,20546,187,CRODEN,Excuse me...,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20547,20547,20547,20547,188,CRODEN,"In my sector, there is a nebula called the Chamra Vortex. There are millions of asteroids there. This ""stone"" came from one of them. I can take you to it, changeling.",39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20548,20548,20548,20548,189,ODO,Others must know where it is.,39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20549,20549,20549,20549,190,CRODEN,"No. The Vortex is uncharted. But as a thief and a killer and who knows what else, I hid there often. I found this changeling colony by chance but... I know my way back...",39   INT. HOLDING AREA (OPTICAL),HOLDING AREA,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20550,20550,20550,20550,191,ODO,"Yes, Commander...",40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20551,20551,20551,20551,192,SISKO,I want you to escort the prisoner back to his home planet.,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,-0.4939
+20552,20552,20552,20552,193,ODO,He's not to stand trial here?,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20553,20553,20553,20553,194,SISKO,Croden apparently committed crimes on Rakhar. His government was adamant and the Bajorans have agreed to release him.,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.4939
+20554,20554,20554,20554,195,ODO,We're going to have trouble getting him by the Miradorn.,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20555,20555,20555,20555,196,SISKO,"Yes, I know... Ah-Kel's been screening every ship leaving the station. How soon can you be ready?",40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20556,20556,20556,20556,197,ODO,I'm ready now.,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20557,20557,20557,20557,198,SISKO,There's a Rigelian freighter leaving here for the Gamma Quadrant in an hour... maybe we can use them to run interference between you and the Miradorn ship...,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20558,20558,20558,20558,199,ODO,I'll move the prisoner to the Runabout right away.,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20559,20559,20559,20559,200,SISKO,"Constable, once you're on the other side, you'll be on your own... the",40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20560,20560,20560,20560,201,ODO,Understood.,40   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20561,20561,20561,20561,202,CRODEN,(looks around at the Runabout) So you finally decided to take me up on my offer.,41   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20562,20562,20562,20562,203,ODO,You're going home.,41   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20563,20563,20563,20563,204,O'BRIEN,The Rigelian Freighter is ready to depart.,42   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20564,20564,20564,20564,205,SISKO,Signal Odo.,42   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20565,20565,20565,20565,206,KIRA,The Miradorn ship's scanning the freighter... doesn't look like they're reading the Runabout...,44   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20566,20566,20566,20566,207,CRODEN,"How do you stand it, changeling? Living where you don't belong. Are you happy?",47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20567,20567,20567,20567,208,ODO,I'm as much a part of the place as anyone else.,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20568,20568,20568,20568,209,CRODEN,"I doubt it. They tolerate you, but you're not one of them. Being what you are, you can pour your square shape into a round hole... but you never really fit, do you? You're like my stone.",47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20569,20569,20569,20569,210,ODO,I think I finally figured out what crime you were found guilty of on your world...,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20570,20570,20570,20570,211,CRODEN,What's that?,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20571,20571,20571,20571,212,ODO,You talked too much.,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20572,20572,20572,20572,213,CRODEN,Maybe you're right. Perhaps that is how it started. Perhaps I asked one question too many... That's as good an explanation as any...,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20573,20573,20573,20573,214,ODO,Explanation for what?,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20574,20574,20574,20574,215,CRODEN,"For why they came that night. I never was told. And to this day, I don't know. They broke into my home just before dawn. By the time I stopped them, they had already murdered both my wives...",47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20575,20575,20575,20575,216,CRODEN,"You see, on my world, the punishment for being an enemy of the people is the death of your family. I had no sophisticated weapon... only a short, slaughter knife that I used for cutting the necks of fowl we would prepare for supper. Imagine my surprise when I discovered that the necks of the security officers were no more difficult to cut than the birds'... even the sounds they made when the blade crossed their gullets were similar...",47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20576,20576,20576,20576,217,ODO,I'm supposed to believe this appalling tale...,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20577,20577,20577,20577,218,CRODEN,Would it make a difference if you did?,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20578,20578,20578,20578,219,ODO,No.,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20579,20579,20579,20579,220,CRODEN,Then believe it. Because it's true.,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20580,20580,20580,20580,221,CRODEN ,"My return will be celebrated, changeling... they'll be grateful... you'll be a hero. Perhaps you can even use this as an excuse to exchange envoys...",47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20581,20581,20581,20581,222,ODO,"If you don't stop talking, I can sedate you for the rest of the trip.",47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20582,20582,20582,20582,223,CRODEN,Sorry. I didn't know I bothered you.,47   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20583,20583,20583,20583,224,ROM,He's going to kill us. He says we were in with Croden.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20584,20584,20584,20584,225,AH-KEL,"Where is he, Quark?",49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20585,20585,20585,20585,226,QUARK,Croden? He's in security.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20586,20586,20586,20586,227,AH-KEL,Don't lie to me. He's gone.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20587,20587,20587,20587,228,AH-KEL,You're hiding him. You've been in it together all along. You're as responsible for my brother's death as he is.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20588,20588,20588,20588,229,QUARK,"Ah-Kel, no. This is Odo's doing. Don't you see? He wants to turn us against each other.",49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20589,20589,20589,20589,230,AH-KEL,"Why should I believe you? Tell me where Croden is, or you can die in his place.",49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20590,20590,20590,20590,231,QUARK,I don't know where he is. But maybe I can find out... if you will just release me...,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20591,20591,20591,20591,232,QUARK,Get me the security chips...,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20592,20592,20592,20592,233,QUARK,Level four clearance.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20593,20593,20593,20593,234,QUARK,There. Station logs. Odo logged out in a Runabout at oh- eight-hundred. Destination... Rakhar.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20594,20594,20594,20594,235,AH-KEL,Give me the coordinates.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20595,20595,20595,20595,236,QUARK,"Ah, I don't think... it isn't at all clear...",49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20596,20596,20596,20596,237,AH-KEL,The coordinates are very clearly stated... right here in the log entry.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20597,20597,20597,20597,238,AH-KEL,"One more thing, little Ferengi. You better be telling the truth or I'll be back to finish this.",49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20598,20598,20598,20598,239,ROM,"Oh, you are clever, brother. Now, Ah-Kel will rid us of Croden and Odo.",49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20599,20599,20599,20599,240,QUARK,Unless Odo is sensible and gives up his prisoner.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20600,20600,20600,20600,241,ROM,Oh no! Then Croden would tell Ah- Kel the truth about our plan... we're dead... we're dead... you shouldn't have told him how to find them...,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20601,20601,20601,20601,242,QUARK,Be quiet. Odo won't give up his prisoner. He'll just get himself killed.,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20602,20602,20602,20602,243,ROM,Do you really think so?,49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20603,20603,20603,20603,244,QUARK,"Oh, get out of here, you fool!",49   INT. QUARK'S (VPB),QUARK'S,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20604,20604,20604,20604,245,SISKO,"Yes, Chief... ?",51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20605,20605,20605,20605,246,O'BRIEN,The Miradorn ship is leaving the station.,51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20606,20606,20606,20606,247,SISKO,"Major, do whatever you can to delay them...",51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20607,20607,20607,20607,248,KIRA,Ops to Miradorn vessel... please hold your position... stand by for departure instructions...,51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20608,20608,20608,20608,249,O'BRIEN,No response... they're still moving...,51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20609,20609,20609,20609,250,SISKO,"Dax, how long before Odo reaches Rakhar?",51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20610,20610,20610,20610,251,DAX,Just over five hours...,51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20611,20611,20611,20611,252,KIRA,"Miradorn vessel, you are in violation of Bajoran transit regulations... please return at once to the docking ring...",51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20612,20612,20612,20612,253,O'BRIEN,They've increased power to their thrusters...,51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20613,20613,20613,20613,254,SISKO,On screen...,51   INT. OPS,OPS,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20614,20614,20614,20614,255,CRODEN,You'd save time going through the Vortex. It's a long way around.,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20615,20615,20615,20615,256,CRODEN,Aren't you the least bit curious about your own people?,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20616,20616,20616,20616,257,ODO,"Of course, I am. Unfortunately, I'm not at liberty to pursue that curiosity right now.",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20617,20617,20617,20617,258,CRODEN,"They don't maintain a humanoid shape, you know.",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20618,20618,20618,20618,259,CRODEN,"They refused to assimilate on my world... they're a very proud species... that's why they were so persecuted. But I will say this for them... they treated me well enough when I landed at their colony. I was badly wounded... they could have allowed me to die... they didn't. You're one of them... that's for sure... you have that sense of decency, of justice...",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,-0.4403
+20619,20619,20619,20619,260,ODO,"You don't give up, do you...",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20620,20620,20620,20620,261,ODO,"Computer, what was that...",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20621,20621,20621,20621,262,COMPUTER,A temporary loss of stability resulting from the impact of a concentrated plasma charge.,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20622,20622,20622,20622,263,ODO,Concentrated plasma charge? You mean we were attacked.,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20623,20623,20623,20623,264,COMPUTER,Affirmative. Pursuing vessel approaching from one-eight-one mark one-two.,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20624,20624,20624,20624,265,ODO,Put it on the monitor and identify...,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20625,20625,20625,20625,266,COMPUTER,"Miradorn vessel, Theta class.",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20626,20626,20626,20626,267,ODO,He's hailing us...,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20627,20627,20627,20627,268,AH-KEL,The first shot was a warning. You will surrender the Rakhari prisoner to me...,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20628,20628,20628,20628,269,ODO,"I don't give up my prisoners, Ah-Kel.",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20629,20629,20629,20629,270,AH-KEL,Very well. Then you can die with him.,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20630,20630,20630,20630,271,COMPUTER,Warning. Damage to shields...,54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20631,20631,20631,20631,272,ODO,"Computer, evasive maneuvers!",54   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20632,20632,20632,20632,273,COMPUTER,Warning... shields at forty-one percent...,57   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20633,20633,20633,20633,274,CRODEN,Your computer's not going to outsmart him...,57   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20634,20634,20634,20634,275,ODO,"I'm a security chief, not a combat pilot...",57   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20635,20635,20635,20635,276,CRODEN,Then give me the controls...,57   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20636,20636,20636,20636,277,ODO,You?,57   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20637,20637,20637,20637,278,CRODEN,I know how to get us through the Vortex. The ionized gasses would screen us from his sensors.,57   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20638,20638,20638,20638,279,CRODEN,"Drop your suspicious nature for a minute, changeling. Can't you see it's our only chance.",57   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20639,20639,20639,20639,280,ODO,Why are we slowing down?,59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20640,20640,20640,20640,281,CRODEN,"The Vortex is riddled with volatile pockets of a gas we call toh-maire. If we destabilize them, they could ignite and blow this ship apart.",59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20641,20641,20641,20641,282,ODO,You really have been through here before.,59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20642,20642,20642,20642,283,CRODEN,Sometimes I do tell the truth.,59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20643,20643,20643,20643,284,ODO,How do you remember what's true and what isn't?,59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20644,20644,20644,20644,285,ODO,I thought you said they couldn't detect us in here.,59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20645,20645,20645,20645,286,CRODEN,"Computer, disengage impulse engines... go to thrusters...",59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20646,20646,20646,20646,287,COMPUTER,Acknowledged. Thrusters engaged.,59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20647,20647,20647,20647,288,ODO,What are you doing?,59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20648,20648,20648,20648,289,CRODEN,"Once our impulse wake drops off, he might try to pick up the discharge from our thrusters... we'll be better off if we land... So, changeling, I guess I'm going to take you home after all...",59   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20649,20649,20649,20649,290,CRODEN,This way...,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20650,20650,20650,20650,291,ODO,"Slow down, Croden... stay where I can see you... Croden...",62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20651,20651,20651,20651,292,ODO,What's your hurry? What's in here?,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20652,20652,20652,20652,293,CRODEN,I told you... the colony...,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20653,20653,20653,20653,294,ODO,Anxious to see them again are you...,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,-0.25
+20654,20654,20654,20654,295,CRODEN,Of course...,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20655,20655,20655,20655,296,ODO,Come on...,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20656,20656,20656,20656,297,ODO,"Whatever you came here to get, you can forget it. We're leaving.",62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20657,20657,20657,20657,298,CRODEN,Odo...,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20658,20658,20658,20658,299,ODO,Now!,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20659,20659,20659,20659,300,ODO,How much of it was true? Any of it? Any of it?,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20660,20660,20660,20660,301,CRODEN,"No. On Rakhar, we tell stories about changelings. I thought they were a myth... until I met you.",62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20661,20661,20661,20661,302,ODO,The stone.,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20662,20662,20662,20662,303,CRODEN,I don't know where it came from. Rakhari merchants buy stones like it from off-world traders. It's used as a key.,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20663,20663,20663,20663,304,ODO,A key? To what.,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20664,20664,20664,20664,305,CRODEN,My only reason to live. It's inside the cavern ahead.,62   INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20665,20665,20665,20665,306,CRODEN,"Help me, there must have been a cave in...",63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20666,20666,20666,20666,307,ODO,What is it?,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20667,20667,20667,20667,308,CRODEN,A stasis chamber.,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20668,20668,20668,20668,309,CRODEN,My daughter. The only member of my family I could save.,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20669,20669,20669,20669,310,CRODEN,It shapes itself to fit this lock.,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.3612
+20670,20670,20670,20670,311,YARETH,Father?,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20671,20671,20671,20671,312,YARETH,I was dreaming about you.,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20672,20672,20672,20672,313,CRODEN,"I'm here, Yareth. You don't have to dream anymore.",63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20673,20673,20673,20673,314,YARETH,Hello.,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20674,20674,20674,20674,315,CRODEN,This is Odo. He's a security officer.,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20675,20675,20675,20675,316,CRODEN,"No, he won't hurt you. He'll take you to a place where you'll be safe. Won't you?",63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20676,20676,20676,20676,317,YARETH,Where are you going?,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20677,20677,20677,20677,318,CRODEN,Home.,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20678,20678,20678,20678,319,YARETH,But you can't... they'll kill you...,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20679,20679,20679,20679,320,CRODEN,"I have to answer for my crimes, Yareth...",63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20680,20680,20680,20680,321,YARETH,All you did was try to protect us...,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20681,20681,20681,20681,322,ODO,Their sensors must have picked up our life signs... we've got to get back to the Runabout... come on!,63   INT. CAVERN,CAVERN,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20682,20682,20682,20682,323,CRODEN,Odo!,69A  INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20683,20683,20683,20683,324,YARETH,Is he badly hurt?,69A  INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20684,20684,20684,20684,325,CRODEN,It's hard to tell... I don't know anything about his species... I'll carry him aboard...,69A  INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20685,20685,20685,20685,326,YARETH,"What's the matter, Father?",69A  INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20686,20686,20686,20686,327,CRODEN,Nothing.,69A  INT. CAVE TUNNEL,CAVE TUNNEL,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20687,20687,20687,20687,328,CRODEN,You're heavier than you look.,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20688,20688,20688,20688,329,ODO,You could have left me behind.,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20689,20689,20689,20689,330,CRODEN,Don't thank me. I already regret it.,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20690,20690,20690,20690,331,CRODEN,"I haven't been able to lose them. Sooner or later, one of his photons is going to trigger a toh-maire explosion... and kill us all...",71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20691,20691,20691,20691,332,ODO,Let me have the controls. Find us one of those toh-maire fields...,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20692,20692,20692,20692,333,CRODEN,"I just told you, you don't want to go anywhere near one, changeling. Sorry. Habit. It suits you.",71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20693,20693,20693,20693,334,ODO,Find the closest toh-maire field.,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20694,20694,20694,20694,335,CRODEN,Six degrees to starboard.,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20695,20695,20695,20695,336,ODO,Changing course... He's chased us everywhere else... maybe he'll follow us in there too...,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20696,20696,20696,20696,337,CRODEN,"His sensors may not be able to detect how volatile the field is. If he fires at us in there, the whole thing will ignite...",71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20697,20697,20697,20697,338,ODO,That's what I'm counting on...,71   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20698,20698,20698,20698,339,ODO,Set a course along the interior perimeter...,73   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20699,20699,20699,20699,340,CRODEN,Done.,73   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20700,20700,20700,20700,341,ODO,"Computer, shut down all engines...",73   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20701,20701,20701,20701,342,COMPUTER,Engines disengaged.,73   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20702,20702,20702,20702,343,ODO,Maintain emergency readiness to re-engage impulse on my command...,73   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20703,20703,20703,20703,344,CRODEN,We're an awfully easy target...,73   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20704,20704,20704,20704,345,CRODEN,He's hailing us.,75   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20705,20705,20705,20705,346,ODO,On screen.,75   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20706,20706,20706,20706,347,AH-KEL,Are you prepared to surrender your prisoner?,75   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20707,20707,20707,20707,348,ODO,"I have a full array of Starfleet weapons trained on you, Ah-Kel. Frankly, I don't know too much about them... but I hear they equip this little vessel with some pretty powerful stuff... so I suggest you withdraw while you still can...",75   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20708,20708,20708,20708,349,AH-KEL,There will barely be a trace of your little vessel when we're finished with you...,75   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20709,20709,20709,20709,350,CRODEN,He's coming about... ... powering his shields... ... his starboard photon bank is armed...,75   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20710,20710,20710,20710,351,ODO,"Computer, engage!",75   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20711,20711,20711,20711,352,ODO,Everybody back there in one piece?,78   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20712,20712,20712,20712,353,YARETH,Yes.,78   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20713,20713,20713,20713,354,ODO,Good. Take us out of your precious vortex.,78   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20714,20714,20714,20714,355,CRODEN,I only have one last favor to ask. Yareth is going to be alone in your world. Like you've always been. She's going to need someone to look after her...,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20715,20715,20715,20715,356,ODO,If you're suggesting what I think you're suggesting...,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20716,20716,20716,20716,357,CRODEN,"Now, you know you could use some company, changeling... you may deny it, but we both know it's true... or this rock wouldn't have meant a thing to you...",80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20717,20717,20717,20717,358,COMPUTER,Incoming subspace signal... Vulcan band frequency...,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20718,20718,20718,20718,359,ODO,On screen.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20719,20719,20719,20719,360,VULCAN OFFICER,Starfleet Runabout... this is the Vulcan Science Vessel T'Vran. Are you in any difficulty?,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20720,20720,20720,20720,361,ODO,"Chief of Security Odo from D.S. Nine. We're fine, Captain.",80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20721,20721,20721,20721,362,VULCAN OFFICER,We detected a major eruption in the Chamra Vortex. I was afraid a small ship like yours might have suffered damage.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20722,20722,20722,20722,363,ODO,I appreciate your concern. What's your course?,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.4019
+20723,20723,20723,20723,364,VULCAN OFFICER ,"To the wormhole, then home to Vulcan.",80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20724,20724,20724,20724,365,ODO,I beamed over two survivors from a ship that wasn't so lucky. I have a mission to complete. Could you give them transportation to Vulcan?,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,-0.4471
+20725,20725,20725,20725,366,VULCAN OFFICER ,Easily done. We will rendezvous with you shortly. Prepare for transport.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20726,20726,20726,20726,367,ODO,Don't thank me. I already regret it.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20727,20727,20727,20727,368,CRODEN,How... how will you explain not delivering me?,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20728,20728,20728,20728,369,ODO,I'll tell them you were killed when Ah-Kel torpedoed the asteroid. This dissembling must be catching. You'll have to get used to living in an alien society...,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20729,20729,20729,20729,370,CRODEN,"Like you. But I know where my home is. And perhaps someday, I'll be able to go back again.",80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20730,20730,20730,20730,371,CRODEN,I hope it will help you find where you came from.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20731,20731,20731,20731,372,VULCAN OFFICER ,T'Vran to Ganges. Ready for transport.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20732,20732,20732,20732,373,YARETH,Are you really a changeling?,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20733,20733,20733,20733,374,ODO,Yes. I suppose I am.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20734,20734,20734,20734,375,ODO,"Go on, we don't want to keep the Vulcans waiting.",80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20735,20735,20735,20735,376,ODO,Energizing.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20736,20736,20736,20736,377,ODO,"(beat, turns to controls) Computer, set a course for the wormhole.",80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20737,20737,20737,20737,378,COMPUTER,Course laid in.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20738,20738,20738,20738,379,ODO,Ready engines.,80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20739,20739,20739,20739,380,ODO,"Home. Where is it? Someday, we'll know... cousin. Engage.",80   INT. RUNABOUT,RUNABOUT,INT.,Vortex,1993-01-12,Deep Space Nine,412.txt,0.0
+20740,20740,20740,20740,0,KIRA,Right there.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20741,20741,20741,20741,1,KIRA,The explosion began in the intercooler matrix. Your men were supposed to put the bomb here...,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20742,20742,20742,20742,2,KIRA,", ... in the secondary plasma relay.",1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20743,20743,20743,20743,3,RUSOT,What difference does that make? The ship was still destroyed.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20744,20744,20744,20744,4,GARAK,The intercooler's an obvious choice for sabotage. Their security checks could've found the bomb and disarmed it before the ship left orbit.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20745,20745,20745,20745,5,RUSOT,But they didn't find it.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20746,20746,20746,20746,6,KIRA,That's not the point. Your men ignored their instructions and their training.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20747,20747,20747,20747,7,DAMAR,Let's not lose sight of the fact that the mission was a success.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20748,20748,20748,20748,8,KIRA,It was a success because Jem'Hadar security slipped up and we got lucky. Don't use those men again for anything except routine reconnaissance.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20749,20749,20749,20749,9,RUSOT,They're five of my best men! Bronok is one of the most,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20750,20750,20750,20750,10,GARAK,You've been told before -- no names!,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20751,20751,20751,20751,11,KIRA,Every cell has to be insulated from the cell above and below.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20752,20752,20752,20752,12,KIRA ,If I know the names of your men and I'm captured...,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20753,20753,20753,20753,13,RUSOT,I've heard the lecture.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20754,20754,20754,20754,14,KIRA,Then you shouldn't have to be reminded!,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20755,20755,20755,20755,15,DAMAR,It's been a long day. Why don't we take a break.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20756,20756,20756,20756,16,RUSOT,Good idea. The air in here is getting stale.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20757,20757,20757,20757,17,KIRA,Are you going to do something,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20758,20758,20758,20758,18,DAMAR,I am. I'm giving him my support.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20759,20759,20759,20759,19,KIRA,All right.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20760,20760,20760,20760,20,GARAK,That does not bode well.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20761,20761,20761,20761,21,KIRA,Odo!,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20762,20762,20762,20762,22,ODO,"The raid on the Tevak shipyard was successful. I penetrated the Operations Center and disabled the security protocols. The rest of the team sabotaged the dilithium storage bunkers. An hour after we left, the entire facility was vaporized.",1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20763,20763,20763,20763,23,KIRA,You should get some rest...,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20764,20764,20764,20764,24,ODO,That sounds good to me...,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20765,20765,20765,20765,25,KIRA,Anyone in the bunkroom?,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20766,20766,20766,20766,26,GARAK,No.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20767,20767,20767,20767,27,KIRA,It's all yours.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20768,20768,20768,20768,28,KIRA,Odo... good work.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20769,20769,20769,20769,29,ODO,Thank you.,1    EXT. SPACE (OPTICAL),SPACE,EXT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.3612
+20770,20770,20770,20770,30,KIRA,Starfleet Intelligence says that a contingent of Breen engineers arrived on Kelvas Five last week. Breen engineers... Have we had any reports of Breen ships in that system?,6    INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.4767
+20771,20771,20771,20771,31,GARAK,"No. As a matter of fact, no Breen ships have been reported in that entire sector.",6    INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,-0.5106
+20772,20772,20772,20772,32,KIRA,So why send engineers... ? Do you have any contacts on Kelvas Five?,6    INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20773,20773,20773,20773,33,GARAK,No. But I think I know who might. Excuse me.,6    INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20774,20774,20774,20774,34,ODO,It's just like you to come sneaking in here without warning.,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20775,20775,20775,20775,35,GARAK,"My approach may have been quiet, but I assure you, I had no intention of ""sneaking"" up on you. My apologies.",7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20776,20776,20776,20776,36,GARAK,If I may ask... ?,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20777,20777,20777,20777,37,ODO,Why have I... deteriorated so rapidly? I've been assuming dozens of different shapes over the past few weeks. Changing form seems to... accelerate the progress of the disease.,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20778,20778,20778,20778,38,GARAK,Perhaps you should stop.,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20779,20779,20779,20779,39,ODO,"And do what? Lie here and wait to die? No, thank you. I'm here to work and work is what I'm going to do.",7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20780,20780,20780,20780,40,GARAK,I see. I take it that Commander Kira is unaware of your... true condition?,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20781,20781,20781,20781,41,ODO,That's right. And I prefer that it stay that way.,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20782,20782,20782,20782,42,GARAK,I won't breath a word.,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20783,20783,20783,20783,43,ODO,See that you don't. She has enough on her mind without worrying about me. And I don't want her...,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20784,20784,20784,20784,44,GARAK,Pity?,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20785,20785,20785,20785,45,ODO,Is there a reason you came in here?,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20786,20786,20786,20786,46,GARAK,We have need of a contact on Kelvas Five. I remember you once mentioning that you knew several --,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20787,20787,20787,20787,47,ODO,"(wants this over with) I might have a few names for you, I'll have to give it some thought.",7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20788,20788,20788,20788,48,GARAK,Odo... I hope you know how much I --,7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20789,20789,20789,20789,49,ODO,"If I don't want pity from the woman I love, why would I want it from you?",7    INT. SECOND CAVERN,SECOND CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20790,20790,20790,20790,50,COMPUTER,DNA analysis complete.,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20791,20791,20791,20791,51,BASHIR,Display results.,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20792,20792,20792,20792,52,O'BRIEN,Morning.,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20793,20793,20793,20793,53,BASHIR,What time is it?,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20794,20794,20794,20794,54,O'BRIEN,Oh-six-thirty. Another all-night session? That's four in a row. You can't keep this up.,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20795,20795,20795,20795,55,BASHIR,"I'm beginning to agree with you... and to add insult to injury, I'm not getting anywhere. My DNA integration theory was another blind alley.",8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20796,20796,20796,20796,56,O'BRIEN,So where does that leave you?,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20797,20797,20797,20797,57,BASHIR,Back to square one. Whoever engineered this Shape-shifter disease did a good job of covering their tracks.,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20798,20798,20798,20798,58,O'BRIEN,"Julian, it's time to face facts.",8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20799,20799,20799,20799,59,BASHIR,Miles...,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20800,20800,20800,20800,60,O'BRIEN,We have to find a way to get inside Section Thirty-one.,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20801,20801,20801,20801,61,BASHIR,We tried that. We tried and we tried and all we succeeded in doing was to waste two weeks chasing phantoms from here to Vulcan. You want to face facts?,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20802,20802,20802,20802,62,BASHIR ,Face this fact -- Section Thirty- one has managed to stay in the shadows for three hundred years. They're not going to suddenly come scurrying into the light just because Miles O'Brien and Julian Bashir are on the case!,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20803,20803,20803,20803,63,O'BRIEN,Which is why I still say we should take this to Captain Sisko and let him contact Starfleet Intelligence. Maybe they can --,8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20804,20804,20804,20804,64,BASHIR,"All that will do is alert Thirty- one to that fact that we're onto them. And you know what they'll do next? They'll go deeper into hiding and they'll probably send someone here to destroy what little headway I've made. No. No more cloak and dagger games. Science is the answer here. Every puzzle has a solution, every disease has a cure, it's just a matter of finding it.",8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20805,20805,20805,20805,65,BASHIR ,"Now, if you'll kindly get the",8    INT. INFIRMARY (VPB),INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20806,20806,20806,20806,66,GOWRON,Martok's attack on Avenal Seven,10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20807,20807,20807,20807,67,SISKO,General Martok and I both advised you against attacking a world so deep inside Dominion territory. He was outnumbered six to one at Avenal.,10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20808,20808,20808,20808,68,GOWRON,,10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20809,20809,20809,20809,69,SISKO,He didn't hide behind anything! He fought harder and longer than I would've in his place. Have you read Worf's after-action report?,10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20810,20810,20810,20810,70,SISKO ,Seven Klingon ships destroyed! Five others heavily damaged! And Martok himself is in critical condition in the Rotarran Sickbay.,10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20811,20811,20811,20811,71,GOWRON,He's expected to survive.,10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20812,20812,20812,20812,72,SISKO,"That's not the point. This whole operation was a waste of resources, men and equipment. The blame lies with the man who ordered the attack in the first place, not with the man who tried to carry it out.",10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20813,20813,20813,20813,73,GOWRON,"That's one of the things I like about you, captain. Your loyalty",10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20814,20814,20814,20814,74,SISKO,This has nothing to do with loyalty.,10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20815,20815,20815,20815,75,GOWRON,"Of course not. In any case, you needn't worry. Martok's a... popular general with the troops. And that counts for something. I won't relieve him of command... yet. His flagship won't return to the station for three days. That should give me time to finalize plans for our next operation.",10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20816,20816,20816,20816,76,SISKO,"Chancellor, we can't afford to keep wasting ships in these reckless attacks!",10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20817,20817,20817,20817,77,GOWRON,"I like a brave man, Captain... but not a foolish one. The soldiers of the Empire are mine to command. And if I say the attacks will continue... they continue.",10   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20818,20818,20818,20818,78,WEYOUN,"... and as you can see, the Klingon raid on Avenal was easily broken up.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20819,20819,20819,20819,79,FEMALE SHAPE-SHIFTER,"I am less concerned about a Klingon attack than I am about this Cardassian rebellion. We cannot fight the combined military forces of the Federation, the Klingons and the Romulans while facing a full- scale uprising behind the lines.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20820,20820,20820,20820,80,WEYOUN,"I completely agree. However, the situation is well in hand. We still control the Cardassian",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20821,20821,20821,20821,81,FEMALE SHAPE-SHIFTER,He's correct. You also assured us that Damar would never turn against the Dominion.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20822,20822,20822,20822,82,WEYOUN,"That was an... error, to be sure. But an understandable one. No one could've foreseen that Damar would become a terrorist. The concept is antithetical to the very nature of Cardassians. They respect authority. They value the rule of law and the security of order -- which is exactly what the Dominion offers them.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20823,20823,20823,20823,83,FEMALE SHAPE-SHIFTER,"If our cloning facilities were operational, I would eliminate this Weyoun immediately. Damar must pay a price for his treason. Redouble your efforts to locate his wife and children. Then begin interrogating Cardassian teachers, scientists, local officials... the population has to understand in no uncertain terms that dissent will not be tolerated. I also want to begin putting Cardassian civilians in and around Dominion military installations. If Damar destroys another shipyard, he'll have to kill a good number of his countrymen in order to do it... that should help turn the people against him.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20824,20824,20824,20824,84,WEYOUN,An excellent plan.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20825,20825,20825,20825,85,FEMALE SHAPE-SHIFTER,"Your opinion was not solicited. Thot Pran, the sooner we can regain the offensive on the front lines, the better. The installation of Breen weapons aboard Dominion ships should be accelerated. Please issue the appropriate orders to your engineers.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20826,20826,20826,20826,86,FEMALE SHAPE-SHIFTER,How long until the cloning facilities are operational again?,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20827,20827,20827,20827,87,WEYOUN,Not for... several days... perhaps even weeks.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20828,20828,20828,20828,88,FEMALE SHAPE-SHIFTER,Keep me informed.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20829,20829,20829,20829,89,GARAK,"... and according to our new contact on Kelvas Five, the Breen will begin installing their energy dampening weapons aboard Jem'Hadar fighters within a week.",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20830,20830,20830,20830,90,DAMAR,Has the Federation made any progress on counteracting these weapons?,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20831,20831,20831,20831,91,KIRA,They're still having trouble understanding the underlying technology.,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20832,20832,20832,20832,92,DAMAR,Why aren't the Klingon ships affected by these Breen weapons?,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20833,20833,20833,20833,93,KIRA,"We don't know that yet either. But, if we could supply the Federation with one, it would give them a chance to come up with a countermeasure.",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20834,20834,20834,20834,94,GARAK,I had the same thought.,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20835,20835,20835,20835,95,RUSOT,"Our priority should be to free Cardassia from the Dominion, not to do Starfleet's dirty work.",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20836,20836,20836,20836,96,DAMAR,"We're all in this together. By helping Starfleet, we're helping ourselves.",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20837,20837,20837,20837,97,KIRA,"There's a Cardassian repair facility in the Kelvas System, right?",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20838,20838,20838,20838,98,GARAK,Yes. I take it you have something in mind?,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20839,20839,20839,20839,99,KIRA,"(still working it out in her head) It won't be easy... but if we can get onto the bridge... All right. We'll use a five-man team. The four of us, plus Odo. Garak, I'll need everything we have on the Kelvas facility.",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20840,20840,20840,20840,100,KIRA,Something wrong?,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20841,20841,20841,20841,101,GARAK,Possibly... could I have a few words with the commander...,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20842,20842,20842,20842,102,KIRA,What's on your mind?,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20843,20843,20843,20843,103,GARAK,"It's about taking Odo on this mission... I'm afraid there's no easy way of putting this... he's been hiding the true extent of his illness from you for some time now. His condition has severely deteriorated. And the more he changes form, the worse it gets.",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20844,20844,20844,20844,104,KIRA,"I know. I love him, Garak. You think I wouldn't notice?",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20845,20845,20845,20845,105,GARAK,Why the pretense?,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20846,20846,20846,20846,106,KIRA,"Because I also know that he doesn't want me to find out about it. He wants to put up a brave front and protect me from the truth. Fine. If that makes this easier for him, if that gives him one last shred of dignity to hang onto, then I'll go on ignoring what's happening to him right up until... right up until the end. Anything else?",13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20847,20847,20847,20847,107,GARAK,No.,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20848,20848,20848,20848,108,KIRA,All right... we're going to need a Cardassian shuttle with up-to-date security protocols...,13   INT. REBEL CAVERN,REBEL CAVERN,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20849,20849,20849,20849,109,SISKO,Sisko to Worf.,15A  INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20850,20850,20850,20850,110,WORF,Worf here.,15A  INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20851,20851,20851,20851,111,SISKO,"I'd like to see you in my office, commander.",15A  INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20852,20852,20852,20852,112,WORF,On my way.,15A  INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20853,20853,20853,20853,113,SISKO,How's Martok?,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20854,20854,20854,20854,114,WORF,Doctor Bashir said he'll make a full recovery.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20855,20855,20855,20855,115,SISKO,"I'm glad to hear that. Mister Worf, we have a serious",15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20856,20856,20856,20856,116,WORF,Gowron.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20857,20857,20857,20857,117,SISKO,He seems hell-bent on continuing these offensives regardless of the cost.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20858,20858,20858,20858,118,WORF,"He is a stubborn, arrogant man.",15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20859,20859,20859,20859,119,SISKO,"That may be true, but he's not a fool. He's risking our entire defense posture. Why can't he see that?",15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20860,20860,20860,20860,120,WORF,I suspect the Chancellor cannot see anything at the moment... except for one man.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20861,20861,20861,20861,121,SISKO,You mean Martok?,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20862,20862,20862,20862,122,WORF,Gowron sees him as a political threat. These attacks against the Dominion are designed to humiliate Martok in the eyes of the Empire -- to force him to endure defeat after defeat.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20863,20863,20863,20863,123,SISKO,Are you telling me this is a political vendetta?,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20864,20864,20864,20864,124,WORF,It would not be the first time that a Klingon Chancellor put his own interests ahead of the greater good.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20865,20865,20865,20865,125,SISKO,Something has to be done.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20866,20866,20866,20866,126,WORF,I agree. And I have a solution. But it will not be easy.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20867,20867,20867,20867,127,WORF,Understood.,15B  INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20868,20868,20868,20868,128,RUSOT,My men have secured the shuttle. They'll meet us at those coordinates.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20869,20869,20869,20869,129,KIRA,Good.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20870,20870,20870,20870,130,RUSOT,Are you enjoying yourself? Getting Cardassians to do your bidding must give you great satisfaction.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20871,20871,20871,20871,131,KIRA,"I'm a little busy right now, Rusot. Go find someone else to",18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20872,20872,20872,20872,132,RUSOT,"You may have fooled Damar into believing that you're here to help fight the Dominion, but I know why you're really here.",18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20873,20873,20873,20873,133,KIRA,This should be good.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20874,20874,20874,20874,134,RUSOT,"You killed hundreds of Cardassians during the Occupation. Now you're getting a chance to do it again. That's why you're here, isn't it? To hang a few more Cardassian neckbones from your belt? Admit it, Kira -- you won't be satisfied until every one of us is dead.",18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20875,20875,20875,20875,135,KIRA,I don't have time for this...,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20876,20876,20876,20876,136,KIRA,Don't you ever touch me again.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20877,20877,20877,20877,137,RUSOT,I guess I hit a nerve...,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20878,20878,20878,20878,138,KIRA,"That's hitting a nerve, Rusot. Keep pushing me and you're going to find out just how many nerves your miserable body has.",18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20879,20879,20879,20879,139,RUSOT,When this is all over... and the Dominion is defeated...,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20880,20880,20880,20880,140,KIRA,You won't have any trouble finding me.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20881,20881,20881,20881,141,GARAK,"You'll have to do something about him long before that, commander.",18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20882,20882,20882,20882,142,KIRA,Thanks for all your help.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20883,20883,20883,20883,143,GARAK,You appeared to have things under control.,18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20884,20884,20884,20884,144,GARAK ,"Despite his statement to the contrary, Rusot won't wait until the end of the war to make his move. I suggest that you not wait either. Kill him... before he kills you.",18   INT. REBEL CAVERN.,REBEL CAVERN.,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20885,20885,20885,20885,145,MARTOK,Challenge Gowron? In the middle of a war? It's treasonous! I won't do it.,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20886,20886,20886,20886,146,WORF,Gowron is leading us all to ruin. It is your duty to challenge him to protect the Empire!,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20887,20887,20887,20887,147,MARTOK,You would have me protect the Empire by breaking my oath... by spilling the blood of a Klingon brother while an enemy stands at our door? Where is the honor in that?,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20888,20888,20888,20888,148,WORF,Gowron is sacrificing our troops for his own petty reasons. Where is the honor in that?,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20889,20889,20889,20889,149,MARTOK,"The troops are his to command, Worf. It is not our place to question him unless he acts with cowardice -- and there is no proof of that!",19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20890,20890,20890,20890,150,WORF,You are not listening!,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20891,20891,20891,20891,151,MARTOK,"I've heard every word you said. You want me to become Chancellor. Me. Tell me Worf, how do you think the members of the High Council will react when they're asked to follow a common man from the Ketha Lowlands? A man without a drop of noble blood in his veins?",19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20892,20892,20892,20892,152,WORF,Kahless himself was not high- born.,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20893,20893,20893,20893,153,MARTOK,Kahless was divine.,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.5574
+20894,20894,20894,20894,154,WORF,"Your name is revered throughout the Empire. If you seize the Leadership, every warrior from here to Kronos will swear an oath to you. With that kind of support, the High Council will have no choice but to accept you as chancellor.",19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.6761
+20895,20895,20895,20895,155,MARTOK,You sound like a Romulan.,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20896,20896,20896,20896,156,WORF,You know I'm right.,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20897,20897,20897,20897,157,MARTOK,I am a loyal soldier of the Empire! I would rather die than dishonor my uniform by raising a hand to my chancellor in a time of war! I would bring shame to everything I have fought to protect! Everything I believe in.,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20898,20898,20898,20898,158,WORF,General --,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20899,20899,20899,20899,159,MARTOK,My decision is made and we will not speak of this again!,19   INT. SURGERY,SURGERY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20900,20900,20900,20900,160,ODO,You're staring again.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20901,20901,20901,20901,161,KIRA,Sorry. I just can't help... worrying about you.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20902,20902,20902,20902,162,ODO,"Don't. It may be a long time before the first symptoms manifest themselves. And by then, I'm sure Doctor Bashir will have found a cure.",21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20903,20903,20903,20903,163,KIRA,Right. Can you take the helm? I'm going to get some raktajino.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20904,20904,20904,20904,164,GARAK,One of our listening posts picked up a message that... the Dominion has succeeded in locating Damar's family.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20905,20905,20905,20905,165,DAMAR,They're dead.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20906,20906,20906,20906,166,DAMAR,My wife and I... she was a difficult woman. Selfish. Stubborn. But she wasn't part of this rebellion. The Dominion knew that... the Founder knew that... Weyoun knew that. To kill her... and my son...,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20907,20907,20907,20907,167,DAMAR ,What kind of state tolerates the murder of innocent women and children? What kind of people give those orders?,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20908,20908,20908,20908,168,KIRA,"Yeah, Damar, what kind of people give those orders?",21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20909,20909,20909,20909,169,KIRA,That was stupid.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20910,20910,20910,20910,170,GARAK,Not at all. Damar has a certain... romanticism about the past. He can use a dose of cold water.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20911,20911,20911,20911,171,KIRA,I could've picked a better time.,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20912,20912,20912,20912,172,GARAK,"If Damar is the man to lead a new Cardassia... if he's the man we hope him to be... then the pain of this news made him more receptive to what you said, not less.",21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20913,20913,20913,20913,173,ODO,We're approaching the rendezvous,21   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20914,20914,20914,20914,174,ODO,The shuttle is here.,24   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20915,20915,20915,20915,175,RUSOT,Right on time. Just as I promised.,24   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20916,20916,20916,20916,176,DAMAR,Damar to shuttle. Lower your shields and we'll beam aboard.,24   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20917,20917,20917,20917,177,COM,Acknowledged. Shields down.,24   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20918,20918,20918,20918,178,DAMAR,Let's go.,24   INT. RUNABOUT,RUNABOUT,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20919,20919,20919,20919,179,WORF,"... and in truth, I understand his position. It is the duty of all soldiers to support their leaders in time of war. Asking Martok to stand against Gowron was a foolish error.",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20920,20920,20920,20920,180,EZRI,So what are you going to do?,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20921,20921,20921,20921,181,WORF,Try to persuade Gowron to discontinue these attacks. You've said very little.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20922,20922,20922,20922,182,EZRI,I'm a counselor. Most of my job is listening.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20923,20923,20923,20923,183,WORF,I'm not interested in counseling. I need something more useful. That's not what I meant.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20924,20924,20924,20924,184,EZRI,"I know what you meant. Look, I'm just not sure I should be giving you advice on what to do in this situation. This is a Klingon matter.",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20925,20925,20925,20925,185,WORF,You're still a member of the House of Martok.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20926,20926,20926,20926,186,EZRI,This is the first I've heard of it.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20927,20927,20927,20927,187,WORF,"Martok and I discussed it weeks ago. He likes you. He thinks you're an honorable woman and a worthy successor to Jadzia. (casual, taking a drink) So do I.",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20928,20928,20928,20928,188,EZRI,That's very sweet of him... of both of you.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20929,20929,20929,20929,189,WORF,Sweet?,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20930,20930,20930,20930,190,EZRI,Not a very Klingon word is it?,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20931,20931,20931,20931,191,WORF,No.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20932,20932,20932,20932,192,EZRI,It's very... honorable.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20933,20933,20933,20933,193,WORF,"Better. But a little obvious. Now, tell me what you think.",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20934,20934,20934,20934,194,EZRI,"Okay. But, I'm not sure you're going to like it. I think the situation with Gowron is just a symptom of a deeper problem. The Klingon Empire is dying. And I think it deserves to die.",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20935,20935,20935,20935,195,WORF,You're right. I don't like it.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20936,20936,20936,20936,196,EZRI,"Don't get me wrong, I'm really touched that you still consider me a member of the House of Martok... but I tend to look at the Empire",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20937,20937,20937,20937,197,EZRI ,"I see a society in deep denial about itself. We're talking about a warrior culture that prides itself on maintaining centuries-old traditions of honor and integrity... but in reality, it's willing to accept corruption at the highest level.",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20938,20938,20938,20938,198,WORF,You're overstating your case.,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20939,20939,20939,20939,199,EZRI,Am I? Who was the last leader of the High Council that you respected? Has there even been one?,32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20940,20940,20940,20940,200,EZRI,"How many times have you had to help cover up the crimes of Klingon leaders because someone told you it was for the ""good of the Empire?"" I know this sounds harsh, but... the truth is, you've been willing to accept a government you know is corrupt. Gowron is just the latest example. Worf, you're one of the most honorable and decent men I've ever met... and if you're willing to tolerate men like Gowron, what hope is there for the Empire?",32B  INT. QUARK'S - SECOND LEVEL,QUARK',INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20941,20941,20941,20941,201,GARAK,We have a prisoner for the Vorta in command of this ship.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20942,20942,20942,20942,202,VORNAR,Everything seems to be in order. But you will have to leave your weapons here.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20943,20943,20943,20943,203,GARAK,Why?,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20944,20944,20944,20944,204,VORNAR,New orders from Dominion Headquarters. No armed Cardassians allowed aboard Jem'Hadar vessels.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20945,20945,20945,20945,205,GARAK,It sounds like they don't trust us anymore.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20946,20946,20946,20946,206,GARAK,It's not your fault.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20947,20947,20947,20947,207,GARAK ,Do as he says. The three of us should be able to handle one Bajoran woman.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20948,20948,20948,20948,208,VORNAR,Take them to the bridge.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20949,20949,20949,20949,209,VORNAR,Good luck... Legate Damar.,38   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20950,20950,20950,20950,210,LUARAN,"... we'll run the first test firing in two hours, fourteen minutes. Agreed. Coordinate it with central operations.",44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20951,20951,20951,20951,211,LUARAN,What's this?,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20952,20952,20952,20952,212,GARAK,We have a prisoner.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20953,20953,20953,20953,213,LUARAN,I can see that. Why are you bringing her to me?,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20954,20954,20954,20954,214,GARAK,This is Commander Rota -- deputy intelligence officer for this entire sector. I would think you'd be interested in interrogating her.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20955,20955,20955,20955,215,LUARAN,I wasn't informed of this.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20956,20956,20956,20956,216,GARAK,"I'm sure the report hasn't reached you yet, but that's not surprising. We only took the commander prisoner yesterday.",44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20957,20957,20957,20957,217,LUARAN,Let me see your orders.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20958,20958,20958,20958,218,GARAK,Of course.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20959,20959,20959,20959,219,LUARAN,Founder. You honor us with your presence. I had no idea you were in this sector.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20960,20960,20960,20960,220,FEMALE SHAPE-SHIFTER,My movements do not concern you.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20961,20961,20961,20961,221,LUARAN,No...,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20962,20962,20962,20962,222,FEMALE SHAPE-SHIFTER,Ah. Commander Rota. Have you begun interrogating this prisoner?,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20963,20963,20963,20963,223,LUARAN,Not yet.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20964,20964,20964,20964,224,FEMALE SHAPE-SHIFTER,Good. I will conduct the questioning myself.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20965,20965,20965,20965,225,LUARAN,As you wish.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20966,20966,20966,20966,226,FEMALE SHAPE-SHIFTER,I see the upgraded plasma rifles have been distributed. Let me inspect it.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20967,20967,20967,20967,227,KIRA,Secure those hatches!,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20968,20968,20968,20968,228,ODO,It wasn't necessary to kill them all!,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20969,20969,20969,20969,229,GARAK,We can't afford to be burdened with prisoners.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20970,20970,20970,20970,230,KIRA,We'll argue about this later. Prepare to flood all decks below the bridge with neurazine gas. Bring the warp drive on-line and lay in a course for the Federation.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20971,20971,20971,20971,231,GARAK,Commander!,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20972,20972,20972,20972,232,GARAK,They haven't finished installing the Breen weapon. We can't leave.,44   INT. JEM'HADAR BRIDGE,JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20973,20973,20973,20973,233,ODO,How long until they finish installing the weapon?,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20974,20974,20974,20974,234,RUSOT,We can't wait!,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20975,20975,20975,20975,235,KIRA,We're not leaving without that weapon.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20976,20976,20976,20976,236,GARAK,"There are three -- no, four -- Breen working in the engine room. From the diagnostics, I'd say it'll take them... another thirty to forty-five minutes to complete their work...",46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20977,20977,20977,20977,237,RUSOT,We don't have that much time!,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20978,20978,20978,20978,238,KIRA,"Yes, we do. No one even knows we're on the bridge. All we have to do is sit tight, send out the standard replies to any inquiries and wait for the Breen to finish their work.",46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20979,20979,20979,20979,239,RUSOT,"Damar, this is insane. She'll get us all killed!",46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20980,20980,20980,20980,240,GARAK,There's an incoming message. They want to speak with the Vorta.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20981,20981,20981,20981,241,KIRA,Disable the visual feed.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20982,20982,20982,20982,242,KIRA,What was her name?,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20983,20983,20983,20983,243,KIRA,Come on!,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20984,20984,20984,20984,244,GARAK,I'm looking... ah! Her name was Luaran.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20985,20985,20985,20985,245,KIRA,"This is Luaran. No, I can't see you either.",46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20986,20986,20986,20986,246,KIRA,They want a status report on our navigational array.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20987,20987,20987,20987,247,ODO,I've got it.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20988,20988,20988,20988,248,KIRA,The data is on its way. Excellent. We'll be repairing the com system for at least the next hour. I'll contact you when we're finished. Luaran out.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20989,20989,20989,20989,249,KIRA,Then we're dead.,46   INT. JEM'HADAR BRIDGE (OPTICAL),JEM'HADAR BRIDGE,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20990,20990,20990,20990,250,O'BRIEN,Hey.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20991,20991,20991,20991,251,BASHIR,Hey.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20992,20992,20992,20992,252,O'BRIEN,Keiko whipped up some crab rolls for you. She... we... thought you might be hungry.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20993,20993,20993,20993,253,BASHIR,Thanks. To both of you.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20994,20994,20994,20994,254,BASHIR,About the other day...,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20995,20995,20995,20995,255,O'BRIEN,Forget it.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20996,20996,20996,20996,256,O'BRIEN,How's the work going?,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20997,20997,20997,20997,257,BASHIR,I'm firmly entrenched in square one.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20998,20998,20998,20998,258,O'BRIEN,Hmm. Can I ask you a question -- about Thirty-one?,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
+20999,20999,20999,20999,259,BASHIR,Go ahead.,48   INT. INFIRMARY,INFIRMARY,INT.,Tacking into the Wind,1999-02-24,Deep Space Nine,572.txt,0.0
