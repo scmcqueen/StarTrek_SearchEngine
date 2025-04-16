@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+44000,44000,44000,44000,57,BASHIR,"There he is now... I've been waiting for you, Chief...",8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44001,44001,44001,44001,58,O'BRIEN,"What is it, Julian.",8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44002,44002,44002,44002,59,BASHIR,No excuses this time.,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44003,44003,44003,44003,60,O'BRIEN,Excuses...,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44004,44004,44004,44004,61,BASHIR,I want you in my office in one hour...,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44005,44005,44005,44005,62,O'BRIEN,For what?,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44006,44006,44006,44006,63,BASHIR,Your physical. You can't put it off any longer...,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44007,44007,44007,44007,64,O'BRIEN,This isn't a good day...,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44008,44008,44008,44008,65,BASHIR,It's a perfect day. Commander Sisko has arranged to have you covered and...,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44009,44009,44009,44009,66,O'BRIEN,What are you doing going to the Commander about my check-up?,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44010,44010,44010,44010,67,BASHIR,I just know how you are about...,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44011,44011,44011,44011,68,O'BRIEN,"Well, forget it... I've got things to do...",8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44012,44012,44012,44012,69,BASHIR,"I'm afraid I'll have to insist. If I have to order you as your superior officer, I will.",8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44013,44013,44013,44013,70,SISKO ,Is there a problem?,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44014,44014,44014,44014,71,BASHIR,Mister O'Brien says he's unavailable for a physical.,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44015,44015,44015,44015,72,SISKO,"Make yourself available, Chief.",8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44016,44016,44016,44016,73,O'BRIEN,Commander...,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44017,44017,44017,44017,74,SISKO,Doctor Bashir's annual report on the senior staff is due next week at Starfleet. We've all had to go through this.,8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44018,44018,44018,44018,75,O'BRIEN,"Fine. Fine, I'll be there in an hour.",8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44019,44019,44019,44019,76,O'BRIEN,"Can I talk to you for a minute, Sir?",8    INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44020,44020,44020,44020,77,SISKO,Ensign DeCurtis mentioned to me you were a little upset...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44021,44021,44021,44021,78,O'BRIEN,"Not upset, exactly...",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44022,44022,44022,44022,79,SISKO,"No, no, you had every right to be... I'm sorry I assigned him without advising you... I dropped the ball on that one...",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44023,44023,44023,44023,80,O'BRIEN,"I guess I just felt... a little out of the loop, you know...",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44024,44024,44024,44024,81,SISKO,Understood. I've looked through your report on the Paradas... they seem unusually preoccupied with security...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44025,44025,44025,44025,82,O'BRIEN,They may be a little paranoid. But I suppose we would be too if we'd been in a civil war for twelve years...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44026,44026,44026,44026,83,SISKO,Anything else I should know about them... any unusual protocols they might observe when they get here...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44027,44027,44027,44027,84,O'BRIEN,Nothing too out of the ordinary. It's all pretty much in my report.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44028,44028,44028,44028,85,SISKO,Tell me something that isn't in the report.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44029,44029,44029,44029,86,O'BRIEN,Sir?,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44030,44030,44030,44030,87,SISKO,"You know, the kind of things we don't include in reports... but might help me in these talks...",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44031,44031,44031,44031,88,O'BRIEN,"I'll have to give it some thought. There was one thing I noticed -- I don't know if it means anything or not -- but the Paradas have an odor, from some kind of skin excretions, I'd guess... and it changes with their mood... when they're upset, it can get pretty strong actually.",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44032,44032,44032,44032,89,SISKO,I'll try not to get them upset.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44033,44033,44033,44033,90,O'BRIEN,Good idea.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44034,44034,44034,44034,91,SISKO,Their leaders have been in regular contact with us. I've assured them that we'll be following all of their security recommendations to the letter.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44035,44035,44035,44035,92,O'BRIEN,I'll see to that...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44036,44036,44036,44036,93,SISKO,"Well, I certainly want you to check everything before they get here... but the upfront work can be done by the Engineering crews... I have bigger problems for you...",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44037,44037,44037,44037,94,O'BRIEN,Bigger?,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44038,44038,44038,44038,95,SISKO,All three upper pylons are down again.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44039,44039,44039,44039,96,O'BRIEN,That's impossible... I went over the repair work yesterday... the pressure locks seemed to be at maximum efficiency...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44040,44040,44040,44040,97,SISKO,You'd better check again... we had to tow a Bolian freighter to a lower dock this morning...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44041,44041,44041,44041,98,O'BRIEN,It can't be anything that serious... I rebuilt that entire subsystem myself... I'll get on it right away...,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44042,44042,44042,44042,99,SISKO,After your physical.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44043,44043,44043,44043,100,O'BRIEN,"Yessir. (beat, pauses by the door) By the way -- I noticed you and Keiko... out in front of the school... talking this morning. Anything wrong?",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44044,44044,44044,44044,101,SISKO,Oh... Jake's having some problems with his grades.,10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44045,44045,44045,44045,102,O'BRIEN,"Sorry to hear that. Keiko's very fond of the boy. I'm sure she'll work that much harder to help him, sir.",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44046,44046,44046,44046,103,SISKO,"Yes, I'm sure she will.",10   INT. COMMANDER'S OFFICE - CONTINUOUS,COMMANDER'S OFFIC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44047,44047,44047,44047,104,O'BRIEN,Are we nearly finished? I believe you've poked into every orifice of my body... and created a few new ones.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44048,44048,44048,44048,105,BASHIR,Any dizziness... oversleeping... lack of energy... euphoria?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44049,44049,44049,44049,106,O'BRIEN,Yes. All of them. Especially euphoria. Lots of euphoria.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44050,44050,44050,44050,107,BASHIR,Seriously.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44051,44051,44051,44051,108,O'BRIEN,"If you're determined to keep me here until you find something wrong with me, I'll see if I can't grow a hangnail.",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44052,44052,44052,44052,109,BASHIR,Eye problems? Hearing? Headaches?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44053,44053,44053,44053,110,O'BRIEN,"Headache. There you go. As a matter of fact, I'm getting one right now...",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44054,44054,44054,44054,111,BASHIR,"(making notes on a PADD) Short temper... flies off the handle under slight provocation... (smiles, an aid for O'Brien's benefit) Perfectly normal behavior.",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44055,44055,44055,44055,112,O'BRIEN,I'm glad you're enjoying this.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44056,44056,44056,44056,113,BASHIR,Sorry. I know how you feel about doctors.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44057,44057,44057,44057,114,O'BRIEN,It's not doctors I have problems,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44058,44058,44058,44058,115,O'BRIEN & BASHIR,"... it's you, Julian.",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44059,44059,44059,44059,116,BASHIR,"Well, your sense of humor seems normal enough...",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44060,44060,44060,44060,117,O'BRIEN,I don't have a sense of humor.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44061,44061,44061,44061,118,BASHIR,Cough. And how's your sex life?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44062,44062,44062,44062,119,O'BRIEN,I don't have a sense of humor.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44063,44063,44063,44063,120,BASHIR,Cough. Everything okay in that department?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44064,44064,44064,44064,121,O'BRIEN,That department is none of Starfleet's business. Or yours.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44065,44065,44065,44065,122,BASHIR,Mother and father in good health?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44066,44066,44066,44066,123,O'BRIEN,"Come on, Julian, you knew my mother died two years ago.",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44067,44067,44067,44067,124,BASHIR,Did I?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44068,44068,44068,44068,125,O'BRIEN,You don't remember me telling you when my Dad remarried last spring... me blathering on about this woman I've never met... ?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44069,44069,44069,44069,126,BASHIR,"Of course. Now, I remember.",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44070,44070,44070,44070,127,O'BRIEN,Are you finished?,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44071,44071,44071,44071,128,BASHIR,"Not quite, I do want to run a few more tests on...",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44072,44072,44072,44072,129,O'BRIEN,This is insane. I haven't had a physical take this long since I was born.,11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44073,44073,44073,44073,130,O'BRIEN,"Now unless I'm dying or something, I think it's about time I --",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44074,44074,44074,44074,131,O'BRIEN,"That isn't it, is it? I mean -- is there something wrong with me? Is that why everyone seems so...",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44075,44075,44075,44075,132,BASHIR,"Relax, Chief. I'm giving you a clean bill of health. You can get dressed now.",11   INT. INFIRMARY (VPB),INFIRMARY,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44076,44076,44076,44076,133,JAKE,"Hey, Chief!",12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44077,44077,44077,44077,134,O'BRIEN,"Hello, Jake...",12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44078,44078,44078,44078,135,JAKE,I need a favor...,12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44079,44079,44079,44079,136,O'BRIEN,Sure. What is it.,12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44080,44080,44080,44080,137,JAKE,I'm working on a subspace transceiver for my science project but I can't seem to figure out how to get the emitter crystal to work.,12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44081,44081,44081,44081,138,O'BRIEN,A subspace transceiver model. I used to build them when I was your age... I'll be glad to help...,12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44082,44082,44082,44082,139,JAKE,You don't think it's a conflict of interest or anything... you being married to the teacher...,12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44083,44083,44083,44083,140,O'BRIEN,"We'll clear it with Keiko... but I don't think she'll mind. After all, it's a chance to help you get those grades back up, right... ?",12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44084,44084,44084,44084,141,JAKE,"Oh, my grades are great. I just want to keep them that way. Thanks, Chief!",12   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44085,44085,44085,44085,142,O'BRIEN ,Sisko was telling the truth about one thing... the upper pylons had failed again. It didn't make any sense...,13   EXT. SPACE - DEEP SPACE NINE (OPTICAL),SPACE - DEEP SPACE NINE,EXT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44086,44086,44086,44086,143,O'BRIEN ,... because the new pressure locks I'd installed seemed to be working just fine... so it had to be an entirely new problem. I realized it wasn't going to be a quick matter to track it down after all. And I couldn't help thinking how this was going to keep me occupied while the security arrangements for the Paradas were underway.,14   INT. AIRLOCK - BY CIRCUIT PANELS,AIRLOC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44087,44087,44087,44087,144,O'BRIEN,"How's it coming, DeCurtis...",15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44088,44088,44088,44088,145,DECURTIS,Chief. I thought you had your hands full with the upper pylons.,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44089,44089,44089,44089,146,O'BRIEN,I do. Thought I'd take a break and check in on your progress.,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44090,44090,44090,44090,147,DECURTIS,Everything's on schedule here. We've done a complete sweep of all the quarters assigned to the Paradas.,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44091,44091,44091,44091,148,O'BRIEN,Open it up. I'd like to look things over...,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44092,44092,44092,44092,149,DECURTIS,"I can't, Chief...",15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44093,44093,44093,44093,150,O'BRIEN,That's an order.,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44094,44094,44094,44094,151,DECURTIS,"Sir, the security seal was activated the minute we left. Only Major Kira knows the access codes.",15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44095,44095,44095,44095,152,O'BRIEN,O'Brien to Kira.,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44096,44096,44096,44096,153,KIRA,"Go ahead, Chief.",15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44097,44097,44097,44097,154,O'BRIEN,I need the access codes for the Parada quarters.,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44098,44098,44098,44098,155,SISKO,"Chief, what are you doing down there...",15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44099,44099,44099,44099,156,O'BRIEN,"Commander, I spent a week with the Paradas going over these arrangements. I really feel the need to be...",15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44100,44100,44100,44100,157,SISKO,"I want those upper pylons operational, Chief. That's your priority. Understood?",15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44101,44101,44101,44101,158,O'BRIEN,Yessir.,15   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44102,44102,44102,44102,159,JAKE,Chief!,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44103,44103,44103,44103,160,JAKE,Is this the right inverter for a subspace transceiver?,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44104,44104,44104,44104,161,O'BRIEN,Where'd you get this? I haven't seen one of these since I was a kid.,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44105,44105,44105,44105,162,JAKE,I replicated it... I found a design in a really really old data file in the library program...,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44106,44106,44106,44106,163,O'BRIEN,"Really, really old, huh...",17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44107,44107,44107,44107,164,JAKE,I didn't mean...,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44108,44108,44108,44108,165,O'BRIEN,Don't worry about it. Why don't you just come by my place after dinner tonight and we'll see if we can add the rest of the pieces...,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44109,44109,44109,44109,166,JAKE,Great.,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44110,44110,44110,44110,167,O'BRIEN,"Hey, Jake... did anything unusual happen here at the station while I was in the Gamma Quadrant last...",17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44111,44111,44111,44111,168,KIRA ,Jake.,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44112,44112,44112,44112,169,KIRA,Your Dad's been looking for you. I think he's back in your quarters. It may be important.,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.2023
+44113,44113,44113,44113,170,JAKE,See you later.,17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44114,44114,44114,44114,171,KIRA,"Everything under control, Chief?",17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44115,44115,44115,44115,172,O'BRIEN,"Under control, Major.",17   INT. PROMENADE,PROMENADE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44116,44116,44116,44116,173,O'BRIEN ,"I worked on the pylon controls the better part of the day. ""Needle in a haystack"" wouldn't do this job justice.",19   INT. AIRLOCK - BY CIRCUIT PANELS,AIRLOC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44117,44117,44117,44117,174,O'BRIEN,"When I finally found the crack in the R-F power conduit, I couldn't imagine how it could've occurred so deep in the system... unless someone had broken it deliberately.",19   INT. AIRLOCK - BY CIRCUIT PANELS,AIRLOC,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44118,44118,44118,44118,175,KEIKO,Hard day?,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44119,44119,44119,44119,176,O'BRIEN,You could say that.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44120,44120,44120,44120,177,KEIKO,You want to lie down before dinner?,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44121,44121,44121,44121,178,O'BRIEN,No. Jake's coming over in a little while. I'm helping him with his science project...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44122,44122,44122,44122,179,KEIKO,Commander Sisko just called. Jake can't make it tonight. He isn't feeling well.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44123,44123,44123,44123,180,O'BRIEN,Really? He seemed fine a few hours ago.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44124,44124,44124,44124,181,KEIKO,"Well, you know how it is with kids -- he probably ate too much junk on the Promenade after school.",20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.2732
+44125,44125,44125,44125,182,O'BRIEN,Where's Molly?,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44126,44126,44126,44126,183,KEIKO,"Oh, she's spending the night over at the Fredricksons.",20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44127,44127,44127,44127,184,O'BRIEN,"Just the two of us, eh?",20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44128,44128,44128,44128,185,KEIKO,We should eat while the food is warm.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44129,44129,44129,44129,186,O'BRIEN,The replicator can keep it warm. And I can keep you warm.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44130,44130,44130,44130,187,O'BRIEN,What's the problem...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44131,44131,44131,44131,188,KEIKO,No problem. I'm just not in the mood. I had a hard day too.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44132,44132,44132,44132,189,O'BRIEN,"Okay, we'll eat.",20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44133,44133,44133,44133,190,O'BRIEN,What is it...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44134,44134,44134,44134,191,KEIKO,Fricandeau stew.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44135,44135,44135,44135,192,O'BRIEN,You don't like Fricandeau stew.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44136,44136,44136,44136,193,KEIKO,But you do.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44137,44137,44137,44137,194,O'BRIEN,"Yeah, but...",20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44138,44138,44138,44138,195,KEIKO,I just thought you'd appreciate one of your favorite meals. I know how you hate all the strange foods when you're away... a little endive salad... sweet flan for dessert...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44139,44139,44139,44139,196,O'BRIEN,How... thoughtful of you...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44140,44140,44140,44140,197,O'BRIEN,Aren't you having any?,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44141,44141,44141,44141,198,KEIKO,I just feel like having a little salad...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44142,44142,44142,44142,199,O'BRIEN,Not very hungry...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44143,44143,44143,44143,200,KEIKO,I had a late lunch.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44144,44144,44144,44144,201,KEIKO,How is it?,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44145,44145,44145,44145,202,O'BRIEN,"You know, maybe I will lie down.",20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44146,44146,44146,44146,203,KEIKO,But you haven't eaten a bite...,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44147,44147,44147,44147,204,O'BRIEN,I just don't seem to have an appetite right now.,20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44148,44148,44148,44148,205,O'BRIEN ,"I don't know if there was anything wrong with the stew or not. When I went back later to check, she'd already put it into the disposal. But all I could think of, as I looked at her... was that this was not my Keiko.",20   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44149,44149,44149,44149,206,O'BRIEN,"What's that, computer...",31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44150,44150,44150,44150,207,COMPUTER,Incoming hail from Starfleet Runabout Rio Grande.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44151,44151,44151,44151,208,O'BRIEN,Tell them no one's home.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44152,44152,44152,44152,209,COMPUTER,Please repeat request.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44153,44153,44153,44153,210,O'BRIEN,Refuse their hail.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44154,44154,44154,44154,211,COMPUTER,Confirmed.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44155,44155,44155,44155,212,O'BRIEN,How much longer to the Parada System now?,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44156,44156,44156,44156,213,COMPUTER,"At current speed, twenty-three minutes, forty seconds.",31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44157,44157,44157,44157,214,O'BRIEN,Can't sleep now. Gotta stay on top of things.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44158,44158,44158,44158,215,O'BRIEN,"""The minstrel boy to the war is gone... In the ranks of death you'll find him... His father's sword he hath girded on, And... """,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44159,44159,44159,44159,216,O'BRIEN,"Computer, open a channel to the Rio Grande... audio only...",31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44160,44160,44160,44160,217,COMPUTER,Channel open.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44161,44161,44161,44161,218,O'BRIEN,"""The minstrel boy to the war is gone... In the ranks of death you'll find him... His father's sword he hath girded on, And his wild harp slung behind him... Land of song, said the warrior bard, Tho all the world betrays thee, One sword at least thy rights shall guard, One faithful harp shall praise thee."" End of transmission.",31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44162,44162,44162,44162,219,O'BRIEN,"Computer, open O'Brien personal log, play back last sentence.",31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44163,44163,44163,44163,220,O'BRIEN,... But all I could think of as I looked at her... was that this was not my Keiko.,31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44164,44164,44164,44164,221,O'BRIEN,"(slightly punchdrunk from fatigue) You're right. She wasn't. (sighs, depressed anew) Continue log. I didn't get much sleep that night...",31   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44165,44165,44165,44165,222,O'BRIEN ,"I waited for Keiko or whoever she was... to go to bed... and I started my search... I had no idea what I was looking for. Something odd, something not quite normal -- anything to explain what might be going on.",31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44166,44166,44166,44166,223,COMPUTER,Scan complete. No unknown microorganisms detected.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44167,44167,44167,44167,224,O'BRIEN,Check for traces of any chemical agents with bioactive properties.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44168,44168,44168,44168,225,COMPUTER,No chemical agents with bioactive properties detected.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44169,44169,44169,44169,226,O'BRIEN,Any unknown chemical agents?,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44170,44170,44170,44170,227,COMPUTER,Negative.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44171,44171,44171,44171,228,O'BRIEN,Access internal E-M sensor grid.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44172,44172,44172,44172,229,COMPUTER,Ready.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44173,44173,44173,44173,230,O'BRIEN,Scan for any evidence of sub-harmonic transmissions...,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44174,44174,44174,44174,231,COMPUTER,Scan complete. No sub-harmonic transmissions detected.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44175,44175,44175,44175,232,O'BRIEN,Any unusual neural wave patterns...,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44176,44176,44176,44176,233,COMPUTER,Negative.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44177,44177,44177,44177,234,O'BRIEN,Any telepathic activity on board...,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44178,44178,44178,44178,235,COMPUTER,Negative.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44179,44179,44179,44179,236,O'BRIEN,"Computer, display all arriving vessels from Stardate 47550 to 47571.",31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44180,44180,44180,44180,237,O'BRIEN,None from the Gamma Quadrant?,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44181,44181,44181,44181,238,COMPUTER,No ships arrived from the Gamma Quadrant within time parameters requested.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44182,44182,44182,44182,239,O'BRIEN,Coffee. Jamaican blend. Double strong. Double sweet.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44183,44183,44183,44183,240,O'BRIEN,"You're drinking too much of this stuff, O'Brien. Anything to stay alert, O'Brien.",31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44184,44184,44184,44184,241,O'BRIEN,"Okay, Computer... play back station logs chronologically, starting with Stardate 47550.",31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44185,44185,44185,44185,242,COMPUTER,Identify which officer's logs are to be included.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44186,44186,44186,44186,243,O'BRIEN,"(shaking his head, wishing it weren't so) All officers.",31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44187,44187,44187,44187,244,COMPUTER,Vocal or transcribed?,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44188,44188,44188,44188,245,O'BRIEN,Vocal.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44189,44189,44189,44189,246,SISKO ,"Station log, Stardate 47552.9. Admiral Gupta has arrived to personally assess the Cardassian movements along the border. Several Federation colonies in the demilitarized zone have complained of...",31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44190,44190,44190,44190,247,DAX ,... discovered a new lifeform previously unreported...,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44191,44191,44191,44191,248,SISKO ,... lost in a shuttlepod somewhere in the vicinity of...,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44192,44192,44192,44192,249,KIRA ,... a request by the Chamber of Ministers that I find absolutely ridiculous...,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44193,44193,44193,44193,250,DECURTIS ,... were completed at seventeen-hundred hours and seem to be functioning with no further...,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44194,44194,44194,44194,251,SISKO ,... and the Admiral seemed satisfied that the Cardassians would not violate the treaty.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44195,44195,44195,44195,252,COMPUTER,Access denied.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44196,44196,44196,44196,253,O'BRIEN,Denied? Access denied to what?,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44197,44197,44197,44197,254,COMPUTER,Station logs after Stardate 47569.4 are restricted.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44198,44198,44198,44198,255,O'BRIEN,The day I got back... Describe the restrictions.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44199,44199,44199,44199,256,COMPUTER,Access restricted to level one security clearance.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44200,44200,44200,44200,257,O'BRIEN,I am level one.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44201,44201,44201,44201,258,COMPUTER,Please enter security verification.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44202,44202,44202,44202,259,COMPUTER,Access denied.,31   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44203,44203,44203,44203,260,DECURTIS,"Anything I can help you with, Chief?",39   INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44204,44204,44204,44204,261,O'BRIEN,Naw... just making sure those upper pylons are in working condition by morning...,39   INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44205,44205,44205,44205,262,DECURTIS,You're an inspiration to us all.,39   INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44206,44206,44206,44206,263,O'BRIEN ,"There were several traps laid into the computer subroutine, no doubt to let someone know if I'd penetrated their security lockout. I wasn't fooled for a minute and released the protected files without any problem.",39   INT. OPS,OPS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44207,44207,44207,44207,264,O'BRIEN ,What I found in those hidden logs didn't answer all my questions... but it sure as hell confirmed what I'd been afraid of. They were analyzing and reanalyzing everything I had put in my report about Paradan security. They'd even broken into my personal logs to see what they could find in there. I hope they enjoyed reading the sexy letters to my wife. There were several entries by Sisko about secured messages from the Parada system but no indication what those messages were about. Maybe they were afraid I'd get into their files even with the security lockout. Smart people.,41   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44208,44208,44208,44208,265,ODO,Chief.,42   INT. AIRLOCK,AIRLOCK,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44209,44209,44209,44209,266,O'BRIEN,"Odo, we've got a problem. I've got to talk to you.",42   INT. AIRLOCK,AIRLOCK,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44210,44210,44210,44210,267,ODO,It's good to see you too...,42   INT. AIRLOCK,AIRLOCK,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44211,44211,44211,44211,268,O'BRIEN,"Aside from Jake, not one of them was... I don't know... real. I'm not sure who we can trust on the station at this point...",44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44212,44212,44212,44212,269,ODO,Do any of them know you're suspicious...,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44213,44213,44213,44213,270,O'BRIEN,"Probably. I've asked a few questions, been a few places that might tip them off. They'll be keeping close tabs on me... I'd call Starfleet but what would I tell them... my wife doesn't seem like my wife... Sisko's making security arrangements without consulting me...",44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44214,44214,44214,44214,271,ODO,They might even call Commander Sisko and start asking questions about you...,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44215,44215,44215,44215,272,O'BRIEN,That's what I was afraid of...,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44216,44216,44216,44216,273,ODO,When are the Paradas due?,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44217,44217,44217,44217,274,O'BRIEN,Thirty-eight hours.,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44218,44218,44218,44218,275,ODO,I don't want them coming anywhere near this place until we've got this cleared up...,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44219,44219,44219,44219,276,O'BRIEN,Agreed.,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44220,44220,44220,44220,277,ODO,"Go on about your business. Don't do anything that might get their attention. In the meantime, I'll do some investigating. If I can confirm your suspicions, we can go to Starfleet and the Bajoran authorities at the same time.",44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44221,44221,44221,44221,278,O'BRIEN,"I'm glad you're back, Odo.",44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44222,44222,44222,44222,279,ODO,We'll get to the bottom of this.,44   INT. AIRLOCK CORRIDOR,AIRLOCK CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44223,44223,44223,44223,280,O'BRIEN ,"I felt better than I had for a long time. I finally had an ally. Now, all I had to do was wait. I like to think I'm a man with many talents. But waiting isn't one of them.",45   INT. O'BRIEN'S QUARTERS,O'BRIEN'S QUARTERS,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44224,44224,44224,44224,281,QUARK ,"The odds are against you, O'Brien.",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44225,44225,44225,44225,282,O'BRIEN,"Against me, what are you talking about...",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44226,44226,44226,44226,283,QUARK,You know what I'm talking about... you look tired... have you been getting enough sleep...,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44227,44227,44227,44227,284,O'BRIEN,"What are you talking about, Quark...",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44228,44228,44228,44228,285,QUARK,"Racquetball? The rematch with Bashir next week? We never finished the first one, remember?",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44229,44229,44229,44229,286,QUARK,"My, we are jumpy, aren't we.",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44230,44230,44230,44230,287,O'BRIEN,Change the subject.,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44231,44231,44231,44231,288,QUARK,"Fine, we'll change the subject. So. Tell me about the Paradas.",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44232,44232,44232,44232,289,QUARK,"They're going to be here, when, tomorrow?",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44233,44233,44233,44233,290,O'BRIEN,Why would you want to know about the Paradas...,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44234,44234,44234,44234,291,QUARK,It's always good business to know about new customers before they walk in your door.,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.4404
+44235,44235,44235,44235,292,O'BRIEN,Yeah... ? Which Rule of Acquisition is that?,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44236,44236,44236,44236,293,QUARK,"Oh, one of the high numbers... one ninety-four, I think...",46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44237,44237,44237,44237,294,O'BRIEN,You're gonna have to find out about the Paradas from someone else.,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44238,44238,44238,44238,295,ODO,Odo to O'Brien.,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44239,44239,44239,44239,296,O'BRIEN,(still staring at Quark) Go ahead.,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44240,44240,44240,44240,297,ODO,Can I see you in my office...,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44241,44241,44241,44241,298,O'BRIEN,I'm on my way.,46   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44242,44242,44242,44242,299,ODO,I see what you mean.,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44243,44243,44243,44243,300,O'BRIEN,What did you find out?,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44244,44244,44244,44244,301,ODO,Sit down. How much do you know about the Paradan rebels...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44245,44245,44245,44245,302,O'BRIEN,Don't ask me to explain the politics of the situation there... but I know they've been fighting the government forces for twelve years... why?,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44246,44246,44246,44246,303,ODO,I'm just trying to understand the players involved here...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44247,44247,44247,44247,304,O'BRIEN,"Odo, Sisko's logs indicated that secret messages have been coming from the Parada System... could those messages have been from the rebels?",47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44248,44248,44248,44248,305,ODO,"As a matter of fact, they were.",47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44249,44249,44249,44249,306,O'BRIEN,That's already a breach of the security agreement we made with the Paradan Government... and it's a good enough reason for us to cancel these peace talks...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44250,44250,44250,44250,307,ODO,That... still might be premature...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44251,44251,44251,44251,308,O'BRIEN,What are you talking about... we've got more than enough to...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44252,44252,44252,44252,309,O'BRIEN,They got to you.,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44253,44253,44253,44253,310,ODO,Don't be ridiculous. I'm just trying to...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44254,44254,44254,44254,311,O'BRIEN,"No, they did. They got to you.",47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44255,44255,44255,44255,312,SISKO,Why don't we all calm down and have a talk...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44256,44256,44256,44256,313,O'BRIEN,Who the hell are you...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44257,44257,44257,44257,314,KIRA,We're not going to hurt you.,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44258,44258,44258,44258,315,BASHIR,This will help you relax...,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44259,44259,44259,44259,316,O'BRIEN,Thanks just the same.,47   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44260,44260,44260,44260,317,O'BRIEN,"Computer, lock on to my combadge, initiate emergency transport to runabout Rio Grande...",52   INT. CORRIDOR,CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44261,44261,44261,44261,318,COMPUTER,Unable to complete request. Please contact station commander for assistance.,52   INT. CORRIDOR,CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44262,44262,44262,44262,319,O'BRIEN,"Making it tough for me, huh... fine... you want forcefields, I'll give you forcefields...",52   INT. CORRIDOR,CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44263,44263,44263,44263,320,O'BRIEN,There. You want to get to me now... you'll have to release them all.,52   INT. CORRIDOR,CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44264,44264,44264,44264,321,O'BRIEN,Thank you very much.,52   INT. CORRIDOR,CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44265,44265,44265,44265,322,O'BRIEN,"Jake! Are you okay, lad?",58   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44266,44266,44266,44266,323,JAKE,Yeah...,58   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44267,44267,44267,44267,324,O'BRIEN,"Good. Listen to me. Something isn't normal here. Your dad, the others -- something's happened to them... you and I are the only ones who can help...",58   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44268,44268,44268,44268,325,JAKE,"Jake Sisko to Security. He's here! Level H-two, section five!",58   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44269,44269,44269,44269,326,JAKE,It's gonna be okay... just surrender to them and you'll be fine...,58   INT. HABITAT CORRIDOR,HABITAT CORRIDOR,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44270,44270,44270,44270,327,ODO  ,Spread out... check all quarters... advise people to stay where they are... and not to let anyone in...,59   INT. CONDUIT,CONDUIT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44271,44271,44271,44271,328,SISKO,Shut down your engines.,65   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44272,44272,44272,44272,329,O'BRIEN,"Sorry, Commander... I have no intention of doing that...",65   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44273,44273,44273,44273,330,SISKO,"You will not be allowed to leave. I repeat, shut down your engines.",65   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44274,44274,44274,44274,331,O'BRIEN,"If you check your systems, you'll find the mooring clamps are already unlocked and your tractor beams are off-line. O'Brien out.",65   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44275,44275,44275,44275,332,O'BRIEN,Shields up!,65   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44276,44276,44276,44276,333,O'BRIEN,"Are the shields holding, Computer...",67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44277,44277,44277,44277,334,COMPUTER,Shields at seventy-one percent...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44278,44278,44278,44278,335,COMPUTER,Warning. Shields at forty-nine percent...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44279,44279,44279,44279,336,O'BRIEN,Transfer emergency life support power to shield generators...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44280,44280,44280,44280,337,COMPUTER,Transfer complete...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44281,44281,44281,44281,338,O'BRIEN,Shield status...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44282,44282,44282,44282,339,COMPUTER,Shields at ninety-three percent...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44283,44283,44283,44283,340,O'BRIEN,Full impulse... heading four-one mark three-three-zero...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44284,44284,44284,44284,341,COMPUTER,Confirmed.,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44285,44285,44285,44285,342,O'BRIEN,Open a subspace channel to Starbase four zero one. Priority one. Admiral Rollman.,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44286,44286,44286,44286,343,COMPUTER,Stand by.,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44287,44287,44287,44287,344,O'BRIEN,"Admiral -- Miles O'Brien, Chief of Operations, Deep Space Nine...",67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44288,44288,44288,44288,345,ADMIRAL,I know who you are...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44289,44289,44289,44289,346,O'BRIEN,I have to apprise you of an emergency situation on the station... there has been some sort of... takeover... a conspiracy... I believe it has something to do with the Paradan peace talks...,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44290,44290,44290,44290,347,ADMIRAL,Listen to me very carefully. Return to D.S. Nine immediately.,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44291,44291,44291,44291,348,O'BRIEN,"Admiral, you don't understand... I believe Commander Sisko and all the senior officers have fallen under the influence of something that...",67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44292,44292,44292,44292,349,ADMIRAL,Turn the ship around and go back. You will not be harmed.,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44293,44293,44293,44293,350,O'BRIEN ,It seemed almost unbelievable to me. Had someone or something started to infiltrate all of Starfleet?,67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44294,44294,44294,44294,351,O'BRIEN,"Computer, new heading. One-eight- zero mark three-one. To the wormhole.",67   INT. RUNABOUT (OPTICAL),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44295,44295,44295,44295,352,O'BRIEN ,I decided the only alternative left was to go back to the Parada system... to warn them... and maybe... to find some answers.,69   EXT. WORMHOLE - THE RUNABOUT GOING THROUGH (OPTICAL),WORMHOLE - THE RUNABOUT GOING THROUGH,EXT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44296,44296,44296,44296,353,O'BRIEN,Coffee. Jamaican blend. Double strong. Double sweet.,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44297,44297,44297,44297,354,O'BRIEN,"Time to Parada system, Computer...",72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44298,44298,44298,44298,355,COMPUTER,"One minute, twenty seconds.",72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44299,44299,44299,44299,356,O'BRIEN,How much lead time do we have on the Mekong...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44300,44300,44300,44300,357,COMPUTER,"At current speeds, seven minutes, four seconds...",72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44301,44301,44301,44301,358,O'BRIEN,That's gonna disappear in a hurry once we drop out of warp... At least I get to choose where they catch up...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44302,44302,44302,44302,359,O'BRIEN,"Computer, identify the largest planet in the Parada system...",72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44303,44303,44303,44303,360,COMPUTER,Parada Four...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44304,44304,44304,44304,361,O'BRIEN,Adjust course to approach Parada Four...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44305,44305,44305,44305,362,COMPUTER,Confirmed...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44306,44306,44306,44306,363,O'BRIEN,"How many moons around Parada Four, Computer...",72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44307,44307,44307,44307,364,COMPUTER,Seven...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44308,44308,44308,44308,365,O'BRIEN,Lucky seven. Display their coordinates...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44309,44309,44309,44309,366,COMPUTER,Approaching the Parada system.,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44310,44310,44310,44310,367,O'BRIEN,Drop to impulse...,72   INT. RUNABOUT - CLOSE ON O'BRIEN (VPB),RUNABOUT - CLOSE ON O'BRIEN,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44311,44311,44311,44311,368,O'BRIEN,Status of Mekong...,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44312,44312,44312,44312,369,COMPUTER,Mekong has dropped out of warp and has adjusted course to identical heading...,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44313,44313,44313,44313,370,O'BRIEN,Perfect. How much time have they made up on us...,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44314,44314,44314,44314,371,COMPUTER,"At current speeds, the Mekong is two minutes, one second behind this vessel.",74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44315,44315,44315,44315,372,O'BRIEN,"Adjust our speed to let them catch up to us in... (figuring, checking sensors) ... thirty seconds.",74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44316,44316,44316,44316,373,COMPUTER,Dropping to point-four-impulse.,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44317,44317,44317,44317,374,O'BRIEN,Come on... come on... I'm waiting for ya...,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44318,44318,44318,44318,375,COMPUTER,Warning. Entering polar magnetic field. Sensors will be nonfunctional for twenty-seven seconds... switch to manual navigation...,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44319,44319,44319,44319,376,O'BRIEN,Switching.,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44320,44320,44320,44320,377,O'BRIEN,"Computer, full impulse, engage!",74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.4003
+44321,44321,44321,44321,378,COMPUTER,Confirmed. Manual navigation in effect.,74   INT. RUNABOUT (VPB),RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44322,44322,44322,44322,379,O'BRIEN,"Shut down engines, all main power systems. Maintain silent running status.",77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44323,44323,44323,44323,380,COMPUTER,Confirmed.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44324,44324,44324,44324,381,O'BRIEN,"Yeah... where did I go? Now you see me. Now you don't. (beat, waiting for them to commit) What's it going to be, fellas? I can play hide and seek with the best of them.",77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44325,44325,44325,44325,382,O'BRIEN,"No time for games, huh... Computer, identify Mekong's new heading.",77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44326,44326,44326,44326,383,COMPUTER,Four-one mark two-zero-one.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44327,44327,44327,44327,384,O'BRIEN,Probable destination?,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44328,44328,44328,44328,385,COMPUTER,Parada Two.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44329,44329,44329,44329,386,O'BRIEN,"Parada Two. What's on Parada Two? Computer, monitor all transporter activity to and from the Mekong...",77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44330,44330,44330,44330,387,COMPUTER,Mekong transporter has been energized.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44331,44331,44331,44331,388,O'BRIEN,They beamed to the surface?,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44332,44332,44332,44332,389,COMPUTER,Confirmed.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44333,44333,44333,44333,390,O'BRIEN,How many people?,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44334,44334,44334,44334,391,COMPUTER,Three people.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44335,44335,44335,44335,392,O'BRIEN,Anyone left on board?,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44336,44336,44336,44336,393,COMPUTER,Negative.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44337,44337,44337,44337,394,O'BRIEN,Set a course for Parada Two... take us into a synchronous orbit above their location on the surface.,77   INT. RUNABOUT,RUNABOUT,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44338,44338,44338,44338,395,O'BRIEN,"Having a little unscheduled negotiation with the rebels, are we?",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44339,44339,44339,44339,396,SISKO,You don't understand... put down your weapons and we'll explain...,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44340,44340,44340,44340,397,O'BRIEN,I've got a better idea... you put down yours first. Do it.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44341,44341,44341,44341,398,O'BRIEN,You too.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44342,44342,44342,44342,399,COUTU,Everything you need to understand is behind this door.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44343,44343,44343,44343,400,O'BRIEN,"Sure. Like a squadron of rebels, maybe?",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44344,44344,44344,44344,401,COUTU,No. If you'd just permit me...,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44345,44345,44345,44345,402,O'BRIEN,Just stay where you are.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44346,44346,44346,44346,403,KIRA,Listen to him. He's not your enemy. We're not your enemy...,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44347,44347,44347,44347,404,COUTU,Please. This will explain everything...,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44348,44348,44348,44348,405,O'BRIEN,I don't want to hurt you...,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44349,44349,44349,44349,406,SISKO,"Doctor, we need you!",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44350,44350,44350,44350,407,O'BRIEN,... He's perfect. He looks just like me.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44351,44351,44351,44351,408,KIRA,Apparently he thought he was you.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44352,44352,44352,44352,409,COUTU,No doubt they thought that would make him more convincing.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44353,44353,44353,44353,410,COUTU,We believe there was a triggering mechanism programmed into him that would have taken over during the peace talks. The government scientists have learned to do remarkable things with replicants.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44354,44354,44354,44354,411,O'BRIEN,What was he programmed to do?,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44355,44355,44355,44355,412,COUTU,"We're not entirely sure. Assassinate someone at the peace talks, we think. Perhaps our entire delegation.",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44356,44356,44356,44356,413,SISKO,They were tipped off by one of their informants in the government.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44357,44357,44357,44357,414,SISKO,There was a rumor you'd been abducted and replaced by a replicant.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44358,44358,44358,44358,415,COUTO,We've had people looking for you ever since.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44359,44359,44359,44359,416,BASHIR,We had no way to prove he wasn't you. He passed a physical exam with flying colors. He sure knew his way around the station.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44360,44360,44360,44360,417,O'BRIEN,"They had more wires connected to my head than you could count. Now, I know why.",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44361,44361,44361,44361,418,KIRA,We were trying to shut him out of every sensitive security area while they were searching for you. I'm sure he wondered what the hell was going on with all of us.,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44362,44362,44362,44362,419,BASHIR,"By the time we learned you'd been rescued, he'd already gotten away from us and was on his way here.",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44363,44363,44363,44363,420,COUTU,I wonder why he was coming back...,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44364,44364,44364,44364,421,O'BRIEN,"If it was me, I'd be trying to warn somebody that something was terribly wrong at the station...",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44365,44365,44365,44365,422,SISKO,"Maybe, in a strange sort of way, he was just trying to be a hero...",82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44366,44366,44366,44366,423,O'BRIEN,Keiko!,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44367,44367,44367,44367,424,O'BRIEN,What about her... ?,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44368,44368,44368,44368,425,O'BRIEN,Tell her... I love...,82   INT. CHAMBER,CHAMBER,INT.,Whispers,1993-11-16,Deep Space Nine,434.txt,0.0
+44369,44369,44369,44369,0,SISKO ,"Station log, Stardate 47573.1. We're getting more and more requests for information about setting up colonies in sectors close to the wormhole. So, Chief O'Brien and I have set out to survey near-by star systems for M- Class planets.",1    EXT. SPACE - RIO GRANDE (OPTICAL),SPACE - RIO GRANDE,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44370,44370,44370,44370,1,SISKO,If it's an imposition...,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44371,44371,44371,44371,2,O'BRIEN,"Nossir, it'll be fine...",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44372,44372,44372,44372,3,SISKO,You're sure.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44373,44373,44373,44373,4,O'BRIEN,"I'm sure, Commander. Jake's a good fella. I'll enjoy working with him.",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44374,44374,44374,44374,5,SISKO,"I don't want you to make it easy for him, Chief. He's got to know what it takes to make it in Starfleet.",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44375,44375,44375,44375,6,O'BRIEN,"I'll have him up to his elbows in thorium grease, sir.",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44376,44376,44376,44376,7,SISKO,It's not going to be easy for him. He placed in the lower third of his age group in mechanical aptitude...,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44377,44377,44377,44377,8,O'BRIEN,Good for him. So did I.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44378,44378,44378,44378,9,SISKO,You. Come on...,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44379,44379,44379,44379,10,O'BRIEN,"No, it's true. It wasn't till I got to the Cardassian front that I found out I had talents I never knew I had...",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44380,44380,44380,44380,11,SISKO,At the front?,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44381,44381,44381,44381,12,O'BRIEN,"It was a matter of figuring out how to get a field transporter operational in ten minutes or wind up a Cardassian prisoner of war. Now, I didn't know a transporter from a turbolift in those days... but somehow, in nine minutes and fifty-three seconds, I got that thing to work. Got thirteen men safely off the surface of Setlik Three. Next thing I know I'm tactical officer on the Rutledge. That's how I got the gold suit.",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44382,44382,44382,44382,13,SISKO,"Well, Jake's ready for a new suit too. The boy seems to grow a centimeter a week... He struck me out with a curve ball the other day. First time.",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44383,44383,44383,44383,14,O'BRIEN,"They grow up in a hurry, don't they, sir...",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44384,44384,44384,44384,15,SISKO,That they do.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44385,44385,44385,44385,16,O'BRIEN,"Hey, I think I found one... Computer, set a new heading four-one mark three- zero-one...",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44386,44386,44386,44386,17,COMPUTER,Confirmed.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44387,44387,44387,44387,18,SISKO,It's M-Class all right. One hundred and sixty million kilometers from Orellius Minor. Should be a perfect place to set up a colony...,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44388,44388,44388,44388,19,O'BRIEN,Uh huh. Only it looks like someone's beat us to it.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44389,44389,44389,44389,20,SISKO,You're reading life forms?,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44390,44390,44390,44390,21,O'BRIEN,Human life forms.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44391,44391,44391,44391,22,SISKO,I don't see anything on the books about a colony in the Orellius system...,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44392,44392,44392,44392,23,O'BRIEN,Trying all hailing frequencies.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44393,44393,44393,44393,24,SISKO,Moving into synchronous orbit.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44394,44394,44394,44394,25,O'BRIEN,No response. I'm picking up some sort of low level duonetic field down there... it might be interfering with communications.,2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44395,44395,44395,44395,26,O'BRIEN,"Computer, ready transporter.",2    INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44396,44396,44396,44396,27,SISKO,Yours too?,3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44397,44397,44397,44397,28,O'BRIEN,Self-diagnostics aren't even working. It's just plain dead.,3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44398,44398,44398,44398,29,SISKO,"Sisko to Rio Grande... Computer, respond.",3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44399,44399,44399,44399,30,O'BRIEN,I'd say we have no E-M activity down here at all...,3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44400,44400,44400,44400,31,SISKO,Any idea why?,3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44401,44401,44401,44401,32,O'BRIEN,I'm not sure... it might have something to do with the duonetic field our sensors picked up.,3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44402,44402,44402,44402,33,SISKO,"Well, I hope you can find a few more of those talents you never knew you had, Chief. Or we're gonna have a hard time getting off this...",3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44403,44403,44403,44403,34,VINOD ,Don't move!,3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44404,44404,44404,44404,35,VINOD,And put your hands up.,3    EXT. FOREST - DAY (OPTICAL),FOREST - DAY,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44405,44405,44405,44405,36,VINOD,Turn around -- slowly.,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44406,44406,44406,44406,37,JOSEPH,They're from Starfleet!,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44407,44407,44407,44407,38,SISKO,That's right. Mind if we lower our hands?,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44408,44408,44408,44408,39,JOSEPH,The uniforms have changed -- -- or have I just forgotten what they looked like? My name is Joseph. Vinod's the one playing with the sharp object.,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44409,44409,44409,44409,40,SISKO,Benjamin Sisko. This is Miles O'Brien.,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44410,44410,44410,44410,41,VINOD,How'd you get here?,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44411,44411,44411,44411,42,O'BRIEN,I was just going to ask you the same question.,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44412,44412,44412,44412,43,SISKO,We were surveying for habitable planets when our sensors picked up your lifesigns... there was no record of a human colony here...,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44413,44413,44413,44413,44,JOSEPH,Our group was on its way to settle on Gemulon Five over ten years ago when our ship developed life support problems and we had to land for repairs.,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44414,44414,44414,44414,45,VINOD,"Once we got here, all our systems failed, nothing worked anymore...",6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44415,44415,44415,44415,46,O'BRIEN,So we've seen...,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44416,44416,44416,44416,47,JOSEPH,We've been stuck here ever since. I guess you are too now...,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44417,44417,44417,44417,48,SISKO,We have a ship in orbit... it shouldn't take our people long to find us...,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44418,44418,44418,44418,49,O'BRIEN,We'll be able to get all of you out of here...,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44419,44419,44419,44419,50,JOSEPH,"After ten years, this has become home...",6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44420,44420,44420,44420,51,O'BRIEN,But you said it yourself -- nothing works.,6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44421,44421,44421,44421,52,JOSEPH,"We still do. Come on, we'll show you. Vinod, run ahead and tell your mother we have guests.",6    EXT. FOREST - DAY - CONTINUOUS,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44422,44422,44422,44422,53,SISKO,Erewon-class personnel transport...,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44423,44423,44423,44423,54,JOSEPH,"Commissioned the ""Santa Maria."" Now, we just call it ""the cabin.""",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44424,44424,44424,44424,55,ALIXUS,After all this time... visitors! Welcome to our community. Are there others?,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44425,44425,44425,44425,56,SISKO,"Just an empty runabout in orbit. Hopefully, it'll attract some attention.",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44426,44426,44426,44426,57,JOSEPH,"""Runabout."" Is that some kind of new Starfleet vessel?",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44427,44427,44427,44427,58,O'BRIEN,"(realizing he wouldn't know) Yeah, they commissioned the first ones two years ago... they're short- range interstellar craft... about a quarter the size of your... ""cabin"" here...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44428,44428,44428,44428,59,JOSEPH,(explaining his interest) I was the engineer aboard the Santa Maria...,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44429,44429,44429,44429,60,ALIXUS,"(encouraging the bonding) You and Miles will have a lot to talk about, Joseph... I'm sure we'll all have questions for our guests...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44430,44430,44430,44430,61,VINOD,Who won the soccer matches this year... is Golanga still playing?,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44431,44431,44431,44431,62,SISKO,He hurt his knee four years ago. They replaced it with a bio-implant but he wasn't the same after that. Who was it that won last year anyway... I never can remember...,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44432,44432,44432,44432,63,CASSANDRA,What are women's fashions like back home now?,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44433,44433,44433,44433,64,SISKO,"Chief, you're the married one...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44434,44434,44434,44434,65,O'BRIEN,"Keiko, my wife... she's been replicating longer dresses lately...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44435,44435,44435,44435,66,CASSANDRA,"Oh no, that means I'll have to alter everything I own...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44436,44436,44436,44436,67,O'BRIEN,... but it might just be the Bajoran styles she sees on Deep Space Nine...,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44437,44437,44437,44437,68,JOSEPH,Deep Space Nine?,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44438,44438,44438,44438,69,ALIXUS,I'm sure Ben and Miles will be happy to tell you everything you want to know. There'll be plenty of time for that later.,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44439,44439,44439,44439,70,O'BRIEN,"Actually, the first thing I'd like to do is to try and get some kind of response from the E-M systems...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44440,44440,44440,44440,71,ALIXUS,We gave up any hope of that years ago...,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44441,44441,44441,44441,72,SISKO,We noticed a low-level duonetic field in this area before we transported down...,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44442,44442,44442,44442,73,ALIXUS,The same thing appeared on our sensors when we were landing. Our engines failed almost the instant we hit the surface.,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44443,44443,44443,44443,74,JOSEPH,"Without a functional tricorder, it",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44444,44444,44444,44444,75,ALIXUS,"We do know that the marshes all around us are filled with astatine deposits... that's the only explanation we have... (beat, with pride, to the others) But we've done pretty well without our tricorders and E-M converters and comlinks... haven't we?",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44445,44445,44445,44445,76,ALIXUS,"After all, the human body is a powerful tool. It can plow the fields and harvest the crops... construct walls for protection from the wilderness, weave clothes we need to stay warm. In a way, we've rediscovered what man is capable of doing without technology. It hasn't been easy. We've had some bitter winters. We've lost some friends. But we're proud of what we've accomplished here.",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44446,44446,44446,44446,77,SISKO,You have every right to be.,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44447,44447,44447,44447,78,CASSANDRA,Are we all going to leave when the others come to rescue them?,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44448,44448,44448,44448,79,ALIXUS,"That's something each of us is going to have to think about, isn't it...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44449,44449,44449,44449,80,CASSANDRA,"Are you going to leave, Alixus?",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44450,44450,44450,44450,81,ALIXUS,"Speaking for myself... (pauses for dramatic effect) ... no, I'll never leave. And I'll never want to change what we have here in our community. It means too much to me.",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44451,44451,44451,44451,82,ALIXUS,"While you're with us, you're welcome to everything our community has to offer. The only thing we ask is that you contribute. We all work for our supper here. You'll be surprised how much sweeter it tastes when you do.",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44452,44452,44452,44452,83,SISKO,We'll be happy to do our part.,7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44453,44453,44453,44453,84,ALIXUS,"Joseph, find them some bunks...",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44454,44454,44454,44454,85,ALIXUS,"Two more strong, healthy men, Vinod. That could mean a lot to this community.",7    EXT. COMPOUND - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44455,44455,44455,44455,86,KIRA,Do you know an Admiral Mitsuya...,2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.3182
+44456,44456,44456,44456,87,DAX,Best poker player in the fleet. Next to me.,2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.6369
+44457,44457,44457,44457,88,KIRA,"Well, he's diverting the Crockett to stop at DS Nine the day after tomorrow to ""talk about Cardassian foreign policy""...",2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,-0.0258
+44458,44458,44458,44458,89,DAX,That's just an excuse to get Benjamin in a game... Mitsuya cleaned him out last year. We better hail the Rio Grande and get them moving back this way...,2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44459,44459,44459,44459,90,DAX,I've worked on Benjamin's poker for two lifetimes... he just can't learn to bluff...,2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44460,44460,44460,44460,91,KIRA,That's odd...,2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44461,44461,44461,44461,92,DAX,I know... you'd think a man like Benjamin...,2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44462,44462,44462,44462,93,KIRA,No. The Rio Grande. It's not responding to our hails.,2    INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44463,44463,44463,44463,94,SISKO,"Come in, Chief. I was just reading one of the books written by our host. Alixus is quite a prolific author...",11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44464,44464,44464,44464,95,O'BRIEN,"Yeah, a bunch of these were left in my room too... I haven't had a chance to look at them... what does she write about?",11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44465,44465,44465,44465,96,SISKO,She has something to say on just about... everything!,11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44466,44466,44466,44466,97,O'BRIEN,"(smiles, leafing through a book) Yeah?",11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.296
+44467,44467,44467,44467,98,SISKO,Economic analysis. Political commentaries. Literary critiques. She says she's spent her life examining the human condition.,11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44468,44468,44468,44468,99,O'BRIEN,And what's her prognosis?,11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44469,44469,44469,44469,100,SISKO,Not very good. She says we've become fat and lazy and dull.,11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44470,44470,44470,44470,101,O'BRIEN,My wife told me something along those lines just last week.,11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44471,44471,44471,44471,102,SISKO,"""The common conceit that the human species has evolved over the last several centuries is ludicrous. What gains we have made have come at the cost of our own core identities. Man has lost touch with his true power.""",11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44472,44472,44472,44472,103,O'BRIEN,Sounds like it took a crash landing for her to find her paradise.,11   INT. COLONY SHIP - SISKO'S CUBICLE,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44473,44473,44473,44473,104,SISKO,Have you found anything in their ship that might help us restore contact with the runabout?,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44474,44474,44474,44474,105,O'BRIEN,"There's nothing to find. Waveguides, panels, conduits, baffle plates -- you name it, it's gone. The ship looks like it's been through a Ferengi junkyard.",12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44475,44475,44475,44475,106,SISKO,What happened to it all?,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44476,44476,44476,44476,107,JOSEPH ,We threw it away.,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44477,44477,44477,44477,108,JOSEPH,"Since none of it worked, to us it was merely useless junk taking up space. And...",12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44478,44478,44478,44478,109,SISKO,... Alixus felt its presence was a constant reminder of who you used to be.,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44479,44479,44479,44479,110,JOSEPH,We all had to abandon our dependence on technology. Removing every trace of it made the transition easier.,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44480,44480,44480,44480,111,O'BRIEN,"As an engineer, you must've had some problems with that...",12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44481,44481,44481,44481,112,JOSEPH,"I was the last convert. But as time passed, I realized Alixus was right. She was helping us discover a new philosophy of life together. Because we needed one to survive. And I'll tell you -- every one of us is better for it. We're more committed to each other. We're truly a part of each other's lives. We've renewed the sense of community that man left behind centuries ago.",12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44482,44482,44482,44482,113,CASSANDRA,"Joseph, Meg's fever is getting worse...",12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44483,44483,44483,44483,114,JOSEPH,Either of you have medical training?,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44484,44484,44484,44484,115,SISKO,Just the basics all Starfleet officers get.,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44485,44485,44485,44485,116,JOSEPH,I can use all the help you can offer...,12   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44486,44486,44486,44486,117,JOSEPH,The new herb doesn't seem to be helping at all.,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44487,44487,44487,44487,118,SISKO,May I see?,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44488,44488,44488,44488,119,ALIXUS,There's an insect here that transmits a disease we haven't been able to cure. We've lost three to it already.,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44489,44489,44489,44489,120,SISKO,Have you found anything in the forest that's like the sleeger fungi?,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44490,44490,44490,44490,121,JOSEPH,We've searched everywhere for the right fungus or root that would draw out the infection.,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44491,44491,44491,44491,122,SISKO,"If it keeps spreading, she'll be dead before the rescue team finds us...",15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44492,44492,44492,44492,123,O'BRIEN,The medical kit in the runabout could probably take care of it in a second.,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44493,44493,44493,44493,124,SISKO,We've got to find a way to restore the com link to the transporter...,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44494,44494,44494,44494,125,ALIXUS,That will only be a waste of time...,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44495,44495,44495,44495,126,O'BRIEN,"This duonetic field inhibits energy flow... but a duonetic field is a form of energy too... so, maybe there's a way to modify our communicators to run off the field itself...",15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44496,44496,44496,44496,127,JOSEPH,Do you really think you could...,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44497,44497,44497,44497,128,ALIXUS,"No. If you want to put your efforts to good use, search the forest for something else we might use...",15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44498,44498,44498,44498,129,SISKO,This is medicine from the dark ages. You can't expect to save her if...,15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44499,44499,44499,44499,130,ALIXUS,"(interrupting, controlled) Ben, may I see you outside, please.",15   INT. COLONY SHIP - MEDICAL FACILITY - CONTINUOUS,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44500,44500,44500,44500,131,ALIXUS,Talk like that isn't constructive.,16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44501,44501,44501,44501,132,SISKO,I'm talking about saving the life of one of your followers.,16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44502,44502,44502,44502,133,ALIXUS,You don't understand us yet. No one follows me. They follow their own hearts.,16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44503,44503,44503,44503,134,SISKO,My heart tells me to try and get to my ship.,16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44504,44504,44504,44504,135,ALIXUS,"I'm sure it does. But if we'd had that attitude for the last ten years, we wouldn't have been doing what was necessary to survive here. To find the plants and herbs and molds that cure disease. We've conquered seventeen illnesses with the most powerful resource man has. His ingenuity.",16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44505,44505,44505,44505,136,SISKO,"It's an interesting philosophy, and while we're debating it, a woman is dying.",16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44506,44506,44506,44506,137,ALIXUS,"I won't have you disrupting everything this community has worked for, Ben.",16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44507,44507,44507,44507,138,SISKO,I don't intend to stay any longer than necessary.,16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44508,44508,44508,44508,139,ALIXUS,"That's another thing. Let's not bring up the Starfleet rescue party again. Until they come... if they come... you'll have to do things our way. (a beat, one final thought) I'd strongly advise getting rid of those uniforms... by midafternoon, it gets hot in the fields.",16   EXT. COMPOUND,COMPOUND,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44509,44509,44509,44509,140,DAX,The Rio Grande's been spotted.,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44510,44510,44510,44510,141,KIRA,Where...,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44511,44511,44511,44511,142,DAX,"The details are coming in from Starfleet... ""the Romulan vessel Gasko reported seeing an abandoned runabout... markings NCC seven-two- four-five-two... """,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44512,44512,44512,44512,143,KIRA,That's our ship all right...,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44513,44513,44513,44513,144,DAX,"""... traveling at Warp Two through sector four-zero-one... """,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44514,44514,44514,44514,145,KIRA,"At warp, with no one on board?",18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44515,44515,44515,44515,146,DAX,Command wants to know if we can send someone to investigate...,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44516,44516,44516,44516,147,KIRA,Signal them affirmative.,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44517,44517,44517,44517,148,DAX,I already have.,18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44518,44518,44518,44518,149,KIRA,"Runabout Pad ""C.""",18   INT. OPS,OPS,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44519,44519,44519,44519,150,VINOD,"You have a talent for this, Ben.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44520,44520,44520,44520,151,SISKO,My father was a chef. He grew all his own vegetables. My brothers and I were sent out to the garden every day.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44521,44521,44521,44521,152,VINOD,"(eager to make the philosophical connection) So, this is a way for you to get back in touch with your core identity. (Sisko chooses not to acknowledge) There's nothing like eating what you've picked with your own hands, is there...",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44522,44522,44522,44522,153,SISKO,That's true.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44523,44523,44523,44523,154,VINOD,Most of the others had only eaten replicated food before they got here... the flavor of the foods we prepare -- it was quite a surprise to them...,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44524,44524,44524,44524,155,SISKO,... but not to you?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44525,44525,44525,44525,156,VINOD,"No, my mother wouldn't ever let me eat replicated food.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44526,44526,44526,44526,157,VINOD,Are you as good a chef as your father?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44527,44527,44527,44527,158,SISKO,Not even close.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44528,44528,44528,44528,159,VINOD,"You're being modest. We ought to get you into the kitchen, Ben... you could provide a real service to the community... I'll talk to my mother about it...",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44529,44529,44529,44529,160,JOSEPH,What?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44530,44530,44530,44530,161,O'BRIEN,I can't help thinking what my wife'd say if she saw me doing this...,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44531,44531,44531,44531,162,JOSEPH,Why?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44532,44532,44532,44532,163,O'BRIEN,"Because around my house, I'm known as The Black Thumb. I'm just one of those people, you know? The only way I could get anything to grow was to marry a botanist.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44533,44533,44533,44533,164,JOSEPH,A botanist. Really?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44534,44534,44534,44534,165,O'BRIEN,"You should have seen the arboretum she grew on the Enterprise. That's where I asked her to marry me. She'd love it here, that's for sure...",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44535,44535,44535,44535,166,JOSEPH,Maybe you'll bring her someday...,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44536,44536,44536,44536,167,O'BRIEN,Trouble is she'd never want to leave...,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44537,44537,44537,44537,168,JOSEPH,That's okay too.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44538,44538,44538,44538,169,JOSEPH,Get him into the shade.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44539,44539,44539,44539,170,JOSEPH,"Here, Stephan, chew these. They'll help you regain your strength.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44540,44540,44540,44540,171,O'BRIEN,What did he do to deserve this?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44541,44541,44541,44541,172,JOSEPH,He stole a candle.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44542,44542,44542,44542,173,O'BRIEN,One candle?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44543,44543,44543,44543,174,SISKO,How long was he in there?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44544,44544,44544,44544,175,JOSEPH,Since this morning.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44545,44545,44545,44545,176,O'BRIEN,In that hellbox?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44546,44546,44546,44546,177,SISKO,Is this part of your philosophy of life too?,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44547,44547,44547,44547,178,ALIXUS,You're a Starfleet Commander. I'm sure you've had to discipline members of your crew...,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44548,44548,44548,44548,179,SISKO,Discipline is one thing. Torture is another.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44549,44549,44549,44549,180,ALIXUS,"The first thing this community accepted was the need to establish rules of conduct. All of us, including Stephan here, approved this form of punishment as necessary and fair.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44550,44550,44550,44550,181,ALIXUS,"How are you, Stephan?",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44551,44551,44551,44551,182,STEPHAN,I'll be all right. I'm sorry Alixus that I... let the community down...,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44552,44552,44552,44552,183,ALIXUS,The matter is closed. Go inside. Get some rest now.,19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44553,44553,44553,44553,184,STEPHAN,"Thank you, Alixus.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.3612
+44554,44554,44554,44554,185,ALIXUS,"Stephan will never steal a candle again. And neither will anyone else who saw him here today. In time, you'll understand that this is a simple, effective way to maintain law and order in our community.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.6935
+44555,44555,44555,44555,186,O'BRIEN,"Sir, I get the distinct impression that she expects us to be here for a while...",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.2263
+44556,44556,44556,44556,187,SISKO,"If there's a way to adapt the energy in the duonetic field to get us back to the runabout, I want you to find it, Chief.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44557,44557,44557,44557,188,O'BRIEN,"Aye, sir.",19   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44558,44558,44558,44558,189,CASSANDRA,Is there anything you need?,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44559,44559,44559,44559,190,SISKO,"No, I don't think so.",23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44560,44560,44560,44560,191,CASSANDRA,I'm sorry... Alixus doesn't believe in doors... we all take it for granted now... you'll get used to it...,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44561,44561,44561,44561,192,SISKO,"Hopefully, I won't be here long enough to get used to it...",23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44562,44562,44562,44562,193,CASSANDRA,"You don't like it here, do you...",23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44563,44563,44563,44563,194,SISKO,It's not what I'm used to.,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44564,44564,44564,44564,195,CASSANDRA,Alixus has reminded us all that it wasn't easy for us at first either. She's told us to be patient with you.,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44565,44565,44565,44565,196,CASSANDRA,I know your muscles must be sore from all the work today... this is an oil extract from the Xupta tree. It's wonderfully soothing.,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44566,44566,44566,44566,197,SISKO,Thank you... I'll try some.,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44567,44567,44567,44567,198,CASSANDRA,Would you like me to give you a massage with it?,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44568,44568,44568,44568,199,SISKO,I... don't think so. Thanks anyway.,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44569,44569,44569,44569,200,CASSANDRA,It'll make you feel a lot better.,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44570,44570,44570,44570,201,CASSANDRA,Here let me show you...,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44571,44571,44571,44571,202,SISKO,Did she send you here?,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44572,44572,44572,44572,203,SISKO,Did she send you here to make love to me...,23   INT. COLONY SHIP - SISKO'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44573,44573,44573,44573,204,ALIXUS,"Ben... come in, I was just writing about you and Miles in my journal... I understand you're quite a chef...",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44574,44574,44574,44574,205,ALIXUS,"Now, that's the first Core Behavior I've seen from you since you arrived...",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44575,44575,44575,44575,206,SISKO,"Core Behavior. Does that chapter come before or after ""sexual procurement?""",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44576,44576,44576,44576,207,ALIXUS,"I have a lot to say about sexuality, Ben.",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44577,44577,44577,44577,208,ALIXUS ,I have a feeling it might shock someone as repressed as you seem. I assume you're talking about Cassandra...,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44578,44578,44578,44578,209,SISKO,Did you send her to my room?,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44579,44579,44579,44579,210,ALIXUS,Yes.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44580,44580,44580,44580,211,SISKO,I think you're contemptible.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44581,44581,44581,44581,212,ALIXUS,"Interesting. Contemptible. Try to see it through our eyes, Ben. Just for a moment. Cassandra came to me... worried because she sensed you weren't happy.",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44582,44582,44582,44582,213,SISKO,She's right about that.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44583,44583,44583,44583,214,ALIXUS,She's concerned that all you see here is work and hardship. She wanted you to share in our joy as well.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44584,44584,44584,44584,215,SISKO,So you sent her to win my devotion to your cause...,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44585,44585,44585,44585,216,ALIXUS,"I suggested she could make it easier for you to become a member of the community... the choice was hers. Cassandra really likes you, Ben.",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44586,44586,44586,44586,217,SISKO,It's fortunate all these books of yours weren't on PADDS like all the other reading materials the colonists brought.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44587,44587,44587,44587,218,ALIXUS,I used to print them myself.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44588,44588,44588,44588,219,SISKO,I'm not surprised. And Vinod told me you never ate replicated food before you came here...,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44589,44589,44589,44589,220,ALIXUS,I'm not sure I see the connection...,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44590,44590,44590,44590,221,SISKO,"Just that you never had much use for technology, did you. It's interesting you happened to crash on a planet that fit your... philosophy of life... so well.",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44591,44591,44591,44591,222,ALIXUS,"I agree. In fact, I've started writing a book about our experiences. I've been wondering if in the ancient religions of man, there aren't some new truths to be found... something to explain how ""fate"" sometimes delivers us exactly where we need to be.",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44592,44592,44592,44592,223,SISKO,Perhaps one day you'll even feel the hand of God on your shoulder.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44593,44593,44593,44593,224,ALIXUS,"You are wonderful. You won't give a millimeter, will you.",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44594,44594,44594,44594,225,ALIXUS,"Look at you. Still wearing your uniform. Wanting so badly to get back to your station with its artificial gravity and its sterilized air. You are so disconnected from your core identity, Ben. There is a better way. How can we help you to see it. Perhaps good, hard work is the answer. Vinod...",24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44595,44595,44595,44595,226,ALIXUS,Ben will be standing watch tonight.,24   INT. COLONY SHIP - ALIXUS'S CUBICLE - NIGHT,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44596,44596,44596,44596,227,O'BRIEN,"You all right, Commander... ?",25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44597,44597,44597,44597,228,SISKO,Just a little tired... I'll be fine... any luck at your end?,25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44598,44598,44598,44598,229,O'BRIEN,"This duonetic field is still a mystery, sir... I can't believe it's being generated by the astatine deposits in the stream beds...",25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44599,44599,44599,44599,230,ALIXUS,"Good morning, Ben... ready for breakfast... there's some lovely fruit here... try this... (offering a piece to Sisko, he takes it) We found it growing along the riverbank a few years ago... some kind of native pear... good isn't it?",25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44600,44600,44600,44600,231,ALIXUS,"Oh, will you be able to work your normal shift in the fields today?",25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44601,44601,44601,44601,232,O'BRIEN,What are you talking about... you just had him up all night standing watch...,25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44602,44602,44602,44602,233,ALIXUS,"Of course, if you'd like to be relieved of your duties today, all you have to do is ask.",25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44603,44603,44603,44603,234,SISKO,I'll work my shift.,25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44604,44604,44604,44604,235,ALIXUS,"Good. We're so shorthanded out there. But you really should do yourself a favor and change into more comfortable clothes... (starts to leave, pauses) Oh, by the way, you'll be pleased to know that Meg seems better this morning. Joseph is very optimistic about a new combination of herbs he's tried.",25   EXT. COMPOUND - MORNING,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44605,44605,44605,44605,236,DAX,We're picking up a ship ahead. It's the Rio Grande -- moving at warp one- point-three.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44606,44606,44606,44606,237,KIRA,"Plotting an intercept course. Once we're abeam, match our speeds exactly and I'll transport over.",27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44607,44607,44607,44607,238,DAX,Like hell you will.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44608,44608,44608,44608,239,KIRA,"Sorry, I'm the ranking officer...",27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44609,44609,44609,44609,240,DAX,"At warp, I wouldn't be in such a hurry to volunteer. If Chief O'Brien were here, maybe... without him, either one of us would wind up a subspace particle field off the Rio Grande's stern...",27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44610,44610,44610,44610,241,KIRA,Got a better idea... ?,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44611,44611,44611,44611,242,DAX,(standing and moving to a rear panel) I'm a science officer. It's my job to have a better idea.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44612,44612,44612,44612,243,KIRA,What are you doing?,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44613,44613,44613,44613,244,DAX,Trying an old rope trick I learned on Earth once.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44614,44614,44614,44614,245,KIRA,A rope trick.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44615,44615,44615,44615,246,DAX,A very talented Hopi I knew did things with rope you wouldn't believe... it's an old West American artform... she could throw a lasso around Curzon on the dead run from ten meters away...,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44616,44616,44616,44616,247,KIRA,"You're suggesting we try to ""rope"" the Rio Grande at warp...",27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44617,44617,44617,44617,248,DAX,With a tractor beam.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44618,44618,44618,44618,249,KIRA,"When we pull it back to impulse, isn't there a risk that the strain will rip both hulls apart?",27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44619,44619,44619,44619,250,KIRA,"""I suppose?""",27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44620,44620,44620,44620,251,DAX,I suppose... there's a risk.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44621,44621,44621,44621,252,KIRA,You're a science officer. It's your job to know if there's a risk.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44622,44622,44622,44622,253,DAX,"Okay. There's a risk. If the ship assembly teams back at the yards did their jobs really well, we'll probably make it. If they had an off day, we're gonna have a problem. But it's our best shot. Unless, as ranking officer, you have a better idea...",27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44623,44623,44623,44623,254,KIRA,We're within tractor range. Locking on.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44624,44624,44624,44624,255,DAX,Engaging impulse engines.,27   INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44625,44625,44625,44625,256,DAX,Remind me to send a thank you note to the assembly teams.,30A  INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44626,44626,44626,44626,257,KIRA,"All stop. (as they rise and move to the transporter) Computer, ready transporter...",30A  INT. ORINOCO,ORINOCO,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44627,44627,44627,44627,258,CASSANDRA,I'm sorry... Alixus has just put water rationing into effect for today... no one is to get more than one cup...,31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44628,44628,44628,44628,259,CASSANDRA,We do...,31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44629,44629,44629,44629,260,SISKO,Why is she doing this...,31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44630,44630,44630,44630,261,CASSANDRA,"Because we've failed you, Ben... we've failed to help you and Miles find your place here in the community...",31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44631,44631,44631,44631,262,ALIXUS,Meg has died.,31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44632,44632,44632,44632,263,ALIXUS,"It happened suddenly, quietly. Her suffering has ended. No one was prouder of what we've accomplished here than Meg was. I can remember during some of our most difficult days... hearing her distinctive laugh echo across the field... and it would make me smile and give me hope. I wish I could hear that laugh now. Her dedication to this community, to us was an inspiration. Which is why I find myself so troubled today by an act that by its very nature defiles her memory. Vinod...",31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44633,44633,44633,44633,264,ALIXUS,"All of us have welcomed our new arrivals with open arms... but they continue to reject us. Despite their agreement to respect our fundamental way of life, this man has committed the worst offense that can be committed against this community. He has selfishly wasted precious time that could have been put to productive use. Miles was discovered attempting to activate his technological devices... so he could return to his ship...",31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44634,44634,44634,44634,265,JOSEPH,"Alixus, I'm sure he only wanted to get to the medical equipment that might have saved Meg's life...",31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44635,44635,44635,44635,266,ALIXUS,"Thank you, Joseph. I knew you would feel that way and I'm glad you said it. So all of us could see the true danger these two represent. Our own Joseph defending what he knows is wrong. He knows if we had spent our energy all these years trying to escape, we would all be dead today. This is good. This is a test of our convictions. And we will survive. To honor Meg and the others who have died to create this community. To honor the living who believe in this community. We will survive.",31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44636,44636,44636,44636,267,ALIXUS,"I know your prejudice prevents you from seeing us as we are. In time, you will understand. And perhaps even embrace us.",31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44637,44637,44637,44637,268,SISKO,You're not putting him in there.,31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44638,44638,44638,44638,269,ALIXUS,"No, Ben, I'm not. You're his commanding officer. I hold you responsible for his actions. I'm putting you in there.",31   EXT. FIELD NEAR COMPOUND - DAY,FIELD NEAR COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44639,44639,44639,44639,270,KIRA,"(checking console readings, curious) No sign of resistance. None of the onboard weapons have been fired...",35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44640,44640,44640,44640,271,DAX,But their logs have been erased. Someone else must have been here...,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44641,44641,44641,44641,272,KIRA,Maybe Sisko and O'Brien beamed off before the ship was boarded... But then why would someone send the Runabout off at warp... why wouldn't they keep it or destroy it...,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44642,44642,44642,44642,273,DAX,I think they were trying to destroy it.,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44643,44643,44643,44643,274,KIRA,How can you tell...,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44644,44644,44644,44644,275,DAX,"The hull's been exposed to high temperatures and intense gamma radiation... ... if we retrace the Rio Grande's course... it takes us right back to... (reaction as she gets the results, looks at Kira who sees them too)",35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44645,44645,44645,44645,276,KIRA,An F-type star...,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44646,44646,44646,44646,277,DAX,Orellius Minor. There's only one way this ship could be coming straight from Orellius Minor... and that's if someone had tried to destroy the ship by flying it into the star.,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44647,44647,44647,44647,278,KIRA,... and missed!,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44648,44648,44648,44648,279,DAX,"If the trajectory had been slightly off, the star's gravity flux would have deflected it in a new direction. Computer, run a tractor beam to the Orinoco and prepare for warp tow... With a little luck, we'll be able to find the warp signature the engines left when they were fired up...",35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44649,44649,44649,44649,280,COMPUTER,Tractor beam in place.,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44650,44650,44650,44650,281,KIRA,Course laid in for the Orellius,35   INT. RIO GRANDE,RIO GRANDE,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44651,44651,44651,44651,282,ALIXUS,"This is painful for me, too. I want so much to give you water... let you lie down... sleep. But I can't. Not without your help.",38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44652,44652,44652,44652,283,ALIXUS,I know it's too difficult to speak right now. Just rest.,38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44653,44653,44653,44653,284,ALIXUS,"Change doesn't come easily to you; I realize that. Believe me, I'm not expecting a sudden, miraculous conversion. The change'll come by itself... if you're open to it.",38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44654,44654,44654,44654,285,ALIXUS,But you do have to show us that you are open to it.,38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44655,44655,44655,44655,286,ALIXUS,A good start would be to get rid of that uniform.,38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44656,44656,44656,44656,287,ALIXUS,I'll leave you these clothes...,38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44657,44657,44657,44657,288,ALIXUS,"Once you've changed, you can have this cup of water. And when you drink, everyone will be allowed to drink...",38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44658,44658,44658,44658,289,ALIXUS,"Join us, Ben.",38   INT. COLONY SHIP - ALIXUS'S CUBICLE - DAY,COLONY SHI,INT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44659,44659,44659,44659,290,JOSEPH ,"What are you doing here, Miles...",48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44660,44660,44660,44660,291,O'BRIEN,"I... need a little help, Joseph...",48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44661,44661,44661,44661,292,JOSEPH,With what?,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44662,44662,44662,44662,293,JOSEPH,There's nothing I can do. Please don't ask me...,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44663,44663,44663,44663,294,O'BRIEN,I've got to try and track down where this duonetic field is coming from...,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44664,44664,44664,44664,295,JOSEPH,We told you... there are astetine deposits...,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44665,44665,44665,44665,296,O'BRIEN,"That's not what's causing it... if it were, I'd've had that transmitter working and we'd all be out of here already... it's something else... and I've figured out a way that might get me to the source of it...",48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44666,44666,44666,44666,297,JOSEPH,You want me to look the other way while you leave...,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44667,44667,44667,44667,298,O'BRIEN,"She'd put you in the box, wouldn't she...",48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44668,44668,44668,44668,299,O'BRIEN,"Then, do me a favor and just look down at this hematite deposit I just found...",48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.4019
+44669,44669,44669,44669,300,JOSEPH,Miles...,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44670,44670,44670,44670,301,O'BRIEN,I can do it so it won't hurt at all...,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.466
+44671,44671,44671,44671,302,O'BRIEN,I owe you one my friend...,48   EXT. JOSEPH'S WORK STATION - CLOSE ON HANDS,JOSEPH'S WORK STATIO,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44672,44672,44672,44672,303,O'BRIEN,"Well, you finally got one of us out of our uniform.",52   EXT. FOREST - DAY,FORES,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44673,44673,44673,44673,304,O'BRIEN,Get her out here!,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44674,44674,44674,44674,305,O'BRIEN,Get him some water.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44675,44675,44675,44675,306,O'BRIEN,Do you know why this phaser works now?,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44676,44676,44676,44676,307,O'BRIEN,Because I shut down the duonetic field that was keeping it from working. The artificially created duonetic field.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44677,44677,44677,44677,308,ALIXUS,"Untie him, please. He's not to blame.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44678,44678,44678,44678,309,O'BRIEN,"The young man just fired a couple of arrows at me. In my community, that's a crime.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44679,44679,44679,44679,310,SISKO,Sisko to Rio Grande. Computer acknowledge.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44680,44680,44680,44680,311,ALIXUS,"Your ship is no longer in orbit, Ben. I destroyed it.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44681,44681,44681,44681,312,SISKO,I assume that means -- you control the duonetic field.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44682,44682,44682,44682,313,ALIXUS,I helped to invent it. You'd be surprised how many scientists are sympathetic to my philosophies. I met a quantum physicist at the Delta Six station who was investigating how certain radiation inhibits electromagnetic flow. I immediately saw the potential of his work.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44683,44683,44683,44683,314,JOSEPH,Then... it was no accident that we developed life support problems near this planet...,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44684,44684,44684,44684,315,ALIXUS,"No. We were always on our way here, Joseph. I chose it months in advance... it was far away from any trade routes... completely isolated. It was perfect for our ideal community. I hoped when we landed here that we would never leave.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44685,44685,44685,44685,316,CASSANDRA,You lied to us. You've been lying to us for ten years.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44686,44686,44686,44686,317,ALIXUS,Yes. But perhaps a lie can lead to a more important truth. Would any of you have learned who you really are at the core if you hadn't come here?,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44687,44687,44687,44687,318,ALIXUS,"Joseph, you would have been a repairman all your life. Cassandra, you would have been a technical clerk in some closed-in room. Stephan, my friend, you would probably be in prison by now. Look at yourselves. Look at what you've become. What you have achieved here has redefined your potential... the potential of man. Just as I knew it would. You are the living proof.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44688,44688,44688,44688,319,SISKO,And what of the dead.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44689,44689,44689,44689,320,SISKO,What of Meg and the others?,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44690,44690,44690,44690,321,ALIXUS,Only my son knows how I suffered as I watched each of them die.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44691,44691,44691,44691,322,SISKO,You were willing to let them die to prove your theories. You're going to have to answer for what you've done.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44692,44692,44692,44692,323,ALIXUS,I'm prepared to go with you. Casualties were inevitable. I had to accept that from the start.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44693,44693,44693,44693,324,O'BRIEN,A philosophy of life was worth more to you than life itself.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44694,44694,44694,44694,325,SISKO,"If it had been your son who was sick, would you have let him die... ?",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44695,44695,44695,44695,326,ALIXUS,Yes. For the sake of the community. I did it all for the community.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44696,44696,44696,44696,327,KIRA,"Kira to Sisko. Are you all right, Commander...",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44697,44697,44697,44697,328,SISKO,"Everything's under control, Major. Stand by to begin multiple transports.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44698,44698,44698,44698,329,KIRA,Acknowledged.,62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44699,44699,44699,44699,330,O'BRIEN,"We've got room for all of you on the runabout... if you have anything you need to bring with you, you ought to go get it now...",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44700,44700,44700,44700,331,JOSEPH,"This is our home, Miles. Whatever Alixus may be guilty of... she did give us our community. I'm not sure if we'll leave the device on or off now that we know it's there... and we'll have to decide if we want to establish contact with the outside world. But Alixus is right. We have found something here... that none of us is willing to give up.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44701,44701,44701,44701,332,ALIXUS,"It's time for those of us who don't belong here to leave, Ben.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44702,44702,44702,44702,333,SISKO,"Four to beam up, Major.",62   EXT. COMPOUND - PENAL BOX - DAY,COMPOUN,EXT.,Paradise,1993-11-24,Deep Space Nine,435.txt,0.0
+44703,44703,44703,44703,0,QUARK,"Rom, I have delightful news. It's finally arrived.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44704,44704,44704,44704,1,ROM,It has?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44705,44705,44705,44705,2,QUARK,And I guarantee we're the only establishment in this sector to offer the entire cycle.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44706,44706,44706,44706,3,ROM,"We are? Why that's marvelous, isn't it, Morn? Really... amazing. (stares blankly at PADD) What cycle?",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44707,44707,44707,44707,4,QUARK,"Idiot, don't you recognize profit when you see it? You're looking at the latest Holosuite programs from Phalonia Prime.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44708,44708,44708,44708,5,QUARK,"Yes, when it comes to designing adult Holosuite programs, the Phalonians display true genius. If you don't believe me, take a peek at the image menu.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44709,44709,44709,44709,6,QUARK,"Let's see, where to begin. Ah, here we go, Scenario Fourteen-C, ""A picnic with the Pleasure Goddess of Rixx.""",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44710,44710,44710,44710,7,QUARK,Now that's what I call a picnic.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44711,44711,44711,44711,8,QUARK,I believe Holosuite Six is available.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44712,44712,44712,44712,9,QUARK,"That Morn, he always was a sucker for a Phalonian Holo-program.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44713,44713,44713,44713,10,QUARK,What do you think you're doing?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44714,44714,44714,44714,11,ROM,"Nothing, brother.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44715,44715,44715,44715,12,QUARK,The story of your life. Now get to work.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44716,44716,44716,44716,13,QUARK,"If anyone wants me, I'll be in... ... Holosuite Three.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44717,44717,44717,44717,14,ODO ,Quark!,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44718,44718,44718,44718,15,QUARK,"Not now, Odo.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44719,44719,44719,44719,16,ODO,We have to talk.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44720,44720,44720,44720,17,QUARK,It'll have to wait.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44721,44721,44721,44721,18,ODO,It can't wait.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44722,44722,44722,44722,19,QUARK,Of course not. Well make it fast. I have... business to attend to.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44723,44723,44723,44723,20,ODO,You remember that Subytt freighter we were discussing the other day? The one you claimed was smuggling defective isolinear rods to Bajor?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44724,44724,44724,44724,21,QUARK,"Yes, yes, what about it?",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44725,44725,44725,44725,22,ODO,"Well, I conducted a little investigation of that freighter, and do you know what I discovered?",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.2732
+44726,44726,44726,44726,23,QUARK,That I was telling the truth?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.3182
+44727,44727,44727,44727,24,ODO,That's right. I arrested the first officer and two of the crew.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,-0.4767
+44728,44728,44728,44728,25,QUARK,"Congratulations, Constable, I knew you could do it. Now if you don't mind I'm needed upstairs.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44729,44729,44729,44729,26,ODO,"Hold on, I'm not finished with you.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44730,44730,44730,44730,27,QUARK,"Really, Odo, sometimes I think there's no pleasing you. I help you crack a notorious smuggling ring, yet you still insist on treating me like an enemy.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44731,44731,44731,44731,28,ODO,You are my enemy.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44732,44732,44732,44732,29,QUARK,Then how do you explain my helping you?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44733,44733,44733,44733,30,ODO,"That's just it, I can't explain it.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44734,44734,44734,44734,31,QUARK,"It's simple, really. I figured we'd been at each others' throats long enough. It's time we called a truce.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44735,44735,44735,44735,32,ODO,A truce? You must be joking.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44736,44736,44736,44736,33,QUARK,"Ask that Subytt First Officer if I'm joking. From now on, you and I are going to be friends.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44737,44737,44737,44737,34,ODO,You're up to something.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44738,44738,44738,44738,35,QUARK,Now why would you say that?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44739,44739,44739,44739,36,ODO,Because you're always up to something.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44740,44740,44740,44740,37,QUARK,"I can see it's going to take time, but eventually you'll learn to trust me.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44741,44741,44741,44741,38,ODO,That'll be the day.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44742,44742,44742,44742,39,QUARK,(very pleased with himself) I don't think I can remember Odo looking quite so perplexed.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44743,44743,44743,44743,40,ROM,He's not alone. Those Subytt smugglers were a potential source of great profit.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.7461
+44744,44744,44744,44744,41,QUARK,Must I quote you the seventy-sixth Rule of Acquisition?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44745,44745,44745,44745,42,ROM,The seventy-sixth rule...,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44746,44746,44746,44746,43,QUARK,"""Every once in a while, declare peace."" It confuses the hell out of your enemies.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44747,44747,44747,44747,44,CAPTAIN,"Hey Quark, how are your lobes?",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44748,44748,44748,44748,45,QUARK,Tingling at the sight of you.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44749,44749,44749,44749,46,QUARK,What will it be? Another black hole?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44750,44750,44750,44750,47,CAPTAIN,Don't have the time. Ship's about to pull out. You know of anyone headed to Bajor?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44751,44751,44751,44751,48,QUARK,Ships go back and forth from there all the time. Why?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44752,44752,44752,44752,49,CAPTAIN,I promised someone I'd deliver this for them. But it looks like I'm not going to make it there this trip.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44753,44753,44753,44753,50,QUARK,It's an earring.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44754,44754,44754,44754,51,CAPTAIN,I know it's an earring. It was given to me by a maintenance worker on Cardassia Four.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44755,44755,44755,44755,52,QUARK,Are you saying a Cardassian gave you a Bajoran earring?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44756,44756,44756,44756,53,CAPTAIN,He asked me to take it to Bajor. Said whoever I showed it to would understand.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44757,44757,44757,44757,54,QUARK,He said that?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44758,44758,44758,44758,55,CAPTAIN,"Well, this is a Bajoran station, right? There must be someone here who'll know what to do with it.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44759,44759,44759,44759,56,QUARK,"Oh, there is.",1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44760,44760,44760,44760,57,CAPTAIN,Who?,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44761,44761,44761,44761,58,QUARK,Me.,1    INT. QUARK'S,QUARK'S,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44762,44762,44762,44762,59,KIRA,Come in.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44763,44763,44763,44763,60,QUARK,Surprise.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44764,44764,44764,44764,61,KIRA,What do you want?,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44765,44765,44765,44765,62,QUARK,I always wondered what your quarters looked like.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44766,44766,44766,44766,63,KIRA,That better not be your only reason for being here.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44767,44767,44767,44767,64,QUARK,"You don't entertain much, do you?",4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44768,44768,44768,44768,65,KIRA,I entertain a lot. I just don't entertain you.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44769,44769,44769,44769,66,QUARK,"Let me guess, the bedroom.",4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44770,44770,44770,44770,67,KIRA ,You take one step in here and I promise it'll be your last.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44771,44771,44771,44771,68,QUARK,It could be worth it.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44772,44772,44772,44772,69,KIRA,You have five seconds to tell me what you want.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44773,44773,44773,44773,70,QUARK,Aren't you going to offer me a beverage?,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44774,44774,44774,44774,71,KIRA,Five... four...,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44775,44775,44775,44775,72,QUARK,Can we at least sit down?,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44776,44776,44776,44776,73,KIRA,...three... two... one.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44777,44777,44777,44777,74,QUARK,Wait.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44778,44778,44778,44778,75,QUARK,I brought you something...,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44779,44779,44779,44779,76,KIRA,Where did you get this?,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44780,44780,44780,44780,77,QUARK,Is it valuable?,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44781,44781,44781,44781,78,KIRA,"I said, where did you get it?",4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44782,44782,44782,44782,79,QUARK,From a Boslic Freighter Captain. She got it from a Cardassian.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44783,44783,44783,44783,80,KIRA,Where?,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44784,44784,44784,44784,81,QUARK,On Cardassia Four. That's what she told me anyway. Consider it a gift.,4    INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44785,44785,44785,44785,82,JAKE ,"Hey, Dad, wait up.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44786,44786,44786,44786,83,JAKE,You got a minute?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44787,44787,44787,44787,84,SISKO,Sure. What's up?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44788,44788,44788,44788,85,JAKE,I've got great news.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44789,44789,44789,44789,86,SISKO,You passed your algebra test?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44790,44790,44790,44790,87,JAKE,Better than that.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44791,44791,44791,44791,88,SISKO,You figured out how to hit Sandy Koufax's curve ball.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44792,44792,44792,44792,89,JAKE,"No, even better.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44793,44793,44793,44793,90,SISKO,Better than hitting Koufax's curve? This I want to hear.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44794,44794,44794,44794,91,JAKE,You remember that Bajoran girl I told you about?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44795,44795,44795,44795,92,SISKO,The one with the great smile?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44796,44796,44796,44796,93,JAKE,"That's right, Laira. I decided to ask her out.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44797,44797,44797,44797,94,SISKO,Good for you. And now you've come to the old man for advice on what to say to her.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44798,44798,44798,44798,95,JAKE,Dad...,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44799,44799,44799,44799,96,SISKO,The main thing is you can't be afraid of rejection...,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44800,44800,44800,44800,97,JAKE,"Dad, I already asked her out. And she said yes.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44801,44801,44801,44801,98,SISKO,"She did, well that's wonderful.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44802,44802,44802,44802,99,JAKE,I was just wondering if you had any ideas what we could do. I was kinda thinking of taking her to the Holosuites.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44803,44803,44803,44803,100,SISKO,The Holosuites? I don't think so.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44804,44804,44804,44804,101,JAKE,Why not?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44805,44805,44805,44805,102,SISKO,Because you're too young to take a girl to the Holosuites.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44806,44806,44806,44806,103,JAKE,"Okay, then how about if I bring her to our quarters?",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44807,44807,44807,44807,104,SISKO,"No, no quarters.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44808,44808,44808,44808,105,JAKE,We're just going to talk.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44809,44809,44809,44809,106,SISKO,You can talk in public.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44810,44810,44810,44810,107,JAKE,It's not the same.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44811,44811,44811,44811,108,SISKO,You want to talk? (pointing to the Promenade's second level) Take her upstairs. That way you can talk and watch the ships go through the wormhole.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44812,44812,44812,44812,109,JAKE,That's boring.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44813,44813,44813,44813,110,SISKO,Since when?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44814,44814,44814,44814,111,JAKE,Since I started going out with girls.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44815,44815,44815,44815,112,SISKO,This is your first date.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44816,44816,44816,44816,113,JAKE,"Yeah, and I don't want it to be my last.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44817,44817,44817,44817,114,KIRA,"Commander, I need to speak with you.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44818,44818,44818,44818,115,SISKO,"One moment, Major...",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44819,44819,44819,44819,116,JAKE,"Dad, I can see you're not ready to have this conversation.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44820,44820,44820,44820,117,SISKO,I'm not ready.,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44821,44821,44821,44821,118,JAKE,"I'll just have to come up with some ideas on my own. Really, don't worry about it.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44822,44822,44822,44822,119,SISKO,(trying to convince himself) Who's worried?,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44823,44823,44823,44823,120,KIRA,(interrupting his reverie) Commander...,7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44824,44824,44824,44824,121,SISKO,"Join me, Major.",7    INT. PROMENADE,PROMENADE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.296
+44825,44825,44825,44825,122,SISKO,One Raktajino with a jacarine peel.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44826,44826,44826,44826,123,KIRA,Nothing for me.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44827,44827,44827,44827,124,SISKO,One icoberry torte.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44828,44828,44828,44828,125,SISKO,"So, what can I do for you, Major?",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44829,44829,44829,44829,126,KIRA,I need to borrow a runabout.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44830,44830,44830,44830,127,SISKO,What for?,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44831,44831,44831,44831,128,KIRA,You really don't want to ask me that.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44832,44832,44832,44832,129,SISKO,It's too late. I already have.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44833,44833,44833,44833,130,KIRA,Then you don't want to know the answer.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44834,44834,44834,44834,131,SISKO,"Major, I can't loan you a Starfleet runabout without knowing where you plan on taking it.",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44835,44835,44835,44835,132,KIRA,(fixing Sisko with her best level stare) To Cardassia Four to rescue a Bajoran prisoner of war.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44836,44836,44836,44836,133,SISKO,You're right. I wish you hadn't told me.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44837,44837,44837,44837,134,KIRA,This earring was recently smuggled off the planet. (points to part of the design) See this? It's the insignia of Li Nalas.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44838,44838,44838,44838,135,SISKO,The resistance leader?,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44839,44839,44839,44839,136,KIRA,The greatest we ever had. His victory over Gul Zarale in hand-to-hand combat...,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44840,44840,44840,44840,137,SISKO,"I've heard the story, Major. But wasn't he reported killed in action?",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44841,44841,44841,44841,138,KIRA,"The body was never found. Look Commander, I wouldn't be asking this if I thought there was another way to rescue Li. But Bajoran ships don't have the maneuverability or defensive capabilities to get me safely in and out of Cardassian territory.",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44842,44842,44842,44842,139,SISKO,You're sure this is genuine?,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44843,44843,44843,44843,140,KIRA,Dax found dermal residue on the backing. A genetic analysis matched it to Li's DNA records. It's genuine all right.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44844,44844,44844,44844,141,SISKO,Have you told the provisional government?,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44845,44845,44845,44845,142,KIRA,I contacted three ministers. Their responses were exactly what I expected.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44846,44846,44846,44846,143,SISKO,"In other words, they're unwilling to risk a war with Cardassia over an earring. I can't say I blame them.",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44847,44847,44847,44847,144,KIRA,"Commander, we both know the provisional government is made up of political opportunists too busy fighting among themselves to care what happens to Bajor. And since the loss of the Kai, the situation has only gone from bad to worse. There are reports of factional fighting in half a dozen districts... religious riots have spread throughout the southern islands... Bajor needs a leader. Someone the people will listen to. Someone they can trust.",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44848,44848,44848,44848,145,SISKO,And you think Li Nalas is that leader?,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44849,44849,44849,44849,146,KIRA,I know he is.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44850,44850,44850,44850,147,O'BRIEN,O'Brien to Sisko.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44851,44851,44851,44851,148,SISKO,"Go ahead, Chief.",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44852,44852,44852,44852,149,O'BRIEN,"I think you and Odo had better join me in the Habitat Ring. Level Thirteen, Section Four. There's something you should see.",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44853,44853,44853,44853,150,SISKO,We'll be right there.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44854,44854,44854,44854,151,KIRA,"So, do I get the runabout?",10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44855,44855,44855,44855,152,SISKO,I'll have to think it over.,10   INT. REPLIMAT (OPTICAL),REPLIMAT,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44856,44856,44856,44856,153,O'BRIEN,I was on my way to Crossover Bridge Three to do some repair work on the field modulators. I noticed this.,13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44857,44857,44857,44857,154,SISKO,"It's the emblem of the Alliance for Global Unity. They call themselves ""The Circle.""",13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44858,44858,44858,44858,155,O'BRIEN,"""The Circle,"" huh. Well, what gives them the right to go mucking up our station?",13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44859,44859,44859,44859,156,ODO,They're an extremist faction who believe in Bajor for Bajorans. All other species are inferior and should be expelled from the planet.,13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44860,44860,44860,44860,157,SISKO,I understand this emblem has been appearing all over Bajor.,13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44861,44861,44861,44861,158,ODO,That's correct. But this is the first time I've seen it here.,13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44862,44862,44862,44862,159,SISKO,I want to be informed immediately if it shows up anyplace else on the station.,13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44863,44863,44863,44863,160,ODO,Understood.,13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44864,44864,44864,44864,161,O'BRIEN,"If they think scrawling a couple of signs is going to send us packing, they've got another thing coming.",13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44865,44865,44865,44865,162,SISKO,Right now they're just letting us know we're vulnerable.,13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44866,44866,44866,44866,163,ODO,"I wouldn't be overly concerned, Commander. This section is a low security area.",13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44867,44867,44867,44867,164,SISKO,"As of now, Constable, there are no ""low security areas"" on this station.",13   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44868,44868,44868,44868,165,DAX,"You wanted to see me, Benjamin?",14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44869,44869,44869,44869,166,SISKO,Have a seat.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44870,44870,44870,44870,167,DAX,Am I to assume this conversation is going to be about baseball?,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44871,44871,44871,44871,168,SISKO,Not this time.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44872,44872,44872,44872,169,DAX,Good.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.4404
+44873,44873,44873,44873,170,SISKO,I thought you enjoyed talking about baseball.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.5106
+44874,44874,44874,44874,171,DAX,Curzon enjoyed it. But not half as much as he led you to believe.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.2846
+44875,44875,44875,44875,172,DAX,"So what's on your mind, Benjamin.",14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44876,44876,44876,44876,173,SISKO,I've been thinking about our mission here. I look at the turmoil on Bajor and I see everything we fought for this past year starting to unravel.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44877,44877,44877,44877,174,DAX,"I told you when we came here this was going to be a tough assignment. Of course, I didn't know it was going to be this tough...",14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44878,44878,44878,44878,175,SISKO,What if I told you I knew someone who could bring stability to Bajor. Someone who could unite the factions and give us a chance to do our job.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44879,44879,44879,44879,176,DAX,I'd say give Kira the runabout.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44880,44880,44880,44880,177,SISKO,How do you know about Kira wanting a runabout?,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44881,44881,44881,44881,178,DAX,She told me.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44882,44882,44882,44882,179,SISKO,I thought this was supposed to be a covert mission.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44883,44883,44883,44883,180,DAX,I promise not to tell.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44884,44884,44884,44884,181,SISKO,"All right, supposing I do help, and she does rescue Li Nalas. What do we say to the Cardassians?",14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44885,44885,44885,44885,182,DAX,"The question is, what do they say to us? They swore they released all their Bajoran prisoners.",14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44886,44886,44886,44886,183,SISKO,Dax...,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44887,44887,44887,44887,184,DAX,Yes?,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.4019
+44888,44888,44888,44888,185,SISKO,You're sure Curzon didn't love baseball.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,-0.2658
+44889,44889,44889,44889,186,DAX,Positive.,14   INT. COMMANDER'S OFFICE,COMMANDER'S OFFICE,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.5574
+44890,44890,44890,44890,187,SISKO,"Chief, Major Kira needs a runabout...",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44891,44891,44891,44891,188,O'BRIEN,"Then she will be going to Cardassia Four, after all.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44892,44892,44892,44892,189,SISKO,How do you know about Cardassia Four?,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44893,44893,44893,44893,190,O'BRIEN,She told me all about it.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44894,44894,44894,44894,191,SISKO,Is there anyone on this station she didn't tell?,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44895,44895,44895,44895,192,O'BRIEN,I doubt she mentioned it to Quark.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44896,44896,44896,44896,193,SISKO,"Well then, as far as Quark's concerned, she's going to Lamenda Prime to bring back mineral samples.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44897,44897,44897,44897,194,O'BRIEN,"Very good, sir.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44898,44898,44898,44898,195,SISKO,"Now, is there any way we can prevent the Cardassian sensors from picking up the runabout's signature?",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44899,44899,44899,44899,196,O'BRIEN,"I could modulate the engine's power emissions, reconfigure the deflector shield grid, and install field buffers around the subspace emitter coil. By the time I'm done, the Cardies will think they're reading a Lissepian transport.",15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44900,44900,44900,44900,197,SISKO,I see you've already given this a bit of thought.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44901,44901,44901,44901,198,O'BRIEN,I suppose I have at that.,15   INT. OPS - CONTINUOUS,OP,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44902,44902,44902,44902,199,KIRA,Come in.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44903,44903,44903,44903,200,KIRA,Commander... Chief... I was just getting ready to leave.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44904,44904,44904,44904,201,SISKO,I just stopped by to wish you luck. And to let you know that Chief O'Brien will be accompanying you on your mission.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44905,44905,44905,44905,202,KIRA,I don't think that's a good idea. Having a Federation officer along could cause complications for you later.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44906,44906,44906,44906,203,SISKO,"I'm willing to risk that. You're an excellent pilot, Major... but O'Brien here is better. And I want to make sure I get my runabout back in one piece.",18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44907,44907,44907,44907,204,KIRA,I appreciate the offer. But this is a Bajoran problem.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44908,44908,44908,44908,205,SISKO,I don't agree. The truth is I need Li Nalas back on Bajor as much as you do.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44909,44909,44909,44909,206,O'BRIEN,"Besides, I've seen how Cardassians treat their prisoners. No one should have to suffer like that.",18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44910,44910,44910,44910,207,KIRA,"If the Cardassians get their hands on us, we'll be the ones suffering.",18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44911,44911,44911,44911,208,O'BRIEN,They'll have to catch us first.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44912,44912,44912,44912,209,KIRA,I suppose I could use the company.,18   INT. KIRA'S QUARTERS,KIRA'S QUARTERS,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44913,44913,44913,44913,210,KIRA,"You have the controls, Chief.",19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44914,44914,44914,44914,211,O'BRIEN,Right.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44915,44915,44915,44915,212,KIRA,"Before we go, there's just one thing we need to clear up between us.",19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44916,44916,44916,44916,213,O'BRIEN,And what would that be?,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44917,44917,44917,44917,214,KIRA,This mission can end only one of two ways. Either we bring back Li Nalas... or we don't come back at all.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44918,44918,44918,44918,215,O'BRIEN,Understood.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44919,44919,44919,44919,216,KIRA,"Then take us out of here, Mister O'Brien.",19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44920,44920,44920,44920,217,O'BRIEN,Initializing launch sequence.,19   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44921,44921,44921,44921,218,KIRA,How long until we reach Cardassia Four?,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44922,44922,44922,44922,219,O'BRIEN,I'd estimate another thirty minutes.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44923,44923,44923,44923,220,KIRA,Hold on... We're being scanned.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44924,44924,44924,44924,221,O'BRIEN,Can you get a fix on the source?,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44925,44925,44925,44925,222,KIRA,It's position is holding steady at bearing two-one-nine mark two-three.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44926,44926,44926,44926,223,O'BRIEN,It must be a navigational control post. It's probably just a routine scan.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44927,44927,44927,44927,224,KIRA,We're being hailed.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44928,44928,44928,44928,225,O'BRIEN,On the other hand we could be in serious trouble.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44929,44929,44929,44929,226,KIRA,They're repeating the hail.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44930,44930,44930,44930,227,O'BRIEN,We're on the edge of their scanner range. That puts us out of visual contact. I say we try and bluff 'em.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44931,44931,44931,44931,228,KIRA,,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44932,44932,44932,44932,229,CARDASSIAN ,This is Cardassian Navigational Control Post Twenty-Four. Identify yourself.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44933,44933,44933,44933,230,KIRA,This is the Lissepian transport Martuk.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44934,44934,44934,44934,231,CARDASSIAN ,According to our scan your subspace field emitters appear to be malfunctioning.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44935,44935,44935,44935,232,O'BRIEN,The field buffers must be distorting our power signature.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44936,44936,44936,44936,233,KIRA,We've been having trouble with our phase modulators. We're attempting to correct the problem.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44937,44937,44937,44937,234,CARDASSIAN ,Do you require assistance? We can dispatch a repair ship.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44938,44938,44938,44938,235,O'BRIEN,Bloody hell. They want to help us.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44939,44939,44939,44939,236,KIRA,"Your offer is most appreciated, Post Twenty-Four. But unnecessary.",21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44940,44940,44940,44940,237,CARDASSIAN ,Are you certain? Your power signature is still fluctuating.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44941,44941,44941,44941,238,O'BRIEN,He's getting suspicious.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44942,44942,44942,44942,239,KIRA,"I believe we can correct the problem on our own. Besides, Gul Marayn is waiting on Cardassia Four to receive my shipment of Rulot seeds. Any delay could ruin the entire crop... and the Gul's mood.",21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44943,44943,44943,44943,240,CARDASSIAN ,Understood. You can put in for repairs after you deliver your cargo.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44944,44944,44944,44944,241,KIRA,My plan exactly. They've broken off their transmission.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44945,44945,44945,44945,242,O'BRIEN,"Tell me, Major, who's this Gul Marayn.",21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44946,44946,44946,44946,243,KIRA,Don't ask me. I just made him up.,21   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44947,44947,44947,44947,244,O'BRIEN,We're in synchronous orbit above the Hutet Labor camp.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44948,44948,44948,44948,245,O'BRIEN,I've limited the bio-scan to detect only Bajoran lifeforms.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44949,44949,44949,44949,246,O'BRIEN,Hold on. I'm getting multiple readings. There must be about a dozen Bajoran prisoners down there.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44950,44950,44950,44950,247,KIRA,Is there any way to beam up more than two at a time?,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44951,44951,44951,44951,248,O'BRIEN,I'm afraid not. And as soon as we beam up the first two all hell's gonna break loose in that camp.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44952,44952,44952,44952,249,KIRA,And there's no guarantee that Li will be one of the first two. What's security like down there?,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44953,44953,44953,44953,250,O'BRIEN,The compound's surrounded by a standard Cardassian forcefield.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44954,44954,44954,44954,251,KIRA,We'll have to land. It's our only chance of getting them all out of there.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44955,44955,44955,44955,252,O'BRIEN,I'll find us a secluded spot to put down.,23   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44956,44956,44956,44956,253,KIRA,How do I look?,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44957,44957,44957,44957,254,O'BRIEN,I doubt there's a Cardassian alive who could resist you.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44958,44958,44958,44958,255,KIRA,I hope you're right.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44959,44959,44959,44959,256,O'BRIEN,So do I.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44960,44960,44960,44960,257,LI,What's all this?,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44961,44961,44961,44961,258,BORUM,I'm not quite sure.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44962,44962,44962,44962,259,OVERSEER,Halt.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44963,44963,44963,44963,260,O'BRIEN,We're here to see the prefect.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44964,44964,44964,44964,261,OVERSEER,What for?,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44965,44965,44965,44965,262,O'BRIEN,She has an appointment with him.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44966,44966,44966,44966,263,OVERSEER,I used to be stationed on Bajor.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44967,44967,44967,44967,264,O'BRIEN,Then you know why the prefect doesn't want to be kept waiting.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44968,44968,44968,44968,265,OVERSEER,What would it cost me for an appointment.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44969,44969,44969,44969,266,KIRA,More than you can afford.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44970,44970,44970,44970,267,O'BRIEN,Two strips of gold-pressed latinum and she's all yours.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44971,44971,44971,44971,268,KIRA,He wouldn't know what to do with me.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44972,44972,44972,44972,269,OVERSEER,She needs disciplining.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44973,44973,44973,44973,270,KIRA,From a boy like you? I don't think you're capable of it.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44974,44974,44974,44974,271,OVERSEER,Step back. I want to examine what I'm paying for.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44975,44975,44975,44975,272,O'BRIEN,Of course. But no sampling the merchandise until the sale is completed.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44976,44976,44976,44976,273,OVERSEER,Come here.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44977,44977,44977,44977,274,OVERSEER,"Now, show me why you're worth two strips of gold press latinum.",24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44978,44978,44978,44978,275,KIRA,All right.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44979,44979,44979,44979,276,KIRA,Li Nalas?,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44980,44980,44980,44980,277,LI,Who are you?,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44981,44981,44981,44981,278,KIRA,Major Kira Nerys. We've come to get you out of here.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44982,44982,44982,44982,279,BORUM,The earring... you got it.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44983,44983,44983,44983,280,KIRA,Yes.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44984,44984,44984,44984,281,LI,I don't understand. My earring was lost...,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44985,44985,44985,44985,282,BORUM,"No, I had it smuggled back to Bajor.",24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44986,44986,44986,44986,283,O'BRIEN,"Gentlemen, I suggest you save this discussion for later.",24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44987,44987,44987,44987,284,KIRA,Come on. We have a ship waiting.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44988,44988,44988,44988,285,O'BRIEN,We'll never make it at this rate.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44989,44989,44989,44989,286,BORUM,Get Li to Bajor. (pointing to three other prisoners) We'll stay behind... hold them off until you reach your ship.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44990,44990,44990,44990,287,LI,No. I won't allow it.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44991,44991,44991,44991,288,BORUM,"Don't you see, we did this for you. Get him back safely. That's all that matters.",24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44992,44992,44992,44992,289,KIRA,You have my word.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44993,44993,44993,44993,290,BORUM,Then go.,24   EXT. HUTET LABOR CAMP - DAY (OPTICAL),HUTET LABOR CAMP - DAY,EXT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44994,44994,44994,44994,291,O'BRIEN,"Ready to launch, Major.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44995,44995,44995,44995,292,KIRA,Not yet. Some of the others still might make it.,42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44996,44996,44996,44996,293,O'BRIEN,Standing by.,42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44997,44997,44997,44997,294,O'BRIEN,"I'm picking up two Galor class warships entering orbit. They should be overhead in one minute, forty-five seconds.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44998,44998,44998,44998,295,LI,"Major, you can't leave those men behind.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0
+44999,44999,44999,44999,296,O'BRIEN,"One minute, thirty seconds. If we don't leave now, Major, we never will.",42   INT. RUNABOUT - RIO GRANDE,RUNABOU,INT.,The Homecoming,1993-07-02,Deep Space Nine,421.txt,0.0

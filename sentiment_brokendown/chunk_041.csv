@@ -1,0 +1,1001 @@
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,index,line,character,quote,scene,location,view,episode,date,series,file,sentiment
+41000,41000,41000,41000,199,KIRA,Do you really believe that?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41001,41001,41001,41001,200,MAREEL,You heard Verad. They didn't leave him any other choice.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41002,41002,41002,41002,201,KIRA,That's his reason. What's yours?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41003,41003,41003,41003,202,MAREEL,I owe him. I grew up on the streets of Khefka Four. I never would've made it out of there without Verad.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41004,41004,41004,41004,203,SISKO,What was he doing on Khefka Four?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41005,41005,41005,41005,204,MAREEL,"He was the communications clerk for the Federation consulate. He used to come by the accommodation house where I worked. I'd help him relax. When he got recalled to Trill, he asked me to go with him... we've been together ever since.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41006,41006,41006,41006,205,KIRA,So that's it... He got you out of a bad situation and now you're willing to kill for him?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41007,41007,41007,41007,206,MAREEL,"He's an unhappy man. And if there's anything I can do to make him happy, I'll do it.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41008,41008,41008,41008,207,SISKO,Even if it means losing him?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41009,41009,41009,41009,208,MAREEL,Losing him?,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41010,41010,41010,41010,209,SISKO,"After the surgery, Verad won't be just Verad anymore... He'll be a blending of Verad, Dax, and all the previous hosts. Their memories, their knowledge... even their personalities.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41011,41011,41011,41011,210,MAREEL,"Verad told me you'd say things like that. I know he'll change... he'll be smarter, more confident... but in all the important ways, he'll be the same.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41012,41012,41012,41012,211,SISKO,"I'm sorry, but if he told you that, he's lying. When a Trill is joined, it's like a rebirth. He'll be an entirely different person.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,-0.3612
+41013,41013,41013,41013,212,MAREEL,"If you think I'm going to betray Verad, you're wrong. It doesn't matter what you say. I love him... and I'm going to stand by him... no matter what.",44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,-0.6649
+41014,41014,41014,41014,213,VERAD ,I never doubted it.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.2057
+41015,41015,41015,41015,214,MAREEL,Verad.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41016,41016,41016,41016,215,VERAD,No. Not just Verad. I'm Verad Dax.,44A  INT. OPS (FORMERLY SCENE 51),OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41017,41017,41017,41017,216,BASHIR,"(to Yeto, indicating the device) Take this.",48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41018,41018,41018,41018,217,BASHIR,"Come on, we haven't got much time. Just move it back and forth over the wound in slow even strokes.",48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41019,41019,41019,41019,218,YETO,Why bother? She'll be dead in a few hours anyway.,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41020,41020,41020,41020,219,BASHIR,Not if I have anything to do with it. Now help me.,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41021,41021,41021,41021,220,YETO,"Why should I? She let herself be slaughtered like a mindless t'gla. If she wanted to live, she should have fought back.",48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41022,41022,41022,41022,221,BASHIR,She did what she did to save the rest of us.,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41023,41023,41023,41023,222,YETO,Then she's a fool and deserves her fate.,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41024,41024,41024,41024,223,BASHIR,"Now listen here, Yeto, or whatever your name is... I don't care about your warrior ethic, or your Klingon philosophy. This woman's dying and you're going to help me save her. Now take the instrument.",48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41025,41025,41025,41025,224,YETO,So the little human's got some spark after all.,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41026,41026,41026,41026,225,BASHIR,"I said smooth, even strokes.",48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41027,41027,41027,41027,226,BASHIR,(waiting for the hypo to take effect) Come on... come on...,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41028,41028,41028,41028,227,DAX,Julian...,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41029,41029,41029,41029,228,BASHIR,"Thank God, I thought I'd lost you.",48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41030,41030,41030,41030,229,DAX,The symbiont... it's gone...,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41031,41031,41031,41031,230,BASHIR,Everything went perfectly. The operation was a complete success...,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41032,41032,41032,41032,231,DAX,I feel so... alone...,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41033,41033,41033,41033,232,BASHIR,(trying to keep both their spirits up) I... I've got you stabilized. If we can just get the symbiont back in time...,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41034,41034,41034,41034,233,DAX,Julian... I'm scared.,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41035,41035,41035,41035,234,BASHIR,You're not going to die. Do you hear me? I won't let you die.,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41036,41036,41036,41036,235,DAX,I've never felt... so empty...,48   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41037,41037,41037,41037,236,SISKO,Dax?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41038,41038,41038,41038,237,VERAD,"(with his newfound strength) That's right, Benjamin... It's me...",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41039,41039,41039,41039,238,SISKO,"Curzon, Tobin, Jadzia... all the others... they're part of you now.",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41040,41040,41040,41040,239,VERAD,It's amazing. So many ideas... so many memories...,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41041,41041,41041,41041,240,SISKO,Eight lifetimes of memories. It must be incredible.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41042,41042,41042,41042,241,VERAD,(looking Sisko in the eye) It's better than I ever imagined.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41043,41043,41043,41043,242,SISKO,This station must look entirely different to you.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41044,41044,41044,41044,243,VERAD,It does. I... I know this place. (looks at Sisko and smiles) And I know you... Benjamin.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41045,41045,41045,41045,244,SISKO,Of course you do. Remember when we first met...,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41046,41046,41046,41046,245,VERAD,Pelios Station.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41047,41047,41047,41047,246,SISKO,Anastasia?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41048,41048,41048,41048,247,VERAD,(playing top-that- memory) And that trip we took to the cliffs of Bole.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41049,41049,41049,41049,248,SISKO,And all the months we served aboard the Livingston?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41050,41050,41050,41050,249,VERAD,Science officer Kustanovich. What was it... eight helpings of Andorian Redbat?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41051,41051,41051,41051,250,SISKO,I've never seen anybody eat like that. Remember my wedding?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41052,41052,41052,41052,251,VERAD,"I remember your bachelor party. Some of it, anyway.",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41053,41053,41053,41053,252,SISKO,And the time we discovered the wormhole?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41054,41054,41054,41054,253,VERAD,One of Jadzia's proudest moments.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41055,41055,41055,41055,254,SISKO,And now that woman is bleeding to death in the Infirmary.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41056,41056,41056,41056,255,VERAD,"I'd rather not discuss that, Benjamin.",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41057,41057,41057,41057,256,SISKO,"You have to discuss it, Dax. You know as well as I do that we can't let her die.",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41058,41058,41058,41058,257,VERAD,"But she's not going to die. She'll live on, in me.",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41059,41059,41059,41059,258,SISKO,Jadzia's memories will live on. But Jadzia herself will die. You'll have killed her.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41060,41060,41060,41060,259,VERAD,"You think I don't know that. I'll never be able to forget it. But I promise you, Benjamin... I'll do all I can to make up for it. I'm not going to the Gamma Quadrant to hide. There're entire worlds which can benefit from my knowledge and experience. I can help them... and I will.",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41061,41061,41061,41061,260,SISKO,I've got a better idea. Help Jadzia. Come down to the Infirmary with me. Put the symbiont back where it belongs.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41062,41062,41062,41062,261,VERAD,"I can't do that, Benjamin... even if I wanted to. Don't you see... it's too late. The integration is already under way.",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41063,41063,41063,41063,262,SISKO,But there's still time to stop it. Jadzia's life can still be saved.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41064,41064,41064,41064,263,MAREEL,Don't listen to him. He's just trying to confuse you.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41065,41065,41065,41065,264,VERAD,"It's all right, Mareel. Benjamin, the symbiont's still weak from the operation. If we attempt another joining so soon, it might not survive. Are you willing to risk that?",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41066,41066,41066,41066,265,SISKO,I am. The question is... are you?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41067,41067,41067,41067,266,MAREEL,Why are you wasting your time with him?,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41068,41068,41068,41068,267,VERAD,Because he's my friend. Now go watch the others.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41069,41069,41069,41069,268,VERAD,"(ignoring her, to Sisko) We are still friends, aren't we Benjamin?",50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41070,41070,41070,41070,269,SISKO,I hope so. Come down to the Infirmary with me and prove it.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41071,41071,41071,41071,270,VERAD,I can't do that.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41072,41072,41072,41072,271,SISKO,Then you're not the Dax I know. And our friendship's over.,50   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41073,41073,41073,41073,272,MAREEL,"Here, drink this.",51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41074,41074,41074,41074,273,O'BRIEN,What is it?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41075,41075,41075,41075,274,MAREEL,Senarian Egg Broth. It'll keep your strength up.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41076,41076,41076,41076,275,MAREEL,"All right, don't drink it. It makes no difference to me.",51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41077,41077,41077,41077,276,O'BRIEN,Hold on.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41078,41078,41078,41078,277,O'BRIEN,Not bad. Thanks.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41079,41079,41079,41079,278,SISKO,"He even looks different, doesn't he? The way he stands, the way he moves... talks...",51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41080,41080,41080,41080,279,MAREEL,He's better than he was.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41081,41081,41081,41081,280,SISKO,I'm glad you think so.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41082,41082,41082,41082,281,MAREEL,I do.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41083,41083,41083,41083,282,SISKO,Really? The way he dismissed you before... I'm sure Verad never did that.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41084,41084,41084,41084,283,MAREEL,He's under a lot of stress.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41085,41085,41085,41085,284,SISKO,Verad was under stress from the minute he stepped onto this station. But he never turned on you... did he?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41086,41086,41086,41086,285,MAREEL,"What's your point, Commander?",51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41087,41087,41087,41087,286,SISKO,I think you know.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41088,41088,41088,41088,287,MAREEL,You're trying to turn me against Verad.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41089,41089,41089,41089,288,SISKO,Verad no longer exists. You know that better than I do.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41090,41090,41090,41090,289,MAREEL,"All right then, Verad Dax. But it won't work. Nothing's changed between us.",51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41091,41091,41091,41091,290,SISKO,You really believe that?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41092,41092,41092,41092,291,MAREEL,Yes.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41093,41093,41093,41093,292,SISKO,Then make me believe it. Go in there and talk to him.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41094,41094,41094,41094,293,MAREEL,Talk to him... About what?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41095,41095,41095,41095,294,SISKO,I don't know... whatever you want. You must have a lot to say to one another.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41096,41096,41096,41096,295,MAREEL,I don't want to disturb him.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41097,41097,41097,41097,296,SISKO,Why not?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41098,41098,41098,41098,297,MAREEL,Because I don't want to.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41099,41099,41099,41099,298,SISKO,But look at him... sitting there... all alone. He needs you.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41100,41100,41100,41100,299,MAREEL,That's enough.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41101,41101,41101,41101,300,SISKO,Why are you being so reluctant? This is a perfect time for the two of you to get reaquainted.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41102,41102,41102,41102,301,MAREEL,I said... that's enough.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41103,41103,41103,41103,302,VERAD ,Mareel.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41104,41104,41104,41104,303,VERAD,Is anything wrong?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41105,41105,41105,41105,304,VERAD,Well?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41106,41106,41106,41106,305,MAREEL,No. Everything's fine.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41107,41107,41107,41107,306,VERAD,Good. Be careful. I wouldn't want anything to happen to you.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41108,41108,41108,41108,307,QUARK,I got him.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41109,41109,41109,41109,308,MAREEL,Stay back.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41110,41110,41110,41110,309,QUARK,Maybe we should talk about this?,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41111,41111,41111,41111,310,QUARK,My ear...,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41112,41112,41112,41112,311,T'KAR,Pathetic.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41113,41113,41113,41113,312,VERAD,Mareel... take him to the Infirmary.,51   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41114,41114,41114,41114,313,BASHIR,(his mind's still on Dax) What is it now?,57   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41115,41115,41115,41115,314,QUARK,"Please, it hurts...",57   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41116,41116,41116,41116,315,BASHIR,All right. Just hold on.,57   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41117,41117,41117,41117,316,BASHIR,The damage appears to be fairly superficial.,57   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41118,41118,41118,41118,317,BASHIR,Ferengi ears are incredibly sensitive. I'd better run some further tests.,57   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41119,41119,41119,41119,318,VERAD,The storm's intensity's dropped,59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41120,41120,41120,41120,319,MAREEL,Good. I'm tired of waiting here.,59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41121,41121,41121,41121,320,MAREEL,How're you feeling?,59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41122,41122,41122,41122,321,VERAD,Better than ever... thanks to you. I couldn't have done this without you. I would've spent the rest of my life a mediocre man... only dreaming of what might've been. You know what you have to do.,59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41123,41123,41123,41123,322,MAREEL,You just worry about getting through the wormhole. The Klingons and I'll make sure that no one stops you.,59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41124,41124,41124,41124,323,VERAD,"Remember, I don't want you staying here any longer than you have to. Give me an hour, then head for the wormhole. The runabout's on Pad ""C.""",59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41125,41125,41125,41125,324,MAREEL,"The sooner you leave, the sooner I can follow. And the sooner we can be together.",59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41126,41126,41126,41126,325,MAREEL,"It's going to be all right, isn't it?",59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41127,41127,41127,41127,326,VERAD,(with a reassuring smile) Just wait for me at the rendezvous point.,59   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41128,41128,41128,41128,327,YETO,Stop whining or I'll put you out of your misery.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41129,41129,41129,41129,328,BASHIR,"It's not his fault. He's got a deep contusion of the auricular lobe and a possible dislocated malleus. In a Ferengi, either condition can be fatal.",63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41130,41130,41130,41130,329,BASHIR,"(holds out a medical tool) If you want him to stop, then give me a hand with this.",63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41131,41131,41131,41131,330,YETO,I'm not your nurse.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41132,41132,41132,41132,331,BASHIR,"Look, let's not go through that again. Just hold this against his ear...",63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41133,41133,41133,41133,332,BASHIR,Not too hard.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41134,41134,41134,41134,333,BASHIR,Just another second... There.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41135,41135,41135,41135,334,QUARK,"Thank you, Doctor. I feel better already.",63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41136,41136,41136,41136,335,QUARK,How is she?,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41137,41137,41137,41137,336,BASHIR,I've got her stabilized. But there's no telling how much time she's got left. We have to get the symbiont back before it's too late.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41138,41138,41138,41138,337,QUARK,What are you doing?,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41139,41139,41139,41139,338,BASHIR,Odo's in here.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41140,41140,41140,41140,339,QUARK,He is.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41141,41141,41141,41141,340,BASHIR,"Yes, and we have to get him out.",63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41142,41142,41142,41142,341,QUARK,Are you sure?,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41143,41143,41143,41143,342,BASHIR,Quark.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41144,41144,41144,41144,343,BASHIR,If we only knew the access code...,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41145,41145,41145,41145,344,QUARK,Allow me.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41146,41146,41146,41146,345,QUARK,"Hmmm, your standard Delgorian locking mechanism. Sophisticated but vulnerable if you know its weak points. Hand me that laser scalpel.",63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41147,41147,41147,41147,346,QUARK,It's a gift.,63   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41148,41148,41148,41148,347,T'KAR,The storm's decreased another fifteen percent.,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41149,41149,41149,41149,348,VERAD,Excellent. That should be more than enough to allow safe passage to the wormhole.,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41150,41150,41150,41150,349,VERAD,Verad to Yeto.,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41151,41151,41151,41151,350,VERAD,Verad to Yeto.,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41152,41152,41152,41152,351,T'KAR,"Yeto, report.",68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41153,41153,41153,41153,352,VERAD,The doctor must have overpowered him.,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41154,41154,41154,41154,353,T'KAR,The doctor? Impossible. Unless...,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41155,41155,41155,41155,354,VERAD,"The shape-shifter. He must've freed the shape-shifter. T'Kar, get me to the ship.",68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41156,41156,41156,41156,355,MAREEL,"You better take a hostage, just in case.",68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41157,41157,41157,41157,356,SISKO,I'll go with you.,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41158,41158,41158,41158,357,VERAD,"I'd love your company, Benjamin. But somehow I don't think you have my best interests at heart. Kira, I hate to inconvenience you, but...",68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41159,41159,41159,41159,358,KIRA,,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41160,41160,41160,41160,359,VERAD,Mareel...,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41161,41161,41161,41161,360,MAREEL,Good luck.,68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41162,41162,41162,41162,361,VERAD,"Well, Benjamin, I guess this is good-bye. Not many friendships last over two lifetimes. (beat, there's some honest regret here) I wish we could have made it three.",68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41163,41163,41163,41163,362,SISKO,"You'll be seeing me again, Verad.",68   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41164,41164,41164,41164,363,SISKO,So where's this rendezvous going to be?,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41165,41165,41165,41165,364,MAREEL,You don't really expect me to tell you?,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41166,41166,41166,41166,365,SISKO,"No, but I hope you like it there, because you'll be waiting for Verad a long time.",69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41167,41167,41167,41167,366,MAREEL,How would you know?,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41168,41168,41168,41168,367,SISKO,"You told me yourself. (a beat, off her reaction) I saw the look on your face when he asked you to wait for him...",69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41169,41169,41169,41169,368,MAREEL,The plan was that he was going to get there first... That he would wait for me... not the other way around.,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41170,41170,41170,41170,369,SISKO,(playing devil's advocate) I suppose it could've been an honest mistake... a slip of the tongue...,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41171,41171,41171,41171,370,MAREEL,No. He lied to me. He's never lied to me before. He's not coming. He doesn't need me anymore.,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41172,41172,41172,41172,371,SISKO,You're wrong. He does need you... now more than ever.,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,-0.4767
+41173,41173,41173,41173,372,MAREEL,"(knows what he's getting at) You never give up, do you. I told you, I'm not going to betray him.",69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.5216
+41174,41174,41174,41174,373,SISKO,I'm not asking you to. I'm asking you to save him... to help us save him.,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.8442
+41175,41175,41175,41175,374,MAREEL,All you care about is Jadzia.,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41176,41176,41176,41176,375,SISKO,That's right. And you care about Verad. And we can save them both.,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41177,41177,41177,41177,376,SISKO,"Don't you see, Dax and Verad were never meant to be joined. We've got to remove the symbiont while there's still time.",69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41178,41178,41178,41178,377,MAREEL,"If you hurt him, I'll kill you.",69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41179,41179,41179,41179,378,SISKO,I don't doubt it.,69   INT. OPS,OPS,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41180,41180,41180,41180,379,VERAD,The ship... it's gone.,73   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41181,41181,41181,41181,380,ODO,That's because I released the docking clamps.,73   INT. DOCKING BAY,DOCKING BAY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41182,41182,41182,41182,381,SISKO,"Looks like that ""goodbye"" was a little premature.",80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41183,41183,41183,41183,382,VERAD,Don't be ridiculous. You're not going to shoot me.,80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41184,41184,41184,41184,383,SISKO,What makes you so sure?,80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41185,41185,41185,41185,384,VERAD,"This is Dax you're talking to, Benjamin. We both know that if you shoot me, even on stun, you risk killing the symbiont.",80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41186,41186,41186,41186,385,SISKO,"If I let you go, Jadzia dies.",80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41187,41187,41187,41187,386,VERAD,"But Dax will live. What's one girl's life, compared to eight lifetimes of knowledge and experience?",80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41188,41188,41188,41188,387,VERAD,You're not going to shoot me. You know that... and so do I.,80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41189,41189,41189,41189,388,VERAD,"Goodbye, Benjamin.",80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41190,41190,41190,41190,389,SISKO,Verad...,80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41191,41191,41191,41191,390,SISKO,Don't call me Benjamin.,80   INT. RUNABOUT AIRLOCK,RUNABOUT AIRLOCK,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41192,41192,41192,41192,391,VERAD,I feel strange. So... (realizes what has happened) Empty.,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41193,41193,41193,41193,392,SISKO,It's over Verad. The symbiont is back where it belongs.,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41194,41194,41194,41194,393,VERAD,So close. I had it. I had it and now... I'm alone...,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41195,41195,41195,41195,394,MAREEL,"You're not alone, Verad. I'm here. I'll always be here.",86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41196,41196,41196,41196,395,VERAD,I can't remember any of it... the knowledge... the confidence... It's all gone.,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41197,41197,41197,41197,396,BASHIR ,Commander?,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41198,41198,41198,41198,397,SISKO,Jadzia.,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41199,41199,41199,41199,398,SISKO,Are you...,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41200,41200,41200,41200,399,DAX,I'm fine...,86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41201,41201,41201,41201,400,DAX,"I remember it all, Benjamin. Everything he thought... everything he did... and it's so... sad. I guess he'll always be with me now...",86   INT. SURGERY,SURGERY,INT.,Invasive Procedures,1993-07-29,Deep Space Nine,424.txt,0.0
+41202,41202,41202,41202,0,VIC,"Hey, it's been four hundred years but that little number still works for me.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41203,41203,41203,41203,1,BASHIR,Isn't he incredible?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41204,41204,41204,41204,2,WORF,I prefer Klingon Opera.,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41205,41205,41205,41205,3,BASHIR,"C'mon, I'll introduce you.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41206,41206,41206,41206,4,KIRA,To a hologram?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41207,41207,41207,41207,5,ODO,"Doctor, is this absolutely necessary?",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41208,41208,41208,41208,6,BASHIR,"Trust me, he's not like any hologram you've ever met.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41209,41209,41209,41209,7,BASHIR,"That was brilliant, Vic. Really, terrific.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41210,41210,41210,41210,8,VIC,"Thanks, Doc. I know what you're thinking -- he has pretty sweet pipes for a light bulb.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41211,41211,41211,41211,9,DAX,Light bulb?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41212,41212,41212,41212,10,VIC,"That's what I am, right? A collection of photons and forcefields... you know, your basic heuristic, fully interactive hologram.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41213,41213,41213,41213,11,O'BRIEN,He knows he's a hologram?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41214,41214,41214,41214,12,BASHIR,Felix designed him that way. He thought it gave him an attitude that was appropriate for the era.,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41215,41215,41215,41215,13,VIC,"If you're going to work Vegas in the sixties, you better know the score. otherwise, you'll look like a Clyde.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41216,41216,41216,41216,14,KIRA,A Clyde?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41217,41217,41217,41217,15,VIC,"You know, a Harvey.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41218,41218,41218,41218,16,WORF,Harvey?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41219,41219,41219,41219,17,VIC,"A square -- you know what a square is, right?",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41220,41220,41220,41220,18,O'BRIEN,One side of a cube?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41221,41221,41221,41221,19,VIC,I guess that answers my question.,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41222,41222,41222,41222,20,VIC,"(to Bashir, re: the group) Where are your manners, Julian? Aren't you going to introduce me to your entourage?",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41223,41223,41223,41223,21,BASHIR,"Oh, sorry... Commanders Dax and Worf -- -- meet Vic Fontaine.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41224,41224,41224,41224,22,VIC,"So, how long have you kids been married?",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41225,41225,41225,41225,23,WORF,How did you know we were married?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41226,41226,41226,41226,24,VIC,"When you sing in as many joints as I have, you become a student of the human heart. Don't beat yourself up, pallie -- just because you miss your wife, doesn't mean you've gone blind.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41227,41227,41227,41227,25,O'BRIEN,What's that supposed to mean?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41228,41228,41228,41228,26,VIC,It means there's a lot of very attractive ladies in the room and it's all right to look at them -- as long as you don't touch.,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41229,41229,41229,41229,27,O'BRIEN,He's good.,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41230,41230,41230,41230,28,VIC,And as for you two --,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41231,41231,41231,41231,29,ODO,Yes?,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41232,41232,41232,41232,30,VIC,"Nevermind. Forget I brought it up. So, you have time for another song?",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41233,41233,41233,41233,31,BASHIR,"Not really. We've got to -- -- split. Catch you later, Vic.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41234,41234,41234,41234,32,VIC,You know where to find me.,1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41235,41235,41235,41235,33,VIC,"By the way, this is a high-class joint. That means coat and ties for the gents, dresses for the ladies. You guys look like a trapeze act.",1    INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41236,41236,41236,41236,34,O'BRIEN,"C'mon, Julian -- you must've told him about Keiko.",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41237,41237,41237,41237,35,BASHIR,"I never said a word. Why don't we meet here tomorrow night at twenty-one hundred? We can listen to Vic's whole set, then hit the casinos, play a little blackjack, roulette...",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41238,41238,41238,41238,36,DAX,We'll be there. Right?,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41239,41239,41239,41239,37,WORF,I still prefer Klingon Opera.,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41240,41240,41240,41240,38,KIRA,Count me out. I'm leaving for Bajor in the morning.,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41241,41241,41241,41241,39,DAX,"Oh, that's right -- I forgot. Say hi to Shakaar for me.",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41242,41242,41242,41242,40,DAX,Sorry. Pretend you didn't hear that. She doesn't want anyone to know she's visiting the First Minister.,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41243,41243,41243,41243,41,BASHIR,Business or pleasure?,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41244,41244,41244,41244,42,KIRA,You see what you started?,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41245,41245,41245,41245,43,DAX,I said I was sorry.,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41246,41246,41246,41246,44,BASHIR,"So, what did you think?",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41247,41247,41247,41247,45,O'BRIEN,About what?,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41248,41248,41248,41248,46,BASHIR,"About Vic -- clever, isn't he?",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41249,41249,41249,41249,47,O'BRIEN,Too clever.,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41250,41250,41250,41250,48,BASHIR,"(holding up the isolinear rod) I tell you, Miles, I owe this man. If it wasn't for Vic, I wouldn't be dating Ensign Walker.",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41251,41251,41251,41251,49,O'BRIEN,What are you talking about?,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41252,41252,41252,41252,50,BASHIR,"She turned down three dinner invitations. I talked to Vic, he gave me some... pointers. And voila.",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41253,41253,41253,41253,51,O'BRIEN,"Julian, are you telling me you discussed your love life with a hologram?",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41254,41254,41254,41254,52,BASHIR,"Vic's not an ordinary hologram. He knows about life, love, women...",4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41255,41255,41255,41255,53,O'BRIEN,Three things you know nothing about.,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41256,41256,41256,41256,54,BASHIR,Now that's unfair.,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41257,41257,41257,41257,55,O'BRIEN,Then why are you asking for advice from a light bulb?,4    INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41258,41258,41258,41258,56,QUARK,I don't know why you're so surprised -- what did you expect was going to happen?,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41259,41259,41259,41259,57,ODO,I wasn't expecting anything.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41260,41260,41260,41260,58,QUARK,I see. How long has it been since the major and Shakaar broke up?,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41261,41261,41261,41261,59,ODO,I don't know... about a year.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41262,41262,41262,41262,60,QUARK,"It's been over a year. You've had plenty of time to... (searching for the right words) ... arrange a merger with Kira. But in all that time, have you even tried to open negotiations? No.",7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41263,41263,41263,41263,61,ODO,It's not that simple.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41264,41264,41264,41264,62,QUARK,"Odo, the woman waited a year for you to make an offer -- any kind of an offer.",7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41265,41265,41265,41265,63,QUARK ,"Face it, you had plenty of opportunities and you let them all slip away!",7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41266,41266,41266,41266,64,ODO,Who asked your opinion?,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41267,41267,41267,41267,65,QUARK,You did. I came here to talk about a missing shipment of groat clusters. You're the one that started talking about the major.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41268,41268,41268,41268,66,QUARK,You want my advice?,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41269,41269,41269,41269,67,ODO,No.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41270,41270,41270,41270,68,QUARK,Make it easy on both of us and forget all about her.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41271,41271,41271,41271,69,ODO,Is that the best you can do?,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41272,41272,41272,41272,70,QUARK,I'd like to see someone do better.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41273,41273,41273,41273,71,ODO,So would I.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41274,41274,41274,41274,72,QUARK,"You're not exactly the most lovable person in the galaxy. You're not even the most lovable guy in this sector. Or on this station. Or even in this room. You're cold, remote, rigid... Can I go now?",7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41275,41275,41275,41275,73,ODO,Please do.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41276,41276,41276,41276,74,ODO,Wait.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41277,41277,41277,41277,75,QUARK,Make up your mind.,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41278,41278,41278,41278,76,ODO,I need a favor from you. It's about Doctor Bashir's new holosuite program...,7    INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41279,41279,41279,41279,77,QUARK,"You're up late, doctor.",10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41280,41280,41280,41280,78,BASHIR,"I couldn't sleep. I'm feeling a little tense, actually...",10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41281,41281,41281,41281,79,QUARK,"I've got just the thing -- one warp core breach, coming right up.",10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41282,41282,41282,41282,80,QUARK,Couple of sips of this and you'll be relaxed for the next three days.,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41283,41283,41283,41283,81,BASHIR,(reacting to the size of the goblet) I'm not that tense. I think I'll pop up to the holosuites for a bit and --,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41284,41284,41284,41284,82,QUARK,The holosuites?,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41285,41285,41285,41285,83,BASHIR,That's right. If you could just hand over my new program...,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41286,41286,41286,41286,84,QUARK,"Sorry, doctor, all the holosuites are in use.",10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41287,41287,41287,41287,85,BASHIR,At this hour?,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41288,41288,41288,41288,86,QUARK,It's been that kind of night.,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41289,41289,41289,41289,87,QUARK,I'm afraid there won't be one available for the rest of this evening.,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41290,41290,41290,41290,88,BASHIR,"That's unfortunate. Oh, well..",10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41291,41291,41291,41291,89,BASHIR,... maybe I'll wake up Miles -- see if he wants to play some tongo.,10   INT. QUARK'S,QUARK'S,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41292,41292,41292,41292,90,VIC,"I remember back in... must've been fifty-eight, I was playing the Sands. One night, Frank and Dean dropped by and we ended up taking over one of the blackjack tables. Between the three of us, we must've dropped fifteen big ones -- and believe me, back then that wasn't chump change. So, Frankie goes over to the pit boss, what was his name --",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41293,41293,41293,41293,91,ODO,"Look, Mister Fontaine",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41294,41294,41294,41294,92,VIC,Vic.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41295,41295,41295,41295,93,ODO,"Vic. These are all very interesting stories, but I didn't come here to reminisce about your past. Yesterday, when my friends and I were here... you seemed to know things.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41296,41296,41296,41296,94,VIC,I've been around the block a couple of times.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41297,41297,41297,41297,95,ODO,"I mean specific things. For instance, you knew that Dax and Worf were married and that the chief missed his wife.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41298,41298,41298,41298,96,VIC,You don't have to be an Einstein to clue into any of that.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41299,41299,41299,41299,97,ODO,"At one point, you were going to make an observation about Major Kira and myself.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41300,41300,41300,41300,98,VIC,"I thought about it... but I didn't want to embarrass anyone -- you know, give away any secrets.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41301,41301,41301,41301,99,ODO,"Exactly what ""secrets"" are you talking about?",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41302,41302,41302,41302,100,VIC,"C'mon -- do I really have to connect the dots? You're crazy about the broad. But you're afraid to do anything about it. And she... well, you know.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41303,41303,41303,41303,101,ODO,Go on.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41304,41304,41304,41304,102,VIC,It's the oldest story in the book. She thinks of you as a friend.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41305,41305,41305,41305,103,ODO,I wouldn't call that a secret.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41306,41306,41306,41306,104,VIC,But women have been known to change their minds. You just have to give them a reason.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41307,41307,41307,41307,105,ODO,You make it sound so easy.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41308,41308,41308,41308,106,VIC,That's because it's not that hard. The girl already likes you. That means you're halfway home.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41309,41309,41309,41309,107,ODO,She's aware of my feelings toward her. The truth is she prefers Shakaar.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41310,41310,41310,41310,108,VIC,Who?,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41311,41311,41311,41311,109,ODO,"The First Minister of Bajor. A leader, a hero, a man with great charisma...",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41312,41312,41312,41312,110,VIC,I don't care if he's JFK. It's not the other guy you have to worry about -- it's you.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41313,41313,41313,41313,111,ODO,Me?,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41314,41314,41314,41314,112,VIC,That's right. For starters -- you've got to lose this whole Nanook of the North thing.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41315,41315,41315,41315,113,ODO,I don't understand.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41316,41316,41316,41316,114,VIC,"I mean, you've got about as much personality as an icicle. Cool is one thing, but you're frozen solid.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41317,41317,41317,41317,115,ODO,"You think I have no emotions? Believe me, I do. I just don't always show them.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41318,41318,41318,41318,116,VIC,And therein lies the problem.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41319,41319,41319,41319,117,VIC,Come with me.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41320,41320,41320,41320,118,ODO,Where to?,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41321,41321,41321,41321,119,VIC,"Look, pallie, if you want to win the girl, we gotta thaw you out a little bit. Turn up the heat -- get those ""emotions"" you claim to have bubbling to the surface. It's time to have some fun.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41322,41322,41322,41322,120,ODO,What does fun have to do with Major Kira?,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41323,41323,41323,41323,121,VIC,I'll pretend I didn't hear that.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41324,41324,41324,41324,122,VIC,"First, let's lose those threads. There's nothing like a tuxedo to make you feel like a million bucks.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41325,41325,41325,41325,123,ODO,You mean something like this --,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41326,41326,41326,41326,124,VIC,Very sharp. (gesturing toward the stage) After you.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41327,41327,41327,41327,125,ODO,I don't sing.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41328,41328,41328,41328,126,VIC,"Glad to hear it -- I don't need the competition. What I do need is someone to handle the black and whites. My pianist just threw ten sevens in a row at the craps table and took off for Reno. So take a seat, my friend, the crowd's getting restless.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41329,41329,41329,41329,127,ODO,What crowd?,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41330,41330,41330,41330,128,VIC,That one --,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41331,41331,41331,41331,129,VIC,"Good evening ladies and gentlemen, I'm Vic Fontaine.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41332,41332,41332,41332,130,VIC,"Tonight's going to be a gas. Hit it, Nanook.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41333,41333,41333,41333,131,ODO,But I don't play the piano.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41334,41334,41334,41334,132,VIC,Wanna bet?,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41335,41335,41335,41335,133,VIC,"Stay with me, pallie.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41336,41336,41336,41336,134,ODO,You don't need me -- the piano's doing all the work.,11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41337,41337,41337,41337,135,VIC,"That's not the point. You've got to sell it. Style, baby, style. Make 'em believe.",11   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41338,41338,41338,41338,136,VIC,Bottoms up.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41339,41339,41339,41339,137,ODO,I don't drink.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41340,41340,41340,41340,138,VIC,"Why am I not surprised? It's not real booze. You're in a holosuite, remember?",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41341,41341,41341,41341,139,VIC,"So, how'd you like being in the spotlight?",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41342,41342,41342,41342,140,ODO,It was very bright.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41343,41343,41343,41343,141,VIC,That's all you've got to say?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41344,41344,41344,41344,142,ODO,The lights kept me from seeing the audience. I suppose that's why I never felt nervous.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41345,41345,41345,41345,143,VIC,Nothing to be nervous about. You were too busy having fun.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41346,41346,41346,41346,144,ODO,I suppose I was.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41347,41347,41347,41347,145,ODO,I'm just grateful none of my friends saw me.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41348,41348,41348,41348,146,VIC,"(shaking his head in despair) There you go, tensing up again. I mean look at you, standing there like a statue. The only things you're going to attract are pigeons. Now sit down, relax, and take a couple of deep breaths. Do that, and everything you want will come to you.",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41349,41349,41349,41349,147,ODO,Is that all it takes?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41350,41350,41350,41350,148,VIC,Try it. Go on.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41351,41351,41351,41351,149,VIC,See.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41352,41352,41352,41352,150,ODO,Are you expecting someone?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41353,41353,41353,41353,151,VIC,Let's find out.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41354,41354,41354,41354,152,GINGER,Surprise!,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41355,41355,41355,41355,153,VIC,"For crying out loud, what are you two lovely ladies doing here?",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41356,41356,41356,41356,154,MELISSA,"You invited us, remember?",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41357,41357,41357,41357,155,VIC,"Oh, that's right! Come on in. Odo -- we've got company.",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41358,41358,41358,41358,156,GINGER,"Look -- it's the piano player. We saw you perform tonight. Melissa thinks you're ""adorable.""",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41359,41359,41359,41359,157,VIC,Show her your hands.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41360,41360,41360,41360,158,MELISSA,I knew it. They're so artistic.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41361,41361,41361,41361,159,GINGER,"You know, I once played on the same bill with Liberace. He has the sweetest dimples.",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41362,41362,41362,41362,160,MELISSA,Are you classically trained?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41363,41363,41363,41363,161,ODO,Actually...,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41364,41364,41364,41364,162,ODO,... Vic taught me everything I know.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41365,41365,41365,41365,163,MELISSA,Is he a good student?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41366,41366,41366,41366,164,VIC,Head of his class.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41367,41367,41367,41367,165,MELISSA,Maybe I can help you get your diploma.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41368,41368,41368,41368,166,VIC,"All right, ladies. The night is young and I have a table waiting for us at the Dunes.",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41369,41369,41369,41369,167,GINGER,We're going to see Shecky?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41370,41370,41370,41370,168,ODO,Shecky who?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41371,41371,41371,41371,169,MELISSA,You didn't tell me he had a sense of humor.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41372,41372,41372,41372,170,GINGER,He plays the piano and he's funny. Kinda like Victor Borge.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41373,41373,41373,41373,171,ODO,Who?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41374,41374,41374,41374,172,MELISSA,I think I'm in love.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41375,41375,41375,41375,173,VIC,"After you, ladies.",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41376,41376,41376,41376,174,ODO,I don't think --,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41377,41377,41377,41377,175,VIC,What are you worried about? Melissa's a very nice girl.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41378,41378,41378,41378,176,ODO,I'm sure she is. It's just... she's not Kira.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41379,41379,41379,41379,177,VIC,"Tell me something, how do you get to Carnegie Hall?",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41380,41380,41380,41380,178,ODO,I have no idea.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41381,41381,41381,41381,179,VIC,Practice! Practice! Practice! Get it?,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41382,41382,41382,41382,180,ODO,No.,21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41383,41383,41383,41383,181,VIC,"Think of this evening as a trial run. Trust me, you're going to do great.",21   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41384,41384,41384,41384,182,ODO,Here's the report on that smuggling ring you requested. Do you want me to inform the Zevian authorities?,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41385,41385,41385,41385,183,SISKO,I'll let you know in a minute.,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41386,41386,41386,41386,184,ODO,"... no, no, they can't take that away from me.",23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41387,41387,41387,41387,185,ODO,... the way your smile just beams --,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41388,41388,41388,41388,186,ODO,"Yes, captain?",23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41389,41389,41389,41389,187,SISKO,Don't stop on my account.,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41390,41390,41390,41390,188,ODO,Stop what?,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41391,41391,41391,41391,189,SISKO,You were singing.,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41392,41392,41392,41392,190,ODO,I was singing?,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41393,41393,41393,41393,191,SISKO,"(throwing the lyrics back at him) ""No, no, they can't take that away from me... """,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41394,41394,41394,41394,192,ODO,You're right. I was singing.,23   INT. CAPTAIN'S OFFICE,CAPTAIN'S OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41395,41395,41395,41395,193,DAX,Julian.,24   INT. HABITAT RING CORRIDOR,HABITAT RING CORRIDOR,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41396,41396,41396,41396,194,BASHIR,Good morning.,25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41397,41397,41397,41397,195,DAX,Ops. I wonder... should you ask Kira about Shakaar or should I?,25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41398,41398,41398,41398,196,BASHIR,"You can do the honors, but you'll have to wait. The major's staying on Bajor for two more days.",25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41399,41399,41399,41399,197,DAX,She and Shakaar must be having a good time.,25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41400,41400,41400,41400,198,BASHIR,That would be my guess.,25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41401,41401,41401,41401,199,DAX,Poor Odo.,25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41402,41402,41402,41402,200,BASHIR,Odo? What's he got to do with it?,25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41403,41403,41403,41403,201,DAX,Not a thing. That's the problem.,25   INT. TURBOLIFT,TURBOLIFT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41404,41404,41404,41404,202,VIC,"-- thank you, thank you for that kind applause. Keep clapping. There's a fly buzzing the room and one of you is bound to nail him.",28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41405,41405,41405,41405,203,VIC,"Why the long face, buddy-boy?",28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41406,41406,41406,41406,204,ODO,You still haven't told me what I'm supposed to do about Kira and Shakaar.,28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41407,41407,41407,41407,205,VIC,Shakaar? Forget about that fink -- I'll bet he doesn't look half as good in a tux as you do.,28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41408,41408,41408,41408,206,ODO,What difference does that make?,28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41409,41409,41409,41409,207,VIC,You've been coming here every night for a week. Have I steered you wrong?,28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41410,41410,41410,41410,208,ODO,No.,28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41411,41411,41411,41411,209,VIC,Then trust your Uncle Vic.,28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41412,41412,41412,41412,210,VIC,"Ladies and gentlemen, we have a very special surprise for you tonight. If this babe doesn't raise your temperature, you'd better check the obituary column, because chances are, you're in it, pallie. Let's have a nice warm round of applause for Miss Lola Chrystal.",28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41413,41413,41413,41413,211,VIC,Remind you of anyone?,28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41414,41414,41414,41414,212,VIC,"Don't look now, but I think she likes you.",28   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41415,41415,41415,41415,213,VIC ,A toast,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41416,41416,41416,41416,214,VIC,"As Georgie Jessel once said, ""To whatever makes you happy.""",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41417,41417,41417,41417,215,LOLA,My thoughts exactly.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41418,41418,41418,41418,216,VIC,"I think I'll turn in. You two lovebirds can live without me, I trust?",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41419,41419,41419,41419,217,LOLA,We'll manage.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41420,41420,41420,41420,218,ODO,You have a beautiful voice.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41421,41421,41421,41421,219,LOLA,And you have beautiful hands.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41422,41422,41422,41422,220,ODO,So I've been told.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41423,41423,41423,41423,221,LOLA,"They feel good, too.",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41424,41424,41424,41424,222,ODO,So do you. I've been waiting to hold you like this for as long as I can remember.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41425,41425,41425,41425,223,LOLA,But we just met tonight.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41426,41426,41426,41426,224,ODO,I must have a short memory.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41427,41427,41427,41427,225,LOLA,You're funny.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.4404
+41428,41428,41428,41428,226,ODO,Kind of like Victor Borge?,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41429,41429,41429,41429,227,LOLA,How'd you know?,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41430,41430,41430,41430,228,ODO,I can't do this...,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41431,41431,41431,41431,229,LOLA,Why not?,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41432,41432,41432,41432,230,ODO,"I'm sorry, it has nothing to do with you. Vic!",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41433,41433,41433,41433,231,VIC,What's wrong?,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41434,41434,41434,41434,232,ODO,This isn't working.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41435,41435,41435,41435,233,VIC,I thought you two were getting along just fine.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.2023
+41436,41436,41436,41436,234,ODO,"Of course we are. You've programmed her to find me irresistible. If I read her a criminal activities report, she'd think it was poetry.",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,-0.25
+41437,41437,41437,41437,235,VIC,You want me to reprogram her -- make her play hard to get?,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.3182
+41438,41438,41438,41438,236,ODO,She's nothing like Kira.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,-0.2755
+41439,41439,41439,41439,237,LOLA,Who's Kira?,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41440,41440,41440,41440,238,VIC,Of course she's not Kira -- she's a hologram.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41441,41441,41441,41441,239,LOLA,A what?,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41442,41442,41442,41442,240,VIC,"Sweetheart, please. Stay out of this. Do you know how difficult it was for me to get a holographic image of Major Kira?",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41443,41443,41443,41443,241,VIC ,"Lucky for you, Julian used her image in one of his spy programs -- though it did take me an hour to get rid of the Russian accent.",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41444,41444,41444,41444,242,ODO,I appreciate all you've done for me.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41445,41445,41445,41445,243,ODO ,"But I'm afraid it's all been in vain. I may be a Romeo in the holosuite, but I know the first time I see the real Kira, I'm going to turn back into Nanook of the North.",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41446,41446,41446,41446,244,VIC,At least you're starting to talk the talk.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41447,41447,41447,41447,245,ODO,I was hoping for a bit more than that.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41448,41448,41448,41448,246,VIC,Wait a minute. You can't give up now.,36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41449,41449,41449,41449,247,ODO,"I'm sorry, but I'm tired of discussing my feelings with a hologram.",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41450,41450,41450,41450,248,LOLA,"You're a hologram, too?",36   INT. HOLOSUITE/VIC'S HOTEL SUITE - NIGHT,HOLOSUITE/VIC'S HOTEL SUIT,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41451,41451,41451,41451,249,KIRA,"Hello, Odo.",40   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41452,41452,41452,41452,250,ODO,Major.,40   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41453,41453,41453,41453,251,KIRA,Anything interesting happen while I was gone?,40   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41454,41454,41454,41454,252,ODO,"Interesting? No, not at all. Actually, it's been rather dull.",40   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41455,41455,41455,41455,253,KIRA,Sorry to hear that.,40   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41456,41456,41456,41456,254,ODO,"Well, I'd better get back to work.",40   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41457,41457,41457,41457,255,VIC ,"Hey, doll-face... are you asleep?",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41458,41458,41458,41458,256,KIRA,How the hell did you get in here?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41459,41459,41459,41459,257,VIC,"I'm performing next door for Dax and Worf. I'm between sets, so I transferred my matrix from that holosuite to this one. Now I don't have much time --",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41460,41460,41460,41460,258,KIRA,What do you want?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41461,41461,41461,41461,259,VIC,We have to talk.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41462,41462,41462,41462,260,KIRA,About what?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41463,41463,41463,41463,261,VIC,"Odo, what else?",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41464,41464,41464,41464,262,KIRA,Odo?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41465,41465,41465,41465,263,VIC,"C'mon, major. Don't be coy. We both know he's nuts about you.",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41466,41466,41466,41466,264,KIRA,He told you that?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41467,41467,41467,41467,265,VIC,He tells me everything. We've been spending a lot of time together.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41468,41468,41468,41468,266,KIRA,Odo? Spending time in a holosuite?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41469,41469,41469,41469,267,VIC,And loving it.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41470,41470,41470,41470,268,KIRA,I'm sorry... but that's not the Odo I know.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41471,41471,41471,41471,269,VIC,Which tells you what? (answering his own question) You don't know him as well as you think you do. He's not the same stick-in-the-mud anymore. The cat can swing.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41472,41472,41472,41472,270,KIRA,Are you sure we're talking about the same Odo?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41473,41473,41473,41473,271,VIC,"The one and only. But let me tell you, the only chick he wants to swing with is you.",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41474,41474,41474,41474,272,KIRA,(not sure she follows the lingo) I take it that's a good thing.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41475,41475,41475,41475,273,VIC,"It's love, baby. Nothing better than that.",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41476,41476,41476,41476,274,KIRA,How'd you get in here again?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41477,41477,41477,41477,275,VIC,Don't try to change the subject -- we're talking about you and Odo.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41478,41478,41478,41478,276,KIRA,"No, that's what you're talking about. I'm trying to meditate.",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41479,41479,41479,41479,277,VIC,And I don't mean to interrupt --,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41480,41480,41480,41480,278,KIRA,"Good, then leave.",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41481,41481,41481,41481,279,VIC,Talk about your cranky aliens... you two really are made for each other. Which is why you've got to come to the holosuite tonight.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41482,41482,41482,41482,280,KIRA,What for?,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41483,41483,41483,41483,281,VIC,So you and Odo can have dinner together.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41484,41484,41484,41484,282,KIRA,"If Odo wants to have dinner with me, why doesn't he ask me himself?",41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41485,41485,41485,41485,283,VIC,Because I'm asking you for him.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41486,41486,41486,41486,284,VIC,And neither one of us will take no for an answer.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41487,41487,41487,41487,285,KIRA,Then I better say yes.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41488,41488,41488,41488,286,VIC,Crazy.,41   INT. HOLOSUITE/CAVES,HOLOSUITE/CAVES,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41489,41489,41489,41489,287,VIC,Odo? Can you hear me?,45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41490,41490,41490,41490,288,ODO,Vic -- what are you doing on the com-line?,45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41491,41491,41491,41491,289,VIC,I need to talk to you. I want you to come to the holosuite tonight.,45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41492,41492,41492,41492,290,ODO,Why?,45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41493,41493,41493,41493,291,VIC,"I've done a complete overhaul on the Lola hologram -- or should I say the Kira hologram? I'm telling you, Odo, you're going to think she's the real thing. She walks like Kira, talks like Kira...",45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41494,41494,41494,41494,292,ODO,Really? And how did you manage to accomplish that?,45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41495,41495,41495,41495,293,VIC,"I don't have time to explain now. I'll see you tonight, nine o'clock -- that's twenty-one hundred to you.",45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41496,41496,41496,41496,294,ODO,I know.,45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41497,41497,41497,41497,295,VIC,"I'll see you then, pallie.",45   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41498,41498,41498,41498,296,VIC,I believe you two know each other.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41499,41499,41499,41499,297,ODO,You look lovely.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41500,41500,41500,41500,298,KIRA,Thank you. So do you.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41501,41501,41501,41501,299,VIC,Mademoiselle.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41502,41502,41502,41502,300,VIC,I'll be your server this evening. I'll try not to spill anything.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41503,41503,41503,41503,301,VIC,"To begin, a little Dom Perignon, fifty-five...",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41504,41504,41504,41504,302,VIC,"And some oysters Rockefeller... ... to be followed by Caesar salad, Chateaubriand, and cherries jubilee.",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41505,41505,41505,41505,303,KIRA,It's all very interesting... ... but don't you feel a little silly being here in the holosuite?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41506,41506,41506,41506,304,ODO,A bit.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41507,41507,41507,41507,305,VIC,Let me know when you're ready for the salad.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41508,41508,41508,41508,306,ODO,Bon appetit.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41509,41509,41509,41509,307,ODO,"It's French. An Earth language. It means ""enjoy your meal.""",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41510,41510,41510,41510,308,KIRA,I didn't know you spoke French.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41511,41511,41511,41511,309,ODO,I don't. It's something I learned from Vic. French is the language of love.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41512,41512,41512,41512,310,KIRA,"Vic's a fountain of information, isn't he?",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41513,41513,41513,41513,311,ODO,"He's certainly a man of many talents. But we're really not here to talk about Vic, are we?",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41514,41514,41514,41514,312,KIRA,(finishing off the champagne) I'm certainly not.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41515,41515,41515,41515,313,ODO,I've always wondered what this would be like.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41516,41516,41516,41516,314,KIRA,You mean the two of us having dinner together?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41517,41517,41517,41517,315,ODO,This isn't quite the way I pictured it would be.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41518,41518,41518,41518,316,KIRA,It's a little unusual.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41519,41519,41519,41519,317,ODO,Is something wrong? You haven't touched your food.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,-0.4767
+41520,41520,41520,41520,318,KIRA,"It looks delicious, but I'm not really hungry. The truth is I'm a little nervous.",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41521,41521,41521,41521,319,ODO,You're nervous?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41522,41522,41522,41522,320,KIRA,"A little. I mean it is a first date, right?",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41523,41523,41523,41523,321,ODO,Right. There's nothing wrong with being a little nervous -- as long it doesn't get in the way.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41524,41524,41524,41524,322,KIRA,Of what?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41525,41525,41525,41525,323,ODO,Of enjoying yourself.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41526,41526,41526,41526,324,KIRA,I thought the only thing you really enjoyed was your work.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41527,41527,41527,41527,325,ODO,How'd you know that?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41528,41528,41528,41528,326,KIRA,You told me yourself.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41529,41529,41529,41529,327,ODO,"Well done, Vic.",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41530,41530,41530,41530,328,KIRA,Vic?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41531,41531,41531,41531,329,ODO,Never mind. (getting back to the conversation) I do enjoy my work. But I'm afraid I've used it as an excuse to avoid the rest of my life.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41532,41532,41532,41532,330,KIRA,I know the feeling.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41533,41533,41533,41533,331,KIRA,Pretty song.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41534,41534,41534,41534,332,ODO,"It is, isn't it?",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41535,41535,41535,41535,333,ODO,Are you sure you're not hungry?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41536,41536,41536,41536,334,KIRA,I'm sure. So what do we do now?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41537,41537,41537,41537,335,ODO,Only one thing we can do...,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41538,41538,41538,41538,336,ODO,Dance with me?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41539,41539,41539,41539,337,KIRA,I'm not sure I know how to dance to this kind of music.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41540,41540,41540,41540,338,ODO,Just stay close.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41541,41541,41541,41541,339,KIRA,I had no idea you could dance.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41542,41542,41542,41542,340,ODO,It's amazing what you can learn in a holosuite.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41543,41543,41543,41543,341,KIRA,I still can't believe we're having our first date in here.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41544,41544,41544,41544,342,KIRA,"I know you wouldn't feel comfortable in Quark's, but I know one or two out-of-the-way restaurants on the station.",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41545,41545,41545,41545,343,ODO,I don't think that's possible.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41546,41546,41546,41546,344,KIRA,Are you embarrassed to be seen with me?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41547,41547,41547,41547,345,ODO,"I meant it would be ""difficult"" for you to leave the holosuite.",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41548,41548,41548,41548,346,KIRA,Why?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41549,41549,41549,41549,347,ODO,It's complicated.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41550,41550,41550,41550,348,KIRA,Complicated? To leave the holosuite? You make it sound like I'm a hologram.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41551,41551,41551,41551,349,ODO,Aren't you?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41552,41552,41552,41552,350,KIRA,Is that what you think?,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41553,41553,41553,41553,351,ODO,Maybe you should tell her.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41554,41554,41554,41554,352,VIC,"There's nothing to tell. I'm good, pallie, but I'm not that good. You've been dancing with the real McCoy.",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41555,41555,41555,41555,353,ODO,You tricked me.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41556,41556,41556,41556,354,KIRA,And me.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41557,41557,41557,41557,355,VIC,"Hey, I brought you two lovebirds together. That was the whole idea, wasn't it?",47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41558,41558,41558,41558,356,ODO,Nerys... Kira... Major... I...,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41559,41559,41559,41559,357,VIC,Don't say it. Computer -- end program.,47   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41560,41560,41560,41560,358,VIC,Odo? Are you there?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41561,41561,41561,41561,359,ODO,I have nothing to say to you.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41562,41562,41562,41562,360,VIC,"Look, I know you think I sold you down the river...",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41563,41563,41563,41563,361,ODO,You lied to me.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41564,41564,41564,41564,362,VIC,It was for your own good. It was time for you to stop playing around with holograms and start playing around with the real thing.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41565,41565,41565,41565,363,ODO,You should've told me it was really Kira.,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41566,41566,41566,41566,364,VIC,Would you have shown up if I had?,58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41567,41567,41567,41567,365,VIC,"I don't hear an answer, pallie. If you think about it, there's not much to be mad about. I saw the way she looked at you while you two were dancing. The lady digs you. Big time.",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41568,41568,41568,41568,366,ODO,"She ""digs"" Shakaar. I can only imagine what she thinks of me. I kept insisting she was a hologram...",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41569,41569,41569,41569,367,VIC,"Odo, listen to me --",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41570,41570,41570,41570,368,ODO,"No -- I'm done listening to you. Computer, end transmission.",58   INT. SECURITY OFFICE,SECURITY OFFICE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41571,41571,41571,41571,369,DAX,Are you going to tell me what's wrong?,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41572,41572,41572,41572,370,KIRA,Nothing's wrong. Have you ever had a moment of pure clarity? A moment when the truth seemed to leap up and grab you by the throat?,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41573,41573,41573,41573,371,DAX,I bet this has something to do with your visit with Shakaar.,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41574,41574,41574,41574,372,KIRA,This has nothing to do with Shakaar. Now tell me -- have you ever had a moment like that?,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41575,41575,41575,41575,373,DAX,"One or two. Of course, that's over a span of seven lifetimes.",59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41576,41576,41576,41576,374,KIRA,You've had only two moments of clarity in seven lifetimes?,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41577,41577,41577,41577,375,DAX,"Nerys, total clarity is a very rare thing.",59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41578,41578,41578,41578,376,KIRA,I guess so.,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41579,41579,41579,41579,377,DAX,"And when it comes, it's important that you act on it. Because believe me, confusion and doubt will take over before you know it.",59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41580,41580,41580,41580,378,KIRA,You're absolutely right. It makes perfect sense...,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41581,41581,41581,41581,379,DAX,Don't tell me you're having another moment of clarity?,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41582,41582,41582,41582,380,KIRA,That's two in two days.,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41583,41583,41583,41583,381,DAX,Amazing.,59   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41584,41584,41584,41584,382,KIRA,Odo -- wait.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41585,41585,41585,41585,383,ODO,"Major, if you don't mind, I'd like to forget all about the last night.",61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41586,41586,41586,41586,384,KIRA,I don't think that's a very good idea. We need to talk about what happened.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41587,41587,41587,41587,385,ODO,(still looking for a way out) Very well. We can meet in my office in an hour.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41588,41588,41588,41588,386,KIRA,Let's discuss it over dinner.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41589,41589,41589,41589,387,ODO,Dinner?,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41590,41590,41590,41590,388,KIRA,You can pick the restaurant -- anywhere except a holosuite.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41591,41591,41591,41591,389,ODO,What about Shakaar? You think he would approve?,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41592,41592,41592,41592,390,KIRA,I don't care if he approves or not. Shakaar and I are friends -- that's all. Friends.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41593,41593,41593,41593,391,KIRA,The First Minister wanted me to update him on the war with the Dominion. My visit was strictly business. So... are we going to have dinner together or not?,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41594,41594,41594,41594,392,ODO,"And if we do, then what?",61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41595,41595,41595,41595,393,KIRA,I don't know... maybe we could go dancing.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41596,41596,41596,41596,394,ODO,"And after that, I suppose you'll expect me to kiss you.",61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41597,41597,41597,41597,395,KIRA,It's possible.,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41598,41598,41598,41598,396,ODO,Then who needs dinner? Why don't I get it over with and kiss you right now?,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41599,41599,41599,41599,397,KIRA,Why don't you?,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41600,41600,41600,41600,398,KIRA,You're right -- who needs dinner?,61   INT. PROMENADE,PROMENADE,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41601,41601,41601,41601,399,VIC,"... here in Vegas, there's only one way to make sure you don't lose any money. The moment you step off the plane, you walk right into the propellers.",66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41602,41602,41602,41602,400,VIC,"Odo -- long time, no see.",66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41603,41603,41603,41603,401,ODO,I've been busy.,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41604,41604,41604,41604,402,VIC,So I hear. Julian tells me that you and the major are quite an item.,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41605,41605,41605,41605,403,ODO,For the moment... but who knows how long it'll last.,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41606,41606,41606,41606,404,VIC,That's my Odo -- always ready to turn victory into defeat.,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41607,41607,41607,41607,405,ODO,I wanted to say thank you for all your help.,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41608,41608,41608,41608,406,VIC,"Anytime, pallie. Anytime.",66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41609,41609,41609,41609,407,VIC,Feel like sitting in on a number?,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41610,41610,41610,41610,408,ODO,Some other time.,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41611,41611,41611,41611,409,VIC,"Say hi to the major for me. Hey, do me a favor?",66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41612,41612,41612,41612,410,VIC,Leave the program running for a few minutes after you leave. I feel like singing.,66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41613,41613,41613,41613,411,ODO,"""Whatever makes you happy.""",66   INT. HOLOSUITE/LAS VEGAS LOUNGE - NIGHT,HOLOSUITE/LAS VEGAS LOUNG,INT.,His Way,1998-02-03,Deep Space Nine,544.txt,0.0
+41614,41614,41614,41614,0,SAHGI,"Peldor joi, Emissary.",1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41615,41615,41615,41615,1,SISKO,Peldor joi to you.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41616,41616,41616,41616,2,SISKO,Looks like the festival was a success.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41617,41617,41617,41617,3,KIRA,"Everyone seemed to enjoy it. Thank you, captain.",1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41618,41618,41618,41618,4,SISKO,For what?,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41619,41619,41619,41619,5,KIRA,For insisting that the festival take place in spite of the fact that we're in the middle of a war.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41620,41620,41620,41620,6,SISKO,War or no war -- we have a lot to be grateful for. It's important to remember that.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41621,41621,41621,41621,7,KIRA,"Yes, it is. Shouldn't you be heading over to the wardroom for the ceremony?",1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41622,41622,41622,41622,8,SISKO,I'm on my way.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41623,41623,41623,41623,9,ODO,Nerys -- I've been looking for you.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41624,41624,41624,41624,10,KIRA,I don't really feel like talking to you right now.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41625,41625,41625,41625,11,ODO,Don't you want to hear my side of the story?,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41626,41626,41626,41626,12,KIRA,No.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41627,41627,41627,41627,13,ODO,Somebody has to maintain order on the Promenade.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41628,41628,41628,41628,14,ODO,"I'd hardly call it an arrest -- he wasn't in the holding cell for more than an hour. Besides, he was breaking the law. Fundraising on the Promenade without a license is strictly forbidden. Station regulation fifteen-twenty-six, paragraph seven--",1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41629,41629,41629,41629,15,KIRA,Vedek Solis was collecting donations for Bajoran flood victims!,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41630,41630,41630,41630,16,ODO,"A very worthy cause. Nevertheless, station regulations are quite clear --",1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41631,41631,41631,41631,17,KIRA,I don't care about station regulations.,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41632,41632,41632,41632,18,ODO,Is that the Orb of Contemplation?,1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41633,41633,41633,41633,19,KIRA,"Good-bye, Odo.",1    INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41634,41634,41634,41634,20,ROSS,"... to Captain Benjamin Lafayette Sisko, in recognition of your remarkable leadership and meritorious conduct against the enemy, and in particular for acts of personal bravery displayed during the battle to retake Deep Space Nine, Starfleet Command is proud to award you the Christopher Pike Medal of Valor.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41635,41635,41635,41635,21,ROSS,"Congratulations, Ben.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41636,41636,41636,41636,22,SISKO,"Thank you, admiral.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41637,41637,41637,41637,23,DAX,(with a twinkle in her eyes) And to think... I knew him when he was just a callow youth.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41638,41638,41638,41638,24,O'BRIEN,I bet even then he showed signs of greatness.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41639,41639,41639,41639,25,DAX,Only with the ladies.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41640,41640,41640,41640,26,JAKE,I'd like to hear more about that.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41641,41641,41641,41641,27,WORF,Then let him tell you.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41642,41642,41642,41642,28,DAX,But he'll leave out all the good parts.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41643,41643,41643,41643,29,ROSS,"The medal usually comes with a lot more pomp and ceremony, but we figured you wouldn't want to be called back to Earth just to sit through a bad chicken dinner with a bunch of brass hats.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41644,41644,41644,41644,30,SISKO,"This suits me fine, admiral.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41645,41645,41645,41645,31,DAX,Now you have something else to put on your desk besides that baseball.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41646,41646,41646,41646,32,WORF,"What she means to say, captain, is that she can't think of anyone more deserving of this honor.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41647,41647,41647,41647,33,O'BRIEN,I certainly can't.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41648,41648,41648,41648,34,JAKE,"I'm proud of you, Dad.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41649,41649,41649,41649,35,ROSS,"If you'd excuse us, I'd like a word with Captain Sisko.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41650,41650,41650,41650,36,ROSS,"I've got good news for you, captain. Starfleet Command has decided we've been waging a defensive war long enough. They figure we're never going to win this thing unless we take the fight into Dominion territory.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41651,41651,41651,41651,37,ROSS,"I know, you've been saying that ever since the Romulans opened a second front against the Dominion. It took a while, but your message finally got through.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41652,41652,41652,41652,38,SISKO,When do we go?,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41653,41653,41653,41653,39,ROSS,That all depends on you.,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41654,41654,41654,41654,40,SISKO,Me?,2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41655,41655,41655,41655,41,ROSS,"That's right, Ben. Starfleet has chosen you to plan the invasion of Cardassia.",2    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41656,41656,41656,41656,42,BASHIR ,Finally.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41657,41657,41657,41657,43,BASHIR,I've been waiting for you to get out of that holosuite for twenty minutes.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41658,41658,41658,41658,44,DAX,"Sorry, Julian. We lost track of the time.",6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41659,41659,41659,41659,45,BASHIR,Doing what? You were supposed to be in there exercising. I don't see any sweat. Where are the bruises? The broken bones? The blood?,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41660,41660,41660,41660,46,WORF,We were... talking.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41661,41661,41661,41661,47,QUARK,For an hour and forty-five minutes?,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41662,41662,41662,41662,48,WORF,It's a private matter.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41663,41663,41663,41663,49,DAX,We're thinking about having a baby.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41664,41664,41664,41664,50,WORF,It was a private matter.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41665,41665,41665,41665,51,SISKO ,Sisko to Commander Worf. Please report to my office immediately.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41666,41666,41666,41666,52,WORF,Acknowledged.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41667,41667,41667,41667,53,DAX,You're both awfully quiet.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41668,41668,41668,41668,54,BASHIR,"I don't want to dampen your spirits, but I told you before you got married that, medically speaking, it wouldn't be easy for a Trill and a Klingon to have a child.",6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41669,41669,41669,41669,55,QUARK,And I'm worried the kid will end up looking like his father.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41670,41670,41670,41670,56,DAX,I hope she does.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41671,41671,41671,41671,57,BASHIR,A baby?,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41672,41672,41672,41672,58,QUARK,It's bad enough she married that Klingon psychopath.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41673,41673,41673,41673,59,BASHIR,"A baby... you know what this means, don't you?",6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41674,41674,41674,41674,60,QUARK,Their marriage is going to last longer than we thought.,6    INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41675,41675,41675,41675,61,WORF,"What about the Torg'Q system? Of all the targets along the border, it's the closest to Cardassia Prime.",8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41676,41676,41676,41676,62,GARAK,It's also the most heavily fortified.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41677,41677,41677,41677,63,WORF,True. But that could work to our advantage. The Dominion will never expect us to attack there.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41678,41678,41678,41678,64,O'BRIEN,The element of surprise might give us an initial advantage... but I'm not sure how long it would last. And I don't even want to think about our casualty figures...,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41679,41679,41679,41679,65,GARAK,"I recommend the Ventani System. I know it's a long way from Cardassia Prime, but its second planet was the birthplace of Tret Akleen -- the father of the Cardassian Empire.",8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41680,41680,41680,41680,66,GARAK ,To lose such sacred ground would be devastating to Cardassians everywhere. And a great propaganda victory for you.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41681,41681,41681,41681,67,WORF,"Even so, there is little strategic value in holding the Ventani System.",8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41682,41682,41682,41682,68,SISKO,And its loss would have no effect on the Jem'Hadar.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41683,41683,41683,41683,69,GARAK,True.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41684,41684,41684,41684,70,SISKO,"Something on your mind, Chief?",8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41685,41685,41685,41685,71,O'BRIEN,"What about the Chin'toka System, sir?",8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41686,41686,41686,41686,72,WORF,The Chin'toka System is protected by a fleet of Dominion ships.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41687,41687,41687,41687,73,O'BRIEN,"The last time we patrolled that section of the border, I noticed something strange about the warp signatures of their bigger ships... the cruisers, the destroyers...",8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41688,41688,41688,41688,74,SISKO,Go on.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41689,41689,41689,41689,75,O'BRIEN,They were slightly different from the first time we scanned them. The field variance readings seemed almost too synchronized.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41690,41690,41690,41690,76,SISKO,Are you suggesting that the warp signatures are fake? That those ships are no longer there?,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41691,41691,41691,41691,77,O'BRIEN,It's possible.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41692,41692,41692,41692,78,WORF,Why would the Dominion pull so many of their ships away from the border?,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41693,41693,41693,41693,79,GARAK,Perhaps they've been sent to the Romulan front.,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41694,41694,41694,41694,80,WORF,Then how many ships does the Dominion have at Chin'toka?,8    INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41695,41695,41695,41695,81,SISKO ,Five squadrons of Jem'Hadar attack ships.,9    INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41696,41696,41696,41696,82,SISKO,"At the moment, that's the entire Dominion ""fleet"" protecting the Chin'toka System.",9    INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41697,41697,41697,41697,83,MARTOK,Only five squadrons... It appears you've found the weak spot we've been looking for.,9    INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41698,41698,41698,41698,84,SISKO,Now all we have to do is convince the Romulans to join us.,9    INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41699,41699,41699,41699,85,MARTOK,That won't be an easy task. They're an arrogant and untrustworthy people.,9    INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41700,41700,41700,41700,86,ROSS,"Without their help, we'd have little chance of success.",9    INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41701,41701,41701,41701,87,MARTOK,"We will succeed. Mark my words. By this time next year, the three of us will drink bloodwine in the halls of Cardassia's Central Command.",9    INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41702,41702,41702,41702,88,DAMAR,You're worrying about nothing.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41703,41703,41703,41703,89,WEYOUN,"Am I? It's a mistake to underestimate our enemy, Damar. You're spreading our forces too thinly.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41704,41704,41704,41704,90,DAMAR,"Until we can find a way to bring reinforcements from the Gamma Quadrant, we have to make due with what we have. Besides, you told me we needed more ships on the Romulan front. So I sent them.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41705,41705,41705,41705,91,WEYOUN,"And in doing so, you left the Chin'toka System vulnerable.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41706,41706,41706,41706,92,DAMAR,Not as vulnerable as you think.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41707,41707,41707,41707,93,DAMAR ,"You see, we don't need starships to protect Chin'toka. Not anymore.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41708,41708,41708,41708,94,DAMAR,These are our new unmanned orbital weapon platforms. Their hulls are protected by regenerative forcefields and their arsenals include a thousand plasma torpedoes.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41709,41709,41709,41709,95,WEYOUN,I like them.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41710,41710,41710,41710,96,DAMAR,I thought you would. Which is why I've already ordered their deployment.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41711,41711,41711,41711,97,GLINN,"Legate Damar, excuse the interruption but we have a... problem.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41712,41712,41712,41712,98,DAMAR,What kind of problem?,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41713,41713,41713,41713,99,DUKAT ,Me.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41714,41714,41714,41714,100,DUKAT,Isn't anyone going to welcome me home?,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41715,41715,41715,41715,101,WEYOUN,"Heroes get welcomed home, Dukat. Not failures. Or have you forgotten that under your leadership the Dominion almost lost this war?",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41716,41716,41716,41716,102,DUKAT,"As I recall, you were right by my side, agreeing with every one of my decisions.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41717,41717,41717,41717,103,DAMAR,If you're here because of what happened to your daughter --,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41718,41718,41718,41718,104,DUKAT,"You disappoint me, Damar. I thought you, of all people, would be glad to see your old mentor. Besides, I don't hold you responsible for Ziyal's death. You may have fired the phaser, but it was Benjamin Sisko who forced your hand. And that's why I'm here.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41719,41719,41719,41719,105,DUKAT ,The time has come for me to take my revenge against the good captain.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,-0.128
+41720,41720,41720,41720,106,WEYOUN,"We're in the middle of a life- and-death struggle for control of the entire Alpha Quadrant, and all you care about is quenching your petty thirst for revenge. You haven't changed a bit, have you?",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,-0.5106
+41721,41721,41721,41721,107,DUKAT,"On the contrary, I'm a new man. I no longer have a need for conquest or power. I've moved beyond all that... I exist in a state of perfect clarity. A clarity I intend to share with the universe.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.8442
+41722,41722,41722,41722,108,WEYOUN,"You're right, Dukat. You have changed. You've gone from being a self-important egotist to a self-deluded madman. I hardly call that an improvement. I don't have time for this. Remove him.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41723,41723,41723,41723,109,DAMAR,Wait. Why did you come here?,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41724,41724,41724,41724,110,DUKAT,Isn't that obvious?,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41725,41725,41725,41725,111,DUKAT,To give you what you desire above all else. The Alpha Quadrant.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41726,41726,41726,41726,112,DUKAT,"All I need is a certain Bajoran artifact... one of the many that the Cardassians ""appropriated"" during the occupation.",12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41727,41727,41727,41727,113,WEYOUN,And how is this artifact going to help us?,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41728,41728,41728,41728,114,DUKAT,Let's just say it will make it possible for Dominion reinforcements to come through the wormhole and destroy Captain Sisko and the Federation once and for all.,12   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41729,41729,41729,41729,115,LETANT,"(to Sisko, re: Martok) Really, Captain, I see no reason why I should sit here while this Klingon jackal calls me a coward.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41730,41730,41730,41730,116,MARTOK,"Apparently, this ""jackal"" has more courage than the entire Romulan Senate.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41731,41731,41731,41731,117,LETANT,You see my point?,20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41732,41732,41732,41732,118,WORF,"General, you must try to remain calm.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41733,41733,41733,41733,119,MARTOK,"Calm? This is'no time for calm -- -- it's time to strike the enemy, strike them hard.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41734,41734,41734,41734,120,SISKO,We found their weak point. Now we need to exploit it.,20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41735,41735,41735,41735,121,MARTOK,"(to Sisko, re: Letant) But this p'tagh would rather sit home and count his dead.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41736,41736,41736,41736,122,LETANT,"If we invade Cardassia now, all we'll do is count our dead.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41737,41737,41737,41737,123,SISKO,"Gentlemen, please. We're allies, remember that.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41738,41738,41738,41738,124,MARTOK,What good is an ally that'll stab you in the back?,20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41739,41739,41739,41739,125,LETANT,"Notice the primitive rage in his eye... the uncontrolled brutality. Klingons can be quite entertaining, don't you agree? I think every Romulan zoo should have a pair.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41740,41740,41740,41740,126,SISKO,"Sit down, general. Save your anger for the Dominion.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41741,41741,41741,41741,127,SISKO,Senator -- you've studied our invasion plans...,20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41742,41742,41742,41742,128,LETANT,I have. And I remain convinced they're premature. Let the Dominion continue to send their fleets against us. We will annihilate them one by one.,20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41743,41743,41743,41743,129,ROSS,And they'll continue to rebuild their ships and send more.,20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41744,41744,41744,41744,130,WORF,The Dominion breed Jem'Hadar faster than we can destroy them.,20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41745,41745,41745,41745,131,SISKO,"The only way to achieve lasting victory is to demolish their shipyards, their weapon plants... to force them to retreat, deeper and deeper into their own territory until our ships surround their headquarters on Cardassia Prime and they have no choice but to surrender. I know it won't be easy... I know we'll pay a heavy price for every system we take from them. But, in the end, it's the only way to drive the Dominion out of the Alpha Quadrant. And that's a goal we all share. Klingons, Humans and Romulans.",20   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41746,41746,41746,41746,132,ODO,What am I going to do? Nerys hates me.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41747,41747,41747,41747,133,BASHIR,I envy you. At least hate is an emotion. All I get from Jadzia is indifference.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41748,41748,41748,41748,134,QUARK,"Me, too.",21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41749,41749,41749,41749,135,ODO,"For one brief moment, I was the happiest man in the universe. Now... it's over. I'll never be happy again.",21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41750,41750,41750,41750,136,BASHIR,I know what you mean.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41751,41751,41751,41751,137,QUARK,"Me, too.",21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41752,41752,41752,41752,138,ODO,What am I going to do without her?,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41753,41753,41753,41753,139,BASHIR,(still thinking of Dax) I wish I knew.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41754,41754,41754,41754,140,QUARK,"Me, too.",21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41755,41755,41755,41755,141,ODO,I guess there's nothing else to do but go back to work.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41756,41756,41756,41756,142,BASHIR,Good idea.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41757,41757,41757,41757,143,BASHIR,I think we cheered him up.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41758,41758,41758,41758,144,QUARK,"Me, too. I wish there was someone to cheer us up.",21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41759,41759,41759,41759,145,BASHIR,I know just the person.,21   INT. QUARK'S,QUARK'S,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41760,41760,41760,41760,146,BASHIR,"That was great, VIC.",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41761,41761,41761,41761,147,VIC,"It's not exactly the most requested song in my repertoire, but I'm glad you liked it. So why the long face, pallie?",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.8271
+41762,41762,41762,41762,148,BASHIR,It's a long story.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41763,41763,41763,41763,149,VIC,"This wouldn't be about Dax's baby, would it?",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41764,41764,41764,41764,150,QUARK,"What is he, a telepath?",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41765,41765,41765,41765,151,VIC,"No, I'm a hologram.",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41766,41766,41766,41766,152,BASHIR,A very smart hologram.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41767,41767,41767,41767,153,VIC,"It's simple. You take one beautiful, happily married filly... add the possibility of her giving birth to a foal, and what does it leave you? (not waiting for an answer) A couple of lovesick stallions that never got out of the starting gate.",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41768,41768,41768,41768,154,QUARK,You have any idea what he's talking about?,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41769,41769,41769,41769,155,VIC,I've got news for you two -- it's time to move onto greener pastures.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41770,41770,41770,41770,156,BASHIR,It's not easy to lose a woman like Dax.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41771,41771,41771,41771,157,VIC,"I hate to break it to you, pallie, but you lost her a long time ago. You both did.",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41772,41772,41772,41772,158,VIC,"But lucky for you, space is big. There are a lot of other nice girls out there... with and without spots. Capice?",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41773,41773,41773,41773,159,QUARK,That's it? That's supposed to cheer us up?,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.5661
+41774,41774,41774,41774,160,VIC,The truth shall set you free.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.6808
+41775,41775,41775,41775,161,QUARK,Do you feel better?,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.4404
+41776,41776,41776,41776,162,BASHIR,A little. How about you?,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41777,41777,41777,41777,163,QUARK,I guess.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41778,41778,41778,41778,164,VIC,Good. Because you were starting to depress the band.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41779,41779,41779,41779,165,BASHIR,"Thanks, Vic. We appreciate the advice.",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41780,41780,41780,41780,166,QUARK,(looking around the room) I like this place. I may have to drop by more often.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41781,41781,41781,41781,167,VIC,"Anytime, pallie, anytime.",22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41782,41782,41782,41782,168,VIC,Nice guys. But absolutely clueless.,22   INT. HOLOSUITE - LAS VEGAS LOUNGE,HOLOSUIT,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41783,41783,41783,41783,169,SISKO,What do you think?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41784,41784,41784,41784,170,JAKE,I think the Romulans have agreed to invade Cardassia.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41785,41785,41785,41785,171,SISKO,How'd you know?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41786,41786,41786,41786,172,JAKE,The jambalaya's perfect. When you're frustrated about something you usually overcook the rice.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41787,41787,41787,41787,173,SISKO,You never told me that before.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41788,41788,41788,41788,174,JAKE,I'm telling you now. So when do we leave?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41789,41789,41789,41789,175,SISKO,We?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41790,41790,41790,41790,176,JAKE,"I'm a journalist, Dad. Remember?",24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41791,41791,41791,41791,177,SISKO,"Forget it, Jake. You're not going.",24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41792,41792,41792,41792,178,JAKE,"But, Dad -- we're talking about the invasion of Cardassia. A savage thrust into the very heart of the Dominion. That's not how I would write it.",24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41793,41793,41793,41793,179,SISKO,"That's a relief, but you're still not going.",24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41794,41794,41794,41794,180,JAKE,"I have to go. It's my job. Now if you don't want me on the Defiant, fine. I'll go with General Martok -- get the story from a Klingon perspective...",24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41795,41795,41795,41795,181,SISKO,All right. The Defiant it is.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41796,41796,41796,41796,182,JAKE,So when do we leave?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41797,41797,41797,41797,183,SISKO,Just keep your bags packed.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41798,41798,41798,41798,184,JAKE,"Yes, sir.",24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41799,41799,41799,41799,185,SISKO,Where are you going?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41800,41800,41800,41800,186,JAKE,To pack my bags.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41801,41801,41801,41801,187,SISKO,Do I have to remind you about the need for strict security?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41802,41802,41802,41802,188,JAKE,You just did.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41803,41803,41803,41803,189,SISKO,What about your dinner?,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41804,41804,41804,41804,190,JAKE,It's delicious.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.5719
+41805,41805,41805,41805,191,SISKO,Jake.,24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41806,41806,41806,41806,192,JAKE,"Don't worry, Dad. We'll look out for each other.",24   INT. SISKO'S QUARTERS,SISKO'S QUARTERS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.3412
+41807,41807,41807,41807,193,WORF/ALIEN,The Sisko is of Bajor.,26   INT. OPS (OPTICAL) ,OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41808,41808,41808,41808,194,MARTOK/ALIEN,It is where he belongs.,27   INT. WARDROOM (OPTICAL),WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41809,41809,41809,41809,195,ROSS/ALIEN,It is where he is meant to be.,28   INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41810,41810,41810,41810,196,SISKO,Are you telling me not to go to Cardassia?,28   INT. CAPTAIN'S OFFICE (OPTICAL),CAPTAIN'S OFFICE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41811,41811,41811,41811,197,LETANT/ALIEN,You are the Sisko.,29   INT. HABITAT RING CORRIDOR (OPTICAL) ,HABITAT RING CORRIDOR,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41812,41812,41812,41812,198,ROSS/ALIEN,The Sisko is of Bajor.,30   INT. OPS (OPTICAL),OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41813,41813,41813,41813,199,MARTOK/ALIEN,It is dangerous to walk a different path.,30   INT. OPS (OPTICAL),OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,-0.4767
+41814,41814,41814,41814,200,SISKO,Dangerous? In what way?,30   INT. OPS (OPTICAL),OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41815,41815,41815,41815,201,ROSS/ALIEN,The Sisko must not leave the chosen path.,30   INT. OPS (OPTICAL),OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0382
+41816,41816,41816,41816,202,WORF/ALIEN,The Sisko is of Bajor.,30   INT. OPS (OPTICAL),OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41817,41817,41817,41817,203,LETANT/ALIEN,It is where he belongs.,30   INT. OPS (OPTICAL),OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41818,41818,41818,41818,204,SISKO,But why is it dangerous for me to leave? Does it have something to do with Bajor? You have to tell me --,30   INT. OPS (OPTICAL),OPS,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41819,41819,41819,41819,205,ROSS ,The Cardassians call them orbital weapon platforms.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41820,41820,41820,41820,206,ROSS,Intelligence reports indicate that the Dominion is placing hundreds of them throughout the Chin'toka System.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41821,41821,41821,41821,207,SISKO,Are they operational?,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41822,41822,41822,41822,208,ROSS,Not yet.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41823,41823,41823,41823,209,MARTOK,How much time do we have before they are?,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41824,41824,41824,41824,210,ROSS,"Two, maybe three days.",33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41825,41825,41825,41825,211,LETANT,"It would appear that your ""weak spot"" is about to get a lot stronger.",33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41826,41826,41826,41826,212,MARTOK,Leave it to a Romulan to run at the first sign of trouble.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41827,41827,41827,41827,213,LETANT,And leave it to a Klingon to leap to the wrong conclusion. The Romulan Empire has agreed to join the invasion of Cardassia and we live up to our agreements. The question is: can we launch an invasion before their defensive grid is activated?,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41828,41828,41828,41828,214,MARTOK,We'll have to leave first thing in the morning.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41829,41829,41829,41829,215,ROSS,"Then it's settled. Good luck, General. Good luck to us all.",33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.8957
+41830,41830,41830,41830,216,LETANT,Romulans don't believe in luck.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,-0.357
+41831,41831,41831,41831,217,MARTOK,All the better. That leaves more for the rest of us.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.4404
+41832,41832,41832,41832,218,ROSS,"You've been quiet, Ben. Those weapon platforms have you worried?",33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41833,41833,41833,41833,219,SISKO,"It's not that, sir. It's about the Prophets -- the wormhole aliens. They spoke to me last night.",33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41834,41834,41834,41834,220,ROSS,I hope they gave the mission their blessing.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41835,41835,41835,41835,221,SISKO,They told me not to go to Cardassia -- that I should stay here.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41836,41836,41836,41836,222,ROSS,Did they give a reason?,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41837,41837,41837,41837,223,SISKO,Nothing concrete. Just that it would be dangekous.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41838,41838,41838,41838,224,ROSS,In what way? Dangerous to you? To the mission? To Bajor?,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41839,41839,41839,41839,225,SISKO,I'm not sure.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41840,41840,41840,41840,226,ROSS,"(cutting to the chase) Then what are you telling me, Ben? You want permission to stay behind?",33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41841,41841,41841,41841,227,SISKO,It's not about what I want. It's about what the Prophets want.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41842,41842,41842,41842,228,ROSS,That's not a good enough answer. Not from a Starfleet captain.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41843,41843,41843,41843,229,SISKO,The Prophets don't see me as a Starfleet Captain -- they see me as their Emissary.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41844,41844,41844,41844,230,ROSS,"That's the problem, isn't it? For the past six years, you've tried to be both. And up to now, I've been patient... I've indulged you... I've gone out on a limb for you many times. But this is it. You have to make a decision. You're either the Emissary or a Starfleet captain -- you can't be both.",33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41845,41845,41845,41845,231,SISKO,I'll be on the Bridge of the Defiant at oh-five hundred.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41846,41846,41846,41846,232,ROSS,Good.,33   INT. WARDROOM,WARDROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41847,41847,41847,41847,233,DAMAR,A combined fleet at Deep Space Nine?,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41848,41848,41848,41848,234,WEYOUN,"Composed of Federation, Klingon and Romulan ships!",35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41849,41849,41849,41849,235,DAMAR,You think they'll head for the Chin'toka System?,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41850,41850,41850,41850,236,WEYOUN,I would.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41851,41851,41851,41851,237,DAMAR,Then we have nothing to worry about. The Weapon Platforms will be operational in time to greet them.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41852,41852,41852,41852,238,WEYOUN,That's a very comforting thought... if it's accurate.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41853,41853,41853,41853,239,DAMAR,I'll make sure it is.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41854,41854,41854,41854,240,DUKAT ,Gentlemen --,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41855,41855,41855,41855,241,DUKAT,I hope I'm not interrupting.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41856,41856,41856,41856,242,WEYOUN,"What is it now, Dukat?",35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41857,41857,41857,41857,243,DUKAT,I found it.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41858,41858,41858,41858,244,DUKAT,Behold -- the key to victory.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41859,41859,41859,41859,245,DUKAT,I see you remain skeptical. You won't for long.,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41860,41860,41860,41860,246,DUKAT,"Over the last few months, I've immersed myself in the study of the Bajoran Ancient Texts. And I've come to realize that the wormhole is much more than just a gateway to the Gamma Quadrant. It's the Temple of the Prophets. It's from there that they smile benevolently down on Bajor. It's from there that they protect that world and its people. The sad truth is, we wasted our time fighting the Bajorans when we should've been fighting their gods.",35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41861,41861,41861,41861,247,DAMAR,How do you fight a god?,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41862,41862,41862,41862,248,DUKAT,"I'll show you. You see, we have an ally we never knew we had. You may want to take a few steps back.",35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41863,41863,41863,41863,249,DUKAT,"Dorrah tolka bretri pah'rahn, meedor. Dorrah tolka ullkess pah'rahn.",35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41864,41864,41864,41864,250,DAMAR,Dukat --,35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41865,41865,41865,41865,251,DUKAT/PAH-WRAITH,"Your concern is touching, but unnecessary.",35   INT. DOMINION BRIEFING ROOM,DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41866,41866,41866,41866,252,KIRA,Busy?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41867,41867,41867,41867,253,ODO,A little.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41868,41868,41868,41868,254,KIRA,I'll be leaving with the task force first thing in the morning.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41869,41869,41869,41869,255,ODO,I heard.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41870,41870,41870,41870,256,KIRA,And... ?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41871,41871,41871,41871,257,ODO,"And I'm sorry I arrested him. I was simply trying to do my duty, but I can see how it might've seemed excessive...",40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41872,41872,41872,41872,258,KIRA,What are you talking about?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41873,41873,41873,41873,259,ODO,Vedek Solis. Isn't that why you're here?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41874,41874,41874,41874,260,KIRA,"No, but now I know why you've been avoiding me these last few days.",40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41875,41875,41875,41875,261,ODO,I haven't been avoiding you. I've been helping you avoid me.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41876,41876,41876,41876,262,KIRA,Why would I want to do that?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41877,41877,41877,41877,263,ODO,Because... you don't want us to be together anymore?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41878,41878,41878,41878,264,KIRA,Is that what you've been thinking? Odo -- we had an argument. People have them all the time. Look at Worf and Dax -- they love each other and they fight all the time.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41879,41879,41879,41879,265,ODO,Are you saying you love me?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41880,41880,41880,41880,266,KIRA,Don't try to change the subject.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41881,41881,41881,41881,267,ODO,Which is?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41882,41882,41882,41882,268,KIRA,I don't even know anymore.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41883,41883,41883,41883,269,ODO,But you're no longer angry at me?,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41884,41884,41884,41884,270,KIRA,That's right. Though I still think you were wrong to arrest the Vedek.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41885,41885,41885,41885,271,ODO,I see.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41886,41886,41886,41886,272,KIRA,And I thought it'd be nice if we spent my last night on the station together.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41887,41887,41887,41887,273,ODO,That's a wonderful idea.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41888,41888,41888,41888,274,KIRA,Then I'll see you later.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41889,41889,41889,41889,275,ODO,I look forward to it.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41890,41890,41890,41890,276,KIRA,Good.,40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41891,41891,41891,41891,277,ODO,"You know, Nerys, observing humanoid relationships and being in one are very different things.",40   INT. SECURITY OFFICE ,SECURITY OFFICE ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41892,41892,41892,41892,278,O'BRIEN,"If you ask me, it's an ungodly hour to go to war. And you can quote me on that.",42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41893,41893,41893,41893,279,JAKE,I will.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41894,41894,41894,41894,280,O'BRIEN,"Do me a favor, Jadzia. Look in on Keiko and the kids while I'm gone.",42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41895,41895,41895,41895,281,DAX,You can count on it.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41896,41896,41896,41896,282,O'BRIEN,And make sure Julian stays out of trouble.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41897,41897,41897,41897,283,DAX,Now you're pushing...,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41898,41898,41898,41898,284,SISKO,"It's your station, old man.",42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41899,41899,41899,41899,285,DAX,I'll take good care of her.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41900,41900,41900,41900,286,DAX,Give my best to the Jem'Hadar.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41901,41901,41901,41901,287,KIRA,I'll do that. (looking to Worf and Dax) I said a prayer for the two of you at the shrine last night.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41902,41902,41902,41902,288,DAX,About having a baby?,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41903,41903,41903,41903,289,KIRA,Sometimes the Prophets can be helpful in these matters.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41904,41904,41904,41904,290,DAX,I hope they were listening.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41905,41905,41905,41905,291,DAX,You hear that? We have the Prophets on our side.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41906,41906,41906,41906,292,WORF,"According to Doctor Bashir, we could use all the help we can get.",42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41907,41907,41907,41907,293,DAX,"Just remember, when you get back, we have a lot of ""work"" to do.",42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41908,41908,41908,41908,294,WORF,"I do not consider that ""work.""",42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41909,41909,41909,41909,295,DAX,I wish I was going with you.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41910,41910,41910,41910,296,WORF,You are. In here.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41911,41911,41911,41911,297,DAX,I love it when you get romantic.,42   INT. AIRLOCK CORRIDOR ,AIRLOCK CORRIDOR ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41912,41912,41912,41912,298,O'BRIEN,You got here early.,43   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41913,41913,41913,41913,299,GARAK,This is a momentous occasion. It's not every day I embark on a journey to liberate my homeworld.,43   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41914,41914,41914,41914,300,O'BRIEN,That's one way to put it.,43   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41915,41915,41915,41915,301,MARTOK,"This is General Martok to all ships. Assume tactical formation, we're moving out.",43   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41916,41916,41916,41916,302,SISKO,"Take us to Cardassia, Mister Nog.",43   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41917,41917,41917,41917,303,NOG,"Aye, sir.",43   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41918,41918,41918,41918,304,DAMAR,The enemy fleet is approaching the Chin'toka System.,45   INT. DOMINION BRIEFING ROOM ,DOMINION BRIEFING ROOM ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41919,41919,41919,41919,305,WEYOUN,What's the status of our weapon platforms?,45   INT. DOMINION BRIEFING ROOM ,DOMINION BRIEFING ROOM ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41920,41920,41920,41920,306,DAMAR,Still off-line.,45   INT. DOMINION BRIEFING ROOM ,DOMINION BRIEFING ROOM ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41921,41921,41921,41921,307,WEYOUN,"It pains me to say this, but you Cardassians are proving to be quite a disappointment.",45   INT. DOMINION BRIEFING ROOM ,DOMINION BRIEFING ROOM ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41922,41922,41922,41922,308,DAMAR,(surprisingly confident) I'll remind you you said that.,45   INT. DOMINION BRIEFING ROOM ,DOMINION BRIEFING ROOM ,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41923,41923,41923,41923,309,O'BRIEN,"Looks like we're in luck, captain. The defensive grid's still off-line.",47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41924,41924,41924,41924,310,KIRA,"Jem'Hadar fighters approaching, bearing zero-five-nine mark zero- three-one.",47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41925,41925,41925,41925,311,NOG,They must know they don't stand a chance against a fleet this size.,47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41926,41926,41926,41926,312,WORF,That won't matter to the Jem'Hadar.,47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41927,41927,41927,41927,313,SISKO,"Sit down, Jake.",47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41928,41928,41928,41928,314,JAKE,Right.,47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41929,41929,41929,41929,315,MARTOK,Martok to Sisko.,47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41930,41930,41930,41930,316,SISKO,Go ahead.,47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41931,41931,41931,41931,317,MARTOK,My attack wing is closest to those Jem'Hadar fighters. We're preparing to engage them.,47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41932,41932,41932,41932,318,SISKO,"Good luck, general.",47   INT. DEFIANT - BRIDGE .,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41933,41933,41933,41933,319,NOG,I always knew the Jem'Hadar were crazy.,49   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41934,41934,41934,41934,320,GARAK,There's method to their madness. They're inflicting considerable damage on the Klingons.,49   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41935,41935,41935,41935,321,WORF,And buying time to get their Weapon Platforms operational.,49   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41936,41936,41936,41936,322,SISKO,Sisko to Martok.,49   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41937,41937,41937,41937,323,MARTOK,The Jem'Hadar have managed to cripple or destroy fifteen of my ships.,49   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41938,41938,41938,41938,324,SISKO,Do you need assistance?,49   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41939,41939,41939,41939,325,MARTOK,"No, that won't be necessary. Commence firing on the Weapon Platforms.",49   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41940,41940,41940,41940,326,DAMAR,I believe you owe me an apology.,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41941,41941,41941,41941,327,WEYOUN,(in a much better mood) I believe you're right.,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41942,41942,41942,41942,328,DAMAR,Now if Dukat can get our reinforcements through the wormhole...,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41943,41943,41943,41943,329,WEYOUN,I'm not sure how much faith I have in this -- what did he call it?,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41944,41944,41944,41944,330,DAMAR,A Pah-wraith.,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41945,41945,41945,41945,331,WEYOUN,Pah-wraiths and Prophets. All this talk of gods strikes me as nothing more than superstitious nonsense.,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41946,41946,41946,41946,332,DAMAR,"You believe that the Founders are gods, don't you?",53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41947,41947,41947,41947,333,WEYOUN,That's different.,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41948,41948,41948,41948,334,DAMAR,In what way?,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41949,41949,41949,41949,335,WEYOON,The Founders are gods.,53   INT. DOMINION BRIEFING ROOM (OPTICAL),DOMINION BRIEFING ROOM,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41950,41950,41950,41950,336,WORF,We're unable to penetrate their forcefields.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41951,41951,41951,41951,337,SISKO,Chief -- isolate their lower frequency shield harmonics. Find a way to punch through.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41952,41952,41952,41952,338,O'BRIEN,Their resonance modulations are fluctuating at an exponential rate. It'll take time to find a pattern we can lock onto.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41953,41953,41953,41953,339,SISKO,We don't have time.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41954,41954,41954,41954,340,GARAK,"Captain, I just noticed something odd about those platforms.",55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41955,41955,41955,41955,341,SISKO,"Don't keep it to yourself, Mister Garak.",55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41956,41956,41956,41956,342,GARAK,None of them seem to have a power generator on board.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41957,41957,41957,41957,343,O'BRIEN,He's right. Each one must be getting its power from a central source.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41958,41958,41958,41958,344,KIRA,We've got to find that source and destroy it.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41959,41959,41959,41959,345,SISKO,Chief --,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41960,41960,41960,41960,346,O'BRIEN,I'm on it.,55   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41961,41961,41961,41961,347,BASHIR,"According to the DNA scans I took this morning, the ovarian resequencing enzymes I've given you are working.",57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41962,41962,41962,41962,348,DAX,You mean Worf and I can have a baby?,57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41963,41963,41963,41963,349,BASHIR,"It looks that way. I have to say, I didn't expect such positive results so quickly. It's quite amazing, actually.",57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41964,41964,41964,41964,350,DAX,"Thank you, Julian.",57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41965,41965,41965,41965,351,BASHIR,It's all part of being a doctor.,57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41966,41966,41966,41966,352,DAX,"No, it's more than that. You're a good friend. You always have been.",57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41967,41967,41967,41967,353,BASHIR,(with genuine gallantry) And I always will be.,57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41968,41968,41968,41968,354,DAX,"I'd better get back to work... But first, I think I'll stop by the Bajoran shrine.",57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41969,41969,41969,41969,355,BASHIR,What for?,57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41970,41970,41970,41970,356,DAX,Kira said a prayer for Worf and me last night. She told the Prophets how much we wanted a baby.,57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41971,41971,41971,41971,357,BASHIR,"Then I'd say they were listening -- that is, if you believe in Prophets.",57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41972,41972,41972,41972,358,DAX,I do today.,57   INT. PROMENADE - SECOND LEVEL,PROMENAD,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41973,41973,41973,41973,359,DAX,I'm not sure if I'm doing this correctly... I don't come here a lot.,58   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41974,41974,41974,41974,360,DAX ,"To be honest, I'm more comfortable thinking of you as wormhole aliens. But Kira believes you're a lot more than that... Maybe she's right, I don't know. But if you are prophets, and you're listening to me right now... I just want to say --",58   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.5989
+41975,41975,41975,41975,361,DAX,Dukat?,58   INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41976,41976,41976,41976,362,KIRA,Captain --,65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41977,41977,41977,41977,363,JAKE,"Dad, what is it?",65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41978,41978,41978,41978,364,SISKO,I'm not sure... I think I felt the Prophets reaching out to me. Something's wrong...,65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41979,41979,41979,41979,365,O'BRIEN,"Sir, I found it. There's a subspace power generator on a small moon orbiting the far planet. It's transmitting energy to the weapon platforms.",65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41980,41980,41980,41980,366,O'BRIEN,Captain?,65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41981,41981,41981,41981,367,KIRA,"Take us there, Mister Nog.",65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41982,41982,41982,41982,368,NOG,"Aye, sir.",65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41983,41983,41983,41983,369,KIRA,You better get him to his quarters.,65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41984,41984,41984,41984,370,KIRA,"Don't worry, captain. We'll get the job done.",65B  INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41985,41985,41985,41985,371,DUKAT,"I know this must be of little comfort, but I never intended you any harm.",65C  INT. BAJORAN SHRINE,BAJORAN SHRINE,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41986,41986,41986,41986,372,KIRA,On screen.,69   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41987,41987,41987,41987,373,WORF,Target locked.,69   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41988,41988,41988,41988,374,KIRA,Fire.,69   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,-0.34
+41989,41989,41989,41989,375,WORF,We can't penetrate the moon's defense grid.,72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.128
+41990,41990,41990,41990,376,O'BRIEN,"Sir, I have an idea.",72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41991,41991,41991,41991,377,KIRA,Go ahead.,72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41992,41992,41992,41992,378,O'BRIEN,"Maybe we can't destroy that power generator, but I'd bet those Weapon Platforms could.",72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41993,41993,41993,41993,379,KIRA,Why would they fire on their own power source?,72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41994,41994,41994,41994,380,GARAK,We'd have to fool the platforms' targeting systems into thinking the generator is an enemy ship.,72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41995,41995,41995,41995,381,O'BRIEN,We can use our deflector array to imprint a Federation warp signature on the generator's energy matrix.,72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41996,41996,41996,41996,382,WORF,It's worth a try.,72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41997,41997,41997,41997,383,KIRA,"Evasive maneuvers, Mister Nog. Pattern Theta.",72   EXT. SPACE (OPTICAL) ,SPACE,EXT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41998,41998,41998,41998,384,O'BRIEN,Induction stabilizers set. Booster modulators synchronized. Ready to activate the deflector.,75   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
+41999,41999,41999,41999,385,KIRA,Do it.,75   INT. DEFIANT - BRIDGE,DEFIAN,INT.,Tears of the Prophets,1998-04-08,Deep Space Nine,550.txt,0.0
