@@ -18,6 +18,7 @@ from spacy.tokens import Doc
 import csv
 import altair as alt
 import joblib
+import os
 
 import search_engine as se # gets the search function
 import preprocess_functions as pp # gets the data preprocessing function
@@ -46,18 +47,39 @@ pn.extension(raw_css=['''.custom-button {
     }
     '''.replace('YYY',green)])
 
-# fucntions
+# functions, borrowed from break_it_up.ipynb
+def combine_csv_chunks(input_dir):
+    """
+    Recombines CSV chunks into a single CSV file.
+
+    Args:
+        input_dir (str): Directory containing CSV chunk files.
+        output_file (str): Path to save the recombined CSV file.
+    """
+    chunk_files = sorted(
+        [f for f in os.listdir(input_dir) if f.startswith("chunk_") and f.endswith(".csv")]
+    )
+
+    df_list = []
+    for chunk_file in chunk_files:
+        chunk_path = os.path.join(input_dir, chunk_file)
+        df = pd.read_csv(chunk_path,index_col=0)
+        df_list.append(df)
+        print(f"Loaded: {chunk_file}")
+
+    full_df = pd.concat(df_list, ignore_index=True)
+    return(full_df)
 
 
-# read in the complete data
-complete = pd.read_csv('complete_sentiment.csv',index_col=0)
+# read in the complete data with sentiment
+complete = combine_csv_chunks('sentiment_brokendown')
 # drop unneeded columns
 complete.drop(columns=['Unnamed: 0.1','Unnamed: 0'],inplace=True)
 # fill na characters
 complete['character'] = complete['character'].fillna('NA')
 
 # read in sentence embeddings
-embed_df = pd.read_csv('st_embeddings.csv',index_col=0)
+embed_df = combine_csv_chunks('embed_brokendown')
 # rename columns
 embed_df.columns = [f'embedding_{x}' for x in embed_df.columns]
 # get an index col for merging
@@ -67,44 +89,47 @@ embed_df=embed_df.reset_index()
 # instantiate the search engine & load data
 search_engine = se.search_engine(name='BM25 Engine',full_data=complete)
 search_engine.bulk_load(complete[['quote']].to_dict()['quote'])
-# to query, we need to do search_engine.bw_search(term,20,context=True)
 
 # globals
-# ranking = []
 results = None
 search_init = False
-# craines = pn.widgets.Button(name='Craines')
 
 # functions
 # search_results = []
-def search(keyword:str)->list:
+def search(keyword:str)->pd.DataFrame:
+    '''Searches the keyword returns
+
+    Input:
+        keyword: str, the term to query
+
+    Output:
+        pd.DataFrame, the ordered df of results
+    '''
+    # use globals
     global search_engine, embed_df, complete, pipeline, model, results, search_init
     search_init = True
+    # only want to edit copies
     copy_complete = complete.copy()
     copy_embed = embed_df.copy()
-    # start by setting the column
     # now start search
     q_results = search_engine.bw_search(keyword,20,context=True)
+    # format results
     results_df = pd.DataFrame(q_results)
     results_df.columns = ['index','bm25','prevbm25','nextbm25']
     print('We have 20 results')
     # start with merge data
     print('merging')
     merged = pp.merge_data(results_df,copy_complete,copy_embed)
-
     # get the feature engineering
     print('engineering')
     engineered = pp.feature_engineering(merged,copy_complete)
-    # for x in engineered.columns:
-    #     if 'embed' not in str(x):
-    #         print(x)
-    # print('\n')
+    # transform with columnar transform
     print('transforming')
     transformed = pipeline.transform(engineered)
     # now I can make predictions!
     print('predicting')
     preds = model.predict(transformed)
-    # add to data
+    # add predictions to data
     results_df['preds']=preds
     # rank
     results_df['rank']=results_df['preds'].rank(method='max')
@@ -113,10 +138,8 @@ def search(keyword:str)->list:
     print('finished searching')
     return results
 
-def pretty_print(event): # event
-    # global search_results, ranking, craines
-    # temp_open = pn.pane.Markdown('### Results')
-    # column = pn.Column(temp_open)
+def pretty_print(event):
+    '''Displays the results of the search engine by returning a column!'''
     global results, search_init
     print('starting printing')
     opening = pn.pane.Markdown('### Results')
@@ -134,24 +157,23 @@ def pretty_print(event): # event
 
 
 
-# Set Widget
+# Set Widgets
 text_input = pn.widgets.TextInput( placeholder='Try "candle"',width = 550)
 search_button = pn.widgets.Button(name='Search',css_classes=['custom-button'],
     button_type='light',button_style='outline', align="center")
-# bind
+
+# bind seach to fucntion
 search_button.on_click(lambda event: search(text_input.value)) # lambda x
 
+# set title
 title_text = pn.pane.Markdown('## A _Star Trek_ Search Engine that prioritizes humor', align="center")
 # Serve
 pn.template.MaterialTemplate(
     title="Ad Aspera per Data",
     main=pn.Column(title_text,
-    pn.Row(#pn.Spacer(sizing_mode="stretch_width"),
+    pn.Row(
         text_input,
         search_button
         ),
-    #pn.bind(pretty_print,search_button)),
     pn.bind(pretty_print,search_button.param.clicks))
-).servable() # The ; is needed in the notebook to not display the template. Its not needed in a script
-
-# should add character names to results
+).servable()
