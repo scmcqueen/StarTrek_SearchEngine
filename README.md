@@ -1,19 +1,19 @@
-# Ad Aspera Per Data
+# Ad Aspera Per Data ✨
 ## A Star Trek Search Engine
 Welcome to "Ad Aspera Per Data" an independent study into search engines and ML Ops. Started as a project for my SI 699: Big Data Mastery Course at the University of Michigan.
 
 You can run this application locally, or check out my [Hugging Face](https://huggingface.co/spaces/sklearnsorenqueen/startreksearchengine) page.
 
-### How to Run Application Locally
+### How to Run Application Locally 👩🏼‍💻
 1. Download the code or clone this repo
 2. Open up a terminal (cd to where the code is saved)
 3. Run "panel serve panel.py "
 4. Click 'allow' if you get a pop-up
 5. Navigate to [http://localhost:5006/panel](http://localhost:5006/panel) in your browser
 
-### Contents
+### Contents 📚
 
-## Code Overview
+#### Code Overview
 * break_it_up.ipynb: this file has the code to break down large files into smaller chunks.
 * panel.py: this file contains the code with the panel web app.
 * preprocess_functions.py: this file has the code for the functions that engineer the data features needed to run the model.
@@ -24,7 +24,7 @@ You can run this application locally, or check out my [Hugging Face](https://hug
 * Training_ML_Model.ipynb: this file is used to train the LambdaRank model.
 * visualizations.ipynb: the notebook used to generate my visualizations!
 
-## Files Overview
+#### Files Overview
 * complete_sentiment.csv: this file has the complete _Star Trek_ quote data including the sentiment!
 * data_preprocessing_pipieline: this stores the [sklearn column transformer](https://scikit-learn.org/stable/modules/generated/sklearn.compose.ColumnTransformer.html) needed to preprocess the data for the LambdaRank model.
 * Query_Templat.qsf: the template QSF file
@@ -34,14 +34,14 @@ You can run this application locally, or check out my [Hugging Face](https://hug
 * skyeler_ranking_data.csv: my ranking data formatted nicely
 * Star_Trek_Fillable.qsf: the qualtrics form file to be filled in.
 
-## Folders Overview
+#### Folders Overview
 * The dev_files folder has old files, that are not relevant
 * The embed_brokendown folder has the embeddings dataframe generated in sent_emb.ipynb broken into smaller chunks (which is done in break_it_up.ipynb).
 * The sentiment_brokendown folder has the sentiment dataframe generated in sent_emb.ipynb broken down into smaller chunks (which is done in break_it_up.ipynb).
 * The Evaluation folder has the qsf files and the results from the Qualtrics survey.
 * The images folder has different versions of saved charts. 
 
-### Data Access Statement
+### Data Access Statement 📊
 
 The ranking data generated during this project is publicly available in this repository in the Evaluation/Results folder,for personal use only.
 
